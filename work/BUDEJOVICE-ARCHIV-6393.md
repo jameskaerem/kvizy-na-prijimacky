@@ -27,6 +27,15 @@ Zkontrolováno všech 38 příloh (37 PDF a jeden DOC). Zadání byla porovnána
 | zsp_zsv-2_.kolo.pdf, zsp_zsv-2_kolo.pdf | Psychologie | 2024, 25–26 | Dříve pokryto |
 | zz_biologie.pdf | Biologie | 2024, 35–36 | Mízní orgány (608) |
 
-Nové otázky mají ID 601–608. Mezi dříve vyřazené položky patří nejednoznačné možnosti, chybné klíče a neověřené časově citlivé právní nebo klinické postupy.
+První kontrola přidala otázky 601–608. Při druhé kontrole bylo v 37 PDF napočítáno 450 zadání, z toho 266 různých znění po sjednocení velikosti písmen, diakritiky, mezer a interpunkce. Fyzikální DOC obsahuje dalších 10 zadání. Počet různých znění ještě zahrnuje významové duplicity a zadání už pokrytá předchozí bankou.
+
+| Další ID | Zadání a původ | Rozdíl proti stávající bance |
+|---|---|---|
+| 609 | Cortiho orgán, společná biologie 2019, úloha 6 | ID 272 ověřuje umístění hlemýždě; nový dotaz ověřuje název jeho smyslového orgánu. |
+| 610 | Jaterní žíly, společná biologie 2019, úloha 17 | ID 284 a 330 pokrývají přítok do jater. Doplněno vyústění odtoku do dolní duté žíly; původní zadání míchalo odtok ze střeva a jater. |
+| 611 | Zdroj glukagonu, zsp_biologie.pdf, úloha 10 a oborové obměny | ID 600 ověřuje účinek glukagonu. Doplněno místo jeho tvorby a vysvětlení role jaterního glykogenu. |
+| 612 | Frekvence stlačování hrudníku, intenzivni-pece.pdf, úloha 10 | Použitelnost potvrzují [doporučení ERC 2025 pro dospělé](https://www.erc.edu/media/wrhj5sye/gl2025-04-bls-e.pdf), na která se otázka výslovně odkazuje. |
+
+Celkem přibylo 12 otázek. Mezi vyřazené položky patří nejednoznačné možnosti, chybné klíče a časově citlivé právní nebo klinické postupy bez ověření.
 
 Doplňková kontrola: [tíhové zrychlení (BIPM)](https://www.bipm.org/en/committees/cg/cgpm/3-1901/resolution-2), [bodování GCS](https://www.glasgowcomascale.org/gcs-aid/), [krvetvorba (OpenStax)](https://openstax.org/books/anatomy-and-physiology/pages/18-2-production-of-the-formed-elements).

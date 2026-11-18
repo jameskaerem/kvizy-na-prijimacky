@@ -1,12 +1,12 @@
 # Studijní kvízy
 
-Verze 2.30.0 • 18. 11. 2026
+Verze 2.31.0 • 18. 11. 2026
 
-Somatologie (630), Biologie (900) a České Budějovice (608). Samostatný soubor HTML funguje offline. Všechny předměty mají chytré procvičování, opakování chyb a tipů a test celé sady.
+Somatologie (630), Biologie (900) a České Budějovice (612). Samostatný soubor HTML funguje offline. Všechny předměty mají chytré procvičování, opakování chyb a tipů a test celé sady.
 
 ## České Budějovice
 
-V záložce České Budějovice je devět tematických kvízů a volba Všechny otázky. Každý kvíz má vlastní rozpracované kolo. Pokrok po jednotlivých otázkách je společný a staré kolo zůstává dostupné pod Všechny otázky. Z 38 příloh archivu přibylo osm dosud nepokrytých otázek. Přiřazení příloh je v [auditu archivu](work/BUDEJOVICE-ARCHIV-6393.md).
+V záložce České Budějovice je devět tematických kvízů a volba Všechny otázky. Každý kvíz má vlastní rozpracované kolo. Pokrok po jednotlivých otázkách je společný a staré kolo zůstává dostupné pod Všechny otázky. Z 38 příloh archivu přibylo po dvou kontrolách dvanáct dosud nepokrytých otázek. Přiřazení příloh je v [auditu archivu](work/BUDEJOVICE-ARCHIV-6393.md).
 
 První dávka vychází ze souboru České Budějovice test 2019 oprava6.pdf. Dávka 51–100 dokončuje výběr ze všeobecné informovanosti 2019 a začíná biologii pro fyzioterapii 2020 ve sbírce České Budějovice TESTY 2019, 2021, 2022.pdf. Dávka 101–150 dokončuje výběr z biologie 2020 pro fyzioterapii a pokračuje všeobecnou informovaností téhož testového souboru. Dávka 151–200 zahrnuje závěr všeobecné informovanosti, motivační testy a další biologický test pro fyzioterapii 2020. Dávka 201–250 navazuje genetikou a oběma variantami všeobecné informovanosti pro fyzioterapii 2021. Dávka 251–300 zahrnuje ombudsmana a nové znalosti ze tří biologických testů 2021 pro fyzioterapii. Dávka 301–350 zahrnuje motivační testy 2021 pro fyzioterapii a biologii i všeobecnou informovanost 2019 pro radiologického asistenta. Dávka 351–400 zahrnuje odložené pojmy z roku 2021 a vybrané testy 2019 pro záchranáře a radiologické asistenty. Dávka 401–450 doplňuje sociologii, filozofii, dějiny a vybrané biologické pojmy ze sbírky 2019. Dávka 451–500 doplňuje anatomii a začíná ošetřovatelství, sociální práci a management z materiálu České Budějovice TESTY 2024 nové.pdf. Dávka 501–550 zahrnuje další anatomii, sociologii, informatiku, chemii a fyziku 2024. Dávka 551–600 uzavírá výběr ze všech pěti dodaných PDF včetně použitelných závěrečných poznámek. Duplicity nebyly přidávány opakovaně; chybné, nejednoznačné a neověřené časově citlivé položky jsou vyřazeny. Závěrečný audit je v work/BUDEJOVICE-AUDIT.md. Pokrytí a návaznost zaznamenává work/BUDEJOVICE.md. Nový klíč je budejovice-learning-v2.
 
