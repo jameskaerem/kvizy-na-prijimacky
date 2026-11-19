@@ -4,10 +4,10 @@ Značky: číslo je ID přímo souvisejícího kvízového zadání, **E** je po
 
 ## České Budějovice test 2019 oprava6.pdf
 
-- **PDF 1–6, biologie 1–50:** 1 · 2 · 3 · 4 · 5 · 6 · 7 · 8 · 9 · 10 · 11 · P12 · 13 · 14 · 15 · 16 · 17 · P18 · P19 · X:porod · 20 · 21 · 22 · 23 · X:imunita · 24 · 25 · 26 · 27 · 28 · 29 · X:dýchání · 30 · 31 · 32 · 33 · 34 · 35 · 36 · 37 · 38 · 39 · 40 · 41 · 42 · 43 · 44 · 45 · 46 · 47
-- **PDF 7–12, všeobecná informovanost 1–50:** 48 · 49 · 50 · 51 · 52 · 53 · 54 · 55 · 56 · 50 · 57 · 58 · 59 · 221 · 60 · 655 · 62 · X:logika · 63 · 64 · 65 · 66 · 67 · 68 · 69 · 70 · 71 · 562 · X:právo · X:právo · X:služby · 72 · 73 · 74 · 232 · 75 · 658 · 77 · 78 · 79 · 80 · 81 · X:právo · X:právo · 82 · 618 · X:právo · X:právo · 83 · 619
+- **PDF 1–6, biologie 1–50:** 1 · 2 · 3 · 4 · 5 · 6 · 7 · 8 · 9 · 10 · 11 · X:DNA · 13 · 14 · 15 · 16 · 17 · X:hormony · 19 · X:porod · 20 · 21 · 22 · 23 · X:imunita · 24 · 25 · 26 · 27 · 28 · 29 · X:dýchání · 30 · 31 · 32 · 33 · 34 · 35 · 36 · 37 · 38 · 39 · 40 · 41 · 42 · 43 · 44 · 45 · 46 · 47
+- **PDF 7–12, všeobecná informovanost 1–50:** 48 · 49 · 50 · 51 · 52 · 53 · 54 · 55 · 56 · 50 · 57 · 58 · 59 · 221 · 60 · 655 · 62 · X:logika · 63 · 64 · 65 · 66 · 67 · 68 · 69 · 70 · 71 · 562 · 682 · X:právo · X:služby · 72 · 73 · 74 · 232 · 75 · 658 · 77 · 78 · 79 · 80 · 81 · 631 · X:právo · 82 · 618 · 632 · 630 · 83 · 619
 
-Původní výjimky: porod zaměňuje časovou hranici a fyziologický průběh, imunita trávicího traktu v zadání není lokalizovaná jednoznačně a klíč k dýchacím cestám chybně vylučuje hltan. Hrtan a návaznost na hltan pokrývá 34, věcně odlišnou otázku na pohyb sousta 195. U logiky se překrývá klasifikace. Historické právní položky nejsou plošně převáděny a pořadí sociálních aplikací závisí na období. Ve znovu ověřených právních otázkách 618 a 619 je formulace zúžená podle [čl. 41 Ústavy](https://www.psp.cz/docs/laws/constitution.html) a [popisu činnosti Evropské komise](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_en).
+U výroků o DNA mají výjimku například zralé červené krvinky. Vaječník produkuje více látek podle fáze cyklu a způsobu členění, proto se jeho funkce v kvízu procvičuje na hlavních hormonech v otázce 18. Další výjimky zahrnují zadání k porodu, které zaměňuje časovou hranici a fyziologický průběh. Imunita trávicího traktu v zadání není lokalizovaná jednoznačně a klíč k dýchacím cestám chybně vylučuje hltan. Hrtan a návaznost na hltan pokrývá 34, věcně odlišnou otázku na pohyb sousta 195. U logiky se překrývá klasifikace. Historické právní položky nejsou plošně převáděny a pořadí sociálních aplikací závisí na období. Ve znovu ověřených právních otázkách 618 a 619 je formulace zúžená podle [čl. 41 Ústavy](https://www.psp.cz/docs/laws/constitution.html) a [popisu činnosti Evropské komise](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_en).
 
 ## České Budějovice TESTY 2024 nové.pdf
 
@@ -18,7 +18,7 @@ Původní výjimky: porod zaměňuje časovou hranici a fyziologický průběh, 
 | 5–6 | Intenzivní péče | Příloha 06 |
 | 7–8 | Interní ošetřovatelství | Příloha 07 |
 | 9–10 | Sociální práce | 488 · 489 · 490 · 620 · 491 · 492 · 488 · 493 · 494 · 495 |
-| 11–12 | Management | 496 · 559 · 497 · 498 · P498 · 499 · 500 · 500 · X:řízení · P500 |
+| 11–12 | Management | 496 · 559 · 497 · 498 · 680 · 499 · 500 · 500 · X:řízení · 681 |
 | 13–14 | Ochrana obyvatelstva · biologie | Příloha 14 |
 | 15–16 | Ochrana obyvatelstva · přehled | Příloha 13 |
 | 17–18 | Sociální práce · sociologie | Příloha 28 |
@@ -41,7 +41,7 @@ Původní výjimky: porod zaměňuje časovou hranici a fyziologický průběh, 
 | 69–70 | Fyzioterapie · přehled | Příloha 04 |
 | 71–72 | Rukopisné poznámky | Bez · spolehlivého · číslování. · Vybrané · pojmy · a · výpočty · v · ID · 571–585 · a · 591–592. · Neúplná · zadání · vyřazena. |
 
-U managementu je část o pracovních rolích, výběru a rozmístění zatím pokryta částečně. Určení jediného rozhodujícího subjektu závisí na organizaci, proto je úloha 9 vyřazena.
+Pracovní role, výběr a rozmístění pracovníků mají samostatné otázky 680, 500 a 681. Určení jediného rozhodujícího subjektu závisí na organizaci, proto je úloha 9 vyřazena.
 
 ## České Budějovice testy 2024 oprava6.pdf a České Budějovice testy 2024.pdf
 
@@ -57,14 +57,14 @@ U managementu je část o pracovních rolích, výběru a rozmístění zatím p
 
 | Stav | Počet | Význam |
 |---|---:|---|
-| Přiřazeno | 1 925 | Otázka v kvízu prověřuje hlavní znalost původní úlohy nebo odpovídá ověřené obměně. |
-| Ve vysvětlení | 33 | Znalost je uvedena ve vysvětlení odpovědi. |
-| Částečně | 111 | Otázka v kvízu prověřuje jen část znalosti nebo příbuzný pojem. |
-| Vyřazeno | 157 | Důvod je v soupisu, například nejednoznačný klíč nebo historicky podmíněné zadání. |
+| Přiřazeno | 2 008 | Otázka v kvízu prověřuje hlavní znalost původní úlohy nebo odpovídá ověřené obměně. |
+| Ve vysvětlení | 69 | Znalost je uvedena ve vysvětlení odpovědi. |
+| Částečně | 0 | Otázka v kvízu prověřuje jen část znalosti nebo příbuzný pojem. |
+| Vyřazeno | 149 | Důvod je v soupisu, například nejednoznačný klíč nebo historicky podmíněné zadání. |
 | Nepotvrzeno | 0 | Chybí doložená shoda nebo rozhodnutí o využitelnosti. |
 | **Celkem** | **2 226** | Součet číslovaných úloh včetně opakovaných sad. |
 
-Sada všeobecné informovanosti na PDF 120–122 končí úlohou 26, ačkoli nadpis slibuje 30 otázek. PDF 156 opakuje úlohy 36–45 předchozí sady a PDF 269 je prázdná strana. Součet tyto strany nezapočítává podruhé. Každá číslovaná úloha má stav v soupisu. U částečně pokrytých úloh zbývá posoudit, zda je potřeba doplnit další část znalosti. Součet se vztahuje k této sbírce.
+Sada všeobecné informovanosti na PDF 120–122 končí úlohou 26, ačkoli nadpis slibuje 30 otázek. PDF 156 opakuje úlohy 36–45 předchozí sady a PDF 269 je prázdná strana. Součet tyto strany nezapočítává podruhé. Každá číslovaná úloha má stav v soupisu. Všechna původně částečná přiřazení byla dořešena. U některých úloh kvíz ověřuje přesněji formulované jádro původního zadání nebo ho vysvětluje u související otázky. Součet se vztahuje k této sbírce.
 
 Otázky 621–628 doplňují krvetvornou kostní dřeň, demenci, územní samosprávu, náležitosti pracovní smlouvy, soustavu soudů, metodu Ludmily Mojžíšové, fyzioterapii po cévní mozkové příhodě a VIII. hlavový nerv.
 
@@ -96,3 +96,10 @@ Otázky 655–660 doplňují empatii v modelu emoční inteligence, vymezení eu
 - Emoční inteligence a praktické nauky. [Daniel Goleman](https://danielgolemanemotionalintelligence.com/wp-content/uploads/2024/08/DGEIC-CourseStructure.pdf), [Aristotelovo členění nauk](https://plato.stanford.edu/entries/aristotle/)
 - Vymezení eutanazie a diabetes 1. typu. [Vláda Nizozemska](https://www.government.nl/themes/family-health-and-care/euthanasia/is-euthanasia-allowed), [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-1-diabetes)
 - Výkon počítače a prvotní moč. [Intel](https://www.intel.com/content/www/us/en/learn/what-is-ram-vs-processor.html), [OpenStax](https://openstax.org/books/anatomy-and-physiology-2e/pages/25-5-physiology-of-urine-formation)
+
+Otázky 661–683 pokrývají další poznatky z fyziologie, anatomie, společenských věd, ošetřovatelství a managementu. Tam, kde stejný princip už testovala existující otázka, se doplnilo vysvětlení pod původním ID. Například u krevních skupin AB0 vysvětlení nyní uvádějí i úplné rozdělení možných výsledků křížení.
+
+- Mozkomíšní mok, míšní obaly, svaly, páteř a krvetvorba. [Anatomie mozkomíšního moku](https://www.ncbi.nlm.nih.gov/books/NBK470578/), [OpenStax: mícha a centrální nervová soustava](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-3-circulation-and-the-central-nervous-system), [kosterní sval](https://openstax.org/books/anatomy-and-physiology-2e/pages/10-2-skeletal-muscle), [páteř](https://openstax.org/books/anatomy-and-physiology-2e/pages/7-3-the-vertebral-column), [krvetvorba](https://openstax.org/books/anatomy-and-physiology-2e/pages/18-2-production-of-the-formed-elements)
+- Pohybové funkce, ledviny a trávicí soustava. [World Physiotherapy](https://world.physio/resources/glossary), [OpenStax: řízení pohybu](https://openstax.org/books/anatomy-and-physiology/pages/14-3-motor-responses), [ledviny](https://openstax.org/books/biology/pages/41-2-the-kidneys-and-osmoregulatory-organs), [žaludek](https://openstax.org/books/anatomy-and-physiology-2e/pages/23-4-the-stomach)
+- Poptávka, filozofie a objektivní právo. [OpenStax: tržní rovnováha](https://openstax.org/books/principles-economics-3e/pages/3-1-demand-supply-and-equilibrium-in-markets-for-goods-and-services), [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/presocratics/), [Právnická fakulta Masarykovy univerzity](https://is.muni.cz/el/law/podzim2020/BZ101Zk/um/Pravni_nauka_I.pdf)
+- Ambulantní péče, revers a celoživotní vzdělávání. [Zákon č. 372/2011 Sb., § 7 a § 34](https://e-sbirka.gov.cz/sb/2011/372/), [zákon č. 96/2004 Sb., § 53](https://e-sbirka.gov.cz/sb/2004/96?odkazId=212538573)

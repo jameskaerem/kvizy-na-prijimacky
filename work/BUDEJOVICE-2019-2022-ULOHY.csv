@@ -22,7 +22,7 @@
 1;7;Biologie 2020;21;přiřazeno;102;
 1;7;Biologie 2020;22;přiřazeno;30;
 1;7;Biologie 2020;23;přiřazeno;35;
-1;7;Biologie 2020;24;částečně;22;
+1;7;Biologie 2020;24;přiřazeno;670;
 1;7;Biologie 2020;25;přiřazeno;103;
 1;7;Biologie 2020;26;přiřazeno;104;
 1;7;Biologie 2020;27;přiřazeno;105;
@@ -43,7 +43,7 @@
 1;7;Biologie 2020;42;přiřazeno;117;
 1;7;Biologie 2020;43;přiřazeno;118;
 1;7;Biologie 2020;44;přiřazeno;119;
-1;7;Biologie 2020;45;částečně;119;
+1;7;Biologie 2020;45;ve vysvětlení;119;
 1;7;Biologie 2020;46;přiřazeno;120;
 1;7;Biologie 2020;47;přiřazeno;121;
 1;7;Biologie 2020;48;přiřazeno;122;
@@ -72,7 +72,7 @@
 8;14;Biologie 2020, druhý sken;21;přiřazeno;102;Stejné číslování jako PDF 1.
 8;14;Biologie 2020, druhý sken;22;přiřazeno;30;Stejné číslování jako PDF 1.
 8;14;Biologie 2020, druhý sken;23;přiřazeno;35;Stejné číslování jako PDF 1.
-8;14;Biologie 2020, druhý sken;24;částečně;22;Stejné číslování jako PDF 1.
+8;14;Biologie 2020, druhý sken;24;přiřazeno;670;Stejné číslování jako PDF 1.
 8;14;Biologie 2020, druhý sken;25;přiřazeno;103;Stejné číslování jako PDF 1.
 8;14;Biologie 2020, druhý sken;26;přiřazeno;104;Stejné číslování jako PDF 1.
 8;14;Biologie 2020, druhý sken;27;přiřazeno;105;Stejné číslování jako PDF 1.
@@ -93,7 +93,7 @@
 8;14;Biologie 2020, druhý sken;42;přiřazeno;117;Stejné číslování jako PDF 1.
 8;14;Biologie 2020, druhý sken;43;přiřazeno;118;Stejné číslování jako PDF 1.
 8;14;Biologie 2020, druhý sken;44;přiřazeno;119;Stejné číslování jako PDF 1.
-8;14;Biologie 2020, druhý sken;45;částečně;119;Stejné číslování jako PDF 1.
+8;14;Biologie 2020, druhý sken;45;ve vysvětlení;119;Stejné číslování jako PDF 1.
 8;14;Biologie 2020, druhý sken;46;přiřazeno;120;Stejné číslování jako PDF 1.
 8;14;Biologie 2020, druhý sken;47;přiřazeno;121;Stejné číslování jako PDF 1.
 8;14;Biologie 2020, druhý sken;48;přiřazeno;122;Stejné číslování jako PDF 1.
@@ -204,11 +204,11 @@
 27;30;Motivační test 2020;3;přiřazeno;156;
 27;30;Motivační test 2020;4;přiřazeno;157;
 27;30;Motivační test 2020;5;přiřazeno;158;
-27;30;Motivační test 2020;6;částečně;320;
+27;30;Motivační test 2020;6;vyřazeno;;Bez vymezení roztoku a postupu nelze určit jedinou disociující sůl
 27;30;Motivační test 2020;7;přiřazeno;159;
 27;30;Motivační test 2020;8;vyřazeno;;Záleží na programu a popisu studia
 27;30;Motivační test 2020;9;přiřazeno;160;
-27;30;Motivační test 2020;10;částečně;583;
+27;30;Motivační test 2020;10;ve vysvětlení;654;
 27;30;Motivační test 2020;11;přiřazeno;161;
 27;30;Motivační test 2020;12;přiřazeno;162;
 27;30;Motivační test 2020;13;přiřazeno;163;
@@ -219,26 +219,26 @@
 27;30;Motivační test 2020;18;přiřazeno;167;
 27;30;Motivační test 2020;19;přiřazeno;626;
 27;30;Motivační test 2020;20;přiřazeno;168;
-27;30;Motivační test 2020;21;částečně;156;
+27;30;Motivační test 2020;21;přiřazeno;654;
 27;30;Motivační test 2020;22;přiřazeno;169;
 27;30;Motivační test 2020;23;přiřazeno;170;
 27;30;Motivační test 2020;24;přiřazeno;627;
 27;30;Motivační test 2020;25;přiřazeno;170;
 27;30;Motivační test 2020;26;přiřazeno;171;
 27;30;Motivační test 2020;27;přiřazeno;172;
-27;30;Motivační test 2020;28;částečně;197;
+27;30;Motivační test 2020;28;přiřazeno;671;
 27;30;Motivační test 2020;29;přiřazeno;173;
-27;30;Motivační test 2020;30;částečně;591;
+27;30;Motivační test 2020;30;vyřazeno;;Časově podmíněné tvrzení o aktuálních osobnostech oboru
 31;34;Motivační test 2020, druhý sken;1;přiřazeno;155;Stejné číslování jako PDF 27.
 31;34;Motivační test 2020, druhý sken;2;vyřazeno;;Stejné číslování jako PDF 27. Subjektivní kombinace osobnostních předpokladů
 31;34;Motivační test 2020, druhý sken;3;přiřazeno;156;Stejné číslování jako PDF 27.
 31;34;Motivační test 2020, druhý sken;4;přiřazeno;157;Stejné číslování jako PDF 27.
 31;34;Motivační test 2020, druhý sken;5;přiřazeno;158;Stejné číslování jako PDF 27.
-31;34;Motivační test 2020, druhý sken;6;částečně;320;Stejné číslování jako PDF 27.
+31;34;Motivační test 2020, druhý sken;6;vyřazeno;;Stejné číslování jako PDF 27. Bez vymezení roztoku a postupu nelze určit jedinou disociující sůl
 31;34;Motivační test 2020, druhý sken;7;přiřazeno;159;Stejné číslování jako PDF 27.
 31;34;Motivační test 2020, druhý sken;8;vyřazeno;;Stejné číslování jako PDF 27. Záleží na programu a popisu studia
 31;34;Motivační test 2020, druhý sken;9;přiřazeno;160;Stejné číslování jako PDF 27.
-31;34;Motivační test 2020, druhý sken;10;částečně;583;Stejné číslování jako PDF 27.
+31;34;Motivační test 2020, druhý sken;10;ve vysvětlení;654;Stejné číslování jako PDF 27.
 31;34;Motivační test 2020, druhý sken;11;přiřazeno;161;Stejné číslování jako PDF 27.
 31;34;Motivační test 2020, druhý sken;12;přiřazeno;162;Stejné číslování jako PDF 27.
 31;34;Motivační test 2020, druhý sken;13;přiřazeno;163;Stejné číslování jako PDF 27.
@@ -249,27 +249,27 @@
 31;34;Motivační test 2020, druhý sken;18;přiřazeno;167;Stejné číslování jako PDF 27.
 31;34;Motivační test 2020, druhý sken;19;přiřazeno;626;Stejné číslování jako PDF 27.
 31;34;Motivační test 2020, druhý sken;20;přiřazeno;168;Stejné číslování jako PDF 27.
-31;34;Motivační test 2020, druhý sken;21;částečně;156;Stejné číslování jako PDF 27.
+31;34;Motivační test 2020, druhý sken;21;přiřazeno;654;Stejné číslování jako PDF 27.
 31;34;Motivační test 2020, druhý sken;22;přiřazeno;169;Stejné číslování jako PDF 27.
 31;34;Motivační test 2020, druhý sken;23;přiřazeno;170;Stejné číslování jako PDF 27.
 31;34;Motivační test 2020, druhý sken;24;přiřazeno;627;Stejné číslování jako PDF 27.
 31;34;Motivační test 2020, druhý sken;25;přiřazeno;170;Stejné číslování jako PDF 27.
 31;34;Motivační test 2020, druhý sken;26;přiřazeno;171;Stejné číslování jako PDF 27.
 31;34;Motivační test 2020, druhý sken;27;přiřazeno;172;Stejné číslování jako PDF 27.
-31;34;Motivační test 2020, druhý sken;28;částečně;197;Stejné číslování jako PDF 27.
+31;34;Motivační test 2020, druhý sken;28;přiřazeno;671;Stejné číslování jako PDF 27.
 31;34;Motivační test 2020, druhý sken;29;přiřazeno;173;Stejné číslování jako PDF 27.
-31;34;Motivační test 2020, druhý sken;30;částečně;591;Stejné číslování jako PDF 27.
+31;34;Motivační test 2020, druhý sken;30;vyřazeno;;Stejné číslování jako PDF 27. Časově podmíněné tvrzení o aktuálních osobnostech oboru
 35;38;Motivační test 2020, další varianta;1;přiřazeno;170;
 35;38;Motivační test 2020, další varianta;2;přiřazeno;326;
-35;38;Motivační test 2020, další varianta;3;částečně;197;
-35;38;Motivační test 2020, další varianta;4;částečně;591;
-35;38;Motivační test 2020, další varianta;5;částečně;66;
+35;38;Motivační test 2020, další varianta;3;přiřazeno;671;
+35;38;Motivační test 2020, další varianta;4;vyřazeno;;Časově podmíněné tvrzení o aktuálních osobnostech oboru
+35;38;Motivační test 2020, další varianta;5;přiřazeno;303;
 35;38;Motivační test 2020, další varianta;6;přiřazeno;174;
 35;38;Motivační test 2020, další varianta;7;přiřazeno;170;
-35;38;Motivační test 2020, další varianta;8;částečně;316;
+35;38;Motivační test 2020, další varianta;8;přiřazeno;654;
 35;38;Motivační test 2020, další varianta;9;přiřazeno;175;
 35;38;Motivační test 2020, další varianta;10;přiřazeno;171;
-35;38;Motivační test 2020, další varianta;11;vyřazeno;;Zadání vyžaduje aktuální právní ověření
+35;38;Motivační test 2020, další varianta;11;přiřazeno;683;
 35;38;Motivační test 2020, další varianta;12;přiřazeno;176;
 35;38;Motivační test 2020, další varianta;13;přiřazeno;177;
 35;38;Motivační test 2020, další varianta;14;přiřazeno;160;
@@ -283,8 +283,8 @@
 35;38;Motivační test 2020, další varianta;22;přiřazeno;156;
 35;38;Motivační test 2020, další varianta;23;vyřazeno;;Příliš obecný popis odborné způsobilosti
 35;38;Motivační test 2020, další varianta;24;přiřazeno;173;
-35;38;Motivační test 2020, další varianta;25;částečně;197;
-35;38;Motivační test 2020, další varianta;26;částečně;320;
+35;38;Motivační test 2020, další varianta;25;přiřazeno;678;
+35;38;Motivační test 2020, další varianta;26;vyřazeno;;Bez vymezení roztoku a postupu nelze určit jedinou disociující sůl
 35;38;Motivační test 2020, další varianta;27;přiřazeno;161;
 35;38;Motivační test 2020, další varianta;28;přiřazeno;168;
 35;38;Motivační test 2020, další varianta;29;přiřazeno;627;
@@ -318,13 +318,13 @@
 39;45;Biologie 2020, další varianta;27;přiřazeno;30;
 39;45;Biologie 2020, další varianta;28;přiřazeno;196;
 39;45;Biologie 2020, další varianta;29;ve vysvětlení;47;
-39;45;Biologie 2020, další varianta;30;částečně;109;
+39;45;Biologie 2020, další varianta;30;ve vysvětlení;109;
 39;45;Biologie 2020, další varianta;31;přiřazeno;197;
 39;45;Biologie 2020, další varianta;32;přiřazeno;198;
 39;45;Biologie 2020, další varianta;33;přiřazeno;199;
 39;45;Biologie 2020, další varianta;34;přiřazeno;200;
 39;45;Biologie 2020, další varianta;35;přiřazeno;594;
-39;45;Biologie 2020, další varianta;36;částečně;113;
+39;45;Biologie 2020, další varianta;36;ve vysvětlení;113;
 39;45;Biologie 2020, další varianta;37;přiřazeno;637;
 39;45;Biologie 2020, další varianta;38;přiřazeno;201;
 39;45;Biologie 2020, další varianta;39;ve vysvětlení;202;
@@ -332,14 +332,14 @@
 39;45;Biologie 2020, další varianta;41;přiřazeno;203;
 39;45;Biologie 2020, další varianta;42;přiřazeno;203;
 39;45;Biologie 2020, další varianta;43;přiřazeno;204;
-39;45;Biologie 2020, další varianta;44;částečně;119;
+39;45;Biologie 2020, další varianta;44;ve vysvětlení;119;
 39;45;Biologie 2020, další varianta;45;přiřazeno;205;
 39;45;Biologie 2020, další varianta;46;přiřazeno;206;
 39;45;Biologie 2020, další varianta;47;přiřazeno;121;
-39;45;Biologie 2020, další varianta;48;částečně;207;
+39;45;Biologie 2020, další varianta;48;přiřazeno;207;
 39;45;Biologie 2020, další varianta;49;vyřazeno;;Zadání je na konci strany uříznuté
 39;45;Biologie 2020, další varianta;50;přiřazeno;207;
-46;51;Všeobecná informovanost 2021 v2;1;částečně;75;
+46;51;Všeobecná informovanost 2021 v2;1;přiřazeno;677;
 46;51;Všeobecná informovanost 2021 v2;2;přiřazeno;208;
 46;51;Všeobecná informovanost 2021 v2;3;vyřazeno;;Vznik filozofie nelze spolehlivě přiřadit jediné univerzální situaci
 46;51;Všeobecná informovanost 2021 v2;4;přiřazeno;209;
@@ -373,7 +373,7 @@
 46;51;Všeobecná informovanost 2021 v2;32;přiřazeno;131;
 46;51;Všeobecná informovanost 2021 v2;33;přiřazeno;511;
 46;51;Všeobecná informovanost 2021 v2;34;přiřazeno;221;
-46;51;Všeobecná informovanost 2021 v2;35;částečně;130;
+46;51;Všeobecná informovanost 2021 v2;35;ve vysvětlení;130;
 46;51;Všeobecná informovanost 2021 v2;36;přiřazeno;135;
 46;51;Všeobecná informovanost 2021 v2;37;přiřazeno;130;
 46;51;Všeobecná informovanost 2021 v2;38;přiřazeno;62;
@@ -398,16 +398,16 @@
 52;57;Všeobecná informovanost 2021 v1;7;přiřazeno;231;
 52;57;Všeobecná informovanost 2021 v1;8;přiřazeno;232;
 52;57;Všeobecná informovanost 2021 v1;9;přiřazeno;351;
-52;57;Všeobecná informovanost 2021 v1;10;částečně;126;
+52;57;Všeobecná informovanost 2021 v1;10;přiřazeno;672;
 52;57;Všeobecná informovanost 2021 v1;11;přiřazeno;233;
 52;57;Všeobecná informovanost 2021 v1;12;přiřazeno;234;
 52;57;Všeobecná informovanost 2021 v1;13;přiřazeno;235;
 52;57;Všeobecná informovanost 2021 v1;14;přiřazeno;236;
 52;57;Všeobecná informovanost 2021 v1;15;vyřazeno;;Právní otázka vyžaduje ověřenou formulaci
 52;57;Všeobecná informovanost 2021 v1;16;přiřazeno;69;
-52;57;Všeobecná informovanost 2021 v1;17;vyřazeno;;Právní otázka vyžaduje ověřenou formulaci
+52;57;Všeobecná informovanost 2021 v1;17;přiřazeno;682;
 52;57;Všeobecná informovanost 2021 v1;18;přiřazeno;237;
-52;57;Všeobecná informovanost 2021 v1;19;částečně;148;
+52;57;Všeobecná informovanost 2021 v1;19;přiřazeno;664;
 52;57;Všeobecná informovanost 2021 v1;20;přiřazeno;238;
 52;57;Všeobecná informovanost 2021 v1;21;vyřazeno;;Zdravotněprávní otázka vyžaduje ověřenou formulaci
 52;57;Všeobecná informovanost 2021 v1;22;přiřazeno;239;
@@ -418,12 +418,12 @@
 52;57;Všeobecná informovanost 2021 v1;27;přiřazeno;241;
 52;57;Všeobecná informovanost 2021 v1;28;přiřazeno;392;
 52;57;Všeobecná informovanost 2021 v1;29;přiřazeno;242;
-52;57;Všeobecná informovanost 2021 v1;30;částečně;220;
+52;57;Všeobecná informovanost 2021 v1;30;přiřazeno;673;
 52;57;Všeobecná informovanost 2021 v1;31;vyřazeno;;Dorozumívání i sdělování jsou obhajitelná vyjádření
 52;57;Všeobecná informovanost 2021 v1;32;přiřazeno;150;
 52;57;Všeobecná informovanost 2021 v1;33;přiřazeno;243;
 52;57;Všeobecná informovanost 2021 v1;34;přiřazeno;63;
-52;57;Všeobecná informovanost 2021 v1;35;částečně;130;
+52;57;Všeobecná informovanost 2021 v1;35;ve vysvětlení;130;
 52;57;Všeobecná informovanost 2021 v1;36;vyřazeno;;Paušální historické hodnocení směrů
 52;57;Všeobecná informovanost 2021 v1;37;přiřazeno;244;
 52;57;Všeobecná informovanost 2021 v1;38;přiřazeno;245;
@@ -439,7 +439,7 @@
 52;57;Všeobecná informovanost 2021 v1;48;přiřazeno;250;
 52;57;Všeobecná informovanost 2021 v1;49;přiřazeno;251;
 52;57;Všeobecná informovanost 2021 v1;50;přiřazeno;141;
-58;63;Biologie 2021 v1;1;částečně;396;
+58;63;Biologie 2021 v1;1;přiřazeno;663;
 58;63;Biologie 2021 v1;2;přiřazeno;185;
 58;63;Biologie 2021 v1;3;přiřazeno;186;
 58;63;Biologie 2021 v1;4;přiřazeno;90;
@@ -501,8 +501,8 @@
 64;69;Biologie 2021 v2;10;přiřazeno;102;
 64;69;Biologie 2021 v2;11;přiřazeno;103;
 64;69;Biologie 2021 v2;12;přiřazeno;106;
-64;69;Biologie 2021 v2;13;částečně;107;
-64;69;Biologie 2021 v2;14;částečně;109;
+64;69;Biologie 2021 v2;13;ve vysvětlení;107;
+64;69;Biologie 2021 v2;14;ve vysvětlení;109;
 64;69;Biologie 2021 v2;15;přiřazeno;199;
 64;69;Biologie 2021 v2;16;přiřazeno;460;
 64;69;Biologie 2021 v2;17;přiřazeno;255;
@@ -543,12 +543,12 @@
 70;75;Biologie 2021 v3;2;přiřazeno;88;
 70;75;Biologie 2021 v3;3;přiřazeno;90;
 70;75;Biologie 2021 v3;4;přiřazeno;188;
-70;75;Biologie 2021 v3;5;částečně;189;
+70;75;Biologie 2021 v3;5;přiřazeno;667;
 70;75;Biologie 2021 v3;6;přiřazeno;94;
 70;75;Biologie 2021 v3;7;přiřazeno;252;
 70;75;Biologie 2021 v3;8;přiřazeno;25;
 70;75;Biologie 2021 v3;9;přiřazeno;99;
-70;75;Biologie 2021 v3;10;částečně;22;
+70;75;Biologie 2021 v3;10;přiřazeno;670;
 70;75;Biologie 2021 v3;11;přiřazeno;103;
 70;75;Biologie 2021 v3;12;přiřazeno;30;
 70;75;Biologie 2021 v3;13;přiřazeno;196;
@@ -559,7 +559,7 @@
 70;75;Biologie 2021 v3;18;přiřazeno;198;
 70;75;Biologie 2021 v3;19;ve vysvětlení;267;
 70;75;Biologie 2021 v3;20;přiřazeno;279;
-70;75;Biologie 2021 v3;21;částečně;621;
+70;75;Biologie 2021 v3;21;přiřazeno;668;
 70;75;Biologie 2021 v3;22;přiřazeno;289;
 70;75;Biologie 2021 v3;23;přiřazeno;372;
 70;75;Biologie 2021 v3;24;přiřazeno;261;
@@ -578,7 +578,7 @@
 70;75;Biologie 2021 v3;37;přiřazeno;287;
 70;75;Biologie 2021 v3;38;přiřazeno;319;
 70;75;Biologie 2021 v3;39;přiřazeno;268;
-70;75;Biologie 2021 v3;40;částečně;608;
+70;75;Biologie 2021 v3;40;přiřazeno;665;
 70;75;Biologie 2021 v3;41;přiřazeno;289;
 70;75;Biologie 2021 v3;42;přiřazeno;295;
 70;75;Biologie 2021 v3;43;přiřazeno;296;
@@ -612,9 +612,9 @@
 76;79;Motivační test 2021 v3;21;přiřazeno;179;
 76;79;Motivační test 2021 v3;22;vyřazeno;;Paušální zákaz invazivních metod
 76;79;Motivační test 2021 v3;23;přiřazeno;168;
-76;79;Motivační test 2021 v3;24;částečně;173;
+76;79;Motivační test 2021 v3;24;ve vysvětlení;173;
 76;79;Motivační test 2021 v3;25;přiřazeno;627;
-76;79;Motivační test 2021 v3;26;částečně;109;
+76;79;Motivační test 2021 v3;26;přiřazeno;678;
 76;79;Motivační test 2021 v3;27;přiřazeno;654;
 76;79;Motivační test 2021 v3;28;ve vysvětlení;654;
 76;79;Motivační test 2021 v3;29;přiřazeno;316;
@@ -629,7 +629,7 @@
 80;85;Všeobecná informovanost 2021 v3;8;přiřazeno;236;
 80;85;Všeobecná informovanost 2021 v3;9;vyřazeno;;Právní otázka vyžaduje ověřenou formulaci
 80;85;Všeobecná informovanost 2021 v3;10;přiřazeno;69;
-80;85;Všeobecná informovanost 2021 v3;11;vyřazeno;;Právní otázka vyžaduje ověřenou formulaci
+80;85;Všeobecná informovanost 2021 v3;11;přiřazeno;682;
 80;85;Všeobecná informovanost 2021 v3;12;přiřazeno;238;
 80;85;Všeobecná informovanost 2021 v3;13;vyřazeno;;Zdravotněprávní otázka vyžaduje ověřenou formulaci
 80;85;Všeobecná informovanost 2021 v3;14;přiřazeno;566;
@@ -637,7 +637,7 @@
 80;85;Všeobecná informovanost 2021 v3;16;přiřazeno;128;
 80;85;Všeobecná informovanost 2021 v3;17;přiřazeno;240;
 80;85;Všeobecná informovanost 2021 v3;18;přiřazeno;392;
-80;85;Všeobecná informovanost 2021 v3;19;částečně;220;
+80;85;Všeobecná informovanost 2021 v3;19;přiřazeno;673;
 80;85;Všeobecná informovanost 2021 v3;20;přiřazeno;150;
 80;85;Všeobecná informovanost 2021 v3;21;přiřazeno;63;
 80;85;Všeobecná informovanost 2021 v3;22;vyřazeno;;Obecný vztah literárního směru k tématu mravní svobody
@@ -663,7 +663,7 @@
 80;85;Všeobecná informovanost 2021 v3;42;přiřazeno;623;
 80;85;Všeobecná informovanost 2021 v3;43;přiřazeno;137;
 80;85;Všeobecná informovanost 2021 v3;44;přiřazeno;131;
-80;85;Všeobecná informovanost 2021 v3;45;částečně;130;
+80;85;Všeobecná informovanost 2021 v3;45;ve vysvětlení;130;
 80;85;Všeobecná informovanost 2021 v3;46;přiřazeno;62;
 80;85;Všeobecná informovanost 2021 v3;47;přiřazeno;58;
 80;85;Všeobecná informovanost 2021 v3;48;přiřazeno;226;
@@ -673,7 +673,7 @@
 86;89;Motivační test 2021 v1;2;přiřazeno;317;
 86;89;Motivační test 2021 v1;3;přiřazeno;303;
 86;89;Motivační test 2021 v1;4;vyřazeno;;Zadání mísí vznik švédské gymnastiky s atribucí masáže a rozporným datováním
-86;89;Motivační test 2021 v1;5;částečně;304;
+86;89;Motivační test 2021 v1;5;přiřazeno;676;
 86;89;Motivační test 2021 v1;6;přiřazeno;306;
 86;89;Motivační test 2021 v1;7;přiřazeno;308;
 86;89;Motivační test 2021 v1;8;vyřazeno;;Kontraindikace závisí na konkrétní metodě a druhu implantátu
@@ -694,11 +694,11 @@
 86;89;Motivační test 2021 v1;23;vyřazeno;;Paušální zákaz invazivních metod
 86;89;Motivační test 2021 v1;24;přiřazeno;182;
 86;89;Motivační test 2021 v1;25;přiřazeno;168;
-86;89;Motivační test 2021 v1;26;částečně;169;
-86;89;Motivační test 2021 v1;27;částečně;173;
+86;89;Motivační test 2021 v1;26;ve vysvětlení;169;
+86;89;Motivační test 2021 v1;27;ve vysvětlení;173;
 86;89;Motivační test 2021 v1;28;přiřazeno;627;
 86;89;Motivační test 2021 v1;29;přiřazeno;654;
-86;89;Motivační test 2021 v1;30;částečně;316;
+86;89;Motivační test 2021 v1;30;vyřazeno;;Zadání nestanovuje kritérium nejdůležitějšího předpokladu
 90;93;Motivační test 2021 v2;1;přiřazeno;171;
 90;93;Motivační test 2021 v2;2;přiřazeno;156;
 90;93;Motivační test 2021 v2;3;přiřazeno;321;
@@ -721,19 +721,19 @@
 90;93;Motivační test 2021 v2;20;přiřazeno;172;
 90;93;Motivační test 2021 v2;21;přiřazeno;182;
 90;93;Motivační test 2021 v2;22;vyřazeno;;Zadání vydává jedinou okolnost za příčinu plochonoží
-90;93;Motivační test 2021 v2;23;částečně;173;
+90;93;Motivační test 2021 v2;23;ve vysvětlení;173;
 90;93;Motivační test 2021 v2;24;přiřazeno;627;
-90;93;Motivační test 2021 v2;25;částečně;109;
+90;93;Motivační test 2021 v2;25;přiřazeno;678;
 90;93;Motivační test 2021 v2;26;přiřazeno;654;
 90;93;Motivační test 2021 v2;27;ve vysvětlení;654;
-90;93;Motivační test 2021 v2;28;částečně;316;
+90;93;Motivační test 2021 v2;28;vyřazeno;;Zadání nestanovuje kritérium nejdůležitějšího předpokladu
 90;93;Motivační test 2021 v2;29;přiřazeno;157;
 90;93;Motivační test 2021 v2;30;přiřazeno;326;
 94;98;Biologie 2019, radiologický asistent I;1;přiřazeno;85;
 94;98;Biologie 2019, radiologický asistent I;2;přiřazeno;327;
 94;98;Biologie 2019, radiologický asistent I;3;přiřazeno;289;
 94;98;Biologie 2019, radiologický asistent I;4;přiřazeno;328;
-94;98;Biologie 2019, radiologický asistent I;5;částečně;613;
+94;98;Biologie 2019, radiologický asistent I;5;vyřazeno;;Tekutina není určená a nabídka neobsahuje běžné arteriální pH
 94;98;Biologie 2019, radiologický asistent I;6;přiřazeno;104;
 94;98;Biologie 2019, radiologický asistent I;7;přiřazeno;105;
 94;98;Biologie 2019, radiologický asistent I;8;přiřazeno;26;
@@ -741,7 +741,7 @@
 94;98;Biologie 2019, radiologický asistent I;10;přiřazeno;29;
 94;98;Biologie 2019, radiologický asistent I;11;přiřazeno;192;
 94;98;Biologie 2019, radiologický asistent I;12;přiřazeno;330;
-94;98;Biologie 2019, radiologický asistent I;13;částečně;196;
+94;98;Biologie 2019, radiologický asistent I;13;přiřazeno;675;
 94;98;Biologie 2019, radiologický asistent I;14;přiřazeno;362;
 94;98;Biologie 2019, radiologický asistent I;15;přiřazeno;98;
 94;98;Biologie 2019, radiologický asistent I;16;ve vysvětlení;37;
@@ -754,7 +754,7 @@
 94;98;Biologie 2019, radiologický asistent I;23;přiřazeno;335;
 94;98;Biologie 2019, radiologický asistent I;24;přiřazeno;185;
 94;98;Biologie 2019, radiologický asistent I;25;přiřazeno;336;
-94;98;Biologie 2019, radiologický asistent I;26;částečně;354;
+94;98;Biologie 2019, radiologický asistent I;26;ve vysvětlení;95;
 94;98;Biologie 2019, radiologický asistent I;27;přiřazeno;599;
 94;98;Biologie 2019, radiologický asistent I;28;přiřazeno;273;
 94;98;Biologie 2019, radiologický asistent I;29;přiřazeno;337;
@@ -802,7 +802,7 @@
 103;108;Biologie 2019, zdravotnický záchranář;1;přiřazeno;85;
 103;108;Biologie 2019, zdravotnický záchranář;2;přiřazeno;10;
 103;108;Biologie 2019, zdravotnický záchranář;3;přiřazeno;353;
-103;108;Biologie 2019, zdravotnický záchranář;4;částečně;155;
+103;108;Biologie 2019, zdravotnický záchranář;4;přiřazeno;662;
 103;108;Biologie 2019, zdravotnický záchranář;5;přiřazeno;295;
 103;108;Biologie 2019, zdravotnický záchranář;6;přiřazeno;354;
 103;108;Biologie 2019, zdravotnický záchranář;7;přiřazeno;338;
@@ -815,10 +815,10 @@
 103;108;Biologie 2019, zdravotnický záchranář;14;vyřazeno;;Zařazení horních dýchacích cest je v nabídce nejednoznačné
 103;108;Biologie 2019, zdravotnický záchranář;15;přiřazeno;359;
 103;108;Biologie 2019, zdravotnický záchranář;16;přiřazeno;358;
-103;108;Biologie 2019, zdravotnický záchranář;17;přiřazeno;362;
+103;108;Biologie 2019, zdravotnický záchranář;17;přiřazeno;669;
 103;108;Biologie 2019, zdravotnický záchranář;18;přiřazeno;635;
 103;108;Biologie 2019, zdravotnický záchranář;19;přiřazeno;361;
-103;108;Biologie 2019, zdravotnický záchranář;20;částečně;31;
+103;108;Biologie 2019, zdravotnický záchranář;20;ve vysvětlení;31;
 103;108;Biologie 2019, zdravotnický záchranář;21;přiřazeno;594;
 103;108;Biologie 2019, zdravotnický záchranář;22;přiřazeno;38;
 103;108;Biologie 2019, zdravotnický záchranář;23;přiřazeno;275;
@@ -828,7 +828,7 @@
 103;108;Biologie 2019, zdravotnický záchranář;27;ve vysvětlení;263;
 103;108;Biologie 2019, zdravotnický záchranář;28;přiřazeno;365;
 103;108;Biologie 2019, zdravotnický záchranář;29;přiřazeno;285;
-103;108;Biologie 2019, zdravotnický záchranář;30;částečně;261;
+103;108;Biologie 2019, zdravotnický záchranář;30;ve vysvětlení;261;
 103;108;Biologie 2019, zdravotnický záchranář;31;přiřazeno;366;
 103;108;Biologie 2019, zdravotnický záchranář;32;přiřazeno;172;
 103;108;Biologie 2019, zdravotnický záchranář;33;přiřazeno;45;
@@ -839,13 +839,13 @@
 103;108;Biologie 2019, zdravotnický záchranář;38;přiřazeno;370;
 103;108;Biologie 2019, zdravotnický záchranář;39;přiřazeno;371;
 103;108;Biologie 2019, zdravotnický záchranář;40;přiřazeno;372;
-103;108;Biologie 2019, zdravotnický záchranář;41;částečně;103;
+103;108;Biologie 2019, zdravotnický záchranář;41;ve vysvětlení;103;
 103;108;Biologie 2019, zdravotnický záchranář;42;přiřazeno;373;
 103;108;Biologie 2019, zdravotnický záchranář;43;přiřazeno;374;
 103;108;Biologie 2019, zdravotnický záchranář;44;přiřazeno;354;
 103;108;Biologie 2019, zdravotnický záchranář;45;přiřazeno;375;
 103;108;Biologie 2019, zdravotnický záchranář;46;vyřazeno;;Průměrný tep závisí na podmínkách měření
-103;108;Biologie 2019, zdravotnický záchranář;47;částečně;319;
+103;108;Biologie 2019, zdravotnický záchranář;47;přiřazeno;666;
 103;108;Biologie 2019, zdravotnický záchranář;48;přiřazeno;376;
 103;108;Biologie 2019, zdravotnický záchranář;49;přiřazeno;377;
 103;108;Biologie 2019, zdravotnický záchranář;50;přiřazeno;378;
@@ -901,7 +901,7 @@
 109;114;Všeobecná informovanost 2019, zdravotnický záchranář;50;přiřazeno;150;
 115;119;Biologie 2019, zdravotní laborant;1;přiřazeno;85;
 115;119;Biologie 2019, zdravotní laborant;2;přiřazeno;10;
-115;119;Biologie 2019, zdravotní laborant;3;částečně;155;
+115;119;Biologie 2019, zdravotní laborant;3;přiřazeno;662;
 115;119;Biologie 2019, zdravotní laborant;4;přiřazeno;295;
 115;119;Biologie 2019, zdravotní laborant;5;přiřazeno;354;
 115;119;Biologie 2019, zdravotní laborant;6;přiřazeno;338;
@@ -910,18 +910,18 @@
 115;119;Biologie 2019, zdravotní laborant;9;přiřazeno;355;
 115;119;Biologie 2019, zdravotní laborant;10;přiřazeno;356;
 115;119;Biologie 2019, zdravotní laborant;11;přiřazeno;629;
-115;119;Biologie 2019, zdravotní laborant;12;částečně;194;
+115;119;Biologie 2019, zdravotní laborant;12;vyřazeno;;Nabídka směšuje stavbu sklípků s nepřesným označením pleury
 115;119;Biologie 2019, zdravotní laborant;13;přiřazeno;358;
-115;119;Biologie 2019, zdravotní laborant;14;částečně;31;
-115;119;Biologie 2019, zdravotní laborant;15;částečně;361;
-115;119;Biologie 2019, zdravotní laborant;16;částečně;31;
+115;119;Biologie 2019, zdravotní laborant;14;přiřazeno;669;
+115;119;Biologie 2019, zdravotní laborant;15;vyřazeno;;Klíč zaměňuje tvrdost skloviny a stavbu celého zubu
+115;119;Biologie 2019, zdravotní laborant;16;ve vysvětlení;31;
 115;119;Biologie 2019, zdravotní laborant;17;přiřazeno;594;
 115;119;Biologie 2019, zdravotní laborant;18;přiřazeno;38;
 115;119;Biologie 2019, zdravotní laborant;19;přiřazeno;275;
 115;119;Biologie 2019, zdravotní laborant;20;přiřazeno;364;
 115;119;Biologie 2019, zdravotní laborant;21;přiřazeno;365;
 115;119;Biologie 2019, zdravotní laborant;22;přiřazeno;285;
-115;119;Biologie 2019, zdravotní laborant;23;částečně;261;
+115;119;Biologie 2019, zdravotní laborant;23;ve vysvětlení;261;
 115;119;Biologie 2019, zdravotní laborant;24;přiřazeno;366;
 115;119;Biologie 2019, zdravotní laborant;25;přiřazeno;45;
 115;119;Biologie 2019, zdravotní laborant;26;přiřazeno;367;
@@ -929,13 +929,13 @@
 115;119;Biologie 2019, zdravotní laborant;28;přiřazeno;369;
 115;119;Biologie 2019, zdravotní laborant;29;přiřazeno;371;
 115;119;Biologie 2019, zdravotní laborant;30;přiřazeno;372;
-115;119;Biologie 2019, zdravotní laborant;31;částečně;103;
+115;119;Biologie 2019, zdravotní laborant;31;ve vysvětlení;103;
 115;119;Biologie 2019, zdravotní laborant;32;přiřazeno;373;
 115;119;Biologie 2019, zdravotní laborant;33;přiřazeno;374;
 115;119;Biologie 2019, zdravotní laborant;34;přiřazeno;354;
 115;119;Biologie 2019, zdravotní laborant;35;přiřazeno;375;
 115;119;Biologie 2019, zdravotní laborant;36;vyřazeno;;Průměrný tep závisí na podmínkách měření
-115;119;Biologie 2019, zdravotní laborant;37;částečně;319;
+115;119;Biologie 2019, zdravotní laborant;37;přiřazeno;666;
 115;119;Biologie 2019, zdravotní laborant;38;přiřazeno;376;
 115;119;Biologie 2019, zdravotní laborant;39;přiřazeno;377;
 115;119;Biologie 2019, zdravotní laborant;40;přiřazeno;378;
@@ -970,20 +970,20 @@
 123;127;Biologie 2019, radiologický asistent II;3;přiřazeno;657;
 123;127;Biologie 2019, radiologický asistent II;4;přiřazeno;105;
 123;127;Biologie 2019, radiologický asistent II;5;přiřazeno;264;
-123;127;Biologie 2019, radiologický asistent II;6;částečně;273;
-123;127;Biologie 2019, radiologický asistent II;7;částečně;373;
-123;127;Biologie 2019, radiologický asistent II;8;částečně;359;
+123;127;Biologie 2019, radiologický asistent II;6;přiřazeno;357;
+123;127;Biologie 2019, radiologický asistent II;7;přiřazeno;192;
+123;127;Biologie 2019, radiologický asistent II;8;ve vysvětlení;359;
 123;127;Biologie 2019, radiologický asistent II;9;přiřazeno;394;
-123;127;Biologie 2019, radiologický asistent II;10;částečně;373;
+123;127;Biologie 2019, radiologický asistent II;10;ve vysvětlení;25;
 123;127;Biologie 2019, radiologický asistent II;11;přiřazeno;395;
 123;127;Biologie 2019, radiologický asistent II;12;přiřazeno;396;
 123;127;Biologie 2019, radiologický asistent II;13;přiřazeno;162;
 123;127;Biologie 2019, radiologický asistent II;14;přiřazeno;397;
 123;127;Biologie 2019, radiologický asistent II;15;přiřazeno;363;
-123;127;Biologie 2019, radiologický asistent II;16;částečně;45;
+123;127;Biologie 2019, radiologický asistent II;16;ve vysvětlení;45;
 123;127;Biologie 2019, radiologický asistent II;17;přiřazeno;398;
 123;127;Biologie 2019, radiologický asistent II;18;přiřazeno;43;
-123;127;Biologie 2019, radiologický asistent II;19;částečně;607;
+123;127;Biologie 2019, radiologický asistent II;19;přiřazeno;607;
 123;127;Biologie 2019, radiologický asistent II;20;přiřazeno;172;
 123;127;Biologie 2019, radiologický asistent II;21;přiřazeno;335;
 123;127;Biologie 2019, radiologický asistent II;22;přiřazeno;292;
@@ -996,7 +996,7 @@
 123;127;Biologie 2019, radiologický asistent II;29;přiřazeno;46;
 123;127;Biologie 2019, radiologický asistent II;30;přiřazeno;41;
 123;127;Biologie 2019, radiologický asistent II;31;přiřazeno;38;
-123;127;Biologie 2019, radiologický asistent II;32;částečně;37;
+123;127;Biologie 2019, radiologický asistent II;32;ve vysvětlení;37;
 123;127;Biologie 2019, radiologický asistent II;33;přiřazeno;399;
 123;127;Biologie 2019, radiologický asistent II;34;přiřazeno;635;
 123;127;Biologie 2019, radiologický asistent II;35;přiřazeno;183;
@@ -1033,7 +1033,7 @@
 128;131;Všeobecná informovanost 2019, radiologický asistent II;26;přiřazeno;65;
 128;131;Všeobecná informovanost 2019, radiologický asistent II;27;přiřazeno;66;
 128;131;Všeobecná informovanost 2019, radiologický asistent II;28;přiřazeno;68;
-128;131;Všeobecná informovanost 2019, radiologický asistent II;29;částečně;75;
+128;131;Všeobecná informovanost 2019, radiologický asistent II;29;přiřazeno;677;
 128;131;Všeobecná informovanost 2019, radiologický asistent II;30;přiřazeno;78;
 132;137;Biologie 2019, pediatrické ošetřovatelství;1;přiřazeno;2;
 132;137;Biologie 2019, pediatrické ošetřovatelství;2;přiřazeno;3;
@@ -1056,7 +1056,7 @@
 132;137;Biologie 2019, pediatrické ošetřovatelství;19;přiřazeno;105;
 132;137;Biologie 2019, pediatrické ošetřovatelství;20;přiřazeno;17;
 132;137;Biologie 2019, pediatrické ošetřovatelství;21;přiřazeno;280;
-132;137;Biologie 2019, pediatrické ošetřovatelství;22;částečně;18;
+132;137;Biologie 2019, pediatrické ošetřovatelství;22;vyřazeno;;Přesný počet ovariálních hormonů závisí na jeho vymezení
 132;137;Biologie 2019, pediatrické ošetřovatelství;23;přiřazeno;19;
 132;137;Biologie 2019, pediatrické ošetřovatelství;24;přiřazeno;254;
 132;137;Biologie 2019, pediatrické ošetřovatelství;25;vyřazeno;;Volně vymezený pojem fyziologický porod nelze ztotožnit jen s týdnem těhotenství
@@ -1075,7 +1075,7 @@
 132;137;Biologie 2019, pediatrické ošetřovatelství;38;přiřazeno;192;
 132;137;Biologie 2019, pediatrické ošetřovatelství;39;vyřazeno;;Zařazení horních dýchacích cest je v nabídce nejednoznačné
 132;137;Biologie 2019, pediatrické ošetřovatelství;40;přiřazeno;30;
-132;137;Biologie 2019, pediatrické ošetřovatelství;41;částečně;31;
+132;137;Biologie 2019, pediatrické ošetřovatelství;41;přiřazeno;669;
 132;137;Biologie 2019, pediatrické ošetřovatelství;42;přiřazeno;409;
 132;137;Biologie 2019, pediatrické ošetřovatelství;43;přiřazeno;32;
 132;137;Biologie 2019, pediatrické ošetřovatelství;44;ve vysvětlení;25;
@@ -1146,14 +1146,14 @@
 144;149;Biologie 2019, všeobecná sestra;9;přiřazeno;9;
 144;149;Biologie 2019, všeobecná sestra;10;přiřazeno;10;
 144;149;Biologie 2019, všeobecná sestra;11;přiřazeno;11;
-144;149;Biologie 2019, všeobecná sestra;12;částečně;12;
+144;149;Biologie 2019, všeobecná sestra;12;vyřazeno;;DNA
 144;149;Biologie 2019, všeobecná sestra;13;přiřazeno;13;
 144;149;Biologie 2019, všeobecná sestra;14;přiřazeno;14;
 144;149;Biologie 2019, všeobecná sestra;15;přiřazeno;15;
 144;149;Biologie 2019, všeobecná sestra;16;přiřazeno;16;
 144;149;Biologie 2019, všeobecná sestra;17;přiřazeno;17;
-144;149;Biologie 2019, všeobecná sestra;18;částečně;18;
-144;149;Biologie 2019, všeobecná sestra;19;částečně;19;
+144;149;Biologie 2019, všeobecná sestra;18;vyřazeno;;hormony
+144;149;Biologie 2019, všeobecná sestra;19;přiřazeno;19;
 144;149;Biologie 2019, všeobecná sestra;20;vyřazeno;;porod
 144;149;Biologie 2019, všeobecná sestra;21;přiřazeno;20;
 144;149;Biologie 2019, všeobecná sestra;22;přiřazeno;21;
@@ -1213,7 +1213,7 @@
 150;155;Všeobecná informovanost 2019, všeobecná sestra;26;přiřazeno;70;
 150;155;Všeobecná informovanost 2019, všeobecná sestra;27;přiřazeno;71;
 150;155;Všeobecná informovanost 2019, všeobecná sestra;28;přiřazeno;562;
-150;155;Všeobecná informovanost 2019, všeobecná sestra;29;vyřazeno;;právo
+150;155;Všeobecná informovanost 2019, všeobecná sestra;29;přiřazeno;682;
 150;155;Všeobecná informovanost 2019, všeobecná sestra;30;vyřazeno;;právo
 150;155;Všeobecná informovanost 2019, všeobecná sestra;31;vyřazeno;;služby
 150;155;Všeobecná informovanost 2019, všeobecná sestra;32;přiřazeno;72;
@@ -1227,12 +1227,12 @@
 150;155;Všeobecná informovanost 2019, všeobecná sestra;40;přiřazeno;79;
 150;155;Všeobecná informovanost 2019, všeobecná sestra;41;přiřazeno;80;
 150;155;Všeobecná informovanost 2019, všeobecná sestra;42;přiřazeno;81;
-150;155;Všeobecná informovanost 2019, všeobecná sestra;43;vyřazeno;;právo
+150;155;Všeobecná informovanost 2019, všeobecná sestra;43;přiřazeno;631;
 150;155;Všeobecná informovanost 2019, všeobecná sestra;44;vyřazeno;;právo
 150;155;Všeobecná informovanost 2019, všeobecná sestra;45;přiřazeno;82;
 150;155;Všeobecná informovanost 2019, všeobecná sestra;46;přiřazeno;618;
-150;155;Všeobecná informovanost 2019, všeobecná sestra;47;vyřazeno;;právo
-150;155;Všeobecná informovanost 2019, všeobecná sestra;48;vyřazeno;;právo
+150;155;Všeobecná informovanost 2019, všeobecná sestra;47;přiřazeno;632;
+150;155;Všeobecná informovanost 2019, všeobecná sestra;48;přiřazeno;630;
 150;155;Všeobecná informovanost 2019, všeobecná sestra;49;přiřazeno;83;
 150;155;Všeobecná informovanost 2019, všeobecná sestra;50;přiřazeno;619;
 157;162;Biologie 2019, nutriční terapeut;1;přiřazeno;1;Stejné číslování jako PDF 144.
@@ -1246,14 +1246,14 @@
 157;162;Biologie 2019, nutriční terapeut;9;přiřazeno;9;Stejné číslování jako PDF 144.
 157;162;Biologie 2019, nutriční terapeut;10;přiřazeno;10;Stejné číslování jako PDF 144.
 157;162;Biologie 2019, nutriční terapeut;11;přiřazeno;11;Stejné číslování jako PDF 144.
-157;162;Biologie 2019, nutriční terapeut;12;částečně;12;Stejné číslování jako PDF 144.
+157;162;Biologie 2019, nutriční terapeut;12;vyřazeno;;Stejné číslování jako PDF 144. DNA
 157;162;Biologie 2019, nutriční terapeut;13;přiřazeno;13;Stejné číslování jako PDF 144.
 157;162;Biologie 2019, nutriční terapeut;14;přiřazeno;14;Stejné číslování jako PDF 144.
 157;162;Biologie 2019, nutriční terapeut;15;přiřazeno;15;Stejné číslování jako PDF 144.
 157;162;Biologie 2019, nutriční terapeut;16;přiřazeno;16;Stejné číslování jako PDF 144.
 157;162;Biologie 2019, nutriční terapeut;17;přiřazeno;17;Stejné číslování jako PDF 144.
-157;162;Biologie 2019, nutriční terapeut;18;částečně;18;Stejné číslování jako PDF 144.
-157;162;Biologie 2019, nutriční terapeut;19;částečně;19;Stejné číslování jako PDF 144.
+157;162;Biologie 2019, nutriční terapeut;18;vyřazeno;;Stejné číslování jako PDF 144. hormony
+157;162;Biologie 2019, nutriční terapeut;19;přiřazeno;19;Stejné číslování jako PDF 144.
 157;162;Biologie 2019, nutriční terapeut;20;vyřazeno;;Stejné číslování jako PDF 144. porod
 157;162;Biologie 2019, nutriční terapeut;21;přiřazeno;20;Stejné číslování jako PDF 144.
 157;162;Biologie 2019, nutriční terapeut;22;přiřazeno;21;Stejné číslování jako PDF 144.
@@ -1313,7 +1313,7 @@
 163;168;Všeobecná informovanost 2019, nutriční terapeut;26;přiřazeno;70;Stejné číslování jako PDF 150.
 163;168;Všeobecná informovanost 2019, nutriční terapeut;27;přiřazeno;71;Stejné číslování jako PDF 150.
 163;168;Všeobecná informovanost 2019, nutriční terapeut;28;přiřazeno;562;Stejné číslování jako PDF 150.
-163;168;Všeobecná informovanost 2019, nutriční terapeut;29;vyřazeno;;Stejné číslování jako PDF 150. právo
+163;168;Všeobecná informovanost 2019, nutriční terapeut;29;přiřazeno;682;Stejné číslování jako PDF 150.
 163;168;Všeobecná informovanost 2019, nutriční terapeut;30;vyřazeno;;Stejné číslování jako PDF 150. právo
 163;168;Všeobecná informovanost 2019, nutriční terapeut;31;vyřazeno;;Stejné číslování jako PDF 150. služby
 163;168;Všeobecná informovanost 2019, nutriční terapeut;32;přiřazeno;72;Stejné číslování jako PDF 150.
@@ -1327,12 +1327,12 @@
 163;168;Všeobecná informovanost 2019, nutriční terapeut;40;přiřazeno;79;Stejné číslování jako PDF 150.
 163;168;Všeobecná informovanost 2019, nutriční terapeut;41;přiřazeno;80;Stejné číslování jako PDF 150.
 163;168;Všeobecná informovanost 2019, nutriční terapeut;42;přiřazeno;81;Stejné číslování jako PDF 150.
-163;168;Všeobecná informovanost 2019, nutriční terapeut;43;vyřazeno;;Stejné číslování jako PDF 150. právo
+163;168;Všeobecná informovanost 2019, nutriční terapeut;43;přiřazeno;631;Stejné číslování jako PDF 150.
 163;168;Všeobecná informovanost 2019, nutriční terapeut;44;vyřazeno;;Stejné číslování jako PDF 150. právo
 163;168;Všeobecná informovanost 2019, nutriční terapeut;45;přiřazeno;82;Stejné číslování jako PDF 150.
 163;168;Všeobecná informovanost 2019, nutriční terapeut;46;přiřazeno;618;Stejné číslování jako PDF 150.
-163;168;Všeobecná informovanost 2019, nutriční terapeut;47;vyřazeno;;Stejné číslování jako PDF 150. právo
-163;168;Všeobecná informovanost 2019, nutriční terapeut;48;vyřazeno;;Stejné číslování jako PDF 150. právo
+163;168;Všeobecná informovanost 2019, nutriční terapeut;47;přiřazeno;632;Stejné číslování jako PDF 150.
+163;168;Všeobecná informovanost 2019, nutriční terapeut;48;přiřazeno;630;Stejné číslování jako PDF 150.
 163;168;Všeobecná informovanost 2019, nutriční terapeut;49;přiřazeno;83;Stejné číslování jako PDF 150.
 163;168;Všeobecná informovanost 2019, nutriční terapeut;50;přiřazeno;619;Stejné číslování jako PDF 150.
 169;174;Biologie 2019, zdravotně-sociální péče;1;přiřazeno;1;Stejné číslování jako PDF 144.
@@ -1346,14 +1346,14 @@
 169;174;Biologie 2019, zdravotně-sociální péče;9;přiřazeno;9;Stejné číslování jako PDF 144.
 169;174;Biologie 2019, zdravotně-sociální péče;10;přiřazeno;10;Stejné číslování jako PDF 144.
 169;174;Biologie 2019, zdravotně-sociální péče;11;přiřazeno;11;Stejné číslování jako PDF 144.
-169;174;Biologie 2019, zdravotně-sociální péče;12;částečně;12;Stejné číslování jako PDF 144.
+169;174;Biologie 2019, zdravotně-sociální péče;12;vyřazeno;;Stejné číslování jako PDF 144. DNA
 169;174;Biologie 2019, zdravotně-sociální péče;13;přiřazeno;13;Stejné číslování jako PDF 144.
 169;174;Biologie 2019, zdravotně-sociální péče;14;přiřazeno;14;Stejné číslování jako PDF 144.
 169;174;Biologie 2019, zdravotně-sociální péče;15;přiřazeno;15;Stejné číslování jako PDF 144.
 169;174;Biologie 2019, zdravotně-sociální péče;16;přiřazeno;16;Stejné číslování jako PDF 144.
 169;174;Biologie 2019, zdravotně-sociální péče;17;přiřazeno;17;Stejné číslování jako PDF 144.
-169;174;Biologie 2019, zdravotně-sociální péče;18;částečně;18;Stejné číslování jako PDF 144.
-169;174;Biologie 2019, zdravotně-sociální péče;19;částečně;19;Stejné číslování jako PDF 144.
+169;174;Biologie 2019, zdravotně-sociální péče;18;vyřazeno;;Stejné číslování jako PDF 144. hormony
+169;174;Biologie 2019, zdravotně-sociální péče;19;přiřazeno;19;Stejné číslování jako PDF 144.
 169;174;Biologie 2019, zdravotně-sociální péče;20;vyřazeno;;Stejné číslování jako PDF 144. porod
 169;174;Biologie 2019, zdravotně-sociální péče;21;přiřazeno;20;Stejné číslování jako PDF 144.
 169;174;Biologie 2019, zdravotně-sociální péče;22;přiřazeno;21;Stejné číslování jako PDF 144.
@@ -1413,7 +1413,7 @@
 175;180;ZSV 2019, zdravotně-sociální péče;26;přiřazeno;70;Stejné číslování jako PDF 150.
 175;180;ZSV 2019, zdravotně-sociální péče;27;přiřazeno;71;Stejné číslování jako PDF 150.
 175;180;ZSV 2019, zdravotně-sociální péče;28;přiřazeno;562;Stejné číslování jako PDF 150.
-175;180;ZSV 2019, zdravotně-sociální péče;29;vyřazeno;;Stejné číslování jako PDF 150. právo
+175;180;ZSV 2019, zdravotně-sociální péče;29;přiřazeno;682;Stejné číslování jako PDF 150.
 175;180;ZSV 2019, zdravotně-sociální péče;30;vyřazeno;;Stejné číslování jako PDF 150. právo
 175;180;ZSV 2019, zdravotně-sociální péče;31;vyřazeno;;Stejné číslování jako PDF 150. služby
 175;180;ZSV 2019, zdravotně-sociální péče;32;přiřazeno;72;Stejné číslování jako PDF 150.
@@ -1427,12 +1427,12 @@
 175;180;ZSV 2019, zdravotně-sociální péče;40;přiřazeno;79;Stejné číslování jako PDF 150.
 175;180;ZSV 2019, zdravotně-sociální péče;41;přiřazeno;80;Stejné číslování jako PDF 150.
 175;180;ZSV 2019, zdravotně-sociální péče;42;přiřazeno;81;Stejné číslování jako PDF 150.
-175;180;ZSV 2019, zdravotně-sociální péče;43;vyřazeno;;Stejné číslování jako PDF 150. právo
+175;180;ZSV 2019, zdravotně-sociální péče;43;přiřazeno;631;Stejné číslování jako PDF 150.
 175;180;ZSV 2019, zdravotně-sociální péče;44;vyřazeno;;Stejné číslování jako PDF 150. právo
 175;180;ZSV 2019, zdravotně-sociální péče;45;přiřazeno;82;Stejné číslování jako PDF 150.
 175;180;ZSV 2019, zdravotně-sociální péče;46;přiřazeno;618;Stejné číslování jako PDF 150.
-175;180;ZSV 2019, zdravotně-sociální péče;47;vyřazeno;;Stejné číslování jako PDF 150. právo
-175;180;ZSV 2019, zdravotně-sociální péče;48;vyřazeno;;Stejné číslování jako PDF 150. právo
+175;180;ZSV 2019, zdravotně-sociální péče;47;přiřazeno;632;Stejné číslování jako PDF 150.
+175;180;ZSV 2019, zdravotně-sociální péče;48;přiřazeno;630;Stejné číslování jako PDF 150.
 175;180;ZSV 2019, zdravotně-sociální péče;49;přiřazeno;83;Stejné číslování jako PDF 150.
 175;180;ZSV 2019, zdravotně-sociální péče;50;přiřazeno;619;Stejné číslování jako PDF 150.
 181;186;Všeobecná informovanost 2019, společná sada;1;přiřazeno;74;
@@ -1458,9 +1458,9 @@
 181;186;Všeobecná informovanost 2019, společná sada;21;přiřazeno;348;
 181;186;Všeobecná informovanost 2019, společná sada;22;přiřazeno;349;
 181;186;Všeobecná informovanost 2019, společná sada;23;vyřazeno;;právo
-181;186;Všeobecná informovanost 2019, společná sada;24;vyřazeno;;právo
+181;186;Všeobecná informovanost 2019, společná sada;24;přiřazeno;630;
 181;186;Všeobecná informovanost 2019, společná sada;25;přiřazeno;615;
-181;186;Všeobecná informovanost 2019, společná sada;26;vyřazeno;;právo
+181;186;Všeobecná informovanost 2019, společná sada;26;přiřazeno;633;
 181;186;Všeobecná informovanost 2019, společná sada;27;přiřazeno;58;
 181;186;Všeobecná informovanost 2019, společná sada;28;přiřazeno;57;
 181;186;Všeobecná informovanost 2019, společná sada;29;přiřazeno;59;
@@ -1470,7 +1470,7 @@
 181;186;Všeobecná informovanost 2019, společná sada;33;vyřazeno;;služby
 181;186;Všeobecná informovanost 2019, společná sada;34;přiřazeno;659;
 181;186;Všeobecná informovanost 2019, společná sada;35;přiřazeno;142;
-181;186;Všeobecná informovanost 2019, společná sada;36;vyřazeno;;právo
+181;186;Všeobecná informovanost 2019, společná sada;36;přiřazeno;631;
 181;186;Všeobecná informovanost 2019, společná sada;37;přiřazeno;83;
 181;186;Všeobecná informovanost 2019, společná sada;38;přiřazeno;48;
 181;186;Všeobecná informovanost 2019, společná sada;39;přiřazeno;50;
@@ -1496,14 +1496,14 @@
 187;192;Biologie 2019, porodní asistentka;9;přiřazeno;9;Stejné číslování jako PDF 144.
 187;192;Biologie 2019, porodní asistentka;10;přiřazeno;10;Stejné číslování jako PDF 144.
 187;192;Biologie 2019, porodní asistentka;11;přiřazeno;11;Stejné číslování jako PDF 144.
-187;192;Biologie 2019, porodní asistentka;12;částečně;12;Stejné číslování jako PDF 144.
+187;192;Biologie 2019, porodní asistentka;12;vyřazeno;;Stejné číslování jako PDF 144. DNA
 187;192;Biologie 2019, porodní asistentka;13;přiřazeno;13;Stejné číslování jako PDF 144.
 187;192;Biologie 2019, porodní asistentka;14;přiřazeno;14;Stejné číslování jako PDF 144.
 187;192;Biologie 2019, porodní asistentka;15;přiřazeno;15;Stejné číslování jako PDF 144.
 187;192;Biologie 2019, porodní asistentka;16;přiřazeno;16;Stejné číslování jako PDF 144.
 187;192;Biologie 2019, porodní asistentka;17;přiřazeno;17;Stejné číslování jako PDF 144.
-187;192;Biologie 2019, porodní asistentka;18;částečně;18;Stejné číslování jako PDF 144.
-187;192;Biologie 2019, porodní asistentka;19;částečně;19;Stejné číslování jako PDF 144.
+187;192;Biologie 2019, porodní asistentka;18;vyřazeno;;Stejné číslování jako PDF 144. hormony
+187;192;Biologie 2019, porodní asistentka;19;přiřazeno;19;Stejné číslování jako PDF 144.
 187;192;Biologie 2019, porodní asistentka;20;vyřazeno;;Stejné číslování jako PDF 144. porod
 187;192;Biologie 2019, porodní asistentka;21;přiřazeno;20;Stejné číslování jako PDF 144.
 187;192;Biologie 2019, porodní asistentka;22;přiřazeno;21;Stejné číslování jako PDF 144.
@@ -1563,7 +1563,7 @@
 193;198;Všeobecná informovanost 2019, porodní asistentka;26;přiřazeno;70;Stejné číslování jako PDF 150.
 193;198;Všeobecná informovanost 2019, porodní asistentka;27;přiřazeno;71;Stejné číslování jako PDF 150.
 193;198;Všeobecná informovanost 2019, porodní asistentka;28;přiřazeno;562;Stejné číslování jako PDF 150.
-193;198;Všeobecná informovanost 2019, porodní asistentka;29;vyřazeno;;Stejné číslování jako PDF 150. právo
+193;198;Všeobecná informovanost 2019, porodní asistentka;29;přiřazeno;682;Stejné číslování jako PDF 150.
 193;198;Všeobecná informovanost 2019, porodní asistentka;30;vyřazeno;;Stejné číslování jako PDF 150. právo
 193;198;Všeobecná informovanost 2019, porodní asistentka;31;vyřazeno;;Stejné číslování jako PDF 150. služby
 193;198;Všeobecná informovanost 2019, porodní asistentka;32;přiřazeno;72;Stejné číslování jako PDF 150.
@@ -1577,12 +1577,12 @@
 193;198;Všeobecná informovanost 2019, porodní asistentka;40;přiřazeno;79;Stejné číslování jako PDF 150.
 193;198;Všeobecná informovanost 2019, porodní asistentka;41;přiřazeno;80;Stejné číslování jako PDF 150.
 193;198;Všeobecná informovanost 2019, porodní asistentka;42;přiřazeno;81;Stejné číslování jako PDF 150.
-193;198;Všeobecná informovanost 2019, porodní asistentka;43;vyřazeno;;Stejné číslování jako PDF 150. právo
+193;198;Všeobecná informovanost 2019, porodní asistentka;43;přiřazeno;631;Stejné číslování jako PDF 150.
 193;198;Všeobecná informovanost 2019, porodní asistentka;44;vyřazeno;;Stejné číslování jako PDF 150. právo
 193;198;Všeobecná informovanost 2019, porodní asistentka;45;přiřazeno;82;Stejné číslování jako PDF 150.
 193;198;Všeobecná informovanost 2019, porodní asistentka;46;přiřazeno;618;Stejné číslování jako PDF 150.
-193;198;Všeobecná informovanost 2019, porodní asistentka;47;vyřazeno;;Stejné číslování jako PDF 150. právo
-193;198;Všeobecná informovanost 2019, porodní asistentka;48;vyřazeno;;Stejné číslování jako PDF 150. právo
+193;198;Všeobecná informovanost 2019, porodní asistentka;47;přiřazeno;632;Stejné číslování jako PDF 150.
+193;198;Všeobecná informovanost 2019, porodní asistentka;48;přiřazeno;630;Stejné číslování jako PDF 150.
 193;198;Všeobecná informovanost 2019, porodní asistentka;49;přiřazeno;83;Stejné číslování jako PDF 150.
 193;198;Všeobecná informovanost 2019, porodní asistentka;50;přiřazeno;619;Stejné číslování jako PDF 150.
 199;204;Biologie 2019, společná sada;1;přiřazeno;85;
@@ -1615,7 +1615,7 @@
 199;204;Biologie 2019, společná sada;28;přiřazeno;47;
 199;204;Biologie 2019, společná sada;29;přiřazeno;185;
 199;204;Biologie 2019, společná sada;30;přiřazeno;336;
-199;204;Biologie 2019, společná sada;31;částečně;95;
+199;204;Biologie 2019, společná sada;31;ve vysvětlení;95;
 199;204;Biologie 2019, společná sada;32;přiřazeno;599;
 199;204;Biologie 2019, společná sada;33;přiřazeno;551;
 199;204;Biologie 2019, společná sada;34;přiřazeno;273;
@@ -1627,7 +1627,7 @@
 199;204;Biologie 2019, společná sada;40;vyřazeno;;tlak
 199;204;Biologie 2019, společná sada;41;přiřazeno;17;
 199;204;Biologie 2019, společná sada;42;přiřazeno;340;
-199;204;Biologie 2019, společná sada;43;částečně;101;
+199;204;Biologie 2019, společná sada;43;vyřazeno;;kapacita
 199;204;Biologie 2019, společná sada;44;přiřazeno;660;
 199;204;Biologie 2019, společná sada;45;přiřazeno;280;
 199;204;Biologie 2019, společná sada;46;přiřazeno;341;
@@ -1658,9 +1658,9 @@
 205;210;Všeobecná informovanost 2019, opakování I;21;přiřazeno;348;Stejné číslování jako PDF 181.
 205;210;Všeobecná informovanost 2019, opakování I;22;přiřazeno;349;Stejné číslování jako PDF 181.
 205;210;Všeobecná informovanost 2019, opakování I;23;vyřazeno;;Stejné číslování jako PDF 181. právo
-205;210;Všeobecná informovanost 2019, opakování I;24;vyřazeno;;Stejné číslování jako PDF 181. právo
+205;210;Všeobecná informovanost 2019, opakování I;24;přiřazeno;630;Stejné číslování jako PDF 181.
 205;210;Všeobecná informovanost 2019, opakování I;25;přiřazeno;615;Stejné číslování jako PDF 181.
-205;210;Všeobecná informovanost 2019, opakování I;26;vyřazeno;;Stejné číslování jako PDF 181. právo
+205;210;Všeobecná informovanost 2019, opakování I;26;přiřazeno;633;Stejné číslování jako PDF 181.
 205;210;Všeobecná informovanost 2019, opakování I;27;přiřazeno;58;Stejné číslování jako PDF 181.
 205;210;Všeobecná informovanost 2019, opakování I;28;přiřazeno;57;Stejné číslování jako PDF 181.
 205;210;Všeobecná informovanost 2019, opakování I;29;přiřazeno;59;Stejné číslování jako PDF 181.
@@ -1670,7 +1670,7 @@
 205;210;Všeobecná informovanost 2019, opakování I;33;vyřazeno;;Stejné číslování jako PDF 181. služby
 205;210;Všeobecná informovanost 2019, opakování I;34;přiřazeno;659;Stejné číslování jako PDF 181.
 205;210;Všeobecná informovanost 2019, opakování I;35;přiřazeno;142;Stejné číslování jako PDF 181.
-205;210;Všeobecná informovanost 2019, opakování I;36;vyřazeno;;Stejné číslování jako PDF 181. právo
+205;210;Všeobecná informovanost 2019, opakování I;36;přiřazeno;631;Stejné číslování jako PDF 181.
 205;210;Všeobecná informovanost 2019, opakování I;37;přiřazeno;83;Stejné číslování jako PDF 181.
 205;210;Všeobecná informovanost 2019, opakování I;38;přiřazeno;48;Stejné číslování jako PDF 181.
 205;210;Všeobecná informovanost 2019, opakování I;39;přiřazeno;50;Stejné číslování jako PDF 181.
@@ -1708,9 +1708,9 @@
 211;216;Všeobecná informovanost 2019, opakování II;21;přiřazeno;348;Stejné číslování jako PDF 181.
 211;216;Všeobecná informovanost 2019, opakování II;22;přiřazeno;349;Stejné číslování jako PDF 181.
 211;216;Všeobecná informovanost 2019, opakování II;23;vyřazeno;;Stejné číslování jako PDF 181. právo
-211;216;Všeobecná informovanost 2019, opakování II;24;vyřazeno;;Stejné číslování jako PDF 181. právo
+211;216;Všeobecná informovanost 2019, opakování II;24;přiřazeno;630;Stejné číslování jako PDF 181.
 211;216;Všeobecná informovanost 2019, opakování II;25;přiřazeno;615;Stejné číslování jako PDF 181.
-211;216;Všeobecná informovanost 2019, opakování II;26;vyřazeno;;Stejné číslování jako PDF 181. právo
+211;216;Všeobecná informovanost 2019, opakování II;26;přiřazeno;633;Stejné číslování jako PDF 181.
 211;216;Všeobecná informovanost 2019, opakování II;27;přiřazeno;58;Stejné číslování jako PDF 181.
 211;216;Všeobecná informovanost 2019, opakování II;28;přiřazeno;57;Stejné číslování jako PDF 181.
 211;216;Všeobecná informovanost 2019, opakování II;29;přiřazeno;59;Stejné číslování jako PDF 181.
@@ -1720,7 +1720,7 @@
 211;216;Všeobecná informovanost 2019, opakování II;33;vyřazeno;;Stejné číslování jako PDF 181. služby
 211;216;Všeobecná informovanost 2019, opakování II;34;přiřazeno;659;Stejné číslování jako PDF 181.
 211;216;Všeobecná informovanost 2019, opakování II;35;přiřazeno;142;Stejné číslování jako PDF 181.
-211;216;Všeobecná informovanost 2019, opakování II;36;vyřazeno;;Stejné číslování jako PDF 181. právo
+211;216;Všeobecná informovanost 2019, opakování II;36;přiřazeno;631;Stejné číslování jako PDF 181.
 211;216;Všeobecná informovanost 2019, opakování II;37;přiřazeno;83;Stejné číslování jako PDF 181.
 211;216;Všeobecná informovanost 2019, opakování II;38;přiřazeno;48;Stejné číslování jako PDF 181.
 211;216;Všeobecná informovanost 2019, opakování II;39;přiřazeno;50;Stejné číslování jako PDF 181.
@@ -1758,9 +1758,9 @@
 217;222;Všeobecná informovanost 2019, opakování III;21;přiřazeno;348;Stejné číslování jako PDF 181.
 217;222;Všeobecná informovanost 2019, opakování III;22;přiřazeno;349;Stejné číslování jako PDF 181.
 217;222;Všeobecná informovanost 2019, opakování III;23;vyřazeno;;Stejné číslování jako PDF 181. právo
-217;222;Všeobecná informovanost 2019, opakování III;24;vyřazeno;;Stejné číslování jako PDF 181. právo
+217;222;Všeobecná informovanost 2019, opakování III;24;přiřazeno;630;Stejné číslování jako PDF 181.
 217;222;Všeobecná informovanost 2019, opakování III;25;přiřazeno;615;Stejné číslování jako PDF 181.
-217;222;Všeobecná informovanost 2019, opakování III;26;vyřazeno;;Stejné číslování jako PDF 181. právo
+217;222;Všeobecná informovanost 2019, opakování III;26;přiřazeno;633;Stejné číslování jako PDF 181.
 217;222;Všeobecná informovanost 2019, opakování III;27;přiřazeno;58;Stejné číslování jako PDF 181.
 217;222;Všeobecná informovanost 2019, opakování III;28;přiřazeno;57;Stejné číslování jako PDF 181.
 217;222;Všeobecná informovanost 2019, opakování III;29;přiřazeno;59;Stejné číslování jako PDF 181.
@@ -1770,7 +1770,7 @@
 217;222;Všeobecná informovanost 2019, opakování III;33;vyřazeno;;Stejné číslování jako PDF 181. služby
 217;222;Všeobecná informovanost 2019, opakování III;34;přiřazeno;659;Stejné číslování jako PDF 181.
 217;222;Všeobecná informovanost 2019, opakování III;35;přiřazeno;142;Stejné číslování jako PDF 181.
-217;222;Všeobecná informovanost 2019, opakování III;36;vyřazeno;;Stejné číslování jako PDF 181. právo
+217;222;Všeobecná informovanost 2019, opakování III;36;přiřazeno;631;Stejné číslování jako PDF 181.
 217;222;Všeobecná informovanost 2019, opakování III;37;přiřazeno;83;Stejné číslování jako PDF 181.
 217;222;Všeobecná informovanost 2019, opakování III;38;přiřazeno;48;Stejné číslování jako PDF 181.
 217;222;Všeobecná informovanost 2019, opakování III;39;přiřazeno;50;Stejné číslování jako PDF 181.
@@ -1833,7 +1833,7 @@
 223;228;Všeobecná informovanost 2019, další společná sada;46;přiřazeno;437;
 223;228;Všeobecná informovanost 2019, další společná sada;47;přiřazeno;438;
 223;228;Všeobecná informovanost 2019, další společná sada;48;přiřazeno;646;
-223;228;Všeobecná informovanost 2019, další společná sada;49;částečně;75;
+223;228;Všeobecná informovanost 2019, další společná sada;49;přiřazeno;677;
 223;228;Všeobecná informovanost 2019, další společná sada;50;vyřazeno;;Největší autorita nemá objektivní kritérium
 229;234;Všeobecná informovanost 2019, opakování IV;1;přiřazeno;74;Stejné číslování jako PDF 181.
 229;234;Všeobecná informovanost 2019, opakování IV;2;přiřazeno;66;Stejné číslování jako PDF 181.
@@ -1858,9 +1858,9 @@
 229;234;Všeobecná informovanost 2019, opakování IV;21;přiřazeno;348;Stejné číslování jako PDF 181.
 229;234;Všeobecná informovanost 2019, opakování IV;22;přiřazeno;349;Stejné číslování jako PDF 181.
 229;234;Všeobecná informovanost 2019, opakování IV;23;vyřazeno;;Stejné číslování jako PDF 181. právo
-229;234;Všeobecná informovanost 2019, opakování IV;24;vyřazeno;;Stejné číslování jako PDF 181. právo
+229;234;Všeobecná informovanost 2019, opakování IV;24;přiřazeno;630;Stejné číslování jako PDF 181.
 229;234;Všeobecná informovanost 2019, opakování IV;25;přiřazeno;615;Stejné číslování jako PDF 181.
-229;234;Všeobecná informovanost 2019, opakování IV;26;vyřazeno;;Stejné číslování jako PDF 181. právo
+229;234;Všeobecná informovanost 2019, opakování IV;26;přiřazeno;633;Stejné číslování jako PDF 181.
 229;234;Všeobecná informovanost 2019, opakování IV;27;přiřazeno;58;Stejné číslování jako PDF 181.
 229;234;Všeobecná informovanost 2019, opakování IV;28;přiřazeno;57;Stejné číslování jako PDF 181.
 229;234;Všeobecná informovanost 2019, opakování IV;29;přiřazeno;59;Stejné číslování jako PDF 181.
@@ -1870,7 +1870,7 @@
 229;234;Všeobecná informovanost 2019, opakování IV;33;vyřazeno;;Stejné číslování jako PDF 181. služby
 229;234;Všeobecná informovanost 2019, opakování IV;34;přiřazeno;659;Stejné číslování jako PDF 181.
 229;234;Všeobecná informovanost 2019, opakování IV;35;přiřazeno;142;Stejné číslování jako PDF 181.
-229;234;Všeobecná informovanost 2019, opakování IV;36;vyřazeno;;Stejné číslování jako PDF 181. právo
+229;234;Všeobecná informovanost 2019, opakování IV;36;přiřazeno;631;Stejné číslování jako PDF 181.
 229;234;Všeobecná informovanost 2019, opakování IV;37;přiřazeno;83;Stejné číslování jako PDF 181.
 229;234;Všeobecná informovanost 2019, opakování IV;38;přiřazeno;48;Stejné číslování jako PDF 181.
 229;234;Všeobecná informovanost 2019, opakování IV;39;přiřazeno;50;Stejné číslování jako PDF 181.
@@ -1951,7 +1951,7 @@
 235;245;ZSV 2019, sociální práce;64;vyřazeno;;Zadání závisí na roce, místě a dostupné síti
 235;245;ZSV 2019, sociální práce;65;přiřazeno;352;
 235;245;ZSV 2019, sociální práce;66;přiřazeno;384;
-235;245;ZSV 2019, sociální práce;67;částečně;571;
+235;245;ZSV 2019, sociální práce;67;přiřazeno;674;
 235;245;ZSV 2019, sociální práce;68;přiřazeno;631;
 235;245;ZSV 2019, sociální práce;69;přiřazeno;83;
 235;245;ZSV 2019, sociální práce;70;přiřazeno;48;
@@ -2015,7 +2015,7 @@
 246;251;Biologie 2019, opakování I;28;přiřazeno;47;Stejné číslování jako PDF 199.
 246;251;Biologie 2019, opakování I;29;přiřazeno;185;Stejné číslování jako PDF 199.
 246;251;Biologie 2019, opakování I;30;přiřazeno;336;Stejné číslování jako PDF 199.
-246;251;Biologie 2019, opakování I;31;částečně;95;Stejné číslování jako PDF 199.
+246;251;Biologie 2019, opakování I;31;ve vysvětlení;95;Stejné číslování jako PDF 199.
 246;251;Biologie 2019, opakování I;32;přiřazeno;599;Stejné číslování jako PDF 199.
 246;251;Biologie 2019, opakování I;33;přiřazeno;551;Stejné číslování jako PDF 199.
 246;251;Biologie 2019, opakování I;34;přiřazeno;273;Stejné číslování jako PDF 199.
@@ -2027,7 +2027,7 @@
 246;251;Biologie 2019, opakování I;40;vyřazeno;;Stejné číslování jako PDF 199. tlak
 246;251;Biologie 2019, opakování I;41;přiřazeno;17;Stejné číslování jako PDF 199.
 246;251;Biologie 2019, opakování I;42;přiřazeno;340;Stejné číslování jako PDF 199.
-246;251;Biologie 2019, opakování I;43;částečně;101;Stejné číslování jako PDF 199.
+246;251;Biologie 2019, opakování I;43;vyřazeno;;Stejné číslování jako PDF 199. kapacita
 246;251;Biologie 2019, opakování I;44;přiřazeno;660;Stejné číslování jako PDF 199.
 246;251;Biologie 2019, opakování I;45;přiřazeno;280;Stejné číslování jako PDF 199.
 246;251;Biologie 2019, opakování I;46;přiřazeno;341;Stejné číslování jako PDF 199.
@@ -2065,7 +2065,7 @@
 252;257;Biologie 2019, opakování II;28;přiřazeno;47;Stejné číslování jako PDF 199.
 252;257;Biologie 2019, opakování II;29;přiřazeno;185;Stejné číslování jako PDF 199.
 252;257;Biologie 2019, opakování II;30;přiřazeno;336;Stejné číslování jako PDF 199.
-252;257;Biologie 2019, opakování II;31;částečně;95;Stejné číslování jako PDF 199.
+252;257;Biologie 2019, opakování II;31;ve vysvětlení;95;Stejné číslování jako PDF 199.
 252;257;Biologie 2019, opakování II;32;přiřazeno;599;Stejné číslování jako PDF 199.
 252;257;Biologie 2019, opakování II;33;přiřazeno;551;Stejné číslování jako PDF 199.
 252;257;Biologie 2019, opakování II;34;přiřazeno;273;Stejné číslování jako PDF 199.
@@ -2077,7 +2077,7 @@
 252;257;Biologie 2019, opakování II;40;vyřazeno;;Stejné číslování jako PDF 199. tlak
 252;257;Biologie 2019, opakování II;41;přiřazeno;17;Stejné číslování jako PDF 199.
 252;257;Biologie 2019, opakování II;42;přiřazeno;340;Stejné číslování jako PDF 199.
-252;257;Biologie 2019, opakování II;43;částečně;101;Stejné číslování jako PDF 199.
+252;257;Biologie 2019, opakování II;43;vyřazeno;;Stejné číslování jako PDF 199. kapacita
 252;257;Biologie 2019, opakování II;44;přiřazeno;660;Stejné číslování jako PDF 199.
 252;257;Biologie 2019, opakování II;45;přiřazeno;280;Stejné číslování jako PDF 199.
 252;257;Biologie 2019, opakování II;46;přiřazeno;341;Stejné číslování jako PDF 199.
@@ -2115,7 +2115,7 @@
 258;263;Biologie 2019, opakování III;28;přiřazeno;47;Stejné číslování jako PDF 199.
 258;263;Biologie 2019, opakování III;29;přiřazeno;185;Stejné číslování jako PDF 199.
 258;263;Biologie 2019, opakování III;30;přiřazeno;336;Stejné číslování jako PDF 199.
-258;263;Biologie 2019, opakování III;31;částečně;95;Stejné číslování jako PDF 199.
+258;263;Biologie 2019, opakování III;31;ve vysvětlení;95;Stejné číslování jako PDF 199.
 258;263;Biologie 2019, opakování III;32;přiřazeno;599;Stejné číslování jako PDF 199.
 258;263;Biologie 2019, opakování III;33;přiřazeno;551;Stejné číslování jako PDF 199.
 258;263;Biologie 2019, opakování III;34;přiřazeno;273;Stejné číslování jako PDF 199.
@@ -2127,7 +2127,7 @@
 258;263;Biologie 2019, opakování III;40;vyřazeno;;Stejné číslování jako PDF 199. tlak
 258;263;Biologie 2019, opakování III;41;přiřazeno;17;Stejné číslování jako PDF 199.
 258;263;Biologie 2019, opakování III;42;přiřazeno;340;Stejné číslování jako PDF 199.
-258;263;Biologie 2019, opakování III;43;částečně;101;Stejné číslování jako PDF 199.
+258;263;Biologie 2019, opakování III;43;vyřazeno;;Stejné číslování jako PDF 199. kapacita
 258;263;Biologie 2019, opakování III;44;přiřazeno;660;Stejné číslování jako PDF 199.
 258;263;Biologie 2019, opakování III;45;přiřazeno;280;Stejné číslování jako PDF 199.
 258;263;Biologie 2019, opakování III;46;přiřazeno;341;Stejné číslování jako PDF 199.
@@ -2138,8 +2138,8 @@
 264;268;Biologie 2019, radiologický asistent a laborant;1;vyřazeno;;Více problémových tvrzení v nabídce
 264;268;Biologie 2019, radiologický asistent a laborant;2;přiřazeno;361;
 264;268;Biologie 2019, radiologický asistent a laborant;3;přiřazeno;598;
-264;268;Biologie 2019, radiologický asistent a laborant;4;částečně;106;
-264;268;Biologie 2019, radiologický asistent a laborant;5;částečně;22;
+264;268;Biologie 2019, radiologický asistent a laborant;4;ve vysvětlení;106;
+264;268;Biologie 2019, radiologický asistent a laborant;5;přiřazeno;670;
 264;268;Biologie 2019, radiologický asistent a laborant;6;přiřazeno;38;
 264;268;Biologie 2019, radiologický asistent a laborant;7;přiřazeno;25;
 264;268;Biologie 2019, radiologický asistent a laborant;8;vyřazeno;;Průměrný klidový tep není jedna univerzální hodnota
@@ -2151,10 +2151,10 @@
 264;268;Biologie 2019, radiologický asistent a laborant;14;přiřazeno;85;
 264;268;Biologie 2019, radiologický asistent a laborant;15;přiřazeno;452;
 264;268;Biologie 2019, radiologický asistent a laborant;16;přiřazeno;332;
-264;268;Biologie 2019, radiologický asistent a laborant;17;částečně;88;
+264;268;Biologie 2019, radiologický asistent a laborant;17;přiřazeno;88;
 264;268;Biologie 2019, radiologický asistent a laborant;18;přiřazeno;453;
 264;268;Biologie 2019, radiologický asistent a laborant;19;přiřazeno;372;
-264;268;Biologie 2019, radiologický asistent a laborant;20;částečně;319;
+264;268;Biologie 2019, radiologický asistent a laborant;20;přiřazeno;666;
 264;268;Biologie 2019, radiologický asistent a laborant;21;přiřazeno;454;
 264;268;Biologie 2019, radiologický asistent a laborant;22;přiřazeno;455;
 264;268;Biologie 2019, radiologický asistent a laborant;23;přiřazeno;108;
@@ -2164,22 +2164,22 @@
 264;268;Biologie 2019, radiologický asistent a laborant;27;přiřazeno;282;
 264;268;Biologie 2019, radiologický asistent a laborant;28;vyřazeno;;Počet cyklů závisí na řadě individuálních faktorů
 264;268;Biologie 2019, radiologický asistent a laborant;29;přiřazeno;458;
-264;268;Biologie 2019, radiologický asistent a laborant;30;částečně;101;
+264;268;Biologie 2019, radiologický asistent a laborant;30;vyřazeno;;Vitální kapacita závisí mimo jiné na tělesné výšce a věku
 264;268;Biologie 2019, radiologický asistent a laborant;31;přiřazeno;553;
 264;268;Biologie 2019, radiologický asistent a laborant;32;přiřazeno;459;
 264;268;Biologie 2019, radiologický asistent a laborant;33;přiřazeno;255;
 264;268;Biologie 2019, radiologický asistent a laborant;34;přiřazeno;657;
 264;268;Biologie 2019, radiologický asistent a laborant;35;přiřazeno;200;
 264;268;Biologie 2019, radiologický asistent a laborant;36;přiřazeno;594;
-264;268;Biologie 2019, radiologický asistent a laborant;37;částečně;275;
+264;268;Biologie 2019, radiologický asistent a laborant;37;přiřazeno;661;
 264;268;Biologie 2019, radiologický asistent a laborant;38;přiřazeno;173;
 264;268;Biologie 2019, radiologický asistent a laborant;39;přiřazeno;460;
-264;268;Biologie 2019, radiologický asistent a laborant;40;částečně;599;
+264;268;Biologie 2019, radiologický asistent a laborant;40;ve vysvětlení;599;
 270;275;Biologie 2019, další společná sada;1;vyřazeno;;Stejné číslování jako PDF 264. Více problémových tvrzení v nabídce
 270;275;Biologie 2019, další společná sada;2;přiřazeno;361;Stejné číslování jako PDF 264.
 270;275;Biologie 2019, další společná sada;3;přiřazeno;598;Stejné číslování jako PDF 264.
-270;275;Biologie 2019, další společná sada;4;částečně;106;Stejné číslování jako PDF 264.
-270;275;Biologie 2019, další společná sada;5;částečně;22;Stejné číslování jako PDF 264.
+270;275;Biologie 2019, další společná sada;4;ve vysvětlení;106;Stejné číslování jako PDF 264.
+270;275;Biologie 2019, další společná sada;5;přiřazeno;670;Stejné číslování jako PDF 264.
 270;275;Biologie 2019, další společná sada;6;přiřazeno;38;Stejné číslování jako PDF 264.
 270;275;Biologie 2019, další společná sada;7;přiřazeno;25;Stejné číslování jako PDF 264.
 270;275;Biologie 2019, další společná sada;8;vyřazeno;;Stejné číslování jako PDF 264. Průměrný klidový tep není jedna univerzální hodnota
@@ -2191,10 +2191,10 @@
 270;275;Biologie 2019, další společná sada;14;přiřazeno;85;Stejné číslování jako PDF 264.
 270;275;Biologie 2019, další společná sada;15;přiřazeno;452;Stejné číslování jako PDF 264.
 270;275;Biologie 2019, další společná sada;16;přiřazeno;332;Stejné číslování jako PDF 264.
-270;275;Biologie 2019, další společná sada;17;částečně;88;Stejné číslování jako PDF 264.
+270;275;Biologie 2019, další společná sada;17;přiřazeno;88;Stejné číslování jako PDF 264.
 270;275;Biologie 2019, další společná sada;18;přiřazeno;453;Stejné číslování jako PDF 264.
 270;275;Biologie 2019, další společná sada;19;přiřazeno;372;Stejné číslování jako PDF 264.
-270;275;Biologie 2019, další společná sada;20;částečně;319;Stejné číslování jako PDF 264.
+270;275;Biologie 2019, další společná sada;20;přiřazeno;666;Stejné číslování jako PDF 264.
 270;275;Biologie 2019, další společná sada;21;přiřazeno;454;Stejné číslování jako PDF 264.
 270;275;Biologie 2019, další společná sada;22;přiřazeno;455;Stejné číslování jako PDF 264.
 270;275;Biologie 2019, další společná sada;23;přiřazeno;108;Stejné číslování jako PDF 264.
@@ -2204,17 +2204,17 @@
 270;275;Biologie 2019, další společná sada;27;přiřazeno;282;Stejné číslování jako PDF 264.
 270;275;Biologie 2019, další společná sada;28;vyřazeno;;Stejné číslování jako PDF 264. Počet cyklů závisí na řadě individuálních faktorů
 270;275;Biologie 2019, další společná sada;29;přiřazeno;458;Stejné číslování jako PDF 264.
-270;275;Biologie 2019, další společná sada;30;částečně;101;Stejné číslování jako PDF 264.
+270;275;Biologie 2019, další společná sada;30;vyřazeno;;Stejné číslování jako PDF 264. Vitální kapacita závisí mimo jiné na tělesné výšce a věku
 270;275;Biologie 2019, další společná sada;31;přiřazeno;553;Stejné číslování jako PDF 264.
 270;275;Biologie 2019, další společná sada;32;přiřazeno;459;Stejné číslování jako PDF 264.
 270;275;Biologie 2019, další společná sada;33;přiřazeno;255;Stejné číslování jako PDF 264.
 270;275;Biologie 2019, další společná sada;34;přiřazeno;657;Stejné číslování jako PDF 264.
 270;275;Biologie 2019, další společná sada;35;přiřazeno;200;Stejné číslování jako PDF 264.
 270;275;Biologie 2019, další společná sada;36;přiřazeno;594;Stejné číslování jako PDF 264.
-270;275;Biologie 2019, další společná sada;37;částečně;275;Stejné číslování jako PDF 264.
+270;275;Biologie 2019, další společná sada;37;přiřazeno;661;Stejné číslování jako PDF 264.
 270;275;Biologie 2019, další společná sada;38;přiřazeno;173;Stejné číslování jako PDF 264.
 270;275;Biologie 2019, další společná sada;39;přiřazeno;460;Stejné číslování jako PDF 264.
-270;275;Biologie 2019, další společná sada;40;částečně;599;Stejné číslování jako PDF 264.
+270;275;Biologie 2019, další společná sada;40;ve vysvětlení;599;Stejné číslování jako PDF 264.
 270;275;Biologie 2019, další společná sada;41;přiřazeno;109;
 270;275;Biologie 2019, další společná sada;42;přiřazeno;514;
 270;275;Biologie 2019, další společná sada;43;přiřazeno;595;
@@ -2224,4 +2224,4 @@
 270;275;Biologie 2019, další společná sada;47;přiřazeno;596;
 270;275;Biologie 2019, další společná sada;48;přiřazeno;291;
 270;275;Biologie 2019, další společná sada;49;přiřazeno;597;
-270;275;Biologie 2019, další společná sada;50;částečně;114;
+270;275;Biologie 2019, další společná sada;50;ve vysvětlení;114;

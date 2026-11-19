@@ -6,28 +6,28 @@
 
 | Číslo přílohy | Sada | Přiřazení podle pořadí úloh |
 |---|---|---|
-| 01 | Biologie 2019 | 85 · 327 · 289 · 99 · 613 · 609 · 104 · 105 · 26 · E329 · 616 · 29 · 192 · 330 · 461 · 362 · 610 · 98 · E37 · 331 · 110 · 88 · 332 · E10 · 333 · 334 · 335 · 47 · 185 · 336 · P95 · 599 · 551 · 273 · 337 · E12 · 377 · 338 · 339 · X:tlak · 17 · 340 · P101 · 660 · 280 · 341 · 552 · 342 · 462 · 343 |
+| 01 | Biologie 2019 | 85 · 327 · 289 · 99 · 613 · 609 · 104 · 105 · 26 · E329 · 616 · 29 · 192 · 330 · 461 · 362 · 610 · 98 · E37 · 331 · 110 · 88 · 332 · E10 · 333 · 334 · 335 · 47 · 185 · 336 · E95 · 599 · 551 · 273 · 337 · E12 · 377 · 338 · 339 · X:tlak · 17 · 340 · X:kapacita · 660 · 280 · 341 · 552 · 342 · 462 · 343 |
 | 02 | Fyzioterapie · biologie | 516 · 517 · 518 · 519 · 117 · 568 · 119 · 604 · 183 · 512 |
-| 03 | Fyzioterapie · motivace | 569 · 590 · 570 · X:věk · 538 · P164 · 176 · P156 · X:motivace · 315 |
-| 04,25 | Filozofie · fyzioterapie a radiologie | 80 · 511 · 79 · P130 · 130 · X:filozofie · X:filozofie · 131 · 222 · 132 |
-| 05 | Chirurgické ošetřovatelství | 469 · P470 · 471 · 472 · 473 · 474 · X:poloha · 475 · 476 · 45 |
+| 03 | Fyzioterapie · motivace | 569 · 590 · 570 · X:věk · 538 · 164 · 176 · 654 · X:motivace · 315 |
+| 04,25 | Filozofie · fyzioterapie a radiologie | 80 · 511 · 79 · E130 · 130 · X:filozofie · X:filozofie · 131 · 222 · 132 |
+| 05 | Chirurgické ošetřovatelství | 469 · E470 · 471 · 472 · 473 · 474 · X:poloha · 475 · 476 · 45 |
 | 06 | Intenzivní péče | 477 · 478 · 479 · 480 · 605 · X:výkon · 554 · 481 · 482 · 612 |
 | 07 | Interní ošetřovatelství | E555 · 483 · 556 · 557 · 558 · 484 · 485 · X:bolest · 486 · 487 |
 | 08 | Laboratorní diagnostika · biologie | 563 · 337 · 279 · 274 · 105 · 11 · 567 · 261 · 38 · E104 |
 | 09 | Laboratorní diagnostika · přehled | 404 · X:národ · 412 · X:renegát · 48 · 606 · 217 · 523 · E524 · 524 |
 | 10 | Chemie | 525 · 526 · X:kyselina · 527 · 528 · 529 · 530 · 531 · 532 · 533 |
 | 11,17,21,29,32 | Oborové obměny biologie | 274 · 11 · 105 · 604 · 183 · 512 · 38 · E104 · 262 · 611 |
-| 12,18,19,20,30,34,38 | Oborové obměny ZSV | 561 · 68 · 562 · P234 · 240 · 513 · 402 · 70 · 560 · X:strava |
+| 12,18,19,20,30,34,38 | Oborové obměny ZSV | 561 · 68 · 562 · X:hédonismus · 240 · 513 · 402 · 70 · 560 · X:strava |
 | 13,15 | Ochrana obyvatelstva · přehled | 225 · 502 · 141 · 503 · X:služby · 504 · 659 · 602 · 505 · 506 |
-| 14,16 | Ochrana obyvatelstva · biologie | 501 · 183 · 42 · 607 · P86 · 184 · 87 · 588 · 88 · 186 |
+| 14,16 | Ochrana obyvatelstva · biologie | 501 · 183 · 42 · 607 · X:klínová · 184 · 87 · 588 · 88 · 186 |
 | 22 | Radiologie · biologie | 501 · 183 · 42 · 607 · 187 · 188 · 254 · 268 · 102 · 589 |
 | 23 | Radiologie · biologie 2. kolo | 501 · 183 · 87 · 588 · 88 · 186 · 90 · 187 · 188 · 268 |
 | 24 | Radiologie · fyzika 2. kolo (DOC) | 543 · 544 · 545 · 601 · 546 · 547 · 548 · 534 · 535 · 536 |
 | 26 | Radiologie · přehled 2. kolo | 511 · 79 · 130 · X:filozofie · X:filozofie · 131 · 132 · 549 · 384 · 550 |
-| 27 | Teorie ošetřovatelství | 463 · 464 · P179 · 465 · 177 · 466 · 586 · 467 · 467 · 468 |
-| 28 | Sociální práce · sociologie | 507 · 508 · 387 · 509 · 510 · P154 · 603 · P445 · 50 · 511 |
-| 31 | Všeobecná informovanost 2019 | 74 · 66 · 68 · 439 · 379 · 344 · 562 · 72 · 658 · 345 · 656 · 346 · 131 · 347 · 411 · 251 · 249 · 250 · 614 · 227 · 348 · 349 · X:právo · X:právo · 615 · X:právo · 58 · 57 · 59 · 221 · 655 · 63 · X:služby · 659 · 142 · X:právo · 83 · 48 · 50 · 51 · 53 · 153 · 350 · 386 · 387 · 412 · 388 · 413 · 389 · 150 |
-| 33 | Zdravotně-sociální péče · biologie 2. kolo | 563 · 279 · 274 · 105 · 604 · 512 · 289 · 587 · P564 · 593 |
+| 27 | Teorie ošetřovatelství | 463 · 464 · 679 · 465 · 177 · 466 · 586 · 467 · 467 · 468 |
+| 28 | Sociální práce · sociologie | 507 · 508 · 387 · 509 · 510 · 447 · 603 · E445 · 50 · 511 |
+| 31 | Všeobecná informovanost 2019 | 74 · 66 · 68 · 439 · 379 · 344 · 562 · 72 · 658 · 345 · 656 · 346 · 131 · 347 · 411 · 251 · 249 · 250 · 614 · 227 · 348 · 349 · X:právo · 630 · 615 · 633 · 58 · 57 · 59 · 221 · 655 · 63 · X:služby · 659 · 142 · 631 · 83 · 48 · 50 · 51 · 53 · 153 · 350 · 386 · 387 · 412 · 388 · 413 · 389 · 150 |
+| 33 | Zdravotně-sociální péče · biologie 2. kolo | 563 · 279 · 274 · 105 · 604 · 512 · 289 · 587 · X:vitaminy · 593 |
 | 35,36 | Zdravotně-sociální péče · psychologie 2. kolo | 223 · 565 · 566 · 58 · 59 · 221 · 134 · 62 · 135 · 224 |
 | 37 | Záchranářství · biologie | 608 · 514 · 515 · 516 · 517 · 518 · 519 · 520 · 521 · 522 |
 
@@ -48,5 +48,9 @@ Nové položky 613–616 vznikly při této kontrole. pH bylo zúženo na arteri
 
 Pátá nová položka 617 pochází z původní sbírky 2024 nové, PDF 58, úloha 8. Přeformulování se ptá na vztlak vzduchu při stejných okolních podmínkách podle [Archimédova zákona](https://ntrs.nasa.gov/api/citations/20240004989/downloads/50th%20Anniversary%20Ed%20Scientific%20Ballooning%20Handbook.pdf). Tato úloha není součástí fyzikálního DOC v ZIPu.
 
-Toto je mapa archivu. Část úloh z pěti původních PDF je současně zachycena zde, protože se v archivu opakují. Samostatné testy z původních PDF a neúplně pokryté řádky vyžadují další kontrolu na úrovni zadání.
+Toto je mapa archivu. Část úloh z pěti původních PDF je současně zachycena zde, protože se v archivu opakují. Samostatné testy z původních PDF eviduje [mapa původních PDF](BUDEJOVICE-MAPA-PUVODNI-PDF.md).
 
+
+U úlohy 43 přílohy 01 závisí orientační vitální kapacita na věku a tělesné výšce. Kvíz v otázce 101 zkouší samotný význam vitální kapacity.
+
+Přirovnání hédonismu ke konzumerismu nemá jednoznačné kritérium. Hédonismus testuje otázka 234. U klínové kosti neodpovídá žádná z nabízených možností celému správnému popisu. Klínovou kost ve spodině lebky procvičuje otázka 86. Na obecnou otázku o vitaminu důležitém pro krvetvorbu lze odpovědět více způsoby, například B12 nebo folátem. Tyto role procvičují otázky 564 a 667.
