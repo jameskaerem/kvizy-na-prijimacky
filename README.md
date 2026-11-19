@@ -1,12 +1,12 @@
 # Studijní kvízy
 
-Verze 2.35.0 • 19. 11. 2026
+Verze 2.36.0 • 19. 11. 2026
 
-Somatologie (630), Biologie (900) a České Budějovice (647). Samostatný soubor HTML funguje offline. Všechny předměty mají chytré procvičování, opakování chyb a tipů a test celé sady.
+Somatologie (630), Biologie (900) a České Budějovice (654). Samostatný soubor HTML funguje offline. Všechny předměty mají chytré procvičování, opakování chyb a tipů a test celé sady.
 
 ## České Budějovice
 
-Podrobná revize přidala osm otázek č. 613–620. [Mapa úloh ZIPu](work/BUDEJOVICE-MAPA-ZADANI-6393.md) a [mapa původních PDF](work/BUDEJOVICE-MAPA-PUVODNI-PDF.md) rozlišují přímé, částečné a vyřazené položky. Následná revize velké sbírky 2019–2022 přidala otázky č. 621–647. [Soupis úloh této sbírky](work/BUDEJOVICE-2019-2022-ULOHY.csv) uvádí čísla úloh a stav přiřazení ke kvízu. Část přiřazení ještě vyžaduje ověření.
+Podrobná revize přidala osm otázek č. 613–620. [Mapa úloh ZIPu](work/BUDEJOVICE-MAPA-ZADANI-6393.md) a [mapa původních PDF](work/BUDEJOVICE-MAPA-PUVODNI-PDF.md) rozlišují přímé, částečné a vyřazené položky. Následná revize velké sbírky 2019–2022 přidala otázky č. 621–654. [Soupis úloh této sbírky](work/BUDEJOVICE-2019-2022-ULOHY.csv) uvádí čísla úloh a stav přiřazení ke kvízu. Každé číslované zadání této sbírky má stav. Ve stavu „částečně“ je potřeba posoudit zbývající část znalosti.
 
 V záložce České Budějovice je devět tematických kvízů a volba Všechny otázky. Každý kvíz má vlastní rozpracované kolo. Pokrok po jednotlivých otázkách je společný a staré kolo zůstává dostupné pod Všechny otázky. Z 38 příloh archivu přibylo po dvou kontrolách dvanáct dosud nepokrytých otázek. Přiřazení příloh je v [auditu archivu](work/BUDEJOVICE-ARCHIV-6393.md).
 

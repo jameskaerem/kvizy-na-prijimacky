@@ -57,14 +57,14 @@ U managementu je část o pracovních rolích, výběru a rozmístění zatím p
 
 | Stav | Počet | Význam |
 |---|---:|---|
-| Přiřazeno | 1 752 | Otázka v kvízu prověřuje hlavní znalost původní úlohy nebo odpovídá ověřené obměně. |
-| Ve vysvětlení | 31 | Znalost je uvedena ve vysvětlení odpovědi. |
-| Částečně | 148 | Otázka v kvízu prověřuje jen část znalosti nebo příbuzný pojem. |
-| Vyřazeno | 144 | Důvod je v soupisu, například nejednoznačný klíč nebo historicky podmíněné zadání. |
-| Nepotvrzeno | 151 | Chybí doložená shoda nebo rozhodnutí o využitelnosti. |
+| Přiřazeno | 1 875 | Otázka v kvízu prověřuje hlavní znalost původní úlohy nebo odpovídá ověřené obměně. |
+| Ve vysvětlení | 33 | Znalost je uvedena ve vysvětlení odpovědi. |
+| Částečně | 161 | Otázka v kvízu prověřuje jen část znalosti nebo příbuzný pojem. |
+| Vyřazeno | 157 | Důvod je v soupisu, například nejednoznačný klíč nebo historicky podmíněné zadání. |
+| Nepotvrzeno | 0 | Chybí doložená shoda nebo rozhodnutí o využitelnosti. |
 | **Celkem** | **2 226** | Součet číslovaných úloh včetně opakovaných sad. |
 
-Sada všeobecné informovanosti na PDF 120–122 končí úlohou 26, ačkoli nadpis slibuje 30 otázek. PDF 156 opakuje úlohy 36–45 předchozí sady a PDF 269 je prázdná strana. Součet tyto strany nezapočítává podruhé. Přiřazení je průběžné a součet se vztahuje k této sbírce.
+Sada všeobecné informovanosti na PDF 120–122 končí úlohou 26, ačkoli nadpis slibuje 30 otázek. PDF 156 opakuje úlohy 36–45 předchozí sady a PDF 269 je prázdná strana. Součet tyto strany nezapočítává podruhé. Každá číslovaná úloha má stav v soupisu. U částečně pokrytých úloh zbývá posoudit, zda je potřeba doplnit další část znalosti. Součet se vztahuje k této sbírce.
 
 Otázky 621–628 doplňují krvetvornou kostní dřeň, demenci, územní samosprávu, náležitosti pracovní smlouvy, soustavu soudů, metodu Ludmily Mojžíšové, fyzioterapii po cévní mozkové příhodě a VIII. hlavový nerv.
 
@@ -84,3 +84,9 @@ Otázky 636–647 doplňují agranulocyty, dědičnost krevních skupin v rodin�
 - Vitamin E a agorafobie. [National Institutes of Health](https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/), [NHS](https://www.nhs.uk/mental-health/conditions/agoraphobia/diagnosis/)
 - Dědické právo, výživné, sňatek a svéprávnost. [Ministerstvo spravedlnosti](https://obcanskyzakonik.justice.cz/index.php/dedicke-pravo/15-submenu/dedicke-pravo), [rozhodnutí k výživnému](https://rozhodnuti.justice.cz/rozhodnuti/?id=f76aaaba-f543-4226-a348-796e49f8c142), [Portál veřejné správy](https://portal.gov.cz/sluzby-vs/marriage-S4264), [občanský zákoník v e-Sbírce](https://e-sbirka.gov.cz/eli/cz/sb/2012/89/2026-01-01)
 - Norsko, Senát a tržní rovnováha. [Evropská služba pro vnější činnost](https://www.eeas.europa.eu/eeas/western-europe_en), [Ústava ČR](https://www.psp.cz/docs/laws/constitution.html), [OpenStax: tržní rovnováha](https://openstax.org/books/principles-economics-3e/pages/3-1-demand-supply-and-equilibrium-in-markets-for-goods-and-services)
+
+Otázky 648–654 doplňují právní jednání, ústavní postavení vlády, platnost zákona, písemnou formu zkušební doby, přímé daně, logické přiřazování a rozsah práce fyzioterapeuta.
+
+- Právní jednání, výkonná moc a platnost zákonů. [Občanský zákoník, § 545](https://e-sbirka.gov.cz/eli/cz/sb/2012/89/2026-01-01), [Ústava ČR, čl. 52 a 67](https://www.psp.cz/docs/laws/constitution.html)
+- Zkušební doba a daně. [Ministerstvo práce a sociálních věcí](https://ppropo.mpsv.cz/iv14sjednanizkusebnidoby), [Ministerstvo financí](https://www.mfcr.cz/assets/cs/media/2023-01-01_Pokyn-k-vyhlasce-c-412-2021-Sb-o-rozpoctove-skladbe-od-01-01-2023_v02.pdf)
+- Rozsah fyzioterapie. [World Physiotherapy](https://world.physio/index.php/resources/what-is-physiotherapy)
