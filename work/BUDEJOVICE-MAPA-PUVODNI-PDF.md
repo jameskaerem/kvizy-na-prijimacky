@@ -57,11 +57,11 @@ U managementu je část o pracovních rolích, výběru a rozmístění zatím p
 
 | Stav | Počet | Význam |
 |---|---:|---|
-| Přiřazeno | 1 443 | Otázka v kvízu prověřuje hlavní znalost původní úlohy nebo odpovídá ověřené obměně. |
-| Ve vysvětlení | 17 | Znalost je uvedena ve vysvětlení odpovědi. |
-| Částečně | 111 | Otázka v kvízu prověřuje jen část znalosti nebo příbuzný pojem. |
-| Vyřazeno | 114 | Důvod je v soupisu, například nejednoznačný klíč nebo historicky podmíněné zadání. |
-| Nepotvrzeno | 541 | Chybí doložená shoda nebo rozhodnutí o využitelnosti. |
+| Přiřazeno | 1 561 | Otázka v kvízu prověřuje hlavní znalost původní úlohy nebo odpovídá ověřené obměně. |
+| Ve vysvětlení | 23 | Znalost je uvedena ve vysvětlení odpovědi. |
+| Částečně | 131 | Otázka v kvízu prověřuje jen část znalosti nebo příbuzný pojem. |
+| Vyřazeno | 127 | Důvod je v soupisu, například nejednoznačný klíč nebo historicky podmíněné zadání. |
+| Nepotvrzeno | 384 | Chybí doložená shoda nebo rozhodnutí o využitelnosti. |
 | **Celkem** | **2 226** | Součet číslovaných úloh včetně opakovaných sad. |
 
 Sada všeobecné informovanosti na PDF 120–122 končí úlohou 26, ačkoli nadpis slibuje 30 otázek. PDF 156 opakuje úlohy 36–45 předchozí sady a PDF 269 je prázdná strana. Součet tyto strany nezapočítává podruhé. Přiřazení je průběžné a součet se vztahuje k této sbírce.
@@ -71,3 +71,9 @@ Otázky 621–628 doplňují krvetvornou kostní dřeň, demenci, územní samos
 - Krvetvorba a demence. [OpenStax](https://openstax.org/books/anatomy-and-physiology/pages/18-2-production-of-the-formed-elements), [National Institute on Aging](https://www.nia.nih.gov/health/what-dementia-symptoms-types-and-diagnosis)
 - Územní samospráva, pracovní smlouva a soudy. [Poslanecká sněmovna](https://www.psp.cz/docs/laws/constitution.html), [Ministerstvo práce a sociálních věcí](https://ppropo.mpsv.cz/IV12Pracovnismlouvaajejiobsah)
 - Fyzioterapeutické metody, rehabilitace a VIII. hlavový nerv. [Univerzita Karlova](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=B01353), [NICE](https://www.nice.org.uk/guidance/ng236/chapter/Recommendations), [National Library of Medicine](https://meshb.nlm.nih.gov/record/ui?ui=D000159)
+
+Otázky 629–635 doplňují počet chromozomů, formu kupní smlouvy a zápis vlastnického práva, nabytí plné svéprávnosti, vyhlašování českých zákonů, důvod okamžitého zrušení pracovního poměru a úlohu hrtanu v dýchacích cestách.
+
+- Chromozomy a dýchací cesty. [MedlinePlus Genetics](https://medlineplus.gov/genetics/understanding/basics/howmanychromosomes/), [OpenStax](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-1-organs-and-structures-of-the-respiratory-system)
+- Plná svéprávnost, písemná forma a převod nemovitostí. [Občanský zákoník v e-Sbírce, § 30, § 560 a § 1105](https://e-sbirka.gov.cz/eli/cz/sb/2012/89/2026-01-01)
+- Vyhlašování zákonů a okamžité zrušení pracovního poměru. [e-Sbírka](https://e-sbirka.gov.cz/co-je-esbirka), [Ministerstvo práce a sociálních věcí](https://ppropo.mpsv.cz/VI31Obecnepodminkyplatnostiokamz)

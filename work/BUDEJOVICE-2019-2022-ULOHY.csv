@@ -37,13 +37,13 @@
 1;7;Biologie 2020;36;přiřazeno;113;
 1;7;Biologie 2020;37;přiřazeno;114;
 1;7;Biologie 2020;38;přiřazeno;115;
-1;7;Biologie 2020;39;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+1;7;Biologie 2020;39;ve vysvětlení;116;
 1;7;Biologie 2020;40;přiřazeno;116;
 1;7;Biologie 2020;41;přiřazeno;117;
 1;7;Biologie 2020;42;přiřazeno;117;
 1;7;Biologie 2020;43;přiřazeno;118;
 1;7;Biologie 2020;44;přiřazeno;119;
-1;7;Biologie 2020;45;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+1;7;Biologie 2020;45;částečně;119;
 1;7;Biologie 2020;46;přiřazeno;120;
 1;7;Biologie 2020;47;přiřazeno;121;
 1;7;Biologie 2020;48;přiřazeno;122;
@@ -87,13 +87,13 @@
 8;14;Biologie 2020, druhý sken;36;přiřazeno;113;Stejné číslování jako PDF 1.
 8;14;Biologie 2020, druhý sken;37;přiřazeno;114;Stejné číslování jako PDF 1.
 8;14;Biologie 2020, druhý sken;38;přiřazeno;115;Stejné číslování jako PDF 1.
-8;14;Biologie 2020, druhý sken;39;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+8;14;Biologie 2020, druhý sken;39;ve vysvětlení;116;Stejné číslování jako PDF 1.
 8;14;Biologie 2020, druhý sken;40;přiřazeno;116;Stejné číslování jako PDF 1.
 8;14;Biologie 2020, druhý sken;41;přiřazeno;117;Stejné číslování jako PDF 1.
 8;14;Biologie 2020, druhý sken;42;přiřazeno;117;Stejné číslování jako PDF 1.
 8;14;Biologie 2020, druhý sken;43;přiřazeno;118;Stejné číslování jako PDF 1.
 8;14;Biologie 2020, druhý sken;44;přiřazeno;119;Stejné číslování jako PDF 1.
-8;14;Biologie 2020, druhý sken;45;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+8;14;Biologie 2020, druhý sken;45;částečně;119;Stejné číslování jako PDF 1.
 8;14;Biologie 2020, druhý sken;46;přiřazeno;120;Stejné číslování jako PDF 1.
 8;14;Biologie 2020, druhý sken;47;přiřazeno;121;Stejné číslování jako PDF 1.
 8;14;Biologie 2020, druhý sken;48;přiřazeno;122;Stejné číslování jako PDF 1.
@@ -339,16 +339,16 @@
 39;45;Biologie 2020, další varianta;48;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
 39;45;Biologie 2020, další varianta;49;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
 39;45;Biologie 2020, další varianta;50;přiřazeno;207;
-46;51;Všeobecná informovanost 2021 v2;1;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+46;51;Všeobecná informovanost 2021 v2;1;částečně;75;
 46;51;Všeobecná informovanost 2021 v2;2;přiřazeno;208;
-46;51;Všeobecná informovanost 2021 v2;3;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+46;51;Všeobecná informovanost 2021 v2;3;vyřazeno;;Vznik filozofie nelze spolehlivě přiřadit jediné univerzální situaci
 46;51;Všeobecná informovanost 2021 v2;4;přiřazeno;209;
-46;51;Všeobecná informovanost 2021 v2;5;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+46;51;Všeobecná informovanost 2021 v2;5;částečně;561;
 46;51;Všeobecná informovanost 2021 v2;6;přiřazeno;125;
 46;51;Všeobecná informovanost 2021 v2;7;přiřazeno;73;
 46;51;Všeobecná informovanost 2021 v2;8;přiřazeno;68;
 46;51;Všeobecná informovanost 2021 v2;9;přiřazeno;77;
-46;51;Všeobecná informovanost 2021 v2;10;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+46;51;Všeobecná informovanost 2021 v2;10;částečně;149;
 46;51;Všeobecná informovanost 2021 v2;11;přiřazeno;210;
 46;51;Všeobecná informovanost 2021 v2;12;přiřazeno;211;
 46;51;Všeobecná informovanost 2021 v2;13;přiřazeno;212;
@@ -375,7 +375,7 @@
 46;51;Všeobecná informovanost 2021 v2;34;přiřazeno;221;
 46;51;Všeobecná informovanost 2021 v2;35;částečně;130;
 46;51;Všeobecná informovanost 2021 v2;36;přiřazeno;135;
-46;51;Všeobecná informovanost 2021 v2;37;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+46;51;Všeobecná informovanost 2021 v2;37;přiřazeno;130;
 46;51;Všeobecná informovanost 2021 v2;38;přiřazeno;62;
 46;51;Všeobecná informovanost 2021 v2;39;přiřazeno;222;
 46;51;Všeobecná informovanost 2021 v2;40;přiřazeno;223;
@@ -393,12 +393,12 @@
 52;57;Všeobecná informovanost 2021 v1;2;přiřazeno;561;
 52;57;Všeobecná informovanost 2021 v1;3;přiřazeno;230;
 52;57;Všeobecná informovanost 2021 v1;4;přiřazeno;67;
-52;57;Všeobecná informovanost 2021 v1;5;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-52;57;Všeobecná informovanost 2021 v1;6;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+52;57;Všeobecná informovanost 2021 v1;5;ve vysvětlení;618;
+52;57;Všeobecná informovanost 2021 v1;6;přiřazeno;59;
 52;57;Všeobecná informovanost 2021 v1;7;přiřazeno;231;
 52;57;Všeobecná informovanost 2021 v1;8;přiřazeno;232;
-52;57;Všeobecná informovanost 2021 v1;9;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-52;57;Všeobecná informovanost 2021 v1;10;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+52;57;Všeobecná informovanost 2021 v1;9;přiřazeno;351;
+52;57;Všeobecná informovanost 2021 v1;10;částečně;126;
 52;57;Všeobecná informovanost 2021 v1;11;přiřazeno;233;
 52;57;Všeobecná informovanost 2021 v1;12;přiřazeno;234;
 52;57;Všeobecná informovanost 2021 v1;13;přiřazeno;235;
@@ -407,19 +407,19 @@
 52;57;Všeobecná informovanost 2021 v1;16;přiřazeno;69;
 52;57;Všeobecná informovanost 2021 v1;17;vyřazeno;;Právní otázka vyžaduje ověřenou formulaci
 52;57;Všeobecná informovanost 2021 v1;18;přiřazeno;237;
-52;57;Všeobecná informovanost 2021 v1;19;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+52;57;Všeobecná informovanost 2021 v1;19;částečně;148;
 52;57;Všeobecná informovanost 2021 v1;20;přiřazeno;238;
 52;57;Všeobecná informovanost 2021 v1;21;vyřazeno;;Zdravotněprávní otázka vyžaduje ověřenou formulaci
 52;57;Všeobecná informovanost 2021 v1;22;přiřazeno;239;
-52;57;Všeobecná informovanost 2021 v1;23;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-52;57;Všeobecná informovanost 2021 v1;24;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-52;57;Všeobecná informovanost 2021 v1;25;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+52;57;Všeobecná informovanost 2021 v1;23;přiřazeno;566;
+52;57;Všeobecná informovanost 2021 v1;24;přiřazeno;149;
+52;57;Všeobecná informovanost 2021 v1;25;přiřazeno;128;
 52;57;Všeobecná informovanost 2021 v1;26;přiřazeno;240;
 52;57;Všeobecná informovanost 2021 v1;27;přiřazeno;241;
 52;57;Všeobecná informovanost 2021 v1;28;přiřazeno;392;
 52;57;Všeobecná informovanost 2021 v1;29;přiřazeno;242;
-52;57;Všeobecná informovanost 2021 v1;30;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-52;57;Všeobecná informovanost 2021 v1;31;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+52;57;Všeobecná informovanost 2021 v1;30;částečně;220;
+52;57;Všeobecná informovanost 2021 v1;31;vyřazeno;;Dorozumívání i sdělování jsou obhajitelná vyjádření
 52;57;Všeobecná informovanost 2021 v1;32;přiřazeno;150;
 52;57;Všeobecná informovanost 2021 v1;33;přiřazeno;243;
 52;57;Všeobecná informovanost 2021 v1;34;přiřazeno;63;
@@ -427,7 +427,7 @@
 52;57;Všeobecná informovanost 2021 v1;36;vyřazeno;;Paušální historické hodnocení směrů
 52;57;Všeobecná informovanost 2021 v1;37;přiřazeno;244;
 52;57;Všeobecná informovanost 2021 v1;38;přiřazeno;245;
-52;57;Všeobecná informovanost 2021 v1;39;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+52;57;Všeobecná informovanost 2021 v1;39;přiřazeno;79;
 52;57;Všeobecná informovanost 2021 v1;40;přiřazeno;130;
 52;57;Všeobecná informovanost 2021 v1;41;přiřazeno;246;
 52;57;Všeobecná informovanost 2021 v1;42;přiřazeno;247;
@@ -621,32 +621,32 @@
 76;79;Motivační test 2021 v3;30;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
 80;85;Všeobecná informovanost 2021 v3;1;přiřazeno;561;
 80;85;Všeobecná informovanost 2021 v3;2;přiřazeno;230;
-80;85;Všeobecná informovanost 2021 v3;3;přiřazeno;618;
+80;85;Všeobecná informovanost 2021 v3;3;ve vysvětlení;618;
 80;85;Všeobecná informovanost 2021 v3;4;přiřazeno;231;
-80;85;Všeobecná informovanost 2021 v3;5;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+80;85;Všeobecná informovanost 2021 v3;5;přiřazeno;232;
 80;85;Všeobecná informovanost 2021 v3;6;přiřazeno;351;
 80;85;Všeobecná informovanost 2021 v3;7;přiřazeno;233;
 80;85;Všeobecná informovanost 2021 v3;8;přiřazeno;236;
 80;85;Všeobecná informovanost 2021 v3;9;vyřazeno;;Právní otázka vyžaduje ověřenou formulaci
-80;85;Všeobecná informovanost 2021 v3;10;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+80;85;Všeobecná informovanost 2021 v3;10;přiřazeno;69;
 80;85;Všeobecná informovanost 2021 v3;11;vyřazeno;;Právní otázka vyžaduje ověřenou formulaci
-80;85;Všeobecná informovanost 2021 v3;12;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+80;85;Všeobecná informovanost 2021 v3;12;přiřazeno;238;
 80;85;Všeobecná informovanost 2021 v3;13;vyřazeno;;Zdravotněprávní otázka vyžaduje ověřenou formulaci
 80;85;Všeobecná informovanost 2021 v3;14;přiřazeno;566;
 80;85;Všeobecná informovanost 2021 v3;15;přiřazeno;149;
 80;85;Všeobecná informovanost 2021 v3;16;přiřazeno;128;
 80;85;Všeobecná informovanost 2021 v3;17;přiřazeno;240;
 80;85;Všeobecná informovanost 2021 v3;18;přiřazeno;392;
-80;85;Všeobecná informovanost 2021 v3;19;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+80;85;Všeobecná informovanost 2021 v3;19;částečně;220;
 80;85;Všeobecná informovanost 2021 v3;20;přiřazeno;150;
 80;85;Všeobecná informovanost 2021 v3;21;přiřazeno;63;
-80;85;Všeobecná informovanost 2021 v3;22;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+80;85;Všeobecná informovanost 2021 v3;22;vyřazeno;;Obecný vztah literárního směru k tématu mravní svobody
 80;85;Všeobecná informovanost 2021 v3;23;přiřazeno;79;
 80;85;Všeobecná informovanost 2021 v3;24;přiřazeno;130;
 80;85;Všeobecná informovanost 2021 v3;25;přiřazeno;247;
-80;85;Všeobecná informovanost 2021 v3;26;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+80;85;Všeobecná informovanost 2021 v3;26;přiřazeno;248;
 80;85;Všeobecná informovanost 2021 v3;27;přiřazeno;352;
-80;85;Všeobecná informovanost 2021 v3;28;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+80;85;Všeobecná informovanost 2021 v3;28;přiřazeno;250;
 80;85;Všeobecná informovanost 2021 v3;29;přiřazeno;66;
 80;85;Všeobecná informovanost 2021 v3;30;přiřazeno;209;
 80;85;Všeobecná informovanost 2021 v3;31;přiřazeno;125;
@@ -659,15 +659,15 @@
 80;85;Všeobecná informovanost 2021 v3;38;přiřazeno;622;
 80;85;Všeobecná informovanost 2021 v3;39;přiřazeno;562;
 80;85;Všeobecná informovanost 2021 v3;40;přiřazeno;218;
-80;85;Všeobecná informovanost 2021 v3;41;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+80;85;Všeobecná informovanost 2021 v3;41;přiřazeno;64;
 80;85;Všeobecná informovanost 2021 v3;42;přiřazeno;623;
-80;85;Všeobecná informovanost 2021 v3;43;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+80;85;Všeobecná informovanost 2021 v3;43;přiřazeno;137;
 80;85;Všeobecná informovanost 2021 v3;44;přiřazeno;131;
 80;85;Všeobecná informovanost 2021 v3;45;částečně;130;
 80;85;Všeobecná informovanost 2021 v3;46;přiřazeno;62;
 80;85;Všeobecná informovanost 2021 v3;47;přiřazeno;58;
 80;85;Všeobecná informovanost 2021 v3;48;přiřazeno;226;
-80;85;Všeobecná informovanost 2021 v3;49;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+80;85;Všeobecná informovanost 2021 v3;49;přiřazeno;227;
 80;85;Všeobecná informovanost 2021 v3;50;částečně;228;
 86;89;Motivační test 2021 v1;1;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
 86;89;Motivační test 2021 v1;2;přiřazeno;317;
@@ -729,187 +729,187 @@
 90;93;Motivační test 2021 v2;28;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
 90;93;Motivační test 2021 v2;29;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
 90;93;Motivační test 2021 v2;30;přiřazeno;326;
-94;98;Biologie 2019, radiologický asistent I;1;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+94;98;Biologie 2019, radiologický asistent I;1;přiřazeno;85;
 94;98;Biologie 2019, radiologický asistent I;2;přiřazeno;327;
-94;98;Biologie 2019, radiologický asistent I;3;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+94;98;Biologie 2019, radiologický asistent I;3;přiřazeno;289;
 94;98;Biologie 2019, radiologický asistent I;4;přiřazeno;328;
-94;98;Biologie 2019, radiologický asistent I;5;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-94;98;Biologie 2019, radiologický asistent I;6;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-94;98;Biologie 2019, radiologický asistent I;7;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-94;98;Biologie 2019, radiologický asistent I;8;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+94;98;Biologie 2019, radiologický asistent I;5;částečně;613;
+94;98;Biologie 2019, radiologický asistent I;6;přiřazeno;104;
+94;98;Biologie 2019, radiologický asistent I;7;přiřazeno;105;
+94;98;Biologie 2019, radiologický asistent I;8;přiřazeno;26;
 94;98;Biologie 2019, radiologický asistent I;9;přiřazeno;329;
-94;98;Biologie 2019, radiologický asistent I;10;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-94;98;Biologie 2019, radiologický asistent I;11;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+94;98;Biologie 2019, radiologický asistent I;10;přiřazeno;29;
+94;98;Biologie 2019, radiologický asistent I;11;přiřazeno;192;
 94;98;Biologie 2019, radiologický asistent I;12;přiřazeno;330;
-94;98;Biologie 2019, radiologický asistent I;13;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-94;98;Biologie 2019, radiologický asistent I;14;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-94;98;Biologie 2019, radiologický asistent I;15;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-94;98;Biologie 2019, radiologický asistent I;16;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+94;98;Biologie 2019, radiologický asistent I;13;částečně;196;
+94;98;Biologie 2019, radiologický asistent I;14;přiřazeno;362;
+94;98;Biologie 2019, radiologický asistent I;15;přiřazeno;98;
+94;98;Biologie 2019, radiologický asistent I;16;ve vysvětlení;37;
 94;98;Biologie 2019, radiologický asistent I;17;přiřazeno;331;
-94;98;Biologie 2019, radiologický asistent I;18;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+94;98;Biologie 2019, radiologický asistent I;18;přiřazeno;110;
 94;98;Biologie 2019, radiologický asistent I;19;přiřazeno;332;
-94;98;Biologie 2019, radiologický asistent I;20;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+94;98;Biologie 2019, radiologický asistent I;20;ve vysvětlení;10;
 94;98;Biologie 2019, radiologický asistent I;21;přiřazeno;333;
 94;98;Biologie 2019, radiologický asistent I;22;přiřazeno;334;
 94;98;Biologie 2019, radiologický asistent I;23;přiřazeno;335;
-94;98;Biologie 2019, radiologický asistent I;24;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+94;98;Biologie 2019, radiologický asistent I;24;přiřazeno;185;
 94;98;Biologie 2019, radiologický asistent I;25;přiřazeno;336;
-94;98;Biologie 2019, radiologický asistent I;26;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-94;98;Biologie 2019, radiologický asistent I;27;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-94;98;Biologie 2019, radiologický asistent I;28;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+94;98;Biologie 2019, radiologický asistent I;26;částečně;354;
+94;98;Biologie 2019, radiologický asistent I;27;přiřazeno;599;
+94;98;Biologie 2019, radiologický asistent I;28;přiřazeno;273;
 94;98;Biologie 2019, radiologický asistent I;29;přiřazeno;337;
-94;98;Biologie 2019, radiologický asistent I;30;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+94;98;Biologie 2019, radiologický asistent I;30;přiřazeno;377;
 94;98;Biologie 2019, radiologický asistent I;31;přiřazeno;338;
 94;98;Biologie 2019, radiologický asistent I;32;přiřazeno;339;
-94;98;Biologie 2019, radiologický asistent I;33;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-94;98;Biologie 2019, radiologický asistent I;34;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+94;98;Biologie 2019, radiologický asistent I;33;vyřazeno;;Klíč přisuzuje systolický tlak jedinému faktoru
+94;98;Biologie 2019, radiologický asistent I;34;přiřazeno;17;
 94;98;Biologie 2019, radiologický asistent I;35;přiřazeno;340;
-94;98;Biologie 2019, radiologický asistent I;36;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+94;98;Biologie 2019, radiologický asistent I;36;přiřazeno;280;
 94;98;Biologie 2019, radiologický asistent I;37;přiřazeno;341;
-94;98;Biologie 2019, radiologický asistent I;38;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+94;98;Biologie 2019, radiologický asistent I;38;přiřazeno;552;
 94;98;Biologie 2019, radiologický asistent I;39;přiřazeno;342;
 94;98;Biologie 2019, radiologický asistent I;40;přiřazeno;343;
-99;102;Všeobecná informovanost 2019, radiologický asistent I;1;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-99;102;Všeobecná informovanost 2019, radiologický asistent I;2;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+99;102;Všeobecná informovanost 2019, radiologický asistent I;1;přiřazeno;66;
+99;102;Všeobecná informovanost 2019, radiologický asistent I;2;přiřazeno;68;
 99;102;Všeobecná informovanost 2019, radiologický asistent I;3;přiřazeno;344;
-99;102;Všeobecná informovanost 2019, radiologický asistent I;4;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+99;102;Všeobecná informovanost 2019, radiologický asistent I;4;přiřazeno;562;
 99;102;Všeobecná informovanost 2019, radiologický asistent I;5;přiřazeno;345;
-99;102;Všeobecná informovanost 2019, radiologický asistent I;6;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+99;102;Všeobecná informovanost 2019, radiologický asistent I;6;částečně;561;
 99;102;Všeobecná informovanost 2019, radiologický asistent I;7;přiřazeno;346;
-99;102;Všeobecná informovanost 2019, radiologický asistent I;8;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+99;102;Všeobecná informovanost 2019, radiologický asistent I;8;přiřazeno;131;
 99;102;Všeobecná informovanost 2019, radiologický asistent I;9;přiřazeno;347;
-99;102;Všeobecná informovanost 2019, radiologický asistent I;10;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-99;102;Všeobecná informovanost 2019, radiologický asistent I;11;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-99;102;Všeobecná informovanost 2019, radiologický asistent I;12;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-99;102;Všeobecná informovanost 2019, radiologický asistent I;13;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-99;102;Všeobecná informovanost 2019, radiologický asistent I;14;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+99;102;Všeobecná informovanost 2019, radiologický asistent I;10;přiřazeno;251;
+99;102;Všeobecná informovanost 2019, radiologický asistent I;11;přiřazeno;249;
+99;102;Všeobecná informovanost 2019, radiologický asistent I;12;přiřazeno;250;
+99;102;Všeobecná informovanost 2019, radiologický asistent I;13;přiřazeno;614;
+99;102;Všeobecná informovanost 2019, radiologický asistent I;14;přiřazeno;227;
 99;102;Všeobecná informovanost 2019, radiologický asistent I;15;přiřazeno;348;
 99;102;Všeobecná informovanost 2019, radiologický asistent I;16;přiřazeno;349;
-99;102;Všeobecná informovanost 2019, radiologický asistent I;17;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-99;102;Všeobecná informovanost 2019, radiologický asistent I;18;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-99;102;Všeobecná informovanost 2019, radiologický asistent I;19;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-99;102;Všeobecná informovanost 2019, radiologický asistent I;20;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-99;102;Všeobecná informovanost 2019, radiologický asistent I;21;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-99;102;Všeobecná informovanost 2019, radiologický asistent I;22;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-99;102;Všeobecná informovanost 2019, radiologický asistent I;23;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-99;102;Všeobecná informovanost 2019, radiologický asistent I;24;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-99;102;Všeobecná informovanost 2019, radiologický asistent I;25;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-99;102;Všeobecná informovanost 2019, radiologický asistent I;26;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-99;102;Všeobecná informovanost 2019, radiologický asistent I;27;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-99;102;Všeobecná informovanost 2019, radiologický asistent I;28;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+99;102;Všeobecná informovanost 2019, radiologický asistent I;17;přiřazeno;630;
+99;102;Všeobecná informovanost 2019, radiologický asistent I;18;přiřazeno;615;
+99;102;Všeobecná informovanost 2019, radiologický asistent I;19;přiřazeno;58;
+99;102;Všeobecná informovanost 2019, radiologický asistent I;20;přiřazeno;59;
+99;102;Všeobecná informovanost 2019, radiologický asistent I;21;částečně;61;
+99;102;Všeobecná informovanost 2019, radiologický asistent I;22;přiřazeno;63;
+99;102;Všeobecná informovanost 2019, radiologický asistent I;23;vyřazeno;;Historický výčet síťových služeb
+99;102;Všeobecná informovanost 2019, radiologický asistent I;24;přiřazeno;142;
+99;102;Všeobecná informovanost 2019, radiologický asistent I;25;přiřazeno;631;
+99;102;Všeobecná informovanost 2019, radiologický asistent I;26;přiřazeno;83;
+99;102;Všeobecná informovanost 2019, radiologický asistent I;27;přiřazeno;50;
+99;102;Všeobecná informovanost 2019, radiologický asistent I;28;přiřazeno;153;
 99;102;Všeobecná informovanost 2019, radiologický asistent I;29;přiřazeno;350;
-99;102;Všeobecná informovanost 2019, radiologický asistent I;30;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-103;108;Biologie 2019, zdravotnický záchranář;1;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-103;108;Biologie 2019, zdravotnický záchranář;2;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+99;102;Všeobecná informovanost 2019, radiologický asistent I;30;přiřazeno;150;
+103;108;Biologie 2019, zdravotnický záchranář;1;přiřazeno;85;
+103;108;Biologie 2019, zdravotnický záchranář;2;přiřazeno;10;
 103;108;Biologie 2019, zdravotnický záchranář;3;přiřazeno;353;
-103;108;Biologie 2019, zdravotnický záchranář;4;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-103;108;Biologie 2019, zdravotnický záchranář;5;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+103;108;Biologie 2019, zdravotnický záchranář;4;částečně;155;
+103;108;Biologie 2019, zdravotnický záchranář;5;přiřazeno;295;
 103;108;Biologie 2019, zdravotnický záchranář;6;přiřazeno;354;
-103;108;Biologie 2019, zdravotnický záchranář;7;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-103;108;Biologie 2019, zdravotnický záchranář;8;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-103;108;Biologie 2019, zdravotnický záchranář;9;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+103;108;Biologie 2019, zdravotnický záchranář;7;přiřazeno;338;
+103;108;Biologie 2019, zdravotnický záchranář;8;vyřazeno;;Klíč přisuzuje systolický tlak jedinému faktoru
+103;108;Biologie 2019, zdravotnický záchranář;9;přiřazeno;98;
 103;108;Biologie 2019, zdravotnický záchranář;10;přiřazeno;355;
 103;108;Biologie 2019, zdravotnický záchranář;11;přiřazeno;356;
-103;108;Biologie 2019, zdravotnický záchranář;12;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+103;108;Biologie 2019, zdravotnický záchranář;12;přiřazeno;629;
 103;108;Biologie 2019, zdravotnický záchranář;13;přiřazeno;357;
-103;108;Biologie 2019, zdravotnický záchranář;14;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+103;108;Biologie 2019, zdravotnický záchranář;14;vyřazeno;;Zařazení horních dýchacích cest je v nabídce nejednoznačné
 103;108;Biologie 2019, zdravotnický záchranář;15;přiřazeno;359;
 103;108;Biologie 2019, zdravotnický záchranář;16;přiřazeno;358;
 103;108;Biologie 2019, zdravotnický záchranář;17;přiřazeno;362;
-103;108;Biologie 2019, zdravotnický záchranář;18;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+103;108;Biologie 2019, zdravotnický záchranář;18;přiřazeno;635;
 103;108;Biologie 2019, zdravotnický záchranář;19;přiřazeno;361;
-103;108;Biologie 2019, zdravotnický záchranář;20;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-103;108;Biologie 2019, zdravotnický záchranář;21;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-103;108;Biologie 2019, zdravotnický záchranář;22;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-103;108;Biologie 2019, zdravotnický záchranář;23;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+103;108;Biologie 2019, zdravotnický záchranář;20;částečně;31;
+103;108;Biologie 2019, zdravotnický záchranář;21;přiřazeno;594;
+103;108;Biologie 2019, zdravotnický záchranář;22;přiřazeno;38;
+103;108;Biologie 2019, zdravotnický záchranář;23;přiřazeno;275;
 103;108;Biologie 2019, zdravotnický záchranář;24;přiřazeno;363;
 103;108;Biologie 2019, zdravotnický záchranář;25;přiřazeno;364;
-103;108;Biologie 2019, zdravotnický záchranář;26;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-103;108;Biologie 2019, zdravotnický záchranář;27;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+103;108;Biologie 2019, zdravotnický záchranář;26;přiřazeno;185;
+103;108;Biologie 2019, zdravotnický záchranář;27;ve vysvětlení;263;
 103;108;Biologie 2019, zdravotnický záchranář;28;přiřazeno;365;
-103;108;Biologie 2019, zdravotnický záchranář;29;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-103;108;Biologie 2019, zdravotnický záchranář;30;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+103;108;Biologie 2019, zdravotnický záchranář;29;přiřazeno;285;
+103;108;Biologie 2019, zdravotnický záchranář;30;částečně;261;
 103;108;Biologie 2019, zdravotnický záchranář;31;přiřazeno;366;
-103;108;Biologie 2019, zdravotnický záchranář;32;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-103;108;Biologie 2019, zdravotnický záchranář;33;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+103;108;Biologie 2019, zdravotnický záchranář;32;přiřazeno;172;
+103;108;Biologie 2019, zdravotnický záchranář;33;přiřazeno;45;
 103;108;Biologie 2019, zdravotnický záchranář;34;přiřazeno;367;
 103;108;Biologie 2019, zdravotnický záchranář;35;přiřazeno;368;
-103;108;Biologie 2019, zdravotnický záchranář;36;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+103;108;Biologie 2019, zdravotnický záchranář;36;přiřazeno;11;
 103;108;Biologie 2019, zdravotnický záchranář;37;přiřazeno;369;
 103;108;Biologie 2019, zdravotnický záchranář;38;přiřazeno;370;
 103;108;Biologie 2019, zdravotnický záchranář;39;přiřazeno;371;
 103;108;Biologie 2019, zdravotnický záchranář;40;přiřazeno;372;
-103;108;Biologie 2019, zdravotnický záchranář;41;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+103;108;Biologie 2019, zdravotnický záchranář;41;částečně;103;
 103;108;Biologie 2019, zdravotnický záchranář;42;přiřazeno;373;
 103;108;Biologie 2019, zdravotnický záchranář;43;přiřazeno;374;
-103;108;Biologie 2019, zdravotnický záchranář;44;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+103;108;Biologie 2019, zdravotnický záchranář;44;přiřazeno;354;
 103;108;Biologie 2019, zdravotnický záchranář;45;přiřazeno;375;
-103;108;Biologie 2019, zdravotnický záchranář;46;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-103;108;Biologie 2019, zdravotnický záchranář;47;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+103;108;Biologie 2019, zdravotnický záchranář;46;vyřazeno;;Průměrný tep závisí na podmínkách měření
+103;108;Biologie 2019, zdravotnický záchranář;47;částečně;319;
 103;108;Biologie 2019, zdravotnický záchranář;48;přiřazeno;376;
 103;108;Biologie 2019, zdravotnický záchranář;49;přiřazeno;377;
 103;108;Biologie 2019, zdravotnický záchranář;50;přiřazeno;378;
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;1;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;2;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;3;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;4;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;1;přiřazeno;73;
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;2;přiřazeno;66;
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;3;přiřazeno;68;
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;4;přiřazeno;67;
 109;114;Všeobecná informovanost 2019, zdravotnický záchranář;5;přiřazeno;379;
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;6;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;7;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;8;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;9;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;10;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;6;přiřazeno;71;
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;7;vyřazeno;;Původní formulace neuvádí všechny zákonné podmínky
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;8;vyřazeno;;Rozdělení disciplín závisí na zvolené klasifikaci filozofie
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;9;částečně;561;
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;10;přiřazeno;346;
 109;114;Všeobecná informovanost 2019, zdravotnický záchranář;11;přiřazeno;380;
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;12;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;13;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;14;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;15;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;16;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;17;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;18;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;19;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;12;přiřazeno;347;
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;13;přiřazeno;251;
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;14;přiřazeno;250;
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;15;přiřazeno;226;
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;16;přiřazeno;348;
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;17;přiřazeno;618;
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;18;přiřazeno;632;
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;19;přiřazeno;82;
 109;114;Všeobecná informovanost 2019, zdravotnický záchranář;20;přiřazeno;381;
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;21;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;22;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;23;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;24;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;25;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;26;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;27;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;28;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;29;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;21;přiřazeno;615;
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;22;přiřazeno;633;
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;23;přiřazeno;634;
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;24;přiřazeno;619;
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;25;přiřazeno;57;
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;26;přiřazeno;221;
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;27;přiřazeno;62;
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;28;přiřazeno;64;
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;29;vyřazeno;;Historický výčet síťových služeb
 109;114;Všeobecná informovanost 2019, zdravotnický záchranář;30;přiřazeno;382;
 109;114;Všeobecná informovanost 2019, zdravotnický záchranář;31;přiřazeno;383;
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;32;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;32;vyřazeno;;Zadání závisí na roce, místě a dostupné síti
 109;114;Všeobecná informovanost 2019, zdravotnický záchranář;33;přiřazeno;384;
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;34;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;35;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;36;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;37;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;38;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;39;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;34;přiřazeno;631;
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;35;přiřazeno;48;
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;36;přiřazeno;217;
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;37;přiřazeno;50;
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;38;přiřazeno;49;
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;39;přiřazeno;53;
 109;114;Všeobecná informovanost 2019, zdravotnický záchranář;40;přiřazeno;385;
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;41;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;41;přiřazeno;153;
 109;114;Všeobecná informovanost 2019, zdravotnický záchranář;42;přiřazeno;386;
 109;114;Všeobecná informovanost 2019, zdravotnický záchranář;43;přiřazeno;387;
 109;114;Všeobecná informovanost 2019, zdravotnický záchranář;44;přiřazeno;388;
 109;114;Všeobecná informovanost 2019, zdravotnický záchranář;45;přiřazeno;389;
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;46;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;46;přiřazeno;231;
 109;114;Všeobecná informovanost 2019, zdravotnický záchranář;47;přiřazeno;390;
 109;114;Všeobecná informovanost 2019, zdravotnický záchranář;48;přiřazeno;391;
 109;114;Všeobecná informovanost 2019, zdravotnický záchranář;49;přiřazeno;392;
-109;114;Všeobecná informovanost 2019, zdravotnický záchranář;50;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+109;114;Všeobecná informovanost 2019, zdravotnický záchranář;50;přiřazeno;150;
 115;119;Biologie 2019, zdravotní laborant;1;přiřazeno;85;
 115;119;Biologie 2019, zdravotní laborant;2;přiřazeno;10;
 115;119;Biologie 2019, zdravotní laborant;3;částečně;155;
 115;119;Biologie 2019, zdravotní laborant;4;přiřazeno;295;
 115;119;Biologie 2019, zdravotní laborant;5;přiřazeno;354;
-115;119;Biologie 2019, zdravotní laborant;6;částečně;12;
+115;119;Biologie 2019, zdravotní laborant;6;přiřazeno;338;
 115;119;Biologie 2019, zdravotní laborant;7;vyřazeno;;Klíč zjednodušuje systolický tlak na jediný faktor
 115;119;Biologie 2019, zdravotní laborant;8;přiřazeno;98;
 115;119;Biologie 2019, zdravotní laborant;9;přiřazeno;355;
 115;119;Biologie 2019, zdravotní laborant;10;přiřazeno;356;
-115;119;Biologie 2019, zdravotní laborant;11;ve vysvětlení;122;
+115;119;Biologie 2019, zdravotní laborant;11;přiřazeno;629;
 115;119;Biologie 2019, zdravotní laborant;12;částečně;194;
 115;119;Biologie 2019, zdravotní laborant;13;přiřazeno;358;
 115;119;Biologie 2019, zdravotní laborant;14;částečně;31;
@@ -960,7 +960,7 @@
 120;122;Všeobecná informovanost 2019, zdravotní laborant;19;vyřazeno;;Historický výčet síťových služeb
 120;122;Všeobecná informovanost 2019, zdravotní laborant;20;přiřazeno;382;
 120;122;Všeobecná informovanost 2019, zdravotní laborant;21;přiřazeno;384;
-120;122;Všeobecná informovanost 2019, zdravotní laborant;22;vyřazeno;;Klíč nezohledňuje výjimky při nabývání svéprávnosti
+120;122;Všeobecná informovanost 2019, zdravotní laborant;22;přiřazeno;631;
 120;122;Všeobecná informovanost 2019, zdravotní laborant;23;přiřazeno;217;
 120;122;Všeobecná informovanost 2019, zdravotní laborant;24;přiřazeno;50;
 120;122;Všeobecná informovanost 2019, zdravotní laborant;25;přiřazeno;49;
@@ -998,7 +998,7 @@
 123;127;Biologie 2019, radiologický asistent II;31;přiřazeno;38;
 123;127;Biologie 2019, radiologický asistent II;32;částečně;37;
 123;127;Biologie 2019, radiologický asistent II;33;přiřazeno;399;
-123;127;Biologie 2019, radiologický asistent II;34;částečně;196;
+123;127;Biologie 2019, radiologický asistent II;34;přiřazeno;635;
 123;127;Biologie 2019, radiologický asistent II;35;přiřazeno;183;
 123;127;Biologie 2019, radiologický asistent II;36;vyřazeno;;Zařazení horních dýchacích cest je v nabídce nejednoznačné
 123;127;Biologie 2019, radiologický asistent II;37;přiřazeno;21;
@@ -1012,29 +1012,29 @@
 128;131;Všeobecná informovanost 2019, radiologický asistent II;5;přiřazeno;402;
 128;131;Všeobecná informovanost 2019, radiologický asistent II;6;přiřazeno;562;
 128;131;Všeobecná informovanost 2019, radiologický asistent II;7;přiřazeno;58;
-128;131;Všeobecná informovanost 2019, radiologický asistent II;8;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-128;131;Všeobecná informovanost 2019, radiologický asistent II;9;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-128;131;Všeobecná informovanost 2019, radiologický asistent II;10;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-128;131;Všeobecná informovanost 2019, radiologický asistent II;11;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-128;131;Všeobecná informovanost 2019, radiologický asistent II;12;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-128;131;Všeobecná informovanost 2019, radiologický asistent II;13;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-128;131;Všeobecná informovanost 2019, radiologický asistent II;14;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-128;131;Všeobecná informovanost 2019, radiologický asistent II;15;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-128;131;Všeobecná informovanost 2019, radiologický asistent II;16;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+128;131;Všeobecná informovanost 2019, radiologický asistent II;8;částečně;61;
+128;131;Všeobecná informovanost 2019, radiologický asistent II;9;přiřazeno;225;
+128;131;Všeobecná informovanost 2019, radiologický asistent II;10;vyřazeno;;Historický výčet síťových služeb
+128;131;Všeobecná informovanost 2019, radiologický asistent II;11;přiřazeno;382;
+128;131;Všeobecná informovanost 2019, radiologický asistent II;12;přiřazeno;631;
+128;131;Všeobecná informovanost 2019, radiologický asistent II;13;přiřazeno;630;
+128;131;Všeobecná informovanost 2019, radiologický asistent II;14;přiřazeno;83;
+128;131;Všeobecná informovanost 2019, radiologický asistent II;15;vyřazeno;;Původní možnosti nezohledňují novější právní úpravu práce mladistvých
+128;131;Všeobecná informovanost 2019, radiologický asistent II;16;přiřazeno;48;
 128;131;Všeobecná informovanost 2019, radiologický asistent II;17;přiřazeno;403;
-128;131;Všeobecná informovanost 2019, radiologický asistent II;18;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+128;131;Všeobecná informovanost 2019, radiologický asistent II;18;přiřazeno;50;
 128;131;Všeobecná informovanost 2019, radiologický asistent II;19;přiřazeno;404;
 128;131;Všeobecná informovanost 2019, radiologický asistent II;20;přiřazeno;405;
-128;131;Všeobecná informovanost 2019, radiologický asistent II;21;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-128;131;Všeobecná informovanost 2019, radiologický asistent II;22;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-128;131;Všeobecná informovanost 2019, radiologický asistent II;23;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-128;131;Všeobecná informovanost 2019, radiologický asistent II;24;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-128;131;Všeobecná informovanost 2019, radiologický asistent II;25;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-128;131;Všeobecná informovanost 2019, radiologický asistent II;26;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-128;131;Všeobecná informovanost 2019, radiologický asistent II;27;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-128;131;Všeobecná informovanost 2019, radiologický asistent II;28;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-128;131;Všeobecná informovanost 2019, radiologický asistent II;29;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
-128;131;Všeobecná informovanost 2019, radiologický asistent II;30;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
+128;131;Všeobecná informovanost 2019, radiologický asistent II;21;přiřazeno;56;
+128;131;Všeobecná informovanost 2019, radiologický asistent II;22;přiřazeno;50;
+128;131;Všeobecná informovanost 2019, radiologický asistent II;23;přiřazeno;59;
+128;131;Všeobecná informovanost 2019, radiologický asistent II;24;přiřazeno;221;
+128;131;Všeobecná informovanost 2019, radiologický asistent II;25;přiřazeno;63;
+128;131;Všeobecná informovanost 2019, radiologický asistent II;26;přiřazeno;65;
+128;131;Všeobecná informovanost 2019, radiologický asistent II;27;přiřazeno;66;
+128;131;Všeobecná informovanost 2019, radiologický asistent II;28;přiřazeno;68;
+128;131;Všeobecná informovanost 2019, radiologický asistent II;29;částečně;75;
+128;131;Všeobecná informovanost 2019, radiologický asistent II;30;přiřazeno;78;
 132;137;Biologie 2019, pediatrické ošetřovatelství;1;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
 132;137;Biologie 2019, pediatrické ošetřovatelství;2;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
 132;137;Biologie 2019, pediatrické ošetřovatelství;3;nepotvrzeno;;Přiřazení ani absence zatím nejsou doložené.
