@@ -57,11 +57,11 @@ U managementu je část o pracovních rolích, výběru a rozmístění zatím p
 
 | Stav | Počet | Význam |
 |---|---:|---|
-| Přiřazeno | 1 561 | Otázka v kvízu prověřuje hlavní znalost původní úlohy nebo odpovídá ověřené obměně. |
-| Ve vysvětlení | 23 | Znalost je uvedena ve vysvětlení odpovědi. |
-| Částečně | 131 | Otázka v kvízu prověřuje jen část znalosti nebo příbuzný pojem. |
-| Vyřazeno | 127 | Důvod je v soupisu, například nejednoznačný klíč nebo historicky podmíněné zadání. |
-| Nepotvrzeno | 384 | Chybí doložená shoda nebo rozhodnutí o využitelnosti. |
+| Přiřazeno | 1 752 | Otázka v kvízu prověřuje hlavní znalost původní úlohy nebo odpovídá ověřené obměně. |
+| Ve vysvětlení | 31 | Znalost je uvedena ve vysvětlení odpovědi. |
+| Částečně | 148 | Otázka v kvízu prověřuje jen část znalosti nebo příbuzný pojem. |
+| Vyřazeno | 144 | Důvod je v soupisu, například nejednoznačný klíč nebo historicky podmíněné zadání. |
+| Nepotvrzeno | 151 | Chybí doložená shoda nebo rozhodnutí o využitelnosti. |
 | **Celkem** | **2 226** | Součet číslovaných úloh včetně opakovaných sad. |
 
 Sada všeobecné informovanosti na PDF 120–122 končí úlohou 26, ačkoli nadpis slibuje 30 otázek. PDF 156 opakuje úlohy 36–45 předchozí sady a PDF 269 je prázdná strana. Součet tyto strany nezapočítává podruhé. Přiřazení je průběžné a součet se vztahuje k této sbírce.
@@ -77,3 +77,10 @@ Otázky 629–635 doplňují počet chromozomů, formu kupní smlouvy a zápis v
 - Chromozomy a dýchací cesty. [MedlinePlus Genetics](https://medlineplus.gov/genetics/understanding/basics/howmanychromosomes/), [OpenStax](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-1-organs-and-structures-of-the-respiratory-system)
 - Plná svéprávnost, písemná forma a převod nemovitostí. [Občanský zákoník v e-Sbírce, § 30, § 560 a § 1105](https://e-sbirka.gov.cz/eli/cz/sb/2012/89/2026-01-01)
 - Vyhlašování zákonů a okamžité zrušení pracovního poměru. [e-Sbírka](https://e-sbirka.gov.cz/co-je-esbirka), [Ministerstvo práce a sociálních věcí](https://ppropo.mpsv.cz/VI31Obecnepodminkyplatnostiokamz)
+
+Otázky 636–647 doplňují agranulocyty, dědičnost krevních skupin v rodině AB a 0, fotoreceptory sítnice, antioxidační funkci vitaminu E, dědické a rodinné právo, agorafobii, sňatek, vztah Norska k EU, složení Senátu, omezení svéprávnosti a převis poptávky.
+
+- Krevní buňky, dědičnost krevních skupin a fotoreceptory. [OpenStax: leukocyty](https://openstax.org/books/anatomy-and-physiology-2e/pages/18-4-leukocytes-and-platelets), [krevní skupiny](https://openstax.org/books/anatomy-and-physiology-2e/pages/18-6-blood-typing), [smyslové vnímání](https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception)
+- Vitamin E a agorafobie. [National Institutes of Health](https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/), [NHS](https://www.nhs.uk/mental-health/conditions/agoraphobia/diagnosis/)
+- Dědické právo, výživné, sňatek a svéprávnost. [Ministerstvo spravedlnosti](https://obcanskyzakonik.justice.cz/index.php/dedicke-pravo/15-submenu/dedicke-pravo), [rozhodnutí k výživnému](https://rozhodnuti.justice.cz/rozhodnuti/?id=f76aaaba-f543-4226-a348-796e49f8c142), [Portál veřejné správy](https://portal.gov.cz/sluzby-vs/marriage-S4264), [občanský zákoník v e-Sbírce](https://e-sbirka.gov.cz/eli/cz/sb/2012/89/2026-01-01)
+- Norsko, Senát a tržní rovnováha. [Evropská služba pro vnější činnost](https://www.eeas.europa.eu/eeas/western-europe_en), [Ústava ČR](https://www.psp.cz/docs/laws/constitution.html), [OpenStax: tržní rovnováha](https://openstax.org/books/principles-economics-3e/pages/3-1-demand-supply-and-equilibrium-in-markets-for-goods-and-services)
