@@ -53,17 +53,21 @@ U managementu je část o pracovních rolích, výběru a rozmístění zatím p
 
 ## České Budějovice TESTY 2019, 2021, 2022.pdf
 
-| Strany PDF | Stav podrobné revize |
-|---|---|
-| 1–127 | Výběr existuje v [evidenci dávek](BUDEJOVICE.md), úplná mapa jednotlivých zadání není hotová. |
-| 128–143 | Částečně pokryto v evidenci dávek, jednotlivá nepřevzatá zadání ještě ověřit. |
-| 144–198 | Opakované sady biologie a všeobecné informovanosti 2019. PDF 181–186 odpovídá příloze 31. Ostatní oborové verze je potřeba samostatně přiřadit k mapám podle čísel úloh. |
-| 199–204 | Příloha 01. |
-| 205–222, 229–234 | Obměny přílohy 31. Průběžný audit zaznamenává i posunuté možnosti. |
-| 223–228, 235–245 | Výběr úloh v evidenci dávek, zbývá úplná mapa jednotlivých zadání. |
-| 246–263 | Opakování sady PDF 199–204. |
-| 264–268, 270–275 | Překrývající se varianty biologie 2019. Výběr existuje, zbývá mapa po úlohách. |
-| 269 | Prázdná strana. |
+[Soupis úloh po číslech (CSV)](BUDEJOVICE-2019-2022-ULOHY.csv) uvádí interval stran každé sady, původní číslo úlohy, stav a případné ID v kvízu. Jeden řádek představuje jedno číslo v jedné sadě. Opakovaná zadání v různých sadách proto mají vlastní řádky a mohou odkazovat na stejné ID v kvízu.
 
-Tato mapa dokládá rozsah současné revize. Celkový podíl pokrytých znalostí ze všech dokumentů zatím nelze vyjádřit jedním procentem.
+| Stav | Počet | Význam |
+|---|---:|---|
+| Přiřazeno | 1 443 | Otázka v kvízu prověřuje hlavní znalost původní úlohy nebo odpovídá ověřené obměně. |
+| Ve vysvětlení | 17 | Znalost je uvedena ve vysvětlení odpovědi. |
+| Částečně | 111 | Otázka v kvízu prověřuje jen část znalosti nebo příbuzný pojem. |
+| Vyřazeno | 114 | Důvod je v soupisu, například nejednoznačný klíč nebo historicky podmíněné zadání. |
+| Nepotvrzeno | 541 | Chybí doložená shoda nebo rozhodnutí o využitelnosti. |
+| **Celkem** | **2 226** | Součet číslovaných úloh včetně opakovaných sad. |
 
+Sada všeobecné informovanosti na PDF 120–122 končí úlohou 26, ačkoli nadpis slibuje 30 otázek. PDF 156 opakuje úlohy 36–45 předchozí sady a PDF 269 je prázdná strana. Součet tyto strany nezapočítává podruhé. Přiřazení je průběžné a součet se vztahuje k této sbírce.
+
+Otázky 621–628 doplňují krvetvornou kostní dřeň, demenci, územní samosprávu, náležitosti pracovní smlouvy, soustavu soudů, metodu Ludmily Mojžíšové, fyzioterapii po cévní mozkové příhodě a VIII. hlavový nerv.
+
+- Krvetvorba a demence. [OpenStax](https://openstax.org/books/anatomy-and-physiology/pages/18-2-production-of-the-formed-elements), [National Institute on Aging](https://www.nia.nih.gov/health/what-dementia-symptoms-types-and-diagnosis)
+- Územní samospráva, pracovní smlouva a soudy. [Poslanecká sněmovna](https://www.psp.cz/docs/laws/constitution.html), [Ministerstvo práce a sociálních věcí](https://ppropo.mpsv.cz/IV12Pracovnismlouvaajejiobsah)
+- Fyzioterapeutické metody, rehabilitace a VIII. hlavový nerv. [Univerzita Karlova](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=B01353), [NICE](https://www.nice.org.uk/guidance/ng236/chapter/Recommendations), [National Library of Medicine](https://meshb.nlm.nih.gov/record/ui?ui=D000159)
