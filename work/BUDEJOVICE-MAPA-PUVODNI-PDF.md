@@ -5,7 +5,7 @@ Značky: číslo je ID přímo souvisejícího kvízového zadání, **E** je po
 ## České Budějovice test 2019 oprava6.pdf
 
 - **PDF 1–6, biologie 1–50:** 1 · 2 · 3 · 4 · 5 · 6 · 7 · 8 · 9 · 10 · 11 · P12 · 13 · 14 · 15 · 16 · 17 · P18 · P19 · X:porod · 20 · 21 · 22 · 23 · X:imunita · 24 · 25 · 26 · 27 · 28 · 29 · X:dýchání · 30 · 31 · 32 · 33 · 34 · 35 · 36 · 37 · 38 · 39 · 40 · 41 · 42 · 43 · 44 · 45 · 46 · 47
-- **PDF 7–12, všeobecná informovanost 1–50:** 48 · 49 · 50 · 51 · 52 · 53 · 54 · 55 · 56 · 50 · 57 · 58 · 59 · 221 · 60 · P61 · 62 · X:logika · 63 · 64 · 65 · 66 · 67 · 68 · 69 · 70 · 71 · 562 · X:právo · X:právo · X:služby · 72 · 73 · 74 · 232 · 75 · P76 · 77 · 78 · 79 · 80 · 81 · X:právo · X:právo · 82 · 618 · X:právo · X:právo · 83 · 619
+- **PDF 7–12, všeobecná informovanost 1–50:** 48 · 49 · 50 · 51 · 52 · 53 · 54 · 55 · 56 · 50 · 57 · 58 · 59 · 221 · 60 · 655 · 62 · X:logika · 63 · 64 · 65 · 66 · 67 · 68 · 69 · 70 · 71 · 562 · X:právo · X:právo · X:služby · 72 · 73 · 74 · 232 · 75 · 658 · 77 · 78 · 79 · 80 · 81 · X:právo · X:právo · 82 · 618 · X:právo · X:právo · 83 · 619
 
 Původní výjimky: porod zaměňuje časovou hranici a fyziologický průběh, imunita trávicího traktu v zadání není lokalizovaná jednoznačně a klíč k dýchacím cestám chybně vylučuje hltan. Hrtan a návaznost na hltan pokrývá 34, věcně odlišnou otázku na pohyb sousta 195. U logiky se překrývá klasifikace. Historické právní položky nejsou plošně převáděny a pořadí sociálních aplikací závisí na období. Ve znovu ověřených právních otázkách 618 a 619 je formulace zúžená podle [čl. 41 Ústavy](https://www.psp.cz/docs/laws/constitution.html) a [popisu činnosti Evropské komise](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_en).
 
@@ -57,9 +57,9 @@ U managementu je část o pracovních rolích, výběru a rozmístění zatím p
 
 | Stav | Počet | Význam |
 |---|---:|---|
-| Přiřazeno | 1 875 | Otázka v kvízu prověřuje hlavní znalost původní úlohy nebo odpovídá ověřené obměně. |
+| Přiřazeno | 1 925 | Otázka v kvízu prověřuje hlavní znalost původní úlohy nebo odpovídá ověřené obměně. |
 | Ve vysvětlení | 33 | Znalost je uvedena ve vysvětlení odpovědi. |
-| Částečně | 161 | Otázka v kvízu prověřuje jen část znalosti nebo příbuzný pojem. |
+| Částečně | 111 | Otázka v kvízu prověřuje jen část znalosti nebo příbuzný pojem. |
 | Vyřazeno | 157 | Důvod je v soupisu, například nejednoznačný klíč nebo historicky podmíněné zadání. |
 | Nepotvrzeno | 0 | Chybí doložená shoda nebo rozhodnutí o využitelnosti. |
 | **Celkem** | **2 226** | Součet číslovaných úloh včetně opakovaných sad. |
@@ -90,3 +90,9 @@ Otázky 648–654 doplňují právní jednání, ústavní postavení vlády, pl
 - Právní jednání, výkonná moc a platnost zákonů. [Občanský zákoník, § 545](https://e-sbirka.gov.cz/eli/cz/sb/2012/89/2026-01-01), [Ústava ČR, čl. 52 a 67](https://www.psp.cz/docs/laws/constitution.html)
 - Zkušební doba a daně. [Ministerstvo práce a sociálních věcí](https://ppropo.mpsv.cz/iv14sjednanizkusebnidoby), [Ministerstvo financí](https://www.mfcr.cz/assets/cs/media/2023-01-01_Pokyn-k-vyhlasce-c-412-2021-Sb-o-rozpoctove-skladbe-od-01-01-2023_v02.pdf)
 - Rozsah fyzioterapie. [World Physiotherapy](https://world.physio/index.php/resources/what-is-physiotherapy)
+
+Otázky 655–660 doplňují empatii v modelu emoční inteligence, vymezení eutanazie, mechanismus diabetu 1. typu, Aristotelovo členění praktických nauk, vliv procesoru a operační paměti a obvyklé množství prvotní moči.
+
+- Emoční inteligence a praktické nauky. [Daniel Goleman](https://danielgolemanemotionalintelligence.com/wp-content/uploads/2024/08/DGEIC-CourseStructure.pdf), [Aristotelovo členění nauk](https://plato.stanford.edu/entries/aristotle/)
+- Vymezení eutanazie a diabetes 1. typu. [Vláda Nizozemska](https://www.government.nl/themes/family-health-and-care/euthanasia/is-euthanasia-allowed), [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-1-diabetes)
+- Výkon počítače a prvotní moč. [Intel](https://www.intel.com/content/www/us/en/learn/what-is-ram-vs-processor.html), [OpenStax](https://openstax.org/books/anatomy-and-physiology-2e/pages/25-5-physiology-of-urine-formation)
