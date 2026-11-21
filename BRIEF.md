@@ -1,9 +1,9 @@
 # Studijní kvízy
 
-- Veřejný web běží na https://jameskaerem.github.io/somatologie-otazky/. Zdrojový repozitář je `jameskaerem/somatologie-otazky`, větev `main`.
+- Cílový web je https://jameskaerem.github.io/kvizy-na-prijimacky/ ze zdrojového repozitáře `jameskaerem/kvizy-na-prijimacky`, větev `main`. Původní adresa https://jameskaerem.github.io/somatologie-otazky/ zůstává během migrace dostupná pro export zálohy.
 - Stav k 21. 11. 2026: 630 původních otázek somatologie, 900 otázek biologie, 683 otázek České Budějovice a 50 modelových otázek LF MU (17 fyzika, 17 chemie, 16 biologie). Další dávky dle [mapy LF MU](work/MUNI-POKRYTI.md).
 - Codex navazuje na banku otázek a audity. Claude upravuje zejména design, drobné funkce nebo provádí revizi obsahu. Pravidla a kontrolní příkazy jsou v [CLAUDE.md](CLAUDE.md).
 - Samostatný HTML vzniká z `work/build.py`, zdrojové šablony, stylů, JS a bank v JSON. Nasazení používá vygenerovaný `index.html`.
 - Úložiště běží v prohlížeči. Záloha ve formátu JSON přenáší chyby, tipy, opakování a rozpracovaná kola všech předmětů i sekcí. Změnu domény plánuj až po zpřístupnění a vyzkoušení exportu na původním webu.
-- Pět původních PDF a 38 souborů v ZIPu mají mapy pokrytí. [Biologický audit](work/COVERAGE_AUDIT.md) popisuje tematické pokrytí učebnice. [Soupis originálů](work/SOURCES.json) eviduje 10 souborů včetně dvou dosud nezařazených podkladů MUNI.
+- Pět původních PDF a 38 souborů v ZIPu mají mapy pokrytí. [Biologický audit](work/COVERAGE_AUDIT.md) popisuje tematické pokrytí učebnice. [Soupis originálů](work/SOURCES.json) eviduje 10 souborů včetně modelových otázek MUNI (Mornstein, Dostál, Slaninová), které kvíz LF MU používá, a druhého dosud nepokrytého podkladu MUNI.
 - Originální PDF a ZIP jsou ve složce vlastníka. GitHub nese kód, vlastní otázky a evidenci pokrytí.

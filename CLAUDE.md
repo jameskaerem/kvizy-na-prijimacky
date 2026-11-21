@@ -25,4 +25,4 @@ Před prací si přečti [BRIEF.md](BRIEF.md) a [README.md](README.md). Vešker�
 
 - Otázka má čtyři různé možnosti, jednu obhajitelnou správnou odpověď, vlastní srozumitelné vysvětlení a referenci na položku nebo stránku. Duplicity kontroluj podle znalosti, kterou otázka testuje. Nové dávky ukládej do odpovídajících JSON souborů s pořadovými ID.
 - Aktualizuj mapu pokrytí, když se změní přiřazení. Pochybný klíč řeš přesnou přeformulací nebo zaznamenej důvod vyřazení. Výsledek funkčního testu vypovídá o chování kvízu. Správnost otázek ověřuj vůči zdroji.
-- [Soupis originálů](work/SOURCES.json) obsahuje relativní cesty, velikosti a SHA-256. Originály jsou oddělené od veřejného webu. Přístup k nim řeší vlastník podle oprávnění ke sdílení. Oba soubory MUNI jsou evidované jako kandidáti pro samostatné budoucí pokrytí.
+- [Soupis originálů](work/SOURCES.json) obsahuje relativní cesty, velikosti a SHA-256. Originály jsou oddělené od veřejného webu. Přístup k nim řeší vlastník podle oprávnění ke sdílení. Modelové otázky MUNI (Mornstein, Dostál, Slaninová) jsou zdrojem kvízu LF MU. Druhý soubor MUNI je evidovaný jako kandidát pro samostatné budoucí pokrytí.
