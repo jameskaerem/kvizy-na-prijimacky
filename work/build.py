@@ -30,6 +30,7 @@ for batch in sorted((ROOT / 'work').glob('budejovice-*.json')):
 assert [q['id'] for q in school] == list(range(1, len(school) + 1)) and school
 s=original.replace('<title>Somatologie · malý krok, velké pochopení</title>','<title>Studijní kvízy · Procvičování</title>')
 s=s.replace('content="630 otázek ze somatologie s vysvětlením a chytrým opakováním. Chyby a tipy častěji, zvládnuté otázky s odstupem."','content="Somatologie, biologie a přijímací testy z Českých Budějovic. Tři kvízy s vysvětlením, chytrým opakováním a samostatným ukládáním pokroku."')
+s=s.replace('<meta name="theme-color" content="#f6f3ee">','<meta name="theme-color" content="#f6f7f9">',1)
 s=s.replace('<div class="brand-name">Somatologie</div>','<div class="brand-name">Studijní kvízy</div>')
 s=s.replace('</style>','''
 .subject-tabs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:7px;padding:6px;background:#eae9e1;border-radius:18px;margin:23px 0 10px}.subject-tab{min-height:56px;border:0;border-radius:13px;background:transparent;color:#56635b;font-size:14px;font-weight:700;padding:10px 8px;line-height:1.3}.subject-tab[aria-selected="true"]{background:var(--paper);color:#344e43;box-shadow:0 2px 8px #32463712}.subject-tab small{display:block;font-weight:500;font-size:11px;margin-top:4px;color:var(--muted)}.subject-context{font-size:12px;color:var(--muted);margin:0 3px 17px;line-height:1.65}.subject-tabs+.intro{margin-top:20px}.book-number{text-align:right;overflow-wrap:anywhere}.brand-name{font-size:19px}@media(max-width:360px){.brand-name{font-size:17px}.offline{font-size:10px}.subject-tab{font-size:12px;padding:7px 2px}}
@@ -163,13 +164,24 @@ subjectIds.forEach(id=>{
  });
 });
 let initialSubject='somatologie';try{const saved=localStorage.getItem('market-quiz-subject');if(Object.hasOwn(SUBJECTS,saved))initialSubject=saved;}catch(e){}
-''' + (ROOT/'work/school_sections.js').read_text(encoding='utf-8') + '\nswitchSubject(initialSubject,true);\n' + (ROOT/'work/progress-backup.js').read_text(encoding='utf-8') + s[end:]
+''' + (ROOT/'work/school_sections.js').read_text(encoding='utf-8') + '\nswitchSubject(initialSubject,true);\n' + (ROOT/'work/progress-backup.js').read_text(encoding='utf-8') + '\n' + (ROOT/'work/motion.js').read_text(encoding='utf-8') + s[end:]
 s=s.replace('První sada obsahuje 50 vlastních testových otázek vytvořených podle výkladu na tištěných stranách 15–29 (PDF strany 8–15).','Banka obsahuje 900 vlastních testových otázek vytvořených podle výkladu na tištěných stranách 15–230 (PDF strany 8–116).')
 s=s.replace('kosti končetin. Formulace i vysvětlení','kosti končetin; svalstvo; tělní tekutiny; krev a krevní skupiny; imunita; oběhové okruhy, cévy a činnost srdce; regulace oběhu, cévní pojmy, mízní soustava, dýchací cesty, plíce, ventilace a transport dýchacích plynů; trávicí soustava od úst po střeva a játra; metabolismus, výživa, ledviny a tvorba moči; kůže, termoregulace a úvod do nervové soustavy, membránový potenciál, synapse, vzruchy a reflexy, mícha, mozkový kmen, mozeček, mezimozek a mozková kůra, řízení motoriky, autonomní nervstvo, základní pojmy nemocí nervové soustavy a hormonální řízení, hormony hypofýzy, štítná žláza, příštítná tělíska, nadledviny a endokrinní slinivka; smyslové receptory, hmat, propriocepce, rovnováha, sluch, zrak, chuť, čich, kožní čití a rozmnožování, vývoj člověka a zdraví; v dokončené sadě také principy praktických cvičení a vybrané souhrnné údaje příloh. Formulace i vysvětlení')
 # Avoid accessing source HTML constants before their initialization.
 s=s.replace('data=load();save();updateSubjectUI();renderHome();','// Initialized after subject UI constants.',1)
 from muni_integration import integrate
 s=integrate(s,ROOT)
+# Design 3.0: four equally sized subject tabs; the full LF MU title stays in the panel text.
+import re as _re
+s,n=_re.subn(r'(id="tab-muni" class="subject-tab muni-tab"[^>]*)>[^<]*<small>(\d+) otázek</small>', lambda m: m.group(1)+' title="Modelové testové otázky k přijímacím zkouškám na LF MU (fyzika, chemie, biologie)">LF MU<small>Modelové otázky · '+m.group(2)+'</small>', s, count=1)
+assert n==1
+s=s.replace('<header class="brand">','<header class="brand">',1)
+theme_button='<button type="button" class="theme-toggle" id="themeToggle" aria-label="Vzhled: podle systému" title="Vzhled: podle systému"><span class="theme-icon" aria-hidden="true"></span></button>\n  </header>'
+assert s.count('</header>')==1
+s=s.replace('</header>',theme_button,1)
+boot="<script data-theme-boot>try{var t=String(localStorage.getItem('quiz-theme')||'').replace(/\x22/g,'');if(t==='light'||t==='dark')document.documentElement.setAttribute('data-theme',t);}catch(e){}</script>\n"
+assert s.count('<body>')==1
+s=s.replace('<body>',boot+'<body>',1)
 (ROOT/'index.html').write_text(s,encoding='utf-8')
 assert 'Markét' not in s and 'James' not in s
 print(f'Built 630 somatology, 900 biology and {len(school)} school questions.')
