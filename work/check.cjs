@@ -225,5 +225,36 @@ assert.equal(reload.run(`restoreProgress(${JSON.stringify(exported)})`),false);
 assert.deepEqual(reload.storage,beforeInvalid);
 assert.equal(migrated.read('backupProgress().subjects.somatologie.turn'),1);
 result.progressBackupRoundTrip=true;
+// New LF MU bank: each subject has its own resumable round; statistics are shared in the bank.
+const muni=app(html);
+muni.run("switchSubject('muni');start('all');choose(byId.get(data.session.currentId).answer);nextQuestion()");
+assert.equal(muni.run('BANK_SIZE'),50);
+const muniAll=muni.read('data.session');
+const muniTopics=muni.read('MUNI_TOPICS');
+assert.deepEqual(Object.values(muniTopics).map(t=>t.ids.length),[17,17,16]);
+for(const [key,topic] of Object.entries(muniTopics)){
+ const picker=muni.ids.get('muniSection');picker.value=key;picker.events.change();
+ muni.run("start('all')");
+ assert.deepEqual(muni.read('[data.session.currentId,...data.session.queue]').sort((a,b)=>a-b),topic.ids);
+ muni.run('choose(byId.get(data.session.currentId).answer);nextQuestion()');
+}
+const muniBackup=muni.read('backupProgress()');
+const muniReload=app(html,muni.storage);
+assert.equal(muniReload.run('muniSection'),'biology');
+assert.deepEqual(muniReload.read('backupProgress().subjects'),muniBackup.subjects);
+assert.ok(muniReload.run(`restoreProgress(${JSON.stringify(muniBackup)})`));
+muniReload.ids.get('muniSection').value='all';muniReload.ids.get('muniSection').events.change();
+assert.deepEqual(muniReload.read('data.session'),muniAll);
+const legacyBackup=JSON.parse(JSON.stringify(muniBackup));
+delete legacyBackup.subjects.muni;delete legacyBackup.muniSection;
+legacyBackup.activeSubject='budejovice';
+legacyBackup.subjects.budejovice=exported.subjects.budejovice;
+legacyBackup.subjects.budejovice.sections.physics.queue.pop();
+assert.ok(muniReload.run(`restoreProgress(${JSON.stringify(legacyBackup)})`));
+assert.deepEqual(muniReload.read('backupProgress().subjects.budejovice'),legacyBackup.subjects.budejovice);
+const muniBank=muni.read('MUNI_QUESTIONS');
+assert.equal(new Set(muniBank.map(q=>q.question)).size,50);
+muniBank.forEach((q,i)=>{assert.equal(q.id,i+1);assert.equal(new Set(q.options).size,4);assert.equal(q.options[q.answer],q.title);assert.ok(q.subject&&q.sourceItem&&q.bookRef&&q.paragraphs[0]);});
+result.muniQuestions=muniBank.length;result.muniSectionsAndLegacyBackup=true;
 fs.mkdirSync('tmp',{recursive:true});
 fs.writeFileSync('tmp/check-results.json',JSON.stringify(result,null,2));console.log(JSON.stringify(result));

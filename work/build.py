@@ -168,6 +168,8 @@ s=s.replace('První sada obsahuje 50 vlastních testových otázek vytvořených
 s=s.replace('kosti končetin. Formulace i vysvětlení','kosti končetin; svalstvo; tělní tekutiny; krev a krevní skupiny; imunita; oběhové okruhy, cévy a činnost srdce; regulace oběhu, cévní pojmy, mízní soustava, dýchací cesty, plíce, ventilace a transport dýchacích plynů; trávicí soustava od úst po střeva a játra; metabolismus, výživa, ledviny a tvorba moči; kůže, termoregulace a úvod do nervové soustavy, membránový potenciál, synapse, vzruchy a reflexy, mícha, mozkový kmen, mozeček, mezimozek a mozková kůra, řízení motoriky, autonomní nervstvo, základní pojmy nemocí nervové soustavy a hormonální řízení, hormony hypofýzy, štítná žláza, příštítná tělíska, nadledviny a endokrinní slinivka; smyslové receptory, hmat, propriocepce, rovnováha, sluch, zrak, chuť, čich, kožní čití a rozmnožování, vývoj člověka a zdraví; v dokončené sadě také principy praktických cvičení a vybrané souhrnné údaje příloh. Formulace i vysvětlení')
 # Avoid accessing source HTML constants before their initialization.
 s=s.replace('data=load();save();updateSubjectUI();renderHome();','// Initialized after subject UI constants.',1)
+from muni_integration import integrate
+s=integrate(s,ROOT)
 (ROOT/'index.html').write_text(s,encoding='utf-8')
 assert 'Markét' not in s and 'James' not in s
 print(f'Built 630 somatology, 900 biology and {len(school)} school questions.')

@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 1,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 1–7 · str. 7",
+    "sourcePages": "7",
+    "sourceItem": "1–7",
+    "question": "Která dvojice obsahuje výhradně základní jednotky SI?",
+    "options": [
+      "kelvin a kandela",
+      "newton a metr",
+      "joule a sekunda",
+      "volt a kilogram"
+    ],
+    "answer": 0,
+    "title": "kelvin a kandela",
+    "paragraphs": [
+      "Kelvin a kandela patří mezi sedm základních jednotek; N, J a V jsou odvozené."
+    ],
+    "memory": "kelvin a kandela"
+  },
+  {
+    "id": 2,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 8–11 · str. 7",
+    "sourcePages": "7",
+    "sourceItem": "8–11",
+    "question": "Která jednotka není jednotkou SI, byť se běžně používá?",
+    "options": [
+      "tesla",
+      "kalorie",
+      "pascal",
+      "joule"
+    ],
+    "answer": 1,
+    "title": "kalorie",
+    "paragraphs": [
+      "Kalorie je mimo SI; tesla, pascal a joule jsou odvozené jednotky SI."
+    ],
+    "memory": "kalorie"
+  },
+  {
+    "id": 3,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 14,42 · str. 8–9",
+    "sourcePages": "8–9",
+    "sourceItem": "14,42",
+    "question": "Jakou veličinu vyjadřuje součin výkonu a doby jeho působení?",
+    "options": [
+      "sílu",
+      "tlak",
+      "energii",
+      "účinnost"
+    ],
+    "answer": 2,
+    "title": "energii",
+    "paragraphs": [
+      "E = P·t; wattsekunda je joule."
+    ],
+    "memory": "energii"
+  },
+  {
+    "id": 4,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 15,28 · str. 8",
+    "sourcePages": "8",
+    "sourceItem": "15,28",
+    "question": "Jaký rozměr má hybnost tělesa?",
+    "options": [
+      "kg·m/s²",
+      "kg·m²/s²",
+      "kg/s",
+      "kg·m/s"
+    ],
+    "answer": 3,
+    "title": "kg·m/s",
+    "paragraphs": [
+      "Hybnost p = mv, proto má jednotku kg·m/s."
+    ],
+    "memory": "kg·m/s"
+  },
+  {
+    "id": 5,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 16 · str. 8",
+    "sourcePages": "8",
+    "sourceItem": "16",
+    "question": "Která jednotka odpovídá kg·m²·s⁻²?",
+    "options": [
+      "joule",
+      "watt",
+      "pascal",
+      "newton"
+    ],
+    "answer": 0,
+    "title": "joule",
+    "paragraphs": [
+      "Práce je síla krát dráha; N·m = kg·m²·s⁻²."
+    ],
+    "memory": "joule"
+  },
+  {
+    "id": 6,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 17 · str. 8",
+    "sourcePages": "8",
+    "sourceItem": "17",
+    "question": "Jak lze vyjádřit pascal základními jednotkami SI?",
+    "options": [
+      "kg·m·s⁻²",
+      "kg·m⁻¹·s⁻²",
+      "kg·m²·s⁻³",
+      "kg·m⁻²·s⁻¹"
+    ],
+    "answer": 1,
+    "title": "kg·m⁻¹·s⁻²",
+    "paragraphs": [
+      "Tlak je síla na plochu; Pa = N/m²."
+    ],
+    "memory": "kg·m⁻¹·s⁻²"
+  },
+  {
+    "id": 7,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 19,29 · str. 8–9",
+    "sourcePages": "8–9",
+    "sourceItem": "19,29",
+    "question": "V jaké jednotce SI se vyjadřuje účinnost stroje?",
+    "options": [
+      "watt",
+      "joule",
+      "je bezrozměrná",
+      "pascal"
+    ],
+    "answer": 2,
+    "title": "je bezrozměrná",
+    "paragraphs": [
+      "Účinnost je poměr užitečné energie k dodané energii, často vyjádřený procenty."
+    ],
+    "memory": "je bezrozměrná"
+  },
+  {
+    "id": 8,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 20 · str. 8",
+    "sourcePages": "8",
+    "sourceItem": "20",
+    "question": "Proč je příčné zvětšení čočky bez jednotky?",
+    "options": [
+      "Je součinem dvou sil.",
+      "Je podílem energie a času.",
+      "Je převrácenou hodnotou ohniskové vzdálenosti.",
+      "Je poměrem dvou délek."
+    ],
+    "answer": 3,
+    "title": "Je poměrem dvou délek.",
+    "paragraphs": [
+      "Zvětšení porovnává velikost obrazu s velikostí předmětu."
+    ],
+    "memory": "Je poměrem dvou délek."
+  },
+  {
+    "id": 9,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 22–23 · str. 8",
+    "sourcePages": "8",
+    "sourceItem": "22–23",
+    "question": "Jaká je jednotka momentu setrvačnosti?",
+    "options": [
+      "kg·m²",
+      "N·m",
+      "kg·m/s",
+      "kg/m²"
+    ],
+    "answer": 0,
+    "title": "kg·m²",
+    "paragraphs": [
+      "Moment setrvačnosti bodu je I = mr²."
+    ],
+    "memory": "kg·m²"
+  },
+  {
+    "id": 10,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 24,38 · str. 8–9",
+    "sourcePages": "8–9",
+    "sourceItem": "24,38",
+    "question": "Jakou jednotku má povrchové napětí kapaliny?",
+    "options": [
+      "N/m²",
+      "N/m",
+      "N·m",
+      "J/m"
+    ],
+    "answer": 1,
+    "title": "N/m",
+    "paragraphs": [
+      "Povrchové napětí je síla vztažená k délce rozhraní."
+    ],
+    "memory": "N/m"
+  },
+  {
+    "id": 11,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 26 · str. 8",
+    "sourcePages": "8",
+    "sourceItem": "26",
+    "question": "Která jednotka vyjadřuje kapacitanci (kapacitní reaktanci)?",
+    "options": [
+      "farad",
+      "henry",
+      "ohm",
+      "coulomb"
+    ],
+    "answer": 2,
+    "title": "ohm",
+    "paragraphs": [
+      "Kapacitance Xc je druh reaktance, tedy má jednotku odporu, ohm; farad patří kapacitě."
+    ],
+    "memory": "ohm"
+  },
+  {
+    "id": 12,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 27 · str. 8",
+    "sourcePages": "8",
+    "sourceItem": "27",
+    "question": "Jakou jednotkou se měří magnetická indukce B?",
+    "options": [
+      "weber",
+      "henry",
+      "ampér",
+      "tesla"
+    ],
+    "answer": 3,
+    "title": "tesla",
+    "paragraphs": [
+      "Tesla je jednotka indukce, weber jednotka magnetického toku."
+    ],
+    "memory": "tesla"
+  },
+  {
+    "id": 13,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 30,34 · str. 9",
+    "sourcePages": "9",
+    "sourceItem": "30,34",
+    "question": "Který součin jednotek představuje elektrický výkon?",
+    "options": [
+      "V·A",
+      "V/A",
+      "A·s",
+      "Ω·s"
+    ],
+    "answer": 0,
+    "title": "V·A",
+    "paragraphs": [
+      "P = UI, takže volt krát ampér je watt."
+    ],
+    "memory": "V·A"
+  },
+  {
+    "id": 14,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 33 · str. 9",
+    "sourcePages": "9",
+    "sourceItem": "33",
+    "question": "Jaká je jednotka látkové koncentrace v základním vyjádření SI?",
+    "options": [
+      "mol·m³",
+      "mol/m³",
+      "kg/mol",
+      "mol/m²"
+    ],
+    "answer": 1,
+    "title": "mol/m³",
+    "paragraphs": [
+      "Koncentrace c = n/V, tedy látkové množství na objem."
+    ],
+    "memory": "mol/m³"
+  },
+  {
+    "id": 15,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 35,41 · str. 9",
+    "sourcePages": "9",
+    "sourceItem": "35,41",
+    "question": "Jaká jednotka je ekvivalentní ampérsekundě?",
+    "options": [
+      "volt",
+      "watt",
+      "coulomb",
+      "farad"
+    ],
+    "answer": 2,
+    "title": "coulomb",
+    "paragraphs": [
+      "Náboj Q = It; 1 C = 1 A·s."
+    ],
+    "memory": "coulomb"
+  },
+  {
+    "id": 16,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 40 · str. 9",
+    "sourcePages": "9",
+    "sourceItem": "40",
+    "question": "Proč nemá součinitel smykového tření jednotku?",
+    "options": [
+      "Je součinem síly a rychlosti.",
+      "Je poměrem hmotnosti a plochy.",
+      "Je převrácenou hodnotou tlaku.",
+      "Je poměrem třecí a normálové síly."
+    ],
+    "answer": 3,
+    "title": "Je poměrem třecí a normálové síly.",
+    "paragraphs": [
+      "μ = Ft/Fn; newtony se vykrátí."
+    ],
+    "memory": "Je poměrem třecí a normálové síly."
+  },
+  {
+    "id": 17,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 44 · str. 9",
+    "sourcePages": "9",
+    "sourceItem": "44",
+    "question": "Jakou jednotku má součin elektrického odporu a proudu?",
+    "options": [
+      "volt",
+      "ampér",
+      "watt",
+      "coulomb"
+    ],
+    "answer": 0,
+    "title": "volt",
+    "paragraphs": [
+      "Z Ohmova zákona U = RI plyne Ω·A = V."
+    ],
+    "memory": "volt"
+  },
+  {
+    "id": 18,
+    "subject": "Chemie",
+    "category": "Chemie · Vzorce",
+    "bookRef": "LF MU · Chemie · Vzorce 1 · str. 62",
+    "sourcePages": "62",
+    "sourceItem": "1",
+    "question": "Který vzorec odpovídá soli Cu⁺ a dusitanového aniontu?",
+    "options": [
+      "Cu(NO₂)₂",
+      "CuNO₂",
+      "CuNO₃",
+      "Cu₂NO₂"
+    ],
+    "answer": 1,
+    "title": "CuNO₂",
+    "paragraphs": [
+      "Dusitan NO₂⁻ a Cu⁺ se vyrovnají v poměru 1 : 1."
+    ],
+    "memory": "CuNO₂"
+  },
+  {
+    "id": 19,
+    "subject": "Chemie",
+    "category": "Chemie · Vzorce",
+    "bookRef": "LF MU · Chemie · Vzorce 2 · str. 62",
+    "sourcePages": "62",
+    "sourceItem": "2",
+    "question": "Jaký je vzorec chlornanu vápenatého?",
+    "options": [
+      "CaClO",
+      "Ca(ClO₃)₂",
+      "Ca(ClO)₂",
+      "CaCl₂"
+    ],
+    "answer": 2,
+    "title": "Ca(ClO)₂",
+    "paragraphs": [
+      "Ca²⁺ vyžaduje dva anionty ClO⁻."
+    ],
+    "memory": "Ca(ClO)₂"
+  },
+  {
+    "id": 20,
+    "subject": "Chemie",
+    "category": "Chemie · Vzorce",
+    "bookRef": "LF MU · Chemie · Vzorce 3 · str. 62",
+    "sourcePages": "62",
+    "sourceItem": "3",
+    "question": "Jaký je vzorec mangananu barnatého?",
+    "options": [
+      "Ba(MnO₄)₂",
+      "BaMnO₃",
+      "Ba₂MnO₄",
+      "BaMnO₄"
+    ],
+    "answer": 3,
+    "title": "BaMnO₄",
+    "paragraphs": [
+      "Manganan MnO₄²⁻ a Ba²⁺ tvoří poměr 1 : 1."
+    ],
+    "memory": "BaMnO₄"
+  },
+  {
+    "id": 21,
+    "subject": "Chemie",
+    "category": "Chemie · Vzorce",
+    "bookRef": "LF MU · Chemie · Vzorce 4 · str. 62",
+    "sourcePages": "62",
+    "sourceItem": "4",
+    "question": "Který vzorec patří jodistanu manganatému?",
+    "options": [
+      "Mn(IO₄)₂",
+      "MnIO₄",
+      "Mn(IO₃)₂",
+      "MnI₂"
+    ],
+    "answer": 0,
+    "title": "Mn(IO₄)₂",
+    "paragraphs": [
+      "Mn²⁺ potřebuje dva anionty IO₄⁻."
+    ],
+    "memory": "Mn(IO₄)₂"
+  },
+  {
+    "id": 22,
+    "subject": "Chemie",
+    "category": "Chemie · Vzorce",
+    "bookRef": "LF MU · Chemie · Vzorce 5 · str. 62",
+    "sourcePages": "62",
+    "sourceItem": "5",
+    "question": "Jaký vzorec má chlorečnan amonný?",
+    "options": [
+      "NH₄ClO₄",
+      "NH₄ClO₃",
+      "(NH₄)₂ClO₃",
+      "NH₄ClO₂"
+    ],
+    "answer": 1,
+    "title": "NH₄ClO₃",
+    "paragraphs": [
+      "Amonný NH₄⁺ a chlorečnan ClO₃⁻ mají opačné jednotkové náboje."
+    ],
+    "memory": "NH₄ClO₃"
+  },
+  {
+    "id": 23,
+    "subject": "Chemie",
+    "category": "Chemie · Vzorce",
+    "bookRef": "LF MU · Chemie · Vzorce 6 · str. 62",
+    "sourcePages": "62",
+    "sourceItem": "6",
+    "question": "Jaký je vzorec disiřičitanu vápenatého?",
+    "options": [
+      "CaSO₃",
+      "CaS₂O₇",
+      "CaS₂O₅",
+      "Ca(HSO₃)₂"
+    ],
+    "answer": 2,
+    "title": "CaS₂O₅",
+    "paragraphs": [
+      "Disiřičitan S₂O₅²⁻ vyrovnává náboj Ca²⁺."
+    ],
+    "memory": "CaS₂O₅"
+  },
+  {
+    "id": 24,
+    "subject": "Chemie",
+    "category": "Chemie · Vzorce",
+    "bookRef": "LF MU · Chemie · Vzorce 7 · str. 62",
+    "sourcePages": "62",
+    "sourceItem": "7",
+    "question": "Kolik iontů Fe²⁺ připadá na dva fosforečnanové anionty v neutrální soli?",
+    "options": [
+      "2",
+      "1",
+      "6",
+      "3"
+    ],
+    "answer": 3,
+    "title": "3",
+    "paragraphs": [
+      "Dva PO₄³⁻ dávají −6, tři Fe²⁺ dávají +6; Fe₃(PO₄)₂."
+    ],
+    "memory": "3"
+  },
+  {
+    "id": 25,
+    "subject": "Chemie",
+    "category": "Chemie · Vzorce",
+    "bookRef": "LF MU · Chemie · Vzorce 8 · str. 62",
+    "sourcePages": "62",
+    "sourceItem": "8",
+    "question": "Jaký vzorec má hydrogensíran chromitý?",
+    "options": [
+      "Cr(HSO₄)₃",
+      "Cr(HSO₄)₂",
+      "Cr₂(SO₄)₃",
+      "CrHSO₄"
+    ],
+    "answer": 0,
+    "title": "Cr(HSO₄)₃",
+    "paragraphs": [
+      "Cr³⁺ vyžaduje tři HSO₄⁻."
+    ],
+    "memory": "Cr(HSO₄)₃"
+  },
+  {
+    "id": 26,
+    "subject": "Chemie",
+    "category": "Chemie · Vzorce",
+    "bookRef": "LF MU · Chemie · Vzorce 9 · str. 62",
+    "sourcePages": "62",
+    "sourceItem": "9",
+    "question": "Jaký je vzorec difosforečnanu hořečnatého?",
+    "options": [
+      "Mg₃(PO₄)₂",
+      "Mg₂P₂O₇",
+      "MgP₂O₇",
+      "Mg₂PO₄"
+    ],
+    "answer": 1,
+    "title": "Mg₂P₂O₇",
+    "paragraphs": [
+      "Difosforečnan P₂O₇⁴⁻ potřebuje dva Mg²⁺."
+    ],
+    "memory": "Mg₂P₂O₇"
+  },
+  {
+    "id": 27,
+    "subject": "Chemie",
+    "category": "Chemie · Vzorce",
+    "bookRef": "LF MU · Chemie · Vzorce 10 · str. 62",
+    "sourcePages": "62",
+    "sourceItem": "10",
+    "question": "Jaký vzorec má jodistan železitý?",
+    "options": [
+      "Fe(IO₄)₂",
+      "Fe(IO₃)₃",
+      "Fe(IO₄)₃",
+      "FeIO₄"
+    ],
+    "answer": 2,
+    "title": "Fe(IO₄)₃",
+    "paragraphs": [
+      "Fe³⁺ vyžaduje tři IO₄⁻."
+    ],
+    "memory": "Fe(IO₄)₃"
+  },
+  {
+    "id": 28,
+    "subject": "Chemie",
+    "category": "Chemie · Vzorce",
+    "bookRef": "LF MU · Chemie · Vzorce 11 · str. 62",
+    "sourcePages": "62",
+    "sourceItem": "11",
+    "question": "Která sůl obsahuje dva amonné ionty na jeden dichromanový anion?",
+    "options": [
+      "NH₄Cr₂O₇",
+      "(NH₄)₂CrO₄",
+      "(NH₄)₃Cr₂O₇",
+      "(NH₄)₂Cr₂O₇"
+    ],
+    "answer": 3,
+    "title": "(NH₄)₂Cr₂O₇",
+    "paragraphs": [
+      "Dichroman Cr₂O₇²⁻ má náboj −2 a NH₄⁺ náboj +1."
+    ],
+    "memory": "(NH₄)₂Cr₂O₇"
+  },
+  {
+    "id": 29,
+    "subject": "Chemie",
+    "category": "Chemie · Vzorce",
+    "bookRef": "LF MU · Chemie · Vzorce 12 · str. 62",
+    "sourcePages": "62",
+    "sourceItem": "12",
+    "question": "Jaký vzorec má cíničitan vápenatý při aniontu SnO₃²⁻?",
+    "options": [
+      "CaSnO₃",
+      "Ca(SnO₃)₂",
+      "CaSnO₂",
+      "Ca₂SnO₃"
+    ],
+    "answer": 0,
+    "title": "CaSnO₃",
+    "paragraphs": [
+      "Ca²⁺ a SnO₃²⁻ se navzájem neutralizují."
+    ],
+    "memory": "CaSnO₃"
+  },
+  {
+    "id": 30,
+    "subject": "Chemie",
+    "category": "Chemie · Vzorce",
+    "bookRef": "LF MU · Chemie · Vzorce 13 · str. 62",
+    "sourcePages": "62",
+    "sourceItem": "13",
+    "question": "Jaký je vzorec tetrahydroxohlinitanu hořečnatého?",
+    "options": [
+      "Mg[Al(OH)₄]",
+      "Mg[Al(OH)₄]₂",
+      "Mg₂[Al(OH)₄]",
+      "Mg₃[Al(OH)₄]₂"
+    ],
+    "answer": 1,
+    "title": "Mg[Al(OH)₄]₂",
+    "paragraphs": [
+      "Komplex [Al(OH)₄]⁻ má náboj −1, takže jsou potřeba dva na Mg²⁺."
+    ],
+    "memory": "Mg[Al(OH)₄]₂"
+  },
+  {
+    "id": 31,
+    "subject": "Chemie",
+    "category": "Chemie · Vzorce",
+    "bookRef": "LF MU · Chemie · Vzorce 15 · str. 62",
+    "sourcePages": "62",
+    "sourceItem": "15",
+    "question": "Jaký vzorec má hydrogenfosforečnan vápenatý?",
+    "options": [
+      "Ca(HPO₄)₂",
+      "Ca(H₂PO₄)₂",
+      "CaHPO₄",
+      "Ca₃(PO₄)₂"
+    ],
+    "answer": 2,
+    "title": "CaHPO₄",
+    "paragraphs": [
+      "HPO₄²⁻ má náboj −2 a tvoří s Ca²⁺ neutrální sůl."
+    ],
+    "memory": "CaHPO₄"
+  },
+  {
+    "id": 32,
+    "subject": "Chemie",
+    "category": "Chemie · Vzorce",
+    "bookRef": "LF MU · Chemie · Vzorce 16 · str. 62",
+    "sourcePages": "62",
+    "sourceItem": "16",
+    "question": "Který vzorec patří arseničnanu barnatému?",
+    "options": [
+      "Ba₃(AsO₃)₂",
+      "BaAsO₄",
+      "Ba₂(AsO₄)₃",
+      "Ba₃(AsO₄)₂"
+    ],
+    "answer": 3,
+    "title": "Ba₃(AsO₄)₂",
+    "paragraphs": [
+      "Tři Ba²⁺ a dva AsO₄³⁻ mají celkový náboj nula."
+    ],
+    "memory": "Ba₃(AsO₄)₂"
+  },
+  {
+    "id": 33,
+    "subject": "Chemie",
+    "category": "Chemie · Výpočty",
+    "bookRef": "LF MU · Chemie · Výpočty 28 · str. 63",
+    "sourcePages": "63",
+    "sourceItem": "28",
+    "question": "Jaký je přibližný hmotnostní zlomek kyslíku v H₂O₂ (H = 1, O = 16)?",
+    "options": [
+      "0,94",
+      "0,47",
+      "0,50",
+      "0,06"
+    ],
+    "answer": 0,
+    "title": "0,94",
+    "paragraphs": [
+      "Kyslík přispívá 32 z celkových 34 jednotek hmotnosti; 32/34 ≈ 0,94."
+    ],
+    "memory": "0,94"
+  },
+  {
+    "id": 34,
+    "subject": "Chemie",
+    "category": "Chemie · Výpočty",
+    "bookRef": "LF MU · Chemie · Výpočty 29 · str. 63",
+    "sourcePages": "63",
+    "sourceItem": "29",
+    "question": "Kolik procent hmotnosti glukózy C₆H₁₂O₆ tvoří kyslík (Mr = 180, Ar(O) = 16)?",
+    "options": [
+      "35,6 %",
+      "53,3 %",
+      "26,7 %",
+      "60,0 %"
+    ],
+    "answer": 1,
+    "title": "53,3 %",
+    "paragraphs": [
+      "Šest atomů kyslíku přispívá 96; 96/180 × 100 ≈ 53,3 %."
+    ],
+    "memory": "53,3 %"
+  },
+  {
+    "id": 35,
+    "subject": "Biologie",
+    "category": "Biologie · Historie",
+    "bookRef": "LF MU · Biologie · Historie 2 · str. 122",
+    "sourcePages": "122",
+    "sourceItem": "2",
+    "question": "Ve kterém roce bylo publikováno narození ovce Dolly?",
+    "options": [
+      "1953",
+      "1977",
+      "1997",
+      "2003"
+    ],
+    "answer": 2,
+    "title": "1997",
+    "paragraphs": [
+      "Dolly se narodila v roce 1996; výsledek byl publikován roku 1997."
+    ],
+    "memory": "1997"
+  },
+  {
+    "id": 36,
+    "subject": "Biologie",
+    "category": "Biologie · Historie",
+    "bookRef": "LF MU · Biologie · Historie 3 · str. 122",
+    "sourcePages": "122",
+    "sourceItem": "3",
+    "question": "Kdo roku 1953 navrhl model dvojité šroubovice DNA?",
+    "options": [
+      "Matthias Schleiden a Theodor Schwann",
+      "Gregor Mendel a Thomas Morgan",
+      "Louis Pasteur a Robert Koch",
+      "J. D. Watson a F. Crick"
+    ],
+    "answer": 3,
+    "title": "J. D. Watson a F. Crick",
+    "paragraphs": [
+      "Watson a Crick navrhli model s využitím důležitých rentgenových dat Rosalind Franklinové a dalších badatelů."
+    ],
+    "memory": "J. D. Watson a F. Crick"
+  },
+  {
+    "id": 37,
+    "subject": "Biologie",
+    "category": "Biologie · Historie",
+    "bookRef": "LF MU · Biologie · Historie 5 · str. 122",
+    "sourcePages": "122",
+    "sourceItem": "5",
+    "question": "Který český badatel přispěl k rozvoji buněčné teorie?",
+    "options": [
+      "Jan Evangelista Purkyně",
+      "Jan Janský",
+      "Antonín Holý",
+      "Otto Wichterle"
+    ],
+    "answer": 0,
+    "title": "Jan Evangelista Purkyně",
+    "paragraphs": [
+      "Purkyně studoval buněčnou stavbu živočišných tkání a protoplazmu."
+    ],
+    "memory": "Jan Evangelista Purkyně"
+  },
+  {
+    "id": 38,
+    "subject": "Biologie",
+    "category": "Biologie · Historie",
+    "bookRef": "LF MU · Biologie · Historie 10–11 · str. 122–123",
+    "sourcePages": "122–123",
+    "sourceItem": "10–11",
+    "question": "Který objev předcházel publikaci klonování Dolly?",
+    "options": [
+      "dokončení projektu lidského genomu",
+      "rozluštění genetického kódu",
+      "zveřejnění úplné sekvence lidského chromozomu T2T",
+      "objev CRISPR-Cas9 jako cíleného genomového nástroje"
+    ],
+    "answer": 1,
+    "title": "rozluštění genetického kódu",
+    "paragraphs": [
+      "Genetický kód byl rozluštěn v 60. letech 20. století, Dolly byla publikována roku 1997."
+    ],
+    "memory": "rozluštění genetického kódu"
+  },
+  {
+    "id": 39,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 6 · str. 123",
+    "sourcePages": "123",
+    "sourceItem": "6",
+    "question": "Jaký protein je hlavní stavební složkou mikrofilament?",
+    "options": [
+      "tubulin",
+      "kolagen",
+      "aktin",
+      "keratin"
+    ],
+    "answer": 2,
+    "title": "aktin",
+    "paragraphs": [
+      "Mikrofilamenta jsou aktinová vlákna; mikrotubuly tvoří tubulin."
+    ],
+    "memory": "aktin"
+  },
+  {
+    "id": 40,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 8 · str. 123",
+    "sourcePages": "123",
+    "sourceItem": "8",
+    "question": "Která struktura má podobnou vnitřní stavbu jako pohyblivý eukaryotický bičík?",
+    "options": [
+      "bakteriální bičík",
+      "aktinové mikrofilamentum",
+      "ribozom",
+      "pohyblivá řasinka"
+    ],
+    "answer": 3,
+    "title": "pohyblivá řasinka",
+    "paragraphs": [
+      "Řasinky a bičíky eukaryot mají zpravidla mikrotubulární uspořádání 9 + 2."
+    ],
+    "memory": "pohyblivá řasinka"
+  },
+  {
+    "id": 41,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 10 · str. 124",
+    "sourcePages": "124",
+    "sourceItem": "10",
+    "question": "Která lidská buňka má přibližně desetinu milimetru v průměru a patří k největším kulovitým buňkám?",
+    "options": [
+      "zralý oocyt",
+      "erytrocyt",
+      "lymfocyt",
+      "trombocyt"
+    ],
+    "answer": 0,
+    "title": "zralý oocyt",
+    "paragraphs": [
+      "Oocyt je mimořádně velká buňka; erytrocyt má průměr přibližně 7–8 µm."
+    ],
+    "memory": "zralý oocyt"
+  },
+  {
+    "id": 42,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 11,26 · str. 124–125",
+    "sourcePages": "124–125",
+    "sourceItem": "11,26",
+    "question": "Které organely rostlinné buňky mají vlastní ribozomy?",
+    "options": [
+      "vakuola a lysozom",
+      "mitochondrie a chloroplasty",
+      "Golgiho aparát a peroxizom",
+      "centrioly a jadérko"
+    ],
+    "answer": 1,
+    "title": "mitochondrie a chloroplasty",
+    "paragraphs": [
+      "Mitochondrie a chloroplasty mají vlastní ribozomy a mohou syntetizovat část svých proteinů."
+    ],
+    "memory": "mitochondrie a chloroplasty"
+  },
+  {
+    "id": 43,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 14 · str. 124",
+    "sourcePages": "124",
+    "sourceItem": "14",
+    "question": "Které úseky pre-mRNA zůstávají po sestřihu ve zralé RNA?",
+    "options": [
+      "introny",
+      "centromery",
+      "exony",
+      "telomery"
+    ],
+    "answer": 2,
+    "title": "exony",
+    "paragraphs": [
+      "Exony jsou zachovanými úseky RNA; ne všechny exony musejí kódovat bílkovinu."
+    ],
+    "memory": "exony"
+  },
+  {
+    "id": 44,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 30 · str. 125",
+    "sourcePages": "125",
+    "sourceItem": "30",
+    "question": "Která struktura buněčného jádra nemá vlastní membránu?",
+    "options": [
+      "mitochondrie",
+      "lysozom",
+      "chloroplast",
+      "jadérko"
+    ],
+    "answer": 3,
+    "title": "jadérko",
+    "paragraphs": [
+      "Jadérko je nemembránová jaderná struktura spojená s tvorbou ribozomálních podjednotek."
+    ],
+    "memory": "jadérko"
+  },
+  {
+    "id": 45,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 7 · str. 123",
+    "sourcePages": "123",
+    "sourceItem": "7",
+    "question": "Jaký řád velikosti odpovídá typickému průměru tyčinkové bakterie?",
+    "options": [
+      "jednotky mikrometrů",
+      "jednotky centimetrů",
+      "jednotky metrů",
+      "jednotky nanometrů"
+    ],
+    "answer": 0,
+    "title": "jednotky mikrometrů",
+    "paragraphs": [
+      "Bakteriální buňky mají obvykle mikrometrové rozměry."
+    ],
+    "memory": "jednotky mikrometrů"
+  },
+  {
+    "id": 46,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 3 · str. 123",
+    "sourcePages": "123",
+    "sourceItem": "3",
+    "question": "Proč mohou mít svalová a kožní buňka stejného jedince rozdílnou funkci i při podobném genomu?",
+    "options": [
+      "Mají vždy rozdílný počet chromozomů.",
+      "Liší se aktivitou genů.",
+      "Svalová buňka neobsahuje DNA.",
+      "Kožní buňka nemá ribozomy."
+    ],
+    "answer": 1,
+    "title": "Liší se aktivitou genů.",
+    "paragraphs": [
+      "Diferenciace závisí především na tom, které geny buňka využívá."
+    ],
+    "memory": "Liší se aktivitou genů."
+  },
+  {
+    "id": 47,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 23 · str. 125",
+    "sourcePages": "125",
+    "sourceItem": "23",
+    "question": "Co se při běžném sestřihu pre-mRNA děje s introny?",
+    "options": [
+      "Přemění se na aminokyseliny.",
+      "Zdvojí se v chromozomu.",
+      "Jsou odstraněny z RNA.",
+      "Přesunou se do mitochondrie."
+    ],
+    "answer": 2,
+    "title": "Jsou odstraněny z RNA.",
+    "paragraphs": [
+      "Introny jsou vystřiženy z pre-mRNA, exony se spojují."
+    ],
+    "memory": "Jsou odstraněny z RNA."
+  },
+  {
+    "id": 48,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 1 · str. 123",
+    "sourcePages": "123",
+    "sourceItem": "1",
+    "question": "Co přímo ovlivňuje rychlost prosté difúze látky přes membránu?",
+    "options": [
+      "počet chromozomů",
+      "počet jadérek",
+      "fáze mitózy",
+      "koncentrační gradient"
+    ],
+    "answer": 3,
+    "title": "koncentrační gradient",
+    "paragraphs": [
+      "Větší rozdíl koncentrací podporuje rychlejší čistý tok difúzí."
+    ],
+    "memory": "koncentrační gradient"
+  },
+  {
+    "id": 49,
+    "subject": "Biologie",
+    "category": "Biologie · Obecná biologie",
+    "bookRef": "LF MU · Biologie · Obecná biologie 6 · str. 122",
+    "sourcePages": "122",
+    "sourceItem": "6",
+    "question": "Která posloupnost správně roste v úrovni biologické organizace?",
+    "options": [
+      "buňka → orgán → organismus → společenstvo",
+      "orgán → buňka → organismus → společenstvo",
+      "organismus → orgán → společenstvo → buňka",
+      "společenstvo → organismus → buňka → orgán"
+    ],
+    "answer": 0,
+    "title": "buňka → orgán → organismus → společenstvo",
+    "paragraphs": [
+      "Buňky vytvářejí tkáně a orgány, organismy tvoří společenstva."
+    ],
+    "memory": "buňka → orgán → organismus → společenstvo"
+  },
+  {
+    "id": 50,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 27 · str. 125",
+    "sourcePages": "125",
+    "sourceItem": "27",
+    "question": "Co zásadně ovlivňuje prostorovou strukturu bílkoviny?",
+    "options": [
+      "počet chromozomů",
+      "pořadí aminokyselin",
+      "velikost jádra",
+      "počet nukleotidů v ribozomální RNA"
+    ],
+    "answer": 1,
+    "title": "pořadí aminokyselin",
+    "paragraphs": [
+      "Primární sekvence aminokyselin určuje interakce při skládání bílkoviny."
+    ],
+    "memory": "pořadí aminokyselin"
+  }
+]
