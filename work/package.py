@@ -15,17 +15,17 @@ class Structure(HTMLParser):
 p=Structure();p.feed((root/'index.html').read_text(encoding='utf-8'))
 assert len(p.ids)==len(set(p.ids)),'Duplicate DOM IDs'
 assert not p.external_assets,'Unexpected external dependency'
-dest=root/'outputs/studijni-kvizy-v2.39.0';dest.mkdir(parents=True,exist_ok=True)
+dest=root/'outputs/studijni-kvizy-v2.40.0';dest.mkdir(parents=True,exist_ok=True)
 for name in files:
     (dest/name).parent.mkdir(parents=True,exist_ok=True)
     (dest/name).write_bytes((root/name).read_bytes())
-archive=root/'outputs/studijni-kvizy-v2.39.0.zip'
+archive=root/'outputs/studijni-kvizy-v2.40.0.zip'
 with zipfile.ZipFile(archive,'w',zipfile.ZIP_DEFLATED) as z:
     for name in files:z.write(dest/name,arcname=dest.name+'/'+name)
 with zipfile.ZipFile(archive) as z:
     assert z.testzip() is None
     assert len(z.namelist())==len(files)
     for name in files:assert z.read(dest.name+'/'+name)==(root/name).read_bytes()
-result=dict(status='PASS',version='2.39.0',archive=str(archive),bytes=archive.stat().st_size,sha256=hashlib.sha256((root/'index.html').read_bytes()).hexdigest(),uniqueDOMIds=len(p.ids),externalAssets=0,zipIntegrity=True)
+result=dict(status='PASS',version='2.40.0',archive=str(archive),bytes=archive.stat().st_size,sha256=hashlib.sha256((root/'index.html').read_bytes()).hexdigest(),uniqueDOMIds=len(p.ids),externalAssets=0,zipIntegrity=True)
 (root/'tmp/package-results.json').write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding='utf-8')
 print(json.dumps(result,ensure_ascii=False))
