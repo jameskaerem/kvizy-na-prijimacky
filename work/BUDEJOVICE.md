@@ -26,7 +26,7 @@ Začít testem Všeobecná informovanost 2019 od úlohy 4, tištěná strana 1 /
 - 84–100: Biologie 2020, Fyzioterapie, tištěné strany 1–3 / PDF 1–3, soubor České Budějovice TESTY 2019, 2021, 2022.pdf. Vybrané úlohy 1–9, 11–16, 18–19. Pohybová soustava, svaly, krvetvorba, imunita, oběh, homeostáza a tlak v pohrudniční dutině. Vynechána úloha 10 s nepřesným omezením červené dřeně jen na ploché kosti a 17 bez upřesnění podmínek měření tepu.
 - Další dávka od ID 101: Biologie 2020, Fyzioterapie, úloha 20 (vitální kapacita plic), tištěná strana 3 / PDF 3. Porovnat zvláště úlohy 22–24 s první dávkou.
 
-Po každé dokončené a ověřené dávce zveřejnit index.html a README.md ve větvi main repozitáře jameskaerem/somatologie-otazky a ověřit nový počet otázek na GitHub Pages.
+Po každé dokončené a ověřené dávce zveřejnit index.html a README.md ve větvi main repozitáře jameskaerem/kvizy-na-prijimacky a ověřit nový počet otázek na GitHub Pages.
 
 ## Dávka 101–150 a stav všech pěti PDF
 
