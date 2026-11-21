@@ -33,6 +33,27 @@ Porovnání se stávajícími sadami podle ověřovaného poznatku (somatologie,
 - Vynecháno jako stejný poznatek v rámci dávky: fyzika 1.15 (výpočet kapání jako 1.14), 2.04 (stejná situace jako 2.03).
 - Odloženo jako sporné: biologie 115 (inkrustace × impregnace se v učebnicích definují různě), fyzika 1.53 (rok jako vedlejší jednotka) a 1.54 (význam slova „vteřina“).
 
+## Dávka ID 51–100 (v2.46.0)
+
+Soubor `uk-051-100.json`, generátor `create_uk_051_100.py`. Odpovědi fyziky ověřeny výpočtem, chemie a biologie porovnány s klíčem.
+
+| Předmět | Kapitola | Použité úlohy | ID |
+|---|---|---|---|
+| Fyzika | 1. Základní pojmy (str. 5–13) | 1.05, 1.12, 1.15, 1.27, 1.28, 1.30, 1.32, 1.34, 1.36, 1.37, 1.39, 1.40, 1.47, 1.49, 1.52, 1.56 | 51–66 |
+| Chemie | 1.1–1.8 | str. 15/1, 15/2, 24/2, 32/3, 34/3, 36/3, 36/4, 38/6, 41/1 | 67–75 |
+| Chemie | 2.1 Anorganické sloučeniny | str. 44/4, 47/2, 48/2, 53/3, 53/5, 57/1, 59/5 | 76–82 |
+| Chemie | 2.2.1 Kyseliny a zásady | str. 66/1, 68/1 | 83–84 |
+| Biologie | Buněčná biologie (str. 35–36) | 135, 141 | 85–86 |
+| Biologie | Molekulární biologie (str. 41–67) | 159, 162, 163, 197, 201, 202, 216, 217, 225, 251, 255, 284, 287, 291 | 87–100 |
+
+Převod na jednu správnou odpověď: fyzika 1.27, 1.28, 1.30, 1.34, 1.36 (v originále více správných vyjádření, ptáme se na jedno), 1.39 (zúženo na roční období), 1.05 (nejmenší dostatečné balení); biologie 217 (doplněno „téměř“ univerzální kvůli výjimkám v mitochondriích).
+
+Porovnání se stávajícími sadami:
+- Nepřidáno jako duplicita: fyzika 1.48, 1.60–1.62 (skalár a vektor, ČB 534), 1.16–1.25 a 1.63–1.64 (základní a odvozené jednotky SI, LF MU 1 a ČB 543), 1.45–1.46 (převod km/h, UK 4), 1.02–1.03 (hmotnost vody, UK 1); chemie str. 19/3 (helium ve vesmíru, ve vysvětlení UK 24); biologie 123 (meióza ze dvou dělení, SOM 31), 148 (erytrocyt bez jádra, BIO 86), 153 (základní typy tkání, biologická sada), 189 a 272 (rRNA v jadérku, SOM 27), 176 (tRNA v translaci, SOM 23), 139 (osmotická lýza, LF MU 97 a UK 48).
+- Příbuzné, ale přidané jako jiná znalost: chemie str. 15/1 (beta plus) vs. UK 22 (beta minus); fyzika 1.15 (objem láhve) vs. UK 10 (kapky za minutu); fyzika 1.12 (tera) vs. 1.56 (sada předpon); biologie 197 (aminoacyl-tRNA-syntetáza) vs. SOM 23 (tRNA přenáší aminokyseliny).
+- Vynecháno v rámci dávky: chemie str. 35/1 (definice kinetiky), 36/1 (součin rozpustnosti, UK 33), 59/4 (sublimát, ve vysvětlení UK 82).
+- Odloženo jako sporné: fyzika 1.50 (km jako odvozená jednotka) a 1.53–1.54 jako v první dávce.
+
 ## Další dávky
 
-Pokračovat od ID 51. Nedotčeno: fyzika úlohy 1.02–1.03, 1.05, 1.12, 1.15–1.30, 1.32–1.37, 1.39–1.40, 1.42–1.64, 2.04 (zbytek fyziky po str. 15 v ukázce chybí, plná kniha není k dispozici); chemie zbytek kap. 1 a kap. 2–5 (str. 42–219); biologie zbytek kapitol Úvod a Buněčná biologie a kapitoly Molekulární biologie až Historie (str. 40–197). Úplné pokrytí zatím nebylo dosaženo.
+Pokračovat od ID 101. Z ukázky fyziky zbývají hlavně úlohy 1.02–1.03, 1.16–1.26, 1.29, 1.33, 1.35, 1.41–1.46, 1.48, 1.50–1.51, 1.53–1.55, 1.57–1.64 a 2.04, většinou duplicitní k již pokrytým znalostem; plná kniha fyziky není k dispozici. Chemie pokračuje kap. 2.1 (str. 42–61) a dál, biologie Molekulární biologií od str. 60 a genetikou (str. 71+). Úplné pokrytí zatím nebylo dosaženo.
