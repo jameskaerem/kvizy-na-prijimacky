@@ -33,4 +33,4 @@ Porovnání s existujícími sadami podle ověřované znalosti:
 - Vynecháno jako stejný poznatek v rámci dávky: kinematika 4 (stejný vztah jako 3), 17 a 18 (stejné vztahy jako 14 a 20), 23 (rovnováha sil jako 12), chemie 4 (n² jako 5), 9 a 10 (konfigurace jako 14).
 - Nejasné a odložené: chemie 28 (exponent v PDF nečitelný), 66 (klíč b, ale vodíkové vazby tvoří i NH₃), biologie buňky 62 v původním znění (ATP i aminokyseliny také procházejí póry; otázka přeformulována s jednoznačnými distraktory), fyzika gravitace 62 (zdůvodnění beztíže odstředivou silou je sporné).
 
-Druhý soubor `877344967-LF-MU-Modelove-Otazky-New.pdf` nebyl 21. 11. 2026 v připojené složce MUNI na počítači (je tam jen publikace Mornstein a kol.). Zůstává nepokrytý, dokud nebude dostupný.
+Druhý soubor `877344967-LF-MU-Modelove-Otazky-New.pdf` je podle vlastníka (21. 11. 2026) stejná publikace jako hlavní soubor Mornstein a kol. Samostatně se nepokrývá; zdrojem kvízu LF MU je jen hlavní soubor.
