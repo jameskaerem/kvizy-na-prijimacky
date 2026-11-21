@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 151,
+    "category": "Proudění a regulace oběhu",
+    "bookRef": "str. 55",
+    "sourcePages": "55",
+    "question": "Co fyzikálně vyjadřuje krevní tlak na cévní stěnu?",
+    "options": [
+      "Pouze počet erytrocytů v jednom litru",
+      "Počet srdečních stahů za minutu",
+      "Výhradně rychlost nervového vzruchu",
+      "Sílu působící na jednotku plochy stěny"
+    ],
+    "answer": 3,
+    "title": "Tlak je síla vztažená k ploše",
+    "paragraphs": [
+      "Krevní tlak vyjadřuje mechanické působení krve na cévní stěnu jako sílu na jednotku plochy. Jde o jinou veličinu než průtok.",
+      "Představ si tekutinu tlačící na vnitřní povrch pružné hadice. O velikosti tlaku nerozhoduje jen to, že tekutina vůbec přítomná je.",
+      "Počet krvinek, frekvence srdce a průtok mají odlišné jednotky a význam. Nelze je přímo zaměňovat za tlak."
+    ],
+    "memory": "Tlak = síla na plochu."
+  },
+  {
+    "id": 152,
+    "category": "Proudění a regulace oběhu",
+    "bookRef": "str. 55",
+    "sourcePages": "55",
+    "question": "Co je bezprostřední hnací silou toku krve mezi dvěma místy cévního řečiště?",
+    "options": [
+      "Rozdíl tlaků mezi těmito místy",
+      "Stejný tlak na obou koncích bez jiné síly",
+      "Samotný počet leukocytů",
+      "Pouze červená barva krve"
+    ],
+    "answer": 0,
+    "title": "Krev proudí podle tlakového spádu",
+    "paragraphs": [
+      "Pro proudění je zásadní rozdíl tlaků mezi začátkem a koncem příslušné cesty. Tok směřuje z vyššího tlaku k nižšímu.",
+      "Představ si dvě spojené nádrže s rozdílným tlakem. Samotná hodnota tlaku v jedné z nich bez informace o druhé ještě neurčuje celý pohon.",
+      "Nejde o to, že by musel být tlak na konci vždy přesně nulový. Rozhodující je rozdíl, nikoli jediná absolutní hodnota."
+    ],
+    "memory": "Průtok pohání tlakový rozdíl."
+  },
+  {
+    "id": 153,
+    "category": "Proudění a regulace oběhu",
+    "bookRef": "str. 56",
+    "sourcePages": "56",
+    "question": "Který vztah správně popisuje průtok Q při tlakovém rozdílu ΔP a odporu R?",
+    "options": [
+      "Q je vždy nezávislé na ΔP i R",
+      "Q = ΔP / R",
+      "Q = R / ΔP",
+      "Q = ΔP × R jako obecný vztah"
+    ],
+    "answer": 1,
+    "title": "Průtok závisí na pohonu i odporu",
+    "paragraphs": [
+      "V jednoduchém hemodynamickém modelu je průtok přímo úměrný tlakovému rozdílu a nepřímo úměrný odporu. Zapisujeme Q = ΔP/R.",
+      "Představ si dopravu, kterou podporuje tlakový pohon a brzdí zúžení cesty. K posouzení toku potřebuješ obě informace.",
+      "Kniha někdy zjednodušeně píše jen krevní tlak. Přesnějším čitatelem je tlakový rozdíl přes sledovaný úsek řečiště."
+    ],
+    "memory": "Průtok = tlakový rozdíl dělený odporem."
+  },
+  {
+    "id": 154,
+    "category": "Proudění a regulace oběhu",
+    "bookRef": "str. 56",
+    "sourcePages": "56",
+    "question": "Co se podle Q = ΔP/R stane s průtokem, když se odpor zdvojnásobí a tlakový rozdíl zůstane stejný?",
+    "options": [
+      "Průtok se musí zvýšit čtyřikrát",
+      "Průtok zůstane stejný za všech okolností",
+      "Průtok klesne na polovinu",
+      "Průtok se zdvojnásobí"
+    ],
+    "answer": 2,
+    "title": "Větší odpor při stejném pohonu brzdí",
+    "paragraphs": [
+      "Odpor je ve jmenovateli vztahu Q = ΔP/R. Zdvojnásobení odporu při stejném tlakovém rozdílu proto sníží průtok na polovinu.",
+      "Představ si stejnou pumpu a těžší průchod cestou. Pokud se pohon nezmění, protéká za jednotku času méně tekutiny.",
+      "Podmínka stejného tlakového rozdílu je zásadní. Ve skutečném těle může regulace současně měnit i další veličiny."
+    ],
+    "memory": "Dvojnásobný odpor při stejném ΔP → poloviční tok."
+  },
+  {
+    "id": 155,
+    "category": "Proudění a regulace oběhu",
+    "bookRef": "str. 55–56",
+    "sourcePages": "55–56",
+    "question": "Ve kterém úseku velkého oběhu nastává výrazný pokles tlaku spojený s vysokým odporem?",
+    "options": [
+      "Výhradně uvnitř zralých erytrocytů",
+      "Pouze v srdečním osrdečníku",
+      "V dýchacích cestách mimo cévní řečiště",
+      "V tepénkách neboli arteriolách"
+    ],
+    "answer": 3,
+    "title": "Na odporových cévách se tlak výrazně snižuje",
+    "paragraphs": [
+      "Tepénky představují významnou odporovou část řečiště. Při průtoku přes tento úsek dochází k výraznému poklesu tlaku.",
+      "Představ si zúžené části rozvodné sítě, na kterých se spotřebuje velká část tlakového spádu. Za nimi je tlak nižší.",
+      "Tepenný tlak tedy není stejně vysoký v každé cévě až po návrat k srdci. V různých částech okruhu se liší."
+    ],
+    "memory": "Arterioly = velký odpor a výrazný tlakový pokles."
+  },
+  {
+    "id": 156,
+    "category": "Proudění a regulace oběhu",
+    "bookRef": "str. 56",
+    "sourcePages": "56",
+    "question": "Co znamená prokrvení neboli perfuze tkáně?",
+    "options": [
+      "Přívod a průtok krve příslušnou tkání",
+      "Pouze pohyb vzduchu průdušnicí",
+      "Pouze počet kostí v okolí tkáně",
+      "Změnu každé tkáňové buňky na erytrocyt"
+    ],
+    "answer": 0,
+    "title": "Perfuze vyjadřuje krevní zásobování",
+    "paragraphs": [
+      "Perfuze označuje prokrvení tkáně, tedy přívod a průtok krve jejím řečištěm. Souvisí s dodávkou látek a odvodem produktů metabolismu.",
+      "Představ si zásobovací dopravu do konkrétní čtvrti. Důležitý není jen tlak na začátku města, ale také skutečné množství dopravy do cíle.",
+      "Tlak a průtok nejsou totéž. Znalost samotného tlaku bez odporu ještě neříká vše o prokrvení konkrétní tkáně."
+    ],
+    "memory": "Perfuze = prokrvení tkáně."
+  },
+  {
+    "id": 157,
+    "category": "Proudění a regulace oběhu",
+    "bookRef": "str. 57",
+    "sourcePages": "57",
+    "question": "Jaký podnět bezprostředně snímají arteriální baroreceptory?",
+    "options": [
+      "Přímo množství všech protilátek v těle",
+      "Napětí a roztažení cévní stěny související s tlakem",
+      "Barvu hemoglobinu jako jedinou informaci",
+      "Počet vlasových folikulů"
+    ],
+    "answer": 1,
+    "title": "Čidlo zachytí mechanickou změnu stěny",
+    "paragraphs": [
+      "Arteriální baroreceptory reagují na roztažení cévní stěny. Jejich signály poskytují nervovým centrům informaci související s aktuálním krevním tlakem.",
+      "Představ si čidlo natažení na pružné nádobě. Změna tlaku se promítne do jejího mechanického napětí.",
+      "Baroreceptor není laboratorní přístroj měřící chemické složení krve. Chemické podněty jsou úkolem jiných receptorů."
+    ],
+    "memory": "Baroreceptor sleduje roztažení stěny."
+  },
+  {
+    "id": 158,
+    "category": "Proudění a regulace oběhu",
+    "bookRef": "str. 57",
+    "sourcePages": "57",
+    "question": "Kde se nacházejí významné arteriální baroreceptory?",
+    "options": [
+      "Jen uvnitř zubní skloviny",
+      "Výhradně ve žlučníku",
+      "V oblasti aortálního oblouku a karotického sinu",
+      "Pouze v kloubní chrupavce kolene"
+    ],
+    "answer": 2,
+    "title": "Tlaková čidla jsou ve velkých tepnách",
+    "paragraphs": [
+      "Důležité baroreceptory leží v oblasti aortálního oblouku a rozšíření krkavice označovaného jako karotický sinus.",
+      "Představ si kontrolní místa na hlavních cévních trasách. Informace z nich vstupuje do rychlé reflexní regulace oběhu.",
+      "Nejde o srdeční sinusový uzel, který vytváří rytmus. Podobně znějící slovo sinus může označovat různé anatomické struktury."
+    ],
+    "memory": "Aorta a karotický sinus = důležitá tlaková čidla."
+  },
+  {
+    "id": 159,
+    "category": "Proudění a regulace oběhu",
+    "bookRef": "str. 57",
+    "sourcePages": "57",
+    "question": "Kde je uloženo významné nervové centrum rychlé regulace srdeční a cévní činnosti?",
+    "options": [
+      "V červené kostní dřeni",
+      "Uvnitř čéšky",
+      "V dřeni nadledvin jako jediném nervovém centru",
+      "V prodloužené míše"
+    ],
+    "answer": 3,
+    "title": "Oběhové řízení využívá prodlouženou míchu",
+    "paragraphs": [
+      "Významná centra řízení oběhu jsou v prodloužené míše. Přes autonomní nervové dráhy mohou měnit činnost srdce a cév.",
+      "Představ si řídicí uzel propojený s čidly i výkonnými orgány. Sám nemusí být umístěný v srdci, aby jeho práci upravoval.",
+      "Toto regulační centrum není totožné se sinusovým uzlem. Ten je přímo v srdci a zajišťuje základní rytmický podnět."
+    ],
+    "memory": "Rychlá nervová regulace oběhu → prodloužená mícha."
+  },
+  {
+    "id": 160,
+    "category": "Proudění a regulace oběhu",
+    "bookRef": "str. 58",
+    "sourcePages": "58",
+    "question": "Jakou úlohu má dostředivá dráha regulačního reflexu?",
+    "options": [
+      "Přenáší informaci od čidla do řídicího centra",
+      "Vede povel výhradně z centra do výkonného orgánu",
+      "Přeměňuje všechnu krev na mízu",
+      "Připojuje sval ke kosti místo šlachy"
+    ],
+    "answer": 0,
+    "title": "Dostředivá informace míří k centru",
+    "paragraphs": [
+      "Dostředivá neboli aferentní dráha přináší signál ze smyslového čidla do centra. Odstředivá neboli eferentní dráha vede výstupní pokyn k efektoru.",
+      "Představ si řídicí místnost: jedním směrem přichází hlášení, druhým odcházejí pokyny. Směry je důležité odlišit.",
+      "Čidlo, centrum a výkonný orgán nejsou jeden a tentýž člen obvodu. Každý má při regulaci jinou úlohu."
+    ],
+    "memory": "Aferentní = informace do centra."
+  },
+  {
+    "id": 161,
+    "category": "Proudění a regulace oběhu",
+    "bookRef": "str. 57",
+    "sourcePages": "57",
+    "question": "Jaká odpověď baroreflexu pomáhá tlumit náhlý vzestup arteriálního tlaku?",
+    "options": [
+      "Tvorba nových obratlů",
+      "Snížení srdeční aktivity a útlum sympatického stažení cév",
+      "Další zesílení stejné tlakové odchylky za všech okolností",
+      "Trvalé uzavření všech cév v těle"
+    ],
+    "answer": 1,
+    "title": "Při vzestupu tlaku se reflex snaží ubrat",
+    "paragraphs": [
+      "Zvýšený tlak více roztahuje příslušnou cévní stěnu a obvykle zvyšuje signály baroreceptorů. Reflexní odpověď může snížit srdeční aktivitu a cévní tonus.",
+      "Představ si regulaci, která při překročení pracovní hodnoty ubírá výkon. Reakce působí proti původní změně.",
+      "Jde o rychlou reflexní složku řízení, nikoli úplný popis všech dlouhodobých mechanismů krevního tlaku."
+    ],
+    "memory": "Náhlý tlak nahoru → baroreflex ubírá."
+  },
+  {
+    "id": 162,
+    "category": "Proudění a regulace oběhu",
+    "bookRef": "str. 57",
+    "sourcePages": "57",
+    "question": "Jaká reflexní reakce pomáhá při náhlém poklesu arteriálního tlaku?",
+    "options": [
+      "Zánik všech srdečních chlopní",
+      "Zastavení tvorby ATP ve všech orgánech",
+      "Zvýšení sympatické podpory srdce a stažení příslušných cév",
+      "Povinné zpomalení srdce a rozšíření všech tepen jako jediná odpověď"
+    ],
+    "answer": 2,
+    "title": "Při poklesu tlaku se reflex snaží přidat",
+    "paragraphs": [
+      "Při náhlém snížení tlaku bývá nižší aktivita arteriálních baroreceptorů. Následná odpověď může zvýšit srdeční činnost a cévní tonus.",
+      "Představ si pokles výkonu zásobovací sítě, na který řízení reaguje podporou pohonu a změnou rozdělení odporu.",
+      "Reakce není libovolné zrychlení všech dějů. Je cílenou součástí oběhového reflexu s konkrétními efektory."
+    ],
+    "memory": "Náhlý tlak dolů → reflexní podpora srdce a cévního tonu."
+  },
+  {
+    "id": 163,
+    "category": "Proudění a regulace oběhu",
+    "bookRef": "str. 57–58",
+    "sourcePages": "57–58",
+    "question": "Proč je při rychlém postavení z lehu důležitá krátkodobá oběhová regulace?",
+    "options": [
+      "Protože se po postavení musí změnit krevní skupina",
+      "Protože se všechna krev přesune okamžitě do plicních sklípků",
+      "Protože vestoje přestávají fungovat všechny žíly",
+      "Pomáhá vyrovnat změnu rozložení krve a zachovat přiměřené prokrvení mozku"
+    ],
+    "answer": 3,
+    "title": "Změna polohy mění oběhové podmínky",
+    "paragraphs": [
+      "Po postavení působí gravitace na rozložení krve jinak než vleže. Reflexní regulace pomáhá omezit přechodný pokles tlaku a zásobování mozku.",
+      "Představ si soustavu, která musí rychle přenastavit chod po změně polohy celého potrubí. Oběh není od gravitace oddělený.",
+      "Jde o vysvětlení fyziologické potřeby regulace. Není to tvrzení, že každý člověk po postavení nutně omdlí."
+    ],
+    "memory": "Postavení mění podmínky; reflex pomáhá udržet přívod k mozku."
+  },
+  {
+    "id": 164,
+    "category": "Proudění a regulace oběhu",
+    "bookRef": "str. 58",
+    "sourcePages": "58",
+    "question": "Jak se pozitivní zpětná vazba liší od negativní?",
+    "options": [
+      "Původní změnu může zesilovat místo jejího tlumení",
+      "Vždy znamená zdravý a prospěšný výsledek",
+      "Je úplně stejná jako negativní vazba",
+      "Znamená, že systém nikdy nedostává informace o výsledku"
+    ],
+    "answer": 0,
+    "title": "Pozitivní označuje směr zesílení",
+    "paragraphs": [
+      "Pozitivní zpětná vazba zesiluje probíhající změnu, zatímco negativní působí proti odchylce. Příkladem zesilujícího děje je část hormonálního řízení porodu.",
+      "Představ si rozdíl mezi přidáváním do rozběhnutého procesu a brzděním odchylky. Znaménko vazby nehodnotí morální nebo zdravotní kvalitu.",
+      "Pozitivní neznamená automaticky dobrá a negativní špatná. Pro průběžnou stabilizaci veličin se často uplatňuje právě negativní vazba."
+    ],
+    "memory": "Pozitivní zesiluje, negativní tlumí odchylku."
+  },
+  {
+    "id": 165,
+    "category": "Proudění a regulace oběhu",
+    "bookRef": "str. 59",
+    "sourcePages": "59",
+    "question": "Mohou vyšší oddíly mozku ovlivňovat oběhové řízení z prodloužené míchy?",
+    "options": [
+      "Ne, srdce nikdy nemění činnost podle zátěže",
+      "Ano, například prostřednictvím hypotalamu a mozkové kůry",
+      "Ne, oběhové centrum je úplně oddělené od zbytku mozku",
+      "Ano, ale jen přeměnou krve na mízu"
+    ],
+    "answer": 1,
+    "title": "Řízení oběhu má více úrovní",
+    "paragraphs": [
+      "Oběhová regulační centra nejsou od ostatních částí nervové soustavy izolovaná. Jejich činnost mohou ovlivňovat například hypotalamus a mozková kůra.",
+      "Představ si místní řídicí uzel, který dostává pokyny i z vyššího vedení. Tím se oběh může sladit s celkovou aktivitou organismu.",
+      "Autonomní regulace tedy neznamená úplnou nezávislost na emocích nebo jiné mozkové činnosti. Nejde však o přímé vědomé řízení každého tepu."
+    ],
+    "memory": "Prodloužená mícha řídí oběh ve spolupráci s vyššími centry."
+  },
+  {
+    "id": 166,
+    "category": "Proudění a regulace oběhu",
+    "bookRef": "str. 59",
+    "sourcePages": "59",
+    "question": "Co je při svalové práci důležité vedle zvýšení celkového srdečního výkonu?",
+    "options": [
+      "Uzavřít navždy všechny svalové kapiláry",
+      "Zrušit veškerou místní cévní regulaci",
+      "Přizpůsobit rozdělení průtoku zvýšeným potřebám pracujících svalů",
+      "Zachovat v každém orgánu naprosto stejný průtok bez ohledu na potřeby"
+    ],
+    "answer": 2,
+    "title": "Oběh musí přizpůsobit i rozdělení dodávek",
+    "paragraphs": [
+      "Při práci svalů roste jejich potřeba přísunu látek a odvodu produktů metabolismu. Oběhové řízení proto upravuje nejen celkový výkon, ale i regionální průtoky.",
+      "Představ si zásobovací síť, která posílí rozvoz do nejvytíženějších částí. Nestačí jen stejnoměrně měnit všechny dodávky.",
+      "Kniha používá zjednodušený obraz otevírání kapilár. Podstatná je změna prokrvení podle potřeb tkáně, nikoli univerzální pevné procento otevřených kapilár."
+    ],
+    "memory": "Při práci více zásobování tam, kde roste potřeba."
+  },
+  {
+    "id": 167,
+    "category": "Proudění a regulace oběhu",
+    "bookRef": "str. 59",
+    "sourcePages": "59",
+    "question": "Co označují systolický a diastolický arteriální tlak?",
+    "options": [
+      "Tlak v levé a pravé síni bez vztahu k času",
+      "Počet tepů a dechů za minutu",
+      "Pouze tlak vzduchu při nádechu a výdechu",
+      "Vyšší a nižší hodnotu tlaku během srdečního cyklu souvisejícího se stahem a uvolněním komor"
+    ],
+    "answer": 3,
+    "title": "Dvě hodnoty patří jednomu tlakovému cyklu",
+    "paragraphs": [
+      "Systolický tlak označuje vrchol a diastolický nejnižší hodnotu arteriálního tlaku v cyklu. Souvisí s prací komor a vlastnostmi cévního řečiště.",
+      "Představ si tlak, který v čase kolísá mezi dvěma hodnotami. Nejde o dvě různé krevní skupiny nebo dvě trvale oddělené tekutiny.",
+      "Obě hodnoty ovlivňuje více faktorů. Jednoduché přiřazení jedné pouze srdci a druhé pouze cévám je zjednodušení."
+    ],
+    "memory": "Systolický vrchol, diastolický pokles mezi tepy."
+  },
+  {
+    "id": 168,
+    "category": "Proudění a regulace oběhu",
+    "bookRef": "str. 59",
+    "sourcePages": "59",
+    "question": "Jak přečteme zápis arteriálního tlaku 120/80 mm Hg?",
+    "options": [
+      "Systolický tlak 120 a diastolický 80 mm Hg",
+      "120 tepů a 80 dechů za minutu",
+      "120 mililitrů krve a 80 erytrocytů",
+      "Diastolický tlak 120 a systolický 80 mm Hg"
+    ],
+    "answer": 0,
+    "title": "První číslo je systolické",
+    "paragraphs": [
+      "V běžném zápisu tlaku je první číslo systolická a druhé diastolická hodnota. Jednotka mm Hg vyjadřuje tlak, nikoli počet tepů.",
+      "Představ si stručný zápis horní a dolní hodnoty tlakového kolísání. Pořadí pomáhá správně číst výsledek bez dalších slov.",
+      "Tato otázka ověřuje význam zápisu, nikoli diagnózu nebo cílovou hodnotu pro konkrétního člověka. Staré diagnostické hranice knihy zde netestujeme."
+    ],
+    "memory": "První systolický, druhý diastolický."
+  },
+  {
+    "id": 169,
+    "category": "Proudění a regulace oběhu",
+    "bookRef": "str. 60",
+    "sourcePages": "60",
+    "question": "S čím při klasickém poslechovém měření tlaku souvisí první vznik Korotkovových ozev při uvolňování manžety?",
+    "options": [
+      "S počtem leukocytů v plazmě",
+      "S odhadem systolického tlaku",
+      "S určením krevní skupiny AB0",
+      "S přímým poslechem uzávěru mitrální chlopně na paži"
+    ],
+    "answer": 1,
+    "title": "První ozvy pomáhají určit systolickou hodnotu",
+    "paragraphs": [
+      "Při klasickém poslechovém měření se vznik prvních Korotkovových ozev při poklesu tlaku v manžetě používá k odhadu systolické hodnoty.",
+      "Zvuk souvisí s mechanickými ději při proudění v částečně stlačené tepně. Není to přímý záznam samotného tlaku v srdeční dutině.",
+      "Korotkovovy ozvy slyšené nad tepnou nejsou totéž co srdeční ozvy vznikající v souvislosti s chlopněmi."
+    ],
+    "memory": "První Korotkovovy ozvy → systolická hodnota."
+  },
+  {
+    "id": 170,
+    "category": "Proudění a regulace oběhu",
+    "bookRef": "str. 60",
+    "sourcePages": "60",
+    "question": "Která událost při běžném poslechovém měření u dospělého obvykle vyznačuje diastolický tlak?",
+    "options": [
+      "Vznik protilátek v krvi",
+      "Okamžik úplného zastavení všech tepenných proudů v těle",
+      "Vymizení Korotkovových ozev při dalším poklesu tlaku v manžetě",
+      "První hlasitý srdeční zvuk nad hrudníkem bez manžety"
+    ],
+    "answer": 2,
+    "title": "Vymizení ozev pomáhá určit diastolickou hodnotu",
+    "paragraphs": [
+      "Při běžné auskultační metodě u dospělých se vymizení Korotkovových ozev obvykle používá pro odečet diastolického tlaku.",
+      "Jak se mění stlačení tepny manžetou, mění se i podmínky vzniku zvuku. Po obnovení méně rušeného toku mohou ozvy vymizet.",
+      "To neznamená, že krev přestala téct. Právě záměna ticha za nepřítomnost toku by byla chybná."
+    ],
+    "memory": "Vymizení ozev obvykle označuje diastolickou hodnotu."
+  },
+  {
+    "id": 171,
+    "category": "Cévní pojmy",
+    "bookRef": "str. 60",
+    "sourcePages": "60",
+    "question": "Jaký je vztah aterosklerózy k arterioskleróze?",
+    "options": [
+      "Oba výrazy označují normální otevření srdeční chlopně",
+      "Arterioskleróza je výhradně svalový stah",
+      "Ateroskleróza označuje jen zlomeninu kosti",
+      "Ateroskleróza je jednou z forem širšího pojmu arterioskleróza"
+    ],
+    "answer": 3,
+    "title": "Širší pojem a jeho konkrétní forma",
+    "paragraphs": [
+      "Arterioskleróza je širší označení pro patologické tuhnutí a změny tepenných stěn. Ateroskleróza je její forma spojená s tvorbou aterosklerotických plátů.",
+      "Představ si obecnou kategorii a jeden konkrétní typ uvnitř ní. V běžné řeči se názvy mohou směšovat, významově však nejsou úplně stejné.",
+      "Nejde o normální pružné roztažení zdravé tepny při každém pulzu. Popisují se zde dlouhodobější patologické změny."
+    ],
+    "memory": "Arterioskleróza je širší; ateroskleróza tvoří pláty."
+  },
+  {
+    "id": 172,
+    "category": "Cévní pojmy",
+    "bookRef": "str. 60–61",
+    "sourcePages": "60–61",
+    "question": "Kde se při ateroskleróze vytváří aterosklerotický plát?",
+    "options": [
+      "Ve stěně tepny",
+      "Uvnitř každého zdravého erytrocytu",
+      "Výhradně v plicním sklípku",
+      "Na povrchu zubní skloviny jako totožný děj"
+    ],
+    "answer": 0,
+    "title": "Plát je změna tepenné stěny",
+    "paragraphs": [
+      "Aterosklerotický plát vzniká ve stěně tepny a zahrnuje lipidy, buněčné složky i vazivové struktury. Může měnit průsvit a vlastnosti cévy.",
+      "Představ si změnu uvnitř stěny potrubí, která může zasahovat do jeho průchodu. Nejde jen o libovolnou volnou tukovou kapku plující krví.",
+      "Plát není totéž co krevní sraženina. Sraženina se ale za určitých okolností může na komplikovaném plátu vytvořit."
+    ],
+    "memory": "Aterosklerotický plát patří do stěny tepny."
+  },
+  {
+    "id": 173,
+    "category": "Cévní pojmy",
+    "bookRef": "str. 60–61",
+    "sourcePages": "60–61",
+    "question": "Co označuje zkratka LDL?",
+    "options": [
+      "Nervové centrum v prodloužené míše",
+      "Lipoproteiny o nízké hustotě",
+      "Pouze volné molekuly kyslíku",
+      "Druh bílé krvinky"
+    ],
+    "answer": 1,
+    "title": "LDL je typ lipoproteinových částic",
+    "paragraphs": [
+      "LDL znamená lipoproteiny o nízké hustotě. Jde o částice podílející se na transportu lipidů v těle.",
+      "Představ si transportní balíčky pro látky, které se ve vodném prostředí nepřenášejí jednoduše samy. Cholesterol je jednou z jejich převážených složek.",
+      "LDL není jiný chemický druh cholesterolu ani leukocyt. Zkratka pojmenovává skupinu transportních částic."
+    ],
+    "memory": "LDL: low-density lipoproteins."
+  },
+  {
+    "id": 174,
+    "category": "Cévní pojmy",
+    "bookRef": "str. 61",
+    "sourcePages": "61",
+    "question": "Který popis nejlépe odpovídá HDL částicím?",
+    "options": [
+      "Neurony vedoucí vzruch do srdce",
+      "Samotný cholesterol přeměněný na nový chemický prvek",
+      "Lipoproteiny o vysoké hustotě zapojené mimo jiné do přesunů cholesterolu směrem k játrům",
+      "Krevní destičky vytvářející fibrin"
+    ],
+    "answer": 2,
+    "title": "HDL jsou transportní částice",
+    "paragraphs": [
+      "HDL označuje lipoproteiny o vysoké hustotě. Podílejí se mimo jiné na transportu cholesterolu z tkání v rámci složitějšího metabolismu lipidů.",
+      "Představ si část sítě sběru a přepravy materiálu. Rozhoduje práce celého systému, ne jen jediná nálepka dobrého a zlého tuku.",
+      "Z vyšší hodnoty HDL nelze automaticky vyvodit úplnou ochranu před cévním onemocněním. Otázka ověřuje pojem a základní transportní úlohu."
+    ],
+    "memory": "HDL: high-density lipoproteins."
+  },
+  {
+    "id": 175,
+    "category": "Cévní pojmy",
+    "bookRef": "str. 61",
+    "sourcePages": "61",
+    "question": "Co označuje pojem trombus?",
+    "options": [
+      "Normální kostní lamelu",
+      "Tekutou součást krevní plazmy bez fibrinogenu",
+      "Druh chrupavky mezi obratli",
+      "Krevní sraženinu vzniklou uvnitř cévy nebo srdečního oddílu"
+    ],
+    "answer": 3,
+    "title": "Trombus je sraženina v oběhovém systému",
+    "paragraphs": [
+      "Trombus je krevní sraženina vzniklá uvnitř cévy nebo srdečního oddílu. Může částečně či úplně omezit tok krve.",
+      "Představ si překážku vytvořenou uvnitř dopravní cesty, kde má krev běžně zůstávat tekutá. Její význam závisí na místě a rozsahu.",
+      "Není to totéž co každé fyziologické zacelení zevního poranění. Také jde o jiný pojem než samotný aterosklerotický plát."
+    ],
+    "memory": "Trombus = nitrocévní či nitrosrdeční sraženina."
+  },
+  {
+    "id": 176,
+    "category": "Cévní pojmy",
+    "bookRef": "str. 61",
+    "sourcePages": "61",
+    "question": "Co znamená ischemie tkáně?",
+    "options": [
+      "Nedostatečné prokrvení vzhledem k potřebám tkáně",
+      "Zvýšenou tvorbu pigmentu ve vlasech",
+      "Jakoukoli normální svalovou relaxaci",
+      "Pouze vznik nové kostní dřeně"
+    ],
+    "answer": 0,
+    "title": "Ischemie je nedostatek krevního zásobení",
+    "paragraphs": [
+      "Ischemie označuje nedostatečné prokrvení tkáně. S tím může souviset nedostatečná dodávka kyslíku a dalších potřebných látek.",
+      "Představ si oblast, do které nedorazí dost zásobovacích dodávek. Potřeba tkáně je součástí významu, nejde jen o jedno číslo průtoku.",
+      "Ischemie sama ještě neznamená, že všechny buňky už odumřely. Odumření je jiný pojem a může být následkem závažného nebo trvajícího nedostatku."
+    ],
+    "memory": "Ischemie = nedostatečné prokrvení."
+  },
+  {
+    "id": 177,
+    "category": "Cévní pojmy",
+    "bookRef": "str. 61",
+    "sourcePages": "61",
+    "question": "Čím se infarkt odlišuje od samotné ischemie?",
+    "options": [
+      "Infarkt označuje výhradně alergickou reakci v kůži",
+      "Infarkt zahrnuje odumření tkáně v důsledku závažného nedokrvení",
+      "Infarkt je jen jiné jméno pro normální srdeční tep",
+      "Ischemie vždy znamená rozpad všech kostí"
+    ],
+    "answer": 1,
+    "title": "Infarkt znamená poškození s odumřením",
+    "paragraphs": [
+      "Při infarktu dochází k nekróze, tedy odumření části tkáně v souvislosti se závažným nedostatkem krevního zásobení. Ischemie označuje samotné nedokrvení.",
+      "Představ si rozdíl mezi omezením dodávek a následným nevratným zánikem části zásobované oblasti. Jde o související, ale nestejné děje.",
+      "Pojem infarkt není omezen pouze na srdce. U infarktu myokardu je postiženou tkání srdeční svalovina."
+    ],
+    "memory": "Ischemie = nedokrvení; infarkt = odumření z nedokrvení."
+  },
+  {
+    "id": 178,
+    "category": "Cévní pojmy",
+    "bookRef": "str. 61",
+    "sourcePages": "61",
+    "question": "Co znamená slovo myokard v názvu infarkt myokardu?",
+    "options": [
+      "Pouze krev uvnitř levé síně",
+      "Chrupavku mezi pánevními kostmi",
+      "Srdeční svalovinu",
+      "Vnější vrstvu zubní skloviny"
+    ],
+    "answer": 2,
+    "title": "Myokard je svalovina srdeční stěny",
+    "paragraphs": [
+      "Myokard označuje srdeční svalovinu. Infarkt myokardu tedy pojmenovává infarkt této konkrétní tkáně.",
+      "Představ si rozlišení obalu, svalové stěny a vnitřních dutin srdce. Stejný orgán obsahuje různé struktury, které mají vlastní názvy.",
+      "Myokard není totéž co perikard neboli osrdečník. Podobná koncovka názvu neznamená stejnou vrstvu."
+    ],
+    "memory": "Myo = sval; myokard = srdeční svalovina."
+  },
+  {
+    "id": 179,
+    "category": "Cévní pojmy",
+    "bookRef": "str. 61",
+    "sourcePages": "61",
+    "question": "Co v cévním kontextu znamená bypass?",
+    "options": [
+      "Přímé odstranění všech srdečních chlopní",
+      "Pouhé měření tlaku bez změny cesty toku",
+      "Rozpuštění každé kosti na vápník",
+      "Přemostění postiženého úseku vytvořením jiné cesty pro krev"
+    ],
+    "answer": 3,
+    "title": "Bypass vytváří cestu kolem úseku",
+    "paragraphs": [
+      "Cévní bypass znamená vytvoření náhradní cesty, která obchází příslušný postižený úsek. U koronárního bypassu jde o zásobení srdečního svalu.",
+      "Představ si objížďku kolem neprůjezdné části silnice. Princip je jiný než rozšíření stejného původního průsvitu.",
+      "Otázka rozlišuje význam pojmu. Neurčuje, pro koho je jaký výkon vhodný ani jak se má konkrétní onemocnění léčit."
+    ],
+    "memory": "Bypass = objížďka pro krev."
+  },
+  {
+    "id": 180,
+    "category": "Cévní pojmy",
+    "bookRef": "str. 62",
+    "sourcePages": "62",
+    "question": "Co je charakteristickým znakem volného radikálu?",
+    "options": [
+      "Přítomnost jednoho nebo více nepárových elektronů",
+      "Vždy je to celá lidská buňka s jádrem",
+      "Musí obsahovat pouze vápník",
+      "Je totožný s každou molekulou ATP"
+    ],
+    "answer": 0,
+    "title": "Radikál poznáme podle elektronů",
+    "paragraphs": [
+      "Volný radikál je chemická částice s nepárovým elektronem či elektrony. Tato vlastnost často souvisí s vysokou reaktivitou.",
+      "Představ si molekulární stav, který může snadno vstupovat do dalších reakcí. Radikály vznikají i při běžných biologických dějích.",
+      "Ne všechny reaktivní formy kyslíku jsou radikály. Z této definice také neplyne doporučení užívat doplňky nebo univerzálně potlačit všechny oxidační děje."
+    ],
+    "memory": "Radikál = nepárový elektron."
+  },
+  {
+    "id": 181,
+    "category": "Mízní soustava",
+    "bookRef": "str. 63",
+    "sourcePages": "63",
+    "question": "Jaký je základní směr mízní drenáže?",
+    "options": [
+      "Pouze z kostí do zubní skloviny",
+      "Z mezibuněčných prostor přes mízní cévy zpět do žilní krve",
+      "Ze srdce do aorty a zpět do levé komory jako samostatný uzavřený krevní okruh",
+      "Z plic přímo do žaludku"
+    ],
+    "answer": 1,
+    "title": "Mízní cesta vrací tekutinu do krve",
+    "paragraphs": [
+      "Mízní soustava sbírá část tekutiny z tkání a vede ji jednosměrnou cestou zpět do žilní krve. Není kopií uzavřeného krevního okruhu.",
+      "Představ si sběrnou a návratovou síť napojenou na hlavní oběh. Materiál začíná v tkáňových prostorech a postupuje k větším sběračům.",
+      "Neznamená to, že mízní soustava s krevním oběhem nesouvisí. Právě návrat do krve je podstatnou součástí její úlohy."
+    ],
+    "memory": "Tkáně → mízní cévy → žilní krev."
+  },
+  {
+    "id": 182,
+    "category": "Mízní soustava",
+    "bookRef": "str. 63–64",
+    "sourcePages": "63–64",
+    "question": "Jak začínají počáteční mízní kapiláry v tkáních?",
+    "options": [
+      "Jako otevřené otvory v plicních sklípcích pro vzduch",
+      "Jako nervová vlákna bez průsvitu",
+      "Jako slepě zakončené sběrné cévky",
+      "Přímým pokračováním aorty do každého kloubu"
+    ],
+    "answer": 2,
+    "title": "Mízní kapiláry sbírají tekutinu od počátku cesty",
+    "paragraphs": [
+      "Počáteční mízní kapiláry začínají v tkáních slepě. Přijímají tekutinu z mezibuněčných prostor a odvádějí ji do navazujících cév.",
+      "Představ si začátky drenážních větví, které se postupně sbíhají. Nejde o tepnu, která by se na začátku napojovala na srdeční výstup.",
+      "Slepé zakončení neznamená nefunkční trubici. Popisuje stavbu počátečního sběrného úseku."
+    ],
+    "memory": "Začátek mízní kapiláry = slepý sběrný konec."
+  },
+  {
+    "id": 183,
+    "category": "Mízní soustava",
+    "bookRef": "str. 63",
+    "sourcePages": "63",
+    "question": "Proč je důležitý návrat tkáňových bílkovin mízní cestou?",
+    "options": [
+      "Mění každou bílkovinu na nervový vzruch",
+      "Nahrazuje tvorbu všech bílkovin v těle",
+      "Zajišťuje, že v tkáňovém moku nemůže existovat žádná bílkovina",
+      "Pomáhá vracet do krve bílkoviny, které se dostaly do mezibuněčného prostoru"
+    ],
+    "answer": 3,
+    "title": "Míza vrací nejen vodu",
+    "paragraphs": [
+      "Mízní soustava může odvádět z mezibuněčných prostor také bílkoviny. Jejich návrat je součástí udržování rovnováhy tekutin a látek.",
+      "Představ si sběrnou síť, která neodnáší jen samotnou vodu, ale i některé rozpuštěné a větší složky.",
+      "Kniha místy popisuje tkáňový mok jako zcela bez velkých bílkovin. To je příliš absolutní; jejich omezený přestup a mízní návrat je třeba chápat společně."
+    ],
+    "memory": "Mízní návrat vrací vodu i tkáňové bílkoviny."
+  },
+  {
+    "id": 184,
+    "category": "Mízní soustava",
+    "bookRef": "str. 63",
+    "sourcePages": "63",
+    "question": "Jak se nazývá největší mízovod lidského těla?",
+    "options": [
+      "Hrudní mízovod",
+      "Aorta",
+      "Dolní dutá žíla",
+      "Průdušnice"
+    ],
+    "answer": 0,
+    "title": "Hrudní mízovod je hlavní velký sběrač",
+    "paragraphs": [
+      "Hrudní mízovod je největší mízní kmen. Odvádí mízu z velké části organismu směrem k žilnímu řečišti.",
+      "Představ si hlavní sběrné potrubí, do kterého postupně přitékají menší větve. Je součástí mízní, nikoli tepenné cesty.",
+      "Aorta je velká tepna a dutá žíla žíla. Jejich velikost sama z nich nedělá mízovody."
+    ],
+    "memory": "Největší mízní sběrač = hrudní mízovod."
+  },
+  {
+    "id": 185,
+    "category": "Mízní soustava",
+    "bookRef": "str. 63",
+    "sourcePages": "63",
+    "question": "Kde se velké mízní kmeny vracejí do krevního řečiště?",
+    "options": [
+      "Výhradně do levé komory samostatným otvorem",
+      "Do velkých žil v dolní části krku",
+      "Přímo do plicních sklípků",
+      "Do lumen žaludku"
+    ],
+    "answer": 1,
+    "title": "Mízní návrat ústí do žil",
+    "paragraphs": [
+      "Velké mízní sběrače ústí do žilní soustavy při dolní části krku, v oblasti spojení velkých krčních a podklíčkových žil.",
+      "Představ si připojení odvodné sítě zpět k návratové větvi hlavního oběhu. Tekutina se tak může znovu zapojit do krevní cirkulace.",
+      "Nejde o přímé vylučování mízy ven z těla ani do trávicí trubice. Návrat do krve je její běžný cíl."
+    ],
+    "memory": "Velké mízní kmeny → žilní spojení u krku."
+  },
+  {
+    "id": 186,
+    "category": "Mízní soustava",
+    "bookRef": "str. 63",
+    "sourcePages": "63",
+    "question": "Jaký význam mají střevní mízní cévy pro transport tuků?",
+    "options": [
+      "Přeměňují všechny tuky na kyslík",
+      "Zajišťují, že žádný tuk nikdy nemůže vstoupit do krve",
+      "Odvádějí významnou část vstřebaných dlouhořetězcových tuků ve formě chylomikronů",
+      "Přenášejí všechny tuky výhradně jako volné kapky přímo do levé komory"
+    ],
+    "answer": 2,
+    "title": "Část střevních tuků cestuje přes mízu",
+    "paragraphs": [
+      "Významná část vstřebaných dlouhořetězcových lipidů je ve střevě zabalena do chylomikronů a postupuje mízní cestou do oběhu.",
+      "Představ si zvláštní balení nákladu, které se nejprve veze vedlejší sběrnou sítí. Až poté se zapojí do krevní dopravy.",
+      "Ne všechny vstřebané mastné kyseliny mají naprosto stejnou cestu. Základní školní model proto není tvrzením o každé molekule tuku bez výjimky."
+    ],
+    "memory": "Dlouhořetězcové tuky: chylomikrony → míza → krev."
+  },
+  {
+    "id": 187,
+    "category": "Mízní soustava",
+    "bookRef": "str. 63",
+    "sourcePages": "63",
+    "question": "Jak může omezení mízního odtoku přispět ke vzniku otoku?",
+    "options": [
+      "Všechna tkáňová voda se okamžitě přemění na kost",
+      "Krevní skupina se změní na Rh pozitivní",
+      "V těle přestane existovat sodík",
+      "Tekutina se může hromadit v mezibuněčných prostorech"
+    ],
+    "answer": 3,
+    "title": "Když odtok nestačí, tekutina se hromadí",
+    "paragraphs": [
+      "Mízní soustava pomáhá odvádět tekutinu z tkání. Pokud je tato cesta omezená, může se zvyšovat množství tekutiny v mezibuněčném prostoru.",
+      "Představ si sběrnou síť s omezenou kapacitou odtoku. Přitékající a vznikající tekutina se pak může v oblasti zadržovat.",
+      "Ne každý otok má mízní příčinu. Otázka popisuje jeden mechanismus, nikoli univerzální diagnózu každého zduření."
+    ],
+    "memory": "Omezená mízní drenáž může znamenat více tekutiny v tkáni."
+  },
+  {
+    "id": 188,
+    "category": "Mízní soustava",
+    "bookRef": "str. 63–64",
+    "sourcePages": "63–64",
+    "question": "Jaký je důležitý rozdíl mezi mízní uzlinou a slezinou při filtraci tekutin?",
+    "options": [
+      "Uzliny kontrolují mízu, slezina je spojena především s kontrolou krve",
+      "Obě filtrují výhradně vzduch z průdušnice",
+      "Slezina filtruje jen moč a uzliny pouze žluč",
+      "Uzliny nemají žádnou souvislost s imunitou"
+    ],
+    "answer": 0,
+    "title": "Uzlinou proudí míza, slezinou krev",
+    "paragraphs": [
+      "Mízní uzliny jsou vloženy do mízních cest a uplatňují se při imunitní kontrole mízy. Slezina plní obdobně důležité kontrolní úlohy ve vztahu ke krvi.",
+      "Představ si dvě kontrolní stanice v různých dopravních sítích. Obě mohou souviset s obranou, ale nepřijímají stejnou hlavní tekutinu.",
+      "Není správné zaměnit mízní uzlinu za malou slezinu bez ohledu na její napojení. Anatomická cesta pomáhá pochopit funkci."
+    ],
+    "memory": "Uzliny: míza. Slezina: krev."
+  },
+  {
+    "id": 189,
+    "category": "Mízní soustava",
+    "bookRef": "str. 64",
+    "sourcePages": "64",
+    "question": "Kde je uložena slezina?",
+    "options": [
+      "V dolní části pravého předloktí",
+      "V levé horní části břišní dutiny pod bránicí",
+      "V pravé srdeční komoře",
+      "Uvnitř hrtanové chrupavky"
+    ],
+    "answer": 1,
+    "title": "Slezinu hledej vlevo pod bránicí",
+    "paragraphs": [
+      "Slezina leží v levé horní části břišní dutiny pod levou brániční klenbou. Jde o orgán úzce spojený s krví a imunitou.",
+      "Představ si orientační mapu trupu: hrudník odděluje od břicha bránice a slezina je pod její levou částí.",
+      "Není to hrudní žláza totožná s brzlíkem ani část jater. Poloha jednotlivých orgánů pomáhá rozlišit podobně široké imunitní souvislosti."
+    ],
+    "memory": "Slezina = vlevo nahoře v břiše."
+  },
+  {
+    "id": 190,
+    "category": "Mízní soustava",
+    "bookRef": "str. 64",
+    "sourcePages": "64",
+    "question": "Který popis odpovídá bílé a červené pulpě sleziny?",
+    "options": [
+      "Bílá pulpa vyrábí žluč a červená vytváří hlas",
+      "Obě jsou části svalového vlákna v bicepsu",
+      "Bílá pulpa souvisí s lymfatickou imunitní tkání, červená s filtrací krve a odbouráváním starých krvinek",
+      "Bílá pulpa je pouze vzduch a červená pouze kost"
+    ],
+    "answer": 2,
+    "title": "Dvě oblasti sleziny mají různé specializace",
+    "paragraphs": [
+      "Bílá pulpa obsahuje lymfatickou tkáň důležitou pro imunitní odpovědi. Červená pulpa souvisí s průchodem a filtrací krve včetně odstraňování starých erytrocytů.",
+      "Představ si jeden orgán s více pracovišti. Barvy názvů pomáhají odlišit oblasti, ale neznamenají, že každá obsahuje jen jeden typ buňky.",
+      "Odbourávání starých erytrocytů není výhradně úlohou bílé pulpy. Příliš jednoduché přiřazení z učebnice je nutné upřesnit."
+    ],
+    "memory": "Bílá: imunita. Červená: krevní filtrace."
+  },
+  {
+    "id": 191,
+    "category": "Úvod do dýchání",
+    "bookRef": "str. 65",
+    "sourcePages": "65",
+    "question": "Co označuje plicní ventilace?",
+    "options": [
+      "Výhradně přenos kyslíku hemoglobinem",
+      "Pouze spotřebu ATP v každé buňce",
+      "Tvorbu mízy ze tkáňového moku",
+      "Pohyb vzduchu mezi zevním prostředím a plícemi"
+    ],
+    "answer": 3,
+    "title": "Ventilace je výměna vzduchu",
+    "paragraphs": [
+      "Plicní ventilace znamená přívod a odvod vzduchu do plic a z plic. Jde o jednu část širšího souboru dějů dýchání.",
+      "Představ si větrání prostoru, do kterého se musí dostat nový vzduch. Samotné větrání ještě není totéž co přestup plynů do krve.",
+      "Transport kyslíku krví a buněčná spotřeba kyslíku jsou navazující děje. Názvy je třeba rozlišit, i když spolu funkčně souvisejí."
+    ],
+    "memory": "Ventilace = vzduch dovnitř a ven."
+  },
+  {
+    "id": 192,
+    "category": "Úvod do dýchání",
+    "bookRef": "str. 65",
+    "sourcePages": "65",
+    "question": "Jaký je základní vztah kyslíku a oxidu uhličitého k aerobnímu metabolismu tkání?",
+    "options": [
+      "Tkáně kyslík spotřebovávají a při metabolismu vzniká oxid uhličitý",
+      "Všechny tkáně vytvářejí kyslík fotosyntézou",
+      "Oxid uhličitý je jen mechanický prach z plic",
+      "Kyslík se v lidském těle nikdy neúčastní metabolických dějů"
+    ],
+    "answer": 0,
+    "title": "Výměna plynů navazuje na práci buněk",
+    "paragraphs": [
+      "Kyslík je důležitý pro aerobní získávání energie. Oxid uhličitý vzniká při metabolismu a musí být z tkání odváděn.",
+      "Představ si návaznost dodávek a odvozu produktů. Dýchací soustava a krevní oběh zprostředkovávají spojení buněk s vnějším prostředím.",
+      "Lidské buňky běžně neprovádějí fotosyntézu. Plíce kyslík nevyrábějí, přivádějí ho ze vzduchu do návaznosti na krev."
+    ],
+    "memory": "Tkáně: O₂ dovnitř, CO₂ ven."
+  },
+  {
+    "id": 193,
+    "category": "Úvod do dýchání",
+    "bookRef": "str. 66",
+    "sourcePages": "66",
+    "question": "Jaký je základní rozdíl mezi vodivou a respirační částí dýchací soustavy?",
+    "options": [
+      "Respirační část je vždy totožná s nosní dutinou",
+      "Vodivá vede vzduch, respirační zajišťuje vlastní výměnu plynů",
+      "Vodivá vyrábí krev a respirační tvoří moč",
+      "Obě označují pouze srdeční chlopně"
+    ],
+    "answer": 1,
+    "title": "Cesta vzduchu a místo výměny nejsou totéž",
+    "paragraphs": [
+      "Vodivá část slouží především jako cesta vzduchu. Respirační část obsahuje struktury specializované na výměnu plynů s krví.",
+      "Představ si přístupovou chodbu a samotné pracoviště předávání. Pro funkci jsou potřeba oba úseky, ale mají jinou specializaci.",
+      "Přítomnost vzduchu v trubici automaticky neznamená, že právě tam probíhá hlavní výměna plynů s krví."
+    ],
+    "memory": "Vodivá část vede; respirační část vyměňuje."
+  },
+  {
+    "id": 194,
+    "category": "Úvod do dýchání",
+    "bookRef": "str. 66–67",
+    "sourcePages": "66–67",
+    "question": "Které pořadí hlavních úseků odpovídá cestě vdechovaného vzduchu nosem směrem do plic?",
+    "options": [
+      "Hrtan → žaludek → hltan → ledvina",
+      "Průdušky → jícen → nosní dutina → slezina",
+      "Nosní dutina → hltan → hrtan → průdušnice → průdušky",
+      "Nosní dutina → jícen → žaludek → aorta"
+    ],
+    "answer": 2,
+    "title": "Vzduch postupuje propojenou cestou",
+    "paragraphs": [
+      "Při dýchání nosem vzduch prochází nosní dutinou a hltanem do hrtanu, průdušnice a dále průdušek. Ty se v plicích větví.",
+      "Představ si navazující úseky cesty od vstupu k rozvětvení. Jejich pořadí pomáhá pochopit i vztah dýchací a trávicí trubice.",
+      "Jícen vede potravu k žaludku, nikoli vzduch běžně určený plicní ventilaci. Aorta je céva, ne dýchací cesta."
+    ],
+    "memory": "Nos → hltan → hrtan → průdušnice → průdušky."
+  },
+  {
+    "id": 195,
+    "category": "Úvod do dýchání",
+    "bookRef": "str. 67",
+    "sourcePages": "67",
+    "question": "Jak se nazývají drobné větve průduškového stromu navazující na větvení průdušek?",
+    "options": [
+      "Erytrocyty",
+      "Mízní uzliny",
+      "Síňokomorové chlopně",
+      "Průdušinky neboli bronchioly"
+    ],
+    "answer": 3,
+    "title": "Průduškový strom se větví do průdušinek",
+    "paragraphs": [
+      "Průdušky se opakovaně větví na menší větve a navazují na průdušinky. Vzniká rozvětvená cesta přivádějící vzduch do plicních oblastí.",
+      "Představ si strom od silnějšího kmene k drobnějším větvím. Název strom zde popisuje způsob větvení.",
+      "Průdušinky nejsou krevní kapiláry. Obě sítě se mohou v plicích nacházet blízko, ale každá přenáší něco jiného."
+    ],
+    "memory": "Bronchioly = průdušinky."
+  },
+  {
+    "id": 196,
+    "category": "Úvod do dýchání",
+    "bookRef": "str. 67",
+    "sourcePages": "67",
+    "question": "Který úsek je společnou cestou pro vzduch i potravu?",
+    "options": [
+      "Hltan",
+      "Aorta",
+      "Hlavní průduška jako běžná cesta potravy",
+      "Močovod"
+    ],
+    "answer": 0,
+    "title": "Hltan je společná křižovatka",
+    "paragraphs": [
+      "Hltan je část, kterou prochází vzduch i potrava. Dále se jejich cesty funkčně oddělují do dýchací a trávicí trubice.",
+      "Představ si společný úsek před rozdělením dvou tras. To vysvětluje, proč musí být polykání a ochrana dýchacích cest dobře koordinované.",
+      "Hltan a hrtan nejsou stejné slovo pro tutéž část. Hrtan navazuje do dýchací cesty, jícen do trávicí."
+    ],
+    "memory": "Hltan = společná křižovatka vzduchu a potravy."
+  },
+  {
+    "id": 197,
+    "category": "Úvod do dýchání",
+    "bookRef": "str. 67",
+    "sourcePages": "67",
+    "question": "Co spojuje Eustachova neboli sluchová trubice?",
+    "options": [
+      "Mízní uzlinu s močovým měchýřem",
+      "Střední ucho s nosohltanem",
+      "Levou komoru s aortou",
+      "Žaludek s průdušnicí"
+    ],
+    "answer": 1,
+    "title": "Sluchová trubice ústí do nosohltanu",
+    "paragraphs": [
+      "Eustachova trubice vytváří spojení mezi středním uchem a nosohltanem. Je to důležitý anatomický vztah v oblasti horních cest.",
+      "Představ si propojení dutiny středního ucha s prostorem za nosní dutinou. Nejde o přímou cestu do vnitřního ucha.",
+      "Trubice není průduška vedoucí do plic. Podobný trubicovitý tvar sám neurčuje, které orgány jsou propojené."
+    ],
+    "memory": "Eustachova trubice: střední ucho ↔ nosohltan."
+  },
+  {
+    "id": 198,
+    "category": "Úvod do dýchání",
+    "bookRef": "str. 67",
+    "sourcePages": "67",
+    "question": "Ve které části dýchacích cest jsou uloženy hlasivkové vazy?",
+    "options": [
+      "V plicní tepně",
+      "V mízním uzlu",
+      "V hrtanu",
+      "V jícnu"
+    ],
+    "answer": 2,
+    "title": "Hlasivky patří k hrtanu",
+    "paragraphs": [
+      "Hlasivkové vazy jsou součástí hrtanu a vymezují hlasovou štěrbinu. Hrtan tak kromě vedení vzduchu souvisí i s tvorbou hlasu.",
+      "Představ si místo, kde může proud vzduchu uvádět příslušné struktury do kmitání. Je součástí dýchací cesty v krku.",
+      "Hltan je širší společná cesta vzduchu a potravy. Samotné hlasivky však přiřazujeme hrtanu."
+    ],
+    "memory": "Hrtan = místo hlasivek."
+  },
+  {
+    "id": 199,
+    "category": "Úvod do dýchání",
+    "bookRef": "str. 67",
+    "sourcePages": "67",
+    "question": "Jakou úlohu má hrtanová příklopka při polykání?",
+    "options": [
+      "Převádí krev z pravé síně do komory",
+      "Rozpouští všechnu potravu na kyslík",
+      "Je hlavním místem tvorby červených krvinek",
+      "Podílí se na ochraně vstupu do hrtanu před soustem"
+    ],
+    "answer": 3,
+    "title": "Příklopka pomáhá chránit dýchací cestu",
+    "paragraphs": [
+      "Hrtanová příklopka neboli epiglottis se při polykání podílí na ochraně vstupu do hrtanu. Sousto má pokračovat směrem do jícnu.",
+      "Představ si koordinované zabezpečení křižovatky dvou cest. Ochrana není izolovaným pohybem jedné destičky bez spolupráce ostatních struktur.",
+      "K uzávěru a ochraně dýchacích cest při polykání přispívá více mechanismů. Příklopku proto nelze považovat za jediný bezpečnostní prvek."
+    ],
+    "memory": "Epiglottis pomáhá směrovat sousto mimo hrtan."
+  },
+  {
+    "id": 200,
+    "category": "Úvod do dýchání",
+    "bookRef": "str. 67",
+    "sourcePages": "67",
+    "question": "Jaký je význam chrupavčitých výztuh průdušnice a průdušek?",
+    "options": [
+      "Pomáhají udržovat průchodnost a tvar dýchacích cest",
+      "Vyrábějí všechny protilátky",
+      "Uzavírají každou průdušku po celý život",
+      "Přeměňují vdechovaný vzduch přímo na krev"
+    ],
+    "answer": 0,
+    "title": "Chrupavka podpírá dýchací trubice",
+    "paragraphs": [
+      "Chrupavčité výztuhy přispívají k tomu, aby průdušnice a průdušky udržely potřebný tvar a zůstávaly průchodné.",
+      "Představ si podpůrnou konstrukci v pružné hadici, která brání snadnému zborcení. Přitom nejde o nehybnou kostěnou trubku.",
+      "Drobné průdušinky nemají stejné chrupavčité vyztužení jako větší cesty. Nelze tento popis bez rozlišení vztáhnout na každou větev plicního stromu."
+    ],
+    "memory": "Chrupavka pomáhá držet dýchací cestu otevřenou."
+  }
+]

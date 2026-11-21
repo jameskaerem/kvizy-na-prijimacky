@@ -1,0 +1,102 @@
+[
+  {
+    "id": 648,
+    "category": "Právní pojmy",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 35 · PDF 18",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 18",
+    "question": "Který příklad představuje právní jednání založené na projevu vůle?",
+    "title": "Uzavření kupní smlouvy",
+    "options": [
+      "Narození dítěte",
+      "Uzavření kupní smlouvy",
+      "Uplynutí času",
+      "Povodeň"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Uzavřením smlouvy strany projevují vůli k právním následkům. Narození nebo uplynutí času mohou být právní události, protože právní následky vznikají i bez projevu vůle."
+    ],
+    "memory": "Smlouva vzniká projevem vůle."
+  },
+  {
+    "id": 649,
+    "category": "Občanská orientace",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 16 · PDF 47",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 47",
+    "question": "Který orgán označuje čl. 67 Ústavy ČR za vrcholný orgán výkonné moci?",
+    "title": "Vládu",
+    "options": [
+      "Vládu",
+      "Senát",
+      "Ústavní soud",
+      "Poslaneckou sněmovnu"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Ústava tuto roli výslovně přiznává vládě. V části o výkonné moci upravuje také prezidenta republiky a další orgány."
+    ],
+    "memory": "Vrcholným orgánem výkonné moci je vláda."
+  },
+  {
+    "id": 650,
+    "category": "Právní pojmy",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 41 · PDF 239",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 239",
+    "question": "Jaký krok je podle čl. 52 Ústavy nezbytný k platnosti českého zákona?",
+    "title": "Vyhlášení zákona",
+    "options": [
+      "Zveřejnění návrhu na webu ministerstva",
+      "První rozhodnutí soudu podle zákona",
+      "Vyhlášení zákona",
+      "Uskutečnění prvního čtení v Poslanecké sněmovně"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "K platnosti českého zákona je třeba jeho vyhlášení. Účinnost stanoví, od kdy se podle zákona postupuje, a může nastat později."
+    ],
+    "memory": "Platnost vyžaduje vyhlášení."
+  },
+  {
+    "id": 651,
+    "category": "Právní pojmy",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 45 · PDF 239",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 239",
+    "question": "Jakou formu musí podle zákoníku práce mít dohoda o zkušební době?",
+    "title": "Písemnou formu",
+    "options": [
+      "Stačí ústní dohoda",
+      "Stačí jednostranné oznámení zaměstnavatele",
+      "Stačí zápis pracovníka v evidenci",
+      "Písemnou formu"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Podle § 35 se zkušební doba sjednává písemně, nejpozději v den vzniku pracovního poměru. Strany ji mohou sjednat v pracovní smlouvě nebo jinou písemnou dohodou."
+    ],
+    "memory": "Zkušební doba se sjednává písemně."
+  },
+  {
+    "id": 652,
+    "category": "Ekonomie",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 95 · PDF 245",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 245",
+    "question": "Kterou dvojici tvoří v českém daňovém systému dvě přímé daně?",
+    "title": "Daň z příjmů fyzických osob a daň z příjmů právnických osob",
+    "options": [
+      "DPH a spotřební daň z lihu",
+      "Daň z příjmů fyzických osob a daň z příjmů právnických osob",
+      "Daň z příjmů fyzických osob a DPH",
+      "DPH a daň ze zemního plynu"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Obě daně z příjmů se v základním členění řadí mezi přímé daně. DPH a spotřební daně patří mezi nepřímé daně vybírané při spotřebě zboží nebo služeb."
+    ],
+    "memory": "Daně z příjmů jsou přímé."
+  }
+]

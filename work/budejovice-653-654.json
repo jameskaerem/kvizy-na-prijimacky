@@ -1,0 +1,43 @@
+[
+  {
+    "id": 653,
+    "category": "Logika",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 13 · PDF 77",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 77",
+    "question": "Ke krávě, slepici a vepři přiřaď po jednom typickém produktu. Ke slepici už je přiřazené vejce a k vepři jitrnice. Který produkt doplníš ke krávě?",
+    "title": "Kravské mléko",
+    "options": [
+      "Kachní peří",
+      "Vepřové sádlo",
+      "Kravské mléko",
+      "Slepičí vejce"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Každému zvířeti přiřazuješ právě jeden produkt známého původu. Vejce a jitrnice už mají dvojici. Ze zbývajících možností odpovídá krávě kravské mléko."
+    ],
+    "memory": "Nejdřív vytvoř dvojice a potom doplň poslední."
+  },
+  {
+    "id": 654,
+    "category": "Fyzioterapie",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 27 · PDF 79",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 79",
+    "question": "Který popis nejlépe vystihuje práci fyzioterapeuta s člověkem, který má omezenou pohyblivost?",
+    "title": "Posuzuje pohybové funkce a podle nálezu plánuje jejich obnovu nebo udržení",
+    "options": [
+      "Posuzuje pohybové funkce a podle nálezu plánuje jejich obnovu nebo udržení",
+      "Soustředí se výhradně na popis snímku kostí",
+      "Určuje vhodné léky podle výsledku odběru krve",
+      "Zaměřuje se jen na sportovní výkon bez ohledu na běžné činnosti"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Fyzioterapie zahrnuje vyšetření pohybu a funkčních omezení i výběr postupu podle nálezu a cílů člověka. Cílem může být zlepšení chůze, návrat k běžné činnosti nebo udržení stávajících schopností.",
+      "Při posuzování pohybu může být důležité i to, jak stres, obavy nebo jiné psychické faktory souvisejí s tělesnými potížemi. Podle potřeb člověka fyzioterapeut spolupracuje s dalšími odborníky."
+    ],
+    "memory": "Vyšetřit funkci a naplánovat její obnovu nebo udržení."
+  }
+]

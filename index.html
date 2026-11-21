@@ -18,6 +18,19 @@
 .school-picker[hidden]{display:none}
 .school-picker label{font-size:13px;font-weight:700}
 .school-picker select{width:100%;min-height:44px;padding:8px 12px;border:1px solid #b4bdb4;border-radius:10px;background:var(--paper);color:inherit;font:inherit}
+/* Presentation overrides are bundled into the offline HTML by build.py. */
+.backup-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.backup-actions button {
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--paper);
+}
+
 </style>
 </head>
 <body>
@@ -73,7 +86,15 @@
   <section class="card" id="results" aria-label="Výsledek kola" hidden></section>
   <footer class="footer"><p id="saveStatus">Pokrok se ukládá v tomto prohlížeči. Bez účtu a registrace.</p>
     <details class="sources" id="subjectSources"><summary>O otázkách a zdrojích</summary><p>Vlasta Chalupová-Karlovská: <em>Somatologie · Anatomie a fyziologie člověka · 630 testových otázek a odpovědí</em>, 2010. Banka obsahuje prvních 630 otázek v pořadí dokumentu: kapitolu I, otázky 1–45 (v aplikaci 1–45), kapitolu II, otázky 1–28 (46–73), kapitolu III, otázky 1–6 (74–79), kapitolu IV.a, otázky 1–29 (80–108), kapitolu IV.b, otázky 1–33 (109–141), kapitolu V, otázky 1–60 (142–201), kapitolu VI, otázky 1–36 (202–237), kapitolu VII, otázky 1–34 (238–271), kapitolu VIII, otázky 1–49 (272–320), kapitolu IX, otázky 1–19 (321–339), kapitolu X, otázky 1–9 (340–348), kapitolu XI, otázky 1–28 (349–376), kapitolu XII, otázky 1–25 (377–401), kapitolu XIII, otázky 1–42 (402–443), kapitolu XIV, otázky 1–58 (444–501), kapitolu XV, otázky 1–25 (502–526), kapitolu XVI, otázky 1–70 (527–596), a kapitolu XVII, otázky 1–34 (597–630).</p><p>Otázky: tištěné strany 8–15, 18–22, 24–25, 28–39, 42–51, 54–59, 62–67, 70–78, 80–84, 86–87, 90–95, 98–111, 114–125, 128–133, 136–156 (PDF strany 5–8, 10–13, 15–20, 22–26, 28–30, 32–34, 36–44, 46–48, 50–56, 58–63, 65–67 a 69–79). Tištěné klíče: strany 15, 22, 25, 32, 39, 51, 60, 67, 78, 84, 87, 95, 102, 111, 125, 133, 148 a 156 (PDF strany 8, 12, 13, 17, 20, 26, 31, 34, 40, 43, 44, 48, 52, 56, 63, 67, 75 a 79). Všech 630 přiřazení správné odpovědi bylo porovnáno s těmito klíči; nově přidané otázky se ověřovaly bez internetových zdrojů. Hodnotíme podle tištěného klíče, nikoli podle ručních značek. Například u otázek 25, 37 a 43 se ruční volby s klíčem liší.</p><p>Písmena v přiřazovací legendě označují pojmy, zatímco tlačítka A–D označují kombinace odpovědí. Vysvětlení jsou nově napsaná pro tuto aplikaci. Nejednoznačné, historické nebo problematické formulace mají po odpovědi poznámku <strong>Pro přesnost</strong>; shoda s klíčem neznamená, že jeho zjednodušení platí bez výjimek.</p><p>Stažený HTML soubor funguje bez internetu. Webová verze nepotřebuje žádné externí knihovny; první otevření webové adresy a odkazy na zdroje vyžadují připojení.</p><ul class="source-list" id="sourceList"></ul></details>
-    <details class="sources"><summary>Uložený pokrok</summary><p>Nové kolo nemaže dřívější znalost otázek. Vymazání dole resetuje pouze právě vybraný předmět. Vymazáním dat prohlížeče se pokrok také ztratí. Stejná webová adresa po nahrání nové verze pokrok zachová, pokud zůstane zachované úložiště prohlížeče.</p><button class="reset" id="reset">Vymazat pokrok tohoto předmětu</button></details>
+    <details class="sources"><summary>Záloha a přenos pokroku</summary><p>Nové kolo nemaže dřívější znalost otázek. Vymazání dole resetuje pouze právě vybraný předmět. Vymazáním dat prohlížeče se pokrok také ztratí. Stejná webová adresa po nahrání nové verze pokrok zachová, pokud zůstane zachované úložiště prohlížeče.</p>
+<div class="backup-actions">
+  <button type="button" class="reset" id="backupExport">Stáhnout zálohu</button>
+  <button type="button" class="reset" id="backupImport">Načíst zálohu</button>
+  <input id="backupFile" type="file" accept=".json,application/json" hidden>
+</div>
+<p>Stáhni soubor a ulož ho mimo toto zařízení. Na druhém zařízení ho můžeš načíst. Záloha zahrnuje všechny předměty a rozpracovaná kola.</p>
+<p id="backupStatus" role="status"></p>
+<button class="reset" id="reset">Vymazat pokrok tohoto předmětu</button></details>
   </footer>
   </div>
 </main>
@@ -33140,19 +33161,19 @@ function freshData(){return {version:2,turn:0,progress:{},session:null};}
 function progress(id){return data.progress[id] || emptyProgress();}
 function whole(n){return Number.isSafeInteger(n)&&n>=0;}
 function validProgress(p){return p&&['seen','correct','wrong','guesses','level','due','lastAt','lastTurn'].every(k=>whole(p[k]))&&p.level<=5&&p.guesses<=p.correct&&p.seen===p.correct+p.wrong&&['new','correct','wrong','guess'].includes(p.lastResult);}
-function validSession(s){
+function validSession(s, byId=globalQuestionMap()){
   if(s===null)return true;
-  if(!s||!['smart','all','weak'].includes(s.mode)||!whole(s.target)||s.target<1||s.target>BANK_SIZE||typeof s.completed!=='boolean'||!byId.has(s.currentId)||!Array.isArray(s.queue)||new Set(s.queue).size!==s.queue.length||!s.queue.every(id=>byId.has(id))||!Array.isArray(s.attempts)||s.attempts.length>s.target)return false;
+  if(!s||!['smart','all','weak'].includes(s.mode)||!whole(s.target)||s.target<1||s.target>byId.size||typeof s.completed!=='boolean'||!byId.has(s.currentId)||!Array.isArray(s.queue)||new Set(s.queue).size!==s.queue.length||!s.queue.every(id=>byId.has(id))||!Array.isArray(s.attempts)||s.attempts.length>s.target)return false;
   if(!s.attempts.every(a=>a&&byId.has(a.id)&&whole(a.selected)&&a.selected<=3&&typeof a.guessed==='boolean'&&typeof a.good==='boolean'&&a.good===(a.selected===byId.get(a.id).answer)&&whole(a.at)))return false;
   if(s.currentAnswer!==null&&(!whole(s.currentAnswer)||s.currentAnswer>3))return false;
   if(s.currentAnswer!==null){const last=s.attempts.at(-1);if(!last||last.id!==s.currentId||last.selected!==s.currentAnswer||last.guessed!==s.currentGuessed)return false;}
   return typeof s.currentGuessed==='boolean'&&(!s.completed||s.attempts.length>0);
 }
-function validData(d){return d&&d.version===2&&whole(d.turn)&&d.progress&&typeof d.progress==='object'&&!Array.isArray(d.progress)&&Object.entries(d.progress).every(([id,p])=>byId.has(Number(id))&&validProgress(p)&&p.lastTurn<=d.turn)&&validSession(d.session);}
+function validData(d, byId=globalQuestionMap()){return d&&d.version===2&&whole(d.turn)&&d.progress&&typeof d.progress==='object'&&!Array.isArray(d.progress)&&Object.entries(d.progress).every(([id,p])=>byId.has(Number(id))&&validProgress(p)&&p.lastTurn<=d.turn)&&validSession(d.session,byId);}
 function storageUnavailable(){storageOK=false;$('storageNotice').hidden=false;$('saveStatus').textContent='Ukládání není dostupné. Pokrok vydrží jen do zavření stránky.';}
 function save(){if(!storageOK)return;try{localStorage.setItem(STORAGE_KEY,JSON.stringify(activeSubject==='budejovice'?schoolStorageData():data));}catch(e){storageUnavailable();}}
-function migrateOld(){
-  if(activeSubject!=='somatologie')return null;
+function migrateOld(subject=activeSubject, byId=globalQuestionMap()){
+  if(subject!=='somatologie')return null;
   const raw=localStorage.getItem('somatologie-first10-v1');if(!raw)return null;
   let old;try{old=JSON.parse(raw);}catch(e){return null;}
   if(!old||old.version!==1||!old.answers||typeof old.answers!=='object'||Array.isArray(old.answers))return null;
@@ -33378,6 +33399,126 @@ $('schoolSection').addEventListener('change', () => {
 });
 
 switchSubject(initialSubject,true);
+const BACKUP_FORMAT = 'studijni-kvizy-progress';
+const SUBJECT_PREFERENCE = 'market-quiz-subject';
+const SECTION_PREFERENCE = 'budejovice-section';
+
+function globalQuestionMap() {
+  return byId;
+}
+
+function backupProgress() {
+  const subjects = {};
+  for (const id of subjectIds) {
+    const raw = id === activeSubject ? null : localStorage.getItem(SUBJECTS[id].key);
+    if (id === activeSubject) {
+      subjects[id] = id === 'budejovice' ? schoolStorageData() : data;
+    } else {
+      const questions = new Map(SUBJECTS[id].questions.map(q => [q.id, q]));
+      subjects[id] = raw === null ? migrateOld(id, questions) || freshData() : JSON.parse(raw);
+    }
+  }
+  const backup = {
+    format: BACKUP_FORMAT,
+    version: 1,
+    exportedAt: new Date().toISOString(),
+    activeSubject,
+    schoolSection: activeSubject === 'budejovice' ? schoolSection : savedSchoolSection(),
+    subjects,
+  };
+  if (!validBackup(backup)) throw new Error('Neplatný uložený pokrok.');
+  return backup;
+}
+
+function validBackup(backup) {
+  if (!backup || backup.format !== BACKUP_FORMAT || backup.version !== 1 ||
+      !subjectIds.includes(backup.activeSubject) ||
+      !(backup.schoolSection === 'all' || schoolTopics.has(backup.schoolSection)) ||
+      !backup.subjects || Object.keys(backup.subjects).length !== subjectIds.length) return false;
+  for (const id of subjectIds) {
+    const saved = backup.subjects[id];
+    const questions = new Map(SUBJECTS[id].questions.map(q => [q.id, q]));
+    if (!validData(saved, questions)) return false;
+    if (id === 'budejovice' && Object.hasOwn(saved, 'sections')) {
+      if (!saved.sections || typeof saved.sections !== 'object' || Array.isArray(saved.sections)) return false;
+      for (const [section, round] of Object.entries(saved.sections)) {
+        const topic = schoolTopics.get(section);
+        if (!topic || !validSession(round, new Map(topic.questions.map(q => [q.id, q])))) return false;
+      }
+    }
+  }
+  return true;
+}
+
+function restoreProgress(backup) {
+  if (!validBackup(backup)) return false;
+  const updates = new Map(subjectIds.map(id => [SUBJECTS[id].key, JSON.stringify(backup.subjects[id])]));
+  updates.set(SUBJECT_PREFERENCE, backup.activeSubject);
+  updates.set(SECTION_PREFERENCE, backup.schoolSection);
+  const original = new Map([...updates.keys()].map(key => [key, localStorage.getItem(key)]));
+  const written = [];
+  try {
+    for (const [key, value] of updates) {
+      localStorage.setItem(key, value);
+      written.push(key);
+    }
+  } catch (error) {
+    for (const key of written.reverse()) {
+      const value = original.get(key);
+      if (value === null) localStorage.removeItem(key);
+      else localStorage.setItem(key, value);
+    }
+    throw error;
+  }
+  // Reload the restored subject without saving the old in-memory state first.
+  switchSubject(backup.activeSubject, true);
+  return true;
+}
+
+$('backupExport').addEventListener('click', () => {
+  const status = $('backupStatus');
+  try {
+    const backup = backupProgress();
+    const file = new Blob([JSON.stringify(backup, null, 2)], {type:'application/json'});
+    const url = URL.createObjectURL(file);
+    const link = document.createElement('a');
+    link.href = url;
+    link.download = 'studijni-kvizy-pokrok-' + backup.exportedAt.slice(0,10) + '.json';
+    link.click();
+    setTimeout(() => URL.revokeObjectURL(url), 1000);
+    status.textContent = 'Záloha je připravená ke stažení. Ulož ji třeba na soukromý cloudový disk.';
+  } catch (error) {
+    status.textContent = 'Zálohu se nepodařilo vytvořit. Zkontroluj, že prohlížeč povoluje místní úložiště.';
+  }
+});
+
+$('backupImport').addEventListener('click', () => $('backupFile').click());
+$('backupFile').addEventListener('change', async event => {
+  const input = event.currentTarget;
+  const file = input.files[0];
+  input.value = '';
+  if (!file) return;
+  const status = $('backupStatus');
+  let backup;
+  try {
+    if (file.size > 10 * 1024 * 1024) throw new Error('Příliš velký soubor.');
+    backup = JSON.parse(await file.text());
+  } catch (error) {}
+  if (!validBackup(backup)) {
+    status.textContent = 'Tento soubor není platná záloha pro tuto verzi kvízu.';
+    return;
+  }
+  if (!confirm('Načtení zálohy nahradí pokrok všech předmětů v tomto prohlížeči. Pokud tu už máš pokrok, můžeš ho napřed zálohovat. Chceš pokračovat?')) {
+    status.textContent = 'Načtení bylo zrušeno.';
+    return;
+  }
+  try {
+    restoreProgress(backup);
+    status.textContent = 'Pokrok všech předmětů a rozpracovaná kola jsou načtené.';
+  } catch (error) {
+    status.textContent = 'Zálohu se nepodařilo uložit. Zkontroluj nastavení nebo volné místo v prohlížeči.';
+  }
+});
 </script>
 </body>
 </html>

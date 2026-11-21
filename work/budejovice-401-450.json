@@ -1,0 +1,953 @@
+[
+  {
+    "id": 401,
+    "category": "Sociologie",
+    "bookRef": "2019 · Všeobecná informovanost, Radiologický asistent · úloha 1 · str. 1 (PDF 128)",
+    "sourcePages": "1 (PDF 128)",
+    "question": "Ve kterém století žil český filozof Jan Patočka (1907–1977)?",
+    "title": "Ve 20. století",
+    "options": [
+      "Ve 20. století",
+      "V 18. století",
+      "V 16. století",
+      "Ve 14. století"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Oba roky spadají do období 1901–2000. Patočka tak patří k moderní české filozofii, nikoli ke středověkým nebo osvícenským autorům."
+    ],
+    "memory": "Patočka patří do dvacátého století."
+  },
+  {
+    "id": 402,
+    "category": "Sociologie",
+    "bookRef": "2019 · Všeobecná informovanost, Radiologický asistent · úloha 5 · str. 1 (PDF 128)",
+    "sourcePages": "1 (PDF 128)",
+    "question": "Která věta je přímo jedním z přikázání Desatera?",
+    "title": "Cti svého otce i matku.",
+    "options": [
+      "Miluj bližního svého jako sebe samého.",
+      "Milujte své nepřátele.",
+      "Kdo je bez viny, ať první hodí kamenem.",
+      "Cti svého otce i matku."
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Úcta k rodičům je výslovně součástí Desatera. Ostatní výroky také patří k biblické tradici, ale nejsou samostatným přikázáním v seznamu deseti."
+    ],
+    "memory": "Desatero zahrnuje úctu k rodičům."
+  },
+  {
+    "id": 403,
+    "category": "Sociologie",
+    "bookRef": "2019 · Všeobecná informovanost, Radiologický asistent · úloha 17 · str. 3 (PDF 130)",
+    "sourcePages": "3 (PDF 130)",
+    "question": "Výzkumník měří vztah dvou proměnných standardizovaným dotazníkem u tisíce lidí. Jaký typ výzkumu převážně používá?",
+    "title": "Kvantitativní",
+    "options": [
+      "Pouze autobiografický",
+      "Pouze intuitivní bez sběru dat",
+      "Kvantitativní",
+      "Čistě literární interpretaci"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Odpovědi převádí na porovnatelné údaje a zkoumá je statisticky. Velký počet lidí sám nestačí, důležité je také měření a způsob zpracování dat."
+    ],
+    "memory": "Kvantitativní výzkum pracuje s měřením a čísly."
+  },
+  {
+    "id": 404,
+    "category": "Sociologie",
+    "bookRef": "2019 · Všeobecná informovanost, Radiologický asistent · úloha 19 · str. 3 (PDF 130)",
+    "sourcePages": "3 (PDF 130)",
+    "question": "Jak se v sociologii nazývá odchylka od společenských norem?",
+    "title": "Sociální deviace",
+    "options": [
+      "Sociální stratifikace",
+      "Sociální deviace",
+      "Sociometrie",
+      "Natalita"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "To, co je za odchylku považováno, závisí na normách dané skupiny a doby. Pojem sám automaticky neznamená nemoc ani trestný čin."
+    ],
+    "memory": "Deviace se odchyluje od normy."
+  },
+  {
+    "id": 405,
+    "category": "Sociologie",
+    "bookRef": "2019 · Všeobecná informovanost, Radiologický asistent · úloha 20 · str. 3 (PDF 130)",
+    "sourcePages": "3 (PDF 130)",
+    "question": "Co v některých sociologických teoriích označuje pojem underclass?",
+    "title": "Vrstva dlouhodobě vylučovaná z běžných pracovních a společenských příležitostí",
+    "options": [
+      "Vrstva dlouhodobě vylučovaná z běžných pracovních a společenských příležitostí",
+      "Nejvyšší vládnoucí elita",
+      "Každý krátkodobě nezaměstnaný bez rozdílu",
+      "Skupina všech žáků základní školy"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Pojem se používá pro nahromadění dlouhodobých znevýhodnění. Jeho vymezení závisí na teorii a může být sporné, proto nejde o osobní nálepku každého člověka bez práce."
+    ],
+    "memory": "Underclass označuje dlouhodobé strukturální vyloučení."
+  },
+  {
+    "id": 406,
+    "category": "Biologie",
+    "bookRef": "2019 · Biologie, Pediatrické ošetřovatelství · úloha 10 · str. 2 (PDF 133)",
+    "sourcePages": "2 (PDF 133)",
+    "question": "Který sval především natahuje loket při narovnání paže?",
+    "title": "Trojhlavý sval pažní",
+    "options": [
+      "Dvojhlavý sval pažní",
+      "Žvýkací sval",
+      "Přímý sval břišní",
+      "Trojhlavý sval pažní"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Trojhlavý sval pažní táhne za loketní výběžek kosti loketní. Tím narovnává kloub a při tomto pohybu působí proti ohýbačům lokte."
+    ],
+    "memory": "Triceps natahuje loket."
+  },
+  {
+    "id": 407,
+    "category": "Biologie",
+    "bookRef": "2019 · Biologie, Pediatrické ošetřovatelství · úloha 14 · str. 2 (PDF 133)",
+    "sourcePages": "2 (PDF 133)",
+    "question": "Co označuje genotyp jedince pro sledovaný gen?",
+    "title": "Jeho kombinaci alel tohoto genu",
+    "options": [
+      "Pouze vzhledový projev znaku",
+      "Pouze naučené chování",
+      "Jeho kombinaci alel tohoto genu",
+      "Aktuální teplotu jeho těla"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Stejný vzhled může vzniknout při více genotypových kombinacích. Například při úplné dominanci mohou AA i Aa vykazovat dominantní fenotyp, takže vzhled sám kombinaci nemusí odhalit."
+    ],
+    "memory": "Genotyp jsou alely, fenotyp jejich projev v prostředí."
+  },
+  {
+    "id": 408,
+    "category": "Biologie",
+    "bookRef": "2019 · Biologie, Pediatrické ošetřovatelství · úloha 33 · str. 4 (PDF 135)",
+    "sourcePages": "4 (PDF 135)",
+    "question": "Která trojice patří k základnímu popisu stavby typického neuronu?",
+    "title": "Tělo buňky, dendrity a axon",
+    "options": [
+      "Jádro, žebro a chrupavka",
+      "Sarkomera, šlacha a okostice",
+      "Tělo buňky, dendrity a axon",
+      "Kloub, vaz a meniskus"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "V těle buňky probíhá velká část metabolismu. Dendrity obvykle přijímají vstupy a axon vede výstupní signál k dalším buňkám."
+    ],
+    "memory": "Tělo, příjem, výstup."
+  },
+  {
+    "id": 409,
+    "category": "Biologie",
+    "bookRef": "2019 · Biologie, Pediatrické ošetřovatelství · úloha 42 · str. 5 (PDF 136)",
+    "sourcePages": "5 (PDF 136)",
+    "question": "Které struktury přenášejí mechanické kmity z bubínku k vnitřnímu uchu?",
+    "title": "Sluchové kůstky středního ucha",
+    "options": [
+      "Čichové receptory",
+      "Sluchové kůstky středního ucha",
+      "Zrakový nerv",
+      "Krční obratle"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Kladívko, kovadlinka a třmínek tvoří navazující soustavu. Třmínek působí na oválné okénko a pomáhá předat kmitání tekutinám vnitřního ucha."
+    ],
+    "memory": "Bubínek, kůstky, vnitřní ucho."
+  },
+  {
+    "id": 410,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · ZSV, Pediatrické ošetřovatelství · úloha 5 · str. 1 (PDF 138)",
+    "sourcePages": "1 (PDF 138)",
+    "question": "Které postavě jsou v evangeliích připisována slova o lásce k nepřátelům?",
+    "title": "Ježíšovi",
+    "options": [
+      "Ježíšovi",
+      "Martinu Lutherovi",
+      "Buddhovi",
+      "Konfuciovi"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Výrok vyjadřuje požadavek nezastavit ohleduplnost pouze u lidí, kteří se k nám chovají dobře. Jde o součást křesťanské etické tradice."
+    ],
+    "memory": "Láska k nepřátelům patří k Ježíšovu učení."
+  },
+  {
+    "id": 411,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · ZSV, Pediatrické ošetřovatelství · úloha 16 · str. 2 (PDF 139)",
+    "sourcePages": "2 (PDF 139)",
+    "question": "Kdo roku 1600 provedl v Praze známou veřejnou pitvu?",
+    "title": "Jan Jesenius",
+    "options": [
+      "Jan Mydlář",
+      "Rudolf II.",
+      "Jan Amos Komenský",
+      "Jan Jesenius"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Jesenius byl lékař a anatom. Veřejné předvedení stavby těla patřilo k rozvoji anatomického vzdělávání na počátku novověku."
+    ],
+    "memory": "Jesenius, Praha, rok 1600."
+  },
+  {
+    "id": 412,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · ZSV, Pediatrické ošetřovatelství · úloha 46 · str. 5 (PDF 142)",
+    "sourcePages": "5 (PDF 142)",
+    "question": "Který pojem označuje pospolitost propojenou sdíleným místem nebo společným životem a vazbami?",
+    "title": "Komunita",
+    "options": [
+      "Inflace",
+      "Chromozom",
+      "Komunita",
+      "Defenestrace"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Komunitu mohou tvořit například lidé sousedství. Sdílené vztahy a činnosti jsou podstatnější než představa, že každá komunita musí sama uspokojovat naprosto všechny potřeby členů."
+    ],
+    "memory": "Komunitu propojuje sdílený život."
+  },
+  {
+    "id": 413,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · ZSV, Pediatrické ošetřovatelství · úloha 47 · str. 6 (PDF 143)",
+    "sourcePages": "6 (PDF 143)",
+    "question": "Co v sociologii označuje instituce?",
+    "title": "Ustálený soubor pravidel a způsobů jednání plnící společenskou funkci",
+    "options": [
+      "Pouze budovu bez ohledu na její využití",
+      "Ustálený soubor pravidel a způsobů jednání plnící společenskou funkci",
+      "Nahodilý jednotlivý pohyb",
+      "Výhradně soukromý názor jednoho člověka"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Institucí je například vzdělávání se svými rolemi a pravidly. Konkrétní škola je organizace, která se na uskutečňování této instituce podílí."
+    ],
+    "memory": "Instituce drží ustálená společenská pravidla."
+  },
+  {
+    "id": 414,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · Všeobecná informovanost, společná sada · úloha 1 · str. 1 (PDF 223)",
+    "sourcePages": "1 (PDF 223)",
+    "question": "Co nejlépe vystihuje panteismus?",
+    "title": "Ztotožnění božství se světem či přírodou jako celkem",
+    "options": [
+      "Ztotožnění božství se světem či přírodou jako celkem",
+      "Učení o přesně dvou navzájem nezávislých bozích",
+      "Pouhé studium římských staveb",
+      "Víru v úplné oddělení božství od veškeré přírody"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Panteistické pojetí chápe božské a celek skutečnosti jako v zásadě totožné. Samotné tvrzení o všudypřítomnosti Boha by bylo příliš široké a může se objevit i v jiných učeních."
+    ],
+    "memory": "Pan znamená vše, panteismus spojuje vše s božstvím."
+  },
+  {
+    "id": 415,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · Všeobecná informovanost, společná sada · úloha 2 · str. 1 (PDF 223)",
+    "sourcePages": "1 (PDF 223)",
+    "question": "Co znamená funkční lateralita člověka?",
+    "title": "Nestejné upřednostňování pravé a levé strany při určitých činnostech",
+    "options": [
+      "Nestejné upřednostňování pravé a levé strany při určitých činnostech",
+      "Stejný počet prstů na obou rukou",
+      "Výhradně rozdíl v délce kostí",
+      "Úplnou nezávislost obou polovin mozku"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Příkladem je přednostní používání jedné ruky při psaní. Preference ruky, oka nebo nohy se nemusí u každého člověka shodovat na stejné straně."
+    ],
+    "memory": "Lateralita souvisí se stranovou preferencí."
+  },
+  {
+    "id": 416,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · Všeobecná informovanost, společná sada · úloha 5 · str. 1 (PDF 223)",
+    "sourcePages": "1 (PDF 223)",
+    "question": "Co znamená podat demisi z veřejné funkce?",
+    "title": "Oznámit odstoupení z funkce",
+    "options": [
+      "Předložit návrh zákona",
+      "Vyhlásit referendum",
+      "Vyžádat si odborný posudek",
+      "Oznámit odstoupení z funkce"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Demise směřuje k ukončení výkonu funkce. Přesný postup a následky se odvíjejí od konkrétní funkce a pravidel, slovo samo neoznačuje zákonodárný návrh."
+    ],
+    "memory": "Demise znamená odstoupení."
+  },
+  {
+    "id": 417,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · Všeobecná informovanost, společná sada · úloha 6 · str. 1 (PDF 223)",
+    "sourcePages": "1 (PDF 223)",
+    "question": "Ve které hře Karla Čapka vystupuje doktor Galén?",
+    "title": "Bílá nemoc",
+    "options": [
+      "R.U.R.",
+      "Matka",
+      "Bílá nemoc",
+      "Loupežník"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Doktor Galén zde stojí uprostřed konfliktu mezi pomocí nemocným a mocenskými zájmy. Fiktivní postavu je třeba odlišit od historického antického lékaře Galéna."
+    ],
+    "memory": "Čapkův Galén patří do Bílé nemoci."
+  },
+  {
+    "id": 418,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · Všeobecná informovanost, společná sada · úloha 8 · str. 2 (PDF 224)",
+    "sourcePages": "2 (PDF 224)",
+    "question": "Jak se nazývá systematické posouzení výsledků programu podle zvolených kritérií?",
+    "title": "Evaluace",
+    "options": [
+      "Evakuace",
+      "Evaluace",
+      "Ovulace",
+      "Emigrace"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Nejprve se shromáždí potřebné informace a pak se porovnají s cíli či měřítky. Evaluace tak může ukázat, co fungovalo a co je vhodné upravit."
+    ],
+    "memory": "Evaluace hodnotí."
+  },
+  {
+    "id": 419,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · Všeobecná informovanost, společná sada · úloha 10 · str. 2 (PDF 224)",
+    "sourcePages": "2 (PDF 224)",
+    "question": "Který filozof spojil ve známém výroku hvězdné nebe s mravním zákonem v člověku?",
+    "title": "Immanuel Kant",
+    "options": [
+      "Immanuel Kant",
+      "Georg Hegel",
+      "Arthur Schopenhauer",
+      "Karl Marx"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Výrok propojuje úžas nad přírodou s otázkou morálního jednání. Obě oblasti patří k důležitým tématům Kantova myšlení."
+    ],
+    "memory": "Hvězdné nebe a mravní zákon připomínají Kanta."
+  },
+  {
+    "id": 420,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · Všeobecná informovanost, společná sada · úloha 12 · str. 2 (PDF 224)",
+    "sourcePages": "2 (PDF 224)",
+    "question": "Co označuje xenofobie v sociálních souvislostech?",
+    "title": "Odmítavost či strach vůči tomu, co je vnímáno jako cizí",
+    "options": [
+      "Zájem poznávat jiné kultury bez předsudků",
+      "Schopnost rozpoznat hudební tón",
+      "Strach výhradně z pavouků",
+      "Odmítavost či strach vůči tomu, co je vnímáno jako cizí"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Cizost může člověk připisovat lidem podle původu, jazyka nebo zvyků. Takový postoj může vést k paušálnímu odmítání lidí místo posouzení jejich skutečného chování."
+    ],
+    "memory": "Xeno souvisí s cizím."
+  },
+  {
+    "id": 421,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · Všeobecná informovanost, společná sada · úloha 13 · str. 2 (PDF 224)",
+    "sourcePages": "2 (PDF 224)",
+    "question": "Ve které hře poprvé zazněla píseň Kde domov můj?",
+    "title": "Fidlovačka",
+    "options": [
+      "Strakonický dudák",
+      "Naši furianti",
+      "Fidlovačka",
+      "R.U.R."
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Píseň vznikla jako součást divadelní hry Fidlovačka v roce 1834. Hudbu složil František Škroup a text napsal Josef Kajetán Tyl."
+    ],
+    "memory": "Kde domov můj zaznělo ve Fidlovačce."
+  },
+  {
+    "id": 422,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · Všeobecná informovanost, společná sada · úloha 14 · str. 2 (PDF 224)",
+    "sourcePages": "2 (PDF 224)",
+    "question": "Co v sociologii znamená segregace skupin obyvatel?",
+    "title": "Jejich oddělování, například v bydlení nebo vzdělávání",
+    "options": [
+      "Splynutí všech kulturních tradic",
+      "Pravidelné měření krevního tlaku",
+      "Jejich oddělování, například v bydlení nebo vzdělávání",
+      "Pouhé zvýšení počtu narozených"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Skupiny mohou být odděleny pravidly nebo faktickými překážkami. Segregace se proto týká prostorového či institucionálního uspořádání vztahů mezi nimi."
+    ],
+    "memory": "Segregace odděluje."
+  },
+  {
+    "id": 423,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · Všeobecná informovanost, společná sada · úloha 15 · str. 2 (PDF 224)",
+    "sourcePages": "2 (PDF 224)",
+    "question": "Jak se označuje uznání a vážnost, které člověku nebo povolání přisuzují ostatní?",
+    "title": "Prestiž",
+    "options": [
+      "Stigma",
+      "Prestiž",
+      "Deprivace",
+      "Hemostáza"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Prestiž vyjadřuje společenské ocenění. Nemusí se rovnat příjmu ani formální moci, protože skupina může uznávat například znalosti nebo obětavost."
+    ],
+    "memory": "Prestiž je přisuzovaná vážnost."
+  },
+  {
+    "id": 424,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · Všeobecná informovanost, společná sada · úloha 17 · str. 2 (PDF 224)",
+    "sourcePages": "2 (PDF 224)",
+    "question": "Co znamená verifikovat tvrzení?",
+    "title": "Ověřovat je pomocí vhodných důkazů či postupů",
+    "options": [
+      "Ověřovat je pomocí vhodných důkazů či postupů",
+      "Předem je bez kontroly odmítnout",
+      "Změnit jeho význam na opačný",
+      "Pouze je několikrát zopakovat"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Ověřování porovnává tvrzení s důkazy nebo důsledky. U obecných empirických tvrzení přitom další potvrzující případy nemusí znamenat absolutní důkaz všech možných případů."
+    ],
+    "memory": "Verifikace ověřuje."
+  },
+  {
+    "id": 425,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · Všeobecná informovanost, společná sada · úloha 20 · str. 3 (PDF 225)",
+    "sourcePages": "3 (PDF 225)",
+    "question": "Kdo napsal Labyrint světa a ráj srdce?",
+    "title": "Jan Amos Komenský",
+    "options": [
+      "Jan Patočka",
+      "Tomáš Garrigue Masaryk",
+      "Karel Čapek",
+      "Jan Amos Komenský"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Komenský používá obraz putování světem k úvahám o lidském životě. Správný název díla končí rájem srdce."
+    ],
+    "memory": "Komenského poutník hledá ráj srdce."
+  },
+  {
+    "id": 426,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · Všeobecná informovanost, společná sada · úloha 23 · str. 3 (PDF 225)",
+    "sourcePages": "3 (PDF 225)",
+    "question": "Ke kterému náboženství patří pojmy imám a mešita?",
+    "title": "K islámu",
+    "options": [
+      "K hinduismu",
+      "Ke křesťanství",
+      "K islámu",
+      "K buddhismu"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Mešita je místo muslimské modlitby. Imám může vést společnou modlitbu, přičemž význam a postavení této role se v různých tradicích liší."
+    ],
+    "memory": "Mešita a imám patří k islámu."
+  },
+  {
+    "id": 427,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · Všeobecná informovanost, společná sada · úloha 24 · str. 3 (PDF 225)",
+    "sourcePages": "3 (PDF 225)",
+    "question": "Jak se nazývá proces, při kterém menšina přejímá vzorce většiny až k oslabování vlastních kulturních odlišností?",
+    "title": "Asimilace",
+    "options": [
+      "Segregace",
+      "Asimilace",
+      "Emigrace",
+      "Stratifikace"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Asimilace může zahrnovat jazyk i zvyky. Od pouhého zapojení do společnosti se liší důrazem na ztrátu nebo omezení původních odlišností."
+    ],
+    "memory": "Asimilace směřuje ke splynutí."
+  },
+  {
+    "id": 428,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · Všeobecná informovanost, společná sada · úloha 25 · str. 3 (PDF 225)",
+    "sourcePages": "3 (PDF 225)",
+    "question": "Který český psycholog je známý prací o dětech, rodině a náhradní rodinné péči?",
+    "title": "Zdeněk Matějček",
+    "options": [
+      "Zdeněk Matějček",
+      "Gregor Mendel",
+      "Robert Koch",
+      "František Škroup"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Matějček se zabýval psychickým vývojem dětí a významem vztahů a rodinného prostředí. Jeho jméno je spojeno i s poznáním důsledků psychické deprivace."
+    ],
+    "memory": "Matějček, dítě a rodina."
+  },
+  {
+    "id": 429,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · Všeobecná informovanost, společná sada · úloha 28 · str. 4 (PDF 226)",
+    "sourcePages": "4 (PDF 226)",
+    "question": "Co znamená historický pojem defenestrace?",
+    "title": "Vyhození člověka z okna",
+    "options": [
+      "Vyhození člověka z okna",
+      "Dobrovolné předání koruny",
+      "Přijetí nové ústavy",
+      "Sloučení dvou univerzit"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Název vychází z latinského slova pro okno. V českých dějinách se vztahuje k politickým událostem, při nichž byli lidé násilně vyhozeni z oken."
+    ],
+    "memory": "Fenestrum je okno."
+  },
+  {
+    "id": 430,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · Všeobecná informovanost, společná sada · úloha 30 · str. 4 (PDF 226)",
+    "sourcePages": "4 (PDF 226)",
+    "question": "Jaké prostředky využívá arteterapie v užším výtvarném pojetí?",
+    "title": "Výtvarnou tvorbu a práci s jejím procesem či výsledkem",
+    "options": [
+      "Výhradně měření srdeční frekvence",
+      "Pouze elektrické proudy",
+      "Pouze nácvik chůze po schodech",
+      "Výtvarnou tvorbu a práci s jejím procesem či výsledkem"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Tvorba může pomoci vyjádřit prožívání a pracovat s ním v terapeutickém vztahu. Rozhodující je terapeutický rámec, samotné kreslení automaticky nepředstavuje terapii."
+    ],
+    "memory": "Arteterapie pracuje s výtvarným vyjádřením."
+  },
+  {
+    "id": 431,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · Všeobecná informovanost, společná sada · úloha 31 · str. 4 (PDF 226)",
+    "sourcePages": "4 (PDF 226)",
+    "question": "Co vyjadřuje slovo handicap v obecném sociálním významu?",
+    "title": "Znevýhodnění",
+    "options": [
+      "Vrozenou anatomickou vadu jako jediný význam",
+      "Název konkrétní infekce",
+      "Znevýhodnění",
+      "Úroveň inteligence každého člověka"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Znevýhodnění může vznikat v souhře zdravotního stavu a překážek prostředí. Slovo tak nelze jednoduše ztotožnit s jedinou tělesnou odchylkou."
+    ],
+    "memory": "Znevýhodnění závisí i na prostředí."
+  },
+  {
+    "id": 432,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · Všeobecná informovanost, společná sada · úloha 32 · str. 4 (PDF 226)",
+    "sourcePages": "4 (PDF 226)",
+    "question": "Jak zemřel básník Alexandr Sergejevič Puškin?",
+    "title": "Na následky zranění ze souboje",
+    "options": [
+      "Při potopení Titaniku",
+      "Na následky zranění ze souboje",
+      "Při epidemii cholery jako doložené příčině jeho smrti",
+      "Při letu balónem"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Puškin byl roku 1837 zraněn při souboji a následkům zranění podlehl. Událost patří do jeho životopisu v první polovině 19. století."
+    ],
+    "memory": "Puškinův život ukončily následky souboje."
+  },
+  {
+    "id": 433,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · Všeobecná informovanost, společná sada · úloha 36 · str. 4 (PDF 226)",
+    "sourcePages": "4 (PDF 226)",
+    "question": "Který myslitel je zvlášť spojen s pojmem obecné vůle a přímou účastí občanů na zákonodárství?",
+    "title": "Jean-Jacques Rousseau",
+    "options": [
+      "Jean-Jacques Rousseau",
+      "Mikuláš Koperník",
+      "Robert Koch",
+      "Edmund Husserl"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Rousseau promýšlel politické společenství, v němž občané vystupují jako nositelé svrchovanosti. Obecnou vůli přitom nelze jednoduše ztotožnit s každým okamžitým součtem soukromých přání."
+    ],
+    "memory": "Rousseau zkoumá občany a obecnou vůli."
+  },
+  {
+    "id": 434,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · Všeobecná informovanost, společná sada · úloha 39 · str. 5 (PDF 227)",
+    "sourcePages": "5 (PDF 227)",
+    "question": "Co charakterizuje náboženský fundamentalismus v základním sociologickém popisu?",
+    "title": "Důraz na závaznost základních pramenů a návrat k údajně původní podobě tradice",
+    "options": [
+      "Každá účast na libovolném náboženském obřadu",
+      "Pouhá znalost dějin náboženství",
+      "Výhradně změna občanství",
+      "Důraz na závaznost základních pramenů a návrat k údajně původní podobě tradice"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Pojem označuje určitý postoj k autoritě textů a tradice. Sám o sobě se nevztahuje na každého věřícího a jeho konkrétní podoba se liší mezi prostředími."
+    ],
+    "memory": "Fundamentalismus zdůrazňuje závazné základy."
+  },
+  {
+    "id": 435,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · Všeobecná informovanost, společná sada · úloha 42 · str. 5 (PDF 227)",
+    "sourcePages": "5 (PDF 227)",
+    "question": "Který mír roku 1648 ukončil třicetiletou válku?",
+    "title": "Vestfálský",
+    "options": [
+      "Brestlitevský",
+      "Versailleský z roku 1919",
+      "Vestfálský",
+      "Pražský z roku 1866"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Jednání a smlouvy v Münsteru a Osnabrücku završily dlouhý evropský konflikt. Rok 1648 proto patří k hlavním mezníkům evropských dějin."
+    ],
+    "memory": "Třicetiletou válku uzavírá Vestfálsko 1648."
+  },
+  {
+    "id": 436,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · Všeobecná informovanost, společná sada · úloha 43 · str. 5 (PDF 227)",
+    "sourcePages": "5 (PDF 227)",
+    "question": "Na kterou oblast se zaměřuje UNICEF?",
+    "title": "Práva a životní podmínky dětí",
+    "options": [
+      "Pouze ochranu světových měn",
+      "Řízení letového provozu",
+      "Práva a životní podmínky dětí",
+      "Výhradně ochranu oceánských tras"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "UNICEF je Dětský fond OSN. Podporuje například zdraví, vzdělávání a ochranu dětí, zvláště tam, kde jsou jejich podmínky ohroženy."
+    ],
+    "memory": "UNICEF se zaměřuje na děti."
+  },
+  {
+    "id": 437,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · Všeobecná informovanost, společná sada · úloha 46 · str. 6 (PDF 228)",
+    "sourcePages": "6 (PDF 228)",
+    "question": "Co vystihuje pojem konzumní společnost?",
+    "title": "Výrazný důraz na nakupování a spotřebu jako znak úspěchu a životního stylu",
+    "options": [
+      "Společnost bez jakékoli výroby",
+      "Výrazný důraz na nakupování a spotřebu jako znak úspěchu a životního stylu",
+      "Společnost bez peněz a směny",
+      "Každou společnost, kde lidé potřebují jíst"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Pojem popisuje společenskou roli spotřeby nad rámec základních potřeb. Zboží může sloužit i jako symbol postavení a žádoucího životního stylu."
+    ],
+    "memory": "Konzumní společnost zdůrazňuje spotřebu."
+  },
+  {
+    "id": 438,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · Všeobecná informovanost, společná sada · úloha 47 · str. 6 (PDF 228)",
+    "sourcePages": "6 (PDF 228)",
+    "question": "Kterou skupinu označujeme při zkoumání moci jako elitu?",
+    "title": "Úzkou skupinu s mimořádným vlivem na rozhodování",
+    "options": [
+      "Úzkou skupinu s mimořádným vlivem na rozhodování",
+      "Každého člověka bez práce",
+      "Všechny děti jednoho ročníku",
+      "Pouze všechny obyvatele jedné ulice"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Elita zaujímá významné pozice nebo ovládá důležité zdroje. Pojem popisuje rozdělení vlivu a sám automaticky nehodnotí morální kvalitu členů."
+    ],
+    "memory": "Elita má nadprůměrný vliv."
+  },
+  {
+    "id": 439,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · ZSV, Sociální práce · úloha 7 · str. 1 (PDF 235)",
+    "sourcePages": "1 (PDF 235)",
+    "question": "Kterému významu je blízké řecké ethos, z něhož vychází slovo etika?",
+    "title": "Zvyk či mrav",
+    "options": [
+      "Výhradně matematický důkaz",
+      "Stavba zemské kůry",
+      "Pohyb planet",
+      "Zvyk či mrav"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Etika souvisí s promýšlením mravů a jednání. Zkoumá, jaké důvody máme pro hodnocení činů jako správných nebo nesprávných."
+    ],
+    "memory": "Ethos připomíná mravy."
+  },
+  {
+    "id": 440,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · ZSV, Sociální práce · úloha 19 · str. 3 (PDF 237)",
+    "sourcePages": "3 (PDF 237)",
+    "question": "Která zařízení byla výraznou součástí hygienické infrastruktury antického Říma?",
+    "title": "Veřejné lázně a kanalizace",
+    "options": [
+      "Elektrické čističky vzduchu",
+      "Očkovací centra proti všem infekcím",
+      "Veřejné lázně a kanalizace",
+      "Rentgenové diagnostické stanice"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Lázně umožňovaly mytí a společenský život. Kanalizační stavby odváděly vodu a odpad, jejich účinnost a dostupnost ovšem nebyla totožná s dnešními hygienickými systémy."
+    ],
+    "memory": "Řím si spoj s lázněmi a kanalizací."
+  },
+  {
+    "id": 441,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · ZSV, Sociální práce · úloha 23 · str. 3 (PDF 237)",
+    "sourcePages": "3 (PDF 237)",
+    "question": "Ve kterém roce byla založena Univerzita Karlova?",
+    "title": "1348",
+    "options": [
+      "1248",
+      "1348",
+      "1618",
+      "1918"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Univerzitu založil Karel IV. ve 14. století. Rok 1618 patří k začátku českého stavovského povstání, a tak označuje jinou historickou událost."
+    ],
+    "memory": "Karel IV. a rok 1348."
+  },
+  {
+    "id": 442,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · ZSV, Sociální práce · úloha 33 · str. 4 (PDF 238)",
+    "sourcePages": "4 (PDF 238)",
+    "question": "Která trojice tvořila odbojovou skupinu známou jako Tři králové?",
+    "title": "Josef Balabán, Josef Mašín a Václav Morávek",
+    "options": [
+      "Josef Balabán, Josef Mašín a Václav Morávek",
+      "Jan Kubiš, Jozef Gabčík a Adolf Opálka",
+      "Tomáš Masaryk, Edvard Beneš a Milan Štefánik",
+      "Karel Čapek, Josef Čapek a Vladislav Vančura"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Tři králové organizovali zpravodajskou a odbojovou činnost za nacistické okupace. Skupinu je třeba odlišit od parašutistů spojených s útokem na Heydricha."
+    ],
+    "memory": "Balabán, Mašín, Morávek."
+  },
+  {
+    "id": 443,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · ZSV, Sociální práce · úloha 34 · str. 4 (PDF 238)",
+    "sourcePages": "4 (PDF 238)",
+    "question": "Kým byl Josef Beran?",
+    "title": "Pražským arcibiskupem pronásledovaným komunistickým režimem",
+    "options": [
+      "Pražským arcibiskupem pronásledovaným komunistickým režimem",
+      "Předsedou agrární vlády Rudolfem Beranem",
+      "Komunistickým ministrem školství",
+      "Zakladatelem genetických zákonů"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Josef Beran byl katolický duchovní a později kardinál. Jeho příjmení se může plést s Rudolfem Beranem, který zastával odlišnou politickou roli."
+    ],
+    "memory": "Josef Beran patří k dějinám církve."
+  },
+  {
+    "id": 444,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · ZSV, Sociální práce · úloha 61 · str. 7 (PDF 241)",
+    "sourcePages": "7 (PDF 241)",
+    "question": "Jaká je nominální kapacita běžného jednovrstvého DVD o průměru 12 cm?",
+    "title": "4,7 GB v desetinném značení",
+    "options": [
+      "4,7 MB",
+      "47 TB",
+      "470 kB",
+      "4,7 GB v desetinném značení"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Údaj výrobce používá desetinné gigabajty. Program používající jiné jednotky může zobrazit menší číselnou hodnotu, i když jde o stejné množství bajtů."
+    ],
+    "memory": "Jedna vrstva DVD má přibližně 4,7 GB."
+  },
+  {
+    "id": 445,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · ZSV, Sociální práce · úloha 79 · str. 9 (PDF 243)",
+    "sourcePages": "9 (PDF 243)",
+    "question": "Student se řídí normami profese, do které chce jednou patřit. Jakou roli má tato profesní skupina?",
+    "title": "Referenční skupiny",
+    "options": [
+      "Pouze biologické rodiny",
+      "Náhodného davu",
+      "Referenční skupiny",
+      "Populace podle krevní skupiny"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Referenční skupina poskytuje měřítka pro vlastní chování a hodnocení. Člověk už jejím členem být může, ale také se k ní může teprve vztahovat jako k žádoucímu vzoru.",
+      "Označení referenční vychází z toho, jakou funkci má skupina pro člověka. Její velikost sama o sobě nerozhoduje."
+    ],
+    "memory": "Referenční skupina je měřítko."
+  },
+  {
+    "id": 446,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · ZSV, Sociální práce · úloha 81 · str. 9 (PDF 243)",
+    "sourcePages": "9 (PDF 243)",
+    "question": "Co je příkladem kooperace v týmu?",
+    "title": "Členové koordinují své kroky při společném úkolu",
+    "options": [
+      "Každý zatajuje informace potřebné ostatním",
+      "Členové koordinují své kroky při společném úkolu",
+      "Úkol nikdo nepřevezme",
+      "Členové cíleně ruší práci druhých"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Spolupráce vyžaduje sladění činností a sdílení potřebných informací. Rozdělení rolí může pomoci, pokud jednotlivé části vedou ke společnému cíli."
+    ],
+    "memory": "Kooperace slaďuje činnosti."
+  },
+  {
+    "id": 447,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · ZSV, Sociální práce · úloha 85 · str. 10 (PDF 244)",
+    "sourcePages": "10 (PDF 244)",
+    "question": "Co vyjadřuje sociologické označení marginální vrstvy?",
+    "title": "Postavení na okraji společenského života a zdrojů",
+    "options": [
+      "Postavení na okraji společenského života a zdrojů",
+      "Vždy nejvyšší rozhodovací moc",
+      "Pouze geografický střed města",
+      "Výhradně věkovou skupinu předškoláků"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Marginální znamená okrajový. V sociálních souvislostech jde například o omezený přístup k příležitostem a účasti, nikoli o vrozenou vlastnost člověka."
+    ],
+    "memory": "Marginální znamená okrajový."
+  },
+  {
+    "id": 448,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · ZSV, Sociální práce · úloha 93 · str. 11 (PDF 245)",
+    "sourcePages": "11 (PDF 245)",
+    "question": "Co může posunout poptávkovou křivku po určitém výrobku?",
+    "title": "Změna preferencí spotřebitelů",
+    "options": [
+      "Pouze pohyb ceny tohoto výrobku při jinak stejných podmínkách",
+      "Pouhé překreslení os beze změny dat",
+      "Změna názvu jednotky na svislé ose",
+      "Změna preferencí spotřebitelů"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Změní-li lidé své preference, mohou chtít při stejné ceně kupovat jiné množství. Změna vlastní ceny výrobku za jinak stejných podmínek naopak znamená pohyb po původní křivce."
+    ],
+    "memory": "Preference posouvají poptávku."
+  },
+  {
+    "id": 449,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · ZSV, Sociální práce · úloha 97 · str. 11 (PDF 245)",
+    "sourcePages": "11 (PDF 245)",
+    "question": "Která změna může zvyšovat produktivitu práce?",
+    "title": "Lepší dovednosti, nástroje a organizace práce",
+    "options": [
+      "Pouhé prodloužení čekání bez změny výsledku",
+      "Záměrné zhoršení pracovních nástrojů",
+      "Lepší dovednosti, nástroje a organizace práce",
+      "Omezení všech potřebných informací"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Produktivita porovnává výsledek s vloženou prací. Kvalitnější vybavení nebo vhodný postup mohou umožnit stejný výsledek s menším časem či větší výsledek ve stejném čase."
+    ],
+    "memory": "Produktivita je výsledek vzhledem k práci."
+  },
+  {
+    "id": 450,
+    "category": "Společenské vědy",
+    "bookRef": "2019 · ZSV, Sociální práce · úloha 99 · str. 11 (PDF 245)",
+    "sourcePages": "11 (PDF 245)",
+    "question": "Co znamená tržní rovnováha v základním modelu jednoho statku?",
+    "title": "Při dané ceně se poptávané a nabízené množství rovnají",
+    "options": [
+      "Všechny výrobky mají stejnou cenu",
+      "Kupující chtějí nulové množství",
+      "Při dané ceně se poptávané a nabízené množství rovnají",
+      "Stát musí vyrábět veškeré zboží"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Za rovnovážnou cenu nevzniká v modelu tlak z přebytku ani z nedostatku. Změna podmínek může tuto rovnováhu posunout."
+    ],
+    "memory": "Rovnováha srovná nabídnuté a poptávané množství."
+  }
+]

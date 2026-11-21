@@ -1,0 +1,952 @@
+[
+  {
+    "id": 351,
+    "category": "Všeobecná informovanost",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v3 · úloha 6 · str. 1 (PDF 80)",
+    "sourcePages": "1 (PDF 80)",
+    "question": "Kterou hodnotu zdůrazňuje křesťanská tradice péče o trpící jako milosrdnou lásku?",
+    "options": [
+      "Pomoc potřebnému z ohledu na jeho důstojnost",
+      "Výhradní přednost bohatým pacientům",
+      "Odmítání péče o cizince",
+      "Hodnocení člověka jen podle jeho výkonu"
+    ],
+    "answer": 0,
+    "title": "Pomoc potřebnému z ohledu na jeho důstojnost",
+    "paragraphs": [
+      "Milosrdná láska obrací pozornost k člověku, který potřebuje pomoc. V dějinách péče se tento ideál promítal například do podpory nemocných a chudých."
+    ],
+    "memory": "Milosrdenství vede k pomoci trpícímu."
+  },
+  {
+    "id": 352,
+    "category": "Všeobecná informovanost",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v3 · úloha 27 · str. 3 (PDF 82)",
+    "sourcePages": "3 (PDF 82)",
+    "question": "Co označuje zkratka CPU v počítači?",
+    "options": [
+      "Operační paměť RAM",
+      "Pevný disk",
+      "Síťový kabel",
+      "Procesor"
+    ],
+    "answer": 3,
+    "title": "Procesor",
+    "paragraphs": [
+      "Procesor vykonává instrukce programů a zpracovává data. K práci využívá další součásti včetně operační paměti, která drží právě používané informace."
+    ],
+    "memory": "CPU vykonává instrukce."
+  },
+  {
+    "id": 353,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 3 · str. 1 (PDF 103)",
+    "sourcePages": "1 (PDF 103)",
+    "question": "Která svalovina typicky vytváří pomalejší a déle trvající stahy ve stěně střeva?",
+    "options": [
+      "Kosterní svalovina paže",
+      "Kosterní svalovina lýtka",
+      "Hladká",
+      "Kosterní svalovina jazyka"
+    ],
+    "answer": 2,
+    "title": "Hladká",
+    "paragraphs": [
+      "Hladké svalové buňky mohou udržovat stah dlouho a s pomalejším průběhem než rychlá kosterní vlákna. Konkrétní rychlost závisí na typu svalu a podmínkách."
+    ],
+    "memory": "Hladký sval umí pracovat pomalu a vytrvale."
+  },
+  {
+    "id": 354,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 6 · str. 1 (PDF 103)",
+    "sourcePages": "1 (PDF 103)",
+    "question": "Která skupina krevních buněk zahrnuje buňky aktivně se účastnící zánětlivé obrany?",
+    "options": [
+      "Erytrocyty",
+      "Leukocyty",
+      "Krevní destičky jako jediná imunitní složka",
+      "Pouze předchůdci erytrocytů"
+    ],
+    "answer": 1,
+    "title": "Leukocyty",
+    "paragraphs": [
+      "Leukocyty mohou rozpoznávat nebezpečí, přicházet do postižené tkáně a reagovat na původce poškození. Jednotlivé typy přitom mají odlišné úlohy."
+    ],
+    "memory": "Leuko patří k obraně."
+  },
+  {
+    "id": 355,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 10 · str. 2 (PDF 104)",
+    "sourcePages": "2 (PDF 104)",
+    "question": "Ve které části orgánu vzniká aldosteron?",
+    "options": [
+      "V kůře nadledviny",
+      "Ve dřeni nadledviny",
+      "V zadním laloku hypofýzy",
+      "V ledvinné pánvičce"
+    ],
+    "answer": 0,
+    "title": "V kůře nadledviny",
+    "paragraphs": [
+      "Kůra nadledvin tvoří steroidní hormony včetně aldosteronu. Ten ovlivňuje hospodaření se sodíkem a draslíkem především působením na ledviny."
+    ],
+    "memory": "Aldosteron vzniká v kůře nadledviny."
+  },
+  {
+    "id": 356,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 11 · str. 2 (PDF 104)",
+    "sourcePages": "2 (PDF 104)",
+    "question": "Který výběžek typického neuronu vede výstupní signál k dalším buňkám?",
+    "options": [
+      "Axon",
+      "Dendrit jako hlavní výstupní dráha",
+      "Jaderný obal",
+      "Jadérko"
+    ],
+    "answer": 0,
+    "title": "Axon",
+    "paragraphs": [
+      "Axon přenáší vzruch směrem ke svým zakončením. Tam může neuron předat informaci jiné nervové buňce, svalu nebo žláze."
+    ],
+    "memory": "Axon vede zprávu k zakončení."
+  },
+  {
+    "id": 357,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 13 · str. 2 (PDF 104)",
+    "sourcePages": "2 (PDF 104)",
+    "question": "Který popis vystihuje kost jako orgán?",
+    "options": [
+      "Pouze soubor minerálních krystalů bez buněk",
+      "Pouze kostní dřeň",
+      "Pouze kloubní chrupavka",
+      "Kostní tkáň s obaly, kostní dření, cévami a nervy"
+    ],
+    "answer": 3,
+    "title": "Kostní tkáň s obaly, kostní dření, cévami a nervy",
+    "paragraphs": [
+      "Celá kost zahrnuje více struktur než samotnou tvrdou kostní tkáň. Cévy ji vyživují, dřeň vyplňuje vnitřní prostory a obaly se podílejí na obnově."
+    ],
+    "memory": "Kost je živý orgán."
+  },
+  {
+    "id": 358,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 16 · str. 2 (PDF 104)",
+    "sourcePages": "2 (PDF 104)",
+    "question": "Co slinné žlázy odvádějí svými vývody do úst?",
+    "options": [
+      "Krevní plazmu se všemi krvinkami",
+      "Žluč tvořenou ve slinných buňkách",
+      "Sliny obsahující vodu, ionty a bílkoviny",
+      "Pouze čistý olej"
+    ],
+    "answer": 2,
+    "title": "Sliny obsahující vodu, ionty a bílkoviny",
+    "paragraphs": [
+      "Sliny zvlhčují sousto a obsahují mimo jiné enzymy a ochranné bílkoviny. Vývody dopraví sekret do úst, kde může začít působit."
+    ],
+    "memory": "Sliny zvlhčí a pomohou zpracovat sousto."
+  },
+  {
+    "id": 359,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 15 · str. 2 (PDF 104)",
+    "sourcePages": "2 (PDF 104)",
+    "question": "Který list pleury těsně pokrývá povrch plíce?",
+    "options": [
+      "Pohrudnice vystýlající hrudní stěnu",
+      "Poplicnice",
+      "Pobřišnice",
+      "Osrdečník"
+    ],
+    "answer": 1,
+    "title": "Poplicnice",
+    "paragraphs": [
+      "Pleura má dva navazující listy. Viscerální list neboli poplicnice leží na plíci, parietální list neboli pohrudnice vystýlá hrudní stěnu."
+    ],
+    "memory": "Poplicnice leží po plíci."
+  },
+  {
+    "id": 360,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 19 · str. 3 (PDF 105)",
+    "sourcePages": "3 (PDF 105)",
+    "question": "Co obsahuje zubní dřeň v dutině živého zubu?",
+    "options": [
+      "Vazivo, cévy a nervy",
+      "Pouze pevné krystaly skloviny",
+      "Pouze vzduch",
+      "Pouze kloubní tekutinu"
+    ],
+    "answer": 0,
+    "title": "Vazivo, cévy a nervy",
+    "paragraphs": [
+      "Dřeň vyživuje živé části zubu a obsahuje nervová vlákna. Zub tedy uvnitř zahrnuje měkkou živou tkáň i přes velmi tvrdý povrch korunky."
+    ],
+    "memory": "Uvnitř zubu jsou cévy a nervy."
+  },
+  {
+    "id": 361,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 19 · str. 3 (PDF 105)",
+    "sourcePages": "3 (PDF 105)",
+    "question": "Která vysoce mineralizovaná tkáň pokrývá povrch zubní korunky?",
+    "options": [
+      "Sklovina",
+      "Cement kořene",
+      "Zubní dřeň",
+      "Sliznice"
+    ],
+    "answer": 0,
+    "title": "Sklovina",
+    "paragraphs": [
+      "Sklovina chrání korunku při kousání. Pod ní leží zubovina, zatímco kořen pokrývá jiná tkáň, cement. Celý zub proto není tvořen jedinou nejtvrdší tkání."
+    ],
+    "memory": "Korunku kryje sklovina."
+  },
+  {
+    "id": 362,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 17 · str. 3 (PDF 105)",
+    "sourcePages": "3 (PDF 105)",
+    "question": "Kde v míše leží těla motorických neuronů vysílajících axony ke kosterním svalům?",
+    "options": [
+      "V zadních kořenech jako senzorická ganglia",
+      "Pouze v bílé hmotě zadních provazců",
+      "Uvnitř centrálního kanálku",
+      "V předních rozích šedé hmoty"
+    ],
+    "answer": 3,
+    "title": "V předních rozích šedé hmoty",
+    "paragraphs": [
+      "Přední rohy jsou částí vnitřní šedé hmoty. Axony těchto motorických neuronů odcházejí předními kořeny a pokračují ke svalům."
+    ],
+    "memory": "Přední roh vysílá motorický výstup."
+  },
+  {
+    "id": 363,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 24 · str. 3 (PDF 105)",
+    "sourcePages": "3 (PDF 105)",
+    "question": "Co v běžném zápisu krevního tlaku 120/80 mmHg označuje číslo 120?",
+    "options": [
+      "Diastolický tlak",
+      "Počet tepů za minutu",
+      "Systolický tlak",
+      "Objem krve v mililitrech"
+    ],
+    "answer": 2,
+    "title": "Systolický tlak",
+    "paragraphs": [
+      "Vyšší tlak vzniká během vypuzování krve ze srdeční komory do tepen. Nižší hodnota popisuje tlak v období mezi srdečními stahy."
+    ],
+    "memory": "První číslo je systolické."
+  },
+  {
+    "id": 364,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 25 · str. 3 (PDF 105)",
+    "sourcePages": "3 (PDF 105)",
+    "question": "Které dva sekrety vstupují svými hlavními vývody do dvanáctníku?",
+    "options": [
+      "Pot a slzy",
+      "Žluč a pankreatická šťáva",
+      "Moč a míza",
+      "Sliny a mozkomíšní mok"
+    ],
+    "answer": 1,
+    "title": "Žluč a pankreatická šťáva",
+    "paragraphs": [
+      "Dvanáctník přijímá obsah žaludku a přimíchává k němu další látky potřebné pro trávení. Žluč pomáhá zpracování tuků a pankreatická šťáva přináší enzymy i hydrogenuhličitan."
+    ],
+    "memory": "Do dvanáctníku přichází žluč i šťáva slinivky."
+  },
+  {
+    "id": 365,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 28 · str. 4 (PDF 106)",
+    "sourcePages": "4 (PDF 106)",
+    "question": "Která dvojice kostí tvoří bérec?",
+    "options": [
+      "Holenní a lýtková",
+      "Stehenní a holenní",
+      "Vřetenní a loketní",
+      "Pažní a lýtková"
+    ],
+    "answer": 0,
+    "title": "Holenní a lýtková",
+    "paragraphs": [
+      "Bérec leží mezi kolenem a hlezenním kloubem. Mohutnější holenní kost leží na vnitřní straně a štíhlejší lýtková na vnější."
+    ],
+    "memory": "Tibia uvnitř, fibula zevně."
+  },
+  {
+    "id": 366,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 31 · str. 4 (PDF 106)",
+    "sourcePages": "4 (PDF 106)",
+    "question": "Která látka se za normálních okolností při běžném vyšetření v moči neprokazuje?",
+    "options": [
+      "Bilirubin",
+      "Močovina",
+      "Kreatinin",
+      "Kyselina močová"
+    ],
+    "answer": 0,
+    "title": "Bilirubin",
+    "paragraphs": [
+      "Močí se běžně odvádějí některé odpadní látky. Bilirubin je žlučové barvivo a jeho průkaz v moči patří k odchylkám, jejichž význam se posuzuje v souvislostech."
+    ],
+    "memory": "Bilirubin do běžného nálezu moči nepatří."
+  },
+  {
+    "id": 367,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 34 · str. 4 (PDF 106)",
+    "sourcePages": "4 (PDF 106)",
+    "question": "Ve kterém orgánu ženy rostou folikuly obsahující oocyty?",
+    "options": [
+      "V děloze",
+      "V močovém měchýři",
+      "V pochvě",
+      "Ve vaječníku"
+    ],
+    "answer": 3,
+    "title": "Ve vaječníku",
+    "paragraphs": [
+      "Folikul tvoří oocyt a okolní podpůrné buňky. Během cyklu některé folikuly rostou a jeden z nich může dospět k ovulaci."
+    ],
+    "memory": "Oocyt zraje ve folikulu vaječníku."
+  },
+  {
+    "id": 368,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 35 · str. 5 (PDF 107)",
+    "sourcePages": "5 (PDF 107)",
+    "question": "Se kterou kostí se dolní čelist kloubně spojuje?",
+    "options": [
+      "S horní čelistí",
+      "S jazylkou",
+      "Se spánkovou kostí",
+      "S nosní kostí"
+    ],
+    "answer": 2,
+    "title": "Se spánkovou kostí",
+    "paragraphs": [
+      "Hlavice dolní čelisti zapadá do kloubní oblasti spánkové kosti. Tento kloub umožňuje otvírání úst i další pohyby potřebné ke žvýkání."
+    ],
+    "memory": "Čelistní kloub spojuje mandibulu se spánkovou kostí."
+  },
+  {
+    "id": 369,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 37 · str. 5 (PDF 107)",
+    "sourcePages": "5 (PDF 107)",
+    "question": "Co je ledvinný glomerulus?",
+    "options": [
+      "Vývod z měchýře",
+      "Klubíčko kapilár v ledvinném tělísku",
+      "Dutina pro hotovou moč za ledvinou",
+      "Shluk neuronů v míše"
+    ],
+    "answer": 1,
+    "title": "Klubíčko kapilár v ledvinném tělísku",
+    "paragraphs": [
+      "Krev v těchto drobných cévách proudí kolem filtrační bariéry. Část vody a malých látek přes ni přechází do prostoru Bowmanova pouzdra."
+    ],
+    "memory": "Glomerulus je cévní filtr."
+  },
+  {
+    "id": 370,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 38 · str. 5 (PDF 107)",
+    "sourcePages": "5 (PDF 107)",
+    "question": "Která trubice vede od dělohy směrem k oblasti vaječníku a má volný břišní otvor?",
+    "options": [
+      "Vejcovod",
+      "Močovod",
+      "Močová trubice",
+      "Žlučovod"
+    ],
+    "answer": 0,
+    "title": "Vejcovod",
+    "paragraphs": [
+      "Vejcovod navazuje na děložní dutinu a na opačném konci se otevírá do pobřišnicové dutiny poblíž vaječníku. S vaječníkem tedy netvoří uzavřenou souvislou trubku."
+    ],
+    "memory": "Vejcovod se u vaječníku otevírá volně."
+  },
+  {
+    "id": 371,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 39 · str. 5 (PDF 107)",
+    "sourcePages": "5 (PDF 107)",
+    "question": "Jak se nazývá otočení předloktí, při kterém při ohnutém lokti obrátíš dlaň vzhůru?",
+    "options": [
+      "Supinace",
+      "Pronace",
+      "Flexe lokte",
+      "Extenze lokte"
+    ],
+    "answer": 0,
+    "title": "Supinace",
+    "paragraphs": [
+      "Při supinaci se vřetenní kost vrací do polohy více souběžné s loketní. Při pronaci naopak předloktí otočíš dlaní dolů."
+    ],
+    "memory": "Supinovaná dlaň unese misku polévky."
+  },
+  {
+    "id": 372,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 40 · str. 5 (PDF 107)",
+    "sourcePages": "5 (PDF 107)",
+    "question": "Kterou kost běžně nahmatáš pod kůží na přední straně bérce?",
+    "options": [
+      "Lýtkovou kost jako celý přední hřeben",
+      "Vřetenní kost",
+      "Stehenní kost",
+      "Holenní kost"
+    ],
+    "answer": 3,
+    "title": "Holenní kost",
+    "paragraphs": [
+      "Přední hrana holenní kosti leží jen pod tenkou vrstvou měkkých tkání. Proto je na bérci dobře hmatná a úder do této oblasti bývá nepříjemný."
+    ],
+    "memory": "Přední hrana bérce patří tibii."
+  },
+  {
+    "id": 373,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 42 · str. 5 (PDF 107)",
+    "sourcePages": "5 (PDF 107)",
+    "question": "Kde leží aortální poloměsíčitá chlopeň?",
+    "options": [
+      "Mezi levou síní a levou komorou",
+      "Mezi pravou síní a pravou komorou",
+      "Mezi levou komorou a aortou",
+      "Mezi oběma síněmi"
+    ],
+    "answer": 2,
+    "title": "Mezi levou komorou a aortou",
+    "paragraphs": [
+      "Při vypuzování krve se otevře směrem do aorty. Po poklesu tlaku v komoře se uzavře a brání návratu krve do ní."
+    ],
+    "memory": "Aortální chlopeň hlídá výstup z levé komory."
+  },
+  {
+    "id": 374,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 43 · str. 5 (PDF 107)",
+    "sourcePages": "5 (PDF 107)",
+    "question": "Co se rozumí celým srdečním cyklem?",
+    "options": [
+      "Pouze stah levé síně",
+      "Posloupnost stahů a uvolnění síní i komor mezi dvěma tepy",
+      "Pouze uvolnění pravé komory",
+      "Jednorázový průchod krve celým tělem"
+    ],
+    "answer": 1,
+    "title": "Posloupnost stahů a uvolnění síní i komor mezi dvěma tepy",
+    "paragraphs": [
+      "Během cyklu se mění tlaky v dutinách a podle nich se otevírají a zavírají chlopně. Síňová a komorová činnost na sebe časově navazují."
+    ],
+    "memory": "Srdeční cyklus zahrnuje síně i komory."
+  },
+  {
+    "id": 375,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 45 · str. 6 (PDF 108)",
+    "sourcePages": "6 (PDF 108)",
+    "question": "Co charakterizuje aterosklerotický plát v tepně?",
+    "options": [
+      "Změny cévní stěny s hromaděním lipidů a zánětlivou reakcí",
+      "Pouze krátký stah zdravého svalu v cévě",
+      "Vrozené chybění všech žilních chlopní",
+      "Sraženinu vznikající výhradně v plicním sklípku"
+    ],
+    "answer": 0,
+    "title": "Změny cévní stěny s hromaděním lipidů a zánětlivou reakcí",
+    "paragraphs": [
+      "Plát se vyvíjí ve stěně tepny a může zužovat její průsvit. Při narušení jeho povrchu může vzniknout sraženina, která průtok dále omezí."
+    ],
+    "memory": "Plát roste ve stěně tepny."
+  },
+  {
+    "id": 376,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 48 · str. 6 (PDF 108)",
+    "sourcePages": "6 (PDF 108)",
+    "question": "Odkud získává kloubní chrupavka dospělého hlavní část živin pro svůj povrch?",
+    "options": [
+      "Difuzí z kloubní tekutiny",
+      "Přímým průtokem krve hustou sítí cév v chrupavce",
+      "Z průdušnice",
+      "Z dutiny kostní dřeně otevřené do kloubu"
+    ],
+    "answer": 0,
+    "title": "Difuzí z kloubní tekutiny",
+    "paragraphs": [
+      "Kloubní chrupavka nemá vlastní běžnou cévní síť. Rozpuštěné látky do ní přestupují z okolního prostředí, především z kloubní tekutiny."
+    ],
+    "memory": "Chrupavka přijímá živiny difuzí."
+  },
+  {
+    "id": 377,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 49 · str. 6 (PDF 108)",
+    "sourcePages": "6 (PDF 108)",
+    "question": "Co vystihuje buněčná teorie o stavbě organismů?",
+    "options": [
+      "Každá buňka je nejmenší existující částice hmoty",
+      "Každý organismus obsahuje jen jednu buňku",
+      "Všechny buňky mají přesně stejnou funkci",
+      "Buňka je základní stavební a funkční jednotkou buněčných organismů"
+    ],
+    "answer": 3,
+    "title": "Buňka je základní stavební a funkční jednotkou buněčných organismů",
+    "paragraphs": [
+      "Buňky uskutečňují životní děje a mohou tvořit spolupracující celky. U mnohobuněčných organismů se specializují a jejich souhrou vznikají tkáně a orgány."
+    ],
+    "memory": "Životní děje probíhají v buňkách."
+  },
+  {
+    "id": 378,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Zdravotnický záchranář · Biologie · úloha 50 · str. 6 (PDF 108)",
+    "sourcePages": "6 (PDF 108)",
+    "question": "Který prvek přijímá tělo ve větším množství než typické stopové prvky a řadí se mezi makroprvky?",
+    "options": [
+      "Jód",
+      "Zinek",
+      "Vápník",
+      "Selen"
+    ],
+    "answer": 2,
+    "title": "Vápník",
+    "paragraphs": [
+      "Vápník je potřebný mimo jiné pro kostní minerál a buněčnou signalizaci. Označení stopový se týká potřebného množství, nikoli důležitosti pro život."
+    ],
+    "memory": "Vápník je makroprvek, i stopové prvky jsou nezbytné."
+  },
+  {
+    "id": 379,
+    "category": "Všeobecná informovanost",
+    "bookRef": "2019 · Zdravotnický záchranář · Všeobecná informovanost · úloha 5 · str. 1 (PDF 109)",
+    "sourcePages": "1 (PDF 109)",
+    "question": "Jak se nazývá pojetí vysvětlující svět dvěma základními odlišnými principy?",
+    "options": [
+      "Monismus",
+      "Dualismus",
+      "Ateismus",
+      "Empirismus"
+    ],
+    "answer": 1,
+    "title": "Dualismus",
+    "paragraphs": [
+      "Konkrétní dualismus může rozlišovat například dobro a zlo jako protikladné principy. Obecný pojem označuje dvojici základů, samotný obsah dvojice se mezi učeními liší."
+    ],
+    "memory": "Duo znamená dva."
+  },
+  {
+    "id": 380,
+    "category": "Všeobecná informovanost",
+    "bookRef": "2019 · Zdravotnický záchranář · Všeobecná informovanost · úloha 11 · str. 2 (PDF 110)",
+    "sourcePages": "2 (PDF 110)",
+    "question": "Co v pracovním kontextu označuje curriculum vitae neboli CV?",
+    "options": [
+      "Životopis",
+      "Pracovní smlouvu",
+      "Výplatní pásku",
+      "Potvrzení o zaplacení daně"
+    ],
+    "answer": 0,
+    "title": "Životopis",
+    "paragraphs": [
+      "CV přehledně shrnuje vzdělání, zkušenosti a dovednosti člověka. Má příjemci pomoci poznat jeho dosavadní dráhu a předpoklady pro danou práci."
+    ],
+    "memory": "CV shrnuje životní a pracovní dráhu."
+  },
+  {
+    "id": 381,
+    "category": "Všeobecná informovanost",
+    "bookRef": "2019 · Zdravotnický záchranář · Všeobecná informovanost · úloha 20 · str. 3 (PDF 111)",
+    "sourcePages": "3 (PDF 111)",
+    "question": "Pro které právní odvětví je typická zásada rovného postavení stran a smluvní volnosti?",
+    "options": [
+      "Soukromé právo",
+      "Trestní právo při ukládání trestu",
+      "Správní právo při ukládání pokuty",
+      "Ústavní právo při vymezení státní moci"
+    ],
+    "answer": 0,
+    "title": "Soukromé právo",
+    "paragraphs": [
+      "Při soukromoprávním vztahu jedna strana zásadně nevystupuje jako úřad, který druhé autoritativně přikazuje. Smluvní volnost se uplatňuje v mezích právních pravidel."
+    ],
+    "memory": "Soukromé právo vychází z rovnosti stran."
+  },
+  {
+    "id": 382,
+    "category": "Všeobecná informovanost",
+    "bookRef": "2019 · Zdravotnický záchranář · Všeobecná informovanost · úloha 30 · str. 4 (PDF 112)",
+    "sourcePages": "4 (PDF 112)",
+    "question": "Která dvojice správně rozlišuje hardware a software?",
+    "options": [
+      "Legální a nelegální programy",
+      "Placené a bezplatné soubory",
+      "Internetové a místní zprávy",
+      "Fyzické součásti počítače a jeho programové vybavení"
+    ],
+    "answer": 3,
+    "title": "Fyzické součásti počítače a jeho programové vybavení",
+    "paragraphs": [
+      "Klávesnice nebo procesor jsou hmotné součásti, tedy hardware. Operační systém a aplikace jsou programy, které na těchto součástech běží."
+    ],
+    "memory": "HW můžeš držet, SW jsou programy."
+  },
+  {
+    "id": 383,
+    "category": "Všeobecná informovanost",
+    "bookRef": "2019 · Zdravotnický záchranář · Všeobecná informovanost · úloha 31 · str. 4 (PDF 112)",
+    "sourcePages": "4 (PDF 112)",
+    "question": "Co označuje název rozložení klávesnice QWERTZ?",
+    "options": [
+      "Počet kláves na numerické části",
+      "Typ napájecího konektoru",
+      "Pořadí prvních šesti písmen v horní písmenné řadě",
+      "Velikost obrazovky v pixelech"
+    ],
+    "answer": 2,
+    "title": "Pořadí prvních šesti písmen v horní písmenné řadě",
+    "paragraphs": [
+      "Název je vytvořen přímo ze sousedních kláves. U rozložení QWERTY je na odpovídajícím místě místo Z písmeno Y."
+    ],
+    "memory": "QWERTZ přečteš na horní řadě."
+  },
+  {
+    "id": 384,
+    "category": "Všeobecná informovanost",
+    "bookRef": "2019 · Zdravotnický záchranář · Všeobecná informovanost · úloha 33 · str. 4 (PDF 112)",
+    "sourcePages": "4 (PDF 112)",
+    "question": "Ve kterém roce proběhlo oficiální připojení Československa k internetu na pražském ČVUT?",
+    "options": [
+      "1989",
+      "1992",
+      "1994",
+      "2004"
+    ],
+    "answer": 1,
+    "title": "1992",
+    "paragraphs": [
+      "Událost se konala v únoru 1992, tedy ještě před rozdělením Československa. Název státu je proto pro přesné historické zařazení důležitý."
+    ],
+    "memory": "Internet na ČVUT patří do roku 1992."
+  },
+  {
+    "id": 385,
+    "category": "Všeobecná informovanost",
+    "bookRef": "2019 · Zdravotnický záchranář · Všeobecná informovanost · úloha 40 · str. 5 (PDF 113)",
+    "sourcePages": "5 (PDF 113)",
+    "question": "Student přizpůsobí svůj veřejný názor většině skupiny, aby nevyčníval. Jak se tento jev označuje?",
+    "options": [
+      "Konformita",
+      "Sociální exkluze",
+      "Emigrace",
+      "Sociometrie"
+    ],
+    "answer": 0,
+    "title": "Konformita",
+    "paragraphs": [
+      "Konformita znamená přizpůsobení skupinovým normám nebo tlaku. Může být vidět v chování i tehdy, když si člověk soukromě ponechá jiný názor."
+    ],
+    "memory": "Konformita se přizpůsobuje skupině."
+  },
+  {
+    "id": 386,
+    "category": "Všeobecná informovanost",
+    "bookRef": "2019 · Zdravotnický záchranář · Všeobecná informovanost · úloha 42 · str. 5 (PDF 113)",
+    "sourcePages": "5 (PDF 113)",
+    "question": "Člověk připisuje druhým nižší hodnotu a schopnosti podle jejich domnělého rasového původu. O jaký postoj jde?",
+    "options": [
+      "Rasismus",
+      "Empatii",
+      "Kulturní výměnu",
+      "Sociometrii"
+    ],
+    "answer": 0,
+    "title": "Rasismus",
+    "paragraphs": [
+      "Rasismus spojuje původ či vnímané tělesné znaky s předpokládanou hierarchií lidské hodnoty. Takové předsudky mohou vést k nerovnému zacházení."
+    ],
+    "memory": "Rasismus hodnotí lidi podle přisouzeného původu."
+  },
+  {
+    "id": 387,
+    "category": "Všeobecná informovanost",
+    "bookRef": "2019 · Zdravotnický záchranář · Všeobecná informovanost · úloha 43 · str. 5 (PDF 113)",
+    "sourcePages": "5 (PDF 113)",
+    "question": "Který rys patří k Weberovu ideálnímu typu byrokracie?",
+    "options": [
+      "Rozhodování výhradně podle příbuzenství",
+      "Zákaz písemných záznamů",
+      "Náhodné střídání pravomocí bez pravidel",
+      "Jasné kompetence, pravidla a neosobní úřední postupy"
+    ],
+    "answer": 3,
+    "title": "Jasné kompetence, pravidla a neosobní úřední postupy",
+    "paragraphs": [
+      "Ideální typ je analytický model. Popisuje organizaci, ve které se úřad váže k určené funkci a rozhodnutí mají vycházet z pravidel, nikoli z osobní obliby."
+    ],
+    "memory": "Byrokracie v modelu stojí na kompetencích a pravidlech."
+  },
+  {
+    "id": 388,
+    "category": "Všeobecná informovanost",
+    "bookRef": "2019 · Zdravotnický záchranář · Všeobecná informovanost · úloha 44 · str. 5 (PDF 113)",
+    "sourcePages": "5 (PDF 113)",
+    "question": "Který příklad vystihuje primární prevenci rizikového chování?",
+    "options": [
+      "Léčba již rozvinuté závislosti",
+      "Rehabilitace trvalých následků problému",
+      "Program posilující dovednosti dětí dříve, než se problém rozvine",
+      "Řešení opakovaných komplikací po léčbě"
+    ],
+    "answer": 2,
+    "title": "Program posilující dovednosti dětí dříve, než se problém rozvine",
+    "paragraphs": [
+      "Primární prevence se zaměřuje na předcházení vzniku problému. Rozdíl je v načasování vůči jeho rozvoji a cíli intervence."
+    ],
+    "memory": "Primární prevence působí před vznikem problému."
+  },
+  {
+    "id": 389,
+    "category": "Všeobecná informovanost",
+    "bookRef": "2019 · Zdravotnický záchranář · Všeobecná informovanost · úloha 45 · str. 6 (PDF 114)",
+    "sourcePages": "6 (PDF 114)",
+    "question": "Jakou otázku typicky zkoumá ekonomie?",
+    "options": [
+      "Jaké organely obsahuje neuron",
+      "Jak lidé rozhodují o využití omezených zdrojů",
+      "Kolik obratlů tvoří krk",
+      "Jaký tvar má buňka hladkého svalu"
+    ],
+    "answer": 1,
+    "title": "Jak lidé rozhodují o využití omezených zdrojů",
+    "paragraphs": [
+      "Zdroje mají různá možná využití a obvykle nestačí na všechny potřeby. Ekonomie proto studuje volby, jejich důsledky a fungování směny a výroby."
+    ],
+    "memory": "Omezené zdroje vyžadují volbu."
+  },
+  {
+    "id": 390,
+    "category": "Všeobecná informovanost",
+    "bookRef": "2019 · Zdravotnický záchranář · Všeobecná informovanost · úloha 47 · str. 6 (PDF 114)",
+    "sourcePages": "6 (PDF 114)",
+    "question": "Co především zachycuje státní rozpočet?",
+    "options": [
+      "Plán příjmů a výdajů státu na rozpočtové období",
+      "Pouze rozdíl vývozu a dovozu",
+      "Pouze hotovost všech domácností",
+      "Celkovou hodnotu veškerého soukromého majetku"
+    ],
+    "answer": 0,
+    "title": "Plán příjmů a výdajů státu na rozpočtové období",
+    "paragraphs": [
+      "Rozpočet spojuje očekávané příjmy, například daně, s plánovanými výdaji. Jeho saldo ukazuje rozdíl mezi těmito dvěma částkami."
+    ],
+    "memory": "Rozpočet má příjmovou a výdajovou stranu."
+  },
+  {
+    "id": 391,
+    "category": "Všeobecná informovanost",
+    "bookRef": "2019 · Zdravotnický záchranář · Všeobecná informovanost · úloha 48 · str. 6 (PDF 114)",
+    "sourcePages": "6 (PDF 114)",
+    "question": "Jak se v základním ekonomickém modelu nazývá odměna za práci zaměstnance?",
+    "options": [
+      "Mzda",
+      "Úrok",
+      "Dividenda",
+      "Pozemková renta"
+    ],
+    "answer": 0,
+    "title": "Mzda",
+    "paragraphs": [
+      "Práce je jeden z výrobních faktorů. Mzda je odměnou za její poskytování, zatímco úrok se vztahuje k poskytnutí kapitálu a renta například k užití půdy."
+    ],
+    "memory": "Práci odpovídá mzda."
+  },
+  {
+    "id": 392,
+    "category": "Všeobecná informovanost",
+    "bookRef": "2019 · Zdravotnický záchranář · Všeobecná informovanost · úloha 49 · str. 6 (PDF 114)",
+    "sourcePages": "6 (PDF 114)",
+    "question": "Kdo odpovídá základnímu statistickému pojetí nezaměstnaného?",
+    "options": [
+      "Každý člověk bez placené práce bez dalších podmínek",
+      "Každé dítě",
+      "Každý student bez ohledu na hledání práce",
+      "Člověk bez práce, který práci aktivně hledá a může nastoupit"
+    ],
+    "answer": 3,
+    "title": "Člověk bez práce, který práci aktivně hledá a může nastoupit",
+    "paragraphs": [
+      "Samotné chybění práce nestačí. Statistické vymezení pracuje také s aktivním hledáním a dostupností k nástupu. Evidence na úřadu je odlišné administrativní hledisko."
+    ],
+    "memory": "Bez práce, hledá ji a je připraven nastoupit."
+  },
+  {
+    "id": 393,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Radiologický asistent · Biologie · úloha 1 · str. 1 (PDF 123)",
+    "sourcePages": "1 (PDF 123)",
+    "question": "Co označuje spondylolýza?",
+    "options": [
+      "Zánět kloubní výstelky",
+      "Úbytek kostní hmoty v celém skeletu",
+      "Defekt v meziobratlové části oblouku obratle, označované pars interarticularis",
+      "Prohnutí zdravé hrudní páteře dozadu"
+    ],
+    "answer": 2,
+    "title": "Defekt v meziobratlové části oblouku obratle, označované pars interarticularis",
+    "paragraphs": [
+      "Pojem se vztahuje ke konkrétní části obratle. Není totožný se spondylolistézou, která znamená posun obratle vůči sousednímu a může s defektem souviset."
+    ],
+    "memory": "Lýza je defekt, listéza posun."
+  },
+  {
+    "id": 394,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Radiologický asistent · Biologie · úloha 9 · str. 2 (PDF 124)",
+    "sourcePages": "2 (PDF 124)",
+    "question": "Která z uvedených tkání patří mezi pojivové tkáně?",
+    "options": [
+      "Nervový epitel sítnice",
+      "Tuková tkáň",
+      "Kosterní svalová tkáň",
+      "Krycí epitel pokožky"
+    ],
+    "answer": 1,
+    "title": "Tuková tkáň",
+    "paragraphs": [
+      "Tuková tkáň je specializované pojivo s buňkami ukládajícími tuk. Podílí se na zásobě energie, výplni a dalších funkcích, není pouhým volným tukem mezi orgány."
+    ],
+    "memory": "I tuková tkáň patří k pojivům."
+  },
+  {
+    "id": 395,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Radiologický asistent · Biologie · úloha 11 · str. 2 (PDF 124)",
+    "sourcePages": "2 (PDF 124)",
+    "question": "Čím střevní řasy a klky pomáhají vstřebávání?",
+    "options": [
+      "Zvětšují plochu sliznice pro přestup látek",
+      "Nahrazují všechny trávicí enzymy",
+      "Uzavírají celé střevo před průchodem potravy",
+      "Mění tenké střevo na kost"
+    ],
+    "answer": 0,
+    "title": "Zvětšují plochu sliznice pro přestup látek",
+    "paragraphs": [
+      "Zvrásněná plocha je větší než hladká trubice stejné délky. Na větší ploše může více buněk současně přenášet produkty trávení do organismu."
+    ],
+    "memory": "Řasy a klky přidávají plochu."
+  },
+  {
+    "id": 396,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Radiologický asistent · Biologie · úloha 12 · str. 2 (PDF 124)",
+    "sourcePages": "2 (PDF 124)",
+    "question": "Co vysvětluje, proč se u celé lidské páteře často uvádí 33–34 původních obratlů?",
+    "options": [
+      "Proměnlivý počet kostrčních obratlů při započtení srostlých úseků",
+      "Střídání pěti a sedmi krčních obratlů každý rok",
+      "Mizení všech hrudních obratlů v dospělosti",
+      "Přičítání žeber mezi obratle"
+    ],
+    "answer": 0,
+    "title": "Proměnlivý počet kostrčních obratlů při započtení srostlých úseků",
+    "paragraphs": [
+      "Při počtu celé páteře se započítávají i obratle srostlé v křížovou kost a kostrč. Počet kostrčních článků se mezi lidmi může lišit."
+    ],
+    "memory": "Celkový počet zahrnuje i srostlé články."
+  },
+  {
+    "id": 397,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Radiologický asistent · Biologie · úloha 14 · str. 2 (PDF 124)",
+    "sourcePages": "2 (PDF 124)",
+    "question": "Co jsou žilní varixy?",
+    "options": [
+      "Zúžené průdušky",
+      "Nové kapiláry uvnitř chrupavky",
+      "Normální tepenné chlopně",
+      "Rozšířené a vinuté žíly spojené s poruchou žilní stěny a často i chlopní"
+    ],
+    "answer": 3,
+    "title": "Rozšířené a vinuté žíly spojené s poruchou žilní stěny a často i chlopní",
+    "paragraphs": [
+      "Když se žíla rozšíří, chlopně nemusí dobře doléhat a krev se může vracet zpět. Zvýšený žilní tlak pak může problém dále podporovat."
+    ],
+    "memory": "Varix je rozšířená žíla."
+  },
+  {
+    "id": 398,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Radiologický asistent · Biologie · úloha 17 · str. 3 (PDF 125)",
+    "sourcePages": "3 (PDF 125)",
+    "question": "Jak se nazývá obor lékařství zaměřený na zdraví a nemoci dětí?",
+    "options": [
+      "Geriatrie",
+      "Patologie",
+      "Pediatrie",
+      "Embryologie"
+    ],
+    "answer": 2,
+    "title": "Pediatrie",
+    "paragraphs": [
+      "Děti se během růstu mění a mají jiné potřeby než dospělí. Pediatrie zahrnuje jejich péči i prevenci, embryologie zkoumá vývoj zárodku."
+    ],
+    "memory": "Pediatrie pečuje o děti."
+  },
+  {
+    "id": 399,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Radiologický asistent · Biologie · úloha 33 · str. 4 (PDF 126)",
+    "sourcePages": "4 (PDF 126)",
+    "question": "Kolik laloků mají typicky pravá a levá plíce?",
+    "options": [
+      "Pravá dva a levá tři",
+      "Pravá tři a levá dva",
+      "Obě pouze jeden",
+      "Obě čtyři"
+    ],
+    "answer": 1,
+    "title": "Pravá tři a levá dva",
+    "paragraphs": [
+      "Pravá plíce je rozdělena na horní, střední a dolní lalok. Levá má horní a dolní lalok a část prostoru na levé straně hrudníku zaujímá srdce."
+    ],
+    "memory": "Vpravo tři, vlevo dva."
+  },
+  {
+    "id": 400,
+    "category": "Biologie člověka",
+    "bookRef": "2019 · Radiologický asistent · Biologie · úloha 40 · str. 5 (PDF 127)",
+    "sourcePages": "5 (PDF 127)",
+    "question": "Které časové zařazení odpovídá závěru výskytu neandertálců v Evropě?",
+    "options": [
+      "Přibližně před 40 tisíci lety",
+      "Před 40 miliony lety",
+      "Před 4 miliardami let",
+      "Až ve středověku"
+    ],
+    "answer": 0,
+    "title": "Přibližně před 40 tisíci lety",
+    "paragraphs": [
+      "Neandertálci žili v období čtvrtohor a část doby se překrývali s moderními lidmi. Přesná chronologie jednotlivých nálezů se zkoumá, řád desítek tisíc let je však zásadně jiný než miliony."
+    ],
+    "memory": "Neandertálci patří k desítkám tisíc let, nikoli k dinosaurům."
+  }
+]

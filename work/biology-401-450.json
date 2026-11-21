@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 401,
+    "category": "Membránový potenciál",
+    "bookRef": "str. 110",
+    "sourcePages": "110",
+    "question": "Co označuje klidový membránový potenciál neuronu?",
+    "options": [
+      "Délku axonu měřenou v milimetrech",
+      "Rozdíl elektrického potenciálu mezi vnitřkem a vnějškem buňky v klidovém stavu",
+      "Množství glukózy ve všech neuronech dohromady",
+      "Rychlost průtoku krve mozkem"
+    ],
+    "answer": 1,
+    "title": "Membrána odděluje dvě elektricky odlišné strany",
+    "paragraphs": [
+      "Klidový membránový potenciál je elektrické napětí mezi vnitřní a vnější stranou buněčné membrány. Popisuje stav buňky před vznikem sledovaného signálu.",
+      "Představ si měření napětí mezi dvěma místy. Jedna měřicí elektroda je uvnitř buňky a druhá v okolní tekutině.",
+      "Nejde o rozdíl koncentrace glukózy ani o rychlost vedení vzruchu. Tyto veličiny mají jiný význam a jiné jednotky."
+    ],
+    "memory": "Klidový potenciál = napětí přes membránu v klidu."
+  },
+  {
+    "id": 402,
+    "category": "Membránový potenciál",
+    "bookRef": "str. 110",
+    "sourcePages": "110",
+    "question": "Co znamená záporné znaménko klidového membránového potenciálu neuronu?",
+    "options": [
+      "Neuron neobsahuje žádné kladně nabité ionty",
+      "V neuronu je záporná teplota",
+      "Vnitřek je elektricky zápornější než vnější prostředí použité jako reference",
+      "Vnějšek je vždy zápornější než vnitřek"
+    ],
+    "answer": 2,
+    "title": "Znaménko udává vztah k vnějšku",
+    "paragraphs": [
+      "Při běžném vyjadřování potenciálu bereme vnější prostředí jako referenci. Záporná hodnota znamená, že vnitřek neuronu má vůči němu nižší elektrický potenciál.",
+      "Představ si rozdíl výšek měřený vůči zvolenému výchozímu bodu. Znaménko říká směr rozdílu, nikoli nepřítomnost některého druhu částic.",
+      "Uvnitř jsou i kladné ionty, například draslík. Záporný potenciál neznamená, že v celé buňce existují jen záporné částice."
+    ],
+    "memory": "Minus uvnitř je míněn vůči vnějšku."
+  },
+  {
+    "id": 403,
+    "category": "Membránový potenciál",
+    "bookRef": "str. 110",
+    "sourcePages": "110",
+    "question": "Která hodnota představuje typický školní příklad klidového potenciálu neuronu?",
+    "options": [
+      "Přesně +70 V u všech neuronů",
+      "Vždy 0 mV u každé živé buňky",
+      "Přibližně −70 litrů",
+      "Přibližně −70 mV"
+    ],
+    "answer": 3,
+    "title": "Typická hodnota je příklad, ne univerzální konstanta",
+    "paragraphs": [
+      "Učebnice používá přibližně −70 mV jako příklad klidového potenciálu. Konkrétní hodnota se mezi typy buněk liší.",
+      "Představ si běžnou orientační hodnotu na stupnici, od které můžeš porovnávat změny. Nemusí být u každé buňky přesně stejná.",
+      "Milivolt je tisícina voltu. Záměna mV a V by tedy znamenala tisícinásobný rozdíl velikosti napětí."
+    ],
+    "memory": "Klid neuronu: často asi −70 mV."
+  },
+  {
+    "id": 404,
+    "category": "Membránový potenciál",
+    "bookRef": "str. 111",
+    "sourcePages": "111",
+    "question": "Jak se běžně liší koncentrace draselných iontů mezi vnitřkem a vnějškem neuronu?",
+    "options": [
+      "Koncentrace K⁺ je vyšší uvnitř než vně",
+      "K⁺ je přítomen pouze mimo buňku",
+      "Uvnitř ani vně není žádný draslík",
+      "Koncentrace K⁺ musí být vždy přesně stejná"
+    ],
+    "answer": 0,
+    "title": "Draslík je koncentrovanější uvnitř",
+    "paragraphs": [
+      "Uvnitř neuronu je za běžných podmínek vyšší koncentrace draselných iontů než v okolní tekutině. Tento rozdíl přispívá k elektrochemickým poměrům na membráně.",
+      "Představ si dvě oddělené nádoby s různým množstvím rozpuštěné látky na stejný objem. Po otevření vhodné cesty se může uplatnit koncentrační spád.",
+      "O skutečném pohybu iontu nerozhoduje pouze koncentrace. Protože má náboj, působí na něj také elektrická síla."
+    ],
+    "memory": "K⁺: vyšší koncentrace uvnitř."
+  },
+  {
+    "id": 405,
+    "category": "Membránový potenciál",
+    "bookRef": "str. 112",
+    "sourcePages": "112",
+    "question": "Jak se běžně liší koncentrace sodných iontů mezi vnitřkem a vnějškem neuronu?",
+    "options": [
+      "Sodík tvoří pouze nerozpustnou membránovou stěnu",
+      "Koncentrace Na⁺ je vyšší vně než uvnitř",
+      "Na⁺ je koncentrovanější výhradně uvnitř každého zdravého neuronu",
+      "Sodík není v tělesných tekutinách přítomen"
+    ],
+    "answer": 1,
+    "title": "Sodík má vyšší koncentraci vně",
+    "paragraphs": [
+      "V extracelulární tekutině je vyšší koncentrace sodných iontů než uvnitř neuronu. Při otevření příslušných kanálů může tento rozdíl podporovat vstup sodíku.",
+      "Představ si zásobu částic na vnější straně hranice. Pokud se otevře vhodná cesta, mohou podle elektrochemických podmínek přecházet dovnitř.",
+      "Rozložení sodíku je jiné než rozložení draslíku. Zapamatovat si oba ionty stejným směrem by vedlo k záměně."
+    ],
+    "memory": "Na⁺ hlavně venku, K⁺ hlavně uvnitř."
+  },
+  {
+    "id": 406,
+    "category": "Membránový potenciál",
+    "bookRef": "str. 110–112",
+    "sourcePages": "110–112",
+    "question": "Proč je pro vznik membránového potenciálu důležitá selektivní propustnost membrány?",
+    "options": [
+      "Membrána nesmí obsahovat žádné bílkoviny",
+      "Propustnost nemá na rozdělení nábojů žádný vliv",
+      "Různé ionty mohou přes membránu procházet různě snadno",
+      "Membrána musí bez rozdílu propouštět všechny částice stejně"
+    ],
+    "answer": 2,
+    "title": "Membrána nerozděluje všem stejné cesty",
+    "paragraphs": [
+      "Membrána má pro různé ionty rozdílnou propustnost. Spolu s jejich nerovnoměrným rozložením to umožňuje vznik elektrického napětí.",
+      "Představ si hranici s průchody pro vybrané částice. Když některé projdou snadněji než jiné, může dojít k malému oddělení nábojů.",
+      "Samotné rozdělení roztoků přepážkou bez odpovídajících vlastností ještě nevysvětluje všechny membránové děje. Důležité je, co bariéra propouští."
+    ],
+    "memory": "Selektivní membrána pouští různé ionty různě."
+  },
+  {
+    "id": 407,
+    "category": "Membránový potenciál",
+    "bookRef": "str. 111",
+    "sourcePages": "111",
+    "question": "Jak velká změna celkového počtu iontů je nutná ke vzniku napětí na membráně?",
+    "options": [
+      "Musí se přesunout všechny ionty z celé buňky",
+      "Musí zmizet veškerý draslík uvnitř neuronu",
+      "Celá cytoplazma se musí změnit na čisté elektrony",
+      "Stačí oddělení velmi malé části nábojů při membráně"
+    ],
+    "answer": 3,
+    "title": "Malé oddělení nábojů stačí",
+    "paragraphs": [
+      "Vznik membránového potenciálu vyžaduje oddělení jen velmi malé části nábojů. Celkové iontové složení velkých objemů tekutin se tím nemusí výrazně změnit.",
+      "Představ si drobnou nerovnováhu těsně po stranách tenké přepážky. Ta může vytvořit napětí, i když oba roztoky jako celek zůstávají téměř elektroneutrální.",
+      "Není přesné chápat záporný vnitřek tak, že každá část cytoplazmy má velký přebytek záporného náboje. Rozhodující je malé oddělení při membráně."
+    ],
+    "memory": "Napětí vytvoří malý přesun nábojů, ne vyprázdnění buňky."
+  },
+  {
+    "id": 408,
+    "category": "Membránový potenciál",
+    "bookRef": "str. 111",
+    "sourcePages": "111",
+    "question": "Co se v jednoduchém modelu děje, když K⁺ uniká po koncentračním spádu ven a vnitřek se stává zápornějším?",
+    "options": [
+      "Elektrická síla začne K⁺ přitahovat zpět a může vyvážit chemickou sílu",
+      "Zápornější vnitřek kladný K⁺ ještě více odpuzuje ven",
+      "Z K⁺ se automaticky stane záporný ion",
+      "Koncentrační spád přestane existovat už po odchodu jediného iontu"
+    ],
+    "answer": 0,
+    "title": "Dvě síly mohou působit proti sobě",
+    "paragraphs": [
+      "Koncentrační rozdíl může podporovat pohyb K⁺ ven. Rostoucí zápornost uvnitř ale přitahuje kladné ionty zpět, takže elektrický a chemický vliv mohou dosáhnout rovnováhy.",
+      "Představ si dvě protilehlé síly působící na stejnou částici. Výsledný směr závisí na jejich společném účinku.",
+      "Rovnováha pro jeden ion v tomto modelu není úplný popis všech iontů skutečného neuronu. Pomáhá ale pochopit elektrochemický princip."
+    ],
+    "memory": "Koncentrace žene K⁺ ven, záporný vnitřek ho přitahuje."
+  },
+  {
+    "id": 409,
+    "category": "Membránový potenciál",
+    "bookRef": "str. 112",
+    "sourcePages": "112",
+    "question": "Jaká je důležitá úloha sodno-draselné pumpy?",
+    "options": [
+      "Vytvářet hemoglobin v axonu",
+      "Za spotřeby energie pomáhat dlouhodobě udržovat rozdílné koncentrace Na⁺ a K⁺",
+      "Přímo otevírat každou synaptickou štěrbinu mechanickým tahem",
+      "Propouštět všechny ionty bez výběru a bez energie"
+    ],
+    "answer": 1,
+    "title": "Pumpa udržuje iontové zásoby nerovnoměrné",
+    "paragraphs": [
+      "Sodno-draselná pumpa využívá energii a přesouvá ionty proti jejich koncentračním poměrům. Pomáhá tak udržovat podmínky pro nervovou signalizaci.",
+      "Představ si průběžné doplňování rozdílu hladin, ze kterého lze později čerpat. Bez udržování by se využitelné rozdíly postupně ztrácely.",
+      "Pumpa není totéž co iontový kanál. Kanál vytváří cestu pro pasivní pohyb podle elektrochemického spádu."
+    ],
+    "memory": "Pumpa spotřebovává energii a udržuje gradienty."
+  },
+  {
+    "id": 410,
+    "category": "Membránový potenciál",
+    "bookRef": "str. 112",
+    "sourcePages": "112",
+    "question": "Jak může buňka rychle změnit propustnost membrány pro určitý ion?",
+    "options": [
+      "Změnou každého iontu na bílkovinu",
+      "Zastavením tvorby všech buněčných membrán",
+      "Otevřením nebo uzavřením příslušných iontových kanálů",
+      "Rozpuštěním celého jádra do krve"
+    ],
+    "answer": 2,
+    "title": "Kanály fungují jako řízené průchody",
+    "paragraphs": [
+      "Iontové kanály v membráně mohou přecházet mezi otevřeným a uzavřeným stavem. Tím se rychle mění možnost průchodu příslušných iontů.",
+      "Představ si dveře v jinak ohraničené místnosti. Změna jejich stavu ovlivní průchod, aniž by se musela odstranit celá stěna.",
+      "Otevření kanálu samo neurčuje libovolný směr pohybu. Ten vyplývá také z koncentrací a elektrického napětí."
+    ],
+    "memory": "Otevřený kanál změní propustnost pro ionty."
+  },
+  {
+    "id": 411,
+    "category": "Synapse",
+    "bookRef": "str. 113",
+    "sourcePages": "113",
+    "question": "Co je synaptická štěrbina chemické synapse?",
+    "options": [
+      "Místo přetržení všech axonů v nervu",
+      "Dutina uvnitř buněčného jádra",
+      "Celý prostor mezi mozkem a lebkou",
+      "Úzký prostor mezi presynaptickou a postsynaptickou membránou"
+    ],
+    "answer": 3,
+    "title": "Chemická synapse má krátkou mezeru",
+    "paragraphs": [
+      "Presynaptické zakončení a postsynaptickou buňku odděluje úzká synaptická štěrbina. Chemický přenašeč se přes ni dostává k přijímající straně.",
+      "Představ si dvě blízká pracoviště, mezi nimiž je krátký předávací prostor. Zpráva se předá pomocí uvolněné látky.",
+      "Zde mluvíme o chemické synapsi. Není správné tento popis bez rozlišení použít na všechny druhy buněčných spojení."
+    ],
+    "memory": "Synaptická štěrbina = mezera pro chemické předání."
+  },
+  {
+    "id": 412,
+    "category": "Synapse",
+    "bookRef": "str. 113",
+    "sourcePages": "113",
+    "question": "Co obsahují synaptické vezikuly v nervovém zakončení?",
+    "options": [
+      "Chemické přenašeče určené k uvolnění",
+      "Celé nové neurony",
+      "Převážně zubní sklovinu",
+      "Pouze erytrocyty určené k filtraci"
+    ],
+    "answer": 0,
+    "title": "Vezikuly jsou malé zásobní váčky",
+    "paragraphs": [
+      "Synaptické vezikuly obsahují neurotransmitery. Jejich obsah se při příslušném signálu může uvolnit ze zakončení do synaptické štěrbiny.",
+      "Představ si připravené balíčky se zprávou, které čekají u výstupního místa. Vezikula je obal, přenašeč je její důležitý obsah.",
+      "Vezikula není totéž co receptor na přijímající buňce. Jedna strana zprávu uvolňuje, druhá na ni reaguje."
+    ],
+    "memory": "Vezikuly balí neurotransmiter."
+  },
+  {
+    "id": 413,
+    "category": "Synapse",
+    "bookRef": "str. 113",
+    "sourcePages": "113",
+    "question": "Na co se neurotransmiter váže na přijímající straně chemické synapse?",
+    "options": [
+      "Výhradně na hemoglobin v erytrocytech",
+      "Na příslušné receptory postsynaptické membrány",
+      "Na sklovinu uvnitř axonu",
+      "Na vzduchové bubliny v buněčném jádře"
+    ],
+    "answer": 1,
+    "title": "Přijímající buňka má receptory",
+    "paragraphs": [
+      "Neurotransmiter působí prostřednictvím odpovídajících receptorů na postsynaptické straně. Jejich aktivace vyvolává další děje v buňce.",
+      "Představ si zprávu, kterou přečte jen vhodná přijímací součást. Samotná přítomnost látky bez odpovídajícího receptoru nemusí vyvolat stejnou odpověď.",
+      "Receptor není totéž co zásobní váček s přenašečem. Odpověď zároveň závisí na typu receptoru a navazujícím mechanismu."
+    ],
+    "memory": "Neurotransmiter působí přes odpovídající receptor."
+  },
+  {
+    "id": 414,
+    "category": "Synapse",
+    "bookRef": "str. 113",
+    "sourcePages": "113",
+    "question": "Jak navazuje přenos signálu přes běžnou chemickou synapsi na příchod vzruchu k zakončení?",
+    "options": [
+      "Celé zakončení se přestěhuje do další buňky",
+      "Signál se změní na průtok krve synaptickou štěrbinou",
+      "Elektrický děj vede k uvolnění chemického přenašeče a ten ovlivní další buňku",
+      "Tentýž elektrický vzruch vždy přeskočí štěrbinou bez přenašeče"
+    ],
+    "answer": 2,
+    "title": "Na synapsi se mění způsob předání",
+    "paragraphs": [
+      "Akční potenciál dorazí po axonu k zakončení a spustí děje vedoucí k uvolnění neurotransmiteru. Ten ovlivní přijímající buňku.",
+      "Představ si překlad mezi dvěma způsoby doručení: po vedení přichází elektrická změna a přes mezeru se zpráva předává chemicky.",
+      "Nová buňka si vytváří vlastní odpověď. Původní akční potenciál se přes chemickou synapsi nepřenáší jako nezměněná fyzická vlna."
+    ],
+    "memory": "Chemická synapse: elektrický vstup → chemické předání."
+  },
+  {
+    "id": 415,
+    "category": "Synapse",
+    "bookRef": "str. 113–114",
+    "sourcePages": "113–114",
+    "question": "Která změna membránového potenciálu je depolarizace?",
+    "options": [
+      "Posun z −70 mV na −80 mV",
+      "Zachování −70 mV bez změny",
+      "Změna koncentrace glukózy bez změny napětí",
+      "Posun z −70 mV na −60 mV"
+    ],
+    "answer": 3,
+    "title": "Depolarizace znamená menší zápornost",
+    "paragraphs": [
+      "Při depolarizaci se membránový potenciál posouvá k méně záporným hodnotám. Přechod z −70 na −60 mV je proto depolarizací.",
+      "Představ si pohyb záporného čísla blíže k nule. Hodnota −60 je vyšší než −70, i když obě zůstávají záporné.",
+      "Depolarizace nemusí hned překročit nulu ani vyvolat akční potenciál. Může jít jen o malou místní změnu."
+    ],
+    "memory": "−70 → −60 mV: depolarizace."
+  },
+  {
+    "id": 416,
+    "category": "Synapse",
+    "bookRef": "str. 114–115",
+    "sourcePages": "114–115",
+    "question": "Která změna je příkladem hyperpolarizace vůči klidu −70 mV?",
+    "options": [
+      "Posun na −80 mV",
+      "Posun na −60 mV",
+      "Posun na −50 mV",
+      "Návrat přesně na −70 mV bez odchylky"
+    ],
+    "answer": 0,
+    "title": "Hyperpolarizace prohlubuje zápornost",
+    "paragraphs": [
+      "Při hyperpolarizaci je potenciál zápornější než výchozí klidová hodnota. Ze −70 na −80 mV se tedy zápornost zvětšuje.",
+      "Představ si pokles čísla na záporné stupnici dále od nuly. To je opačný směr než depolarizace.",
+      "Hyperpolarizace je popis změny napětí. Není totožná se všemi možnými mechanismy nervového útlumu."
+    ],
+    "memory": "−70 → −80 mV: hyperpolarizace."
+  },
+  {
+    "id": 417,
+    "category": "Synapse",
+    "bookRef": "str. 114",
+    "sourcePages": "114",
+    "question": "Co znamená stupňovitá povaha synaptického potenciálu?",
+    "options": [
+      "Nemůže se nijak měnit membránové napětí",
+      "Jeho velikost se může měnit podle síly a souhry synaptických vstupů",
+      "Každý má vždy přesně stejnou amplitudu jako každý akční potenciál",
+      "Každý musí dosáhnout +100 V"
+    ],
+    "answer": 1,
+    "title": "Místní odpověď může mít různou velikost",
+    "paragraphs": [
+      "Synaptické potenciály mohou být menší nebo větší podle účinku přicházejících vstupů. V tomto smyslu jsou stupňovité neboli odstupňované.",
+      "Představ si plynule měnitelnou hlasitost, nikoli jen jedinou pevnou úroveň. Několik vstupů navíc může přispět ke společnému výsledku.",
+      "To se liší od základního principu jednotlivého akčního potenciálu při stejných podmínkách. Ten není jen libovolně větší kopií silnějšího podnětu."
+    ],
+    "memory": "Synaptický potenciál může být malý i větší."
+  },
+  {
+    "id": 418,
+    "category": "Synapse",
+    "bookRef": "str. 114",
+    "sourcePages": "114",
+    "question": "Jaký je význam excitačního postsynaptického potenciálu?",
+    "options": [
+      "Trvale zničí přijímající membránu",
+      "Musí vždy posunout napětí k zápornějším hodnotám",
+      "Zvyšuje pravděpodobnost vzniku akčního potenciálu v přijímajícím neuronu",
+      "Zaručí vždy okamžitý vznik vzruchu bez ohledu na ostatní vstupy"
+    ],
+    "answer": 2,
+    "title": "Budivý vstup usnadňuje odpověď",
+    "paragraphs": [
+      "Excitační postsynaptický potenciál působí ve směru usnadnění vzniku akčního potenciálu. V popsaném modelu jde o depolarizační změnu.",
+      "Představ si jeden příspěvek, který posouvá společný výsledek k prahu. Sám však nemusí být dostatečně silný.",
+      "Výsledná reakce závisí i na dalších současných vstupech a stavu neuronu. Budivý neznamená automaticky vždy vyvolávající vzruch."
+    ],
+    "memory": "Excitace zvyšuje šanci na vzruch."
+  },
+  {
+    "id": 419,
+    "category": "Synapse",
+    "bookRef": "str. 114",
+    "sourcePages": "114",
+    "question": "Jaký je význam inhibičního postsynaptického působení?",
+    "options": [
+      "Vždy přímo vyvolá více vzruchů než excitace",
+      "Musí způsobit rozpad celého neuronu",
+      "Zastaví navždy všechny synapse v mozku",
+      "Snižuje pravděpodobnost vzniku akčního potenciálu"
+    ],
+    "answer": 3,
+    "title": "Tlumivý vstup brzdí odpověď",
+    "paragraphs": [
+      "Inhibiční působení ztěžuje vznik akčního potenciálu. Učebnice jej vysvětluje na hyperpolarizaci přijímající membrány.",
+      "Představ si brzdu, která působí proti budivým příspěvkům. Jejím výsledkem nemusí být viditelný pohyb, ale menší šance na odeslání vzruchu.",
+      "Inhibice nemusí vždy vyvolat velkou hyperpolarizaci. Základní význam je funkční: snižuje možnost odpovědi neuronu."
+    ],
+    "memory": "Inhibice snižuje šanci na vzruch."
+  },
+  {
+    "id": 420,
+    "category": "Synapse",
+    "bookRef": "str. 114",
+    "sourcePages": "114",
+    "question": "Proč se synaptické potenciály označují také jako místní?",
+    "options": [
+      "Při pasivním šíření se vzdáleností slábnou a samy se neobnovují jako akční potenciál",
+      "Protože vznikají jen uvnitř močového měchýře",
+      "Protože každý bez zeslabení oběhne celé tělo",
+      "Protože nemají žádný elektrický účinek"
+    ],
+    "answer": 0,
+    "title": "Místní potenciál při šíření slábne",
+    "paragraphs": [
+      "Synaptický potenciál působí především v oblasti vstupní membrány a při pasivním šíření se zeslabuje. Není totožný s obnovovaným vzruchem vedeným axonem.",
+      "Představ si drobnou vlnu, která postupně ztrácí velikost. Přesto může ovlivnit spouštěcí oblast, zejména při souhře více vstupů.",
+      "Místní neznamená, že účinek končí přesně na místě jednoho receptoru. Změna se může šířit, ale její velikost není udržována stejným způsobem jako vzruch."
+    ],
+    "memory": "Místní potenciál se šíří se zeslabením."
+  },
+  {
+    "id": 421,
+    "category": "Synapse",
+    "bookRef": "str. 113–114",
+    "sourcePages": "113–114",
+    "question": "Na čem závisí účinek neurotransmiteru na přijímající buňku?",
+    "options": [
+      "Na receptoru nikdy nezáleží",
+      "Také na typu receptoru a navazujících dějích v této buňce",
+      "Jen na tom, zda název látky začíná samohláskou",
+      "Výhradně na délce vlasů člověka"
+    ],
+    "answer": 1,
+    "title": "Stejná zpráva může mít různé příjemce",
+    "paragraphs": [
+      "Neurotransmiter působí prostřednictvím receptoru a navazujícího buněčného mechanismu. Samotný název přenašeče proto neurčuje stejný účinek ve všech místech.",
+      "Představ si signál doručený různým zařízením: každé může být zapojené jinak. O výsledku rozhoduje i způsob přijetí a zpracování.",
+      "Není přesné označit například acetylcholin za vždy budivý ve všech orgánech. Otázka tím zpřesňuje zjednodušené dělení přenašečů v učebnici."
+    ],
+    "memory": "Účinek přenašeče závisí i na receptoru."
+  },
+  {
+    "id": 422,
+    "category": "Synapse",
+    "bookRef": "str. 114",
+    "sourcePages": "114",
+    "question": "Která látka je typickým tlumivým neurotransmiterem v dospělé centrální nervové soustavě?",
+    "options": [
+      "Močovina",
+      "Zubní cement",
+      "Kyselina gama-aminomáselná neboli GABA",
+      "Keratin"
+    ],
+    "answer": 2,
+    "title": "GABA je důležitý tlumivý přenašeč",
+    "paragraphs": [
+      "GABA je významný inhibiční neurotransmiter dospělé centrální nervové soustavy. Její působení pomáhá regulovat aktivitu nervových obvodů.",
+      "Představ si komunikační systém, který potřebuje vedle podněcování i omezení odpovědí. Tlumivé signály jsou součástí normálního zpracování.",
+      "Účinek závisí na receptoru a iontových podmínkách; například ve vývoji mohou být souvislosti odlišné. Proto otázka vymezuje typický dospělý stav."
+    ],
+    "memory": "GABA: typický tlumivý přenašeč v dospělé CNS."
+  },
+  {
+    "id": 423,
+    "category": "Akční potenciál",
+    "bookRef": "str. 114–115",
+    "sourcePages": "114–115",
+    "question": "Co znamená prahová depolarizace pro vznik akčního potenciálu?",
+    "options": [
+      "Jakákoli nepatrná změna napětí vždy stačí",
+      "Úplné vymizení všech iontů z buňky",
+      "Nutně trvalá změna membrány na nulu",
+      "Dosažení úrovně, při které se spustí obnovovaný vzruch"
+    ],
+    "answer": 3,
+    "title": "Práh odděluje místní změnu od spuštění vzruchu",
+    "paragraphs": [
+      "Pokud výsledná depolarizace ve spouštěcí oblasti dosáhne prahu, může se rozběhnout akční potenciál. Podprahová změna sama tento děj nespustí.",
+      "Představ si spínač, který reaguje až po dosažení potřebné úrovně. Vstupní příspěvky se na cestě k prahu mohou kombinovat.",
+      "Práh není univerzální neměnné číslo všech buněk. Otázka ověřuje princip spuštění, nikoli jednu hodnotu pro každý neuron."
+    ],
+    "memory": "Dostatečná depolarizace dosáhne prahu a spustí vzruch."
+  },
+  {
+    "id": 424,
+    "category": "Akční potenciál",
+    "bookRef": "str. 115–116",
+    "sourcePages": "115–116",
+    "question": "Který iontový děj je hlavní příčinou rychlé vzestupné fáze typického neuronálního akčního potenciálu?",
+    "options": [
+      "Vstup Na⁺ otevřenými napěťově řízenými sodíkovými kanály",
+      "Výstup všech bílkovin přes membránu",
+      "Přímé aktivní pumpování vody do jádra",
+      "Odchod hemoglobinu z axonu"
+    ],
+    "answer": 0,
+    "title": "Vzestup typického vzruchu souvisí se sodíkem",
+    "paragraphs": [
+      "Při vzestupné fázi typického neuronálního akčního potenciálu se výrazně zvýší propustnost pro Na⁺. Sodík vstupuje do buňky podle elektrochemického spádu.",
+      "Představ si rychlé otevření průchodů pro kladné částice přicházející dovnitř. Vnitřní napětí se tím posouvá ke kladnějším hodnotám.",
+      "Nejde o univerzální popis všech elektricky aktivních buněk. U jiných buněk mohou mít důležitější úlohu i jiné ionty."
+    ],
+    "memory": "Vzestup neuronálního AP: Na⁺ dovnitř."
+  },
+  {
+    "id": 425,
+    "category": "Akční potenciál",
+    "bookRef": "str. 115–116",
+    "sourcePages": "115–116",
+    "question": "Co znamená krátké překmitnutí akčního potenciálu nad 0 mV?",
+    "options": [
+      "Vnějšek a vnitřek musejí mít stejnou koncentraci všech látek",
+      "Vnitřek je po krátkou dobu elektricky kladnější než vnějšek",
+      "Neuron už nikdy nemůže obnovit klid",
+      "V buňce se všechny záporné ionty změnily na kladné"
+    ],
+    "answer": 1,
+    "title": "Na okamžik se obrátí polarita",
+    "paragraphs": [
+      "Při vrcholu typického akčního potenciálu může membránový potenciál přejít do kladných hodnot. Vnitřek je pak vůči vnějšímu prostředí krátce kladnější.",
+      "Představ si ručičku, která při změně přejde přes nulu na druhou stranu. Je to přechodný elektrický stav, ne trvalé převrácení buňky.",
+      "Většina iontů zůstává stále na svých stranách. K napěťové změně postačuje přesun malé části nábojů."
+    ],
+    "memory": "Kladný vrchol AP = krátce kladnější vnitřek."
+  },
+  {
+    "id": 426,
+    "category": "Akční potenciál",
+    "bookRef": "str. 115–116",
+    "sourcePages": "115–116",
+    "question": "Který pohyb iontů významně přispívá k sestupné fázi typického neuronálního akčního potenciálu?",
+    "options": [
+      "Vstup erytrocytů do axonu",
+      "Tvorba sodíku z kyslíku",
+      "Výstup K⁺ z neuronu otevřenými draslíkovými kanály",
+      "Přesun celého jádra do synaptické štěrbiny"
+    ],
+    "answer": 2,
+    "title": "Repolarizace souvisí s odchodem draslíku",
+    "paragraphs": [
+      "V sestupné fázi se zvýšenou propustností pro K⁺ odchází kladný náboj z buňky. Membránový potenciál se vrací k zápornějším hodnotám.",
+      "Představ si odchod části kladných částic po předchozím rychlém vstupu sodíku. Elektrický stav se tím posouvá zpět.",
+      "Rychlá repolarizace není totéž co dlouhodobé udržování koncentrací pumpou. Bezprostředně jde hlavně o změny iontových vodivostí."
+    ],
+    "memory": "Sestup AP: K⁺ ven."
+  },
+  {
+    "id": 427,
+    "category": "Akční potenciál",
+    "bookRef": "str. 116",
+    "sourcePages": "116",
+    "question": "Jak se při repolarizaci mění zvýšená propustnost pro Na⁺ z předchozí vzestupné fáze?",
+    "options": [
+      "Zůstává navždy maximální",
+      "Přechází v přímou propustnost pro celé neurony",
+      "Změní se na tvorbu žluči",
+      "Snižuje se, zatímco se uplatňuje zvýšená propustnost pro K⁺"
+    ],
+    "answer": 3,
+    "title": "Vzestupná a sestupná fáze mají jiné vodivosti",
+    "paragraphs": [
+      "Návrat potenciálu souvisí s poklesem předchozí zvýšené propustnosti pro Na⁺ a se zvýšenou propustností pro K⁺. Nestačí tedy sledovat jen jeden ion stále stejně.",
+      "Představ si navazující změny stavu dvou skupin průchodů. Jejich časování umožní rychlou vlnu a návrat napětí.",
+      "Nelze vysvětlit celý akční potenciál trvale otevřeným sodíkovým kanálem. Důležité je časově omezené a proměnlivé otevírání."
+    ],
+    "memory": "Repolarizace: méně Na⁺ dovnitř, více K⁺ ven."
+  },
+  {
+    "id": 428,
+    "category": "Akční potenciál",
+    "bookRef": "str. 116",
+    "sourcePages": "116",
+    "question": "Jak se akční potenciál šíří po vzrušivé membráně axonu?",
+    "options": [
+      "Místní proudy depolarizují sousední úsek a tam se spustí nový akční potenciál",
+      "Jedna sodná částice musí proběhnout celou délkou axonu",
+      "Celý axon se při každém vzruchu posune k cílovému svalu",
+      "Vzruch je odnášen krvinkami uvnitř axonu"
+    ],
+    "answer": 0,
+    "title": "Vzruch se obnovuje v navazujících úsecích",
+    "paragraphs": [
+      "Elektrická změna aktivního místa ovlivní sousední membránu. Po dosažení potřebné úrovně se tam otevřou kanály a vznikne další část postupujícího vzruchu.",
+      "Představ si vlnu na stadionu: postupuje děj, ale každý člověk zůstává na svém místě. Ani zde nemusí jeden ion cestovat od začátku do konce axonu.",
+      "Pohyb iontů přes membránu a šíření signálu podél axonu jsou související, ale odlišné popisy. Signál není proud cytoplazmy směrem k zakončení."
+    ],
+    "memory": "Po axonu postupuje obnovovaná změna, ne jedna částice."
+  },
+  {
+    "id": 429,
+    "category": "Akční potenciál",
+    "bookRef": "str. 116",
+    "sourcePages": "116",
+    "question": "Co vyjadřuje princip vše, nebo nic u jednotlivého akčního potenciálu?",
+    "options": [
+      "Všechny neurony musí vyslat vzruch současně",
+      "Po dosažení prahu vznikne při stejných podmínkách vzruch s přibližně stejnou amplitudou",
+      "Každý silnější podnět vytvoří libovolně vyšší vzruch",
+      "Každá podprahová změna je poloviční akční potenciál"
+    ],
+    "answer": 1,
+    "title": "Jednotlivý vzruch není plynule odstupňovaný",
+    "paragraphs": [
+      "Při stejných podmínkách nemění jednotlivý akční potenciál libovolně amplitudu podle síly podnětu. Buď se spustí, nebo podprahová změna sama nestačí.",
+      "Představ si jednotkový impuls, nikoli hlasitost volně nastavitelnou od minima do maxima. Silnější působení může změnit počet impulsů, ne jen jejich výšku.",
+      "Skutečný tvar vzruchu ovlivňuje typ a stav buňky. Srovnání se proto týká stejného vlákna za stejných podmínek."
+    ],
+    "memory": "AP: při stejných podmínkách práh ano, pak podobná výška."
+  },
+  {
+    "id": 430,
+    "category": "Akční potenciál",
+    "bookRef": "str. 116–117",
+    "sourcePages": "116–117",
+    "question": "Jak se může v axonu kódovat rozdílná intenzita informace?",
+    "options": [
+      "Změnou akčních potenciálů na celé erytrocyty",
+      "Jen přeměnou axonu v dendrit při každém podnětu",
+      "Změnou četnosti a časového uspořádání akčních potenciálů",
+      "Pouze libovolným zvětšováním výšky každého jednotlivého vzruchu"
+    ],
+    "answer": 2,
+    "title": "Důležitý je rytmus vzruchů",
+    "paragraphs": [
+      "Informace v axonu může být nesena frekvencí a časovým vzorcem akčních potenciálů. Jednotlivé vzruchy přitom mají při stejných podmínkách podobnou amplitudu.",
+      "Představ si zprávu tvořenou stejně vysokými impulsy, jejichž počet a mezery se mění. Význam není uložen jen ve výšce jedné značky.",
+      "Frekvence znamená počet vzruchů za čas, nikoli jejich rychlost pohybu po axonu. Tyto veličiny je potřeba odlišit."
+    ],
+    "memory": "Informaci mění rytmus AP, ne libovolná výška jednoho AP."
+  },
+  {
+    "id": 431,
+    "category": "Akční potenciál",
+    "bookRef": "str. 116",
+    "sourcePages": "116",
+    "question": "Co bezprostředně pohání rychlý průchod iontů otevřenými kanály při vzruchu?",
+    "options": [
+      "Přímé spotřebování ATP každým iontem při průchodu kanálem",
+      "Mechanické pumpování všech iontů myelinem",
+      "Tvorba nových iontů z ničeho",
+      "Energie elektrochemických gradientů"
+    ],
+    "answer": 3,
+    "title": "Kanálem se ion pohybuje pasivně",
+    "paragraphs": [
+      "Ionty otevřenými kanály procházejí podle elektrochemického spádu. Přímé využití ATP není součástí každého jednotlivého průchodu kanálem.",
+      "Představ si vodu tekoucí po vytvořeném rozdílu hladin. Čerpadlo bylo potřeba k udržení rozdílu, ale voda průtokem sama nové čerpadlo nepohání.",
+      "Pumpa v živé buňce pracuje průběžně, nikoli pouze v pauze mezi vzruchy. Její role při udržování gradientů se liší od rychlého kanálového proudu."
+    ],
+    "memory": "Kanál využívá gradient, pumpa jej za energii udržuje."
+  },
+  {
+    "id": 432,
+    "category": "Integrace signálů",
+    "bookRef": "str. 117–118",
+    "sourcePages": "117–118",
+    "question": "Co je konvergence v nervové síti?",
+    "options": [
+      "Sbíhání vstupů z více neuronů na jeden neuron",
+      "Rozbíhání výstupu jednoho neuronu k více cílům",
+      "Vždy přímé spojení všech neuronů jen se svalem",
+      "Přenos krve z tepny do žíly"
+    ],
+    "answer": 0,
+    "title": "Více vstupů se sbíhá k jednomu místu",
+    "paragraphs": [
+      "Při konvergenci jeden neuron přijímá signály od více dalších neuronů. Díky tomu se na jeho odpovědi mohou podílet různé zdroje informací.",
+      "Představ si několik cest ústících do jednoho uzlu. Uzel může porovnat nebo spojit příchozí vlivy.",
+      "Opačné uspořádání, kdy se jeden výstup rozděluje k více neuronům, se nazývá divergence. Směr pomáhá oba pojmy odlišit."
+    ],
+    "memory": "Konvergence = více vstupů k jednomu neuronu."
+  },
+  {
+    "id": 433,
+    "category": "Integrace signálů",
+    "bookRef": "str. 117–118",
+    "sourcePages": "117–118",
+    "question": "Co je divergence v nervové síti?",
+    "options": [
+      "Úplná ztráta všech výběžků neuronu",
+      "Rozvětvení výstupu jednoho neuronu k více cílovým neuronům",
+      "Sbíhání mnoha vstupů pouze k jednomu neuronu",
+      "Přeměna všech synapsí na krevní kapiláry"
+    ],
+    "answer": 1,
+    "title": "Jeden zdroj může ovlivnit více cílů",
+    "paragraphs": [
+      "Při divergenci může jeden neuron předávat signály více dalším neuronům. Jedna informace se tak může zapojit do několika navazujících cest.",
+      "Představ si rozbočku, od které pokračuje více větví. Jeden výstup nemusí mít jen jediného příjemce.",
+      "Konvergence je sbíhání, divergence rozbíhání. V reálné síti se obě uspořádání mohou kombinovat."
+    ],
+    "memory": "Divergence = od jednoho zdroje k více cílům."
+  },
+  {
+    "id": 434,
+    "category": "Integrace signálů",
+    "bookRef": "str. 117",
+    "sourcePages": "117",
+    "question": "Proč záleží na souhře synaptických vstupů v čase i prostoru?",
+    "options": [
+      "Všechny synapse musejí mít vždy totožný účinek",
+      "Jeden neuron může mít nejvýše jednu synapsi",
+      "Jejich účinky se mohou kombinovat a společně ovlivnit dosažení prahu",
+      "Každý vstup se vždy úplně ignoruje"
+    ],
+    "answer": 2,
+    "title": "Neuron vyhodnocuje souhrn vlivů",
+    "paragraphs": [
+      "Na neuron může působit mnoho synaptických vstupů současně nebo krátce po sobě. Budivé a tlumivé účinky společně ovlivňují výslednou odpověď.",
+      "Představ si hlasování, ve kterém záleží na několika příspěvcích i na jejich časování. Výstup není jen slepá kopie jedné přijaté zprávy.",
+      "Nejde vždy o jednoduchý aritmetický součet stejných čísel. Záleží i na umístění vstupů a vlastnostech membrány."
+    ],
+    "memory": "Odpověď vzniká ze souhry vstupů v místě a čase."
+  },
+  {
+    "id": 435,
+    "category": "Nervové obvody a reflexy",
+    "bookRef": "str. 119",
+    "sourcePages": "119",
+    "question": "Co tvoří nervový obvod?",
+    "options": [
+      "Pouze svazek krevních cév kolem mozku",
+      "Jeden vlasový folikul s mazovou žlázou",
+      "Každá libovolná skupina buněk bez spojení",
+      "Funkčně propojené neurony zajišťující příjem, zpracování nebo výstup informací"
+    ],
+    "answer": 3,
+    "title": "Obvod je propojení spolupracujících neuronů",
+    "paragraphs": [
+      "Nervový obvod tvoří neurony spojené do funkčního uspořádání. Jejich propojení umožňuje přenos a zpracování informací.",
+      "Představ si síť součástek, u které záleží na tom, co je s čím spojeno. Samotná přítomnost buněk blízko sebe ještě nevysvětluje funkci.",
+      "Neurony obvodu nemusí ležet všechny těsně vedle sebe. Jejich výběžky mohou propojovat i vzdálená místa."
+    ],
+    "memory": "Nervový obvod = funkčně propojené neurony."
+  },
+  {
+    "id": 436,
+    "category": "Nervové obvody a reflexy",
+    "bookRef": "str. 119",
+    "sourcePages": "119",
+    "question": "Co jsou nervová ganglia v základním anatomickém smyslu?",
+    "options": [
+      "Skupiny těl neuronů mimo centrální nervovou soustavu",
+      "Výhradně dutiny s mozkomíšním mokem uvnitř lebky",
+      "Svazky kosterních svalových vláken",
+      "Jednotlivé mezery v myelinové pochvě"
+    ],
+    "answer": 0,
+    "title": "Ganglion seskupuje buněčná těla na periferii",
+    "paragraphs": [
+      "Ganglia jsou skupiny těl neuronů uložené mimo CNS. Patří do periferní nervové soustavy.",
+      "Představ si místní uzel obsahující buněčná těla, nikoli jen svazek průchozích vláken. Poloha mimo CNS je pro toto základní vymezení důležitá.",
+      "V historickém názvu bazální ganglia jde o struktury v mozku. Tato názvoslovná výjimka nemění zde testované základní rozlišení periferie."
+    ],
+    "memory": "Ganglion: buněčná těla mimo CNS."
+  },
+  {
+    "id": 437,
+    "category": "Nervové obvody a reflexy",
+    "bookRef": "str. 119",
+    "sourcePages": "119",
+    "question": "Jaký směr vedení označuje aferentní neboli dostředivá dráha?",
+    "options": [
+      "Pouze z axonu do krevní plazmy",
+      "Od receptorů směrem do centrální nervové soustavy",
+      "Z CNS směrem k výkonnému orgánu jako jediný význam",
+      "Vždy z levé ledviny do pravé"
+    ],
+    "answer": 1,
+    "title": "Aferentní cesta přivádí informace",
+    "paragraphs": [
+      "Aferentní vlákna přivádějí smyslové informace směrem k CNS. Název dostředivý vystihuje směr k centrálnímu zpracování.",
+      "Představ si hlášení čidel putující do dispečinku. Bez přívodu informací nemůže řídicí síť odpovídajícím způsobem reagovat.",
+      "Opačný směr od CNS k výkonným strukturám označujeme jako eferentní. Oba názvy se vztahují ke směru vůči centru."
+    ],
+    "memory": "Aferentní = přívod do CNS."
+  },
+  {
+    "id": 438,
+    "category": "Nervové obvody a reflexy",
+    "bookRef": "str. 119",
+    "sourcePages": "119",
+    "question": "Jaký směr vedení označuje eferentní neboli odstředivá dráha?",
+    "options": [
+      "Pouze z krve do mozkomíšního moku",
+      "Vždy z jednoho smyslového receptoru do sousedního",
+      "Z centrální nervové soustavy k výkonným orgánům",
+      "Od receptorů do CNS jako jediný význam"
+    ],
+    "answer": 2,
+    "title": "Eferentní cesta odvádí pokyny",
+    "paragraphs": [
+      "Eferentní dráhy vedou signály od CNS k výkonným strukturám. Mohou tak ovlivňovat například svaly nebo žlázy.",
+      "Představ si pokyny z dispečinku ke konkrétním vykonavatelům. Je to výstupní směr, navazující na zpracování informací.",
+      "Přívodní smyslová cesta je aferentní. Eferentní neznamená název jedné konkrétní části mozku, ale směr přenosu."
+    ],
+    "memory": "Eferentní = výstup z CNS k vykonavateli."
+  },
+  {
+    "id": 439,
+    "category": "Nervové obvody a reflexy",
+    "bookRef": "str. 119",
+    "sourcePages": "119",
+    "question": "Jaká je základní úloha interneuronu v nervovém obvodu?",
+    "options": [
+      "Vytvářet zubní sklovinu",
+      "Vždy přímo nahrazovat svalové vlákno",
+      "Přenášet kyslík jako erytrocyt",
+      "Propojovat a zpracovávat signály mezi neurony uvnitř centrálního obvodu"
+    ],
+    "answer": 3,
+    "title": "Interneuron je spojovací a zpracovatelský článek",
+    "paragraphs": [
+      "Interneurony se zapojují mezi další neurony a umožňují zpracování signálů. V popisu učebnice jsou uloženy uvnitř CNS.",
+      "Představ si mezilehlé zpracovatelské místo mezi přívodem informace a výstupním povelem. Více takových článků umožňuje složitější vztahy.",
+      "Ne každý reflexní oblouk musí mít interneuron. U monosynaptického spojení může smyslový neuron působit přímo na motorický."
+    ],
+    "memory": "Interneuron propojuje a zpracovává uvnitř obvodu."
+  },
+  {
+    "id": 440,
+    "category": "Nervové obvody a reflexy",
+    "bookRef": "str. 119–120",
+    "sourcePages": "119–120",
+    "question": "Které pořadí vystihuje základní průběh reflexního oblouku?",
+    "options": [
+      "Receptor → dostředivá dráha → centrální zpracování → odstředivá dráha → efektor",
+      "Efektor → močovod → receptor → žlučník",
+      "Receptor → tepna → žíla → zubní sklovina",
+      "CNS → efektor → receptor bez přívodní dráhy jako jediný model"
+    ],
+    "answer": 0,
+    "title": "Reflex propojuje čidlo s odpovědí",
+    "paragraphs": [
+      "Reflex začíná podrážděním receptoru. Informace přichází dostředivě do centra a výstupní dráhou se dostává k výkonnému orgánu.",
+      "Představ si automatickou smyčku od čidla přes zpracování k vykonavateli. Každá část má v návaznosti jinou úlohu.",
+      "Centrální spojení může být velmi jednoduché nebo zahrnovat více neuronů. Schéma nevyžaduje, aby každý reflex měl přesně stejný počet synapsí."
+    ],
+    "memory": "Čidlo → do centra → z centra → vykonavatel."
+  },
+  {
+    "id": 441,
+    "category": "Nervové obvody a reflexy",
+    "bookRef": "str. 119–120",
+    "sourcePages": "119–120",
+    "question": "Co je efektor reflexu?",
+    "options": [
+      "Jakýkoli ion sodíku v krevní plazmě",
+      "Výkonná struktura, například sval nebo žláza",
+      "Pouze smyslový receptor přijímající podnět",
+      "Výhradně synaptická štěrbina"
+    ],
+    "answer": 1,
+    "title": "Efektor provede odpověď",
+    "paragraphs": [
+      "Efektor je výkonný článek, který na nervový pokyn uskuteční odpověď. Může jít například o stah svalu nebo sekreci žlázy.",
+      "Představ si zařízení na konci řídicího řetězce. Čidlo změnu zjistí, ale efektor provede zásah.",
+      "Receptor a efektor proto nejsou zaměnitelné názvy. Jeden představuje vstup a druhý výstup funkční smyčky."
+    ],
+    "memory": "Efektor = vykonavatel odpovědi."
+  },
+  {
+    "id": 442,
+    "category": "Nervové obvody a reflexy",
+    "bookRef": "str. 119",
+    "sourcePages": "119",
+    "question": "Kolik centrálních synapsí má základní monosynaptické spojení smyslového a motorického neuronu?",
+    "options": [
+      "Přesně deset tisíc jako povinný počet",
+      "Nejméně pět mezi každými dvěma neurony",
+      "Jednu",
+      "Žádnou, neurony se nikdy nespojují"
+    ],
+    "answer": 2,
+    "title": "Mono znamená jednu centrální synapsi",
+    "paragraphs": [
+      "Monosynaptické spojení obsahuje jednu synapsi mezi smyslovým a motorickým neuronem. Není mezi ně vložen další interneuron.",
+      "Představ si přímé předání mezi dvěma nervovými buňkami v centru. Každý další vložený článek by vytvořil další synaptické spojení.",
+      "Spojení motorického neuronu se svalem je další kontakt na výstupu. Označení monosynaptický zde počítá centrální spojení reflexního oblouku."
+    ],
+    "memory": "Monosynaptický = jedna centrální synapse."
+  },
+  {
+    "id": 443,
+    "category": "Nervové obvody a reflexy",
+    "bookRef": "str. 119–120",
+    "sourcePages": "119–120",
+    "question": "Proč je obranný míšní reflex odtažení na obrázku učebnice disynaptický?",
+    "options": [
+      "Protože obsahuje přesně dvě ledviny",
+      "Protože nemá žádný smyslový vstup",
+      "Protože motorický neuron není součástí oblouku",
+      "Mezi smyslovým a motorickým neuronem je interneuron, takže vznikají dvě centrální synapse"
+    ],
+    "answer": 3,
+    "title": "Interneuron přidává druhou synapsi",
+    "paragraphs": [
+      "Zobrazené schéma odtažení zahrnuje smyslový neuron, interneuron a motorický neuron. Mezi třemi články jsou dvě navazující centrální synapse.",
+      "Představ si předání zprávy přes prostředníka: první předání vede k němu a druhé od něj k výstupu. Počet neuronů a synapsí není stejný.",
+      "Skutečné obranné reakce mohou zapojovat složitější polysynaptické sítě. Otázka se vztahuje výslovně ke zjednodušenému obrázku učebnice."
+    ],
+    "memory": "Tři články za sebou → dvě spojení mezi nimi."
+  },
+  {
+    "id": 444,
+    "category": "Nervové obvody a reflexy",
+    "bookRef": "str. 120",
+    "sourcePages": "120",
+    "question": "Proč může míšní obranná odpověď začít bez předchozího vědomého rozhodnutí?",
+    "options": [
+      "Základní reflexní zpracování může proběhnout v míše",
+      "Protože bolestivý podnět nikdy nedojde do mozku",
+      "Protože reflex nevyužívá nervové buňky",
+      "Protože sval rozpozná každý podnět bez receptorů"
+    ],
+    "answer": 0,
+    "title": "Rychlá odpověď nemusí čekat na vědomé rozhodnutí",
+    "paragraphs": [
+      "Obranný reflex může být zprostředkován míšním obvodem bez předchozího vědomého rozhodnutí. Informace o podnětu se přitom může současně šířit i k mozku.",
+      "Představ si místní automatický zásah, zatímco hlášení pokračuje do vyššího centra. Zkrácená cesta umožní rychlejší začátek reakce.",
+      "Mozek může míšní reflexy ovlivňovat. Není proto přesné tvrdit, že jsou za všech okolností úplně nezávislé na jeho vlivu."
+    ],
+    "memory": "Mícha může spustit obranu bez čekání na rozhodnutí."
+  },
+  {
+    "id": 445,
+    "category": "Nervové obvody a reflexy",
+    "bookRef": "str. 120",
+    "sourcePages": "120",
+    "question": "Co označuje nepodmíněný reflex?",
+    "options": [
+      "Trvalé vymizení všech reflexních drah",
+      "Vrozenou reflexní odpověď, která nevyžaduje předchozí naučené spojení podnětů",
+      "Pouze odpověď naučenou spojením zvonku s potravou",
+      "Jakýkoli vědomě naplánovaný pohyb"
+    ],
+    "answer": 1,
+    "title": "Nepodmíněný reflex nepotřebuje předchozí podmiňování",
+    "paragraphs": [
+      "Nepodmíněné reflexy jsou vrozené způsoby odpovědi. Pro jejich základní vznik není nutné předchozí naučené spojení původně neutrálního podnětu s jiným podnětem.",
+      "Představ si připravené základní zapojení, které může reagovat na odpovídající vstup. Není potřeba je nejprve naučit pomocí zvonku.",
+      "Vrozený neznamená zcela neovlivnitelný zkušeností nebo stavem organismu. Rozlišení se týká původu základní odpovědi."
+    ],
+    "memory": "Nepodmíněný = vrozený základ reflexu."
+  },
+  {
+    "id": 446,
+    "category": "Nervové obvody a reflexy",
+    "bookRef": "str. 120",
+    "sourcePages": "120",
+    "question": "Jak vzniká podmíněná reflexní odpověď v Pavlovově příkladu?",
+    "options": [
+      "Samotným zničením smyslových receptorů",
+      "Tím, že každý zvuk od narození vždy vyvolává stejné slinění",
+      "Naučeným spojením původně neutrálního podnětu s podnětem vyvolávajícím vrozenou odpověď",
+      "Přeměnou všech interneuronů na svaly"
+    ],
+    "answer": 2,
+    "title": "Podmiňování vytváří naučenou souvislost",
+    "paragraphs": [
+      "Původně neutrální podnět se opakovaně spojí s podnětem, který už odpověď vyvolává. Později může naučenou odpověď spustit i původně neutrální podnět sám.",
+      "Představ si signál, který se postupně stane předpovědí příchodu významné události. Organismus začne reagovat už na tuto předpověď.",
+      "Nejde o tvrzení, že jakékoli dva podněty vždy automaticky vytvoří spojení. Učení závisí na jejich vztahu a podmínkách."
+    ],
+    "memory": "Podmíněná odpověď = naučené spojení podnětů."
+  },
+  {
+    "id": 447,
+    "category": "Nervové obvody a reflexy",
+    "bookRef": "str. 120",
+    "sourcePages": "120",
+    "question": "Co představuje potrava v popsaném Pavlovově pokusu se sliněním?",
+    "options": [
+      "Původně neutrální zvukový podnět",
+      "Výstupní motorický nerv",
+      "Synaptickou štěrbinu mezi dvěma neurony",
+      "Nepodmíněný podnět, který vyvolává slinění i bez naučeného zvukového spojení"
+    ],
+    "answer": 3,
+    "title": "Potrava vyvolává základní odpověď",
+    "paragraphs": [
+      "V uvedeném pokusu potrava vyvolává slinění jako nepodmíněnou odpověď. Proto slouží jako nepodmíněný podnět pro spojování se zvukem.",
+      "Představ si událost, na kterou už organismus umí reagovat. Právě s ní se propojuje původně nevýznamný signál.",
+      "Podnět je příčina spuštění odpovědi, zatímco slinění je odpověď. Názvy těchto dvou částí pokusu nelze zaměnit."
+    ],
+    "memory": "Potrava = nepodmíněný podnět; slinění = odpověď."
+  },
+  {
+    "id": 448,
+    "category": "Nervové obvody a reflexy",
+    "bookRef": "str. 120",
+    "sourcePages": "120",
+    "question": "Co představuje zvuk zvonku poté, co se úspěšně spojil s podáváním potravy a sám vyvolává slinění?",
+    "options": [
+      "Podmíněný podnět",
+      "Nepodmíněný podnět totožný s potravou",
+      "Samotnou slinnou žlázu",
+      "Výhradně náhodný iontový kanál"
+    ],
+    "answer": 0,
+    "title": "Zvonek získal naučený význam",
+    "paragraphs": [
+      "Zvuk, který původně slinění nevyvolával, se po naučeném spojení může stát podmíněným podnětem. Sám pak spouští podmíněnou odpověď.",
+      "Představ si upozornění, které začalo znamenat příchod jídla. Jeho význam vznikl zkušeností, nikoli tím, že by zvuk sám byl potravou.",
+      "Tentýž zvuk nemusí vyvolat stejnou odpověď u jedince bez příslušné zkušenosti. Podmíněnost se vztahuje k naučenému spojení."
+    ],
+    "memory": "Naučený zvonek = podmíněný podnět."
+  },
+  {
+    "id": 449,
+    "category": "Nervové obvody a reflexy",
+    "bookRef": "str. 120",
+    "sourcePages": "120",
+    "question": "Jaké časové uspořádání uvádí učebnice v Pavlovově pokusu?",
+    "options": [
+      "Zvuk je nahrazen výhradně odtažením končetiny",
+      "Zvukový signál předchází podání potravy",
+      "Potrava je vždy dávno po zapomenutém zvuku bez vztahu",
+      "Zvonění se nikdy nepotká s krmením v jedné situaci"
+    ],
+    "answer": 1,
+    "title": "Signál předpovídá událost",
+    "paragraphs": [
+      "V popsaném pokusu zvonek zazní před podáním potravy. Tato návaznost umožňuje, aby zvuk získal předpovědní význam.",
+      "Představ si upozornění před příjezdem dodávky. Pro předpověď je důležité, že signál přijde dříve než očekávaná událost.",
+      "Otázka popisuje konkrétní učebnicový postup. Nevyvozuje z něj úplný přehled všech možných forem a časování asociativního učení."
+    ],
+    "memory": "V tomto pokusu: nejprve zvuk, potom potrava."
+  },
+  {
+    "id": 450,
+    "category": "Nervové obvody a reflexy",
+    "bookRef": "str. 120",
+    "sourcePages": "120",
+    "question": "Co je vyhasínání podmíněné odpovědi?",
+    "options": [
+      "Povinné zesílení odpovědi při každém samotném zvonění",
+      "Ztráta schopnosti vytvářet jakékoli nepodmíněné reflexy",
+      "Její postupné slábnutí při opakování podmíněného podnětu bez očekávaného nepodmíněného podnětu",
+      "Okamžité fyzické zničení všech neuronů použitého obvodu"
+    ],
+    "answer": 2,
+    "title": "Naučená reakce může při nepotvrzování slábnout",
+    "paragraphs": [
+      "Pokud se zvuk opakuje bez následné potravy, naučené slinění na něj může slábnout. Tento děj nazýváme vyhasínání podmíněné odpovědi.",
+      "Představ si upozornění, po kterém opakovaně nic nepřijde. Organismus postupně upravuje reakci na jeho předpovědní hodnotu.",
+      "Vyhasnutí neznamená nutně úplné vymazání původního učení. Není to stejné jako zničení buněk nebo zánik všech vrozených odpovědí."
+    ],
+    "memory": "Signál bez očekávaného následku → naučená odpověď slábne."
+  }
+]

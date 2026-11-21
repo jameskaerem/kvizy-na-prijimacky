@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 851,
+    "category": "Praktická biologie",
+    "bookRef": "str. 205",
+    "sourcePages": "205",
+    "question": "Jaký účel má závěr laboratorního protokolu?",
+    "options": [
+      "Nahradit každé pozorování předem danou odpovědí",
+      "Vysvětlit pozorované jevy a vztáhnout je k cíli práce",
+      "Pouze opsat název pomůcek",
+      "Zamlčet výsledek, který neodpovídá očekávání"
+    ],
+    "answer": 1,
+    "title": "Pozorování popisuje, závěr vysvětluje.",
+    "paragraphs": [
+      "Závěr má interpretovat zaznamenaná pozorování.",
+      "Nejprve popíšeš, co se stalo, potom vysvětlíš, co to vzhledem k otázce znamená.",
+      "Odlišný výsledek se nesmí přepsat jen proto, aby vypadal správně; může ukazovat chybu nebo jiné podmínky."
+    ],
+    "memory": "Pozorování popisuje, závěr vysvětluje."
+  },
+  {
+    "id": 852,
+    "category": "Praktická biologie",
+    "bookRef": "str. 205–206",
+    "sourcePages": "205–206",
+    "question": "Proč se při mikroskopování kreslí přehledný nákres s popisem?",
+    "options": [
+      "Zachycuje podstatné znaky a uspořádání pozorovaných struktur",
+      "Nahrazuje skutečné pozorování libovolnou fantazií",
+      "Dokazuje automaticky diagnózu všech nemocí",
+      "Zajišťuje, že všechny tkáně vypadají stejně"
+    ],
+    "answer": 0,
+    "title": "Nákres má zachytit pozorované podstatné znaky.",
+    "paragraphs": [
+      "Nákres slouží k zaznamenání struktur a jejich vzájemných vztahů.",
+      "Přehledné schéma zvýrazní důležité části lépe než neoznačená skvrna.",
+      "Má odpovídat preparátu; není cílem vytvořit obrázek bez vztahu k pozorování."
+    ],
+    "memory": "Nákres má zachytit pozorované podstatné znaky."
+  },
+  {
+    "id": 853,
+    "category": "Praktická biologie",
+    "bookRef": "str. 209–210",
+    "sourcePages": "209–210",
+    "question": "Proč je při porovnávání zátěžových pokusů důležité stejné tempo a velikost zátěže?",
+    "options": [
+      "Aby všichni lidé museli mít totožný výsledek",
+      "Protože tepová frekvence nemá žádnou proměnlivost",
+      "Aby se nemusely výsledky vůbec zaznamenávat",
+      "Aby rozdíl výsledků nevznikl jen rozdílnými podmínkami pokusu"
+    ],
+    "answer": 3,
+    "title": "Srovnatelné výsledky potřebují srovnatelné podmínky.",
+    "paragraphs": [
+      "Srovnání vyžaduje známé a co nejlépe srovnatelné podmínky.",
+      "Pokud jeden člověk vykoná jinou práci, rozdílný tep nemusí znamenat jen rozdíl kondice.",
+      "Standardizace neodstraňuje biologickou variabilitu, pouze omezuje zbytečné zdroje rozdílů."
+    ],
+    "memory": "Srovnatelné výsledky potřebují srovnatelné podmínky."
+  },
+  {
+    "id": 854,
+    "category": "Histologická pozorování",
+    "bookRef": "str. 206",
+    "sourcePages": "206",
+    "question": "Co je hlavním cílem srovnávání histologických preparátů různých tkání?",
+    "options": [
+      "Zaměnit všechny tkáně za krevní plazmu",
+      "Určit osobnost člověka podle jediného řezu",
+      "Rozpoznat jejich typické buňky a uspořádání",
+      "Změřit vždy pouze délku celého těla"
+    ],
+    "answer": 2,
+    "title": "Histologie porovnává mikroskopickou stavbu tkání.",
+    "paragraphs": [
+      "Histologie sleduje mikroskopickou stavbu tkání.",
+      "Tvar buněk, jejich vztahy a mezibuněčná hmota pomáhají odlišit typy tkání.",
+      "Jednotlivý řez může ukazovat jen část prostorové stavby; nevypadá vždy stejně při každém směru řezu."
+    ],
+    "memory": "Histologie porovnává mikroskopickou stavbu tkání."
+  },
+  {
+    "id": 855,
+    "category": "Praktická biologie",
+    "bookRef": "str. 204, 206",
+    "sourcePages": "204, 206",
+    "question": "Proč se pro školní pozorování krvinek používají připravené trvalé preparáty?",
+    "options": [
+      "Protože zruší potřebu mikroskopu",
+      "Umožňují pozorovat struktury bez odběru a manipulace s vlastní lidskou krví",
+      "Protože na nich nemohou být žádné buňky",
+      "Protože všechna krev je jen voda"
+    ],
+    "answer": 1,
+    "title": "Preparát umožňuje studovat krvinky bez odběru.",
+    "paragraphs": [
+      "Učebnice pro pozorování krevního nátěru uvádí trvalé preparáty.",
+      "Předem připravený materiál odděluje poznávání stavby od práce s čerstvou lidskou krví.",
+      "Otázka nevydává pokyn k odběru krve; jde o volbu studijního materiálu."
+    ],
+    "memory": "Preparát umožňuje studovat krvinky bez odběru."
+  },
+  {
+    "id": 856,
+    "category": "Laboratorní důkazy",
+    "bookRef": "str. 206–207",
+    "sourcePages": "206–207",
+    "question": "Co prokazuje Teichmannova metoda v popsaném školním pokusu?",
+    "options": [
+      "Přítomnost krevního barviva hemoglobinu prostřednictvím jeho derivátu",
+      "Konkrétní krevní skupinu AB0",
+      "Přítomnost všech lidských hormonů",
+      "Přesný počet leukocytů"
+    ],
+    "answer": 0,
+    "title": "Teichmannova metoda prokazuje derivát hemoglobinu.",
+    "paragraphs": [
+      "Metoda využívá vznik typických krystalků chlorheminu z hemoglobinu.",
+      "Přítomnost určité látky se odvozuje z charakteristického produktu reakce.",
+      "Nejde o univerzální rozbor krve ani o určení všech jejích buněk."
+    ],
+    "memory": "Teichmannova metoda prokazuje derivát hemoglobinu."
+  },
+  {
+    "id": 857,
+    "category": "Laboratorní důkazy",
+    "bookRef": "str. 206",
+    "sourcePages": "206",
+    "question": "Co nelze samotnou Teichmannovou metodou spolehlivě určit?",
+    "options": [
+      "Přítomnost derivátu hemoglobinu v popsané reakci",
+      "Vznik charakteristických krystalků v úspěšném pokusu",
+      "Vztah reakce ke krevnímu barvivu",
+      "Zda krev pochází z člověka, nebo z jiného živočicha s hemoglobinem"
+    ],
+    "answer": 3,
+    "title": "Důkaz hemoglobinu není důkaz lidského původu.",
+    "paragraphs": [
+      "Učebnice výslovně uvádí, že metoda nerozlišuje lidskou a zvířecí krev.",
+      "Stejná nebo podobná cílová látka může být v materiálu různých živočichů.",
+      "Důkaz látky tedy není automaticky důkazem konkrétního biologického původu vzorku."
+    ],
+    "memory": "Důkaz hemoglobinu není důkaz lidského původu."
+  },
+  {
+    "id": 858,
+    "category": "Laboratorní důkazy",
+    "bookRef": "str. 207",
+    "sourcePages": "207",
+    "question": "Který prvek se snaží prokázat druhý uvedený pokus s hemoglobinem?",
+    "options": [
+      "Křemík",
+      "Helium",
+      "Železo",
+      "Jod"
+    ],
+    "answer": 2,
+    "title": "Železo lze zkoumat jako složku hemoglobinu.",
+    "paragraphs": [
+      "Pokus je zaměřen na železo jako součást hemoglobinu.",
+      "Důkaz určitého prvku je jiná úroveň informace než pozorování celé krvinky.",
+      "Samotný pozitivní průkaz železa v libovolném vzorku ještě neznamená, že vzorek musí obsahovat krev."
+    ],
+    "memory": "Železo lze zkoumat jako složku hemoglobinu."
+  },
+  {
+    "id": 859,
+    "category": "Vyhodnocení měření",
+    "bookRef": "str. 208",
+    "sourcePages": "208",
+    "question": "Za 30 sekund bylo napočítáno 42 tepů. Jaká je odpovídající průměrná minutová frekvence?",
+    "options": [
+      "126 tepů za minutu",
+      "84 tepů za minutu",
+      "21 tepů za minutu",
+      "42 tepů za minutu"
+    ],
+    "answer": 1,
+    "title": "Za půl minuty krát dvě = za minutu.",
+    "paragraphs": [
+      "Třicet sekund je polovina minuty, proto počet násobíme dvěma.",
+      "Čtyřicet dva krát dvě je osmdesát čtyři.",
+      "Jde o přepočet průměru za daný interval; neříká, že každý interval musí mít zcela stejnou frekvenci."
+    ],
+    "memory": "Za půl minuty krát dvě = za minutu."
+  },
+  {
+    "id": 860,
+    "category": "Praktická biologie",
+    "bookRef": "str. 205",
+    "sourcePages": "205",
+    "question": "Proč se při studiu lidského evolučního vývoje sledují anatomické nálezy i doklady používání nástrojů?",
+    "options": [
+      "Ukazují různé tělesné a kulturní stránky vývoje",
+      "Protože nástroj je vždy lidská kost",
+      "Protože anatomie nemá vztah k evoluci",
+      "Protože použití nástroje samo přesně určí všechny geny jedince"
+    ],
+    "answer": 0,
+    "title": "Anatomické a kulturní doklady se doplňují.",
+    "paragraphs": [
+      "Praktická část zahrnuje tělesné proměny i způsob života a používání nástrojů.",
+      "Různé druhy dokladů umožňují sledovat různé stránky minulosti.",
+      "Jednotlivý nález nedává úplný obraz všech vlastností a chování jeho původce."
+    ],
+    "memory": "Anatomické a kulturní doklady se doplňují."
+  },
+  {
+    "id": 861,
+    "category": "Vyhodnocení měření",
+    "bookRef": "str. 209",
+    "sourcePages": "209",
+    "question": "Jakou veličinu vyjadřuje údaj v mm Hg na tonometru?",
+    "options": [
+      "Objem vzduchu",
+      "Počet krvinek",
+      "Rychlost nervového vzruchu",
+      "Tlak"
+    ],
+    "answer": 3,
+    "title": "mm Hg je jednotka tlaku.",
+    "paragraphs": [
+      "Milimetry rtuťového sloupce jsou jednotkou tlaku.",
+      "Manometr převádí působení tlaku na čitelnou hodnotu.",
+      "Tepová frekvence je počet za čas, nikoli tlak; oba údaje je třeba rozlišovat."
+    ],
+    "memory": "mm Hg je jednotka tlaku."
+  },
+  {
+    "id": 862,
+    "category": "Měření krevního tlaku",
+    "bookRef": "str. 209",
+    "sourcePages": "209",
+    "question": "Proč je při srovnávání měření důležitá podobná výška paže vůči srdci?",
+    "options": [
+      "Protože tlakoměr měří délku paže místo tlaku",
+      "Protože tlak je ve všech výškách a situacích naprosto neměnný",
+      "Výškový rozdíl může měnit hydrostatický příspěvek k měřenému tlaku",
+      "Protože poloha paže okamžitě mění počet chromozomů"
+    ],
+    "answer": 2,
+    "title": "Poloha měření ovlivňuje srovnatelnost tlaku.",
+    "paragraphs": [
+      "Učebnice zdůrazňuje místo měření a polohu paže přibližně ve výšce srdce.",
+      "Ve sloupci kapaliny závisí tlak také na výšce; změna polohy může změnit srovnatelnost hodnot.",
+      "To je důvod sjednocovat podmínky, nikoli určovat nemoc z jediné hodnoty nebo polohy."
+    ],
+    "memory": "Poloha měření ovlivňuje srovnatelnost tlaku."
+  },
+  {
+    "id": 863,
+    "category": "Zátěž a zotavení",
+    "bookRef": "str. 209–210",
+    "sourcePages": "209–210",
+    "question": "Co sleduje uvedený step-up test kromě reakce tepu na zátěž?",
+    "options": [
+      "Jen velikost žlučníku",
+      "Průběh návratu tepové frekvence ke klidovým hodnotám",
+      "Pouze barvu vlasů",
+      "Výhradně počet pohlavních chromozomů"
+    ],
+    "answer": 1,
+    "title": "Zotavení je samostatná část reakce na zátěž.",
+    "paragraphs": [
+      "Pokus hodnotí také zotavování oběhové reakce po ukončení zátěže.",
+      "Je rozdíl mezi reakcí během výkonu a rychlostí návratu po něm.",
+      "Jediný školní výsledek není úplné posouzení zdraví ani sportovní výkonnosti."
+    ],
+    "memory": "Zotavení je samostatná část reakce na zátěž."
+  },
+  {
+    "id": 864,
+    "category": "Vyhodnocení měření",
+    "bookRef": "str. 210",
+    "sourcePages": "210",
+    "question": "Co patří na časovou osu grafu zotavení po zátěži?",
+    "options": [
+      "Čas od skončení zátěže",
+      "Názvy všech kostí",
+      "Pouze oblíbená barva pokusné osoby",
+      "Pořadí vitaminů v abecedě"
+    ],
+    "answer": 0,
+    "title": "Průběh změny potřebuje časovou osu.",
+    "paragraphs": [
+      "Chceme-li ukázat průběh zotavení, musíme spojit měřenou frekvenci s časem.",
+      "Časová osa umožní vidět trend a porovnat stejně vzdálené okamžiky.",
+      "Samotný seznam hodnot bez času může zakrýt důležitou dynamiku změny."
+    ],
+    "memory": "Průběh změny potřebuje časovou osu."
+  },
+  {
+    "id": 865,
+    "category": "Vyhodnocení měření",
+    "bookRef": "str. 211",
+    "sourcePages": "211",
+    "question": "Naměřený objem je 3 litry a srovnávací objem 4 litry. Kolik procent srovnávací hodnoty představuje?",
+    "options": [
+      "25 %",
+      "133 %",
+      "7 %",
+      "75 %"
+    ],
+    "answer": 3,
+    "title": "Naměřené děleno srovnávací krát sto.",
+    "paragraphs": [
+      "Podíl tři děleno čtyři vynásobený stem je sedmdesát pět procent.",
+      "Naměřenou hodnotu dělíš srovnávací, nikoli obráceně.",
+      "Příklad ověřuje poměrový výpočet; správná klinická referenční hodnota se nevolí univerzálně pouze podle hmotnosti."
+    ],
+    "memory": "Naměřené děleno srovnávací krát sto."
+  },
+  {
+    "id": 866,
+    "category": "Praktická fyziologie dýchání",
+    "bookRef": "str. 212",
+    "sourcePages": "212",
+    "question": "Co rozlišuje inspirační a expirační apnoickou pauzu v popisu pokusu?",
+    "options": [
+      "Zda se měří krevní skupina A, nebo B",
+      "Zda je použit slinný, nebo krevní preparát",
+      "Zda zadržení dechu začíná po nádechu, nebo po výdechu",
+      "Zda člověk používá pravou, nebo levou ruku"
+    ],
+    "answer": 2,
+    "title": "Inspirační po nádechu, expirační po výdechu.",
+    "paragraphs": [
+      "Inspirační pauza navazuje na nádech, expirační na výdech.",
+      "Názvy označují výchozí fázi dýchacího cyklu.",
+      "Otázka vysvětluje pojmy a nevyzývá k maximálnímu zadržování dechu ani k překonávání varovných pocitů."
+    ],
+    "memory": "Inspirační po nádechu, expirační po výdechu."
+  },
+  {
+    "id": 867,
+    "category": "Pokusy se slinami",
+    "bookRef": "str. 213",
+    "sourcePages": "213",
+    "question": "Proč pokus se štěpením škrobu obsahuje i zkumavku bez slin?",
+    "options": [
+      "Je určena k tvorbě lidské krve",
+      "Slouží jako kontrola pro srovnání se vzorkem obsahujícím sliny",
+      "Musí mít předem stejný výsledek jako všechny ostatní",
+      "Nahrazuje potřebu zjistit, co zkumavky obsahují"
+    ],
+    "answer": 1,
+    "title": "Kontrola umožňuje porovnat účinek slin.",
+    "paragraphs": [
+      "Kontrolní zkumavka pomáhá rozlišit změnu spojenou s přítomností slin.",
+      "Srovnáváš podobné podmínky, z nichž se jedna liší sledovaným faktorem.",
+      "Bez kontroly můžeš připsat enzymu i změnu způsobenou něčím jiným."
+    ],
+    "memory": "Kontrola umožňuje porovnat účinek slin."
+  },
+  {
+    "id": 868,
+    "category": "Pokusy se slinami",
+    "bookRef": "str. 213",
+    "sourcePages": "213",
+    "question": "Co se v uvedeném pokusu zjišťuje Lugolovým roztokem?",
+    "options": [
+      "Přítomnost škrobu",
+      "Přesný počet spermií",
+      "Tvorba testosteronu",
+      "Objem plic"
+    ],
+    "answer": 0,
+    "title": "Lugolova reakce sleduje škrob.",
+    "paragraphs": [
+      "Lugolův roztok se používá k průkazu škrobu charakteristickým zbarvením.",
+      "Pokud se škrob rozštěpil, reakce na škrob může zeslábnout nebo vymizet.",
+      "Negativní škrobová reakce sama neurčuje všechny vzniklé produkty."
+    ],
+    "memory": "Lugolova reakce sleduje škrob."
+  },
+  {
+    "id": 869,
+    "category": "Pokusy se slinami",
+    "bookRef": "str. 213",
+    "sourcePages": "213",
+    "question": "Co ukazuje pozitivní Fehlingova reakce po štěpení škrobu?",
+    "options": [
+      "Výhradně přítomnost kyslíku",
+      "Jistou přítomnost všech vitaminů",
+      "Vznik nové nervové buňky",
+      "Přítomnost redukujících sacharidů"
+    ],
+    "answer": 3,
+    "title": "Fehlingova reakce prokazuje redukující sacharidy.",
+    "paragraphs": [
+      "Při štěpení mohou vznikat redukující sacharidy, které s činidlem reagují.",
+      "Pokus tak doplňuje úbytek škrobu informací o vzniku látek s jinou chemickou vlastností.",
+      "Reakce není výlučně specifická pro maltózu; pozitivní výsledek sám nerozliší všechny redukující cukry."
+    ],
+    "memory": "Fehlingova reakce prokazuje redukující sacharidy."
+  },
+  {
+    "id": 870,
+    "category": "Pokusy se slinami",
+    "bookRef": "str. 213",
+    "sourcePages": "213",
+    "question": "Proč se ve třetí zkumavce mění kyselost prostředí při pokusu s amylázou?",
+    "options": [
+      "Aby nebylo nutné mít žádný škrob",
+      "Aby vznikla děložní sliznice",
+      "Aby se sledoval vliv pH na enzymovou aktivitu",
+      "Aby se změnily chromozomy slin na bakterie"
+    ],
+    "answer": 2,
+    "title": "pH může měnit aktivitu enzymu.",
+    "paragraphs": [
+      "Enzymová aktivita závisí mimo jiné na pH.",
+      "Změnou jedné podmínky lze porovnat, zda enzym pracuje stejně jako v původním prostředí.",
+      "Závěr platí pro sledovaný enzym a podmínky; nelze jej zobecnit na stejné optimální pH všech enzymů."
+    ],
+    "memory": "pH může měnit aktivitu enzymu."
+  },
+  {
+    "id": 871,
+    "category": "Pokusy se slinami",
+    "bookRef": "str. 213",
+    "sourcePages": "213",
+    "question": "Jaký je vztah mezi sraženinou mucinu a složením slin v popsaném pokusu?",
+    "options": [
+      "Je důkazem přítomnosti všech krevních skupin",
+      "Sraženina slouží jako projev přítomnosti hlenové složky",
+      "Dokazuje, že sliny obsahují jen čistou vodu",
+      "Určuje přesný věk člověka"
+    ],
+    "answer": 1,
+    "title": "Sraženina může ukázat přítomnost mucinu.",
+    "paragraphs": [
+      "Mucin je hlenová glykoproteinová složka slin, kterou lze za určitých podmínek vysrážet.",
+      "Změna vzhledu vzorku se používá k doložení vybrané složky.",
+      "Nejde o úplný chemický rozbor ani o diagnózu podle vzhledu slin."
+    ],
+    "memory": "Sraženina může ukázat přítomnost mucinu."
+  },
+  {
+    "id": 872,
+    "category": "Pot a potní žlázy",
+    "bookRef": "str. 214",
+    "sourcePages": "214",
+    "question": "Co má v uvedeném pokusu doložit reakce vzorku potu s ionty stříbra?",
+    "options": [
+      "Přítomnost chloridů",
+      "Přítomnost všech hormonů hypofýzy",
+      "Nepřítomnost vody v potu",
+      "Přeměnu potu na erytrocyty"
+    ],
+    "answer": 0,
+    "title": "Reakce se stříbrem může prokázat chloridy potu.",
+    "paragraphs": [
+      "Chloridové ionty mohou se stříbrnými ionty vytvořit sraženinu chloridu stříbrného.",
+      "Je to chemický průkaz složky rozpuštěné v tekutině.",
+      "Neznamená to, že by pot byl jen roztok jediné soli nebo že se tak přesně změří celkový počet žláz."
+    ],
+    "memory": "Reakce se stříbrem může prokázat chloridy potu."
+  },
+  {
+    "id": 873,
+    "category": "Reflexy v praxi",
+    "bookRef": "str. 215",
+    "sourcePages": "215",
+    "question": "Jaký pohyb je výsledkem běžného patelárního reflexu?",
+    "options": [
+      "Flexe v lokti bicepsem",
+      "Otevření zornice jako otvoru v sítnici",
+      "Stažení srdeční síně místo pohybu nohy",
+      "Extenze v koleni působením čtyřhlavého stehenního svalu"
+    ],
+    "answer": 3,
+    "title": "Patelární reflex natahuje koleno.",
+    "paragraphs": [
+      "Patelární reflex vede ke kontrakci čtyřhlavého stehenního svalu a natažení v koleni.",
+      "Je to propojení receptorového vstupu a konkrétní motorické odpovědi.",
+      "Pojmenování podle pately neznamená, že se aktivně stahuje kost; stahuje se sval."
+    ],
+    "memory": "Patelární reflex natahuje koleno."
+  },
+  {
+    "id": 874,
+    "category": "Reflexy v praxi",
+    "bookRef": "str. 215",
+    "sourcePages": "215",
+    "question": "Jaký pohyb souvisí s reflexem Achillovy šlachy?",
+    "options": [
+      "Otevření úst bez pohybu nohy",
+      "Extenze zápěstí",
+      "Plantární flexe chodidla",
+      "Výhradně roztažení prstů ruky"
+    ],
+    "answer": 2,
+    "title": "Achillův reflex směřuje chodidlo do plantární flexe.",
+    "paragraphs": [
+      "Reflex Achillovy šlachy vyvolává plantární flexi, tedy pohyb chodidla směrem jako při stoupnutí na špičku.",
+      "Název reflexu odkazuje na šlachu spojenou s lýtkovými svaly.",
+      "Plantární flexe se nesmí zaměnit s dorzální flexí, kdy se nárt přibližuje k bérci."
+    ],
+    "memory": "Achillův reflex směřuje chodidlo do plantární flexe."
+  },
+  {
+    "id": 875,
+    "category": "Sluchové zkoušky",
+    "bookRef": "str. 216–217",
+    "sourcePages": "216–217",
+    "question": "Co základně porovnává Rinneho zkouška?",
+    "options": [
+      "Systolický a diastolický tlak",
+      "Vzdušné a kostní vedení zvuku",
+      "Čich a chuť",
+      "Vidění barev a světelnou adaptaci"
+    ],
+    "answer": 1,
+    "title": "Rinne porovnává vzdušné a kostní vedení.",
+    "paragraphs": [
+      "Rinneho zkouška pracuje se dvěma cestami vedení zvuku.",
+      "Ladičku lze slyšet vzdušnou cestou u ucha i přenosem vibrací přes kost.",
+      "Samostatný školní pokus není spolehlivá vlastní diagnóza; podstatné je rozlišení obou cest."
+    ],
+    "memory": "Rinne porovnává vzdušné a kostní vedení."
+  },
+  {
+    "id": 876,
+    "category": "Sluchové zkoušky",
+    "bookRef": "str. 216",
+    "sourcePages": "216",
+    "question": "Co se sleduje při Weberově pokusu s ladičkou uprostřed hlavy?",
+    "options": [
+      "Zda je zvuk vnímán stejně, nebo výrazněji na jedné straně",
+      "Pouze počet chuťových pohárků",
+      "Schopnost čočky měnit zakřivení",
+      "Množství chloridů ve slinách"
+    ],
+    "answer": 0,
+    "title": "Weber sleduje stranové vnímání zvuku.",
+    "paragraphs": [
+      "Weberův pokus sleduje stranové vnímání zvuku vedeného kostí.",
+      "Výsledkem může být vjem uprostřed nebo lateralizace do jednoho ucha.",
+      "Výklad závisí na typu poruchy a dalších údajích; silnější vjem není univerzálně důkazem lepšího sluchu daného ucha."
+    ],
+    "memory": "Weber sleduje stranové vnímání zvuku."
+  },
+  {
+    "id": 877,
+    "category": "Zrakové pokusy",
+    "bookRef": "str. 217",
+    "sourcePages": "217",
+    "question": "Proč se při Mariottově pokusu při fixaci jednoho bodu může jiná značka na chvíli ztratit?",
+    "options": [
+      "Značka se fyzicky vymaže z papíru",
+      "Čočka se v tu chvíli změní na neprůhlednou kost",
+      "Oko přestane mít jakoukoli sítnici",
+      "Její obraz dopadne na místo sítnice bez fotoreceptorů"
+    ],
+    "answer": 3,
+    "title": "Mariottův pokus využívá polohu obrazu na sítnici.",
+    "paragraphs": [
+      "Při určitém uspořádání dopadne obraz značky na slepou skvrnu.",
+      "Fixace pomáhá držet obraz vybraného bodu na určitém místě sítnice a měnit polohu druhé značky vůči ní.",
+      "Nejde o obecné zmizení celého vidění ani o důkaz poškození zdravého oka."
+    ],
+    "memory": "Mariottův pokus využívá polohu obrazu na sítnici."
+  },
+  {
+    "id": 878,
+    "category": "Kožní citlivost",
+    "bookRef": "str. 217–218",
+    "sourcePages": "217–218",
+    "question": "Proč se při porovnávání dvoubodového rozlišení někdy zařadí jen jeden dotyk?",
+    "options": [
+      "Aby se změnil počet receptorů během jedné sekundy",
+      "Protože dva body nelze nikdy vnímat",
+      "Pro kontrolu odpovědí a omezení pouhého hádání očekávaného počtu",
+      "Aby se vždy potvrdilo, že všichni cítí dva body"
+    ],
+    "answer": 2,
+    "title": "Kontrolní dotyk omezuje vliv očekávání.",
+    "paragraphs": [
+      "Kontrolní jednotlivé dotyky pomáhají ověřit, co člověk skutečně rozlišuje.",
+      "Když neví předem, kolik dotyků přijde, jeho odpověď méně závisí na očekávání.",
+      "Výsledek se týká podmínek a místa měření; nevysvětluje sám všechny příčiny citlivosti."
+    ],
+    "memory": "Kontrolní dotyk omezuje vliv očekávání."
+  },
+  {
+    "id": 879,
+    "category": "Histologická pozorování",
+    "bookRef": "str. 206, 211–218",
+    "sourcePages": "206, 211–218",
+    "question": "Proč jeden mikroskopický řez nemusí ukázat celý průběh kanálku nebo cévy?",
+    "options": [
+      "Protože každá céva vzniká až na sklíčku",
+      "Je dvourozměrným průřezem prostorové struktury",
+      "Protože všechny kanálky jsou jen čáry na papíře",
+      "Protože buňky nemají žádné prostorové uspořádání"
+    ],
+    "answer": 1,
+    "title": "Řez je jen část prostorové stavby.",
+    "paragraphs": [
+      "Histologický preparát ukazuje tenkou vrstvu trojrozměrné tkáně.",
+      "Stejná trubice může v příčném řezu vypadat jako kruh a v podélném jako delší útvar.",
+      "Rozdílný vzhled proto nemusí znamenat zcela jiný orgán; záleží i na směru řezu."
+    ],
+    "memory": "Řez je jen část prostorové stavby."
+  },
+  {
+    "id": 880,
+    "category": "Praktická biologie",
+    "bookRef": "str. 205",
+    "sourcePages": "205",
+    "question": "Proč se při porovnávání výsledků skupin probírají i možné chyby pokusu?",
+    "options": [
+      "Pomáhá to posoudit, co lze z výsledků skutečně vyvodit",
+      "Aby se všechny neočekávané údaje automaticky odstranily",
+      "Protože jakákoli chyba dokazuje neexistenci biologie",
+      "Aby nebylo nutné znát podmínky pozorování"
+    ],
+    "answer": 0,
+    "title": "K závěru patří i omezení pozorování.",
+    "paragraphs": [
+      "Vyhodnocení zahrnuje výsledek i omezení metody a provedení.",
+      "Jiný výsledek může odrážet biologickou variabilitu i rozdíl podmínek nebo chybu.",
+      "Poctivý závěr má nejistotu popsat, ne ji zakrýt."
+    ],
+    "memory": "K závěru patří i omezení pozorování."
+  },
+  {
+    "id": 881,
+    "category": "Hlavové nervy",
+    "bookRef": "str. 227",
+    "sourcePages": "227",
+    "question": "Který hlavový nerv je označen číslem I?",
+    "options": [
+      "Zrakový nerv",
+      "Trojklanný nerv",
+      "Podjazykový nerv",
+      "Čichový nerv"
+    ],
+    "answer": 3,
+    "title": "I = čichový nerv.",
+    "paragraphs": [
+      "První pár hlavových nervů je čichový, nervus olfactorius.",
+      "Číslo I si spoj s informací z čichové oblasti nosní dutiny.",
+      "Zrakový nerv je druhý pár, nikoli první."
+    ],
+    "memory": "I = čichový nerv."
+  },
+  {
+    "id": 882,
+    "category": "Hlavové nervy",
+    "bookRef": "str. 227",
+    "sourcePages": "227",
+    "question": "Který hlavový nerv je označen číslem II?",
+    "options": [
+      "Lícní nerv",
+      "Přídatný nerv",
+      "Zrakový nerv",
+      "Bloudivý nerv"
+    ],
+    "answer": 2,
+    "title": "II = zrakový nerv.",
+    "paragraphs": [
+      "Druhým párem je zrakový nerv, nervus opticus.",
+      "Přenáší informace ze sítnice směrem do centrálního zrakového systému.",
+      "Číslo označuje pár hlavových nervů, ne počet neuronů v celé dráze."
+    ],
+    "memory": "II = zrakový nerv."
+  },
+  {
+    "id": 883,
+    "category": "Hlavové nervy",
+    "bookRef": "str. 227",
+    "sourcePages": "227",
+    "question": "Která čísla hlavových nervů souvisejí s inervací okohybných svalů?",
+    "options": [
+      "Pouze X a XI",
+      "III, IV a VI",
+      "I, II a VIII",
+      "V, VII a XII jako jediná skupina"
+    ],
+    "answer": 1,
+    "title": "Pohyb oka: III, IV a VI.",
+    "paragraphs": [
+      "Pohyby očních bulbů zajišťuje skupina nervů III, IV a VI.",
+      "Představ si několik samostatných výstupů k různým okohybným svalům.",
+      "Neznamená to, že všechny tři nervy stejně řídí i zornici a čočku; parasympatická složka zde souvisí s III."
+    ],
+    "memory": "Pohyb oka: III, IV a VI."
+  },
+  {
+    "id": 884,
+    "category": "Hlavové nervy",
+    "bookRef": "str. 227",
+    "sourcePages": "227",
+    "question": "Který hlavový nerv motoricky zásobuje žvýkací svaly?",
+    "options": [
+      "Trojklanný nerv, V",
+      "Čichový nerv, I",
+      "Zrakový nerv, II",
+      "Předsíňohlemýžďový nerv, VIII"
+    ],
+    "answer": 0,
+    "title": "V řídí žvýkací svaly.",
+    "paragraphs": [
+      "Trojklanný nerv má vedle senzitivních funkcí také motorickou složku pro žvýkací svaly.",
+      "Jeden nerv může obsahovat různé typy vláken s různými úlohami.",
+      "Mimické svaly jsou typicky spojeny s lícním nervem, takže žvýkání a mimiku nezaměňuj."
+    ],
+    "memory": "V řídí žvýkací svaly."
+  },
+  {
+    "id": 885,
+    "category": "Hlavové nervy",
+    "bookRef": "str. 227",
+    "sourcePages": "227",
+    "question": "Který hlavový nerv motoricky zásobuje mimické svaly?",
+    "options": [
+      "Zrakový nerv, II",
+      "Čichový nerv, I",
+      "Podjazykový nerv, XII",
+      "Lícní nerv, VII"
+    ],
+    "answer": 3,
+    "title": "VII řídí mimické svaly.",
+    "paragraphs": [
+      "Lícní nerv ovládá svaly mimiky.",
+      "Ty mění výraz obličeje; nejde o stejnou svalovou skupinu jako hlavní žvýkací svaly.",
+      "Nerv VII má i další funkce, takže není pouze jednoduchým výstupem k jednomu svalu."
+    ],
+    "memory": "VII řídí mimické svaly."
+  },
+  {
+    "id": 886,
+    "category": "Hlavové nervy",
+    "bookRef": "str. 227",
+    "sourcePages": "227",
+    "question": "Který hlavový nerv se nazývá jazykohltanový?",
+    "options": [
+      "VI",
+      "XI",
+      "IX",
+      "III"
+    ],
+    "answer": 2,
+    "title": "IX = jazykohltanový.",
+    "paragraphs": [
+      "Jazykohltanový nerv je devátý hlavový nerv.",
+      "Jeho název připomíná oblast jazyka a hltanu a souvislost s polykáním.",
+      "Jiný nerv, XII, se nazývá podjazykový a motoricky zásobuje převážnou část svalů jazyka."
+    ],
+    "memory": "IX = jazykohltanový."
+  },
+  {
+    "id": 887,
+    "category": "Hlavové nervy",
+    "bookRef": "str. 227",
+    "sourcePages": "227",
+    "question": "Který hlavový nerv zásobuje zdvihač hlavy a trapézový sval?",
+    "options": [
+      "Předsíňohlemýžďový nerv, VIII",
+      "Přídatný nerv, XI",
+      "Čichový nerv, I",
+      "Zrakový nerv, II"
+    ],
+    "answer": 1,
+    "title": "XI zásobuje zdvihač hlavy a trapézový sval.",
+    "paragraphs": [
+      "Motorická funkce přídatného nervu souvisí se zdvihačem hlavy a trapézovým svalem.",
+      "Jde o svaly pohybující hlavou a pletencem horní končetiny.",
+      "Není vhodné mu bez rozlišení připsat všechny svaly hrtanu; tabulka učebnice je v tomto směru zjednodušená."
+    ],
+    "memory": "XI zásobuje zdvihač hlavy a trapézový sval."
+  },
+  {
+    "id": 888,
+    "category": "Hlavové nervy",
+    "bookRef": "str. 227",
+    "sourcePages": "227",
+    "question": "Který hlavový nerv zajišťuje většinu motorické inervace jazyka?",
+    "options": [
+      "Podjazykový nerv, XII",
+      "Čichový nerv, I",
+      "Zrakový nerv, II",
+      "Předsíňohlemýžďový nerv, VIII"
+    ],
+    "answer": 0,
+    "title": "XII řídí převážnou část pohybů jazyka.",
+    "paragraphs": [
+      "Podjazykový nerv zásobuje převážnou část svalů jazyka.",
+      "Pohyb jazyka je důležitý pro manipulaci s potravou i artikulaci.",
+      "Motoriku jazyka nezaměňuj s jeho chutí; chuťové informace vedou jiné nervy."
+    ],
+    "memory": "XII řídí převážnou část pohybů jazyka."
+  },
+  {
+    "id": 889,
+    "category": "Vitaminy v příloze",
+    "bookRef": "str. 225",
+    "sourcePages": "225",
+    "question": "Jaký další název má vitamin B1?",
+    "options": [
+      "Retinol",
+      "Kalciferol",
+      "Tokoferol",
+      "Thiamin"
+    ],
+    "answer": 3,
+    "title": "B1 = thiamin.",
+    "paragraphs": [
+      "Vitamin B1 se nazývá thiamin.",
+      "Je součástí skupiny vitaminů B, které mají různé názvy i metabolické úlohy.",
+      "Retinol je vitamin A; podobný význam slova vitamin neznamená stejnou látku."
+    ],
+    "memory": "B1 = thiamin."
+  },
+  {
+    "id": 890,
+    "category": "Vitaminy v příloze",
+    "bookRef": "str. 225",
+    "sourcePages": "225",
+    "question": "Jaký další název má vitamin B2?",
+    "options": [
+      "Retinol",
+      "Kalciferol",
+      "Riboflavin",
+      "Kobalamin"
+    ],
+    "answer": 2,
+    "title": "B2 = riboflavin.",
+    "paragraphs": [
+      "Vitamin B2 se nazývá riboflavin.",
+      "Patří k vitaminům podílejícím se prostřednictvím koenzymových forem na metabolismu.",
+      "Kobalamin je B12, nikoli jiný název riboflavinu."
+    ],
+    "memory": "B2 = riboflavin."
+  },
+  {
+    "id": 891,
+    "category": "Vitaminy v příloze",
+    "bookRef": "str. 225",
+    "sourcePages": "225",
+    "question": "Jaký další název má vitamin B6 uvedený v učebnici?",
+    "options": [
+      "Kalciferol",
+      "Pyridoxin",
+      "Retinol",
+      "Tokoferol"
+    ],
+    "answer": 1,
+    "title": "B6 = pyridoxin.",
+    "paragraphs": [
+      "Učebnice uvádí vitamin B6 pod názvem pyridoxin.",
+      "Příloha jej spojuje mimo jiné s metabolismem aminokyselin.",
+      "Vitaminy nejsou zaměnitelné jen proto, že se účastní metabolismu; každý má vlastní funkce."
+    ],
+    "memory": "B6 = pyridoxin."
+  },
+  {
+    "id": 892,
+    "category": "Vitaminy v příloze",
+    "bookRef": "str. 225",
+    "sourcePages": "225",
+    "question": "Jaký další název má vitamin B12?",
+    "options": [
+      "Kobalamin",
+      "Thiamin",
+      "Retinol",
+      "Tokoferol"
+    ],
+    "answer": 0,
+    "title": "B12 = kobalamin.",
+    "paragraphs": [
+      "Vitamin B12 se nazývá kobalamin.",
+      "Příloha zdůrazňuje jeho význam pro krvetvorbu a metabolické procesy.",
+      "Stejný obecný projev, například chudokrevnost, může mít různé příčiny; z názvu vitaminu neplyne diagnóza."
+    ],
+    "memory": "B12 = kobalamin."
+  },
+  {
+    "id": 893,
+    "category": "Vitaminy v příloze",
+    "bookRef": "str. 225",
+    "sourcePages": "225",
+    "question": "S jakým procesem příloha mimo jiné spojuje kyselinu listovou?",
+    "options": [
+      "Výhradně s přímým pohybem sluchových kůstek",
+      "S tvorbou skloviny bez buněk jako jedinou funkcí",
+      "Jen s vedením světla rohovkou",
+      "S růstem a krvetvorbou"
+    ],
+    "answer": 3,
+    "title": "Folát souvisí s růstem a krvetvorbou.",
+    "paragraphs": [
+      "Kyselina listová se uplatňuje v buněčném metabolismu důležitém pro růst a krvetvorbu.",
+      "Vývoj a obnova tkání vyžadují látky pro fungování a množení buněk.",
+      "Otázka vysvětluje úlohu, nestanovuje dávkování doplňků."
+    ],
+    "memory": "Folát souvisí s růstem a krvetvorbou."
+  },
+  {
+    "id": 894,
+    "category": "Vitaminy v příloze",
+    "bookRef": "str. 225",
+    "sourcePages": "225",
+    "question": "S nedostatkem kterého vitaminu jsou klasicky spojeny kurděje?",
+    "options": [
+      "Vitaminu E",
+      "Vitaminu B6",
+      "Vitaminu C",
+      "Vitaminu B2"
+    ],
+    "answer": 2,
+    "title": "Kurděje souvisejí s nedostatkem vitaminu C.",
+    "paragraphs": [
+      "Kurděje vznikají při závažném nedostatku vitaminu C.",
+      "Vitamin C je důležitý mimo jiné pro správné utváření kolagenu a pojivových tkání.",
+      "Krvácení dásní samo o sobě neurčuje tuto diagnózu; jde o klasický vztah mezi deficitem a chorobou."
+    ],
+    "memory": "Kurděje souvisejí s nedostatkem vitaminu C."
+  },
+  {
+    "id": 895,
+    "category": "Vitaminy v příloze",
+    "bookRef": "str. 226",
+    "sourcePages": "226",
+    "question": "Který vitamin příloha spojuje se správným vývojem kostí a při nedostatku s křivicí?",
+    "options": [
+      "Vitamin C jako jediný vitamin",
+      "Vitamin D",
+      "Vitamin B1",
+      "Vitamin B2"
+    ],
+    "answer": 1,
+    "title": "Vitamin D souvisí s mineralizací kostí.",
+    "paragraphs": [
+      "Vitamin D je důležitý pro hospodaření s vápníkem a mineralizaci kostí.",
+      "Nedostatečná mineralizace rostoucí kosti může přispívat ke křivici.",
+      "Nejde o doporučení dávky ani o tvrzení, že každá deformace kosti má jedinou příčinu."
+    ],
+    "memory": "Vitamin D souvisí s mineralizací kostí."
+  },
+  {
+    "id": 896,
+    "category": "Vitaminy v příloze",
+    "bookRef": "str. 226",
+    "sourcePages": "226",
+    "question": "Jaký název používá příloha pro vitamin E?",
+    "options": [
+      "Tokoferol",
+      "Kobalamin",
+      "Thiamin",
+      "Riboflavin"
+    ],
+    "answer": 0,
+    "title": "Vitamin E = tokoferol.",
+    "paragraphs": [
+      "Vitamin E se označuje jako tokoferol.",
+      "Patří k vitaminům rozpustným v tucích a má antioxidační úlohu v buněčných strukturách.",
+      "Starší označení antisterilní vitamin neznamená, že jeho přídavek automaticky řeší lidskou neplodnost."
+    ],
+    "memory": "Vitamin E = tokoferol."
+  },
+  {
+    "id": 897,
+    "category": "Kosterní přehled v příloze",
+    "bookRef": "str. 221",
+    "sourcePages": "221",
+    "question": "Kolik zánártních kostí má běžně jedna noha?",
+    "options": [
+      "Osm",
+      "Pět",
+      "Dvě",
+      "Sedm"
+    ],
+    "answer": 3,
+    "title": "Zánártí jedné nohy tvoří sedm kostí.",
+    "paragraphs": [
+      "Zánártí tvoří sedm kostí.",
+      "Je třeba odlišit zánártí od nártu a článků prstů.",
+      "Zápěstí ruky má osm kostí; podobné umístění na končetině neznamená stejný počet."
+    ],
+    "memory": "Zánártí jedné nohy tvoří sedm kostí."
+  },
+  {
+    "id": 898,
+    "category": "Kosterní přehled v příloze",
+    "bookRef": "str. 221",
+    "sourcePages": "221",
+    "question": "Která kost je největší zánártní kostí?",
+    "options": [
+      "Kost loketní",
+      "Klíční kost",
+      "Kost patní",
+      "Čéška"
+    ],
+    "answer": 2,
+    "title": "Největší zánártní kost je patní.",
+    "paragraphs": [
+      "Příloha uvádí kost patní jako největší zánártní kost.",
+      "Je součástí zadní opory nohy a nese patu.",
+      "Kost hlezenní je jiná zánártní kost; čéška patří ke kolenní oblasti."
+    ],
+    "memory": "Největší zánártní kost je patní."
+  },
+  {
+    "id": 899,
+    "category": "Kosterní přehled v příloze",
+    "bookRef": "str. 221",
+    "sourcePages": "221",
+    "question": "Který latinský název odpovídá čéšce?",
+    "options": [
+      "Ulna",
+      "Patella",
+      "Scapula",
+      "Clavicula"
+    ],
+    "answer": 1,
+    "title": "Patella = čéška.",
+    "paragraphs": [
+      "Patella je čéška v oblasti kolenního kloubu.",
+      "Latinský název si spoj s patelárním reflexem pojmenovaným podle stejné oblasti.",
+      "Scapula je lopatka, clavicula klíční kost a ulna kost loketní."
+    ],
+    "memory": "Patella = čéška."
+  },
+  {
+    "id": 900,
+    "category": "Psychoaktivní látky v příloze",
+    "bookRef": "str. 230",
+    "sourcePages": "230",
+    "question": "Do které skupiny řadí příloha morfin a kodein?",
+    "options": [
+      "Mezi opiáty",
+      "Mezi vitaminy rozpustné ve vodě",
+      "Mezi pohlavní hormony",
+      "Mezi krevní buňky"
+    ],
+    "answer": 0,
+    "title": "Morfin a kodein patří mezi opiáty.",
+    "paragraphs": [
+      "Morfin a kodein jsou opiáty, tedy látky odvozené od složek opia.",
+      "Jde o příklady užší skupiny uvnitř širší skupiny opioidů.",
+      "Zařazení není návod k užívání; léčebné použití a riziko návykového užívání jsou odlišné souvislosti."
+    ],
+    "memory": "Morfin a kodein patří mezi opiáty."
+  }
+]

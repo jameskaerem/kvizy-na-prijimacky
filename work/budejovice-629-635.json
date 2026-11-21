@@ -1,0 +1,142 @@
+[
+  {
+    "id": 629,
+    "category": "Genetika",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 12 · PDF 104",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 104",
+    "question": "Kolik chromozomů bývá v jádře typické lidské tělní buňky s běžnou chromozomovou výbavou?",
+    "title": "46",
+    "options": [
+      "23",
+      "44",
+      "46",
+      "92"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "V typické diploidní buňce je 22 párů autozomů a jeden pár pohlavních chromozomů. Zralé pohlavní buňky mají jednu sadu, tedy obvykle 23 chromozomů."
+    ],
+    "memory": "Tělní buňka má obvykle 46 chromozomů ve 23 párech."
+  },
+  {
+    "id": 630,
+    "category": "Právní pojmy",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 17 · PDF 100",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 100",
+    "question": "Jakou formu podle § 560 občanského zákoníku vyžaduje kupní smlouva převádějící vlastnické právo k pozemku?",
+    "title": "Písemnou",
+    "options": [
+      "Ústní",
+      "Písemnou",
+      "Ústní dohodu za přítomnosti svědka",
+      "Jakoukoli, na níž se strany dohodnou"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Zákon vyžaduje písemnou formu pro právní jednání převádějící věcné právo k nemovité věci. Písemná smlouva a následný zápis vlastnického práva do katastru jsou různé kroky."
+    ],
+    "memory": "Převod nemovité věci vyžaduje písemnou smlouvu."
+  },
+  {
+    "id": 631,
+    "category": "Právní pojmy",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 25 · PDF 101",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 101",
+    "question": "Kdy podle občanského zákoníku člověk v ČR obvykle nabývá plné svéprávnosti, pokud ji nezískal už dříve?",
+    "title": "Dovršením 18 let",
+    "options": [
+      "Dovršením 15 let",
+      "Dokončením povinné školní docházky",
+      "Dovršením 21 let",
+      "Dovršením 18 let"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Podle § 30 se plná svéprávnost standardně nabývá zletilostí v 18 letech. Před zletilostí ji lze získat přiznáním svéprávnosti nebo uzavřením manželství za zákonných podmínek."
+    ],
+    "memory": "Zletilost v ČR nastává v 18 letech."
+  },
+  {
+    "id": 632,
+    "category": "Občanská orientace",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 18 · PDF 111",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 111",
+    "question": "Kde se oficiálně vyhlašuje závazné znění českých zákonů?",
+    "title": "Ve Sbírce zákonů a mezinárodních smluv",
+    "options": [
+      "Ve Sbírce zákonů a mezinárodních smluv",
+      "V Úředním věstníku Evropské unie",
+      "V programu jednání Poslanecké sněmovny",
+      "V zápisech ze schůzí vlády"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Úředním listem pro vyhlašování českých zákonů je Sbírka zákonů a mezinárodních smluv. Její právně závazná elektronická znění jsou dostupná v systému e-Sbírka."
+    ],
+    "memory": "Vyhlášené české zákony najdeš v e-Sbírce."
+  },
+  {
+    "id": 633,
+    "category": "Právní pojmy",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 22 · PDF 111",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 111",
+    "question": "Kdo musí podle § 60 zákoníku práce v okamžitém zrušení pracovního poměru skutkově vymezit jeho důvod?",
+    "title": "Zaměstnavatel i zaměstnanec, podle toho, kdo poměr ruší",
+    "options": [
+      "Pouze zaměstnavatel",
+      "Pouze zaměstnanec",
+      "Zaměstnavatel i zaměstnanec, podle toho, kdo poměr ruší",
+      "Pouze inspektorát práce"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Kdo pracovní poměr tímto způsobem ruší, popíše důvod konkrétně, aby se nedal zaměnit s jiným. Zákoník práce pro tento způsob skončení stanoví zvláštní podmínky."
+    ],
+    "memory": "Při okamžitém zrušení vymezuje důvod jednající strana."
+  },
+  {
+    "id": 634,
+    "category": "Právní pojmy",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 23 · PDF 111",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 111",
+    "question": "Jak kupující podle § 1105 občanského zákoníku nabývá vlastnictví k pozemku evidovanému v katastru?",
+    "title": "Zápisem vlastnického práva do katastru",
+    "options": [
+      "Samotným podpisem kupní smlouvy",
+      "Zápisem vlastnického práva do katastru",
+      "Samotným zaplacením kupní ceny",
+      "Převzetím pozemku do užívání"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "U nemovité věci zapsané ve veřejném seznamu je pro nabytí vlastnictví rozhodující zápis do tohoto seznamu. U pozemku jde o vklad vlastnického práva do katastru nemovitostí."
+    ],
+    "memory": "U evidovaného pozemku se vlastnictví nabývá zápisem."
+  },
+  {
+    "id": 635,
+    "category": "Dýchací soustava",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 18 · PDF 105",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 105",
+    "question": "Kudy při běžném dýchání proudí vzduch mezi hltanem a průdušnicí?",
+    "title": "Hrtanem",
+    "options": [
+      "Hrtanem",
+      "Jícnem",
+      "Čelistní dutinou",
+      "Dvanáctníkem"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Hrtan je součást dýchacích cest mezi hltanem a průdušnicí. Jeho průsvitem prochází vzduch při nádechu i výdechu."
+    ],
+    "memory": "Hltan, hrtan, průdušnice."
+  }
+]

@@ -1,0 +1,12 @@
+/* Presentation overrides are bundled into the offline HTML by build.py. */
+.backup-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.backup-actions button {
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--paper);
+}

@@ -1,8 +1,20 @@
 # Studijní kvízy
 
-Verze 2.38.0 • 19. 11. 2026
+Verze 2.39.0 • 21. 11. 2026
 
 Somatologie (630), Biologie (900) a České Budějovice (683). Samostatný soubor HTML funguje offline. Všechny předměty mají chytré procvičování, opakování chyb a tipů a test celé sady.
+
+## Záloha a přenos pokroku
+
+Na stránce rozbal **Záloha a přenos pokroku** a zvol **Stáhnout zálohu**. Soubor JSON ulož i mimo zařízení, například na svůj soukromý cloudový disk. Na druhém zařízení otevři kvíz, zvol **Načíst zálohu** a vyber uložený soubor. Obnoví se stav ke chvíli exportu včetně chyb, tipů a rozpracovaných kol. Import po potvrzení nahradí pokrok ve všech předmětech na cílovém zařízení. Pokrok se mezi zařízeními automaticky nesynchronizuje.
+
+Pokud se web v budoucnu přesune na jinou doménu, nejdřív stáhni zálohu na stávající adrese v prohlížeči, kde se učíš. Pak ji načti na nové adrese. Po exportu si ponech soubor i pro případ ztráty zařízení.
+
+## Úpravy a podklady
+
+Spusť `python work/build.py` a `node work/check.cjs` z kořene repozitáře. Stačí Python 3 a Node.js. Kvíz je v `index.html`. Vstupní soubory a pravidla pro zachování pokroku popisují [pravidla pro Claudea](CLAUDE.md) a [projektový brief](BRIEF.md).
+
+[Soupis zdrojových souborů](work/SOURCES.json) pomůže vybrat originál pro kontrolu konkrétní otázky. Zdrojové PDF a ZIP má vlastník k dispozici odděleně.
 
 ## České Budějovice
 

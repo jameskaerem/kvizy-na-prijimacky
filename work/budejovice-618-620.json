@@ -1,0 +1,62 @@
+[
+  {
+    "id": 618,
+    "category": "Občanská orientace",
+    "bookRef": "České Budějovice test 2019 oprava6.pdf · úloha 46 · PDF 12",
+    "sourceFile": "České Budějovice test 2019 oprava6.pdf",
+    "sourcePages": "PDF 12",
+    "question": "Který z uvedených subjektů může podle čl. 41 Ústavy podat návrh zákona Poslanecké sněmovně?",
+    "title": "Vláda",
+    "options": [
+      "Prezident republiky",
+      "Vláda",
+      "Nejvyšší soud",
+      "Česká národní banka"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Vláda patří mezi subjekty se zákonodárnou iniciativou. Ústava ji přiznává také poslanci, skupině poslanců, Senátu jako celku a zastupitelstvu kraje."
+    ],
+    "memory": "Návrh předkládá například vláda."
+  },
+  {
+    "id": 619,
+    "category": "Občanská orientace",
+    "bookRef": "České Budějovice test 2019 oprava6.pdf · úloha 50 · PDF 12",
+    "sourceFile": "České Budějovice test 2019 oprava6.pdf",
+    "sourcePages": "PDF 12",
+    "question": "Která instituce EU navrhuje většinu právních předpisů Unie a provádí její rozpočet?",
+    "title": "Evropská komise",
+    "options": [
+      "Evropská rada",
+      "Evropský parlament",
+      "Evropská komise",
+      "Soudní dvůr Evropské unie"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Komise připravuje návrhy a zajišťuje provádění rozpočtu. Evropský parlament a Rada EU ve standardním legislativním postupu společně rozhodují o přijetí návrhu."
+    ],
+    "memory": "Komise navrhuje a provádí rozpočet."
+  },
+  {
+    "id": 620,
+    "category": "Filozofie",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · úloha 4 · PDF 9",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 9",
+    "question": "Který filozof rozlišuje v díle Bytí a nicotu bytí o sobě a bytí pro sebe?",
+    "title": "Jean-Paul Sartre",
+    "options": [
+      "John Stuart Mill",
+      "Tomáš Akvinský",
+      "Francis Bacon",
+      "Jean-Paul Sartre"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "U Sartra se bytí o sobě vztahuje k věcem a bytí pro sebe k vědomí, které může zaujímat postoj a vztahovat se k vlastním možnostem. Toto rozlišení souvisí s jeho pojetím lidské svobody."
+    ],
+    "memory": "Sartrovo bytí pro sebe odkazuje k vědomí."
+  }
+]

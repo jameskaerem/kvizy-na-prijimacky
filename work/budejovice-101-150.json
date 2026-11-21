@@ -1,0 +1,959 @@
+[
+  {
+    "id": 101,
+    "category": "Fyziologie člověka",
+    "bookRef": "2020 · Fyzioterapie · Biologie 20 · str. 3 (PDF 3)",
+    "sourcePages": "3 (PDF 3)",
+    "question": "Jaký objem změříme, když člověk po co nejhlubším nádechu vydechne co nejvíce vzduchu?",
+    "title": "Vitální kapacitu plic",
+    "options": [
+      "Vitální kapacitu plic",
+      "Klidový dechový objem",
+      "Reziduální objem",
+      "Celkovou kapacitu plic"
+    ],
+    "paragraphs": [
+      "I po maximálním výdechu zůstává v plicích část vzduchu. Vitální kapacita zahrnuje jen objem, který lze mezi oběma krajními polohami přesunout."
+    ],
+    "memory": "Vitální kapacita je rozdíl mezi plným nádechem a plným výdechem.",
+    "answer": 0
+  },
+  {
+    "id": 102,
+    "category": "Fyziologie člověka",
+    "bookRef": "2020 · Fyzioterapie · Biologie 21 · str. 3 (PDF 3)",
+    "sourcePages": "3 (PDF 3)",
+    "question": "Na který prvek v hemu hemoglobinu se vratně váže kyslík?",
+    "title": "Železo",
+    "options": [
+      "Vápník",
+      "Jód",
+      "Sodík",
+      "Železo"
+    ],
+    "paragraphs": [
+      "Hem je část hemoglobinu, která obsahuje atom železa. Vazba kyslíku je vratná, takže červená krvinka může kyslík v plicích přijmout a ve tkáních odevzdat."
+    ],
+    "memory": "Železo v hemu přiváží kyslík.",
+    "answer": 3
+  },
+  {
+    "id": 103,
+    "category": "Fyziologie člověka",
+    "bookRef": "2020 · Fyzioterapie · Biologie 25 · str. 3 (PDF 3)",
+    "sourcePages": "3 (PDF 3)",
+    "question": "Co pepsin v žaludku rozkládá na kratší řetězce?",
+    "title": "Bílkoviny",
+    "options": [
+      "Škrob",
+      "Tuky",
+      "Bílkoviny",
+      "Celulózu"
+    ],
+    "paragraphs": [
+      "Bílkovina je řetězec aminokyselin. Pepsin štěpí některé vazby uvnitř řetězce, takže vznikají kratší úseky zvané peptidy.",
+      "Za běžných podmínek působí pepsin v žaludku. Ve slinách se na začátku trávení uplatňuje jiný enzym, slinná amyláza."
+    ],
+    "memory": "Pepsin vytváří peptidy.",
+    "answer": 2
+  },
+  {
+    "id": 104,
+    "category": "Fyziologie člověka",
+    "bookRef": "2020 · Fyzioterapie · Biologie 26 · str. 4 (PDF 4)",
+    "sourcePages": "4 (PDF 4)",
+    "question": "Kolik párů velkých slinných žláz má člověk?",
+    "title": "Tři",
+    "options": [
+      "Dva",
+      "Tři",
+      "Čtyři",
+      "Šest"
+    ],
+    "paragraphs": [
+      "Na každé straně je žláza příušní, podčelistní a podjazyková. V ústech jsou i drobné slinné žlázy, které se do těchto tří párů nepočítají."
+    ],
+    "memory": "U ucha, pod čelistí, pod jazykem.",
+    "answer": 1
+  },
+  {
+    "id": 105,
+    "category": "Fyziologie člověka",
+    "bookRef": "2020 · Fyzioterapie · Biologie 27 · str. 4 (PDF 4)",
+    "sourcePages": "4 (PDF 4)",
+    "question": "Kterou složku sousta začíná v ústech štěpit slinná amyláza neboli ptyalin?",
+    "title": "Škrob",
+    "options": [
+      "Škrob",
+      "Kolagen",
+      "Cholesterol",
+      "Kuchyňskou sůl"
+    ],
+    "paragraphs": [
+      "Škrob je složen z dlouhých řetězců glukózových jednotek. Slinná amyláza některé vazby rozštěpí už během žvýkání."
+    ],
+    "memory": "Amyláza začíná se škrobem v ústech.",
+    "answer": 0
+  },
+  {
+    "id": 106,
+    "category": "Fyziologie člověka",
+    "bookRef": "2020 · Fyzioterapie · Biologie 28 · str. 4 (PDF 4)",
+    "sourcePages": "4 (PDF 4)",
+    "question": "Ve kterém orgánu vzniká žluč ještě předtím, než se může dostat do žlučníku?",
+    "title": "V játrech",
+    "options": [
+      "Ve slinivce",
+      "Ve žaludku",
+      "Ve žlučníku",
+      "V játrech"
+    ],
+    "paragraphs": [
+      "Jaterní buňky žluč vytvářejí. Žlučník ji mezi jídly shromažďuje a zahušťuje, odkud se při trávení může uvolnit do tenkého střeva."
+    ],
+    "memory": "Játra vyrábějí, žlučník skladuje.",
+    "answer": 3
+  },
+  {
+    "id": 107,
+    "category": "Fyziologie člověka",
+    "bookRef": "2020 · Fyzioterapie · Biologie 29 · str. 4 (PDF 4)",
+    "sourcePages": "4 (PDF 4)",
+    "question": "Kterou z těchto látek ledviny běžně odstraňují jako dusíkatý odpad metabolismu bílkovin?",
+    "title": "Močovinu",
+    "options": [
+      "Hemoglobin v neporušených krvinkách",
+      "Albumin ve velkém množství",
+      "Močovinu",
+      "Zásobní glykogen"
+    ],
+    "paragraphs": [
+      "Při zpracování aminokyselin vzniká dusíkatý odpad. Játra část tohoto dusíku zabudují do močoviny a ledviny ji odvádějí močí.",
+      "Ledviny kromě odstraňování dusíkatých odpadů pomáhají regulovat, kolik vody a iontů tělo zadrží a kolik jich vyloučí."
+    ],
+    "memory": "Močovina nese odpadní dusík.",
+    "answer": 2
+  },
+  {
+    "id": 108,
+    "category": "Fyziologie člověka",
+    "bookRef": "2020 · Fyzioterapie · Biologie 30 · str. 4 (PDF 4)",
+    "sourcePages": "4 (PDF 4)",
+    "question": "Proč je objem definitivní moči za den mnohem menší než objem prvotního filtrátu?",
+    "title": "Většina filtrované vody se v ledvinných kanálcích vstřebá zpět",
+    "options": [
+      "Filtrát se celý uloží ve žlučníku",
+      "Voda se v měchýři mění na močovinu",
+      "Většina filtrované vody se v ledvinných kanálcích vstřebá zpět",
+      "Většina filtrátu odchází přímo močovou trubicí"
+    ],
+    "paragraphs": [
+      "V ledvinných klubíčkách přechází voda a malé rozpuštěné látky z krve do filtrátu. Teprve při průchodu kanálky se velká část vody vrátí do krve."
+    ],
+    "memory": "Klubíčko filtruje, kanálky vracejí.",
+    "answer": 2
+  },
+  {
+    "id": 109,
+    "category": "Nervová soustava",
+    "bookRef": "2020 · Fyzioterapie · Biologie 31 · str. 4 (PDF 4)",
+    "sourcePages": "4 (PDF 4)",
+    "question": "Jaká činnost je typická pro neuron, který přenáší povel ke svalu?",
+    "title": "Vznik a vedení elektrického vzruchu",
+    "options": [
+      "Filtrace krevní plazmy",
+      "Vznik a vedení elektrického vzruchu",
+      "Tvorba kloubní tekutiny",
+      "Pohlcování staré kostní hmoty"
+    ],
+    "paragraphs": [
+      "Změna elektrického napětí na membráně se může šířit nervovým vláknem. Povel se tím dostane od těla neuronu až k jeho zakončení u svalu.",
+      "Neuron je základní funkční buňka nervové soustavy. Vedle neuronů jsou pro její činnost důležité také podpůrné buňky zvané glie."
+    ],
+    "memory": "Neuron vede signál.",
+    "answer": 1
+  },
+  {
+    "id": 110,
+    "category": "Nervová soustava",
+    "bookRef": "2020 · Fyzioterapie · Biologie 32 · str. 4 (PDF 4)",
+    "sourcePages": "4 (PDF 4)",
+    "question": "Která část typického neuronu přijímá četné vstupy od okolních neuronů a vede jejich vliv k tělu buňky?",
+    "title": "Dendrity",
+    "options": [
+      "Dendrity",
+      "Myelinová pochva",
+      "Koncové větve výstupního axonu",
+      "Jaderný obal"
+    ],
+    "paragraphs": [
+      "Dendrity se větví, takže mohou přijímat mnoho spojení. V těle neuronu a jeho okolí se účinky těchto signálů sčítají."
+    ],
+    "memory": "Dendrity přijímají jako větve antény.",
+    "answer": 0
+  },
+  {
+    "id": 111,
+    "category": "Nervová soustava",
+    "bookRef": "2020 · Fyzioterapie · Biologie 33 · str. 4 (PDF 4)",
+    "sourcePages": "4 (PDF 4)",
+    "question": "Jak se nazývá specializované místo, kde neuron předává signál další buňce?",
+    "title": "Synapse",
+    "options": [
+      "Centromera",
+      "Glomerulus",
+      "Alveolus",
+      "Synapse"
+    ],
+    "paragraphs": [
+      "U chemické synapse zakončení neuronu uvolní přenašeč. Ten překoná úzkou štěrbinu a působí na receptory následující buňky."
+    ],
+    "memory": "Synapse předává zprávu dál.",
+    "answer": 3
+  },
+  {
+    "id": 112,
+    "category": "Nervová soustava",
+    "bookRef": "2020 · Fyzioterapie · Biologie 35 · str. 5 (PDF 5)",
+    "sourcePages": "5 (PDF 5)",
+    "question": "Které tři části tvoří mozkový kmen?",
+    "title": "Prodloužená mícha, most a střední mozek",
+    "options": [
+      "Mozeček, most a koncový mozek",
+      "Mezimozek, mozeček a mícha",
+      "Prodloužená mícha, most a střední mozek",
+      "Střední mozek, mezimozek a koncový mozek"
+    ],
+    "paragraphs": [
+      "Od míchy směrem vzhůru navazuje prodloužená mícha, most a střední mozek. Mozeček leží v sousedství kmene a patří k jiné části mozku."
+    ],
+    "memory": "Odspodu: prodloužená mícha, most, střední mozek.",
+    "answer": 2
+  },
+  {
+    "id": 113,
+    "category": "Genetika a dělení buněk",
+    "bookRef": "2020 · Fyzioterapie · Biologie 36 · str. 5 (PDF 5)",
+    "sourcePages": "5 (PDF 5)",
+    "question": "Dva růžové hledíky mají genotyp Rr. RR je červený, rr bílý. Jaká část potomků bude podle modelu růžová?",
+    "title": "Jedna polovina",
+    "options": [
+      "Jedna čtvrtina",
+      "Jedna polovina",
+      "Tři čtvrtiny",
+      "Všichni"
+    ],
+    "paragraphs": [
+      "Každý rodič může předat R nebo r. Ze čtyř stejně pravděpodobných kombinací dávají dvě Rr, jedna RR a jedna rr. Růžová je tedy prostřední, heterozygotní varianta.",
+      "Při křížení růžového Rr s bílým rr může první rodič předat R nebo r, zatímco druhý vždy předá r. Potomci jsou proto z poloviny růžoví a z poloviny bílí."
+    ],
+    "memory": "RR, Rr, rR, rr: dvakrát růžová.",
+    "answer": 1
+  },
+  {
+    "id": 114,
+    "category": "Genetika a dělení buněk",
+    "bookRef": "2020 · Fyzioterapie · Biologie 37 · str. 5 (PDF 5)",
+    "sourcePages": "5 (PDF 5)",
+    "question": "Kterou krevní skupinu nemůže mít ve standardním modelu AB0 dítě dvou rodičů se skupinou AB?",
+    "title": "0",
+    "options": [
+      "0",
+      "A",
+      "B",
+      "AB"
+    ],
+    "paragraphs": [
+      "Každý rodič může předat alelu A nebo B. Pro skupinu 0 by dítě muselo získat alelu 0 od obou, ale žádný z těchto rodičů ji nemá.",
+      "Kombinace AA, AB, BA a BB dávají čtvrtinu dětí se skupinou A, polovinu se skupinou AB a čtvrtinu se skupinou B."
+    ],
+    "memory": "AB × AB nemá odkud vzít nulu.",
+    "answer": 0
+  },
+  {
+    "id": 115,
+    "category": "Genetika a dělení buněk",
+    "bookRef": "2020 · Fyzioterapie · Biologie 38 · str. 5 (PDF 5)",
+    "sourcePages": "5 (PDF 5)",
+    "question": "K čemu vede meióza při tvorbě lidských pohlavních buněk?",
+    "title": "Ke snížení počtu chromozomových sad ze dvou na jednu",
+    "options": [
+      "Ke snížení počtu chromozomových sad ze dvou na jednu",
+      "Ke zdvojení počtu sad v každé gametě",
+      "Ke splynutí spermie a vajíčka",
+      "Ke vzniku dvou shodných diploidních tělních buněk"
+    ],
+    "paragraphs": [
+      "Při meióze se od sebe oddělí členové homologních párů. Gameta tak nese jednu sadu a při oplození se od obou rodičů spojí opět dvě."
+    ],
+    "memory": "Meióza půlí počet sad.",
+    "answer": 0
+  },
+  {
+    "id": 116,
+    "category": "Genetika a dělení buněk",
+    "bookRef": "2020 · Fyzioterapie · Biologie 40 · str. 5 (PDF 5)",
+    "sourcePages": "5 (PDF 5)",
+    "question": "Který pohlavní chromozom obsahuje běžná lidská vajíčková buňka vzniklá u ženy s karyotypem 46,XX?",
+    "title": "Jeden X",
+    "options": [
+      "Jeden Y",
+      "X a Y",
+      "Dva X",
+      "Jeden X"
+    ],
+    "paragraphs": [
+      "Vajíčko dostává z páru pohlavních chromozomů jediný chromozom. Protože oba členové původního páru jsou X, připadá v tomto případě v úvahu pouze X."
+    ],
+    "memory": "Z páru XX získá vajíčko jedno X.",
+    "answer": 3
+  },
+  {
+    "id": 117,
+    "category": "Genetika a dělení buněk",
+    "bookRef": "2020 · Fyzioterapie · Biologie 41 · str. 5 (PDF 5)",
+    "sourcePages": "5 (PDF 5)",
+    "question": "Otec má hemofilii A vázanou na X, matka sledovanou variantu nenese. Kdo podle jednoduchého modelu zdědí otcovo X s variantou?",
+    "title": "Všechny dcery",
+    "options": [
+      "Všichni synové",
+      "Polovina synů",
+      "Všechny dcery",
+      "Žádné dítě"
+    ],
+    "paragraphs": [
+      "Dceři předá otec svůj jediný X, synovi předá Y. Dcery v tomto příkladu dostanou druhou kopii genu od matky a jsou přenašečky."
+    ],
+    "memory": "Otcovo X jde dcerám.",
+    "answer": 2
+  },
+  {
+    "id": 118,
+    "category": "Genetika a dělení buněk",
+    "bookRef": "2020 · Fyzioterapie · Biologie 43 · str. 6 (PDF 6)",
+    "sourcePages": "6 (PDF 6)",
+    "question": "Jaký poměr čtyř fenotypů očekáváme při křížení AaBb × AaBb, pokud se geny dědí nezávisle, u obou platí úplná dominance a vzájemně si nemění projev?",
+    "title": "9 : 3 : 3 : 1",
+    "options": [
+      "1 : 2 : 1 : 0",
+      "9 : 3 : 3 : 1",
+      "3 : 1 : 3 : 1",
+      "1 : 1 : 1 : 1"
+    ],
+    "paragraphs": [
+      "Pro každý znak zvlášť má dominantní fenotyp pravděpodobnost 3/4. Oba dominantní projevy mají proto společně pravděpodobnost 9/16. Kombinace zbývajících projevů dávají 3/16, 3/16 a 1/16."
+    ],
+    "memory": "Pro dva nezávislé znaky vynásob dvě dvojice 3 : 1.",
+    "answer": 1
+  },
+  {
+    "id": 119,
+    "category": "Genetika a dělení buněk",
+    "bookRef": "2020 · Fyzioterapie · Biologie 44 · str. 6 (PDF 6)",
+    "sourcePages": "6 (PDF 6)",
+    "question": "Matka má genotyp A0 a otec B0. Jaká je při běžné dědičnosti AB0 pravděpodobnost skupiny 0 u jednoho dítěte?",
+    "title": "25 %",
+    "options": [
+      "25 %",
+      "0 %",
+      "50 %",
+      "75 %"
+    ],
+    "paragraphs": [
+      "Skupina 0 vyžaduje dvě alely 0. Od každého rodiče má dítě poloviční šanci získat 0, a tak společná pravděpodobnost činí polovinu z poloviny.",
+      "Genotypy AB, A0, B0 a 00 vznikají každý s pravděpodobností 25 %, takže stejnou šanci mají všechny čtyři skupiny."
+    ],
+    "memory": "Polovina krát polovina je čtvrtina.",
+    "answer": 0
+  },
+  {
+    "id": 120,
+    "category": "Genetika a dělení buněk",
+    "bookRef": "2020 · Fyzioterapie · Biologie 46 · str. 6 (PDF 6)",
+    "sourcePages": "6 (PDF 6)",
+    "question": "Jaký úsek mRNA vznikne přepisem krátké matriční sekvence DNA 3′-TAC-5′?",
+    "title": "5′-AUG-3′",
+    "options": [
+      "5′-ATG-3′",
+      "5′-UAC-3′",
+      "5′-GUA-3′",
+      "5′-AUG-3′"
+    ],
+    "paragraphs": [
+      "RNA vzniká proti matrici v opačném směru. K T se přiřadí A, k A uracil U a k C guanin G. Proto čteme novou RNA jako AUG."
+    ],
+    "memory": "Při přepisu páruj báze a v RNA použij U.",
+    "answer": 3
+  },
+  {
+    "id": 121,
+    "category": "Genetika a dělení buněk",
+    "bookRef": "2020 · Fyzioterapie · Biologie 47 · str. 6 (PDF 6)",
+    "sourcePages": "6 (PDF 6)",
+    "question": "Jaké genotypy vzniknou běžnou mitózou buňky AaBb bez mutace či chyby při dělení?",
+    "title": "Obě dceřiné buňky budou AaBb",
+    "options": [
+      "Jedna bude AABB a druhá aabb",
+      "Obě budou mít jen AB",
+      "Obě dceřiné buňky budou AaBb",
+      "Vzniknou čtyři různé haploidní buňky"
+    ],
+    "paragraphs": [
+      "DNA se před mitózou zkopíruje. Při dělení dostane každá dcera jednu kopii každého původního chromozomu, takže oba páry alel zůstávají zachované."
+    ],
+    "memory": "Mitóza rozděluje kopie do dvou buněk.",
+    "answer": 2
+  },
+  {
+    "id": 122,
+    "category": "Genetika a dělení buněk",
+    "bookRef": "2020 · Fyzioterapie · Biologie 48 · str. 6 (PDF 6)",
+    "sourcePages": "6 (PDF 6)",
+    "question": "Kolik chromatid obsahuje lidská tělní buňka se 46 chromozomy v metafázi mitózy?",
+    "title": "92",
+    "options": [
+      "23",
+      "46",
+      "92",
+      "184"
+    ],
+    "paragraphs": [
+      "Před mitózou se DNA zdvojila. V metafázi ještě drží dvě sesterské chromatidy každého chromozomu u sebe, takže počítáme 46 dvojic chromatid."
+    ],
+    "memory": "46 chromozomů krát dvě chromatidy.",
+    "answer": 2
+  },
+  {
+    "id": 123,
+    "category": "Genetika a dělení buněk",
+    "bookRef": "2020 · Fyzioterapie · Biologie 49 · str. 7 (PDF 7)",
+    "sourcePages": "7 (PDF 7)",
+    "question": "Jak by se v modelu dominantního znaku vázaného na X projevil přenos od postiženého otce a matky bez příslušné varianty při úplné penetranci?",
+    "title": "Znak se projeví u všech dcer a u žádného syna",
+    "options": [
+      "Znak se projeví jen u synů",
+      "Znak se projeví u všech dcer a u žádného syna",
+      "Polovina dcer získá otcovo X a polovina jeho Y",
+      "Žádná dcera variantu nezdědí"
+    ],
+    "paragraphs": [
+      "Všechny dcery získají od otce jeho X. Protože varianta je dominantní, stačí jim jedna kopie k projevu znaku. Synové získají místo otcova X jeho Y."
+    ],
+    "memory": "Dominantní znak na otcově X se projeví u dcer.",
+    "answer": 1
+  },
+  {
+    "id": 124,
+    "category": "Genetika a dělení buněk",
+    "bookRef": "2020 · Fyzioterapie · Biologie 50 · str. 7 (PDF 7)",
+    "sourcePages": "7 (PDF 7)",
+    "question": "Výchozí buňka má deset párů chromozomů. Kolik chromozomů má každá dcera po běžné mitóze před dalším kopírováním DNA?",
+    "title": "20 jednochromatidových chromozomů",
+    "options": [
+      "20 jednochromatidových chromozomů",
+      "10 jednochromatidových chromozomů",
+      "20 dvouchromatidových chromozomů",
+      "40 dvouchromatidových chromozomů"
+    ],
+    "paragraphs": [
+      "Deset párů znamená dvacet chromozomů. Sesterské chromatidy se při mitóze oddělí a od té chvíle je každá samostatným chromozomem v jedné z nových buněk."
+    ],
+    "memory": "Po mitóze stejný počet chromozomů, každý s jednou chromatidou.",
+    "answer": 0
+  },
+  {
+    "id": 125,
+    "category": "Filozofie a dějiny vědy",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 2 · str. 1 (PDF 15)",
+    "sourcePages": "1 (PDF 15)",
+    "question": "Kterou otázku zkoumá ontologie?",
+    "title": "Co znamená existovat a jaké druhy jsoucna rozlišujeme?",
+    "options": [
+      "Jak spolehlivá je výpověď svědka?",
+      "Jak má člověk jednat při střetu povinností?",
+      "Jak se mění cena při poklesu poptávky?",
+      "Co znamená existovat a jaké druhy jsoucna rozlišujeme?"
+    ],
+    "paragraphs": [
+      "Ontologie je filozofické zkoumání bytí. Může se třeba ptát, v jakém smyslu existují fyzický předmět a číslo."
+    ],
+    "memory": "Ontologie se ptá po bytí.",
+    "answer": 3
+  },
+  {
+    "id": 126,
+    "category": "Filozofie a dějiny vědy",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 3 · str. 1 (PDF 15)",
+    "sourcePages": "1 (PDF 15)",
+    "question": "Co podle tradičního výkladu považoval Thalés z Milétu za počátek všeho?",
+    "title": "Vodu",
+    "options": [
+      "Oheň",
+      "Vzduch",
+      "Vodu",
+      "Atom"
+    ],
+    "paragraphs": [
+      "Thalés hledal společný přírodní základ rozmanitých věcí. Jeho odpověď patří do dějin filozofie jako jeden z raných pokusů vyložit původ světa."
+    ],
+    "memory": "Thalés hledal počátek ve vodě.",
+    "answer": 2
+  },
+  {
+    "id": 127,
+    "category": "Filozofie a dějiny vědy",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 4 · str. 1 (PDF 15)",
+    "sourcePages": "1 (PDF 15)",
+    "question": "Co vystihuje přístup raných řeckých přírodních filozofů k otázce vzniku světa?",
+    "title": "Hledali vysvětlení v přírodních principech",
+    "options": [
+      "Pokládali vyprávění o rodokmenu bohů za jedinou metodu",
+      "Hledali vysvětlení v přírodních principech",
+      "Vyžadovali zkoumat přírodu výhradně mikroskopem",
+      "Omezovali zkoumání na zákony měst"
+    ],
+    "paragraphs": [
+      "Za pestrostí jevů hledali společnou látku nebo pravidlo proměn. Tím otevřeli otázku, zda lze přírodu vysvětlit ději uvnitř přírody samotné."
+    ],
+    "memory": "Přírodu vysvětluj pomocí přírody.",
+    "answer": 1
+  },
+  {
+    "id": 128,
+    "category": "Filozofie a dějiny vědy",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 5 · str. 1 (PDF 15)",
+    "sourcePages": "1 (PDF 15)",
+    "question": "Který antický myslitel je spojen s představou atomů pohybujících se v prázdnu?",
+    "title": "Démokritos",
+    "options": [
+      "Démokritos",
+      "Sókratés",
+      "Platón",
+      "Thalés"
+    ],
+    "paragraphs": [
+      "Podle starověkého atomismu vzniká rozmanitost věcí uspořádáním částic. Šlo o filozofickou představu dávno před experimentální atomovou fyzikou."
+    ],
+    "memory": "Démokritos: atomy a prázdno.",
+    "answer": 0
+  },
+  {
+    "id": 129,
+    "category": "Filozofie a dějiny vědy",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 6 · str. 1 (PDF 15)",
+    "sourcePages": "1 (PDF 15)",
+    "question": "Ve kterém dialogu Platón zkoumá spravedlnost pomocí představy uspořádané obce?",
+    "title": "Ústava",
+    "options": [
+      "Ústava",
+      "Nová Atlantida",
+      "Sluneční stát",
+      "Kritika čistého rozumu"
+    ],
+    "paragraphs": [
+      "Rozhovor o spravedlivém člověku Platón rozvíjí také na příkladu celé obce. Jeho Ústava proto patří mezi významná díla politické filozofie."
+    ],
+    "memory": "Platónova obec patří do Ústavy.",
+    "answer": 0
+  },
+  {
+    "id": 130,
+    "category": "Filozofie a dějiny vědy",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 11 · str. 2 (PDF 16)",
+    "sourcePages": "2 (PDF 16)",
+    "question": "Které téma je ústřední v existencialismu Jeana-Paula Sartra?",
+    "title": "Lidská svoboda a odpovědnost za volbu",
+    "options": [
+      "Původ všech věcí z vody",
+      "Pohyb planet kolem Slunce",
+      "Rozdělení potřeb podle jejich naléhavosti",
+      "Lidská svoboda a odpovědnost za volbu"
+    ],
+    "paragraphs": [
+      "I v omezené situaci člověk podle Sartra zaujímá postoj a volí, jak jednat. Se svobodou je proto spojena odpovědnost za vlastní jednání.",
+      "Existencialismus se jako výrazný intelektuální směr ve Francii rozšířil za druhé světové války a po ní. Některé jeho myšlenkové kořeny jsou starší."
+    ],
+    "memory": "Sartre spojuje volbu s odpovědností.",
+    "answer": 3
+  },
+  {
+    "id": 131,
+    "category": "Filozofie a dějiny vědy",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 12 · str. 2 (PDF 16)",
+    "sourcePages": "2 (PDF 16)",
+    "question": "Jakým mechanismem Charles Darwin vysvětloval vývoj adaptací organismů?",
+    "title": "Přírodním výběrem",
+    "options": [
+      "Vědomou volbou dědičných znaků jednotlivcem",
+      "Stejným rozmnožováním všech variant bez ohledu na prostředí",
+      "Přírodním výběrem",
+      "Přeměnou všech druhů podle jediného pevného plánu"
+    ],
+    "paragraphs": [
+      "Jedinci se liší a některé rozdíly jsou dědičné. Jestliže nositelé určité varianty v daném prostředí zanechávají více potomků, může tato varianta po generace přibývat."
+    ],
+    "memory": "Výběr mění zastoupení dědičných znaků v populaci.",
+    "answer": 2
+  },
+  {
+    "id": 132,
+    "category": "Filozofie a dějiny vědy",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 13 · str. 2 (PDF 16)",
+    "sourcePages": "2 (PDF 16)",
+    "question": "Co znamená, když období ve filozofii označíme jako myšlenkově pluralitní?",
+    "title": "Působí v něm více různých filozofických směrů",
+    "options": [
+      "Všichni myslitelé uznávají jedinou metodu",
+      "Působí v něm více různých filozofických směrů",
+      "Všechny filozofické otázky jsou už vyřešeny",
+      "Každý směr musí dospět ke stejným závěrům"
+    ],
+    "paragraphs": [
+      "Různé školy mohou ve stejné době zkoumat odlišné otázky nebo se lišit způsobem argumentace. Slovo pluralita zachycuje právě tuto mnohost."
+    ],
+    "memory": "Pluralita znamená více přístupů.",
+    "answer": 1
+  },
+  {
+    "id": 133,
+    "category": "Psychologie",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 14 · str. 2 (PDF 16)",
+    "sourcePages": "2 (PDF 16)",
+    "question": "S kým je spojena hierarchie lidských potřeb, která se často znázorňuje pyramidou?",
+    "title": "S Abrahamem Maslowem",
+    "options": [
+      "S Abrahamem Maslowem",
+      "Se Sigmundem Freudem",
+      "S Alfredem Adlerem",
+      "S Jeanem Piagetem"
+    ],
+    "paragraphs": [
+      "Maslowův model rozlišuje například tělesné potřeby, bezpečí, vztahy a seberealizaci. Nabízí orientaci v motivaci, pořadí pro konkrétního člověka však nemusí být pevné."
+    ],
+    "memory": "Maslow uspořádal potřeby do hierarchie.",
+    "answer": 0
+  },
+  {
+    "id": 134,
+    "category": "Psychologie",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 16 · str. 2 (PDF 16)",
+    "sourcePages": "2 (PDF 16)",
+    "question": "Který příklad nejlépe vystihuje potřebu afiliace?",
+    "title": "Člověk vyhledává přátelský kontakt a chce někam patřit",
+    "options": [
+      "Sportovec usiluje výhradně o osobní rekord",
+      "Člověk se napije, aby zahnal žízeň",
+      "Řidič si odpočine kvůli ospalosti",
+      "Člověk vyhledává přátelský kontakt a chce někam patřit"
+    ],
+    "paragraphs": [
+      "Afiliace vyjadřuje potřebu pozitivních vztahů. Při nástupu do nové školy se projeví třeba tím, že člověk hledá spolužáky, se kterými se bude cítit přijímaný."
+    ],
+    "memory": "Afiliace znamená chtít být s druhými.",
+    "answer": 3
+  },
+  {
+    "id": 135,
+    "category": "Psychologie",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 17 · str. 2 (PDF 16)",
+    "sourcePages": "2 (PDF 16)",
+    "question": "Které tvrzení nejlépe vystihuje vlivy na psychický vývoj člověka?",
+    "title": "Vývoj utváří souhra dědičných dispozic a prostředí",
+    "options": [
+      "Po narození už prostředí vývoj neovlivňuje",
+      "Vývoj zcela určuje jediný gen",
+      "Vývoj utváří souhra dědičných dispozic a prostředí",
+      "Všichni lidé vychovávaní spolu mají totožný vývoj"
+    ],
+    "paragraphs": [
+      "Dispozice ovlivňují například to, jak snadno si dítě něco osvojuje. Příležitosti k učení a zkušenosti zase ovlivňují, jak své předpoklady rozvine."
+    ],
+    "memory": "Předpoklady se rozvíjejí v prostředí.",
+    "answer": 2
+  },
+  {
+    "id": 136,
+    "category": "Psychologie",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 20 · str. 3 (PDF 17)",
+    "sourcePages": "3 (PDF 17)",
+    "question": "Co patří k základnímu předmětu současné psychologie?",
+    "title": "Prožívání a chování lidí",
+    "options": [
+      "Pouze stavba kosterních svalů",
+      "Pouze změny cen na trzích",
+      "Prožívání a chování lidí",
+      "Pouze chemické složení hornin"
+    ],
+    "paragraphs": [
+      "Psychologie zkoumá jak pozorovatelné jednání, tak vnitřní procesy, například paměť nebo emoce. Může tedy sledovat, co člověk udělá i jak situaci prožívá."
+    ],
+    "memory": "Psychologie zkoumá dění uvnitř i chování navenek.",
+    "answer": 2
+  },
+  {
+    "id": 137,
+    "category": "Psychologie",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 21 · str. 3 (PDF 17)",
+    "sourcePages": "3 (PDF 17)",
+    "question": "Který psychologický směr založil Sigmund Freud?",
+    "title": "Psychoanalýzu",
+    "options": [
+      "Behaviorismus",
+      "Psychoanalýzu",
+      "Individuální psychologii Alfreda Adlera",
+      "Analytickou psychologii Carla Gustava Junga"
+    ],
+    "paragraphs": [
+      "Freud připisoval význam nevědomým procesům a vnitřním konfliktům. Pojmy analytická psychologie a individuální psychologie se vztahují k jiným autorům."
+    ],
+    "memory": "Freud a psychoanalýza.",
+    "answer": 1
+  },
+  {
+    "id": 138,
+    "category": "Psychologie",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 24 · str. 3 (PDF 17)",
+    "sourcePages": "3 (PDF 17)",
+    "question": "Třída odpovídá na otázku, s kým by chtěla spolupracovat. Jakou metodou lze z těchto voleb zmapovat vztahy ve skupině?",
+    "title": "Sociometrií",
+    "options": [
+      "Sociometrií",
+      "Spirometrií",
+      "Antropometrií",
+      "Audiometrií"
+    ],
+    "paragraphs": [
+      "Vzájemné volby lze zakreslit do sítě. Z ní je vidět například to, kteří spolužáci se vybírají navzájem nebo kdo zůstává stranou."
+    ],
+    "memory": "Sociometrie mapuje volby mezi lidmi.",
+    "answer": 0
+  },
+  {
+    "id": 139,
+    "category": "Psychologie",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 25 · str. 3 (PDF 17)",
+    "sourcePages": "3 (PDF 17)",
+    "question": "Jaký pojem označuje místo člověka v sociálním systému, například postavení učitele ve škole?",
+    "title": "Sociální pozice",
+    "options": [
+      "Sociální norma",
+      "Sociální mobilita",
+      "Resocializace",
+      "Sociální pozice"
+    ],
+    "paragraphs": [
+      "Pozice říká, jaké místo člověk ve skupině zaujímá. S tímto místem je spojena role, tedy očekávání, jak se má v určitých situacích chovat."
+    ],
+    "memory": "Pozice je místo, role je očekávané chování.",
+    "answer": 3
+  },
+  {
+    "id": 140,
+    "category": "Psychologie",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 26 · str. 3 (PDF 17)",
+    "sourcePages": "3 (PDF 17)",
+    "question": "Který z těchto prožitků signalizuje především tělesnou potřebu přijmout potravu?",
+    "title": "Hlad",
+    "options": [
+      "Hněv",
+      "Strach",
+      "Hlad",
+      "Překvapení"
+    ],
+    "paragraphs": [
+      "Hlad motivuje člověka hledat jídlo. Může být doprovázen emocemi, například podrážděním, ale sám signalizuje zejména stav těla."
+    ],
+    "memory": "Hlad vybízí k jídlu.",
+    "answer": 2
+  },
+  {
+    "id": 141,
+    "category": "Informatika",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 27 · str. 3 (PDF 17)",
+    "sourcePages": "3 (PDF 17)",
+    "question": "Které zařízení v uvedené činnosti předává výsledek práce počítače uživateli jako výstup?",
+    "title": "Tiskárna při tisku stránky",
+    "options": [
+      "Klávesnice při zadávání textu",
+      "Tiskárna při tisku stránky",
+      "Mikrofon při záznamu hlasu",
+      "Myš při zadání polohy kurzoru"
+    ],
+    "paragraphs": [
+      "Směr přenosu rozhoduje: při tisku jde informace z počítače na papír. U ostatních činností člověk nebo okolí poskytuje počítači vstupní data."
+    ],
+    "memory": "Vstup jde dovnitř, výstup ven.",
+    "answer": 1
+  },
+  {
+    "id": 142,
+    "category": "Informatika",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 30 · str. 4 (PDF 18)",
+    "sourcePages": "4 (PDF 18)",
+    "question": "Co znamená údaj 1920 × 1080 u nativního rozlišení monitoru?",
+    "title": "Počty obrazových bodů na šířku a na výšku",
+    "options": [
+      "Počty obrazových bodů na šířku a na výšku",
+      "Šířku a výšku panelu v milimetrech",
+      "Nejnižší a nejvyšší obnovovací frekvenci",
+      "Počty odstínů červené a zelené"
+    ],
+    "paragraphs": [
+      "Obraz tvoří mřížka pixelů. Dva stejně velké monitory mohou mít různý počet pixelů, proto rozlišení a fyzická velikost jsou dva různé údaje."
+    ],
+    "memory": "Rozlišení počítá body, úhlopříčka měří délku.",
+    "answer": 0
+  },
+  {
+    "id": 143,
+    "category": "Informatika",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 31 · str. 4 (PDF 18)",
+    "sourcePages": "4 (PDF 18)",
+    "question": "Jakou technologii běžně používá telefon k bezdrátovému připojení blízkých sluchátek?",
+    "title": "Bluetooth",
+    "options": [
+      "Bluetooth",
+      "GPS",
+      "HDMI kabelem",
+      "Čtečku čárových kódů"
+    ],
+    "paragraphs": [
+      "Telefon a sluchátka si po spárování předávají data rádiovým spojením. GPS naopak slouží k určování polohy pomocí signálů družic."
+    ],
+    "memory": "Bluetooth spojí blízká zařízení.",
+    "answer": 0
+  },
+  {
+    "id": 144,
+    "category": "Právní pojmy",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 33 · str. 4 (PDF 18)",
+    "sourcePages": "4 (PDF 18)",
+    "question": "Co v právní teorii označuje subjektivní právo?",
+    "title": "Oprávnění konkrétního subjektu",
+    "options": [
+      "Souhrn všech právních norem",
+      "Osobní domněnku o spravedlnosti",
+      "Název státní instituce",
+      "Oprávnění konkrétního subjektu"
+    ],
+    "paragraphs": [
+      "Jestliže má věřitel právo požadovat dohodnuté plnění, jde o jeho konkrétní oprávnění. Souhrn pravidel, z nichž oprávnění vyplývají, se označuje jako objektivní právo."
+    ],
+    "memory": "Subjektivní právo někomu přísluší.",
+    "answer": 3
+  },
+  {
+    "id": 145,
+    "category": "Právní pojmy",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 34 · str. 4 (PDF 18)",
+    "sourcePages": "4 (PDF 18)",
+    "question": "Co vyjadřuje datum účinnosti právní normy?",
+    "title": "Od kdy se podle ní postupuje",
+    "options": [
+      "Kdy byl napsán její první návrh",
+      "Kdy začala veřejná diskuse",
+      "Od kdy se podle ní postupuje",
+      "Kdy byla přeložena do jiného jazyka"
+    ],
+    "paragraphs": [
+      "Vyhlášení předpisu a okamžik, od kterého se použijí jeho pravidla, mohou být časově odlišné. Právě druhý okamžik označuje účinnost."
+    ],
+    "memory": "Účinnost říká, odkdy pravidlo působí.",
+    "answer": 2
+  },
+  {
+    "id": 146,
+    "category": "Právní pojmy",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 36 · str. 4 (PDF 18)",
+    "sourcePages": "4 (PDF 18)",
+    "question": "Do kterého právního odvětví patří například vztahy mezi rodiči a dětmi?",
+    "title": "Rodinné právo",
+    "options": [
+      "Trestní právo",
+      "Rodinné právo",
+      "Finanční právo",
+      "Ústavní právo"
+    ],
+    "paragraphs": [
+      "Rodinné právo upravuje osobní a majetkové vztahy v rodině. V základním členění se řadí k právu soukromému."
+    ],
+    "memory": "Rodinné vztahy spadají do rodinného práva.",
+    "answer": 1
+  },
+  {
+    "id": 147,
+    "category": "Ekonomie",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 40 · str. 5 (PDF 19)",
+    "sourcePages": "5 (PDF 19)",
+    "question": "Která trojice vystihuje základní ekonomické otázky při využívání omezených zdrojů?",
+    "title": "Co vyrábět, jak vyrábět a pro koho vyrábět",
+    "options": [
+      "Co vyrábět, jak vyrábět a pro koho vyrábět",
+      "Kdy otevřít, kdy zavřít a kdy uklízet",
+      "Kolik vážit, kolik měřit a kolik počítat",
+      "Kdo tiskne peníze, kdo je skladuje a kdo je přepravuje"
+    ],
+    "paragraphs": [
+      "Zdroje nestačí na všechno. Je tedy nutné rozhodnout o výrobcích, o způsobu jejich vzniku i o tom, komu budou výsledky dostupné."
+    ],
+    "memory": "Výrobek, způsob, příjemce.",
+    "answer": 0
+  },
+  {
+    "id": 148,
+    "category": "Ekonomie",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 41 · str. 5 (PDF 19)",
+    "sourcePages": "5 (PDF 19)",
+    "question": "Jakou souvislost zachycuje poptávková křivka při jinak stejných podmínkách?",
+    "title": "Vztah ceny a množství, které jsou kupující ochotni a schopni koupit",
+    "options": [
+      "Vztah ceny a množství, které chtějí výrobci nabídnout",
+      "Vztah počtu obchodů a jejich plochy",
+      "Vztah počtu zaměstnanců a jejich věku",
+      "Vztah ceny a množství, které jsou kupující ochotni a schopni koupit"
+    ],
+    "paragraphs": [
+      "Při každé uvažované ceně sledujeme rozhodnutí kupujících. Nabídková křivka popisuje druhou stranu trhu, tedy prodávající."
+    ],
+    "memory": "Poptávka se ptá kupujících.",
+    "answer": 3
+  },
+  {
+    "id": 149,
+    "category": "Ekonomie",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 42 · str. 5 (PDF 19)",
+    "sourcePages": "5 (PDF 19)",
+    "question": "Na konkurenčním trhu při dané ceně převyšuje nabízené množství poptávané. Jaký tlak to za jinak stejných podmínek vytváří?",
+    "title": "Tlak na snížení ceny",
+    "options": [
+      "Tlak na povinné zdvojnásobení ceny",
+      "Jistotu zachování ceny",
+      "Tlak na snížení ceny",
+      "Okamžitý zánik všech kupujících"
+    ],
+    "paragraphs": [
+      "Část zboží zbývá neprodaná. Prodávající mohou snížit cenu, aby dali kupujícím důvod koupit více. Jde o směr tlaku, ne o zaručenou okamžitou změnu."
+    ],
+    "memory": "Přebytek zboží tlačí cenu dolů.",
+    "answer": 2
+  },
+  {
+    "id": 150,
+    "category": "Ekonomie",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 44 · str. 5 (PDF 19)",
+    "sourcePages": "5 (PDF 19)",
+    "question": "Co znamená růst celkové cenové hladiny pro kupní sílu jedné koruny?",
+    "title": "Za korunu lze v průměru koupit méně",
+    "options": [
+      "Koruna koupí vždy více každého výrobku",
+      "Každé zboží musí zdražit stejným tempem",
+      "Za korunu lze v průměru koupit méně",
+      "Počet korun v peněžence se automaticky sníží"
+    ],
+    "paragraphs": [
+      "Při inflaci stojí obvyklý nákupní koš více peněz. Stejná částka tedy pokryje menší část nákupu, i když ceny jednotlivých položek rostou různě."
+    ],
+    "memory": "Vyšší cenová hladina znamená nižší kupní sílu peněz.",
+    "answer": 2
+  }
+]

@@ -1,0 +1,1085 @@
+{
+  "source": "623763327-biologie-cloveka.pdf",
+  "pdfPageCount": 121,
+  "printedPageNumbersDifferFromPdf": true,
+  "questionType": "Authored single-correct A–D questions from textbook exposition",
+  "batches": [
+    {
+      "ids": [
+        1,
+        50
+      ],
+      "printedPages": [
+        15,
+        29
+      ],
+      "pdfPages": [
+        8,
+        15
+      ],
+      "topics": [
+        "Introduction and regulation",
+        "Connective tissues",
+        "Bone structure and growth",
+        "Skeleton and joints"
+      ]
+    },
+    {
+      "ids": [
+        51,
+        100
+      ],
+      "printedPages": [
+        30,
+        42
+      ],
+      "pdfPages": [
+        16,
+        22
+      ],
+      "sections": [
+        {
+          "ids": [
+            51,
+            70
+          ],
+          "printedPages": [
+            30,
+            35
+          ],
+          "pdfPages": [
+            16,
+            18
+          ],
+          "topic": "Skeletal, cardiac and smooth muscle"
+        },
+        {
+          "ids": [
+            71,
+            80
+          ],
+          "printedPages": [
+            35,
+            37
+          ],
+          "pdfPages": [
+            18,
+            19
+          ],
+          "topic": "Body fluids and exchange"
+        },
+        {
+          "ids": [
+            81,
+            100
+          ],
+          "printedPages": [
+            37,
+            42
+          ],
+          "pdfPages": [
+            19,
+            22
+          ],
+          "topic": "Blood, cells, hemostasis and blood groups"
+        }
+      ]
+    },
+    {
+      "ids": [
+        101,
+        150
+      ],
+      "printedPages": [
+        43,
+        54
+      ],
+      "pdfPages": [
+        22,
+        28
+      ],
+      "sections": [
+        {
+          "ids": [
+            101,
+            120
+          ],
+          "printedPages": [
+            43,
+            47
+          ],
+          "pdfPages": [
+            22,
+            24
+          ],
+          "topic": "Immune system"
+        },
+        {
+          "ids": [
+            121,
+            135
+          ],
+          "printedPages": [
+            48,
+            51
+          ],
+          "pdfPages": [
+            25,
+            26
+          ],
+          "topic": "Circulation and vessels"
+        },
+        {
+          "ids": [
+            136,
+            150
+          ],
+          "printedPages": [
+            51,
+            54
+          ],
+          "pdfPages": [
+            26,
+            28
+          ],
+          "topic": "Heart mechanics and electrical activity"
+        }
+      ]
+    },
+    {
+      "ids": [
+        151,
+        200
+      ],
+      "printedPages": [
+        55,
+        67
+      ],
+      "pdfPages": [
+        28,
+        34
+      ],
+      "sections": [
+        {
+          "ids": [
+            151,
+            170
+          ],
+          "printedPages": [
+            55,
+            60
+          ],
+          "pdfPages": [
+            28,
+            31
+          ],
+          "topic": "Hemodynamics, baroreflex and pressure measurement concepts"
+        },
+        {
+          "ids": [
+            171,
+            180
+          ],
+          "printedPages": [
+            60,
+            62
+          ],
+          "pdfPages": [
+            31,
+            32
+          ],
+          "topic": "Basic vascular terminology"
+        },
+        {
+          "ids": [
+            181,
+            190
+          ],
+          "printedPages": [
+            63,
+            64
+          ],
+          "pdfPages": [
+            32,
+            33
+          ],
+          "topic": "Lymphatic drainage and spleen"
+        },
+        {
+          "ids": [
+            191,
+            200
+          ],
+          "printedPages": [
+            65,
+            67
+          ],
+          "pdfPages": [
+            33,
+            34
+          ],
+          "topic": "Introduction to breathing and conducting airways"
+        }
+      ]
+    },
+    {
+      "ids": [
+        201,
+        250
+      ],
+      "printedPages": [
+        68,
+        77
+      ],
+      "pdfPages": [
+        35,
+        39
+      ],
+      "sections": [
+        {
+          "ids": [
+            201,
+            215
+          ],
+          "printedPages": [
+            68,
+            69
+          ],
+          "pdfPages": [
+            35,
+            35
+          ],
+          "topic": "Lung structure, pleura, alveoli and airway protection"
+        },
+        {
+          "ids": [
+            216,
+            230
+          ],
+          "printedPages": [
+            69,
+            71
+          ],
+          "pdfPages": [
+            35,
+            36
+          ],
+          "topic": "Breathing mechanics and lung volumes"
+        },
+        {
+          "ids": [
+            231,
+            240
+          ],
+          "printedPages": [
+            71,
+            73
+          ],
+          "pdfPages": [
+            36,
+            37
+          ],
+          "topic": "Respiratory control and additional functions"
+        },
+        {
+          "ids": [
+            241,
+            250
+          ],
+          "printedPages": [
+            75,
+            77
+          ],
+          "pdfPages": [
+            38,
+            39
+          ],
+          "topic": "Gas exchange and blood gas transport"
+        }
+      ],
+      "note": "Clinical treatment and historical exposure thresholds on 74–77 are not tested. Page 74 has no new test question."
+    },
+    {
+      "ids": [
+        251,
+        300
+      ],
+      "printedPages": [
+        78,
+        90
+      ],
+      "pdfPages": [
+        40,
+        46
+      ],
+      "sections": [
+        {
+          "ids": [
+            251,
+            265
+          ],
+          "printedPages": [
+            78,
+            81
+          ],
+          "pdfPages": [
+            40,
+            41
+          ],
+          "topic": "Digestive principles, oral cavity, teeth and saliva"
+        },
+        {
+          "ids": [
+            266,
+            275
+          ],
+          "printedPages": [
+            82,
+            83
+          ],
+          "pdfPages": [
+            42,
+            42
+          ],
+          "topic": "Swallowing, esophagus and stomach"
+        },
+        {
+          "ids": [
+            276,
+            290
+          ],
+          "printedPages": [
+            84,
+            87
+          ],
+          "pdfPages": [
+            43,
+            44
+          ],
+          "topic": "Small intestine, pancreas, bile and nutrient processing"
+        },
+        {
+          "ids": [
+            291,
+            300
+          ],
+          "printedPages": [
+            87,
+            90
+          ],
+          "pdfPages": [
+            44,
+            46
+          ],
+          "topic": "Large intestine and basic liver functions"
+        }
+      ],
+      "note": "No clinical treatment or fixed transit-time questions. Avoids overly absolute claims about absorption, colon water/B12 uptake, liver production of all globulins and one hepatic vein."
+    },
+    {
+      "ids": [
+        301,
+        350
+      ],
+      "printedPages": [
+        91,
+        100
+      ],
+      "pdfPages": [
+        46,
+        51
+      ],
+      "sections": [
+        {
+          "ids": [
+            301,
+            317
+          ],
+          "printedPages": [
+            91,
+            93
+          ],
+          "pdfPages": [
+            46,
+            47
+          ],
+          "topic": "Metabolism of carbohydrates, fats and proteins"
+        },
+        {
+          "ids": [
+            318,
+            329
+          ],
+          "printedPages": [
+            93,
+            94
+          ],
+          "pdfPages": [
+            47,
+            48
+          ],
+          "topic": "Nutrition components, fibre, vitamins, minerals and water"
+        },
+        {
+          "ids": [
+            330,
+            339
+          ],
+          "printedPages": [
+            95,
+            98
+          ],
+          "pdfPages": [
+            48,
+            50
+          ],
+          "topic": "Excretion, osmoregulation and nephron anatomy"
+        },
+        {
+          "ids": [
+            340,
+            350
+          ],
+          "printedPages": [
+            98,
+            100
+          ],
+          "pdfPages": [
+            50,
+            51
+          ],
+          "topic": "Urine drainage, filtration, reabsorption, ADH and micturition"
+        }
+      ],
+      "note": "Avoids fixed dietary prescriptions, blanket inferiority of plant proteins, absolute absence of filtered proteins, fixed urine concentration, and clinical treatment advice. ADH release distinguished from its synthesis by omitting location claim."
+    },
+    {
+      "ids": [
+        351,
+        400
+      ],
+      "printedPages": [
+        101,
+        109
+      ],
+      "pdfPages": [
+        51,
+        55
+      ],
+      "sections": [
+        {
+          "ids": [
+            351,
+            355
+          ],
+          "printedPages": [
+            101,
+            101
+          ],
+          "pdfPages": [
+            51,
+            51
+          ],
+          "topic": "Urinary obstruction, renal failure and dialysis principles"
+        },
+        {
+          "ids": [
+            356,
+            370
+          ],
+          "printedPages": [
+            102,
+            103
+          ],
+          "pdfPages": [
+            52,
+            52
+          ],
+          "topic": "Skin layers, glands and basic acne mechanism"
+        },
+        {
+          "ids": [
+            371,
+            385
+          ],
+          "printedPages": [
+            104,
+            106
+          ],
+          "pdfPages": [
+            53,
+            54
+          ],
+          "topic": "Heat production/loss, hypothalamus and fever regulation"
+        },
+        {
+          "ids": [
+            386,
+            400
+          ],
+          "printedPages": [
+            107,
+            109
+          ],
+          "pdfPages": [
+            54,
+            55
+          ],
+          "topic": "Nervous system and neuron structure and function"
+        }
+      ],
+      "note": "School-level mechanisms, no diagnosis or treatment advice. Avoids obsolete sun exposure advice, absolute sweating/dehydration claims, universal Schwann-cell myelination, and conflating endothermy with homeothermy. Distinguishes subcutis from skin proper."
+    },
+    {
+      "ids": [
+        401,
+        450
+      ],
+      "printedPages": [
+        110,
+        120
+      ],
+      "pdfPages": [
+        56,
+        61
+      ],
+      "sections": [
+        {
+          "ids": [
+            401,
+            410
+          ],
+          "printedPages": [
+            110,
+            112
+          ],
+          "pdfPages": [
+            56,
+            57
+          ],
+          "topic": "Resting potential, ion gradients, pumps and channels"
+        },
+        {
+          "ids": [
+            411,
+            422
+          ],
+          "printedPages": [
+            113,
+            115
+          ],
+          "pdfPages": [
+            57,
+            58
+          ],
+          "topic": "Chemical synapses and local potentials"
+        },
+        {
+          "ids": [
+            423,
+            434
+          ],
+          "printedPages": [
+            114,
+            118
+          ],
+          "pdfPages": [
+            58,
+            60
+          ],
+          "topic": "Action potentials, coding and integration"
+        },
+        {
+          "ids": [
+            435,
+            450
+          ],
+          "printedPages": [
+            119,
+            120
+          ],
+          "pdfPages": [
+            60,
+            61
+          ],
+          "topic": "Circuits and unconditioned/conditioned reflexes"
+        }
+      ],
+      "note": "Distinguishes ongoing pump activity from passive channel currents, receptor-dependent transmitter effects, adult GABA context, all-or-none under matched conditions, shunting inhibition caveat and central synapse counts. No claims that reflexes cannot be modulated by brain."
+    },
+    {
+      "ids": [
+        451,
+        500
+      ],
+      "printedPages": [
+        121,
+        128
+      ],
+      "pdfPages": [
+        61,
+        65
+      ],
+      "sections": [
+        {
+          "ids": [
+            451,
+            465
+          ],
+          "printedPages": [
+            121,
+            122
+          ],
+          "pdfPages": [
+            61,
+            62
+          ],
+          "topic": "CNS development, spinal cord and roots/pathways"
+        },
+        {
+          "ids": [
+            466,
+            475
+          ],
+          "printedPages": [
+            123,
+            124
+          ],
+          "pdfPages": [
+            62,
+            63
+          ],
+          "topic": "Brainstem, cranial nerves, ventricles, CSF and meninges"
+        },
+        {
+          "ids": [
+            476,
+            485
+          ],
+          "printedPages": [
+            125,
+            126
+          ],
+          "pdfPages": [
+            63,
+            64
+          ],
+          "topic": "Cerebellum, midbrain and diencephalon"
+        },
+        {
+          "ids": [
+            486,
+            500
+          ],
+          "printedPages": [
+            126,
+            128
+          ],
+          "pdfPages": [
+            64,
+            65
+          ],
+          "topic": "Hemispheres, cortex, limbic structures and basal ganglia"
+        }
+      ],
+      "note": "Avoids obsolete neuron counts, brain-type personality claims, cortex/neocortex equivalence, exclusive localization of complex functions, and simplistic brain development assertions. No clinical advice."
+    },
+    {
+      "ids": [
+        501,
+        550
+      ],
+      "printedPages": [
+        129,
+        141
+      ],
+      "pdfPages": [
+        65,
+        71
+      ],
+      "sections": [
+        {
+          "ids": [
+            501,
+            510
+          ],
+          "printedPages": [
+            129,
+            131
+          ],
+          "pdfPages": [
+            65,
+            66
+          ],
+          "topic": "Motor control, descending pathways and feedback"
+        },
+        {
+          "ids": [
+            511,
+            525
+          ],
+          "printedPages": [
+            131,
+            134
+          ],
+          "pdfPages": [
+            66,
+            68
+          ],
+          "topic": "Autonomic organization and sympathetic/parasympathetic coordination"
+        },
+        {
+          "ids": [
+            526,
+            535
+          ],
+          "printedPages": [
+            134,
+            137
+          ],
+          "pdfPages": [
+            68,
+            69
+          ],
+          "topic": "Plasticity and basic disease terminology"
+        },
+        {
+          "ids": [
+            536,
+            550
+          ],
+          "printedPages": [
+            138,
+            141
+          ],
+          "pdfPages": [
+            70,
+            71
+          ],
+          "topic": "Endocrine principles and pituitary organization"
+        }
+      ],
+      "note": "No clinical diagnosis/treatment advice. Avoids unsupported insect transmission of borreliosis, single-chromosome cause of all Alzheimer disease, obsolete epilepsy classifications, exclusive aneurysm origin of hemorrhage, absolute two-neuron autonomic rule, and direct cortical contact with every motoneuron. Distinguishes synthesis/release of ADH and oxytocin."
+    },
+    {
+      "ids": [
+        551,
+        600
+      ],
+      "printedPages": [
+        140,
+        146
+      ],
+      "pdfPages": [
+        71,
+        74
+      ],
+      "sections": [
+        {
+          "ids": [
+            551,
+            560
+          ],
+          "printedPages": [
+            140,
+            141
+          ],
+          "pdfPages": [
+            71,
+            71
+          ],
+          "topic": "Pituitary hormone effects"
+        },
+        {
+          "ids": [
+            561,
+            575
+          ],
+          "printedPages": [
+            141,
+            143
+          ],
+          "pdfPages": [
+            71,
+            72
+          ],
+          "topic": "Thyroid, parathyroid and calcium regulation"
+        },
+        {
+          "ids": [
+            576,
+            586
+          ],
+          "printedPages": [
+            143,
+            145
+          ],
+          "additionalPrintedPages": [
+            141
+          ],
+          "pdfPages": [
+            71,
+            73
+          ],
+          "topic": "Adrenal cortex and medulla; comparison with ADH"
+        },
+        {
+          "ids": [
+            587,
+            600
+          ],
+          "printedPages": [
+            145,
+            146
+          ],
+          "pdfPages": [
+            73,
+            74
+          ],
+          "topic": "Endocrine pancreas, gonads, placenta and melatonin"
+        }
+      ],
+      "note": "No diagnosis/treatment or supplementation advice. Avoids obsolete glucose cutoffs, fixed diabetes prevalence, simple treatment recipes, estrogen-only corpus luteum, exclusive ACTH control of aldosterone, universal insulin-dependent glucose entry, skeletal-muscle glucose export, and all hyperthyroidism causing exophthalmos."
+    },
+    {
+      "ids": [
+        601,
+        650
+      ],
+      "printedPages": [
+        147,
+        154
+      ],
+      "pdfPages": [
+        74,
+        78
+      ],
+      "sections": [
+        {
+          "ids": [
+            601,
+            615
+          ],
+          "printedPages": [
+            147,
+            149
+          ],
+          "pdfPages": [
+            74,
+            75
+          ],
+          "topic": "Sensory principles, touch and proprioception"
+        },
+        {
+          "ids": [
+            616,
+            630
+          ],
+          "printedPages": [
+            149,
+            151
+          ],
+          "pdfPages": [
+            75,
+            76
+          ],
+          "topic": "Vestibular organs and balance"
+        },
+        {
+          "ids": [
+            631,
+            640
+          ],
+          "printedPages": [
+            151,
+            153
+          ],
+          "pdfPages": [
+            76,
+            77
+          ],
+          "topic": "Acoustics and external ear"
+        },
+        {
+          "ids": [
+            641,
+            650
+          ],
+          "printedPages": [
+            152,
+            154
+          ],
+          "pdfPages": [
+            77,
+            78
+          ],
+          "topic": "Middle/inner ear and auditory transduction"
+        }
+      ],
+      "note": "Distinguishes muscle length from tendon force, nociception from conscious pain, hair-cell graded receptor potentials from afferent spikes, otolith static gravity responses from canal dynamics, perceived loudness from amplitude and medium-dependent wavelength/frequency relation. No absolute universal hearing limits or claim that constant motion can never be perceived."
+    },
+    {
+      "ids": [
+        651,
+        700
+      ],
+      "printedPages": [
+        155,
+        163
+      ],
+      "pdfPages": [
+        78,
+        83
+      ],
+      "sections": [
+        {
+          "ids": [
+            651,
+            665
+          ],
+          "printedPages": [
+            155,
+            156
+          ],
+          "pdfPages": [
+            78,
+            79
+          ],
+          "topic": "Eye anatomy, optical media and photoreceptors"
+        },
+        {
+          "ids": [
+            666,
+            685
+          ],
+          "printedPages": [
+            156,
+            159
+          ],
+          "pdfPages": [
+            79,
+            80
+          ],
+          "topic": "Visual processing, accommodation and optical principles"
+        },
+        {
+          "ids": [
+            686,
+            696
+          ],
+          "printedPages": [
+            160,
+            162
+          ],
+          "pdfPages": [
+            81,
+            82
+          ],
+          "topic": "Taste, smell and selected skin-sense mechanisms"
+        },
+        {
+          "ids": [
+            697,
+            700
+          ],
+          "printedPages": [
+            162,
+            163
+          ],
+          "pdfPages": [
+            82,
+            82
+          ],
+          "topic": "Gametes, meiosis, zygote and chromosome sets"
+        }
+      ],
+      "note": "No diagnostic or treatment instructions. Avoids fixed tongue taste zones, all babies having blue eyes, lens cells dying as sole presbyopia explanation, every cone sensing only one wavelength, and conflation of hyperopia/presbyopia. Eye correction questions are basic optics."
+    },
+    {
+      "ids": [
+        701,
+        750
+      ],
+      "printedPages": [
+        163,
+        175
+      ],
+      "pdfPages": [
+        82,
+        88
+      ],
+      "topic": "Pohlavní chromozomy, genetická variabilita, pohlavní orgány, gametogeneze, cyklus a oplození",
+      "sourceReview": "Scanned source pages read visually; answers, distractors and explanations reviewed; no clinical instructions"
+    },
+    {
+      "ids": [
+        751,
+        800
+      ],
+      "printedPages": [
+        176,
+        192
+      ],
+      "pdfPages": [
+        89,
+        97
+      ],
+      "topic": "Časný vývoj, placenta, těhotenství, porod, antikoncepce a období lidského života",
+      "sourceReview": "Scanned source pages read visually; answers, distractors and explanations reviewed; no clinical instructions",
+      "additionalPrintedPages": [
+        173,
+        229
+      ],
+      "additionalPdfPages": [
+        87,
+        115
+      ]
+    },
+    {
+      "ids": [
+        801,
+        850
+      ],
+      "printedPages": [
+        193,
+        203
+      ],
+      "pdfPages": [
+        97,
+        102
+      ],
+      "topic": "Zdraví, alkohol, závislosti, kouření, infekce, genetické choroby a prostředí; doplnění respiračních infekcí",
+      "sourceReview": "Scanned source pages read visually; answers, distractors and explanations reviewed; no clinical instructions",
+      "additionalPrintedPages": [
+        74,
+        75
+      ],
+      "additionalPdfPages": [
+        38
+      ]
+    },
+    {
+      "ids": [
+        851,
+        900
+      ],
+      "printedPages": [
+        204,
+        230
+      ],
+      "pdfPages": [
+        103,
+        116
+      ],
+      "topic": "Principy praktických cvičení a doplnění příloh: hlavové nervy, vitaminy, kostra a skupiny látek",
+      "sourceReview": "Scanned source pages read visually; answers, distractors and explanations reviewed; no clinical instructions"
+    }
+  ],
+  "nextIds": null,
+  "nextSuggestedTopic": "Thematic coverage complete; do not add filler. Any further questions require a specific identified gap.",
+  "reportCoverageInChatEveryBatch": true,
+  "totalQuestionCount": null,
+  "note": "All main teaching chapters, practical topic groups and appendix tables have thematic coverage at completion; this is not a claim of one question per paragraph or exhaustive testing of every table cell. Contents, foreword and index are not separate quiz topics.",
+  "biologyQuestions": 900,
+  "completionStatus": "thematic-completion"
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 613,
+    "category": "Fyziologie",
+    "bookRef": "Biologie 2019, společná sada · úloha 5 · PDF 1",
+    "sourceFile": "Biologie 2019, společná sada",
+    "sourcePages": "PDF 1",
+    "question": "Jaké je obvyklé referenční rozmezí pH arteriální krve u dospělého?",
+    "title": "7,35–7,45",
+    "options": [
+      "6,80–7,00",
+      "7,00–7,10",
+      "7,35–7,45",
+      "7,80–8,00"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Arteriální krev má za běžných podmínek mírně zásadité pH kolem 7,40. Tento údaj platí pro arteriální krev. Jiné tělesné tekutiny, například žaludeční šťáva, mají jiné rozmezí."
+    ],
+    "memory": "Arteriální krev: přibližně pH 7,40."
+  },
+  {
+    "id": 614,
+    "category": "Společenské vědy",
+    "bookRef": "Všeobecná informovanost 2019, společná sada · úloha 19 · PDF 3",
+    "sourceFile": "Všeobecná informovanost 2019, společná sada",
+    "sourcePages": "PDF 3",
+    "question": "Jak dlouhé je řádné volební období prezidenta České republiky podle čl. 55 Ústavy?",
+    "title": "Pět let",
+    "options": [
+      "Čtyři roky",
+      "Šest let",
+      "Sedm let",
+      "Pět let"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Pětileté volební období začíná dnem složení prezidentského slibu. Délku určuje článek 55 Ústavy České republiky."
+    ],
+    "memory": "Prezidentské období: pět let od slibu."
+  },
+  {
+    "id": 615,
+    "category": "Společenské vědy",
+    "bookRef": "Všeobecná informovanost 2019, společná sada · úloha 25 · PDF 3",
+    "sourceFile": "Všeobecná informovanost 2019, společná sada",
+    "sourcePages": "PDF 3",
+    "question": "Kdo volí prezidenta České republiky v přímé volbě?",
+    "title": "Oprávnění voliči",
+    "options": [
+      "Oprávnění voliči",
+      "Pouze senátoři",
+      "Pouze poslanci",
+      "Členové vlády"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Při přímé volbě o výsledku rozhodují hlasy voličů. Přímou volbu prezidenta stanoví článek 54 Ústavy a pravidla hlasování rozvádí článek 56."
+    ],
+    "memory": "Přímá volba: hlasují voliči."
+  },
+  {
+    "id": 616,
+    "category": "Anatomie",
+    "bookRef": "Biologie 2019, společná sada · úloha 11 · PDF 2",
+    "sourceFile": "Biologie 2019, společná sada",
+    "sourcePages": "PDF 2",
+    "question": "Které části tvoří osovou kostru člověka?",
+    "title": "Lebka, páteř, žebra a hrudní kost",
+    "options": [
+      "Páteř, pánevní pletenec a kosti dolních končetin",
+      "Lebka, páteř, žebra a hrudní kost",
+      "Lebka a kosti všech čtyř končetin",
+      "Klíční kosti, lopatky a hrudní kost"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Osová kostra tvoří osu hlavy a trupu. Zahrnuje lebku, páteř a kostru hrudníku. V širším výčtu se uvádí i jazylka a sluchové kůstky. Pletence a volné končetiny patří ke kostře přívěsné."
+    ],
+    "memory": "Osa spojuje hlavu, páteř a hrudník."
+  },
+  {
+    "id": 617,
+    "category": "Fyzika",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · úloha 8 · PDF 58",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 58",
+    "question": "Dvě tělesa stejné hmotnosti mají různý objem. Na které působí ve stejném vzduchu větší vztlaková síla?",
+    "title": "Na těleso s větším objemem",
+    "options": [
+      "Na těleso s menším objemem",
+      "Na obě působí nulová vztlaková síla",
+      "Na těleso s větším objemem",
+      "Na obě působí stejně velká vztlaková síla, protože mají stejnou hmotnost"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Vztlak odpovídá tíze vytlačeného vzduchu. Ve vzduchu stejné hustoty vytlačí objemnější těleso více vzduchu a vztlak je větší. Původní příklad s dřevem a železem tak rozlišujeme podle objemu, i když mají stejnou hmotnost."
+    ],
+    "memory": "Větší vytlačený objem znamená větší vztlak."
+  }
+]

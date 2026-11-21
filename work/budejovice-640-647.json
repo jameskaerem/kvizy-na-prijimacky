@@ -1,0 +1,162 @@
+[
+  {
+    "id": 640,
+    "category": "Právní pojmy",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 28 · PDF 141",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 141",
+    "question": "Kdo podle § 1643 občanského zákoníku patří mezi nepominutelné dědice?",
+    "title": "Děti zůstavitele, a když nedědí, jejich potomci",
+    "options": [
+      "Manžel a rodiče zůstavitele",
+      "Děti zůstavitele, a když nedědí, jejich potomci",
+      "Sourozenci a rodiče zůstavitele",
+      "Každý dědic uvedený v závěti"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Jde o děti zůstavitele, případně o jejich potomky. Tento pojem je spojený s právem na povinný díl za zákonných podmínek."
+    ],
+    "memory": "Nepominutelní dědici jsou v přímé sestupné linii."
+  },
+  {
+    "id": 641,
+    "category": "Právní pojmy",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 29 · PDF 141",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 141",
+    "question": "Která schopnost je zásadní pro posouzení, zda dítě nadále potřebuje výživné od rodičů?",
+    "title": "Schopnost samo se živit",
+    "options": [
+      "Schopnost podepsat dohodu",
+      "Schopnost samostatně bydlet",
+      "Schopnost samo se živit",
+      "Schopnost dokončit povinnou školní docházku"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Při vyživovací povinnosti se posuzuje, zda se dítě dokáže samo živit. Dosažení zletilosti samo o sobě proto nestačí k závěru, že povinnost skončila."
+    ],
+    "memory": "Rozhoduje schopnost samostatně se živit."
+  },
+  {
+    "id": 642,
+    "category": "Psychologie",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 16 · PDF 224",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 224",
+    "question": "Který příklad nejlépe vystihuje agorafobii?",
+    "title": "Člověk se bojí cestovat autobusem kvůli obavě, že by při panice obtížně vystoupil nebo získal pomoc.",
+    "options": [
+      "Člověk se bojí cestovat autobusem kvůli obavě, že by při panice obtížně vystoupil nebo získal pomoc.",
+      "Člověk se bojí pouze pavouků.",
+      "Člověk se bojí pouze odběru krve.",
+      "Člověk si nedokáže vybavit vzpomínky z dětství."
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Agorafobie se může projevovat strachem ze situací, kde člověk očekává obtížný únik nebo nedostupnou pomoc. Příkladem je dav, veřejná doprava nebo pobyt o samotě mimo domov."
+    ],
+    "memory": "Agorafobie souvisí s představou obtížného úniku nebo nedostupné pomoci."
+  },
+  {
+    "id": 643,
+    "category": "Právní pojmy",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 35 · PDF 226",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 226",
+    "question": "Jaké dvě formy sňatku podle českého práva umožňují uzavřít manželství?",
+    "title": "Občanský a církevní",
+    "options": [
+      "Občanský a soukromý",
+      "Církevní a rodinný",
+      "Soudní a církevní",
+      "Občanský a církevní"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Občanský sňatek probíhá před příslušným orgánem veřejné moci. Církevní sňatek probíhá před orgánem církve nebo náboženské společnosti oprávněné oddávat."
+    ],
+    "memory": "Dvě formy sňatku jsou občanská a církevní."
+  },
+  {
+    "id": 644,
+    "category": "Občanská orientace",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 44 · PDF 227",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 227",
+    "question": "Který stát patří do Evropského hospodářského prostoru a zároveň je mimo Evropskou unii?",
+    "title": "Norsko",
+    "options": [
+      "Dánsko",
+      "Norsko",
+      "Finsko",
+      "Švédsko"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Norsko se účastní vnitřního trhu přes dohodu o Evropském hospodářském prostoru. Dánsko, Finsko a Švédsko jsou členské státy Evropské unie."
+    ],
+    "memory": "Norsko je součástí EHP a stojí mimo EU."
+  },
+  {
+    "id": 645,
+    "category": "Občanská orientace",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 45 · PDF 227",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 227",
+    "question": "Kolik členů má český Senát a na jak dlouho jsou senátoři voleni?",
+    "title": "81 členů na šest let",
+    "options": [
+      "81 členů na čtyři roky",
+      "80 členů na šest let",
+      "81 členů na šest let",
+      "200 členů na čtyři roky"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Počet 81 a šestiletý mandát stanoví čl. 16 Ústavy. Článek 18 stanoví většinový princip voleb do Senátu. Každé dva roky se volí třetina senátorů."
+    ],
+    "memory": "Senát má 81 členů a šestiletý mandát."
+  },
+  {
+    "id": 646,
+    "category": "Právní pojmy",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 48 · PDF 228",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 228",
+    "question": "Jak může soud podle českého občanského zákoníku zasáhnout do svéprávnosti člověka, který splňuje zákonné podmínky pro takový zásah?",
+    "title": "Omezit ji v konkrétně vymezeném rozsahu",
+    "options": [
+      "Omezit ji v konkrétně vymezeném rozsahu",
+      "Zrušit ji v plném rozsahu na doživotí",
+      "Převést ji na opatrovníka bez vymezení rozsahu",
+      "Pozastavit ji bez soudního rozhodnutí"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Soud musí stanovit, v jakém rozsahu člověka omezuje. Omezení připadá v úvahu, pokud člověku hrozí závažná újma a mírnější opatření nepostačí. Běžné záležitosti každodenního života zůstávají v jeho působnosti."
+    ],
+    "memory": "Rozsah omezení vymezuje soud."
+  },
+  {
+    "id": 647,
+    "category": "Ekonomie",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 48 · PDF 143",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 143",
+    "question": "Jaký tlak na cenu vzniká na konkurenčním trhu, pokud při dané ceně kupující poptávají více zboží, než jsou prodejci ochotni nabídnout?",
+    "title": "Tlak na růst ceny",
+    "options": [
+      "Tlak na pokles ceny",
+      "Tlak na zrušení poptávky",
+      "Tlak na neměnnost ceny",
+      "Tlak na růst ceny"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Při převisu poptávky se část zájemců k danému zboží za stávající cenu nedostane. V základním tržním modelu vzniká tlak na vyšší cenu, která může omezit poptávané množství a povzbudit nabídku."
+    ],
+    "memory": "Převis poptávky vytváří tlak na růst ceny."
+  }
+]

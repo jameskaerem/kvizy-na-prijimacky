@@ -1,0 +1,42 @@
+[
+  {
+    "id": 682,
+    "category": "Právní pojmy",
+    "bookRef": "2019 · Všeobecná informovanost · úloha 29 · PDF 10",
+    "sourceFile": "České Budějovice test 2019 oprava6.pdf",
+    "sourcePages": "PDF 10",
+    "question": "Co označuje negativní revers podle českého zákona o zdravotních službách?",
+    "title": "Písemné prohlášení pacienta, že po poučení dál odmítá souhlas s péčí",
+    "options": [
+      "Písemný souhlas s poskytnutím péče",
+      "Rozhodnutí nemocnice o přeložení pacienta",
+      "Písemné prohlášení pacienta, že po poučení dál odmítá souhlas s péčí",
+      "Seznam obvyklých nežádoucích účinků léku"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Podle § 34 odst. 3 zákona č. 372/2011 Sb. pacient učiní písemné prohlášení, pokud i po poučení souhlas nadále odmítá. Zákon zvlášť upravuje situace, kdy lze poskytnout služby bez souhlasu."
+    ],
+    "memory": "Negativní revers zachycuje odmítnutí souhlasu."
+  },
+  {
+    "id": 683,
+    "category": "Fyzioterapie",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 11 · PDF 36",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 36",
+    "question": "Co v ČR platí pro celoživotní vzdělávání fyzioterapeuta při výkonu zdravotnického povolání?",
+    "title": "Je součástí zákonné povinnosti celoživotního vzdělávání zdravotnických pracovníků",
+    "options": [
+      "Týká se výhradně lékařů",
+      "Zákonná povinnost platí jen během vysokoškolského studia",
+      "Vztahuje se pouze na zaměstnance fakultních nemocnic",
+      "Je součástí zákonné povinnosti celoživotního vzdělávání zdravotnických pracovníků"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Zákon č. 96/2004 Sb. upravuje způsobilost k výkonu povolání fyzioterapeuta a v § 53 stanoví povinnost celoživotního vzdělávání zdravotnických pracovníků. Jde o průběžné obnovování a prohlubování znalostí a dovedností."
+    ],
+    "memory": "Vzdělávání fyzioterapeuta pokračuje i po získání kvalifikace."
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 451,
+    "category": "Anatomie",
+    "bookRef": "2019 · Biologie · úloha 11 · PDF 265",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 265",
+    "question": "Co označuje ischemie tkáně?",
+    "title": "Nedostatečné zásobení tkáně krví",
+    "options": [
+      "Nedostatečné zásobení tkáně krví",
+      "Zvýšené množství krve v žilách",
+      "Pokles počtu krevních destiček",
+      "Zvýšenou tvorbu moči"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Při omezení přítoku krve dostává tkáň méně kyslíku a živin. Ischemie tedy označuje poruchu prokrvení; hypotenze naproti tomu znamená nízký krevní tlak."
+    ],
+    "memory": "Ischemie = nedokrvení."
+  },
+  {
+    "id": 452,
+    "category": "Anatomie",
+    "bookRef": "2019 · Biologie · úloha 15 · PDF 265",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 265",
+    "question": "Ke které části lebky patří kost týlní?",
+    "title": "K mozkové části lebky",
+    "options": [
+      "Pouze k obličejové části",
+      "K jazylce",
+      "Ke sluchovým kůstkám",
+      "K mozkové části lebky"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Kost týlní tvoří zadní a část spodní stěny mozkovny. Její velký otvor umožňuje návaznost mozkového kmene na míchu; nejde o kost obličejového skeletu."
+    ],
+    "memory": "Týl chrání zadní část mozku."
+  },
+  {
+    "id": 453,
+    "category": "Anatomie",
+    "bookRef": "2019 · Biologie · úloha 18 · PDF 266",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 266",
+    "question": "Které kosti spojuje korunový šev?",
+    "title": "Čelní kost s temenními kostmi",
+    "options": [
+      "Týlní kost se spánkovými kostmi",
+      "Dolní čelist s horní čelistí",
+      "Čelní kost s temenními kostmi",
+      "Obě temenní kosti navzájem"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Korunový neboli věncový šev probíhá mezi čelní kostí a párovými kostmi temenními. Šev mezi oběma temenními kostmi je šev šípový."
+    ],
+    "memory": "Korunový šev leží za čelní kostí."
+  },
+  {
+    "id": 454,
+    "category": "Anatomie",
+    "bookRef": "2019 · Biologie · úloha 21 · PDF 266",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 266",
+    "question": "Jaký pohyb vykonává abduktor končetiny?",
+    "title": "Oddaluje končetinu od střední roviny těla",
+    "options": [
+      "Vždy otáčí dlaň vzhůru",
+      "Oddaluje končetinu od střední roviny těla",
+      "Přitahuje ji ke střední rovině",
+      "Vždy ji ohýbá v lokti"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Abdukce znamená odtažení, například upažení v rameni. Opačným pohybem je addukce, tedy přitažení; ohnutí označuje flexe."
+    ],
+    "memory": "ABdukce = od těla."
+  },
+  {
+    "id": 455,
+    "category": "Anatomie",
+    "bookRef": "2019 · Biologie · úloha 22 · PDF 266",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 266",
+    "question": "Co znamená retroperitoneální uložení ledvin?",
+    "title": "Leží za nástěnnou pobřišnicí",
+    "options": [
+      "Leží za nástěnnou pobřišnicí",
+      "Volně visí uvnitř pobřišnicové dutiny",
+      "Leží v dutině hrudní",
+      "Jsou uloženy ve stěně močového měchýře"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Ledviny leží při zadní stěně břicha za parietální pobřišnicí. Nepřesné tvrzení, že jsou mimo břicho, zaměňuje dutinu břišní za pobřišnicovou dutinu."
+    ],
+    "memory": "Retroperitoneálně = za pobřišnicí."
+  },
+  {
+    "id": 456,
+    "category": "Anatomie",
+    "bookRef": "2019 · Biologie · úloha 25 · PDF 266",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 266",
+    "question": "Která dvojice látek vzniká v ledvinách?",
+    "title": "Renin a erytropoetin",
+    "options": [
+      "Inzulin a glukagon",
+      "Tyroxin a kalcitonin",
+      "Žlučové kyseliny a pepsin",
+      "Renin a erytropoetin"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Ledviny mají také endokrinní úlohu. Renin se účastní regulace krevního tlaku a erytropoetin podporuje tvorbu červených krvinek v kostní dřeni."
+    ],
+    "memory": "Ledviny ovlivňují tlak i krvetvorbu."
+  },
+  {
+    "id": 457,
+    "category": "Anatomie",
+    "bookRef": "2019 · Biologie · úloha 26 · PDF 267",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 267",
+    "question": "Jaká je hlavní funkce chámovodu?",
+    "title": "Vede spermie z nadvarlete směrem k močové trubici",
+    "options": [
+      "Spojuje vaječník s dělohou",
+      "Vytváří testosteron ve varleti",
+      "Vede spermie z nadvarlete směrem k močové trubici",
+      "Odvádí moč z ledviny do měchýře"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Chámovod je součást mužských vývodných pohlavních cest a probíhá také tříselným kanálem. Nezaměňujeme jej s močovodem, který odvádí moč z ledviny."
+    ],
+    "memory": "Chámovod vede spermie, močovod moč."
+  },
+  {
+    "id": 458,
+    "category": "Anatomie",
+    "bookRef": "2019 · Biologie · úloha 29 · PDF 267",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 267",
+    "question": "Co může vyvolat kýchací reflex?",
+    "title": "Podráždění sliznice horních dýchacích cest",
+    "options": [
+      "Zvýšení tlaku ve středním uchu jako jediný podnět",
+      "Podráždění sliznice horních dýchacích cest",
+      "Naplnění močového měchýře",
+      "Pouze pokles glukózy v krvi"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Kýchání je ochranný reflex pomáhající odstranit dráždivé částice z horních dýchacích cest. Podnět často vzniká podrážděním nosní sliznice a výsledkem je prudký výdech."
+    ],
+    "memory": "Kýchání čistí horní dýchací cesty."
+  },
+  {
+    "id": 459,
+    "category": "Anatomie",
+    "bookRef": "2019 · Biologie · úloha 32 · PDF 267",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 267",
+    "question": "Jaké je běžné základní uspořádání štítné žlázy?",
+    "title": "Dva laloky spojené můstkem před průdušnicí",
+    "options": [
+      "Dva laloky spojené můstkem před průdušnicí",
+      "Čtyři příštítná tělíska bez dalších částí",
+      "Jediný lalok uvnitř hrtanu",
+      "Dva laloky uložené v malé pánvi"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Pravý a levý lalok štítné žlázy spojuje isthmus. Příštítná tělíska jsou samostatné drobné žlázy; můstek není totéž co třetí hlavní lalok."
+    ],
+    "memory": "Štítná žláza připomíná motýla."
+  },
+  {
+    "id": 460,
+    "category": "Anatomie",
+    "bookRef": "2019 · Biologie · úloha 39 · PDF 268",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 268",
+    "question": "Jaké dvě hlavní části tvoří koncový mozek?",
+    "title": "Pravá a levá mozková hemisféra",
+    "options": [
+      "Prodloužená mícha a most",
+      "Mozeček a mícha",
+      "Talamus a hypotalamus",
+      "Pravá a levá mozková hemisféra"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Koncový mozek neboli telencephalon tvoří dvě hemisféry. Mozkový kmen zahrnuje jiné oddíly a mozeček je samostatnou částí mozku."
+    ],
+    "memory": "Koncový mozek má dvě polokoule."
+  },
+  {
+    "id": 461,
+    "category": "Anatomie",
+    "bookRef": "2019 · Biologie · úloha 15 · PDF 200",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 200",
+    "question": "Kam pokračuje moč ze sběracích kanálků přes ledvinné papily?",
+    "title": "Do malých ledvinných kalichů",
+    "options": [
+      "Do močové trubice bez dalších oddílů",
+      "Do žlučníku",
+      "Do malých ledvinných kalichů",
+      "Přímo do ledvinné tepny"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Sběrací systém přivádí moč k vrcholům ledvinných pyramid. Odtud postupuje do kalichů, pánvičky a močovodu, takže se nespojuje přímo s močovou trubicí."
+    ],
+    "memory": "Kanálky → kalichy → pánvička → močovod."
+  },
+  {
+    "id": 462,
+    "category": "Anatomie",
+    "bookRef": "2019 · Biologie · úloha 49 · PDF 204",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 204",
+    "question": "Kam hlavní mízovody vracejí mízu do krevního oběhu?",
+    "title": "Do žilních úhlů při dolní části krku",
+    "options": [
+      "Do vrátnicové žíly v játrech",
+      "Do žilních úhlů při dolní části krku",
+      "Přímo do levé komory",
+      "Do břišní aorty"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Hrudní mízovod a pravostranné mízní cesty ústí do žilního řečiště poblíž spojení podklíčkové a vnitřní hrdelní žíly. Míza se tak vrací do žilní krve, nikoli do tepen."
+    ],
+    "memory": "Míza se vrací do žil u krku."
+  },
+  {
+    "id": 463,
+    "category": "Ošetřovatelství",
+    "bookRef": "2024 · Teorie ošetřovatelství · úloha 1 · PDF 1",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 1",
+    "question": "Který cíl patří mezi hlavní cíle ošetřovatelství?",
+    "title": "Podporovat a upevňovat zdraví",
+    "options": [
+      "Podporovat a upevňovat zdraví",
+      "Pouze zvyšovat prestiž povolání",
+      "Nahrazovat veškeré rozhodování nemocného",
+      "Omezit péči výhradně na podávání léků"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Ošetřovatelství zahrnuje podporu zdraví, prevenci i péči při nemoci. Zaměřuje se na potřeby člověka a jeho soběstačnost, nikoli jen na technické výkony."
+    ],
+    "memory": "Cílem péče je zdraví a potřeby člověka."
+  },
+  {
+    "id": 464,
+    "category": "Ošetřovatelství",
+    "bookRef": "2024 · Teorie ošetřovatelství · úloha 2 · PDF 1",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 1",
+    "question": "Co v kontextu přípravy zdravotnického pracovníka znamená pregraduální vzdělávání?",
+    "title": "Vzdělávání směřující k získání základní profesní kvalifikace",
+    "options": [
+      "Výhradně specializační vzdělávání po získání kvalifikace",
+      "Pouze jednorázové školení na pracovišti",
+      "Pouze samostudium po odchodu do důchodu",
+      "Vzdělávání směřující k získání základní profesní kvalifikace"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Pregraduální příprava předchází získání základní odborné kvalifikace pro dané povolání. Navazující specializace prohlubuje již získanou kvalifikaci v konkrétní oblasti."
+    ],
+    "memory": "Nejprve kvalifikace, potom specializace."
+  },
+  {
+    "id": 465,
+    "category": "Ošetřovatelství",
+    "bookRef": "2024 · Teorie ošetřovatelství · úloha 4 · PDF 1",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 1",
+    "question": "Co vystihuje skupinovou metodu organizace ošetřovatelské péče?",
+    "title": "Sestra pečuje o přidělenou skupinu pacientů",
+    "options": [
+      "Pacienti musí mít vždy stejnou diagnózu",
+      "Veškerou péči vykonává pouze rodina",
+      "Sestra pečuje o přidělenou skupinu pacientů",
+      "Každá sestra provádí jediný výkon u všech pacientů"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Při skupinové metodě se přidělují pacienti, nikoli jen jednotlivé úkony napříč celým oddělením. Umožňuje to sledovat více potřeb konkrétního pacienta v souvislostech."
+    ],
+    "memory": "Skupinová metoda přiděluje skupinu pacientů."
+  },
+  {
+    "id": 466,
+    "category": "Dějiny zdravotnictví",
+    "bookRef": "2024 · Teorie ošetřovatelství · úloha 6 · PDF 1",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 1",
+    "question": "Který princip obsahovala první Ženevská úmluva z roku 1864?",
+    "title": "Ošetřit raněné bez rozlišování státní příslušnosti",
+    "options": [
+      "Zřídit Světovou zdravotnickou organizaci",
+      "Ošetřit raněné bez rozlišování státní příslušnosti",
+      "Pečovat jen o vojáky vlastní armády",
+      "Vyloučit raněné zajatce z péče"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Úmluva přispěla k ochraně raněných vojáků i zdravotnické pomoci. Národnost raněného neměla rozhodovat o tom, zda se mu dostane péče."
+    ],
+    "memory": "Pomoc raněným přes hranice národností."
+  },
+  {
+    "id": 467,
+    "category": "Dějiny zdravotnictví",
+    "bookRef": "2024 · Teorie ošetřovatelství · úloha 8 · PDF 1",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 1",
+    "question": "S kým je spojeno založení školy pro sestry u londýnské nemocnice St Thomas v roce 1860?",
+    "title": "S Florence Nightingalovou",
+    "options": [
+      "S Florence Nightingalovou",
+      "S Marií Curieovou",
+      "S Louisem Pasteurem",
+      "S Janem Jeseniem"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Nightingalová podpořila systematickou odbornou přípravu sester a její škola se stala vlivným vzorem. Označení za vůbec první vzdělávání sester na světě by přehlíželo starší tradice a školy."
+    ],
+    "memory": "Nightingalová: Londýn, St Thomas, 1860."
+  },
+  {
+    "id": 468,
+    "category": "Ošetřovatelství",
+    "bookRef": "2024 · Teorie ošetřovatelství · úloha 10 · PDF 2",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 2",
+    "question": "Co znamená zkratka WHO?",
+    "title": "Světová zdravotnická organizace",
+    "options": [
+      "Mezinárodní organizace práce",
+      "Dětský fond OSN",
+      "Organizace OSN pro vzdělání, vědu a kulturu",
+      "Světová zdravotnická organizace"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "WHO je anglicky World Health Organization a zabývá se mezinárodním veřejným zdravím. Dětský fond je UNICEF, zatímco vzdělání, vědu a kulturu má v názvu UNESCO."
+    ],
+    "memory": "WHO = světové zdraví."
+  },
+  {
+    "id": 469,
+    "category": "Ošetřovatelství",
+    "bookRef": "2024 · Ošetřovatelství v chirurgických oborech · úloha 1 · PDF 3",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 3",
+    "question": "Které sledování přímo souvisí s výživou a hydratací pacienta?",
+    "title": "Příjem stravy a bilance tekutin",
+    "options": [
+      "Výhradně ostrost sluchu",
+      "Pouze počet návštěv",
+      "Příjem stravy a bilance tekutin",
+      "Pouze barva vlasů"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Sledování příjmu stravy zachycuje, kolik pacient skutečně sní. Bilance tekutin porovnává příjem a výdej; oba údaje se hodnotí společně s dalšími informacemi o stavu pacienta."
+    ],
+    "memory": "Výživa: co přijme; tekutiny: příjem i výdej."
+  },
+  {
+    "id": 470,
+    "category": "Ošetřovatelství",
+    "bookRef": "2024 · Ošetřovatelství v chirurgických oborech · úloha 2 · PDF 3",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 3",
+    "question": "Co je ascites?",
+    "title": "Nahromadění tekutiny v pobřišnicové dutině",
+    "options": [
+      "Zvětšení štítné žlázy",
+      "Nahromadění tekutiny v pobřišnicové dutině",
+      "Vzduch v pohrudniční dutině",
+      "Krev v močovém měchýři"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Ascites označuje tekutinu v peritoneální dutině a může provázet například jaterní cirhózu. Jde o nález, který sám o sobě neurčuje jedinou příčinu."
+    ],
+    "memory": "Ascites = tekutina v břišní dutině."
+  },
+  {
+    "id": 471,
+    "category": "Ošetřovatelství",
+    "bookRef": "2024 · Ošetřovatelství v chirurgických oborech · úloha 3 · PDF 3",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 3",
+    "question": "Co nejlépe vystihuje tenesmus při vyprazdňování stolice?",
+    "title": "Naléhavé, často bolestivé nucení s pocitem neúplného vyprázdnění",
+    "options": [
+      "Naléhavé, často bolestivé nucení s pocitem neúplného vyprázdnění",
+      "Pouze nadměrný odchod střevních plynů",
+      "Zvracení čerstvé krve",
+      "Úplnou ztrátu vnímání bolesti"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Tenesmus není totéž co plynatost ani běžná potřeba stolice. Člověk může opakovaně cítit nucení, přestože se vyprázdní málo nebo vůbec."
+    ],
+    "memory": "Tenesmus = úporné nucení."
+  },
+  {
+    "id": 472,
+    "category": "Ošetřovatelství",
+    "bookRef": "2024 · Ošetřovatelství v chirurgických oborech · úloha 4 · PDF 3",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 3",
+    "question": "Co znamená exstirpace v chirurgické terminologii?",
+    "title": "Úplné chirurgické odstranění útvaru nebo orgánu",
+    "options": [
+      "Pouhé sledování bez zákroku",
+      "Léčbu jen úpravou stravy",
+      "Poslech fonendoskopem",
+      "Úplné chirurgické odstranění útvaru nebo orgánu"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Exstirpace je operační odstranění, například ohraničeného útvaru. Proto nejde o konzervativní postup, při němž se operace nepoužívá."
+    ],
+    "memory": "Exstirpace = vyjmutí celého útvaru."
+  },
+  {
+    "id": 473,
+    "category": "Ošetřovatelství",
+    "bookRef": "2024 · Ošetřovatelství v chirurgických oborech · úloha 5 · PDF 3",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 3",
+    "question": "Co označuje abraze?",
+    "title": "Obroušení nebo seškrábnutí povrchu",
+    "options": [
+      "Znehybnění kloubu",
+      "Zvýšení žilního tlaku",
+      "Obroušení nebo seškrábnutí povrchu",
+      "Sešití dvou šlach"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Význam slova vychází z odírání či obrušování povrchu. Konkrétní použití závisí na oboru; neoznačuje polohu kloubu ani jeho nepohyblivost."
+    ],
+    "memory": "Abraze obrušuje povrch."
+  },
+  {
+    "id": 474,
+    "category": "Ošetřovatelství",
+    "bookRef": "2024 · Ošetřovatelství v chirurgických oborech · úloha 6 · PDF 3",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 3",
+    "question": "Ke které krajině těla se vztahuje název lumbotomie?",
+    "title": "K bederní krajině",
+    "options": [
+      "K dutině ústní",
+      "K bederní krajině",
+      "K přední straně krku",
+      "K oblasti zápěstí"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Kořen lumb- označuje bedra a koncovka -tomie řez či operační otevření. Samotný název tedy popisuje oblast přístupu, nikoli automaticky řez do míchy."
+    ],
+    "memory": "Lumb- = bedra, -tomie = řez."
+  },
+  {
+    "id": 475,
+    "category": "Ošetřovatelství",
+    "bookRef": "2024 · Ošetřovatelství v chirurgických oborech · úloha 8 · PDF 4",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 4",
+    "question": "Co znamená défense musculaire při vyšetření břicha?",
+    "title": "Mimovolní obranné napětí břišních svalů při dráždění pobřišnice",
+    "options": [
+      "Mimovolní obranné napětí břišních svalů při dráždění pobřišnice",
+      "Běžné posílení svalů po cvičení",
+      "Úplné ochrnutí břišní stěny",
+      "Nahromadění vzduchu v kloubu"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Jde o ochrannou svalovou reakci, která může doprovázet podráždění či zánět pobřišnice. Jediný příznak se však neposuzuje odděleně od celého klinického obrazu."
+    ],
+    "memory": "Drážděná pobřišnice může vyvolat svalovou obranu."
+  },
+  {
+    "id": 476,
+    "category": "Ošetřovatelství",
+    "bookRef": "2024 · Ošetřovatelství v chirurgických oborech · úloha 9 · PDF 4",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 4",
+    "question": "Na jakém principu pracuje podtlaková terapie rány označovaná NPWT či V.A.C.?",
+    "title": "Na řízeném podtlaku v uzavřeném krytí rány",
+    "options": [
+      "Na zahřívání rány otevřeným plamenem",
+      "Na měření elektrické aktivity srdce",
+      "Na zvýšení tlaku uvnitř močového měchýře",
+      "Na řízeném podtlaku v uzavřeném krytí rány"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Uzavřený systém využívá podtlak a odvádění sekretu z rány. Zkratka neoznačuje konkrétní obvaz použitelný bez posouzení rány, ale princip specializované terapie."
+    ],
+    "memory": "V.A.C. využívá podtlak."
+  },
+  {
+    "id": 477,
+    "category": "Ošetřovatelství",
+    "bookRef": "2024 · Základy klinického ošetřovatelství · úloha 1 · PDF 5",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 5",
+    "question": "Co hodnotí Glasgow Coma Scale (GCS)?",
+    "title": "Otevírání očí, slovní a motorickou odpověď",
+    "options": [
+      "Pouze velikost zornic",
+      "Výhradně okysličení krve",
+      "Otevírání očí, slovní a motorickou odpověď",
+      "Pouze krevní tlak a tep"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "GCS strukturovaně popisuje úroveň vědomí prostřednictvím tří složek. Záznam jednotlivých složek poskytuje více informací než samotný součet."
+    ],
+    "memory": "GCS: oči, řeč, pohyb."
+  },
+  {
+    "id": 478,
+    "category": "Ošetřovatelství",
+    "bookRef": "2024 · Základy klinického ošetřovatelství · úloha 2 · PDF 5",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 5",
+    "question": "Co odhaduje pulzní oxymetrie?",
+    "title": "Saturaci hemoglobinu v periferní arteriální krvi kyslíkem",
+    "options": [
+      "Počet krevních destiček",
+      "Saturaci hemoglobinu v periferní arteriální krvi kyslíkem",
+      "Koncentraci oxidu uhličitého na konci výdechu",
+      "Množství glukózy v moči"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Optický snímač poskytuje odhad SpO₂. Nejde o přímé měření krevních plynů a výsledek mohou ovlivnit například pohyb či nedostatečné prokrvení prstu."
+    ],
+    "memory": "Oxymetrie sleduje okysličení."
+  },
+  {
+    "id": 479,
+    "category": "Ošetřovatelství",
+    "bookRef": "2024 · Základy klinického ošetřovatelství · úloha 3 · PDF 5",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 5",
+    "question": "Co se měří při kapnometrii?",
+    "title": "Koncentrace nebo parciální tlak CO₂ v dýchacích plynech",
+    "options": [
+      "Koncentrace nebo parciální tlak CO₂ v dýchacích plynech",
+      "Koncentrace glukózy v krvi",
+      "Hustota kostního minerálu",
+      "Počet dechových svalů"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Často se sleduje hodnota na konci výdechu, označená EtCO₂. Kapnografie navíc zobrazuje průběh hodnot v čase, zatímco oxymetrie sleduje okysličení krve."
+    ],
+    "memory": "Kapnometrie = CO₂ ve vydechovaném plynu."
+  },
+  {
+    "id": 480,
+    "category": "Ošetřovatelství",
+    "bookRef": "2024 · Základy klinického ošetřovatelství · úloha 4 · PDF 5",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 5",
+    "question": "Co znamená hemoptýza?",
+    "title": "Vykašlávání krve z dýchacích cest",
+    "options": [
+      "Zvracení krve ze zažívacího traktu",
+      "Krev v moči",
+      "Krev ve stolici",
+      "Vykašlávání krve z dýchacích cest"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Rozhodující je původ krve a způsob jejího odchodu. Zvracení krve se nazývá hemateméza, kdežto hemoptýza souvisí s dýchacími cestami."
+    ],
+    "memory": "Hemoptýza: krev při kašli."
+  },
+  {
+    "id": 481,
+    "category": "Ošetřovatelství",
+    "bookRef": "2024 · Základy klinického ošetřovatelství · úloha 8 · PDF 6",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 6",
+    "question": "Jak je člověk uložen v pronační poloze?",
+    "title": "Na břiše",
+    "options": [
+      "Na pravém boku",
+      "Vsedě s předklonem",
+      "Na břiše",
+      "Na zádech"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Pronační poloha celého těla znamená leh na břiše. Je třeba ji odlišit od pronace předloktí, která popisuje otáčivý pohyb končetiny."
+    ],
+    "memory": "Pronační poloha = břichem dolů."
+  },
+  {
+    "id": 482,
+    "category": "Ošetřovatelství",
+    "bookRef": "2024 · Základy klinického ošetřovatelství · úloha 9 · PDF 6",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 6",
+    "question": "Co znamená zkratka AED?",
+    "title": "Automatizovaný externí defibrilátor",
+    "options": [
+      "Arteriální elektronický doppler",
+      "Automatizovaný externí defibrilátor",
+      "Automatický analyzátor elektrolytů",
+      "Ambulantní endoskopická diagnostika"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "AED analyzuje srdeční rytmus a podle výsledku vydává pokyny k případnému výboji. Ne každý rytmus je vhodný k defibrilaci; zařízení není přístrojem k měření krevního tlaku."
+    ],
+    "memory": "AED analyzuje rytmus a řídí defibrilaci."
+  },
+  {
+    "id": 483,
+    "category": "Ošetřovatelství",
+    "bookRef": "2024 · Ošetřovatelství v interních oborech · úloha 2 · PDF 7",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 7",
+    "question": "S čím souvisí pojem angina pectoris?",
+    "title": "S přechodnou ischemií srdečního svalu",
+    "options": [
+      "S přechodnou ischemií srdečního svalu",
+      "Se zánětem krčních mandlí",
+      "S výhradně kožní alergií",
+      "S poruchou odtoku moči"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Srdeční sval při ischemii nedostává dostatek krve vzhledem ke své potřebě. Typickým projevem může být tlak či svírání na hrudi; název není označením krční angíny."
+    ],
+    "memory": "Angina pectoris se týká srdce."
+  },
+  {
+    "id": 484,
+    "category": "Ošetřovatelství",
+    "bookRef": "2024 · Ošetřovatelství v interních oborech · úloha 6 · PDF 7",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 7",
+    "question": "Co znamená písmeno ST v označení STEMI?",
+    "title": "Úsek ST na elektrokardiogramu, který je elevován",
+    "options": [
+      "Systolický tlak měřený na paži",
+      "Střední teplotu těla",
+      "Stupeň trénovanosti svalu",
+      "Úsek ST na elektrokardiogramu, který je elevován"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "STEMI označuje infarkt myokardu s elevacemi úseku ST. Zkratka vychází z elektrokardiografického obrazu a nevyjadřuje hodnotu krevního tlaku."
+    ],
+    "memory": "STEMI: infarkt s elevací ST."
+  },
+  {
+    "id": 485,
+    "category": "Ošetřovatelství",
+    "bookRef": "2024 · Ošetřovatelství v interních oborech · úloha 7 · PDF 7",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 7",
+    "question": "Jaký elektrický děj hlavně představuje komplex QRS na EKG?",
+    "title": "Depolarizaci komor",
+    "options": [
+      "Repolarizaci komor",
+      "Tvorbu erytropoetinu",
+      "Depolarizaci komor",
+      "Depolarizaci síní"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Depolarizace komor předchází jejich mechanickému stahu. Depolarizaci síní odpovídá vlna P a repolarizaci komor především vlna T."
+    ],
+    "memory": "QRS aktivuje komory."
+  },
+  {
+    "id": 486,
+    "category": "Ošetřovatelství",
+    "bookRef": "2024 · Ošetřovatelství v interních oborech · úloha 9 · PDF 8",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 8",
+    "question": "Co hodnotí kostní denzitometrie?",
+    "title": "Minerální hustotu kostní tkáně",
+    "options": [
+      "Objem mozkomíšního moku",
+      "Minerální hustotu kostní tkáně",
+      "Elektrickou aktivitu kosterního svalu",
+      "Koncentraci kyslíku ve vydechovaném vzduchu"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Vyšetření pomáhá posoudit stav kostní hmoty, například při hodnocení osteoporózy. Nenahrazuje vyšetření elektrické činnosti svalu ani přímo neměří bolest."
+    ],
+    "memory": "Denzitometrie = hustota kosti."
+  },
+  {
+    "id": 487,
+    "category": "Ošetřovatelství",
+    "bookRef": "2024 · Ošetřovatelství v interních oborech · úloha 10 · PDF 8",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 8",
+    "question": "Co je osteofyt?",
+    "title": "Kostní výrůstek, který může vznikat při artróze",
+    "options": [
+      "Kostní výrůstek, který může vznikat při artróze",
+      "Buňka vytvářející protilátky",
+      "Kámen v močovém měchýři",
+      "Vazivový obal nervu"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Osteofyty jsou kostní novotvorby často na okrajích kloubních ploch při degenerativních změnách. Nelze je ztotožnit s osteoporózou, při níž ubývá kostní hmota."
+    ],
+    "memory": "Osteofyt = kostní výrůstek."
+  },
+  {
+    "id": 488,
+    "category": "Sociální práce",
+    "bookRef": "2024 · Základy sociální práce · úloha 1 · PDF 9",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 9",
+    "question": "Které postoje jsou typické pro přístup orientovaný na klienta podle Carla Rogerse?",
+    "title": "Empatie, opravdovost a bezpodmínečné přijetí",
+    "options": [
+      "Manipulace, trest a ponižování",
+      "Výhradní důraz na diagnózu bez vztahu",
+      "Rozhodování za klienta bez jeho účasti",
+      "Empatie, opravdovost a bezpodmínečné přijetí"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Pomáhající vytváří vztah, v němž se klient může bezpečně vyjadřovat a rozvíjet vlastní možnosti. Přijetí člověka neznamená automatický souhlas s každým jeho jednáním."
+    ],
+    "memory": "Rogers: porozumět, být opravdový, přijímat."
+  },
+  {
+    "id": 489,
+    "category": "Sociální práce",
+    "bookRef": "2024 · Základy sociální práce · úloha 2 · PDF 9",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 9",
+    "question": "Se kterým přístupem v sociální práci je spojena Florence Hollisová?",
+    "title": "S psychosociálním přístupem",
+    "options": [
+      "S teorií deskové tektoniky",
+      "S klasickou genetickou teorií",
+      "S psychosociálním přístupem",
+      "Výhradně s behaviorální ekonomií"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Psychosociální přístup propojuje porozumění psychice člověka s jeho sociálním prostředím. Neomezuje problém jen na nitro jednotlivce ani jen na vnější podmínky."
+    ],
+    "memory": "Psychosociální = člověk i jeho prostředí."
+  },
+  {
+    "id": 490,
+    "category": "Sociální práce",
+    "bookRef": "2024 · Základy sociální práce · úloha 3 · PDF 9",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 9",
+    "question": "Na co se soustředí antiopresivní přístup v sociální práci?",
+    "title": "Na omezování útlaku, nerovností a mocenského znevýhodnění",
+    "options": [
+      "Na vyloučení klientů z rozhodování",
+      "Na omezování útlaku, nerovností a mocenského znevýhodnění",
+      "Na zachování každé mocenské nerovnosti",
+      "Pouze na diagnostiku tělesných nemocí"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Přístup zkoumá i společenské podmínky, diskriminaci a rozdělení moci. Podporuje spravedlnost a spoluúčast lidí, jichž se rozhodování týká."
+    ],
+    "memory": "Antiopresivní přístup omezuje útlak."
+  },
+  {
+    "id": 491,
+    "category": "Sociální práce",
+    "bookRef": "2024 · Základy sociální práce · úloha 5 · PDF 9",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 9",
+    "question": "Které téma je ústřední pro logoterapii Viktora Frankla?",
+    "title": "Hledání smyslu života",
+    "options": [
+      "Hledání smyslu života",
+      "Měření inteligence podle objemu lebky",
+      "Výhradně podmiňování reflexů",
+      "Odstraňování všech životních rozhodnutí"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Logoterapie patří k existenciálním přístupům a zdůrazňuje smysl, odpovědnost a možnosti postoje člověka. Smysl není univerzální návod, který pomáhající jednoduše nadiktuje klientovi."
+    ],
+    "memory": "Frankl: hledání smyslu."
+  },
+  {
+    "id": 492,
+    "category": "Sociální práce",
+    "bookRef": "2024 · Základy sociální práce · úloha 6 · PDF 9",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 9",
+    "question": "Která trojice odpovídá Franklovým cestám uskutečňování hodnot?",
+    "title": "Tvůrčí, zážitkové a postojové hodnoty",
+    "options": [
+      "Pouze příjem, majetek a prestiž",
+      "Dominantní, recesivní a kodominantní hodnoty",
+      "Senzorické, motorické a smíšené hodnoty",
+      "Tvůrčí, zážitkové a postojové hodnoty"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Hodnotu lze uskutečňovat činem, prožitkem či vztahem i postojem k nezměnitelné situaci. Rozlišení neříká, že utrpení je samo o sobě žádoucí."
+    ],
+    "memory": "Tvořit, prožívat, zaujmout postoj."
+  },
+  {
+    "id": 493,
+    "category": "Sociální práce",
+    "bookRef": "2024 · Základy sociální práce · úloha 8 · PDF 10",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 10",
+    "question": "Které tři stavy ega rozlišuje transakční analýza?",
+    "title": "Rodič, Dospělý a Dítě",
+    "options": [
+      "Introvert, Extrovert a Ambivert",
+      "Vědomí, Spánek a Bezvědomí",
+      "Rodič, Dospělý a Dítě",
+      "Učitel, Lékař a Soudce"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Jde o model způsobů prožívání a komunikace, nikoli o skutečný věk nebo rodinné postavení. Dospělý stav se vztahuje k věcnému zpracování přítomné situace."
+    ],
+    "memory": "Transakční analýza: Rodič–Dospělý–Dítě."
+  },
+  {
+    "id": 494,
+    "category": "Sociální práce",
+    "bookRef": "2024 · Základy sociální práce · úloha 9 · PDF 10",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 10",
+    "question": "K čemu směřuje zázračná otázka v přístupu zaměřeném na řešení?",
+    "title": "K popisu konkrétních známek žádoucí změny",
+    "options": [
+      "K povinnému návratu ke všem dětským zážitkům",
+      "K popisu konkrétních známek žádoucí změny",
+      "K důkazu nadpřirozených schopností terapeuta",
+      "K určování viny klienta"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Klient si představuje situaci, v níž je problém vyřešen, a popisuje, podle čeho by to poznal. Tím se zpřesňuje cíl a hledají pozorovatelné kroky směrem k němu."
+    ],
+    "memory": "Zázračná otázka zpřesňuje podobu změny."
+  },
+  {
+    "id": 495,
+    "category": "Sociální práce",
+    "bookRef": "2024 · Základy sociální práce · úloha 10 · PDF 10",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 10",
+    "question": "Co znamená externalizace problému v narativním přístupu?",
+    "title": "Oddělit problém od identity člověka a zkoumat jejich vztah",
+    "options": [
+      "Oddělit problém od identity člověka a zkoumat jejich vztah",
+      "Prohlásit člověka za samotný problém",
+      "Připsat každou obtíž výhradně genetice",
+      "Vyloučit klienta z rozhovoru"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Místo nálepky člověka se mluví o tom, jak problém působí na jeho život a jak na něj může člověk reagovat. Oddělení problému neznamená popření odpovědnosti za jednání."
+    ],
+    "memory": "Člověk není totožný se svým problémem."
+  },
+  {
+    "id": 496,
+    "category": "Management",
+    "bookRef": "2024 · Základy managementu · úloha 1 · PDF 11",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 11",
+    "question": "Co zachycuje analýza SWOT?",
+    "title": "Silné a slabé stránky, příležitosti a hrozby",
+    "options": [
+      "Pouze příjmy a výdaje",
+      "Výhradně pracovní dobu zaměstnanců",
+      "Pouze pořadí vedoucích pracovníků",
+      "Silné a slabé stránky, příležitosti a hrozby"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Silné a slabé stránky se vztahují k vnitřním vlastnostem organizace. Příležitosti a hrozby vycházejí z vnějšího prostředí, což pomáhá nezaměňovat zdroje a podmínky."
+    ],
+    "memory": "SWOT: uvnitř síla/slabost, vně příležitost/hrozba."
+  },
+  {
+    "id": 497,
+    "category": "Management",
+    "bookRef": "2024 · Základy managementu · úloha 3 · PDF 11",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 11",
+    "question": "Co je podstatou organizování v managementu?",
+    "title": "Určit potřebné činnosti, odpovědnosti a jejich nositele",
+    "options": [
+      "Přenechat všechny úkoly náhodě",
+      "Odstranit každou spolupráci",
+      "Určit potřebné činnosti, odpovědnosti a jejich nositele",
+      "Pouze sepsat seznam přání bez odpovědnosti"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Cíl se převádí do konkrétních úkolů a vztahů mezi lidmi či útvary. Vyjasnění pravomoci a odpovědnosti pomáhá zabránit tomu, aby stejný úkol dělal každý nebo nikdo."
+    ],
+    "memory": "Organizovat = určit co a kdo."
+  },
+  {
+    "id": 498,
+    "category": "Management",
+    "bookRef": "2024 · Základy managementu · úloha 4 · PDF 11",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 11",
+    "question": "Co v personálním řízení označuje pracovní místo?",
+    "title": "Soubor úkolů a povinností s určitou funkcí v organizaci",
+    "options": [
+      "Pouze název budovy",
+      "Soubor úkolů a povinností s určitou funkcí v organizaci",
+      "Pouze židli a stůl",
+      "Výhradně osobní pověst zaměstnance"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Pracovní místo se vymezuje obsahem práce, odpovědností a vazbami v organizační struktuře. Stejnou funkci proto může pracovník vykonávat i z různých fyzických míst."
+    ],
+    "memory": "Pracovní místo vymezuje práci, nejen adresu."
+  },
+  {
+    "id": 499,
+    "category": "Management",
+    "bookRef": "2024 · Základy managementu · úloha 6 · PDF 11",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 11",
+    "question": "Proč má být organizační uspořádání dostatečně flexibilní?",
+    "title": "Aby mohlo reagovat na změny úkolů a prostředí",
+    "options": [
+      "Aby mohlo reagovat na změny úkolů a prostředí",
+      "Aby nikdo neměl žádnou odpovědnost",
+      "Aby se nikdy nemusely měnit postupy",
+      "Aby se zakázalo předávání pravomocí"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Organizace slouží dosahování cílů a její struktura má odpovídat aktuálním potřebám. Flexibilita neznamená chaos, ale schopnost promyšleně upravit rozdělení práce a spolupráci."
+    ],
+    "memory": "Struktura se přizpůsobuje úkolům."
+  },
+  {
+    "id": 500,
+    "category": "Management",
+    "bookRef": "2024 · Základy managementu · úloha 8 · PDF 12",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 12",
+    "question": "Která trojice hledisek vystihuje posouzení uchazeče o práci?",
+    "title": "Schopnosti, motivace a vhodnost pro spolupráci v organizaci",
+    "options": [
+      "Pouze známosti, věk a nízká mzda",
+      "Výhradně oblíbenost a vzhled",
+      "Jen ochota přijmout všechny příkazy",
+      "Schopnosti, motivace a vhodnost pro spolupráci v organizaci"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Otázky může, chce a dokáže spolupracovat propojují způsobilost, zájem a pracovní vztahy. Posouzení má vycházet z požadavků práce a nesmí se redukovat na osobní známosti."
+    ],
+    "memory": "Může, chce, zapojí se do spolupráce."
+  }
+]

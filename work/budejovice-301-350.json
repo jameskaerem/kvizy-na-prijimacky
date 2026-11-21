@@ -1,0 +1,952 @@
+[
+  {
+    "id": 301,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Biologie 2021 v3, Fyzioterapie · úloha 46 · str. 6 (PDF 75)",
+    "sourcePages": "6 (PDF 75)",
+    "question": "Který cukr je součástí nukleotidů DNA?",
+    "title": "Deoxyribóza",
+    "options": [
+      "Deoxyribóza",
+      "Ribóza",
+      "Glukóza",
+      "Galaktóza"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Nukleotid DNA obsahuje fosfát, dusíkatou bázi a deoxyribózu. Právě cukr pomáhá odlišit DNA od RNA, jejíž nukleotidy obsahují ribózu."
+    ],
+    "memory": "DNA má deoxyribózu, RNA ribózu."
+  },
+  {
+    "id": 302,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Biologie 2021 v3, Fyzioterapie · úloha 50 · str. 6 (PDF 75)",
+    "sourcePages": "6 (PDF 75)",
+    "question": "Který děj narušuje penicilin u citlivých rostoucích bakterií?",
+    "title": "Vytváření pevných vazeb v buněčné stěně",
+    "options": [
+      "Tvorbu lidské jaderné membrány",
+      "Vazbu kyslíku na lidský hemoglobin",
+      "Pohyb virů pomocí bičíku",
+      "Vytváření pevných vazeb v buněčné stěně"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Bakteriální stěna pomáhá buňce odolávat vnitřnímu tlaku. Narušení jejího budování může rostoucí bakterii poškodit. Otázka popisuje mechanismus, účinek závisí i na citlivosti bakterie."
+    ],
+    "memory": "Penicilin zasahuje stavbu bakteriální stěny."
+  },
+  {
+    "id": 303,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Motivační test 2021 v3, Fyzioterapie · úloha 3 · str. 1 (PDF 76)",
+    "sourcePages": "1 (PDF 76)",
+    "question": "Co odpovídá hippokratovské tradici uvažování o nemoci?",
+    "title": "Zohlednit také prostředí a způsob života nemocného",
+    "options": [
+      "Posoudit pouze barvu oděvu nemocného",
+      "Odmítnout souvislost se životními podmínkami",
+      "Zohlednit také prostředí a způsob života nemocného",
+      "Předpokládat totožné podmínky u všech lidí"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Starověká hippokratovská tradice se zajímala i o vzduch, vodu a místo života. Zdraví tak spojovala s okolnostmi, ve kterých člověk žije."
+    ],
+    "memory": "Člověk žije v určitém prostředí."
+  },
+  {
+    "id": 304,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Motivační test 2021 v3, Fyzioterapie · úloha 4 · str. 1 (PDF 76)",
+    "sourcePages": "1 (PDF 76)",
+    "question": "Který příklad nejlépe vystihuje strukturální změnu pohybového aparátu?",
+    "title": "Přerušení kosti při zlomenině",
+    "options": [
+      "Dočasně změněná souhra svalů bez prokázaného poškození tkáně",
+      "Přerušení kosti při zlomenině",
+      "Naučený neúsporný pohybový návyk bez poškození tkáně",
+      "Krátkodobá změna načasování svalové aktivity"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Strukturální změna znamená změnu samotné stavby tkáně. U funkční poruchy se popisuje zejména způsob jejího fungování. V praxi se oba pohledy mohou překrývat."
+    ],
+    "memory": "Struktura je stavba, funkce způsob činnosti."
+  },
+  {
+    "id": 305,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Motivační test 2021 v3, Fyzioterapie · úloha 5 · str. 1 (PDF 76)",
+    "sourcePages": "1 (PDF 76)",
+    "question": "Který z těchto plaveckých stylů umožňuje závodníkům zpravidla nejvyšší rychlost?",
+    "title": "Kraul",
+    "options": [
+      "Prsa",
+      "Kraul",
+      "Znak",
+      "Motýlek"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Kraul kombinuje střídavé záběry paží, práci nohou a polohu těla s malým odporem. Ve volném způsobu ho závodníci proto běžně volí jako nejrychlejší styl."
+    ],
+    "memory": "Pro rychlost si spoj volný způsob s kraulem."
+  },
+  {
+    "id": 306,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Motivační test 2021 v3, Fyzioterapie · úloha 6 · str. 1 (PDF 76)",
+    "sourcePages": "1 (PDF 76)",
+    "question": "Jaká je vlnová délka ultrafialového záření vůči infračervenému?",
+    "title": "Kratší",
+    "options": [
+      "Kratší",
+      "Delší",
+      "Vždy stejná",
+      "Obě záření nemají vlnovou délku"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "V elektromagnetickém spektru je ultrafialové záření za fialovým koncem viditelného světla a infračervené za červeným. UV má kratší vlnovou délku a vyšší frekvenci."
+    ],
+    "memory": "UV je kratší než IR."
+  },
+  {
+    "id": 307,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Motivační test 2021 v3, Fyzioterapie · úloha 7 · str. 1 (PDF 76)",
+    "sourcePages": "1 (PDF 76)",
+    "question": "Které ionty se v elektrickém poli pohybují ke kladné elektrodě?",
+    "title": "Anionty",
+    "options": [
+      "Kationty",
+      "Pouze elektricky neutrální atomy",
+      "Pouze molekuly bez náboje",
+      "Anionty"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Aniont nese záporný náboj. Opačné náboje se přitahují, proto jeho pohyb směřuje ke kladné elektrodě. Kladný kationt má opačný směr."
+    ],
+    "memory": "Minus putuje k plusu."
+  },
+  {
+    "id": 308,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Motivační test 2021 v3, Fyzioterapie · úloha 8 · str. 2 (PDF 77)",
+    "sourcePages": "2 (PDF 77)",
+    "question": "Který název označuje využívání jeskynního prostředí při pobytové léčebné metodě?",
+    "title": "Speleoterapie",
+    "options": [
+      "Talasoterapie",
+      "Helioterapie",
+      "Speleoterapie",
+      "Hipoterapie"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Speleo odkazuje k jeskyni. Název říká, jaké prostředí metoda využívá, zatímco talasoterapie se vztahuje k moři a helioterapie ke slunci."
+    ],
+    "memory": "Speleo patří k jeskyním."
+  },
+  {
+    "id": 309,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Motivační test 2021 v3, Fyzioterapie · úloha 10 · str. 2 (PDF 77)",
+    "sourcePages": "2 (PDF 77)",
+    "question": "Co znamená svalová hypertrofie?",
+    "title": "Zvětšování objemu svalových vláken",
+    "options": [
+      "Zmenšování svalových vláken",
+      "Úplná ztráta volního pohybu",
+      "Zvětšování objemu svalových vláken",
+      "Rozpad všech šlach"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Při vhodném dlouhodobém zatěžování mohou vlákna vytvářet více svalových bílkovin a zvětšit svůj průřez. Hypertrofie tedy popisuje růst velikosti, atrofie úbytek."
+    ],
+    "memory": "Hyper roste, atrofie ubývá."
+  },
+  {
+    "id": 310,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Motivační test 2021 v3, Fyzioterapie · úloha 11 · str. 2 (PDF 77)",
+    "sourcePages": "2 (PDF 77)",
+    "question": "Dvě vozidla jedou současně proti sobě ze vzdálenosti 48 km rychlostmi 65 a 55 km/h. Za kolik minut se potkají?",
+    "title": "24",
+    "options": [
+      "20",
+      "24",
+      "29",
+      "31"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Jejich vzdálenost se zmenšuje rychlostí 120 km/h. Čas je 48 děleno 120, tedy 0,4 hodiny. Násobení šedesáti převede hodiny na 24 minut."
+    ],
+    "memory": "Pro jízdu proti sobě rychlosti sečti."
+  },
+  {
+    "id": 311,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Motivační test 2021 v3, Fyzioterapie · úloha 12 · str. 2 (PDF 77)",
+    "sourcePages": "2 (PDF 77)",
+    "question": "Která věta obsahuje zřetelně hodnotící soud?",
+    "title": "Tento způsob cestování je ze všech nejlepší.",
+    "options": [
+      "Tento způsob cestování je ze všech nejlepší.",
+      "Vlak odjel v 8 hodin.",
+      "Trasa měří 15 kilometrů.",
+      "Autobus má čtyřicet sedadel."
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Výraz nejlepší předpokládá hodnoticí měřítko, například pohodlí nebo cenu. Ostatní údaje lze přímo ověřit podle konkrétního času, vzdálenosti a počtu."
+    ],
+    "memory": "U hodnocení se ptej, podle jakého měřítka."
+  },
+  {
+    "id": 312,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Motivační test 2021 v3, Fyzioterapie · úloha 14 · str. 2 (PDF 77)",
+    "sourcePages": "2 (PDF 77)",
+    "question": "Po přeskupení písmen vzniknou názvy KRÁLÍK, TCHOŘ a VEPŘ. Který z nich patří mezi šelmy?",
+    "title": "Tchoř",
+    "options": [
+      "Králík",
+      "Vepř",
+      "Žádný z nich",
+      "Tchoř"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Tchoř patří do skupiny šelem. Králík patří mezi zajícovce a prase mezi sudokopytníky. Zadané názvy se tedy liší i zoologickým zařazením."
+    ],
+    "memory": "Tchoř je šelma."
+  },
+  {
+    "id": 313,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Motivační test 2021 v3, Fyzioterapie · úloha 15 · str. 2 (PDF 77)",
+    "sourcePages": "2 (PDF 77)",
+    "question": "Co zachycuje elektromyografie neboli EMG?",
+    "title": "Elektrickou aktivitu související s činností svalů",
+    "options": [
+      "Přímo mechanickou sílu šlachy v newtonech",
+      "Průtok krve aortou",
+      "Elektrickou aktivitu pouze srdeční svaloviny",
+      "Elektrickou aktivitu související s činností svalů"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Při aktivaci svalových vláken vznikají elektrické signály, které lze snímat elektrodami. Jejich záznam pomáhá zkoumat nervosvalovou činnost. Síla svalu je jiná veličina."
+    ],
+    "memory": "EMG sleduje elektrické signály svalu."
+  },
+  {
+    "id": 314,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Motivační test 2021 v3, Fyzioterapie · úloha 17 · str. 2 (PDF 77)",
+    "sourcePages": "2 (PDF 77)",
+    "question": "Která čtveřice je spojena s rozvojem české rehabilitace a fyzioterapie?",
+    "title": "Václav Vojta, Karel Lewit, František Véle a Vladimír Janda",
+    "options": [
+      "Václav Vojta, Otto Wichterle, Tomáš Halík a Sigmund Freud",
+      "Gregor Mendel, Charles Darwin, Robert Koch a Louis Pasteur",
+      "Václav Vojta, Karel Lewit, František Véle a Vladimír Janda",
+      "Platón, Aristotelés, Sókratés a Thalés"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Tito čtyři odborníci přispěli k poznávání a ovlivňování pohybových funkcí. U ostatních skupin jde převážně o jiné obory, například chemii, mikrobiologii či filozofii."
+    ],
+    "memory": "Vojta, Lewit, Véle a Janda patří k dějinám oboru."
+  },
+  {
+    "id": 315,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Motivační test 2021 v3, Fyzioterapie · úloha 18 · str. 3 (PDF 78)",
+    "sourcePages": "3 (PDF 78)",
+    "question": "Který cíl rehabilitace přesahuje samotný nácvik pohybu?",
+    "title": "Umožnit návrat člověka k běžným životním a společenským rolím",
+    "options": [
+      "Změřit pouze délku jedné kosti",
+      "Umožnit návrat člověka k běžným životním a společenským rolím",
+      "Získat jedinou hodnotu svalové síly",
+      "Vyšetřit výhradně jeden kloub"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Člověk může potřebovat znovu zvládat práci, rodinný život nebo kontakt s okolím. Rehabilitace proto propojuje funkční schopnosti s tím, jak je využije v každodenním životě."
+    ],
+    "memory": "Schopnost má smysl v běžném životě."
+  },
+  {
+    "id": 316,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Motivační test 2021 v3, Fyzioterapie · úloha 29 · str. 4 (PDF 79)",
+    "sourcePages": "4 (PDF 79)",
+    "question": "Která otázka nejlépe ukazuje funkční uvažování při vyšetření pohybového problému?",
+    "title": "Jak se mění souhra částí těla při konkrétním úkolu?",
+    "options": [
+      "Jak se mění souhra částí těla při konkrétním úkolu?",
+      "Jakou barvu má místnost?",
+      "Kolik židlí stojí na chodbě?",
+      "Jaký je název výrobce dveří?"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Funkční pohled sleduje činnost a její souvislosti. Při vstávání například zkoumá, jak se zapojují dolní končetiny a trup a kde člověk potřebuje pomoc."
+    ],
+    "memory": "Funkční pohled sleduje provedení úkolu."
+  },
+  {
+    "id": 317,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Motivační test 2021 v1, Fyzioterapie · úloha 2 · str. 1 (PDF 86)",
+    "sourcePages": "1 (PDF 86)",
+    "question": "Co umožňují gnostické funkce?",
+    "title": "Rozpoznávat předměty pomocí smyslových informací",
+    "options": [
+      "Rozpoznávat předměty pomocí smyslových informací",
+      "Tvořit krevní destičky",
+      "Filtrovat krev v ledvině",
+      "Stahovat srdeční chlopně"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Člověk může vidět tvar klíče a poznat, k čemu předmět patří. Nestačí samotný příjem světla, mozek musí informace rozpoznat a přiřadit jim význam."
+    ],
+    "memory": "Gnose znamená poznávání."
+  },
+  {
+    "id": 318,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Motivační test 2021 v1, Fyzioterapie · úloha 11 · str. 2 (PDF 87)",
+    "sourcePages": "2 (PDF 87)",
+    "question": "Stříbrná mince má hodnotu o polovinu vyšší než měděná. Kolik stříbrných odpovídá hodnotě 60 měděných?",
+    "title": "40",
+    "options": [
+      "30",
+      "50",
+      "90",
+      "40"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Zvolíme hodnotu měděné mince jako jedna. Stříbrná má hodnotu 1,5, takže 60 děleno 1,5 je 40. Výsledek lze ověřit násobením."
+    ],
+    "memory": "Dražších mincí potřebuješ méně."
+  },
+  {
+    "id": 319,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Motivační test 2021 v1, Fyzioterapie · úloha 14 · str. 2 (PDF 87)",
+    "sourcePages": "2 (PDF 87)",
+    "question": "Co nejlépe vystihuje izometrickou svalovou kontrakci v základním mechanickém modelu?",
+    "title": "Sval vyvíjí sílu bez změny své celkové délky",
+    "options": [
+      "Sval se musí vždy zkracovat",
+      "Sval se musí vždy prodlužovat",
+      "Sval vyvíjí sílu bez změny své celkové délky",
+      "Ve svalu nevzniká žádné napětí"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Příkladem je držení zátěže v pevné poloze. Sval pracuje a vytváří sílu, ale pohyb kloubu se při udržení polohy neprojeví. Vnitřní pružné struktury mohou přitom měnit své poměry."
+    ],
+    "memory": "Izometrie drží délku."
+  },
+  {
+    "id": 320,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Motivační test 2021 v1, Fyzioterapie · úloha 18 · str. 3 (PDF 88)",
+    "sourcePages": "3 (PDF 88)",
+    "question": "Na jaké ionty se ve vodném roztoku rozděluje chlorid sodný?",
+    "title": "Na Na+ a Cl−",
+    "options": [
+      "Na K+ a I−",
+      "Na Na+ a Cl−",
+      "Na Ca2+ a CO3 2−",
+      "Na H+ a OH−"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Voda odděluje ionty původně vázané v krystalu soli. V roztoku se tak mohou pohybovat částice nesoucí kladný a záporný náboj."
+    ],
+    "memory": "NaCl dává sodný a chloridový ion."
+  },
+  {
+    "id": 321,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Motivační test 2021 v2, Fyzioterapie · úloha 3 · str. 1 (PDF 90)",
+    "sourcePages": "1 (PDF 90)",
+    "question": "Kdo byli aleptové ve starořecké tělesné kultuře?",
+    "title": "Pracovníci zabývající se péčí o tělo a masážemi v gymnasiích",
+    "options": [
+      "Stavitelé římských vodovodů",
+      "Pracovníci zabývající se péčí o tělo a masážemi v gymnasiích",
+      "Výhradně opisovači středověkých knih",
+      "Výrobci astronomických dalekohledů"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "S péčí o cvičící tělo souviselo potírání olejem i masáž. Aleptové působili v prostředí antické tělesné kultury, tedy v odlišné historické roli od dnešních profesí."
+    ],
+    "memory": "Aleptové patří do řeckých gymnasií."
+  },
+  {
+    "id": 322,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Motivační test 2021 v2, Fyzioterapie · úloha 4 · str. 1 (PDF 90)",
+    "sourcePages": "1 (PDF 90)",
+    "question": "Se kterým tělocvičným hnutím je spojen Miroslav Tyrš?",
+    "title": "Se Sokolem",
+    "options": [
+      "Se Sokolem",
+      "S Junákem jako jeho zakladatel",
+      "S Mezinárodním olympijským výborem jako jeho jediný zakladatel",
+      "S antickou Akademií"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Tyrš patřil ke spoluzakladatelům Sokola v 19. století. Jeho práce spojovala tělesnou výchovu s širším kulturním a občanským působením."
+    ],
+    "memory": "Tyrš a Sokol patří k sobě."
+  },
+  {
+    "id": 323,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Motivační test 2021 v2, Fyzioterapie · úloha 8 · str. 2 (PDF 91)",
+    "sourcePages": "2 (PDF 91)",
+    "question": "Co znamená odborný výraz insuficience?",
+    "title": "Nedostatečnost",
+    "options": [
+      "Nakažlivost",
+      "Zvětšení počtu buněk",
+      "Úplná shoda",
+      "Nedostatečnost"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Výraz říká, že funkce nebo výkon něčeho nestačí potřebám. Například ve spojení s orgánem popisuje jeho nedostatečnou činnost."
+    ],
+    "memory": "Insuficience znamená, že výkon nestačí."
+  },
+  {
+    "id": 324,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Motivační test 2021 v2, Fyzioterapie · úloha 9 · str. 2 (PDF 91)",
+    "sourcePages": "2 (PDF 91)",
+    "question": "Zásoba potravy vystačí pěti stejně hladovým hlavám draka na 12 dní. Na kolik dní vystačí šesti hlavám při stejné spotřebě na hlavu?",
+    "title": "10",
+    "options": [
+      "12",
+      "14",
+      "10",
+      "16"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Celková zásoba odpovídá 5 krát 12, tedy 60 hlavodnům. Pro šest hlav rozdělíme 60 šesti a získáme deset dní."
+    ],
+    "memory": "Více strávníků spotřebuje zásobu rychleji."
+  },
+  {
+    "id": 325,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Motivační test 2021 v2, Fyzioterapie · úloha 12 · str. 2 (PDF 91)",
+    "sourcePages": "2 (PDF 91)",
+    "question": "Které číslo následuje v řadě 1, 3, 6, 10, 15, pokud dál přičítáme po sobě jdoucí přirozená čísla?",
+    "title": "21",
+    "options": [
+      "20",
+      "22",
+      "21",
+      "25"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Rozdíly jsou 2, 3, 4 a 5. Další rozdíl má být šest, takže k patnácti přičteme šest."
+    ],
+    "memory": "Další krok je vždy o jednu větší."
+  },
+  {
+    "id": 326,
+    "category": "Fyzioterapie a základy přírodních věd",
+    "bookRef": "Motivační test 2021 v2, Fyzioterapie · úloha 30 · str. 4 (PDF 93)",
+    "sourcePages": "4 (PDF 93)",
+    "question": "Která z uvedených stavebnic pochází z Dánska?",
+    "title": "LEGO",
+    "options": [
+      "Merkur",
+      "LEGO",
+      "Seva",
+      "Meccano"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "LEGO vzniklo v Dánsku a proslulo spojovatelnými kostkami. Merkur je známý český kovový stavebnicový systém, další názvy mají jiný původ."
+    ],
+    "memory": "Dánsko si spoj s LEGO."
+  },
+  {
+    "id": 327,
+    "category": "Biologie člověka",
+    "bookRef": "Biologie 2019, Radiologický asistent · úloha 2 · str. 1 (PDF 94)",
+    "sourcePages": "1 (PDF 94)",
+    "question": "Které spojení umožňuje významnou část otáčení hlavy do stran?",
+    "title": "Kloub mezi nosičem a čepovcem",
+    "options": [
+      "Kloub mezi nosičem a čepovcem",
+      "Stydká spona",
+      "Spojení kosti křížové s kostrčí",
+      "Kloub mezi lopatkou a pažní kostí"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Zub čepovce tvoří osu, kolem které se může nosič s hlavou otáčet. Pohyb celé hlavy však doplňují i další krční spoje."
+    ],
+    "memory": "Nosič se otáčí kolem čepu."
+  },
+  {
+    "id": 328,
+    "category": "Biologie člověka",
+    "bookRef": "Biologie 2019, Radiologický asistent · úloha 4 · str. 1 (PDF 94)",
+    "sourcePages": "1 (PDF 94)",
+    "question": "Co znamená hemostáza?",
+    "title": "Zástava krvácení",
+    "options": [
+      "Udržování vnitřních podmínek těla jako celek",
+      "Tvorba moči",
+      "Přenos kyslíku v plicích",
+      "Zástava krvácení"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Hemostáza zahrnuje děje, které omezí ztrátu krve z poškozené cévy. Homeostáza označuje širší udržování vnitřního prostředí, podobná slova mají odlišný význam."
+    ],
+    "memory": "Hemo souvisí s krví, hemostáza krvácení zastavuje."
+  },
+  {
+    "id": 329,
+    "category": "Biologie člověka",
+    "bookRef": "Biologie 2019, Radiologický asistent · úloha 9 · str. 2 (PDF 95)",
+    "sourcePages": "2 (PDF 95)",
+    "question": "Které buňky varlete tvoří hlavní část testosteronu u dospělého muže?",
+    "title": "Leydigovy buňky",
+    "options": [
+      "Sertoliho buňky jako hlavní producent",
+      "Spermie",
+      "Buňky výstelky močovodu",
+      "Leydigovy buňky"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Leydigovy buňky leží v prostoru mezi semenotvornými kanálky. Jejich činnost stimuluje luteinizační hormon z hypofýzy, takže místo tvorby a místo řídicího signálu se liší."
+    ],
+    "memory": "Leydig tvoří testosteron, hypofýza posílá signál."
+  },
+  {
+    "id": 330,
+    "category": "Biologie člověka",
+    "bookRef": "Biologie 2019, Radiologický asistent · úloha 12 · str. 2 (PDF 95)",
+    "sourcePages": "2 (PDF 95)",
+    "question": "Která dvojice přivádí krev do jater?",
+    "title": "Jaterní tepna a vrátnicová žíla",
+    "options": [
+      "Jaterní žíly a dolní dutá žíla",
+      "Plicnice a plicní žíla",
+      "Jaterní tepna a vrátnicová žíla",
+      "Aorta a horní dutá žíla bez mezilehlých větví"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Jaterní tepna přivádí okysličenou krev, vrátnicová žíla krev z trávicích orgánů bohatou na vstřebané látky. Jaterní žíly krev naopak odvádějí."
+    ],
+    "memory": "Do jater tepna i vrátnice, z jater jaterní žíly."
+  },
+  {
+    "id": 331,
+    "category": "Biologie člověka",
+    "bookRef": "Biologie 2019, Radiologický asistent · úloha 17 · str. 3 (PDF 96)",
+    "sourcePages": "3 (PDF 96)",
+    "question": "Jak se označují dvě hlavní složky tkáně sleziny?",
+    "title": "Bílá a červená pulpa",
+    "options": [
+      "Kůra a dřeň nadledviny",
+      "Bílá a červená pulpa",
+      "Šedá a bílá hmota míšní",
+      "Pokožka a škára"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Bílá pulpa souvisí s imunitními ději, červená s filtrací krve a zpracováním starých krvinek. Název pulpa zde označuje tkáňovou náplň sleziny."
+    ],
+    "memory": "Bílá pulpa pro imunitu, červená pro krev."
+  },
+  {
+    "id": 332,
+    "category": "Biologie člověka",
+    "bookRef": "Biologie 2019, Radiologický asistent · úloha 19 · str. 3 (PDF 96)",
+    "sourcePages": "3 (PDF 96)",
+    "question": "Která bílkovina tvoří podstatnou část organické mezibuněčné hmoty kostní tkáně?",
+    "title": "Kolagen",
+    "options": [
+      "Kolagen",
+      "Hemoglobin",
+      "Inzulín",
+      "Pepsin"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Kolagenní vlákna dávají kostní hmotě tahovou odolnost. Minerální složka přispívá k tvrdosti. Pevnost kosti vzniká jejich kombinací."
+    ],
+    "memory": "Kolagen vyztužuje, minerály zpevňují."
+  },
+  {
+    "id": 333,
+    "category": "Biologie člověka",
+    "bookRef": "Biologie 2019, Radiologický asistent · úloha 21 · str. 3 (PDF 96)",
+    "sourcePages": "3 (PDF 96)",
+    "question": "Jak hladká svalovina prostaty přispívá k její funkci?",
+    "title": "Pomáhá vypuzovat sekret žlázy",
+    "options": [
+      "Pomáhá vypuzovat sekret žlázy",
+      "Filtruje krev na primární moč",
+      "Vytváří spermie",
+      "Zajišťuje výměnu kyslíku"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Prostata tvoří část tekutiny ejakulátu. Stahy její hladké svaloviny pomáhají při vypuzení sekretu do močové trubice."
+    ],
+    "memory": "Žláza tvoří sekret, svalovina ho pomáhá vytlačit."
+  },
+  {
+    "id": 334,
+    "category": "Biologie člověka",
+    "bookRef": "Biologie 2019, Radiologický asistent · úloha 22 · str. 3 (PDF 96)",
+    "sourcePages": "3 (PDF 96)",
+    "question": "Jak se označují svaly spolupracující při stejném pohybu?",
+    "title": "Synergisté",
+    "options": [
+      "Antagonisté daného pohybu",
+      "Receptory",
+      "Osteoklasty",
+      "Synergisté"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Při určitém úkolu může více svalů společně přispívat ke stejnému výsledku. Synergista pomáhá pohybu, zatímco antagonista vytváří pohyb opačný."
+    ],
+    "memory": "Synergie znamená spolupráci."
+  },
+  {
+    "id": 335,
+    "category": "Biologie člověka",
+    "bookRef": "Biologie 2019, Radiologický asistent · úloha 23 · str. 3 (PDF 96)",
+    "sourcePages": "3 (PDF 96)",
+    "question": "Na kterou kost se upíná trojhlavý sval lýtkový prostřednictvím Achillovy šlachy?",
+    "title": "Na patní kost",
+    "options": [
+      "Na hlezenní kost",
+      "Na čéšku",
+      "Na patní kost",
+      "Na stehenní kost"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Lýtkové svaly přes tuto šlachu táhnou za patu a podílejí se na pohybu nohy dolů, například při výponu na špičky. Šlacha převádí sílu svalu na kost."
+    ],
+    "memory": "Achillova šlacha táhne za patu."
+  },
+  {
+    "id": 336,
+    "category": "Biologie člověka",
+    "bookRef": "Biologie 2019, Radiologický asistent · úloha 25 · str. 3 (PDF 96)",
+    "sourcePages": "3 (PDF 96)",
+    "question": "Která z uvedených kostí se řadí mezi krátké kosti, a tvoří tak odlišný typ než zbývající dlouhé kosti?",
+    "title": "Patní kost",
+    "options": [
+      "Stehenní kost",
+      "Patní kost",
+      "Lýtková kost",
+      "Holenní kost"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Patní kost je součástí zánártí. Ostatní nabízené kosti jsou dlouhé kosti dolní končetiny, které mají tělo a rozšířené konce."
+    ],
+    "memory": "Pata patří k zánártí."
+  },
+  {
+    "id": 337,
+    "category": "Biologie člověka",
+    "bookRef": "Biologie 2019, Radiologický asistent · úloha 29 · str. 4 (PDF 97)",
+    "sourcePages": "4 (PDF 97)",
+    "question": "Co vyjadřuje automacie srdečního převodního systému?",
+    "title": "Schopnost vytvářet rytmické vzruchy i bez povelu ke každému tepu z mozku",
+    "options": [
+      "Úplnou nezávislost tepu na všech nervech a hormonech",
+      "Schopnost vytvářet rytmické vzruchy i bez povelu ke každému tepu z mozku",
+      "Nutnost vědomě zahájit každý tep",
+      "Schopnost všech orgánů vyrábět vlastní krev"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Specializované buňky srdce mohou samovolně měnit elektrické napětí až ke vzniku vzruchu. Nervy a hormony přitom jeho rytmus dál ovlivňují."
+    ],
+    "memory": "Srdce si tvoří rytmus a organismus ho upravuje."
+  },
+  {
+    "id": 338,
+    "category": "Biologie člověka",
+    "bookRef": "Biologie 2019, Radiologický asistent · úloha 31 · str. 4 (PDF 97)",
+    "sourcePages": "4 (PDF 97)",
+    "question": "Kde kromě jádra obsahuje běžná lidská buňka vlastní DNA?",
+    "title": "V mitochondriích",
+    "options": [
+      "V mitochondriích",
+      "V lyzozomech",
+      "V Golgiho aparátu",
+      "V ribozomech jako jejich vlastní chromozom"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Mitochondrie uchovávají malý vlastní genom. Většina genetické informace buňky je přesto v jádře, proto samotná odpověď „jen v jádře“ není úplná."
+    ],
+    "memory": "DNA je v jádře i mitochondriích."
+  },
+  {
+    "id": 339,
+    "category": "Biologie člověka",
+    "bookRef": "Biologie 2019, Radiologický asistent · úloha 32 · str. 4 (PDF 97)",
+    "sourcePages": "4 (PDF 97)",
+    "question": "Jaké vrstvy tvoří srdeční stěnu od dutiny směrem ven?",
+    "title": "Endokard, myokard a epikard",
+    "options": [
+      "Epikard, endokard a myokard",
+      "Pokožka, škára a podkoží",
+      "Pohrudnice, myokard a okostice",
+      "Endokard, myokard a epikard"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Endokard vystýlá srdeční dutiny, myokard vytváří svalovou sílu a epikard kryje vnější povrch srdce. Pořadí odpovídá cestě od krve ven."
+    ],
+    "memory": "Endo uvnitř, myo sval, epi na povrchu."
+  },
+  {
+    "id": 340,
+    "category": "Biologie člověka",
+    "bookRef": "Biologie 2019, Radiologický asistent · úloha 35 · str. 5 (PDF 98)",
+    "sourcePages": "5 (PDF 98)",
+    "question": "Jaký pojem označuje zvýšené množství červených krvinek?",
+    "title": "Polycytémie",
+    "options": [
+      "Anémie",
+      "Leukopenie",
+      "Polycytémie",
+      "Trombocytopenie"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Polycytémie označuje zvýšení masy červených krvinek. Samotné zvýšení hematokritu může mít více příčin, například i úbytek plazmy, takže je potřeba tyto situace rozlišovat."
+    ],
+    "memory": "Polycytémie souvisí s nadbytkem erytrocytů."
+  },
+  {
+    "id": 341,
+    "category": "Biologie člověka",
+    "bookRef": "Biologie 2019, Radiologický asistent · úloha 37 · str. 5 (PDF 98)",
+    "sourcePages": "5 (PDF 98)",
+    "question": "Které dvě hlavní části rozlišujeme u hypofýzy?",
+    "title": "Adenohypofýzu a neurohypofýzu",
+    "options": [
+      "Kůru a dřeň nadledviny",
+      "Pravý a levý srdeční lalok",
+      "Adenohypofýzu a neurohypofýzu",
+      "Šedou a bílou pulpu"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Přední žlázová část vytváří vlastní hormony. Zadní nervová část souvisí s výběžky neuronů hypotalamu a uvolňuje hormony vytvořené v hypotalamu."
+    ],
+    "memory": "Adeno žlázová, neuro nervová."
+  },
+  {
+    "id": 342,
+    "category": "Biologie člověka",
+    "bookRef": "Biologie 2019, Radiologický asistent · úloha 39 · str. 5 (PDF 98)",
+    "sourcePages": "5 (PDF 98)",
+    "question": "Co je základním problémem u hemofilie A?",
+    "title": "Nedostatečná funkce srážecího faktoru VIII",
+    "options": [
+      "Nedostatek barviva ve všech tyčinkách",
+      "Nedostatečná funkce srážecího faktoru VIII",
+      "Chybění inzulínu ve slinivce",
+      "Zánik všech červených krvinek"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Faktor VIII je součástí návazných dějů srážení krve. Při jeho nedostatku nebo poruše se hůře vytváří stabilní fibrinová sraženina, i když destičky mohou být přítomny."
+    ],
+    "memory": "Hemofilie A souvisí s faktorem VIII."
+  },
+  {
+    "id": 343,
+    "category": "Biologie člověka",
+    "bookRef": "Biologie 2019, Radiologický asistent · úloha 40 · str. 5 (PDF 98)",
+    "sourcePages": "5 (PDF 98)",
+    "question": "Jak vzniká krevní sérum při přípravě vzorku?",
+    "title": "Oddělením tekutiny po sražení krve",
+    "options": [
+      "Oddělením tekutiny po sražení krve",
+      "Přidáním všech krvinek do plazmy",
+      "Pouhým rozpuštěním destiček ve vodě",
+      "Přeměnou hemoglobinu na fibrinogen"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Při srážení se fibrinogen využije k tvorbě fibrinu a mění se i další složky. Tekutina oddělená od sraženiny je sérum, které proto má jiné složení než nesražená plazma."
+    ],
+    "memory": "Sérum zůstane po sražení."
+  },
+  {
+    "id": 344,
+    "category": "Všeobecná informovanost",
+    "bookRef": "Všeobecná informovanost 2019, Radiologický asistent · úloha 3 · str. 1 (PDF 99)",
+    "sourcePages": "1 (PDF 99)",
+    "question": "Které křesťanské svátky připomínají Kristovo utrpení, smrt a vzkříšení?",
+    "title": "Velikonoce",
+    "options": [
+      "Vánoce",
+      "Advent",
+      "Letnice jako oslava seslání Ducha svatého",
+      "Velikonoce"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Velikonoční období soustřeďuje připomínku závěru Kristova života a vzkříšení. Vánoce se vztahují k narození a advent je obdobím přípravy na ně."
+    ],
+    "memory": "Velikonoce připomínají vzkříšení."
+  },
+  {
+    "id": 345,
+    "category": "Všeobecná informovanost",
+    "bookRef": "Všeobecná informovanost 2019, Radiologický asistent · úloha 5 · str. 1 (PDF 99)",
+    "sourcePages": "1 (PDF 99)",
+    "question": "V jakém kulturním prostředí vznikl buddhismus?",
+    "title": "V prostředí starověké Indie",
+    "options": [
+      "Ve starověkém Římě",
+      "Ve středověké Skandinávii",
+      "V novověké Americe",
+      "V prostředí starověké Indie"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Buddhismus má počátky v severní části indického kulturního prostoru. Teprve postupně se šířil do dalších oblastí Asie včetně Tibetu."
+    ],
+    "memory": "Buddhismus má indické kořeny."
+  },
+  {
+    "id": 346,
+    "category": "Všeobecná informovanost",
+    "bookRef": "Všeobecná informovanost 2019, Radiologický asistent · úloha 7 · str. 1 (PDF 99)",
+    "sourcePages": "1 (PDF 99)",
+    "question": "Který termín označuje židovské náboženství?",
+    "title": "Judaismus",
+    "options": [
+      "Antisemitismus",
+      "Sionismus",
+      "Judaismus",
+      "Stoicismus"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Judaismus je název náboženské tradice. Antisemitismus označuje nepřátelství vůči Židům a sionismus politické hnutí, proto názvy nelze zaměňovat."
+    ],
+    "memory": "Judaismus označuje náboženství."
+  },
+  {
+    "id": 347,
+    "category": "Všeobecná informovanost",
+    "bookRef": "Všeobecná informovanost 2019, Radiologický asistent · úloha 9 · str. 2 (PDF 100)",
+    "sourcePages": "2 (PDF 100)",
+    "question": "Která událost se váže k 28. říjnu 1918?",
+    "title": "Vyhlášení samostatného československého státu",
+    "options": [
+      "Vznik samostatné České republiky po rozdělení federace",
+      "Vyhlášení samostatného československého státu",
+      "Vstup České republiky do EU",
+      "Začátek okupace vojsky Varšavské smlouvy"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Datum připomíná vznik Československa při rozpadu Rakouska-Uherska. Samostatná Česká republika vznikla až 1. ledna 1993."
+    ],
+    "memory": "28. říjen 1918 patří Československu."
+  },
+  {
+    "id": 348,
+    "category": "Všeobecná informovanost",
+    "bookRef": "Všeobecná informovanost 2019, Radiologický asistent · úloha 15 · str. 2 (PDF 100)",
+    "sourcePages": "2 (PDF 100)",
+    "question": "S jakými poměry souvisel protest Jana Palacha v lednu 1969?",
+    "title": "S vývojem společnosti po okupaci Československa v srpnu 1968",
+    "options": [
+      "S vývojem společnosti po okupaci Československa v srpnu 1968",
+      "S koncem první světové války",
+      "Se vznikem Evropské unie",
+      "S rozpadem Československa roku 1993"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Palachův protest reagoval na společenskou situaci po okupaci a na ustupování veřejnosti novým poměrům. Patří do dějin období po potlačení pražského jara."
+    ],
+    "memory": "Palachův protest patří do ledna 1969."
+  },
+  {
+    "id": 349,
+    "category": "Všeobecná informovanost",
+    "bookRef": "Všeobecná informovanost 2019, Radiologický asistent · úloha 16 · str. 2 (PDF 100)",
+    "sourcePages": "2 (PDF 100)",
+    "question": "Čím se proslavil Nicholas Winton?",
+    "title": "Organizováním záchrany ohrožených dětí z Československa před druhou světovou válkou",
+    "options": [
+      "Organizováním záchrany ohrožených dětí z Československa před druhou světovou válkou",
+      "Založením Československa roku 1918",
+      "Vynálezem kontaktních čoček",
+      "Objevem původce tuberkulózy"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Winton se podílel na přípravě odjezdů dětí do bezpečí v Británii v roce 1939. Šlo o záchranné úsilí, do kterého byli zapojeni i další lidé."
+    ],
+    "memory": "Winton pomáhal dětem do bezpečí."
+  },
+  {
+    "id": 350,
+    "category": "Všeobecná informovanost",
+    "bookRef": "Všeobecná informovanost 2019, Radiologický asistent · úloha 29 · str. 4 (PDF 102)",
+    "sourcePages": "4 (PDF 102)",
+    "question": "Jak se nazývá interdisciplinární oblast zkoumající genderové role a vztahy ve společnosti?",
+    "title": "Gender studies",
+    "options": [
+      "Case studies jako obecné označení případových studií",
+      "Cytologie",
+      "Geologie",
+      "Gender studies"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Tato oblast zkoumá například to, jak společenská očekávání souvisejí s rolemi žen a mužů. Využívá přístupy různých oborů, například sociologie, historie či kulturních studií."
+    ],
+    "memory": "Gender studies zkoumají gender ve společenských souvislostech."
+  }
+]

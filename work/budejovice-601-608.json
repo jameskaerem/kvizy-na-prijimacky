@@ -1,0 +1,162 @@
+[
+  {
+    "id": 601,
+    "category": "Fyzika",
+    "bookRef": "prilohy_6393.zip · ra_fyzika-2_-kolo.doc · úloha 4",
+    "sourceFile": "ra_fyzika-2_-kolo.doc",
+    "sourcePages": "DOC, úloha 4",
+    "question": "Jaké je přibližné tíhové zrychlení u povrchu Země?",
+    "title": "9,8 m/s²",
+    "options": [
+      "0,98 m/s²",
+      "98 m/s²",
+      "980 m/s²",
+      "9,8 m/s²"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Hodnota se mírně liší podle místa. Ve školních výpočtech se často zaokrouhluje na 10 m/s²."
+    ],
+    "memory": "U Země si pamatuj přibližně deset metrů za sekundu na druhou."
+  },
+  {
+    "id": 602,
+    "category": "Informatika",
+    "bookRef": "prilohy_6393.zip · oo_vse.pdf · úloha 8",
+    "sourceFile": "oo_vse.pdf",
+    "sourcePages": "PDF 1",
+    "question": "Co charakterizuje cloudové úložiště?",
+    "title": "Soubory se ukládají na vzdálené servery a lze k nim přistupovat přes síť.",
+    "options": [
+      "Ukládání funguje jedině pomocí USB flash disku.",
+      "Jde o ovladač grafické karty.",
+      "Soubory se ukládají na vzdálené servery a lze k nim přistupovat přes síť.",
+      "Soubory se ukládají pouze do operační paměti počítače."
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Služba může soubory synchronizovat mezi zařízeními. Místní kopie může být dostupná i bez připojení, pokud je předem uložená."
+    ],
+    "memory": "Cloud umožňuje přístup k souborům přes síť."
+  },
+  {
+    "id": 603,
+    "category": "Sociologie",
+    "bookRef": "prilohy_6393.zip · sp.pdf · úloha 7",
+    "sourceFile": "sp.pdf",
+    "sourcePages": "PDF 1",
+    "question": "Jak nazýváme soubor očekávání spojených s určitou sociální pozicí?",
+    "title": "Sociální role",
+    "options": [
+      "Sociální původ",
+      "Sociální role",
+      "Sociální mobilita",
+      "Sociální stratifikace"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Pozice například označuje postavení učitele ve škole. Role zahrnuje očekávání, jak se člověk v této pozici chová, například že vyučuje a hodnotí práci žáků."
+    ],
+    "memory": "Pozice říká kde stojíš, role co se od tebe čeká."
+  },
+  {
+    "id": 604,
+    "category": "Biologie",
+    "bookRef": "prilohy_6393.zip · zsp_biologie.pdf · úloha 4",
+    "sourceFile": "zsp_biologie.pdf",
+    "sourcePages": "PDF 1",
+    "question": "Ve které tkáni po narození běžně vznikají červené krvinky?",
+    "title": "V červené kostní dřeni",
+    "options": [
+      "V červené kostní dřeni",
+      "V kloubní chrupavce",
+      "V žluté kostní dřeni jako hlavním místě krvetvorby",
+      "V hladké svalovině cév"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Červené krvinky se vyvíjejí z předchůdců v červené kostní dřeni. V dětství probíhá krvetvorba i v dřeňových dutinách dlouhých kostí a rozsah aktivní dřeně se s věkem mění."
+    ],
+    "memory": "Červená dřeň tvoří krvinky."
+  },
+  {
+    "id": 605,
+    "category": "Ošetřovatelství",
+    "bookRef": "prilohy_6393.zip · intenzivni-pece.pdf · úloha 5",
+    "sourceFile": "intenzivni-pece.pdf",
+    "sourcePages": "PDF 1",
+    "question": "Jaký je nejnižší součet bodů Glasgow Coma Scale, pokud lze ohodnotit všechny tři složky?",
+    "title": "3 body",
+    "options": [
+      "0 bodů",
+      "8 bodů",
+      "15 bodů",
+      "3 body"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Každá ze tří složek má nejnižší hodnotu jeden bod, takže minimum je 1 + 1 + 1. Pokud některou složku nelze hodnotit, zaznamenává se jako nehodnotitelná."
+    ],
+    "memory": "Tři hodnotitelné složky po jednom bodu dávají minimum 3."
+  },
+  {
+    "id": 606,
+    "category": "Sociologie",
+    "bookRef": "prilohy_6393.zip · Labor.d_vse.pdf · úloha 6",
+    "sourceFile": "Labor.d_vse.pdf",
+    "sourcePages": "PDF 1",
+    "question": "Se kterým směrem je spojen americký sociolog Robert K. Merton?",
+    "title": "S funkcionalismem",
+    "options": [
+      "S existencialismem",
+      "S psychoanalýzou",
+      "S funkcionalismem",
+      "S behaviorální psychologií"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Merton se zabýval důsledky společenských institucí a praktik. Rozlišoval například manifestní funkce, které jsou zamýšlené a rozpoznané, a latentní funkce, které zamýšlené ani rozpoznané nejsou."
+    ],
+    "memory": "Merton zkoumal i skryté funkce."
+  },
+  {
+    "id": 607,
+    "category": "Anatomie",
+    "bookRef": "prilohy_6393.zip · oo-biologie.pdf · úloha 4",
+    "sourceFile": "oo-biologie.pdf",
+    "sourcePages": "PDF 1",
+    "question": "Ve kterých dvou úsecích má zdravá lidská páteř při pohledu ze strany přirozenou lordózu?",
+    "title": "V krčním a bederním",
+    "options": [
+      "V bederním a křížovém",
+      "V krčním a bederním",
+      "V hrudním a křížovém",
+      "V krčním a hrudním"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Lordóza je zakřivení vyklenuté dopředu. V hrudní a křížové oblasti se páteř fyziologicky vyklenuje dozadu, což je kyfóza."
+    ],
+    "memory": "Krk a bedra mají lordózu."
+  },
+  {
+    "id": 608,
+    "category": "Biologie",
+    "bookRef": "prilohy_6393.zip · zz_biologie.pdf · úloha 1",
+    "sourceFile": "zz_biologie.pdf",
+    "sourcePages": "PDF 1",
+    "question": "Která dvojice patří mezi mízní orgány?",
+    "title": "Brzlík a slezina",
+    "options": [
+      "Brzlík a slezina",
+      "Ledvina a močový měchýř",
+      "Štítná žláza a hypofýza",
+      "Žlučník a žaludek"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Brzlík a slezina jsou mízní orgány s různými úlohami. V brzlíku dozrávají T lymfocyty a slezina se podílí na imunitní odpovědi vůči látkám a mikroorganismům v krvi."
+    ],
+    "memory": "Mízní soustava zahrnuje také brzlík a slezinu."
+  }
+]

@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 701,
+    "category": "Pohlavní chromozomy",
+    "bookRef": "str. 163–164",
+    "sourcePages": "163–164",
+    "question": "Co označujeme jako autozomy v běžném lidském karyotypu?",
+    "options": [
+      "Pouze chromozomy X a Y",
+      "Jen chromozomy spermií",
+      "Výhradně mitochondrie",
+      "Chromozomy mimo pár pohlavních chromozomů"
+    ],
+    "answer": 3,
+    "title": "Autozomy = 22 párů mimo pohlavní pár.",
+    "paragraphs": [
+      "Autozomy tvoří 22 párů běžného diploidního lidského karyotypu.",
+      "Představ si 23 dvojic: 22 patří mezi autozomy a poslední dvojice jsou pohlavní chromozomy.",
+      "Autozomy nejsou další buněčné organely. Jsou to chromozomy stejně jako X a Y, jen patří do jiné skupiny."
+    ],
+    "memory": "Autozomy = 22 párů mimo pohlavní pár."
+  },
+  {
+    "id": 702,
+    "category": "Pohlavní chromozomy",
+    "bookRef": "str. 163–164",
+    "sourcePages": "163–164",
+    "question": "Co popisuje karyotyp člověka?",
+    "options": [
+      "Pouze obsah cukru v krvi",
+      "Soubor všech bílkovin v potravě",
+      "Soubor chromozomů charakterizovaný počtem a vzhledem",
+      "Počet srdečních tepů"
+    ],
+    "answer": 2,
+    "title": "Karyotyp = přehled chromozomové výbavy.",
+    "paragraphs": [
+      "Karyotyp vyjadřuje chromozomovou výbavu, zejména počet a morfologické vlastnosti chromozomů.",
+      "Je to jako uspořádaný přehled chromozomů, ve kterém lze porovnávat jejich velikost a tvar.",
+      "Není to totéž co fenotyp ani úplný seznam jednotlivých genových variant."
+    ],
+    "memory": "Karyotyp = přehled chromozomové výbavy."
+  },
+  {
+    "id": 703,
+    "category": "Pohlavní chromozomy",
+    "bookRef": "str. 164–165",
+    "sourcePages": "164–165",
+    "question": "Která dvojice pohlavních chromozomů odpovídá obvyklému mužskému karyotypu?",
+    "options": [
+      "Dva autozomy místo pohlavních chromozomů",
+      "XY",
+      "XX",
+      "YY jako běžný pár"
+    ],
+    "answer": 1,
+    "title": "Běžný mužský karyotyp: XY.",
+    "paragraphs": [
+      "V základním školním modelu má muž dvojici XY a žena XX.",
+      "Písmena označují dva typy pohlavních chromozomů, ne počet všech chromozomů v buňce.",
+      "Jde o obvyklé chromozomové uspořádání; samotný jednoduchý model nepopisuje všechny odchylky pohlavního vývoje."
+    ],
+    "memory": "Běžný mužský karyotyp: XY."
+  },
+  {
+    "id": 704,
+    "category": "Pohlavní chromozomy",
+    "bookRef": "str. 164–165",
+    "sourcePages": "164–165",
+    "question": "Čím se v běžném modelu XX/XY liší spermie z hlediska pohlavních chromozomů?",
+    "options": [
+      "Nesou buď X, nebo Y",
+      "Každá nese současně X i Y",
+      "Všechny nesou pouze Y",
+      "Žádná nenese pohlavní chromozom"
+    ],
+    "answer": 0,
+    "title": "Vajíčko X, spermie X nebo Y.",
+    "paragraphs": [
+      "Jednotlivá spermie nese jeden pohlavní chromozom, X nebo Y. Vajíčko v tomto modelu nese X.",
+      "Spojení vajíčka X se spermií X dává XX; se spermií Y dává XY.",
+      "To neznamená, že některý rodič může tuto náhodnou kombinaci vědomě řídit."
+    ],
+    "memory": "Vajíčko X, spermie X nebo Y."
+  },
+  {
+    "id": 705,
+    "category": "Dědičnost a variabilita",
+    "bookRef": "str. 165",
+    "sourcePages": "165",
+    "question": "Co označuje genotyp jedince?",
+    "options": [
+      "Pouze jeho aktuální tělesnou hmotnost",
+      "Výhradně účinek okolní teploty",
+      "Jen naučené pohyby",
+      "Jeho genetickou výbavu"
+    ],
+    "answer": 3,
+    "title": "Genotyp = genetická výbava.",
+    "paragraphs": [
+      "Genotyp popisuje genetickou výbavu jedince.",
+      "Představ si zděděné zadání, se kterým organismus vstupuje do vývoje.",
+      "Pozorovatelný výsledek, tedy fenotyp, se utváří také působením prostředí; není prostou kopií zadání."
+    ],
+    "memory": "Genotyp = genetická výbava."
+  },
+  {
+    "id": 706,
+    "category": "Dědičnost a variabilita",
+    "bookRef": "str. 165",
+    "sourcePages": "165",
+    "question": "Jak vzniká fenotyp jedince?",
+    "options": [
+      "Výhradně vyloučením všech vlivů prostředí",
+      "Jen počtem erytrocytů",
+      "Uplatněním genetické výbavy v konkrétním prostředí",
+      "Pouze opisem velikosti chromozomů"
+    ],
+    "answer": 2,
+    "title": "Fenotyp = projevené znaky v daných podmínkách.",
+    "paragraphs": [
+      "Fenotyp zahrnuje projevené vlastnosti, na jejichž utváření se podílí genotyp a prostředí.",
+      "Stejné předpoklady se mohou projevit různě podle podmínek, například výživy při růstu.",
+      "Prostředí nepůsobí na všechny znaky stejně a neznamená to, že může libovolně změnit každý znak."
+    ],
+    "memory": "Fenotyp = projevené znaky v daných podmínkách."
+  },
+  {
+    "id": 707,
+    "category": "Dědičnost a variabilita",
+    "bookRef": "str. 165",
+    "sourcePages": "165",
+    "question": "Jaký význam má genetická variabilita pro populaci při změně podmínek?",
+    "options": [
+      "Způsobuje úplnou totožnost všech potomků",
+      "Jedinci se mohou lišit odolností vůči novým podmínkám",
+      "Zaručuje přežití každého jedince",
+      "Odstraňuje všechny mutace"
+    ],
+    "answer": 1,
+    "title": "Rozmanitost nabízí různé odpovědi na změnu.",
+    "paragraphs": [
+      "Rozmanitost znamená, že jedinci nemají všechny vlastnosti stejné.",
+      "Když se podmínky změní, některé varianty mohou být výhodnější než jiné.",
+      "Výhoda pro možnost přizpůsobení populace není zárukou přežití každého jednotlivce."
+    ],
+    "memory": "Rozmanitost nabízí různé odpovědi na změnu."
+  },
+  {
+    "id": 708,
+    "category": "Stavba gamet",
+    "bookRef": "str. 164",
+    "sourcePages": "164",
+    "question": "Kde se ve spermii soustřeďuje většina mitochondrií?",
+    "options": [
+      "Ve střední části za hlavičkou",
+      "V akrozomu místo enzymů",
+      "Výhradně v jádře",
+      "V obalu vajíčka"
+    ],
+    "answer": 0,
+    "title": "Mitochondrie spermie: střední část.",
+    "paragraphs": [
+      "Schéma spermie ukazuje mitochondrie ve střední části.",
+      "Pomáhají dodávat energii potřebnou pro pohyb; pohybující částí je bičík.",
+      "Hlavička obsahuje především jádro a akrozom, nikoli mitochondriální pochvu střední části."
+    ],
+    "memory": "Mitochondrie spermie: střední část."
+  },
+  {
+    "id": 709,
+    "category": "Stavba gamet",
+    "bookRef": "str. 164, 175",
+    "sourcePages": "164, 175",
+    "question": "K čemu slouží akrozom spermie?",
+    "options": [
+      "Ukládá moč před ejakulací",
+      "Vytváří celý bičík jako sval",
+      "Je hlavním zásobníkem chromozomů místo jádra",
+      "Obsahuje látky pomáhající při průniku obaly vajíčka"
+    ],
+    "answer": 3,
+    "title": "Akrozom pomáhá překonat obaly vajíčka.",
+    "paragraphs": [
+      "Akrozom je struktura na přední části hlavičky s enzymy důležitými při oplození.",
+      "Představ si vybavení na špičce spermie, které pomáhá překonat obaly kolem oocytu.",
+      "Genetická informace je soustředěna v jádře. Akrozom je jiná část hlavičky."
+    ],
+    "memory": "Akrozom pomáhá překonat obaly vajíčka."
+  },
+  {
+    "id": 710,
+    "category": "Stavba gamet",
+    "bookRef": "str. 164",
+    "sourcePages": "164",
+    "question": "Která část spermie zajišťuje její vlastní pohyb?",
+    "options": [
+      "Jádro jako sval",
+      "Pólové tělísko",
+      "Bičík",
+      "Akrozom jako píst"
+    ],
+    "answer": 2,
+    "title": "Bičík pohybuje spermií.",
+    "paragraphs": [
+      "Spermie se pohybuje pomocí kmitání bičíku.",
+      "Bičík si představ jako pohyblivý pohonný aparát a mitochondrie jako jednu ze součástí energetického zajištění.",
+      "Pólová tělíska patří k oogenezi, nejsou pohonnými částmi spermie."
+    ],
+    "memory": "Bičík pohybuje spermií."
+  },
+  {
+    "id": 711,
+    "category": "Pohlavní orgány",
+    "bookRef": "str. 166",
+    "sourcePages": "166",
+    "question": "Co patří mezi primární pohlavní znaky?",
+    "options": [
+      "Typické rozložení ochlupení",
+      "Pohlavní orgány",
+      "Vousy vznikající při dospívání",
+      "Změna hlasu v pubertě"
+    ],
+    "answer": 1,
+    "title": "Primární znaky = pohlavní orgány.",
+    "paragraphs": [
+      "Primární pohlavní znaky jsou vlastní pohlavní orgány.",
+      "Jde o stavby přímo zapojené do rozmnožování, které se zakládají již před narozením.",
+      "Vousy nebo změny hlasu jsou naopak příklady druhotných znaků zvýrazňovaných v pubertě."
+    ],
+    "memory": "Primární znaky = pohlavní orgány."
+  },
+  {
+    "id": 712,
+    "category": "Pohlavní orgány ženy",
+    "bookRef": "str. 166–167",
+    "sourcePages": "166–167",
+    "question": "Který výčet obsahuje pouze vnitřní ženské pohlavní orgány?",
+    "options": [
+      "Vaječníky, vejcovody, děloha a pochva",
+      "Ledviny, močovody a močový měchýř",
+      "Varlata, nadvarlata a chámovody",
+      "Slezina, brzlík a uzliny"
+    ],
+    "answer": 0,
+    "title": "Vaječník → vejcovod → děloha → pochva.",
+    "paragraphs": [
+      "Základ ženské pohlavní soustavy tvoří vaječníky, vejcovody, děloha a pochva.",
+      "Soustavu lze sledovat od místa vzniku oocytů přes jejich transport až k děloze a pochvě.",
+      "Močová soustava leží v blízkosti, ale má jinou funkci i jiné vývody."
+    ],
+    "memory": "Vaječník → vejcovod → děloha → pochva."
+  },
+  {
+    "id": 713,
+    "category": "Pohlavní orgány ženy",
+    "bookRef": "str. 166–167",
+    "sourcePages": "166–167",
+    "question": "Která struktura patří mezi zevní ženské pohlavní orgány?",
+    "options": [
+      "Vejcovod",
+      "Vaječník",
+      "Děložní dutina",
+      "Klitoris"
+    ],
+    "answer": 3,
+    "title": "Klitoris patří k zevním pohlavním orgánům.",
+    "paragraphs": [
+      "Klitoris neboli poštěváček je součástí zevních pohlavních orgánů.",
+      "Zevní orgány zahrnují také stydké pysky; vnitřní orgány leží hlouběji v pánvi.",
+      "Zevní ústí močové trubice je anatomicky poblíž, ale nejde o ústí pochvy."
+    ],
+    "memory": "Klitoris patří k zevním pohlavním orgánům."
+  },
+  {
+    "id": 714,
+    "category": "Pohlavní orgány ženy",
+    "bookRef": "str. 167",
+    "sourcePages": "167",
+    "question": "Kde se nacházejí vaječníky?",
+    "options": [
+      "Uvnitř ledvinných pánviček",
+      "Ve stěně žaludku",
+      "V pánevní dutině",
+      "V hrudníku za plícemi"
+    ],
+    "answer": 2,
+    "title": "Vaječníky leží v pánvi po stranách dělohy.",
+    "paragraphs": [
+      "Vaječníky jsou párové orgány uložené v pánvi.",
+      "Na obrázku jsou po stranách dělohy v blízkosti nálevkovitých konců vejcovodů.",
+      "Nejsou součástí močové soustavy, přestože název vejcovod může připomínat močovod."
+    ],
+    "memory": "Vaječníky leží v pánvi po stranách dělohy."
+  },
+  {
+    "id": 715,
+    "category": "Oogeneze",
+    "bookRef": "str. 167",
+    "sourcePages": "167",
+    "question": "Jak nazýváme vývoj ženských pohlavních buněk?",
+    "options": [
+      "Glykogenolýza",
+      "Oogeneze",
+      "Spermatogeneze",
+      "Krvetvorba"
+    ],
+    "answer": 1,
+    "title": "Oogeneze = vývoj oocytů.",
+    "paragraphs": [
+      "Oogeneze označuje vývoj oocytů, tedy ženských pohlavních buněk.",
+      "Předpona souvisí s vajíčkem; děj probíhá ve vaječníku.",
+      "Spermatogeneze je vývoj spermií a probíhá ve varlatech."
+    ],
+    "memory": "Oogeneze = vývoj oocytů."
+  },
+  {
+    "id": 716,
+    "category": "Oogeneze",
+    "bookRef": "str. 167",
+    "sourcePages": "167",
+    "question": "Kde ve vaječníku se vyvíjejí folikuly s oocyty?",
+    "options": [
+      "Především v kůře vaječníku",
+      "V dutině močového měchýře",
+      "V lumen pochvy",
+      "Uvnitř děložního hrdla"
+    ],
+    "answer": 0,
+    "title": "Folikuly se vyvíjejí v kůře vaječníku.",
+    "paragraphs": [
+      "Učebnice umísťuje vývoj oocytů do povrchové, korové vrstvy vaječníku.",
+      "Představ si folikuly v tkáni vaječníku; vejcovod zachytí oocyt teprve po uvolnění.",
+      "Folikul není dutina dělohy a nezraje uvnitř vejcovodu."
+    ],
+    "memory": "Folikuly se vyvíjejí v kůře vaječníku."
+  },
+  {
+    "id": 717,
+    "category": "Pohlavní orgány ženy",
+    "bookRef": "str. 168–169",
+    "sourcePages": "168–169",
+    "question": "Jaká je základní úloha vejcovodu?",
+    "options": [
+      "Vyrábět moč",
+      "Uchovávat spermie jako nadvarle",
+      "Odvádět krev z jater",
+      "Zachytit uvolněný oocyt a dopravovat jej směrem k děloze"
+    ],
+    "answer": 3,
+    "title": "Vejcovod zachytí oocyt a vede k děloze.",
+    "paragraphs": [
+      "Vejcovod zachycuje oocyt uvolněný z vaječníku a podílí se na jeho transportu.",
+      "Představ si spojovací cestu mezi okolím vaječníku a děložní dutinou.",
+      "Vaječník není vejcovod a močovod přenáší moč, nikoli oocyt."
+    ],
+    "memory": "Vejcovod zachytí oocyt a vede k děloze."
+  },
+  {
+    "id": 718,
+    "category": "Oplození",
+    "bookRef": "str. 169",
+    "sourcePages": "169",
+    "question": "Kde u člověka obvykle dochází k oplození?",
+    "options": [
+      "Na povrchu děložního hrdla",
+      "Uvnitř vaječníkového folikulu před ovulací",
+      "Ve vejcovodu",
+      "V močovém měchýři"
+    ],
+    "answer": 2,
+    "title": "Oplození obvykle ve vejcovodu, uhnízdění v děloze.",
+    "paragraphs": [
+      "Ke spojení gamet zpravidla dochází ve vejcovodu.",
+      "Vzniklý zárodek pak během dělení putuje do dělohy.",
+      "Místo oplození tedy není stejné jako obvyklé místo uhnízdění zárodku."
+    ],
+    "memory": "Oplození obvykle ve vejcovodu, uhnízdění v děloze."
+  },
+  {
+    "id": 719,
+    "category": "Pohlavní orgány ženy",
+    "bookRef": "str. 169",
+    "sourcePages": "169",
+    "question": "Čím je tvořena převážná část svalové stěny dělohy?",
+    "options": [
+      "Rohovinou",
+      "Hladkou svalovinou",
+      "Srdeční svalovinou",
+      "Kostní tkání"
+    ],
+    "answer": 1,
+    "title": "Děloha má silnou hladkou svalovinu.",
+    "paragraphs": [
+      "Děloha je dutý orgán se silnou stěnou obsahující hladkou svalovinu.",
+      "Její svalovina umožňuje výrazné změny velikosti a při porodu vytváří stahy.",
+      "Děložní sliznice vystýlá vnitřek; není totéž co celá svalová stěna."
+    ],
+    "memory": "Děloha má silnou hladkou svalovinu."
+  },
+  {
+    "id": 720,
+    "category": "Pohlavní orgány ženy",
+    "bookRef": "str. 169",
+    "sourcePages": "169",
+    "question": "Co spojuje pochva?",
+    "options": [
+      "Oblast děložního hrdla se zevním prostředím",
+      "Ledvinu s močovým měchýřem",
+      "Vaječník přímo s ledvinou",
+      "Prostatu s nadvarletem"
+    ],
+    "answer": 0,
+    "title": "Pochva navazuje na děložní hrdlo.",
+    "paragraphs": [
+      "Pochva je svalová trubice navazující na děložní hrdlo a ústící navenek.",
+      "Na schématu pokračuje z dolní části dělohy k poševnímu vchodu.",
+      "Močová trubice má samostatné vyústění; pochva není běžnou cestou odtoku moči."
+    ],
+    "memory": "Pochva navazuje na děložní hrdlo."
+  },
+  {
+    "id": 721,
+    "category": "Pohlavní orgány muže",
+    "bookRef": "str. 169",
+    "sourcePages": "169",
+    "question": "Co je šourek?",
+    "options": [
+      "Žláza za močovým měchýřem",
+      "Dutina uvnitř prostaty",
+      "Jiný název pro chámovod",
+      "Kožní vak obsahující varlata a nadvarlata"
+    ],
+    "answer": 3,
+    "title": "Šourek je obal pro varlata a nadvarlata.",
+    "paragraphs": [
+      "Šourek je vak rozdělený přepážkou na dvě části.",
+      "Uložení varlat mimo břišní dutinu pomáhá zajistit teplotní podmínky vhodné pro tvorbu spermií.",
+      "Šourek spermie sám nevytváří; vytvářejí se ve tkáni varlat."
+    ],
+    "memory": "Šourek je obal pro varlata a nadvarlata."
+  },
+  {
+    "id": 722,
+    "category": "Pohlavní orgány muže",
+    "bookRef": "str. 169–170",
+    "sourcePages": "169–170",
+    "question": "Proč má význam uložení varlat v šourku?",
+    "options": [
+      "Umožňuje tvorbu moči ve varlatech",
+      "Nahrazuje přívod krve do varlat",
+      "Podporuje nižší teplotu vhodnou pro spermatogenezi",
+      "Zvyšuje teplotu nad teplotu jater"
+    ],
+    "answer": 2,
+    "title": "Spermatogenezi vyhovuje nižší teplota než v břiše.",
+    "paragraphs": [
+      "Spermatogeneze potřebuje nižší teplotu, než je v tělesném jádru.",
+      "Šourek umožňuje vhodnější teplotní poměry než uložení uvnitř břicha.",
+      "Neznamená to, že varle může fungovat bez prokrvení nebo že čím chladnější prostředí, tím lépe."
+    ],
+    "memory": "Spermatogenezi vyhovuje nižší teplota než v břiše."
+  },
+  {
+    "id": 723,
+    "category": "Spermatogeneze",
+    "bookRef": "str. 170",
+    "sourcePages": "170",
+    "question": "Kde v dospělém varleti vznikají spermie?",
+    "options": [
+      "Ve vývodech ledvin",
+      "V semenotvorných kanálcích",
+      "V močovém měchýři",
+      "V měchýřkovitých žlázách"
+    ],
+    "answer": 1,
+    "title": "Spermie vznikají v semenotvorných kanálcích.",
+    "paragraphs": [
+      "Vývoj spermií probíhá v semenotvorných kanálcích varlete.",
+      "Varlata si představ jako orgány s hustě uspořádanými kanálky pro vznik zárodečných buněk.",
+      "Nadvarle následně zajišťuje dozrávání a skladování, nikoli vlastní počáteční tvorbu spermií."
+    ],
+    "memory": "Spermie vznikají v semenotvorných kanálcích."
+  },
+  {
+    "id": 724,
+    "category": "Spermatogeneze",
+    "bookRef": "str. 170",
+    "sourcePages": "170",
+    "question": "Které buňky v semenotvorných kanálcích poskytují podporu vyvíjejícím se spermiím?",
+    "options": [
+      "Sertoliho buňky",
+      "Erytrocyty",
+      "Osteoklasty",
+      "Tyčinky sítnice"
+    ],
+    "answer": 0,
+    "title": "Sertoli podporují vývoj spermií v kanálku.",
+    "paragraphs": [
+      "Sertoliho buňky zajišťují podpůrné a výživné prostředí pro vyvíjející se zárodečné buňky.",
+      "Představ si pečující buňky uvnitř kanálku, kde probíhá spermatogeneze.",
+      "Leydigovy buňky jsou naproti tomu mezi kanálky a tvoří testosteron."
+    ],
+    "memory": "Sertoli podporují vývoj spermií v kanálku."
+  },
+  {
+    "id": 725,
+    "category": "Pohlavní orgány muže",
+    "bookRef": "str. 170",
+    "sourcePages": "170",
+    "question": "Kde leží Leydigovy buňky?",
+    "options": [
+      "V hlavici každé spermie",
+      "Ve sliznici pochvy",
+      "Pouze v prostatě",
+      "V mezibuněčné tkáni mezi semenotvornými kanálky"
+    ],
+    "answer": 3,
+    "title": "Leydigovy buňky leží mezi kanálky.",
+    "paragraphs": [
+      "Leydigovy neboli intersticiální buňky se nacházejí mezi semenotvornými kanálky.",
+      "Jejich hormonální produkt může odtud přecházet do krve.",
+      "Nezaměňuj jejich polohu s podpůrnými Sertoliho buňkami uvnitř kanálků."
+    ],
+    "memory": "Leydigovy buňky leží mezi kanálky."
+  },
+  {
+    "id": 726,
+    "category": "Spermatogeneze",
+    "bookRef": "str. 170",
+    "sourcePages": "170",
+    "question": "Kolik spermatid vznikne po dokončení obou meiotických dělení z jednoho primárního spermatocytu?",
+    "options": [
+      "Dvě diploidní",
+      "Osm diploidních",
+      "Čtyři",
+      "Jedna"
+    ],
+    "answer": 2,
+    "title": "Jeden primární spermatocyt → čtyři spermatidy.",
+    "paragraphs": [
+      "Ze základní dvojice meiotických dělení vznikají čtyři haploidní buňky, které se dále mění ve spermie.",
+      "Představ si dvě po sobě jdoucí dělení: jedna buňka se rozdělí na dvě a ty na čtyři.",
+      "Spermatida ještě není dokonale vytvarovaná pohyblivá spermie; následuje přestavba buňky."
+    ],
+    "memory": "Jeden primární spermatocyt → čtyři spermatidy."
+  },
+  {
+    "id": 727,
+    "category": "Pohlavní orgány muže",
+    "bookRef": "str. 171",
+    "sourcePages": "171",
+    "question": "Jaká je důležitá funkce nadvarlete?",
+    "options": [
+      "Výhradně výroba adrenalinu",
+      "Dozrávání a uchovávání spermií",
+      "Tvorba oocytů",
+      "Filtrace krevní plazmy na moč"
+    ],
+    "answer": 1,
+    "title": "Nadvarle: dozrávání a zásoba spermií.",
+    "paragraphs": [
+      "V nadvarleti spermie dále dozrávají a získávají schopnost pohybu.",
+      "Jde o navazující úsek po tvorbě ve varleti, podobně jako dokončovací a skladovací místo.",
+      "Nadvarle není varle a jeho název neoznačuje nadledvinu."
+    ],
+    "memory": "Nadvarle: dozrávání a zásoba spermií."
+  },
+  {
+    "id": 728,
+    "category": "Pohlavní orgány muže",
+    "bookRef": "str. 171",
+    "sourcePages": "171",
+    "question": "Odkud odvádí spermie chámovod?",
+    "options": [
+      "Z nadvarlete směrem k ejakulačním vývodům a močové trubici",
+      "Z ledviny do močového měchýře",
+      "Z prostaty do vaječníku",
+      "Ze šourkové kůže do krve"
+    ],
+    "answer": 0,
+    "title": "Chámovod odvádí spermie z nadvarlete.",
+    "paragraphs": [
+      "Chámovod navazuje na nadvarle a tvoří část vývodné cesty spermií.",
+      "Představ si svalnaté potrubí, které při ejakulaci pomáhá posouvat spermie.",
+      "Není to močovod: ten vede moč z ledviny do měchýře."
+    ],
+    "memory": "Chámovod odvádí spermie z nadvarlete."
+  },
+  {
+    "id": 729,
+    "category": "Pohlavní orgány muže",
+    "bookRef": "str. 171",
+    "sourcePages": "171",
+    "question": "Jak přispívají prostata a měchýřkovité žlázy k ejakulátu?",
+    "options": [
+      "Vytvářejí všechny spermie meiózou",
+      "Nahrazují bičíky spermií",
+      "Odebírají z ejakulátu všechnu vodu",
+      "Přidávají své sekrety ke spermiím"
+    ],
+    "answer": 3,
+    "title": "Semeno = spermie a sekrety pohlavních cest.",
+    "paragraphs": [
+      "Přídatné pohlavní žlázy tvoří tekuté složky semene.",
+      "Spermie jsou buňky; sekrety vytvářejí prostředí, ve kterém jsou přenášeny.",
+      "Samotný ejakulát proto není totožný se souborem čistých spermií."
+    ],
+    "memory": "Semeno = spermie a sekrety pohlavních cest."
+  },
+  {
+    "id": 730,
+    "category": "Pohlavní orgány muže",
+    "bookRef": "str. 171",
+    "sourcePages": "171",
+    "question": "Co označuje poluce?",
+    "options": [
+      "Odchod menstruační krve",
+      "Filtraci moči v glomerulu",
+      "Samovolné vypuzení ejakulátu, často ve spánku",
+      "Uvolnění oocytu z folikulu"
+    ],
+    "answer": 2,
+    "title": "Poluce = samovolný výron semene.",
+    "paragraphs": [
+      "Poluce je mimovolní výron semene.",
+      "Nejde o jiný druh semene; název popisuje okolnosti jeho vypuzení.",
+      "Ovulace je děj ve vaječníku a s polucí se nesmí zaměňovat."
+    ],
+    "memory": "Poluce = samovolný výron semene."
+  },
+  {
+    "id": 731,
+    "category": "Pohlavní orgány muže",
+    "bookRef": "str. 171, 174",
+    "sourcePages": "171, 174",
+    "question": "Jak vzniká erekce penisu?",
+    "options": [
+      "Stahem chrupavčité tyče",
+      "Zvýšeným naplněním topořivých těles krví",
+      "Vznikem nové kosti v penisu",
+      "Naplňováním penisu močí"
+    ],
+    "answer": 1,
+    "title": "Erekce = krev v topořivých tělesech.",
+    "paragraphs": [
+      "Při erekci se mění prokrvení topořivých těles a jejich krevní náplň.",
+      "Představ si roztažení cévních prostorů, které vede ke zpevnění orgánu.",
+      "Erekce je jiný děj než ejakulace, tedy vypuzení semene."
+    ],
+    "memory": "Erekce = krev v topořivých tělesech."
+  },
+  {
+    "id": 732,
+    "category": "Pohlavní orgány muže",
+    "bookRef": "str. 171",
+    "sourcePages": "171",
+    "question": "Jakou dvojí úlohu má mužská močová trubice?",
+    "options": [
+      "Je vývodnou cestou moči i semene, při různých dějích",
+      "Vytváří moč i spermie",
+      "Vede žluč i pankreatickou šťávu",
+      "Přenáší krev i mozkomíšní mok"
+    ],
+    "answer": 0,
+    "title": "Mužská močová trubice odvádí moč i semeno.",
+    "paragraphs": [
+      "Mužská močová trubice slouží močové i pohlavní soustavě.",
+      "Je to společný závěrečný vývod, nikoli místo výroby obou tekutin.",
+      "Moč vzniká v ledvinách a spermie ve varlatech; jejich tvorba se ve společném vývodu nespojuje."
+    ],
+    "memory": "Mužská močová trubice odvádí moč i semeno."
+  },
+  {
+    "id": 733,
+    "category": "Druhotné pohlavní znaky",
+    "bookRef": "str. 172",
+    "sourcePages": "172",
+    "question": "Který znak je příkladem druhotného pohlavního znaku?",
+    "options": [
+      "Přítomnost varlat jako orgánů",
+      "Přítomnost vaječníků jako orgánů",
+      "Existence děložní dutiny",
+      "Rozvoj vousů při dospívání"
+    ],
+    "answer": 3,
+    "title": "Druhotné znaky se zvýrazňují v pubertě.",
+    "paragraphs": [
+      "Druhotné znaky se zvýrazňují vlivem hormonů v pubertě.",
+      "Patří sem například rozvoj vousů, prsů nebo změna hlasu.",
+      "Primární znaky jsou vlastní pohlavní orgány. Jednotlivé druhotné znaky navíc přirozeně kolísají mezi lidmi."
+    ],
+    "memory": "Druhotné znaky se zvýrazňují v pubertě."
+  },
+  {
+    "id": 734,
+    "category": "Ovariální cyklus",
+    "bookRef": "str. 172–173",
+    "sourcePages": "172–173",
+    "question": "Co je folikulární fáze ovariálního cyklu?",
+    "options": [
+      "Pouze odtok moči z ledvin",
+      "Období po zániku všech oocytů",
+      "Období růstu a zrání folikulu před ovulací",
+      "Období porodu placenty"
+    ],
+    "answer": 2,
+    "title": "Folikulární fáze předchází ovulaci.",
+    "paragraphs": [
+      "Ve folikulární fázi roste folikul obsahující oocyt.",
+      "Je to přípravná etapa před uvolněním oocytu.",
+      "Luteální fáze následuje po ovulaci a souvisí se žlutým tělískem."
+    ],
+    "memory": "Folikulární fáze předchází ovulaci."
+  },
+  {
+    "id": 735,
+    "category": "Ovariální cyklus",
+    "bookRef": "str. 173",
+    "sourcePages": "173",
+    "question": "Co označuje Graafův folikul?",
+    "options": [
+      "Sliznici děložního hrdla",
+      "Zralý ovariální folikul obsahující oocyt",
+      "Semenotvorný kanálek",
+      "Úsek močovodu"
+    ],
+    "answer": 1,
+    "title": "Graafův folikul obsahuje oocyt.",
+    "paragraphs": [
+      "Graafův folikul je zralý folikul ve vaječníku.",
+      "Oocyt je obklopen folikulárními buňkami a folikul obsahuje dutinu s tekutinou.",
+      "Folikul je obalová struktura s buňkami kolem oocytu, nikoli samotný oocyt."
+    ],
+    "memory": "Graafův folikul obsahuje oocyt."
+  },
+  {
+    "id": 736,
+    "category": "Ovariální cyklus",
+    "bookRef": "str. 173",
+    "sourcePages": "173",
+    "question": "Co je ovulace?",
+    "options": [
+      "Uvolnění oocytu z ovariálního folikulu",
+      "Uhnízdění blastocysty v děloze",
+      "Odchod placenty po porodu",
+      "Zánik všech folikulů při každé menstruaci"
+    ],
+    "answer": 0,
+    "title": "Ovulace = uvolnění oocytu.",
+    "paragraphs": [
+      "Při ovulaci se oocyt uvolňuje ze zralého folikulu.",
+      "Tím se otevírá možnost jeho zachycení vejcovodem a případného oplození.",
+      "Ovulace není menstruace ani samotné oplození."
+    ],
+    "memory": "Ovulace = uvolnění oocytu."
+  },
+  {
+    "id": 737,
+    "category": "Oogeneze",
+    "bookRef": "str. 167",
+    "sourcePages": "167",
+    "question": "Jsou základy oocytů ve vaječníku přítomny již před pubertou?",
+    "options": [
+      "Ne, všechny vznikají teprve po první menstruaci z erytrocytů",
+      "Ne, vznikají až po prvním porodu z placenty",
+      "Ne, dodávají je do vaječníku spermie",
+      "Ano, jejich zásoba se zakládá již před narozením"
+    ],
+    "answer": 3,
+    "title": "Zásoba oocytů se zakládá před narozením.",
+    "paragraphs": [
+      "Vývoj ženských zárodečných buněk začíná již před narozením.",
+      "Puberta aktivuje cyklické dozrávání části již založených buněk, nikoli vznik celé zásoby od nuly.",
+      "Učebnicové odhady počtu buněk se liší podle věku; důležitý je časný vznik, ne pevné číslo pro všechny."
+    ],
+    "memory": "Zásoba oocytů se zakládá před narozením."
+  },
+  {
+    "id": 738,
+    "category": "Ovariální cyklus",
+    "bookRef": "str. 173–174",
+    "sourcePages": "173–174",
+    "question": "Z čeho vzniká žluté tělísko?",
+    "options": [
+      "Z děložního hrdla",
+      "Z odloučené sliznice pochvy",
+      "Ze zbytku folikulu po ovulaci",
+      "Z neoplozené spermie"
+    ],
+    "answer": 2,
+    "title": "Folikul po ovulaci → žluté tělísko.",
+    "paragraphs": [
+      "Po ovulaci se zbylá folikulární struktura mění na žluté tělísko.",
+      "Představ si přestavbu místa, které právě uvolnilo oocyt, na dočasnou hormonální žlázu.",
+      "Žluté tělísko vzniká ve vaječníku, nikoli uhnízděním zárodku v děloze."
+    ],
+    "memory": "Folikul po ovulaci → žluté tělísko."
+  },
+  {
+    "id": 739,
+    "category": "Ovariální cyklus",
+    "bookRef": "str. 174",
+    "sourcePages": "174",
+    "question": "Proč se fáze po ovulaci nazývá luteální?",
+    "options": [
+      "Neobsahuje žádné hormonální změny",
+      "Je spojena s činností žlutého tělíska",
+      "Probíhá pouze v močovém měchýři",
+      "Je určena tvorbou žluči"
+    ],
+    "answer": 1,
+    "title": "Luteální fáze = fáze žlutého tělíska.",
+    "paragraphs": [
+      "Název luteální souvisí se žlutým tělískem, corpus luteum.",
+      "V této fázi má výraznou úlohu progesteron produkovaný tělískem.",
+      "Nejde o označení barvy menstruační krve ani žlučového barviva."
+    ],
+    "memory": "Luteální fáze = fáze žlutého tělíska."
+  },
+  {
+    "id": 740,
+    "category": "Menstruační cyklus",
+    "bookRef": "str. 174",
+    "sourcePages": "174",
+    "question": "Co tvoří podklad menstruačního krvácení?",
+    "options": [
+      "Odloučení funkční vrstvy děložní sliznice",
+      "Pravidelné praskání celého vaječníku",
+      "Vyloučení všech krvinek z těla",
+      "Odstranění svalové stěny dělohy"
+    ],
+    "answer": 0,
+    "title": "Menstruace = odlučování funkčního endometria.",
+    "paragraphs": [
+      "Při menstruaci se odlučuje funkční vrstva endometria.",
+      "Děložní výstelka se cyklicky připravuje a při nepokračujícím těhotenství se její část obnovuje.",
+      "Neodchází celá stěna dělohy a samotný oocyt netvoří objem menstruační krve."
+    ],
+    "memory": "Menstruace = odlučování funkčního endometria."
+  },
+  {
+    "id": 741,
+    "category": "Menstruační cyklus",
+    "bookRef": "str. 174",
+    "sourcePages": "174",
+    "question": "Od které události se běžně počítá první den menstruačního cyklu?",
+    "options": [
+      "Od posledního dne krvácení",
+      "Vždy od ovulace",
+      "Od prvního dne kalendářního měsíce",
+      "Od začátku menstruačního krvácení"
+    ],
+    "answer": 3,
+    "title": "Den 1 = začátek menstruace.",
+    "paragraphs": [
+      "Za první den cyklu se považuje první den menstruace.",
+      "Jde o dohodnutý výchozí bod, podle kterého lze popisovat další fáze.",
+      "Cyklus není svázán s kalendářním měsícem a délka jednotlivých cyklů se může lišit."
+    ],
+    "memory": "Den 1 = začátek menstruace."
+  },
+  {
+    "id": 742,
+    "category": "Menstruační cyklus",
+    "bookRef": "str. 174",
+    "sourcePages": "174",
+    "question": "Co se děje s endometriem v proliferační fázi?",
+    "options": [
+      "Sliznice se výhradně odlučuje",
+      "Endometrium vytváří spermie",
+      "Obnovuje se a roste především pod vlivem estrogenů",
+      "Celá děloha se mění na chrupavku"
+    ],
+    "answer": 2,
+    "title": "Proliferační fáze: endometrium znovu roste.",
+    "paragraphs": [
+      "Po menstruaci se funkční vrstva sliznice znovu buduje.",
+      "Proliferace znamená množení buněk a růst, podobně jako obnova výstelky.",
+      "Sekreční změny po ovulaci souvisejí výrazně s progesteronem; jde o další fázi."
+    ],
+    "memory": "Proliferační fáze: endometrium znovu roste."
+  },
+  {
+    "id": 743,
+    "category": "Menstruační cyklus",
+    "bookRef": "str. 174",
+    "sourcePages": "174",
+    "question": "Jaká změna charakterizuje sekreční fázi endometria?",
+    "options": [
+      "Zánik všech cév v děloze natrvalo",
+      "Rozvoj žlázové sekrece a příprava sliznice na uhnízdění",
+      "Tvorba oocytů v děložní stěně",
+      "Přeměna dělohy na vaječník"
+    ],
+    "answer": 1,
+    "title": "Sekreční endometrium se připravuje na zárodek.",
+    "paragraphs": [
+      "Po ovulaci progesteron podporuje sekreční přestavbu sliznice.",
+      "Představ si již vybudovanou výstelku, která se funkčně připravuje přijmout zárodek.",
+      "Jde o změnu děložní sliznice, nikoli o dozrávání folikulu ve vaječníku."
+    ],
+    "memory": "Sekreční endometrium se připravuje na zárodek."
+  },
+  {
+    "id": 744,
+    "category": "Menstruační cyklus",
+    "bookRef": "str. 173–174",
+    "sourcePages": "173–174",
+    "question": "Jak spolu souvisejí ovariální a menstruační cyklus?",
+    "options": [
+      "Hormonální změny ve vaječníku řídí cyklické změny endometria",
+      "Jsou zcela nezávislé na hormonech",
+      "Oba probíhají jen v pochvě",
+      "Jeden se týká pouze tvorby moči"
+    ],
+    "answer": 0,
+    "title": "Vaječník vysílá hormonální signály endometriu.",
+    "paragraphs": [
+      "Ovariální cyklus popisuje děje ve vaječníku, menstruační změny děložní sliznice.",
+      "Hormony tvoří spojení mezi těmito dvěma místy.",
+      "Názvy se někdy používají volně, ale anatomicky jde o související děje ve dvou orgánech."
+    ],
+    "memory": "Vaječník vysílá hormonální signály endometriu."
+  },
+  {
+    "id": 745,
+    "category": "Menstruační cyklus",
+    "bookRef": "str. 174",
+    "sourcePages": "174",
+    "question": "Co při zániku žlutého tělíska bez pokračujícího těhotenství přispívá ke spuštění menstruace?",
+    "options": [
+      "Vznik nové placenty každý měsíc",
+      "Trvalé zvýšení všech pohlavních hormonů",
+      "Zastavení tvorby erytrocytů v celém těle",
+      "Pokles progesteronu a estrogenů"
+    ],
+    "answer": 3,
+    "title": "Zánik tělíska → pokles hormonů → menstruace.",
+    "paragraphs": [
+      "Ústup činnosti žlutého tělíska vede k poklesu jeho hormonů.",
+      "Sliznice ztrácí hormonální podporu a její funkční vrstva se začne odlučovat.",
+      "Jde o místní cyklickou přestavbu, ne o zánik celé dělohy."
+    ],
+    "memory": "Zánik tělíska → pokles hormonů → menstruace."
+  },
+  {
+    "id": 746,
+    "category": "Menstruační cyklus",
+    "bookRef": "str. 172–174",
+    "sourcePages": "172–174",
+    "question": "Jak správně chápat školní schéma cyklu dlouhého 28 dní?",
+    "options": [
+      "Jako důkaz ovulace vždy přesně 14. den",
+      "Jako záruku neplodnosti mimo jediný den",
+      "Jako model, od kterého se skutečné cykly mohou lišit",
+      "Jako neměnnou délku všech cyklů všech žen"
+    ],
+    "answer": 2,
+    "title": "Dvacet osm dní je model, ne pevný zákon.",
+    "paragraphs": [
+      "Učebnice popisuje 28denní cyklus jako typický model, zároveň připouští kolísání.",
+      "Diagram pomáhá pochopit pořadí dějů, ne přesně předpovědět každý skutečný cyklus.",
+      "Z takového schématu nelze udělat spolehlivý univerzální kalendář plodnosti."
+    ],
+    "memory": "Dvacet osm dní je model, ne pevný zákon."
+  },
+  {
+    "id": 747,
+    "category": "Oplození",
+    "bookRef": "str. 175",
+    "sourcePages": "175",
+    "question": "Jaký význam mají změny obalů oocytu po vstupu spermie?",
+    "options": [
+      "Odstraňují mateřské chromozomy",
+      "Brání vstupu dalších spermií",
+      "Přivádějí dovnitř všechny zbývající spermie",
+      "Mění zygotu na erytrocyt"
+    ],
+    "answer": 1,
+    "title": "Blok polyspermie omezuje vstup dalších spermií.",
+    "paragraphs": [
+      "Po spojení gamet se uplatní mechanismy blokující polyspermii.",
+      "Pro běžný vývoj je důležité, aby oocyt nepřijímal další sady chromozomů z mnoha spermií.",
+      "Velký počet spermií v ejakulátu neznamená, že se všechny geneticky podílejí na jednom zárodku."
+    ],
+    "memory": "Blok polyspermie omezuje vstup dalších spermií."
+  },
+  {
+    "id": 748,
+    "category": "Oplození",
+    "bookRef": "str. 169, 174–175",
+    "sourcePages": "169, 174–175",
+    "question": "Jaká je obvyklá cesta spermií po uložení do pochvy směrem k místu oplození?",
+    "options": [
+      "Pochva → děložní hrdlo → děloha → vejcovod",
+      "Pochva → močový měchýř → ledvina",
+      "Pochva → konečník → žaludek",
+      "Pochva → vaječníková tepna → srdce"
+    ],
+    "answer": 0,
+    "title": "K vejcovodu vede cesta přes hrdlo a dělohu.",
+    "paragraphs": [
+      "Spermie postupují ženskými pohlavními cestami směrem k vejcovodu.",
+      "Sleduj propojené dutiny pohlavní soustavy na obrázku, ne močové vývody.",
+      "Vajíčko se nemusí vracet do vaječníku, aby mohlo dojít k oplození."
+    ],
+    "memory": "K vejcovodu vede cesta přes hrdlo a dělohu."
+  },
+  {
+    "id": 749,
+    "category": "Pohlavní orgány muže",
+    "bookRef": "str. 171, 174",
+    "sourcePages": "171, 174",
+    "question": "Co je ejakulace?",
+    "options": [
+      "Vznik spermií v kanálcích",
+      "Pouze naplnění topořivých těles krví",
+      "Uvolnění oocytu z folikulu",
+      "Vypuzení ejakulátu vývodnými pohlavními cestami ven"
+    ],
+    "answer": 3,
+    "title": "Ejakulace vypuzuje semeno.",
+    "paragraphs": [
+      "Ejakulace je děj, při kterém je semeno vypuzeno ven z těla.",
+      "Svalové kontrakce posouvají obsah vývodných cest; tvorba spermií probíhala předtím ve varlatech.",
+      "Erekce označuje ztopoření. Oba děje spolu mohou souviset, ale nejsou totožné."
+    ],
+    "memory": "Ejakulace vypuzuje semeno."
+  },
+  {
+    "id": 750,
+    "category": "Sexualita člověka",
+    "bookRef": "str. 165, 172",
+    "sourcePages": "165, 172",
+    "question": "Proč učebnice neztotožňuje lidskou sexualitu pouze s oplozením?",
+    "options": [
+      "Protože je totožná jen s počtem chromozomů",
+      "Protože jde pouze o jediný reflex bez souvislostí",
+      "Zahrnuje také psychické, emocionální a společenské vztahy",
+      "Protože nemá žádnou biologickou složku"
+    ],
+    "answer": 2,
+    "title": "Sexualita má biologické i psychosociální souvislosti.",
+    "paragraphs": [
+      "Učebnice výslovně připomíná i psychické, emocionální a společenské souvislosti sexuality.",
+      "Biologický popis orgánů vysvětluje jen jednu část širší lidské zkušenosti.",
+      "Z hormonálního působení proto nelze odvozovat neměnnou osobnost nebo chování každého člověka."
+    ],
+    "memory": "Sexualita má biologické i psychosociální souvislosti."
+  }
+]

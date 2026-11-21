@@ -1,0 +1,62 @@
+[
+  {
+    "id": 626,
+    "category": "Fyzioterapie",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 19 · PDF 29",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 29",
+    "question": "Která česká osobnost je spojená s rehabilitační metodou zaměřenou mimo jiné na funkční potíže v oblasti pánve?",
+    "title": "Ludmila Mojžíšová",
+    "options": [
+      "Václav Vojta",
+      "Ludmila Mojžíšová",
+      "Vladimír Janda",
+      "Jan Evangelista Purkyně"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Metoda nese jméno Ludmily Mojžíšové a vyučuje se ve fyzioterapii. Její historické spojení s potížemi v oblasti pánve je samostatná znalost vedle Vojtovy metody reflexní lokomoce."
+    ],
+    "memory": "Mojžíšová: fyzioterapeutická metoda a oblast pánve."
+  },
+  {
+    "id": 627,
+    "category": "Fyzioterapie",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 24 · PDF 29",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 29",
+    "question": "Jakou úlohu může mít fyzioterapie u člověka, který má po cévní mozkové příhodě potíže s chůzí nebo rovnováhou?",
+    "title": "Posouzení pohybu a cílený nácvik podle jeho obtíží",
+    "options": [
+      "Výhradně určení krevní skupiny",
+      "Stanovení dioptrií",
+      "Posouzení pohybu a cílený nácvik podle jeho obtíží",
+      "Posouzení pouze tehdy, když současně ztratil řeč"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Následky cévní mozkové příhody se liší. Pokud je narušena hybnost či rovnováha, fyzioterapeut se může podílet na rehabilitaci s cíli podle potřeb daného člověka."
+    ],
+    "memory": "Po mrtvici se rehabilitace řídí konkrétními následky."
+  },
+  {
+    "id": 628,
+    "category": "Anatomie",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 44 · PDF 275",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 275",
+    "question": "Který hlavový nerv vede informace o sluchu a rovnováze z vnitřního ucha?",
+    "title": "VIII. hlavový nerv, nerv sluchově rovnovážný",
+    "options": [
+      "II. hlavový nerv, nerv zrakový",
+      "V. hlavový nerv, nerv trojklanný",
+      "VII. hlavový nerv, nerv lícní",
+      "VIII. hlavový nerv, nerv sluchově rovnovážný"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Kochleární část VIII. nervu přenáší sluchové informace z hlemýždě. Vestibulární část vede informace o pohybu a poloze hlavy z rovnovážného ústrojí."
+    ],
+    "memory": "Osmička vede sluch i rovnováhu."
+  }
+]

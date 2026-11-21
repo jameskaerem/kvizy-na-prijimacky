@@ -1,0 +1,952 @@
+[
+  {
+    "id": 251,
+    "category": "Občanská orientace",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v1 49 · str. 6 (PDF 57)",
+    "sourcePages": "6 (PDF 57)",
+    "question": "Jak se běžně nazývá veřejný ochránce práv?",
+    "options": [
+      "Ombudsman",
+      "Notář",
+      "Exekutor",
+      "Státní zástupce"
+    ],
+    "answer": 0,
+    "title": "Ombudsman",
+    "paragraphs": [
+      "Ombudsman pomáhá lidem při problémech s veřejnou správou v mezích svých pravomocí. Konkrétní možnosti jeho zásahu určuje právní úprava."
+    ],
+    "memory": "Ombudsman je ochránce práv."
+  },
+  {
+    "id": 252,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v1 7 · str. 1 (PDF 58)",
+    "sourcePages": "1 (PDF 58)",
+    "question": "Která srdeční dutina má obvykle nejsilnější svalovou stěnu?",
+    "options": [
+      "Pravá komora",
+      "Levá síň",
+      "Pravá síň",
+      "Levá komora"
+    ],
+    "answer": 3,
+    "title": "Levá komora",
+    "paragraphs": [
+      "Levá komora posílá krev do celého těla a musí vytvářet vyšší tlak než pravá komora pro plicní oběh. Silnější svalovina odpovídá této práci."
+    ],
+    "memory": "Levá komora tlačí do těla."
+  },
+  {
+    "id": 253,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v1 25 · str. 3 (PDF 60)",
+    "sourcePages": "3 (PDF 60)",
+    "question": "Ve které jámě lebeční je mozeček?",
+    "options": [
+      "V přední",
+      "Ve střední",
+      "V zadní",
+      "V očnici"
+    ],
+    "answer": 2,
+    "title": "V zadní",
+    "paragraphs": [
+      "Mozeček leží pod zadní částí velkého mozku a za mozkovým kmenem. Prostor mu poskytuje zadní jáma lebeční."
+    ],
+    "memory": "Mozeček hledej vzadu dole."
+  },
+  {
+    "id": 254,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v1 27 · str. 4 (PDF 61)",
+    "sourcePages": "4 (PDF 61)",
+    "question": "Kterou činnost přímo ovlivňují autonomní nervy?",
+    "options": [
+      "Volní zvednutí paže",
+      "Stahy hladké svaloviny střeva",
+      "Volní sevření prstů",
+      "Volní natažení kolene"
+    ],
+    "answer": 1,
+    "title": "Stahy hladké svaloviny střeva",
+    "paragraphs": [
+      "Autonomní soustava reguluje mnoho dějů ve vnitřních orgánech bez průběžného vědomého rozhodování. Ve střevě ovlivňuje pohyb stěny i sekreci."
+    ],
+    "memory": "Autonomní soustava řídí vnitřní děje."
+  },
+  {
+    "id": 255,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v1 28 · str. 4 (PDF 61)",
+    "sourcePages": "4 (PDF 61)",
+    "question": "Jak se hormon z endokrinní žlázy dostává ke vzdálenému orgánu?",
+    "options": [
+      "Přes okolní tekutinu do krve a krevním oběhem",
+      "Vývodem na povrch kůže",
+      "Pohybem uvnitř jícnu",
+      "Uvnitř chromozomu erytrocytu"
+    ],
+    "answer": 0,
+    "title": "Přes okolní tekutinu do krve a krevním oběhem",
+    "paragraphs": [
+      "Žláza uvolňuje hormon do svého okolí a ten přechází do krve. Na roznesený signál reagují buňky s příslušným receptorem."
+    ],
+    "memory": "Krev rozváží, receptor přijímá."
+  },
+  {
+    "id": 256,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v1 29 · str. 4 (PDF 61)",
+    "sourcePages": "4 (PDF 61)",
+    "question": "Kde leží vestibulární ústrojí vnímající pohyb a polohu hlavy?",
+    "options": [
+      "Ve středním uchu",
+      "Ve zvukovodu",
+      "V nosní dutině",
+      "Ve vnitřním uchu"
+    ],
+    "answer": 3,
+    "title": "Ve vnitřním uchu",
+    "paragraphs": [
+      "Pohyb hlavy mění působení na smyslové buňky tohoto ústrojí. Jejich signály mozek využívá při udržování rovnováhy."
+    ],
+    "memory": "Vnitřní ucho pomáhá s rovnováhou."
+  },
+  {
+    "id": 257,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v1 31 · str. 4 (PDF 61)",
+    "sourcePages": "4 (PDF 61)",
+    "question": "Pro tvorbu kterých hormonů je přímo potřebný jód?",
+    "options": [
+      "Inzulínu a glukagonu",
+      "Adrenalinu a noradrenalinu",
+      "Estrogenů a progesteronu",
+      "T3 a T4 štítné žlázy"
+    ],
+    "answer": 3,
+    "title": "T3 a T4 štítné žlázy",
+    "paragraphs": [
+      "Štítná žláza zabudovává atomy jódu do molekul těchto hormonů. Jód tedy přímo tvoří část jejich chemické stavby."
+    ],
+    "memory": "T3 a T4 obsahují jód."
+  },
+  {
+    "id": 258,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v1 32 · str. 4 (PDF 61)",
+    "sourcePages": "4 (PDF 61)",
+    "question": "Kdo roku 1882 oznámil objev původce tuberkulózy?",
+    "options": [
+      "Gregor Mendel",
+      "Jan Evangelista Purkyně",
+      "Robert Koch",
+      "Charles Darwin"
+    ],
+    "answer": 2,
+    "title": "Robert Koch",
+    "paragraphs": [
+      "Koch propojil nemoc s konkrétní bakterií. Dnes ji označujeme jako Mycobacterium tuberculosis, což pomohlo objasnit infekční původ onemocnění."
+    ],
+    "memory": "Kochův bacil souvisí s tuberkulózou."
+  },
+  {
+    "id": 259,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v1 33 · str. 4 (PDF 61)",
+    "sourcePages": "4 (PDF 61)",
+    "question": "Jak se v demografii nazývá úmrtnost?",
+    "options": [
+      "Natalita",
+      "Mortalita",
+      "Imigrace",
+      "Emigrace"
+    ],
+    "answer": 1,
+    "title": "Mortalita",
+    "paragraphs": [
+      "Úmrtnost popisuje umírání v populaci za určité období. Natalita se týká narození a migrace přesunů lidí mezi oblastmi."
+    ],
+    "memory": "Mortalita počítá úmrtí."
+  },
+  {
+    "id": 260,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v1 35 · str. 5 (PDF 62)",
+    "sourcePages": "5 (PDF 62)",
+    "question": "Proč člověka označujeme jako heterotrofního organismu?",
+    "options": [
+      "Přijímá organické látky z jiných organismů či jejich produktů",
+      "Vytváří všechnu potravu fotosyntézou",
+      "Získává uhlík výhradně z oxidu uhličitého",
+      "Nepotřebuje organické látky"
+    ],
+    "answer": 0,
+    "title": "Přijímá organické látky z jiných organismů či jejich produktů",
+    "paragraphs": [
+      "Člověk přijímá cukry, tuky a bílkoviny potravou. Heterotrofie popisuje zdroj organických látek, zatímco aerobní metabolismus vyjadřuje využívání kyslíku."
+    ],
+    "memory": "Heterotrof přijímá organickou potravu."
+  },
+  {
+    "id": 261,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v1 36 · str. 5 (PDF 62)",
+    "sourcePages": "5 (PDF 62)",
+    "question": "Které cévy zásobují přímo srdeční svalovinu?",
+    "options": [
+      "Plicní žíly",
+      "Horní dutá žíla",
+      "Vrátnicová žíla",
+      "Věnčité tepny"
+    ],
+    "answer": 3,
+    "title": "Věnčité tepny",
+    "paragraphs": [
+      "Srdeční stěna potřebuje vlastní kyslík a živiny. Věnčité tepny odstupují z počátku aorty a větví se k pracujícím buňkám srdce."
+    ],
+    "memory": "Srdce živí věnčité tepny."
+  },
+  {
+    "id": 262,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v1 37 · str. 5 (PDF 62)",
+    "sourcePages": "5 (PDF 62)",
+    "question": "Které vitaminy jsou rozpustné v tucích?",
+    "options": [
+      "A, B1, C a D",
+      "B2, B6, B12 a C",
+      "A, D, E a K",
+      "C, D, B1 a K"
+    ],
+    "answer": 2,
+    "title": "A, D, E a K",
+    "paragraphs": [
+      "Jejich vstřebávání souvisí se zpracováním tuků ve střevě. Vitaminy skupiny B a vitamin C se řadí mezi vitaminy rozpustné ve vodě."
+    ],
+    "memory": "Zapamatuj si ADEK."
+  },
+  {
+    "id": 263,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v1 39 · str. 5 (PDF 62)",
+    "sourcePages": "5 (PDF 62)",
+    "question": "Která kost je sezamská kost uložená ve šlaše?",
+    "options": [
+      "Kovadlinka",
+      "Jazylka",
+      "Čéška",
+      "Čelní kost"
+    ],
+    "answer": 2,
+    "title": "Čéška",
+    "paragraphs": [
+      "Čéška leží v šlachovém aparátu čtyřhlavého svalu stehenního před kolenem. Pomáhá upravit podmínky přenosu síly při natahování kolena."
+    ],
+    "memory": "Čéška je sezamská kost ve šlaše."
+  },
+  {
+    "id": 264,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v1 41 · str. 5 (PDF 62)",
+    "sourcePages": "5 (PDF 62)",
+    "question": "Co přispívá k zahušťování obsahu tlustého střeva?",
+    "options": [
+      "Tvorba inzulínu v jeho stěně",
+      "Vstřebávání vody a elektrolytů",
+      "Okysličování krve",
+      "Filtrace plazmy do jeho dutiny"
+    ],
+    "answer": 1,
+    "title": "Vstřebávání vody a elektrolytů",
+    "paragraphs": [
+      "Voda se z obsahu vrací do organismu. Zbytek postupně získává pevnější podobu a podílí se na vzniku stolice."
+    ],
+    "memory": "Odebrání vody obsah zahustí."
+  },
+  {
+    "id": 265,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v1 42 · str. 5 (PDF 62)",
+    "sourcePages": "5 (PDF 62)",
+    "question": "Přes který orgán získává plod kyslík od matky?",
+    "options": [
+      "Placentu",
+      "Vlastní provzdušněné plíce",
+      "Vlastní žaludek",
+      "Vlastní ledvinnou pánvičku"
+    ],
+    "answer": 0,
+    "title": "Placentu",
+    "paragraphs": [
+      "Kyslík přestupuje mezi mateřskou a fetální krví přes placentární bariéru. K plodu ho přenáší pupečníkový oběh, plíce před narozením nedýchají vzduch."
+    ],
+    "memory": "Před narozením zprostředkuje kyslík placenta."
+  },
+  {
+    "id": 266,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v1 44 · str. 6 (PDF 63)",
+    "sourcePages": "6 (PDF 63)",
+    "question": "Co obklopuje glomerulus a zachycuje prvotní filtrát?",
+    "options": [
+      "Pohrudnice",
+      "Osrdečník",
+      "Okostice",
+      "Bowmanovo pouzdro"
+    ],
+    "answer": 3,
+    "title": "Bowmanovo pouzdro",
+    "paragraphs": [
+      "Tekutina filtrovaná z kapilár klubíčka vstupuje do prostoru pouzdra. Odtud pokračuje do navazujícího kanálku nefronu."
+    ],
+    "memory": "Pouzdro zachytí filtrát."
+  },
+  {
+    "id": 267,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v1 46 · str. 6 (PDF 63)",
+    "sourcePages": "6 (PDF 63)",
+    "question": "Ze kterých buněk vznikají krevní destičky oddělováním cytoplazmy?",
+    "options": [
+      "Z erytrocytů",
+      "Z osteoklastů",
+      "Z megakaryocytů",
+      "Z plazmatických buněk"
+    ],
+    "answer": 2,
+    "title": "Z megakaryocytů",
+    "paragraphs": [
+      "Megakaryocyty jsou velké buňky kostní dřeně. Jejich výběžky poskytují malé bezjaderné části, které obíhají jako destičky."
+    ],
+    "memory": "Velká buňka poskytne malé destičky."
+  },
+  {
+    "id": 268,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v1 47 · str. 6 (PDF 63)",
+    "sourcePages": "6 (PDF 63)",
+    "question": "Co tvoří největší část objemu krevní plazmy?",
+    "options": [
+      "Albumin",
+      "Voda",
+      "Glukóza",
+      "Cholesterol"
+    ],
+    "answer": 1,
+    "title": "Voda",
+    "paragraphs": [
+      "Plazma je převážně vodné prostředí. Rozpuštěné soli, živiny a bílkoviny tvoří menší část jejího celkového objemu."
+    ],
+    "memory": "Základem plazmy je voda."
+  },
+  {
+    "id": 269,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v1 48 · str. 6 (PDF 63)",
+    "sourcePages": "6 (PDF 63)",
+    "question": "Jak oxid uhelnatý narušuje přenos kyslíku?",
+    "options": [
+      "Mění leukocyty na destičky",
+      "Váže se na hemoglobin a omezuje jeho využití pro kyslík",
+      "Přeměňuje kyslík na železo",
+      "Odstraňuje jádra ze všech leukocytů"
+    ],
+    "answer": 1,
+    "title": "Váže se na hemoglobin a omezuje jeho využití pro kyslík",
+    "paragraphs": [
+      "Oxid uhelnatý se na hemoglobin váže s výrazně vyšší afinitou než kyslík. Zabírá vazebná místa a zhoršuje také uvolnění zbývajícího kyslíku do tkání."
+    ],
+    "memory": "CO obsadí hemoglobin."
+  },
+  {
+    "id": 270,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v1 49 · str. 6 (PDF 63)",
+    "sourcePages": "6 (PDF 63)",
+    "question": "Co především zaznamenává EKG?",
+    "options": [
+      "Změny elektrických potenciálů spojené s činností srdce",
+      "Přímý obraz průtoku chlopní",
+      "Přímý objem krve v komoře",
+      "Fotografii věnčitých tepen"
+    ],
+    "answer": 0,
+    "title": "Změny elektrických potenciálů spojené s činností srdce",
+    "paragraphs": [
+      "Povrchové elektrody zachytí rozdíly elektrického potenciálu vznikající při aktivaci a obnově elektrického stavu srdeční svaloviny. Čerpání krve na tuto aktivitu navazuje."
+    ],
+    "memory": "EKG sleduje elektrickou činnost."
+  },
+  {
+    "id": 271,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v1 50 · str. 6 (PDF 63)",
+    "sourcePages": "6 (PDF 63)",
+    "question": "Který lymfatický orgán je důležitý pro dozrávání T lymfocytů?",
+    "options": [
+      "Štítná žláza",
+      "Žlučník",
+      "Slinivka",
+      "Brzlík"
+    ],
+    "answer": 3,
+    "title": "Brzlík",
+    "paragraphs": [
+      "Předchůdci T lymfocytů vznikají v krvetvorbě. V brzlíku potom procházejí důležitými kroky dozrávání a výběru."
+    ],
+    "memory": "T lymfocyty dozrávají v thymu."
+  },
+  {
+    "id": 272,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v2 18 · str. 3 (PDF 66)",
+    "sourcePages": "3 (PDF 66)",
+    "question": "Do které části ucha patří hlemýžď se sluchovými receptory?",
+    "options": [
+      "Do středního ucha",
+      "Do vnějšího zvukovodu",
+      "Do vnitřního ucha",
+      "Na zevní plochu bubínku"
+    ],
+    "answer": 2,
+    "title": "Do vnitřního ucha",
+    "paragraphs": [
+      "Mechanické kmity se přenášejí přes bubínek a kůstky k vnitřnímu uchu. V hlemýždi vláskové buňky převádějí mechanické dění na nervové signály."
+    ],
+    "memory": "Hlemýžď je uvnitř."
+  },
+  {
+    "id": 273,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v2 21 · str. 3 (PDF 66)",
+    "sourcePages": "3 (PDF 66)",
+    "question": "Jak se jmenuje vazivový obal kosti mimo kloubní plochy?",
+    "options": [
+      "Sarkolema",
+      "Okostice",
+      "Pohrudnice",
+      "Pokožka"
+    ],
+    "answer": 1,
+    "title": "Okostice",
+    "paragraphs": [
+      "Okostice obsahuje cévy a nervy a podílí se na výživě a obnově kosti. Na kloubních plochách je místo ní kloubní chrupavka."
+    ],
+    "memory": "Okostice obaluje kost."
+  },
+  {
+    "id": 274,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v2 22 · str. 3 (PDF 66)",
+    "sourcePages": "3 (PDF 66)",
+    "question": "Co vyjadřuje hematokrit?",
+    "options": [
+      "Objemový podíl erytrocytů v krvi",
+      "Podíl hemoglobinu v DNA",
+      "Počet leukocytů v destičce",
+      "Poměr kyslíku a dusíku ve vzduchu"
+    ],
+    "answer": 0,
+    "title": "Objemový podíl erytrocytů v krvi",
+    "paragraphs": [
+      "Po oddělení složek krve lze určit část objemu, kterou zabírají erytrocyty. Například hodnota 0,45 představuje přibližně 45 procent objemu."
+    ],
+    "memory": "Hematokrit udává objemový podíl krvinek."
+  },
+  {
+    "id": 275,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v2 23 · str. 3 (PDF 66)",
+    "sourcePages": "3 (PDF 66)",
+    "question": "Kde vzniká převážná část mozkomíšního moku?",
+    "options": [
+      "V cévnatých pleteních mozkových komor",
+      "V kloubních pouzdrech",
+      "V ledvinné pánvičce",
+      "V kosterních svalech"
+    ],
+    "answer": 0,
+    "title": "V cévnatých pleteních mozkových komor",
+    "paragraphs": [
+      "Specializovaná tkáň vytváří tekutinu, která proudí komorami a kolem mozku a míchy. Mok pomáhá vytvářet jejich prostředí a mechanickou ochranu."
+    ],
+    "memory": "Cévnaté pleteně tvoří mok."
+  },
+  {
+    "id": 276,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v2 25 · str. 3 (PDF 66)",
+    "sourcePages": "3 (PDF 66)",
+    "question": "Co posouvá obsah střeva při peristaltice?",
+    "options": [
+      "Srdeční svalovina ve střevě",
+      "Kosterní svaly uvnitř klků",
+      "Kmitání hlasivek",
+      "Koordinované stahy hladké svaloviny stěny"
+    ],
+    "answer": 3,
+    "title": "Koordinované stahy hladké svaloviny stěny",
+    "paragraphs": [
+      "Stah za obsahem a uvolnění před ním vytvářejí postupující vlnu. Střevo tak dopravuje obsah bez vědomého rozhodování o každém stahu."
+    ],
+    "memory": "Peristaltika je postupující vlna."
+  },
+  {
+    "id": 277,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v2 26 · str. 4 (PDF 67)",
+    "sourcePages": "4 (PDF 67)",
+    "question": "Kolik obratlů typicky srůstá v křížovou kost dospělého?",
+    "options": [
+      "Tři",
+      "Sedm",
+      "Pět",
+      "Dvanáct"
+    ],
+    "answer": 2,
+    "title": "Pět",
+    "paragraphs": [
+      "Křížové obratle se spojují do pevného celku. Ten se po stranách stýká s pánevními kostmi a pomáhá přenášet zatížení trupu."
+    ],
+    "memory": "Pět obratlů vytvoří křížovou kost."
+  },
+  {
+    "id": 278,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v2 30 · str. 4 (PDF 67)",
+    "sourcePages": "4 (PDF 67)",
+    "question": "Kam se hlavním vývodem odvádí pankreatická šťáva?",
+    "options": [
+      "Do žaludku",
+      "Do dvanáctníku",
+      "Do jícnu",
+      "Do tlustého střeva"
+    ],
+    "answer": 1,
+    "title": "Do dvanáctníku",
+    "paragraphs": [
+      "Trávicí šťáva slinivky přichází do počáteční části tenkého střeva. Může se zde smísit s obsahem, který odchází ze žaludku."
+    ],
+    "memory": "Slinivka posílá šťávu do dvanáctníku."
+  },
+  {
+    "id": 279,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v2 32 · str. 4 (PDF 67)",
+    "sourcePages": "4 (PDF 67)",
+    "question": "Který sval vede šikmo po přední straně stehna?",
+    "options": [
+      "Krejčovský sval",
+      "Dvojhlavý sval stehenní",
+      "Poloblanitý sval",
+      "Pološlašitý sval"
+    ],
+    "answer": 0,
+    "title": "Krejčovský sval",
+    "paragraphs": [
+      "Krejčovský sval vede od pánve k vnitřní straně horního bérce. Ostatní možnosti patří k zadní skupině stehenních svalů."
+    ],
+    "memory": "Krejčovský sval vede vpředu šikmo."
+  },
+  {
+    "id": 280,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v2 37 · str. 5 (PDF 68)",
+    "sourcePages": "5 (PDF 68)",
+    "question": "Kam řadíme cholesterol?",
+    "options": [
+      "Mezi monosacharidy",
+      "Mezi bílkoviny",
+      "Mezi nukleové kyseliny",
+      "Mezi lipidy, konkrétně steroly"
+    ],
+    "answer": 3,
+    "title": "Mezi lipidy, konkrétně steroly",
+    "paragraphs": [
+      "Cholesterol je součástí membrán a výchozí látkou pro některé další molekuly. Podle chemické stavby patří ke sterolům v široké skupině lipidů."
+    ],
+    "memory": "Cholesterol je sterolový lipid."
+  },
+  {
+    "id": 281,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v2 39 · str. 5 (PDF 68)",
+    "sourcePages": "5 (PDF 68)",
+    "question": "Která žláza vylučuje hormon do krve bez vývodu na povrch?",
+    "options": [
+      "Příušní slinná žláza",
+      "Potní žláza",
+      "Mazová žláza",
+      "Příštítná tělíska"
+    ],
+    "answer": 3,
+    "title": "Příštítná tělíska",
+    "paragraphs": [
+      "Příštítná tělíska tvoří parathormon. Ostatní nabízené žlázy mají vývody vedoucí sekret do úst nebo na povrch kůže."
+    ],
+    "memory": "Příštítná tělíska jsou endokrinní."
+  },
+  {
+    "id": 282,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v2 40 · str. 5 (PDF 68)",
+    "sourcePages": "5 (PDF 68)",
+    "question": "Co je ovulace?",
+    "options": [
+      "Uhnízdění zárodku v děloze",
+      "Splynutí spermie a oocytu",
+      "Uvolnění oocytu ze zralého folikulu vaječníku",
+      "Odloučení děložní sliznice"
+    ],
+    "answer": 2,
+    "title": "Uvolnění oocytu ze zralého folikulu vaječníku",
+    "paragraphs": [
+      "Folikul praská a oocyt se uvolní z vaječníku. Oplození může následovat až poté, uhnízdění je ještě pozdější děj."
+    ],
+    "memory": "Ovulace uvolní buňku z vaječníku."
+  },
+  {
+    "id": 283,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v2 41 · str. 5 (PDF 68)",
+    "sourcePages": "5 (PDF 68)",
+    "question": "Kde typicky leží slezina?",
+    "options": [
+      "V pravém podžebří před játry",
+      "V levém podžebří",
+      "V pravém podbřišku",
+      "Uprostřed malé pánve"
+    ],
+    "answer": 1,
+    "title": "V levém podžebří",
+    "paragraphs": [
+      "Slezina leží v levé horní části břicha poblíž žaludku a bránice. Zvenčí ji chrání dolní žebra na levé straně."
+    ],
+    "memory": "Slezinu hledej vlevo pod žebry."
+  },
+  {
+    "id": 284,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v2 42 · str. 5 (PDF 68)",
+    "sourcePages": "5 (PDF 68)",
+    "question": "Kam vede vrátnicová žíla krev z velké části trávicích orgánů?",
+    "options": [
+      "Do jater",
+      "Přímo do pravé komory",
+      "Do plicních sklípků",
+      "Do levé síně"
+    ],
+    "answer": 0,
+    "title": "Do jater",
+    "paragraphs": [
+      "Látky vstřebané ze střeva přicházejí s krví nejprve do jater. Zde krev prochází další kapilární sítí a její složení se může upravovat."
+    ],
+    "memory": "Ze střeva nejdřív do jater."
+  },
+  {
+    "id": 285,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v2 45 · str. 6 (PDF 69)",
+    "sourcePages": "6 (PDF 69)",
+    "question": "Co spojuje stydká spona?",
+    "options": [
+      "Stehenní a holenní kost",
+      "Křížovou kost a kostrč",
+      "První a druhý krční obratel",
+      "Pravou a levou pánevní kost vpředu"
+    ],
+    "answer": 3,
+    "title": "Pravou a levou pánevní kost vpředu",
+    "paragraphs": [
+      "Mezi stydkými částmi obou pánevních kostí je spojení s vazivovou chrupavkou. Vytváří přední část uzavřeného pánevního kruhu."
+    ],
+    "memory": "Stydká spona uzavírá pánev vpředu."
+  },
+  {
+    "id": 286,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v2 48 · str. 6 (PDF 69)",
+    "sourcePages": "6 (PDF 69)",
+    "question": "Jak se nazývá buněčná membrána svalového vlákna?",
+    "options": [
+      "Sarkomera",
+      "Fascie",
+      "Sarkolema",
+      "Okostice"
+    ],
+    "answer": 2,
+    "title": "Sarkolema",
+    "paragraphs": [
+      "Sarkolema odděluje vnitřek vlákna od okolí a vede podráždění. Sarkomera je opakující se úsek kontraktilního aparátu uvnitř vlákna."
+    ],
+    "memory": "Sarkolema obaluje, sarkomera se zkracuje."
+  },
+  {
+    "id": 287,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v2 49 · str. 6 (PDF 69)",
+    "sourcePages": "6 (PDF 69)",
+    "question": "Který párový orgán tvoří odlišné hormony v kůře a ve dřeni?",
+    "options": [
+      "Ledviny",
+      "Plíce",
+      "Nadledviny",
+      "Vaječníky"
+    ],
+    "answer": 2,
+    "title": "Nadledviny",
+    "paragraphs": [
+      "Nadledvina leží u horního pólu ledviny. Její kůra i dřeň produkují různé hormonální skupiny a přispívají k regulaci organismu."
+    ],
+    "memory": "Nadledvina má hormonální kůru i dřeň."
+  },
+  {
+    "id": 288,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v3 17 · str. 3 (PDF 72)",
+    "sourcePages": "3 (PDF 72)",
+    "question": "Kde v mozkovém kmeni jsou důležité okruhy pro automatické řízení dýchání?",
+    "options": [
+      "V čelním laloku jako jediné oblasti",
+      "V prodloužené míše",
+      "V týlním laloku jako jediné oblasti",
+      "V hipokampu jako jediné oblasti"
+    ],
+    "answer": 1,
+    "title": "V prodloužené míše",
+    "paragraphs": [
+      "Prodloužená mícha se podílí na tvorbě a regulaci dýchacího rytmu. Spolupracuje s dalšími oblastmi a reaguje na informace o organismu."
+    ],
+    "memory": "Prodloužená mícha pomáhá řídit dech."
+  },
+  {
+    "id": 289,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v3 22 · str. 3 (PDF 72)",
+    "sourcePages": "3 (PDF 72)",
+    "question": "Jak se nazývá organizovaný soubor buněk a mezibuněčné hmoty se společnou funkcí?",
+    "options": [
+      "Tkáň",
+      "Orgánová soustava",
+      "Organismus",
+      "Molekula"
+    ],
+    "answer": 0,
+    "title": "Tkáň",
+    "paragraphs": [
+      "Svalová tkáň například umožňuje stah. Jedna tkáň může obsahovat více spolupracujících buněčných typů a s dalšími tkáněmi vytváří orgán."
+    ],
+    "memory": "Orgány se skládají z tkání."
+  },
+  {
+    "id": 290,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v3 28 · str. 4 (PDF 73)",
+    "sourcePages": "4 (PDF 73)",
+    "question": "Jak vypočítáme minutový srdeční výdej?",
+    "options": [
+      "Tepový objem vydělíme teplotou",
+      "Přičteme počet nádechů k tepu",
+      "Tlak vynásobíme počtem erytrocytů",
+      "Tepovou frekvenci vynásobíme tepovým objemem"
+    ],
+    "answer": 3,
+    "title": "Tepovou frekvenci vynásobíme tepovým objemem",
+    "paragraphs": [
+      "Jedním stahem vypudí komora určitý objem. Násobením počtem stahů za minutu získáme celkový výdej, například 70 × 70 ml je 4 900 ml za minutu."
+    ],
+    "memory": "Objem za tep krát počet tepů."
+  },
+  {
+    "id": 291,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v3 29 · str. 4 (PDF 73)",
+    "sourcePages": "4 (PDF 73)",
+    "question": "Co v základním pojetí označuje genom organismu?",
+    "options": [
+      "Všechny bílkoviny jedné tkáně",
+      "Pouze právě aktivní geny svalu",
+      "Úplný soubor genetické informace",
+      "Látky rozpuštěné v plazmě"
+    ],
+    "answer": 2,
+    "title": "Úplný soubor genetické informace",
+    "paragraphs": [
+      "Genom zahrnuje i úseky DNA, které přímo nekódují bílkoviny. Je širší než seznam genů právě využívaných konkrétní buňkou."
+    ],
+    "memory": "Genom je celý genetický soubor."
+  },
+  {
+    "id": 292,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v3 30 · str. 4 (PDF 73)",
+    "sourcePages": "4 (PDF 73)",
+    "question": "Co označuje svalová atrofie při dlouhodobém nepoužívání svalu?",
+    "options": [
+      "Zvětšování vláken tréninkem",
+      "Zmenšování vláken a úbytek svalové hmoty",
+      "Přeměnu každého vlákna na kost",
+      "Vznik nových končetin"
+    ],
+    "answer": 1,
+    "title": "Zmenšování vláken a úbytek svalové hmoty",
+    "paragraphs": [
+      "Při malé zátěži se mění rovnováha mezi tvorbou a odbouráváním svalových bílkovin. Vlákna se mohou zmenšovat a sval slábne."
+    ],
+    "memory": "Nepoužívaný sval může ubývat."
+  },
+  {
+    "id": 293,
+    "category": "Biologie člověka",
+    "bookRef": "2021 · Fyzioterapie · Biologie v3 33 · str. 4 (PDF 73)",
+    "sourcePages": "4 (PDF 73)",
+    "question": "Co je dechový objem při klidném dýchání?",
+    "options": [
+      "Všechen vzduch po maximálním nádechu",
+      "Vzduch vyměněný při jednom běžném nádechu a výdechu",
+      "Vzduch zbylý po maximálním výdechu",
+      "Krev vypuzená jedním stahem"
+    ],
+    "answer": 1,
+    "title": "Vzduch vyměněný při jednom běžném nádechu a výdechu",
+    "paragraphs": [
+      "Klidný dech využívá jen část možností plic. U dospělého se často uvádí přibližně půl litru, skutečný objem závisí na člověku a situaci."
+    ],
+    "memory": "Jeden klidný dech má svůj dechový objem."
+  },
+  {
+    "id": 294,
+    "category": "Buněčná biologie a smysly",
+    "bookRef": "2021 · Fyzioterapie · Biologie v3 35 · str. 5 (PDF 74)",
+    "sourcePages": "5 (PDF 74)",
+    "question": "K čemu slouží retinal odvozený od vitaminu A?",
+    "options": [
+      "K zachycení světla ve zrakových pigmentech",
+      "K přímému přenosu kyslíku krví",
+      "K tvorbě močoviny v pánvičce",
+      "Ke srážení krve místo destiček"
+    ],
+    "answer": 0,
+    "title": "K zachycení světla ve zrakových pigmentech",
+    "paragraphs": [
+      "Retinal je součástí světločivných pigmentů. Dopad světla mění jeho strukturu a spouští děje, které vedou ke zrakovému signálu."
+    ],
+    "memory": "Vitamin A pomáhá převést světlo na signál."
+  },
+  {
+    "id": 295,
+    "category": "Buněčná biologie a smysly",
+    "bookRef": "2021 · Fyzioterapie · Biologie v3 42 · str. 5 (PDF 74)",
+    "sourcePages": "5 (PDF 74)",
+    "question": "Který obor zkoumá buňky?",
+    "options": [
+      "Histologie",
+      "Ekologie",
+      "Etologie",
+      "Cytologie"
+    ],
+    "answer": 3,
+    "title": "Cytologie",
+    "paragraphs": [
+      "Cytologie sleduje například organely a děje uvnitř buňky. Histologie zkoumá tkáně, které vznikají spoluprací buněk."
+    ],
+    "memory": "Cyto patří k buňce."
+  },
+  {
+    "id": 296,
+    "category": "Buněčná biologie a smysly",
+    "bookRef": "2021 · Fyzioterapie · Biologie v3 43 · str. 5 (PDF 74)",
+    "sourcePages": "5 (PDF 74)",
+    "question": "Co znamená diferenciace buněk během vývoje?",
+    "options": [
+      "Pouhé zvětšení bez změny vlastností",
+      "Rozpuštění všech membrán",
+      "Získávání specializované stavby a funkce",
+      "Automatický návrat všech buněk k totipotenci"
+    ],
+    "answer": 2,
+    "title": "Získávání specializované stavby a funkce",
+    "paragraphs": [
+      "Buňky mohou využívat odlišné části společné genetické informace. Z původně podobných buněk tak vzniknou například neurony a svalové buňky."
+    ],
+    "memory": "Diferenciace vytváří specializace."
+  },
+  {
+    "id": 297,
+    "category": "Buněčná biologie a smysly",
+    "bookRef": "2021 · Fyzioterapie · Biologie v3 44 · str. 6 (PDF 75)",
+    "sourcePages": "6 (PDF 75)",
+    "question": "Co vyjadřuje rozlišovací schopnost mikroskopu?",
+    "options": [
+      "Pouze násobek zvětšení",
+      "Jak blízko mohou být dva body ještě viděné odděleně",
+      "Počet vzorků na skle",
+      "Hmotnost objektivu"
+    ],
+    "answer": 1,
+    "title": "Jak blízko mohou být dva body ještě viděné odděleně",
+    "paragraphs": [
+      "Příliš blízké struktury mohou splývat. Pouhé další zvětšení rozmazaného obrazu pak chybějící detail nevytvoří."
+    ],
+    "memory": "Rozlišení oddělí blízké body."
+  },
+  {
+    "id": 298,
+    "category": "Buněčná biologie a smysly",
+    "bookRef": "2021 · Fyzioterapie · Biologie v3 45 · str. 6 (PDF 75)",
+    "sourcePages": "6 (PDF 75)",
+    "question": "Který sacharid je monosacharid?",
+    "options": [
+      "Galaktóza",
+      "Laktóza",
+      "Sacharóza",
+      "Maltóza"
+    ],
+    "answer": 0,
+    "title": "Galaktóza",
+    "paragraphs": [
+      "Galaktóza je jedna cukerná jednotka. Ostatní možnosti jsou disacharidy tvořené dvěma jednotkami, například laktóza obsahuje glukózu a galaktózu."
+    ],
+    "memory": "Galaktóza jedna, laktóza dvojice."
+  },
+  {
+    "id": 299,
+    "category": "Buněčná biologie a smysly",
+    "bookRef": "2021 · Fyzioterapie · Biologie v3 47 · str. 6 (PDF 75)",
+    "sourcePages": "6 (PDF 75)",
+    "question": "K čemu slouží lyzozomy?",
+    "options": [
+      "K rozkladu látek pomocí enzymů uvnitř buňky",
+      "K přepisu všech chromozomů",
+      "K fotosyntéze",
+      "K tvorbě lidské buněčné stěny"
+    ],
+    "answer": 0,
+    "title": "K rozkladu látek pomocí enzymů uvnitř buňky",
+    "paragraphs": [
+      "Lyzozomy obsahují enzymy štěpící například opotřebené buněčné součásti. Membrána odděluje jejich prostředí od zbytku buňky."
+    ],
+    "memory": "Lyzozom je prostor pro rozklad."
+  },
+  {
+    "id": 300,
+    "category": "Buněčná biologie a smysly",
+    "bookRef": "2021 · Fyzioterapie · Biologie v3 49 · str. 6 (PDF 75)",
+    "sourcePages": "6 (PDF 75)",
+    "question": "Která fáze zakončuje běžnou mitózu obnovou dceřiných jader a bývá spojena s dokončováním cytokineze?",
+    "options": [
+      "Profáze",
+      "Metafáze",
+      "Interfáze před replikací",
+      "Telofáze"
+    ],
+    "answer": 3,
+    "title": "Telofáze",
+    "paragraphs": [
+      "Po rozdělení chromozomů se kolem dvou sad obnovují jaderné obaly. Rozdělování cytoplazmy se s těmito ději časově překrývá a vytváří dvě buňky."
+    ],
+    "memory": "V telofázi se dokončují dvě jádra."
+  }
+]

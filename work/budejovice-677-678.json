@@ -1,0 +1,42 @@
+[
+  {
+    "id": 677,
+    "category": "Filozofie",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 1 · PDF 46",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 46",
+    "question": "Který příklad vystihuje filozofické zkoumání světa a místa člověka v něm?",
+    "title": "Ptát se, co o světě můžeme vědět a jak zdůvodňujeme, co považujeme za dobré jednání",
+    "options": [
+      "Zapamatovat si pořadí panovníků bez dalšího zkoumání",
+      "Změřit teplotu vzduchu v učebně",
+      "Ptát se, co o světě můžeme vědět a jak zdůvodňujeme, co považujeme za dobré jednání",
+      "Naučit se zpaměti společenská pravidla bez zkoumání jejich předpokladů"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Filozofie klade obecné otázky například o skutečnosti, poznání a lidském jednání. Při hledání odpovědi zkoumá pojmy, důvody a předpoklady různých stanovisek."
+    ],
+    "memory": "Filozofie zkoumá předpoklady a důvody odpovědí na obecné otázky."
+  },
+  {
+    "id": 678,
+    "category": "Nervová soustava",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 25 · PDF 93",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 93",
+    "question": "Jak nervová soustava umožní upravit pohyb ruky, když se při zvedání předmětu ukáže, že je těžší, než člověk čekal?",
+    "title": "Signály o zátěži využije k úpravě povelů pro svaly",
+    "options": [
+      "Signály o zátěži využije k úpravě povelů pro svaly",
+      "Pohyb upraví pouze zvýšením průtoku krve v paži",
+      "Smyslové informace se využijí až po dokončení pohybu",
+      "Úpravu provede samotný kloub bez změny svalové aktivity"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Nervová soustava při řízení pohybu spojuje cílené povely se smyslovou zpětnou vazbou. Informace například z receptorů ve svalech a šlachách umožňují změnit zapojení svalů podle skutečné zátěže."
+    ],
+    "memory": "Pohyb se upravuje podle zpětné vazby."
+  }
+]

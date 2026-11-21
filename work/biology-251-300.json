@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 251,
+    "category": "Ústa, zuby a sliny",
+    "bookRef": "str. 78",
+    "sourcePages": "78",
+    "question": "Co je v tomto kontextu trávení živin?",
+    "options": [
+      "Samotný přesun nestráveného sousta jícnem",
+      "Pouze průchod malých molekul střevní stěnou do vnitřního prostředí",
+      "Výhradně mechanické rozdrcení bez chemické změny",
+      "Enzymové štěpení velkých molekul na menší využitelné složky"
+    ],
+    "answer": 3,
+    "title": "Trávení rozebírá velké molekuly",
+    "paragraphs": [
+      "Při chemickém trávení enzymy štěpí velké molekuly potravy na menší složky. Ty pak mohou být vhodné pro vstřebání.",
+      "Představ si rozebrání velké stavebnice na díly, se kterými lze dál pracovat. Pouhé rozkousání zmenší kus potravy, ale samo nerozštěpí všechny chemické vazby.",
+      "Vstřebávání je navazující přenos látek přes střevní bariéru. Nejde o stejný proces jako jejich enzymové rozštěpení."
+    ],
+    "memory": "Trávení = rozštěpit; vstřebávání = převést přes stěnu."
+  },
+  {
+    "id": 252,
+    "category": "Ústa, zuby a sliny",
+    "bookRef": "str. 78",
+    "sourcePages": "78",
+    "question": "Co označuje vstřebávání neboli resorpce ve střevě?",
+    "options": [
+      "Přechod látek přes střevní bariéru do vnitřního prostředí, například krve či mízy",
+      "Pouze žvýkání potravy zuby",
+      "Výhradně posun sousta z úst do jícnu",
+      "Vytvoření nové skloviny na korunce zubu"
+    ],
+    "answer": 0,
+    "title": "Vstřebání dostává látky za střevní bariéru",
+    "paragraphs": [
+      "Při vstřebávání přecházejí vhodné složky ze střevního obsahu přes výstelku do vnitřního prostředí. Dále mohou být přepravovány krví nebo mízou.",
+      "Představ si předání rozebraného materiálu přes kontrolovanou hranici do zásobovací sítě. Samotné přítomnosti potravy ve střevě se ještě neříká vstřebání.",
+      "Nemusí se vždy vstřebávat jen látky, které předtím potřebovaly enzymové štěpení. Voda či některé malé molekuly velký rozklad nevyžadují."
+    ],
+    "memory": "Resorpce = přestup ze střeva do organismu."
+  },
+  {
+    "id": 253,
+    "category": "Ústa, zuby a sliny",
+    "bookRef": "str. 78",
+    "sourcePages": "78",
+    "question": "Které pořadí odpovídá běžnému průchodu potravy hlavními oddíly trávicí trubice?",
+    "options": [
+      "Ústa → žaludek → játra → žlučník → jícen",
+      "Ústa → hltan → jícen → žaludek → tenké střevo → tlusté střevo",
+      "Ústa → jícen → hltan → tlusté střevo → žaludek",
+      "Ústa → hrtan → průdušnice → žaludek → tenké střevo"
+    ],
+    "answer": 1,
+    "title": "Trávicí trubice má navazující úseky",
+    "paragraphs": [
+      "Potrava postupuje z úst přes hltan a jícen do žaludku. Dále přechází do tenkého a poté tlustého střeva.",
+      "Představ si jednu hlavní průchozí cestu s různými pracovišti. Některé přidružené žlázy do ní posílají šťávy, ale sousto jejich tkání běžně neprochází.",
+      "Játra ani slinivka nejsou další duté zastávky v trase sousta. Hrtan a průdušnice patří dýchací cestě."
+    ],
+    "memory": "Ústa, hltan, jícen, žaludek, tenké a tlusté střevo."
+  },
+  {
+    "id": 254,
+    "category": "Ústa, zuby a sliny",
+    "bookRef": "str. 78–79",
+    "sourcePages": "78–79",
+    "question": "Jaký je význam mechanického zpracování potravy v ústech?",
+    "options": [
+      "Změnit veškerou potravu na krevní plazmu",
+      "Nahradit všechny enzymy tenkého střeva",
+      "Rozmělnit potravu a promísit ji se slinami do vhodného sousta",
+      "Dokončit veškeré vstřebávání všech živin"
+    ],
+    "answer": 2,
+    "title": "Ústa připravují potravu pro další cestu",
+    "paragraphs": [
+      "Zuby a jazyk pomáhají potravu rozmělnit a promísit se slinami. Vzniká sousto vhodnější k polknutí a dalšímu zpracování.",
+      "Představ si přípravu materiálu před navazujícími kroky. Menší části se snáze mísí se šťávami a jejich povrch je lépe přístupný.",
+      "Rozmělnění neznamená úplné chemické rozštěpení každé živiny. Ústa jsou začátek procesu, nikoli náhrada celého střeva."
+    ],
+    "memory": "Zuby rozmělňují, jazyk mísí, sliny zvlhčují."
+  },
+  {
+    "id": 255,
+    "category": "Ústa, zuby a sliny",
+    "bookRef": "str. 79–80",
+    "sourcePages": "79–80",
+    "question": "Které základní části rozlišujeme na zubu?",
+    "options": [
+      "Diafýzu, epifýzu a kostní trámec",
+      "Pravou síň, levou síň a komoru",
+      "Klky, mikroklky a střevní kryptu",
+      "Korunku, krček a kořen"
+    ],
+    "answer": 3,
+    "title": "Zub má tři základní oblasti",
+    "paragraphs": [
+      "Korunka vystupuje nad dáseň, krček tvoří přechodovou oblast a kořen je uložený v čelisti. Některé zuby mají kořenů více.",
+      "Představ si viditelnou pracovní část a ukotvení pod ní. Tento přehled pomáhá správně umístit i jednotlivé zubní tkáně.",
+      "Korunka není totéž co samotná sklovina. Část zubu a materiál, který ji pokrývá nebo vyplňuje, jsou různé pojmy."
+    ],
+    "memory": "Korunka nahoře, krček na přechodu, kořen v čelisti."
+  },
+  {
+    "id": 256,
+    "category": "Ústa, zuby a sliny",
+    "bookRef": "str. 79–80",
+    "sourcePages": "79–80",
+    "question": "Která tvrdá tkáň kryje povrch korunky zubu?",
+    "options": [
+      "Zubní sklovina",
+      "Zubní dřeň",
+      "Ozubice",
+      "Pouze krevní plazma"
+    ],
+    "answer": 0,
+    "title": "Sklovina chrání korunku",
+    "paragraphs": [
+      "Povrch korunky kryje tvrdá zubní sklovina. Pod ní je zubovina neboli dentin.",
+      "Představ si tvrdou vnější vrstvu pracovního povrchu zubu. Ne všechny oblasti zubu mají ale stejné povrchové krytí.",
+      "Kořen je krytý zubním cementem, nikoli běžně stejnou sklovinnou vrstvou jako korunka. Dřeň leží uvnitř."
+    ],
+    "memory": "Korunka má na povrchu sklovinu."
+  },
+  {
+    "id": 257,
+    "category": "Ústa, zuby a sliny",
+    "bookRef": "str. 79–80",
+    "sourcePages": "79–80",
+    "question": "Co označuje pojem dentin?",
+    "options": [
+      "Měkkou sliznici jícnu",
+      "Zubovinu tvořící hlavní tvrdý podklad pod sklovinou a cementem",
+      "Tekutou část slin",
+      "Hlavní sval žvýkající potravu"
+    ],
+    "answer": 1,
+    "title": "Dentin je zubovina",
+    "paragraphs": [
+      "Dentin neboli zubovina tvoří podstatnou část tvrdé struktury zubu. V korunce ho zevně kryje sklovina, v kořeni cement.",
+      "Představ si nosný podklad mezi vnějším krytem a vnitřním prostorem se zubní dření. Je to jiná tkáň než samotná sklovina.",
+      "Zubovina není zubní dřeň. Podobné názvy mohou mást, ale dřeň obsahuje měkké vazivo s cévami a nervy."
+    ],
+    "memory": "Dentin = zubovina, ne zubní dřeň."
+  },
+  {
+    "id": 258,
+    "category": "Ústa, zuby a sliny",
+    "bookRef": "str. 80",
+    "sourcePages": "80",
+    "question": "Co se nachází v zubní dřeni?",
+    "options": [
+      "Vzdušné plicní sklípky",
+      "Výhradně tvrdý zubní cement",
+      "Měkká vazivová tkáň s cévami a nervy",
+      "Pouze souvislá vrstva skloviny bez cév"
+    ],
+    "answer": 2,
+    "title": "Uvnitř zubu je živá měkká tkáň",
+    "paragraphs": [
+      "Zubní dřeň neboli pulpa obsahuje vazivovou tkáň, cévy a nervy. Leží uvnitř zubu v prostoru obklopeném tvrdšími tkáněmi.",
+      "Představ si vnitřní zásobovanou a citlivou část. Zub proto není pouhý neživý tvrdý kamínek bez vztahu k organismu.",
+      "Sklovina ani cement nejsou jiné názvy pro dřeň. Jde o odlišné tkáně s jinou polohou a funkcí."
+    ],
+    "memory": "Pulpa = cévy a nervy uvnitř zubu."
+  },
+  {
+    "id": 259,
+    "category": "Ústa, zuby a sliny",
+    "bookRef": "str. 80",
+    "sourcePages": "80",
+    "question": "Co pomáhá připevnit zub v kostěné zubní jamce?",
+    "options": [
+      "Pouze volně tekoucí sliny",
+      "Hlasivkové vazy",
+      "Kloubní chrupavka kolene",
+      "Vazivová ozubice mezi kořenem a stěnou jamky"
+    ],
+    "answer": 3,
+    "title": "Zub je ukotven vazivovým závěsem",
+    "paragraphs": [
+      "Ozubice tvoří vazivové spojení mezi kořenem zubu a kostí zubní jamky. Podílí se na upevnění zubu.",
+      "Představ si pevný závěsný systém v úzké mezeře kolem kořene. Zub nemusí být přímo srostlý s kostí, aby byl ukotvený.",
+      "Zubní cement kryje kořen, ale samotné vazivové upevnění není totéž co tvrdý cementový povrch."
+    ],
+    "memory": "Ozubice = vazivový závěs zubu."
+  },
+  {
+    "id": 260,
+    "category": "Ústa, zuby a sliny",
+    "bookRef": "str. 80",
+    "sourcePages": "80",
+    "question": "Kolik zubů má úplný definitivní chrup včetně všech třetích stoliček?",
+    "options": [
+      "32",
+      "20",
+      "16",
+      "40"
+    ],
+    "answer": 0,
+    "title": "Úplný dospělý chrup zahrnuje třetí stoličky",
+    "paragraphs": [
+      "Úplný definitivní chrup obsahuje 32 zubů, pokud zahrneme i všechny čtyři třetí stoličky. V jedné čtvrtině je osm zubů.",
+      "Počítej dva řezáky, jeden špičák, dva třenové zuby a tři stoličky v každé čtvrtině. Čtyři takové skupiny dají 32.",
+      "Skutečný počet zubů konkrétního dospělého může být jiný. Otázka se výslovně týká úplného schématu se třetími stoličkami."
+    ],
+    "memory": "Úplný definitivní chrup: 4 × 8 = 32."
+  },
+  {
+    "id": 261,
+    "category": "Ústa, zuby a sliny",
+    "bookRef": "str. 80",
+    "sourcePages": "80",
+    "question": "Který popis správně charakterizuje úplný mléčný chrup?",
+    "options": [
+      "Skládá se pouze ze stoliček",
+      "Má 20 zubů a neobsahuje třenové zuby",
+      "Má 32 zubů včetně všech třetích stoliček",
+      "Má 20 zubů, z nichž osm jsou třenové"
+    ],
+    "answer": 1,
+    "title": "Mléčný chrup má jiné složení",
+    "paragraphs": [
+      "Úplný mléčný chrup má 20 zubů. Obsahuje řezáky, špičáky a stoličky, nikoli třenové zuby.",
+      "V jedné čtvrtině jsou dva řezáky, jeden špičák a dvě mléčné stoličky. Čtyřikrát pět zubů tvoří dvacet.",
+      "Není to jen menší počet jinak stejného dospělého schématu. Důležité je i to, která skupina v mléčném chrupu chybí."
+    ],
+    "memory": "Mléčný chrup: 20, bez třenových zubů."
+  },
+  {
+    "id": 262,
+    "category": "Ústa, zuby a sliny",
+    "bookRef": "str. 81",
+    "sourcePages": "81",
+    "question": "Která trojice uvádí hlavní párové slinné žlázy?",
+    "options": [
+      "Játra, slezina a ledvina",
+      "Hrtanové, průdušnicové a plicní",
+      "Příušní, podčelistní a podjazykové",
+      "Štítná, příštítná a nadledvina"
+    ],
+    "answer": 2,
+    "title": "Tři velké páry přivádějí sliny",
+    "paragraphs": [
+      "Mezi hlavní párové slinné žlázy patří příušní, podčelistní a podjazykové. Jejich vývody přivádějí sliny do úst.",
+      "Názvy ti pomohou podle umístění kolem ucha, dolní čelisti a jazyka. Všechny souvisejí s ústní dutinou.",
+      "Nejde o úplný výčet každé drobné slinné žlázky. Otázka vymezuje hlavní velké párové skupiny."
+    ],
+    "memory": "Příušní, podčelistní, podjazykové."
+  },
+  {
+    "id": 263,
+    "category": "Ústa, zuby a sliny",
+    "bookRef": "str. 81",
+    "sourcePages": "81",
+    "question": "Jaká je důležitá úloha mucinu ve slinách?",
+    "options": [
+      "Štěpit všechny bílkoviny na aminokyseliny",
+      "Přímo tvořit kyselinu chlorovodíkovou",
+      "Vázat většinu kyslíku v krvi",
+      "Podílet se na tvorbě hlenu, zvlhčení a snazším posunu sousta"
+    ],
+    "answer": 3,
+    "title": "Mucin pomáhá vytvořit kluzké prostředí",
+    "paragraphs": [
+      "Mucin je složka hlenu, která spolu s vodou pomáhá chránit povrch a usnadňovat posun potravy. Ve slinách se tak uplatňuje i mechanická příprava sousta.",
+      "Představ si zvlhčený a kluzký obal, díky kterému se rozmělněná potrava lépe spojuje a polyká.",
+      "Mucin není slinná amyláza. Hlenová ochrana a enzymové štěpení jsou různé úkoly složek stejné šťávy."
+    ],
+    "memory": "Mucin = hlenová ochrana a kluzkost."
+  },
+  {
+    "id": 264,
+    "category": "Ústa, zuby a sliny",
+    "bookRef": "str. 81",
+    "sourcePages": "81",
+    "question": "Kterou živinu začíná v ústech štěpit slinná amyláza neboli ptyalin?",
+    "options": [
+      "Škrob",
+      "Kolagen jako hlavní bílkovinu",
+      "Veškeré tuky přímo na chylomikrony",
+      "Celulózu jejími β-glykosidovými vazbami"
+    ],
+    "answer": 0,
+    "title": "Slinná amyláza začíná trávení škrobu",
+    "paragraphs": [
+      "Slinná amyláza působí na škrob a vytváří z něj menší sacharidové produkty včetně maltózy. Chemické trávení tedy může začínat už v ústech.",
+      "Představ si první nastřižení dlouhého sacharidového řetězce před další prací ve střevě. Rozkousání a enzymové štěpení se doplňují.",
+      "Amyláza není univerzální enzym pro všechny živiny. Bílkoviny a tuky vyžadují jiné enzymové mechanismy."
+    ],
+    "memory": "Ptyalin = slinná amyláza pro škrob."
+  },
+  {
+    "id": 265,
+    "category": "Ústa, zuby a sliny",
+    "bookRef": "str. 81",
+    "sourcePages": "81",
+    "question": "Proč vlastní lidské trávicí enzymy neštěpí celulózu stejně jako škrob?",
+    "options": [
+      "Lidské sliny neobsahují vůbec žádný enzym",
+      "Nemají potřebnou schopnost štěpit její β-glykosidové vazby",
+      "Celulóza je běžně hlavní náplní erytrocytů",
+      "Celulóza je totožná s maltózou"
+    ],
+    "answer": 1,
+    "title": "Podobný stavební cukr neznamená stejné vazby",
+    "paragraphs": [
+      "Celulóza obsahuje jiný typ vazeb než škrob. Vlastní lidská enzymová výbava je nedokáže štěpit stejným způsobem jako vazby škrobu.",
+      "Představ si řetěz ze stejných základních dílků, ale jinak spojených. Nůžky vhodné na jeden typ spoje nemusejí fungovat na druhý.",
+      "Působení střevních mikroorganismů je jiné hledisko než schopnost vlastních lidských enzymů. Tato otázka obě věci nezaměňuje."
+    ],
+    "memory": "Enzym musí pasovat i na typ vazby, ne jen na stavební cukr."
+  },
+  {
+    "id": 266,
+    "category": "Jícen a žaludek",
+    "bookRef": "str. 82",
+    "sourcePages": "82",
+    "question": "Jak se při běžném polykání střídá volní a reflexní složka?",
+    "options": [
+      "Celý proces probíhá bez nervového řízení",
+      "Polykání je výhradně funkcí srdečního převodního systému",
+      "Začátek lze ovládat vůlí, navazující fáze probíhají převážně reflexně",
+      "Každý jednotlivý svalový děj musíme po celou dobu vědomě řídit"
+    ],
+    "answer": 2,
+    "title": "Polknutí začíná vědomě a pokračuje koordinovaně",
+    "paragraphs": [
+      "Přesun sousta dozadu v ústech může být volní. Další fáze se po spuštění uskutečňují koordinovanými reflexními ději.",
+      "Představ si zahájení automatické sekvence. Nemusíš vědomě dávat samostatný povel každému svalu v hltanu a jícnu.",
+      "To neznamená, že se při polykání vůbec neuplatňuje nervová soustava. Naopak koordinace je pro správný průběh zásadní."
+    ],
+    "memory": "Začátek vůlí, pokračování reflexně."
+  },
+  {
+    "id": 267,
+    "category": "Jícen a žaludek",
+    "bookRef": "str. 82",
+    "sourcePages": "82",
+    "question": "Co je základním principem peristaltického posunu sousta jícnem?",
+    "options": [
+      "Pouze volný pád sousta bez aktivity svalů",
+      "Přenos sousta v krevních kapilárách",
+      "Rozpouštění sousta pouze působením kyslíku",
+      "Postupující vlna koordinovaných stahů a uvolnění stěny"
+    ],
+    "answer": 3,
+    "title": "Stěna posouvá obsah postupující vlnou",
+    "paragraphs": [
+      "Peristaltika je koordinovaná svalová činnost stěny, která může posouvat obsah trubice. V jícnu tak pomáhá dopravit sousto k žaludku.",
+      "Představ si pohybující se sevření pružné trubice za jejím obsahem. Sousto není odkázané jen na gravitaci.",
+      "Peristaltika není totéž co enzymové rozštěpení živin. Pohyb obsahu a chemické trávení jsou odlišné, spolupracující děje."
+    ],
+    "memory": "Peristaltika = postupující posunovací vlna."
+  },
+  {
+    "id": 268,
+    "category": "Jícen a žaludek",
+    "bookRef": "str. 82",
+    "sourcePages": "82",
+    "question": "Jaké dvě orientace svalových vrstev se uplatňují v základním modelu pohybů trávicí trubice?",
+    "options": [
+      "Okružní a podélná",
+      "Pouze spirálovitá kostní a zubní",
+      "Jen chrupavčitá a sklovinná",
+      "Výhradně síňová a komorová"
+    ],
+    "answer": 0,
+    "title": "Dva směry svaloviny mění tvar trubice",
+    "paragraphs": [
+      "Okružně orientovaná svalovina může měnit průsvit a podélná přispívá ke změnám délky úseku. Jejich souhra pomáhá pohybu obsahu.",
+      "Představ si možnost trubici lokálně sevřít a současně zkrátit či upravit navazující část. Kombinace dovoluje koordinované pohyby.",
+      "Základní model neříká, že každá část celého trávicího ústrojí má naprosto shodnou stavbu bez zvláštností."
+    ],
+    "memory": "Okružní mění průsvit, podélná délku úseku."
+  },
+  {
+    "id": 269,
+    "category": "Jícen a žaludek",
+    "bookRef": "str. 82",
+    "sourcePages": "82",
+    "question": "Proč může jícen dopravovat sousto i proti směru gravitace?",
+    "options": [
+      "Protože všechny pohyby závisí pouze na pádu dolů",
+      "Posun zajišťuje aktivní peristaltická činnost stěny",
+      "Protože potrava vždy plave sama směrem vzhůru",
+      "Protože v jícnu nejsou žádné svaly"
+    ],
+    "answer": 1,
+    "title": "Posun není jen pád",
+    "paragraphs": [
+      "Svalové vlny jícnu vytvářejí sílu pro přesun sousta. Doprava tak není závislá výhradně na tom, zda sousto může volně padat.",
+      "Představ si dopravní mechanismus, který materiál aktivně posune. Stejný princip vysvětluje, proč samotná poloha trubice neurčuje vše.",
+      "Jde o vysvětlení mechanismu z učebnice, nikoli doporučení zkoušet jíst v neobvyklých polohách."
+    ],
+    "memory": "Jícen má vlastní posunovací práci, ne jen gravitaci."
+  },
+  {
+    "id": 270,
+    "category": "Jícen a žaludek",
+    "bookRef": "str. 82–83",
+    "sourcePages": "82–83",
+    "question": "Která dvojice dobře vystihuje základní úlohy žaludku?",
+    "options": [
+      "Tvorba slin a vylučování moči",
+      "Hlavní výměna kyslíku a CO₂",
+      "Dočasné zadržení potravy a její promíchání se žaludeční šťávou",
+      "Tvorba žluči a hlavní vstřebání všech živin"
+    ],
+    "answer": 2,
+    "title": "Žaludek je zásobník i mísicí prostor",
+    "paragraphs": [
+      "Žaludek dočasně přijímá potravu, mechanicky ji zpracovává a mísí se žaludeční šťávou. Obsah pak po částech předává do střeva.",
+      "Představ si zásobní a zpracovatelskou nádobu mezi přívodem a hlavním střevním pracovištěm. Nejde jen o nehybný pytel.",
+      "Hlavní místo trávení a vstřebávání je tenké střevo. Žluč vytvářejí játra, nikoli žaludek."
+    ],
+    "memory": "Žaludek zadrží, promíchá a postupně předá."
+  },
+  {
+    "id": 271,
+    "category": "Jícen a žaludek",
+    "bookRef": "str. 83",
+    "sourcePages": "83",
+    "question": "Co označuje pojem trávenina vznikající v žaludku?",
+    "options": [
+      "Pouze čistou krev v žaludeční tepně",
+      "Tvrdý povrch zubní korunky",
+      "Samotnou žluč uloženou ve žlučníku",
+      "Kašovitý obsah vytvořený mechanickým zpracováním a smísením potravy se šťávou"
+    ],
+    "answer": 3,
+    "title": "Z potravy vzniká promísený obsah",
+    "paragraphs": [
+      "Po smísení a zpracování v žaludku vzniká řidší kašovitá trávenina. Ta se následně postupně vyprazdňuje do dvanáctníku.",
+      "Představ si změnu z jednotlivých soust na promíchaný obsah, s nímž může dál pracovat střevo. Změna vzhledu ale neznamená úplné rozštěpení všech živin.",
+      "Trávenina není hotová krev ani výhradně jedna trávicí šťáva. Je to směs obsahu potravy a sekretů v procesu zpracování."
+    ],
+    "memory": "Trávenina = promíchaný obsah pro další trávení."
+  },
+  {
+    "id": 272,
+    "category": "Jícen a žaludek",
+    "bookRef": "str. 83",
+    "sourcePages": "83",
+    "question": "Která látka zásadně přispívá ke kyselému prostředí žaludku?",
+    "options": [
+      "Kyselina chlorovodíková",
+      "Hydrogenuhličitan jako jediný žaludeční okyselovač",
+      "Sodík ve formě kovu",
+      "Pouze kyslík v polknutém vzduchu"
+    ],
+    "answer": 0,
+    "title": "Žaludeční prostředí okyseluje HCl",
+    "paragraphs": [
+      "Žaludeční šťáva obsahuje kyselinu chlorovodíkovou. Její přítomnost vytváří podmínky vhodné pro některé žaludeční trávicí děje.",
+      "Představ si pracoviště, kde enzym potřebuje určitý typ prostředí. Žaludek nemá stejné podmínky jako ústa nebo dvanáctník.",
+      "Hydrogenuhličitan kyselost naopak pomáhá neutralizovat. Kyselé prostředí žaludku se také nesmí zaměnit s běžným pH krve."
+    ],
+    "memory": "Žaludeční kyselina = HCl."
+  },
+  {
+    "id": 273,
+    "category": "Jícen a žaludek",
+    "bookRef": "str. 83",
+    "sourcePages": "83",
+    "question": "V jaké neaktivní podobě se vylučuje předchůdce pepsinu?",
+    "options": [
+      "Jako zubní cement",
+      "Jako pepsinogen",
+      "Jako fibrin",
+      "Jako oxyhemoglobin"
+    ],
+    "answer": 1,
+    "title": "Pepsin má neaktivního předchůdce",
+    "paragraphs": [
+      "Pepsin se vytváří z vylučovaného pepsinogenu. Aktivace je spojena s podmínkami kyselého žaludečního prostředí.",
+      "Představ si nástroj připravený v bezpečnější neaktivní podobě, který se uvádí do činnosti až na správném místě.",
+      "Pepsinogen a pepsin nejsou názvy pro dvě nesouvisející živiny. Jsou to předchůdce a aktivní enzym."
+    ],
+    "memory": "Pepsinogen je předstupeň pepsinu."
+  },
+  {
+    "id": 274,
+    "category": "Jícen a žaludek",
+    "bookRef": "str. 83",
+    "sourcePages": "83",
+    "question": "Jakou hlavní trávicí činnost vykonává pepsin?",
+    "options": [
+      "Vytváří žlučové soli z kyslíku",
+      "Vstřebává všechnu vodu místo střeva",
+      "Štěpí bílkoviny na menší peptidové úseky v kyselém prostředí",
+      "Přeměňuje škrob výhradně na tuk"
+    ],
+    "answer": 2,
+    "title": "Pepsin rozděluje bílkovinné řetězce",
+    "paragraphs": [
+      "Pepsin je proteolytický enzym. V kyselém žaludku štěpí určité peptidové vazby bílkovin a vytváří menší fragmenty.",
+      "Představ si nůžky rozstřihující dlouhý řetězec na kratší kusy. Další zpracování pokračuje střevními a pankreatickými enzymy.",
+      "Žaludeční působení pepsinu samo neznamená úplné dokončení trávení každé bílkoviny na všechny jednotlivé aminokyseliny."
+    ],
+    "memory": "Pepsin: bílkoviny → menší peptidy."
+  },
+  {
+    "id": 275,
+    "category": "Jícen a žaludek",
+    "bookRef": "str. 83",
+    "sourcePages": "83",
+    "question": "Co pomáhá chránit žaludeční sliznici před kyselým obsahem a trávicími ději?",
+    "options": [
+      "Souvislá vrstva zubní skloviny",
+      "Trvalá nepřítomnost kyseliny v žaludku",
+      "Přeměna stěny žaludku na kost",
+      "Ochranná hlenová vrstva a související slizniční mechanismy"
+    ],
+    "answer": 3,
+    "title": "Sliznice potřebuje ochrannou bariéru",
+    "paragraphs": [
+      "Žaludeční sliznice vytváří hlen a využívá další ochranné mechanismy. Pomáhají oddělit živou tkáň od agresivních podmínek obsahu.",
+      "Představ si ochrannou vrstvu mezi pracovištěm s kyselinou a jeho vlastní stěnou. Nestačí mít jen schopnost potravu rozkládat, je nutná i ochrana povrchu.",
+      "Není správné z toho vyvodit, že žaludek nemůže být poškozen. Ochrana je funkční biologický systém, nikoli nezničitelný materiál."
+    ],
+    "memory": "Žaludek tráví, hlen pomáhá chránit jeho stěnu."
+  },
+  {
+    "id": 276,
+    "category": "Tenké střevo a trávení",
+    "bookRef": "str. 84",
+    "sourcePages": "84",
+    "question": "Proč se žaludek nevyprazdňuje do dvanáctníku běžně celý najednou?",
+    "options": [
+      "Postupné dávkování se přizpůsobuje možnostem navazujícího trávení a vstřebávání",
+      "Protože dvanáctník není součástí trávicí trubice",
+      "Protože potrava nesmí nikdy opustit žaludek",
+      "Protože pohyb obsahu zajišťuje pouze krevní tlak"
+    ],
+    "answer": 0,
+    "title": "Dávkování chrání návaznost práce",
+    "paragraphs": [
+      "Žaludek předává obsah po částech. Signály z dvanáctníku mohou rychlost vyprazdňování upravovat podle množství a vlastností přicházející tráveniny.",
+      "Představ si přísun do dílny podle toho, kolik materiálu právě stíhá zpracovat. Prudké předání všeho obsahu by nebylo stejný proces.",
+      "Nejde o zcela pevný čas stejný po každém jídle. Složení obsahu a reakce navazujících úseků mají význam."
+    ],
+    "memory": "Žaludek dávkuje podle návazné střevní práce."
+  },
+  {
+    "id": 277,
+    "category": "Tenké střevo a trávení",
+    "bookRef": "str. 84",
+    "sourcePages": "84",
+    "question": "Které pořadí odpovídá třem základním oddílům tenkého střeva?",
+    "options": [
+      "Žaludek → jícen → hltan",
+      "Dvanáctník → lačník → kyčelník",
+      "Kyčelník → dvanáctník → lačník",
+      "Slepé střevo → tračník → konečník"
+    ],
+    "answer": 1,
+    "title": "Tenké střevo má tři navazující části",
+    "paragraphs": [
+      "Na žaludek navazuje dvanáctník, pokračuje lačník a potom kyčelník. Jde o části jednoho hlavního místa trávení a vstřebávání.",
+      "Představ si navazující úseky stejné dlouhé cesty. Jejich správné pořadí pomáhá i při určování místa vstupu trávicích šťáv.",
+      "Slepé střevo a tračník patří tlustému střevu. Nejde o další názvy pro lačník či kyčelník."
+    ],
+    "memory": "Duodenum, jejunum, ileum: dvanáctník, lačník, kyčelník."
+  },
+  {
+    "id": 278,
+    "category": "Tenké střevo a trávení",
+    "bookRef": "str. 84–85",
+    "sourcePages": "84–85",
+    "question": "Jaký význam mají záhyby a klky sliznice tenkého střeva?",
+    "options": [
+      "Zcela zabraňují kontaktu tráveniny se sliznicí",
+      "Mění sliznici na souvislou kost",
+      "Zvětšují plochu dostupnou pro vstřebávání",
+      "Vylučují veškerou žluč místo jater"
+    ],
+    "answer": 2,
+    "title": "Členitý povrch poskytuje větší plochu",
+    "paragraphs": [
+      "Sliznice tenkého střeva má záhyby a klky. Členění zvětšuje povrch, na kterém může docházet ke kontaktu a přestupu látek.",
+      "Představ si látku složenou do mnoha záhybů: na stejném místě se tak vejde více plochy. Střevo využívá podobnou geometrickou výhodu.",
+      "Klky nejsou jen překážky zužující trubici. Jejich podstatný význam souvisí s funkcí povrchu, nikoli pouze s tvarem při pohledu zvenku."
+    ],
+    "memory": "Klky a záhyby = více vstřebávací plochy."
+  },
+  {
+    "id": 279,
+    "category": "Tenké střevo a trávení",
+    "bookRef": "str. 84",
+    "sourcePages": "84",
+    "question": "Kde se nacházejí mikroklky ve sliznici tenkého střeva?",
+    "options": [
+      "Pouze na povrchu červených krvinek",
+      "Uvnitř zubní skloviny",
+      "Jen na srdečních chlopních",
+      "Na povrchu vstřebávacích epitelových buněk"
+    ],
+    "answer": 3,
+    "title": "Mikroklky jsou výběžky jednotlivých buněk",
+    "paragraphs": [
+      "Mikroklky tvoří drobné výběžky povrchu střevních epitelových buněk. Jsou dalším stupněm zvětšení plochy nad úrovní samotných klků.",
+      "Představ si jemné členění už tak členitého povrchu. Velký klk a malé buněčné mikroklky nejsou stejná struktura různých názvů.",
+      "Klk sliznice zahrnuje více buněk a vnitřní tkáně. Mikroklk je výběžek povrchu jedné buňky."
+    ],
+    "memory": "Klk je slizniční výběžek; mikroklky jsou na buňkách."
+  },
+  {
+    "id": 280,
+    "category": "Tenké střevo a trávení",
+    "bookRef": "str. 85",
+    "sourcePages": "85",
+    "question": "Co je hlavním účinkem segmentačních pohybů tenkého střeva?",
+    "options": [
+      "Promíchávání tráveniny",
+      "Výhradně rychlé vyprázdnění celé trubice jediným stahem",
+      "Výroba žluči uvnitř svalových buněk",
+      "Přeměna všech živin na hlen"
+    ],
+    "answer": 0,
+    "title": "Segmentace obsah promíchává",
+    "paragraphs": [
+      "Segmentační pohyby jsou místní střídavé stahy úseků střeva. Napomáhají promísení tráveniny s obsahem šťáv a kontaktu s povrchem.",
+      "Představ si opakované rozdělování a spojování směsi v sousedních úsecích. Smyslem není jen transport co nejrychleji vpřed.",
+      "Posun a mísení se mohou doplňovat, ale segmentaci nelze jednoduše ztotožnit s čistě postupující peristaltickou vlnou."
+    ],
+    "memory": "Segmentace = střevní promíchávání."
+  },
+  {
+    "id": 281,
+    "category": "Tenké střevo a trávení",
+    "bookRef": "str. 85",
+    "sourcePages": "85",
+    "question": "Kam odvádí exokrinní část slinivky své trávicí sekrety?",
+    "options": [
+      "Do plicních sklípků",
+      "Do dvanáctníku vývodným systémem",
+      "Přímo do levé srdeční síně",
+      "Pouze do kostní dřeně"
+    ],
+    "answer": 1,
+    "title": "Exokrinní pankreas posílá šťávu do střeva",
+    "paragraphs": [
+      "Zevně sekretorická neboli exokrinní část pankreatu přivádí svou šťávu do dvanáctníku. Její složky se tam zapojují do střevního zpracování.",
+      "Představ si žlázu s vývodem do trávicí cesty. Je to jiný směr sekrece než hormonální výstup do krve.",
+      "Pankreas má také endokrinní část produkující například inzulin. Hormon a trávicí enzym ale necestují stejnou vývodnou cestou."
+    ],
+    "memory": "Exokrinní pankreas → vývod → dvanáctník."
+  },
+  {
+    "id": 282,
+    "category": "Tenké střevo a trávení",
+    "bookRef": "str. 85–86",
+    "sourcePages": "85–86",
+    "question": "Jakou úlohu má hydrogenuhličitan pankreatické šťávy?",
+    "options": [
+      "Mění všechen střevní obsah v silnou kyselinu",
+      "Vytváří tvrdost zubní korunky",
+      "Pomáhá neutralizovat kyselý obsah přicházející ze žaludku",
+      "Je hlavním enzymem štěpícím peptidové vazby"
+    ],
+    "answer": 2,
+    "title": "Po žaludku je třeba upravit kyselost",
+    "paragraphs": [
+      "Pankreatický hydrogenuhličitan pomáhá neutralizovat kyselou tráveninu vstupující do dvanáctníku. Tím se upravují podmínky pro navazující enzymové děje.",
+      "Představ si přechod mezi dvěma pracovišti s jiným potřebným prostředím. To, co vyhovuje pepsinu v žaludku, nemusí vyhovovat dalším enzymům.",
+      "Hydrogenuhličitan není proteáza ani lipáza. Upravuje chemické prostředí, místo aby byl hlavním nástrojem štěpení živin."
+    ],
+    "memory": "Hydrogenuhličitan tlumí žaludeční kyselost ve střevě."
+  },
+  {
+    "id": 283,
+    "category": "Tenké střevo a trávení",
+    "bookRef": "str. 85",
+    "sourcePages": "85",
+    "question": "Kde žluč vzniká a kde se může skladovat a zahušťovat?",
+    "options": [
+      "Vzniká ve žlučníku a skladuje se výhradně v jícnu",
+      "Vzniká ve slezině a odtéká do močovodu",
+      "Vzniká jen v pankreatu a nemá vztah k játrům",
+      "Vzniká v játrech, skladuje a zahušťuje se ve žlučníku"
+    ],
+    "answer": 3,
+    "title": "Výrobna žluči a zásobník jsou jiné orgány",
+    "paragraphs": [
+      "Žluč tvoří jaterní buňky. U člověka se může shromažďovat ve žlučníku, kde se zahušťuje, a poté přicházet žlučovými cestami do střeva.",
+      "Představ si rozdíl mezi výrobním místem a nádrží. Nádrž může obsah uchovávat a upravovat jeho koncentraci, aniž by byla jeho hlavní výrobnou.",
+      "Žlučník proto není jediným zdrojem tvorby žluči. Slinivka zase vytváří jinou trávicí šťávu."
+    ],
+    "memory": "Játra vyrábějí, žlučník skladuje a zahušťuje."
+  },
+  {
+    "id": 284,
+    "category": "Tenké střevo a trávení",
+    "bookRef": "str. 86–87",
+    "sourcePages": "86–87",
+    "question": "Jak žlučové soli usnadňují trávení tuků?",
+    "options": [
+      "Pomáhají emulgovat tuk a zvětšit plochu přístupnou lipázám",
+      "Samy jsou hlavními enzymy štěpícími všechny esterové vazby",
+      "Přeměňují tuky přímo na aminokyseliny",
+      "Zabrání jakémukoli kontaktu tuku s enzymy"
+    ],
+    "answer": 0,
+    "title": "Menší kapky zpřístupní větší povrch",
+    "paragraphs": [
+      "Žlučové soli napomáhají rozptýlení velkých tukových kapek na menší. Tím se zvětší povrch, na kterém mohou působit trávicí enzymy.",
+      "Představ si rozdělení jedné velké kapky na mnoho malých. Uvnitř zůstává tuk, ale jeho kontakt s vodným okolím se zvětší.",
+      "Emulgace není totéž co enzymové rozštěpení tuku. Chemické vazby poté štěpí například pankreatická lipáza."
+    ],
+    "memory": "Žluč zpřístupní povrch, lipáza štěpí vazby."
+  },
+  {
+    "id": 285,
+    "category": "Tenké střevo a trávení",
+    "bookRef": "str. 86",
+    "sourcePages": "86",
+    "question": "Která dvojice správně spojuje sacharid a jeden produkt jeho štěpení amylázou v učebnicovém modelu?",
+    "options": [
+      "Maltóza → pepsin",
+      "Škrob → maltóza",
+      "Bílkovina → žlučová sůl",
+      "Celulóza → hemoglobin"
+    ],
+    "answer": 1,
+    "title": "Amyláza rozděluje škrob na kratší sacharidy",
+    "paragraphs": [
+      "Při trávení škrobu amylázami vznikají kratší sacharidové produkty včetně maltózy. Ta se dále štěpí na glukózu.",
+      "Představ si několik navazujících kroků: nejprve se rozděluje dlouhý řetězec a potom se zpracují kratší vzniklé úseky.",
+      "Maltóza není enzym ani bílkovina. Jde o disacharid, tedy dvojici cukerných jednotek, který ještě může vyžadovat další štěpení."
+    ],
+    "memory": "Škrob → kratší sacharidy včetně maltózy → glukóza."
+  },
+  {
+    "id": 286,
+    "category": "Tenké střevo a trávení",
+    "bookRef": "str. 86",
+    "sourcePages": "86",
+    "question": "Které dva monosacharidy vznikají štěpením sacharózy?",
+    "options": [
+      "Dvě molekuly aminokyseliny",
+      "Glycerol a mastná kyselina",
+      "Glukóza a fruktóza",
+      "Glukóza a galaktóza"
+    ],
+    "answer": 2,
+    "title": "Sacharóza se skládá ze dvou různých cukrů",
+    "paragraphs": [
+      "Sacharóza je disacharid tvořený glukózou a fruktózou. Při jejím štěpení se tyto dvě složky oddělí.",
+      "Představ si spojenou dvojici, jejíž jednotlivé členy teď může střevo zpracovat a vstřebat. Je třeba znát, které členy dvojice opravdu obsahuje.",
+      "Glukóza a galaktóza patří laktóze. Glycerol a mastné kyseliny souvisejí s tuky, nikoli s touto cukernou dvojicí."
+    ],
+    "memory": "Sacharóza = glukóza + fruktóza."
+  },
+  {
+    "id": 287,
+    "category": "Tenké střevo a trávení",
+    "bookRef": "str. 86",
+    "sourcePages": "86",
+    "question": "Na které monosacharidy se štěpí laktóza?",
+    "options": [
+      "Na glukózu a fruktózu",
+      "Pouze na dvě mastné kyseliny",
+      "Na pepsin a pepsinogen",
+      "Na glukózu a galaktózu"
+    ],
+    "answer": 3,
+    "title": "Laktóza obsahuje glukózu a galaktózu",
+    "paragraphs": [
+      "Laktóza je disacharid složený z glukózy a galaktózy. Její štěpení uvolňuje právě tyto dvě monosacharidové složky.",
+      "Představ si rozpojení konkrétní dvojice cukrů. Podobně znějící názvy disacharidů neznamenají stejné složení.",
+      "Fruktóza je jednou ze složek sacharózy, nikoli laktózy. Tato záměna je častá, proto se vyplatí učit dvojice samostatně."
+    ],
+    "memory": "Laktóza = glukóza + galaktóza."
+  },
+  {
+    "id": 288,
+    "category": "Tenké střevo a trávení",
+    "bookRef": "str. 87",
+    "sourcePages": "87",
+    "question": "K čemu vede další štěpení peptidů při trávení bílkovin?",
+    "options": [
+      "K uvolňování aminokyselin",
+      "K tvorbě zubní skloviny přímo ve střevě",
+      "K přeměně všech peptidů na škrob",
+      "K tvorbě pouze nerozpustných žlučových kamenů"
+    ],
+    "answer": 0,
+    "title": "Bílkovinný řetězec dodává aminokyseliny",
+    "paragraphs": [
+      "Navazující proteolytické a peptidázové děje postupně zpracovávají bílkoviny a kratší peptidy. Významnými výslednými složkami jsou aminokyseliny.",
+      "Představ si dlouhý řetězec složený z různých dílků. Po postupném rozebrání se tyto dílky mohou využít k dalším tělesným syntézám.",
+      "Neznamená to, že střevní výstelkou nemohou procházet i některé malé peptidy. Pro základní otázku je důležitý původ aminokyselin z bílkovin."
+    ],
+    "memory": "Bílkoviny → peptidy → aminokyseliny."
+  },
+  {
+    "id": 289,
+    "category": "Tenké střevo a trávení",
+    "bookRef": "str. 87",
+    "sourcePages": "87",
+    "question": "Které produkty jsou důležité při působení pankreatické lipázy na triacylglyceroly ve střevě?",
+    "options": [
+      "Pepsinogen a kyselina chlorovodíková",
+      "Volné mastné kyseliny a monoacylglyceroly",
+      "Výhradně hemoglobin a albumin",
+      "Pouze škrob a celulóza"
+    ],
+    "answer": 1,
+    "title": "Lipáza rozebírá tukové molekuly",
+    "paragraphs": [
+      "Pankreatická lipáza štěpí vazby tukových molekul. Ve střevním trávení jsou důležitými produkty volné mastné kyseliny a monoacylglyceroly.",
+      "Představ si postupné odpojení části mastných kyselin z původního triacylglycerolu. Nevznikají tím stejné produkty jako při trávení bílkovin.",
+      "Kniha na začátku shrnuje tuky velmi jednoduše jako glycerol a mastné kyseliny, ale její navazující podrobnější popis uvádí také monoacylglyceroly."
+    ],
+    "memory": "Střevní lipáza: tuk → mastné kyseliny a monoacylglyceroly."
+  },
+  {
+    "id": 290,
+    "category": "Tenké střevo a trávení",
+    "bookRef": "str. 86",
+    "sourcePages": "86",
+    "question": "Čím se aktivní transport liší od prosté a usnadněné difuze při vstřebávání?",
+    "options": [
+      "Nemůže se nikdy účastnit přenosu přes buněčnou membránu",
+      "Znamená pouze žvýkání potravy",
+      "Využívá energetické spojení a může přenášet látku proti jejímu spádu",
+      "Vždy probíhá bez vazby na zdroj energie proti všem spádům"
+    ],
+    "answer": 2,
+    "title": "Proti spádu je potřeba energetické propojení",
+    "paragraphs": [
+      "Aktivní přenos je spojen se zdrojem energie a umožňuje přesun proti příslušnému spádu. Pasivní difuze využívá existující energetický rozdíl mezi stranami.",
+      "Představ si rozdíl mezi cestou z kopce a dopravou do kopce za pomoci pohonu. Přítomnost přenašeče sama ještě neurčuje, že jde o aktivní transport.",
+      "Energie nemusí být u každého přenašeče spotřebována přímým štěpením ATP na stejném místě. Může být přenesena i prostřednictvím iontového gradientu."
+    ],
+    "memory": "Aktivní transport má energetický pohon proti spádu."
+  },
+  {
+    "id": 291,
+    "category": "Tlusté střevo a játra",
+    "bookRef": "str. 87",
+    "sourcePages": "87",
+    "question": "Čím se povrch sliznice tlustého střeva odlišuje od typické sliznice tenkého střeva?",
+    "options": [
+      "Má vždy více a větších klků než tenké střevo",
+      "Je celý krytý zubní sklovinou",
+      "Nemá žádné epitelové buňky",
+      "Nemá střevní klky typické pro tenké střevo"
+    ],
+    "answer": 3,
+    "title": "Tlusté střevo nemá stejnou klkovou stavbu",
+    "paragraphs": [
+      "Sliznice tlustého střeva nemá klky typické pro tenké střevo. To však neznamená, že nemá výstelku nebo vstřebávací funkci.",
+      "Představ si dva navazující úseky se společnou trubicovitou podobou, ale odlišnou specializací povrchu. Tvar souvisí s tím, co v úseku probíhá.",
+      "Nepřítomnost klků není totéž co úplně hladká beztkáňová trubice. Sliznice má stále složitou buněčnou organizaci."
+    ],
+    "memory": "Tenké střevo má klky, tlusté je nemá."
+  },
+  {
+    "id": 292,
+    "category": "Tlusté střevo a játra",
+    "bookRef": "str. 87",
+    "sourcePages": "87",
+    "question": "Jak souvisí apendix se slepým střevem?",
+    "options": [
+      "Je jeho slepě zakončeným červovitým přívěskem",
+      "Je to jiný název pro celý žaludek",
+      "Je hlavním vývodem slinivky",
+      "Tvoří první oddíl jícnu"
+    ],
+    "answer": 0,
+    "title": "Apendix není celé slepé střevo",
+    "paragraphs": [
+      "Apendix je červovitý přívěsek navazující na slepé střevo. Slepé střevo je část začátku tlustého střeva, nikoli totožný název pro apendix.",
+      "Představ si větší úsek cesty s úzkou slepou odbočkou. Jejich souvislost neznamená, že označují stejnou anatomickou část.",
+      "Běžné hovorové používání názvu slepé střevo může být nepřesné. V anatomické otázce rozlišujeme oba pojmy."
+    ],
+    "memory": "Apendix = červovitý přívěsek slepého střeva."
+  },
+  {
+    "id": 293,
+    "category": "Tlusté střevo a játra",
+    "bookRef": "str. 87–88",
+    "sourcePages": "87–88",
+    "question": "Co je významnou funkcí tlustého střeva při úpravě střevního obsahu?",
+    "options": [
+      "Tvorba všech aminokyselin z kyslíku",
+      "Vstřebávání vody a některých iontů, které přispívá k zahušťování obsahu",
+      "Výhradně tvorba pepsinu do žaludku",
+      "Hlavní alveolární výměna plynů"
+    ],
+    "answer": 1,
+    "title": "Tlusté střevo upravuje vodu a soli",
+    "paragraphs": [
+      "Tlusté střevo se podílí na vstřebávání vody a iontů z přicházejícího obsahu. Obsah se tím postupně zahušťuje.",
+      "Představ si závěrečnou úpravu zbytků před jejich odchodem. Odebírání vody mění jejich konzistenci.",
+      "Z toho neplyne, že se veškerá nebo většina celkově přijímané vody vstřebává až zde. Velmi významné vstřebávání vody probíhá už v tenkém střevě."
+    ],
+    "memory": "Tlusté střevo pomáhá vrátit vodu a zahustit obsah."
+  },
+  {
+    "id": 294,
+    "category": "Tlusté střevo a játra",
+    "bookRef": "str. 88",
+    "sourcePages": "88",
+    "question": "Jak mohou střevní mikroorganismy ovlivnit nestrávené zbytky sacharidů v tlustém střevě?",
+    "options": [
+      "Zajišťují, že v tlustém střevě nejsou žádné chemické děje",
+      "Nahrazují veškerou buněčnou výbavu člověka",
+      "Mohou je dále fermentovat a vytvářet metabolické produkty včetně plynů",
+      "Vždy mění každý zbytek potravy na nový zub"
+    ],
+    "answer": 2,
+    "title": "Obsah střeva zpracovávají i mikroorganismy",
+    "paragraphs": [
+      "Střevní mikroorganismy mohou fermentovat část látek, které zůstaly po průchodu tenkým střevem. Při jejich metabolismu mohou vznikat i plyny.",
+      "Představ si navazující biologické zpracování zbytků jiným souborem enzymů. Ne všechen děj ve střevě proto přímo vykonávají lidské buňky.",
+      "Mikrobiální činnost neznamená neomezené dokonalé strávení každé vlákniny nebo jistý výživový přínos všech bakteriálních produktů."
+    ],
+    "memory": "Střevní mikrobiota může fermentovat zbylé sacharidy."
+  },
+  {
+    "id": 295,
+    "category": "Tlusté střevo a játra",
+    "bookRef": "str. 88",
+    "sourcePages": "88",
+    "question": "Jak se liší vnitřní a vnější řitní svěrač ve vztahu k volnímu ovládání?",
+    "options": [
+      "Oba jsou výhradně kostní prstence",
+      "Vnitřní je zubní sklovina a vnější chrupavka",
+      "Vnější tvoří srdeční svalovina s vlastním sinusovým uzlem",
+      "Vnitřní je hladký sval, vnější příčně pruhovaný sval umožňující volní kontrolu"
+    ],
+    "answer": 3,
+    "title": "Dva svěrače mají jiné řízení",
+    "paragraphs": [
+      "Vnitřní řitní svěrač tvoří hladká svalovina, vnější příčně pruhovaná kosterní svalovina. Vnější se proto podílí na volní kontrole vyprazdňování.",
+      "Představ si kombinaci automaticky řízené a vědomě ovlivnitelné části. Díky jejich koordinaci není výsledek závislý pouze na jediném svalu.",
+      "Reflexní povaha některých kroků neznamená úplnou nepřítomnost volního vlivu. Je třeba rozlišit jednotlivé části mechanismu."
+    ],
+    "memory": "Vnitřní hladký, vnější volně ovladatelný příčně pruhovaný."
+  },
+  {
+    "id": 296,
+    "category": "Tlusté střevo a játra",
+    "bookRef": "str. 89",
+    "sourcePages": "89",
+    "question": "Kde leží převážná část jater?",
+    "options": [
+      "V pravé horní části břišní dutiny pod bránicí",
+      "V levém předloktí",
+      "Uvnitř pravé srdeční komory",
+      "Pouze v malé pánvi pod močovým měchýřem"
+    ],
+    "answer": 0,
+    "title": "Játra hledej hlavně vpravo pod bránicí",
+    "paragraphs": [
+      "Játra jsou uložena převážně v pravé horní části břicha pod brániční klenbou. Jejich poloha se liší například od sleziny vlevo.",
+      "Představ si orientační mapu orgánů pod bránicí. Játra jsou velký orgán, jehož části mohou zasahovat i přes střední rovinu.",
+      "Výrok neznamená, že každý kousek jater leží jen napravo. Ptáme se na hlavní umístění jejich hmoty."
+    ],
+    "memory": "Játra převážně vpravo nahoře pod bránicí."
+  },
+  {
+    "id": 297,
+    "category": "Tlusté střevo a játra",
+    "bookRef": "str. 89",
+    "sourcePages": "89",
+    "question": "Které dvě hlavní cévní cesty přivádějí krev do jater?",
+    "options": [
+      "Pouze jaterní žíly přivádějící krev z pravé síně",
+      "Jaterní tepna a vrátnicová žíla",
+      "Pouze horní a dolní dutá žíla jako dvě přívodné tepny",
+      "Plicní tepna a průdušnice"
+    ],
+    "answer": 1,
+    "title": "Játra mají dvojí krevní přívod",
+    "paragraphs": [
+      "Krev přichází do jater jaterní tepnou a vrátnicovou žílou. Tyto cesty se liší původem a vlastnostmi přiváděné krve.",
+      "Představ si přímé tepenné zásobování a navazující přísun krve z trávicí oblasti. Játra tak dostávají látky k dalšímu zpracování.",
+      "Jaterní žíly krev z jater odvádějí. Kniha jejich počet příliš zjednodušuje, proto ho v této otázce netestujeme."
+    ],
+    "memory": "Do jater: tepna a vrátnice. Z jater: jaterní žíly."
+  },
+  {
+    "id": 298,
+    "category": "Tlusté střevo a játra",
+    "bookRef": "str. 90",
+    "sourcePages": "90",
+    "question": "V jaké zásobní podobě mohou játra ukládat glukózové jednotky?",
+    "options": [
+      "Výhradně jako pepsin",
+      "Jako kyslík v plicním sklípku",
+      "Jako glykogen",
+      "Jako zubní sklovinu"
+    ],
+    "answer": 2,
+    "title": "Glykogen je zásobní sacharid",
+    "paragraphs": [
+      "Játra mohou z glukózových jednotek vytvářet zásoby glykogenu. Jejich metabolismus se podílí také na hospodaření s glukózou v krvi.",
+      "Představ si sklad složený z propojených cukerných dílků. Podle potřeb může organismus zásobu vytvářet nebo zpracovávat.",
+      "Glykogen není totéž co glukagon. Jeden je zásobní polysacharid, druhý hormon podílející se na regulaci metabolismu."
+    ],
+    "memory": "Glykogen = zásobní cukerný řetězec."
+  },
+  {
+    "id": 299,
+    "category": "Tlusté střevo a játra",
+    "bookRef": "str. 90",
+    "sourcePages": "90",
+    "question": "Kterou látku tvoří játra při zpracování dusíku pocházejícího z aminokyselin?",
+    "options": [
+      "Pouze zubní cement",
+      "Kyslík jako jediný konečný produkt",
+      "Škrob jako hlavní dusíkatý odpad",
+      "Močovinu"
+    ],
+    "answer": 3,
+    "title": "Játra zpracovávají i dusík",
+    "paragraphs": [
+      "Metabolismus aminokyselin v játrech zahrnuje zpracování jejich dusíku a tvorbu močoviny. Ta může být dále dopravena krví k vyloučení.",
+      "Představ si převod odpadní složky na formu vhodnou pro další přepravu. Samotné využití uhlíkaté části molekuly neřeší automaticky všechen dusík.",
+      "Močovina není totéž co hotová moč a její hlavní tvorba v játrech se nesmí zaměnit s vylučovací úlohou ledvin."
+    ],
+    "memory": "Játra tvoří močovinu, ledviny ji pomáhají vylučovat."
+  },
+  {
+    "id": 300,
+    "category": "Tlusté střevo a játra",
+    "bookRef": "str. 90",
+    "sourcePages": "90",
+    "question": "Které krevní bílkoviny játra vytvářejí?",
+    "options": [
+      "Například albumin a fibrinogen",
+      "Všechny protilátky výhradně místo plazmatických buněk",
+      "Pouze aktin a myozin každého svalového vlákna",
+      "Jen slinnou amylázu v příušní žláze"
+    ],
+    "answer": 0,
+    "title": "Játra vyrábějí důležité plazmatické bílkoviny",
+    "paragraphs": [
+      "Játra syntetizují řadu bílkovin krevní plazmy, například albumin a fibrinogen. Jejich metabolická úloha proto souvisí i s funkcemi krve.",
+      "Představ si výrobní centrum zásobující oběh důležitými rozpuštěnými složkami. Některé pomáhají udržovat tekutinové poměry, jiné se účastní srážení.",
+      "Ne všechny plazmatické bílkoviny vznikají v játrech. Protilátky produkuje B-buněčná linie, zejména plazmatické buňky."
+    ],
+    "memory": "Játra: mimo jiné albumin a fibrinogen."
+  }
+]

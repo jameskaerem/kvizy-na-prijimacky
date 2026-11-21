@@ -1,0 +1,62 @@
+[
+  {
+    "id": 679,
+    "category": "Ošetřovatelství",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · úloha 3 · PDF 1",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 1",
+    "question": "Pacient přijde do ordinace na plánovaný převaz a po něm odchází domů. Jakou formou je v tomto případě poskytována zdravotní péče?",
+    "title": "Ambulantní péčí",
+    "options": [
+      "Následnou lůžkovou péčí",
+      "Ambulantní péčí",
+      "Domácí péčí",
+      "Jednodenní péčí s přijetím na lůžko"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Plánovaný převaz v ordinaci bez přijetí na lůžko je příkladem ambulantní péče. Forma péče popisuje, jak je péče pacientovi poskytována. Samotný převaz je konkrétní výkon."
+    ],
+    "memory": "Převaz v ordinaci bez přijetí je ambulantní péče."
+  },
+  {
+    "id": 680,
+    "category": "Management",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · úloha 5 · PDF 11",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 11",
+    "question": "Který popis vystihuje pracovní roli člověka v týmu?",
+    "title": "Úloha, kterou v týmu plní, a očekávání spojená s touto úlohou",
+    "options": [
+      "Fyzická adresa, kde pracuje",
+      "Souhrn dokladů prokazujících jeho vzdělání",
+      "Úloha, kterou v týmu plní, a očekávání spojená s touto úlohou",
+      "Název celé organizace"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Pracovní role popisuje, co člověk v dané situaci zajišťuje a co od něj spolupracovníci očekávají. Jedno pracovní místo může obsahovat více rolí, například koordinátora směny a průvodce nováčků."
+    ],
+    "memory": "Pracovní role je úloha a navazující očekávání."
+  },
+  {
+    "id": 681,
+    "category": "Management",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · úloha 10 · PDF 12",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 12",
+    "question": "Vedoucí přesouvá současného pracovníka na jiné místo v organizaci. Které rozhodnutí nejlépe vystihuje účel vhodného rozmístění pracovníků?",
+    "title": "Vybere práci, která odpovídá potřebám týmu, schopnostem pracovníka a jeho možnostem rozvoje.",
+    "options": [
+      "Vybere práci, která odpovídá potřebám týmu, schopnostem pracovníka a jeho možnostem rozvoje.",
+      "Přidělí mu místo náhodně podle pořadí v seznamu.",
+      "Rozhodne pouze podle toho, kde je volný stůl.",
+      "Přihlédne výhradně k názvu dosavadní pracovní pozice."
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Rozmístění se týká toho, komu organizace svěří konkrétní práci. Dobrá volba bere v úvahu požadavky práce i schopnosti, zájmy a možnosti dalšího rozvoje člověka."
+    ],
+    "memory": "Při rozmístění spoj potřeby práce se schopnostmi člověka."
+  }
+]

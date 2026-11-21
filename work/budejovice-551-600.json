@@ -1,0 +1,1003 @@
+[
+  {
+    "id": 551,
+    "category": "Anatomie",
+    "bookRef": "České Budějovice TESTY 2019, 2021, 2022.pdf · 2019 · Anatomie · úloha 33 · PDF 202",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 202",
+    "question": "Co umožňuje růst lebeční klenby v dětství v oblasti spojů kostí?",
+    "title": "Růst kostí při otevřených lebečních švech",
+    "options": [
+      "Růst kostí při otevřených lebečních švech",
+      "Prodlužování kloubních vazů dolní končetiny",
+      "Tvorba chrupavky uvnitř mozku",
+      "Pouze zvětšování čelistních zubů"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Švy jsou vazivová spojení mezi kostmi lebeční klenby a během růstu umožňují její rozšiřování. Růst klenby nelze zaměňovat s růstem dlouhých kostí v růstové chrupavce."
+    ],
+    "memory": "Dětská lebka roste také ve švech."
+  },
+  {
+    "id": 552,
+    "category": "Anatomie",
+    "bookRef": "České Budějovice TESTY 2019, 2021, 2022.pdf · 2019 · Anatomie · úloha 47 · PDF 204",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 204",
+    "question": "Které fáze se rozlišují v základním popisu cyklických změn děložní sliznice?",
+    "title": "Menstruační, proliferační a sekreční",
+    "options": [
+      "Folikulární, ovulační a svalová",
+      "Systolická, diastolická a plnicí",
+      "Nádechová, výdechová a klidová",
+      "Menstruační, proliferační a sekreční"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Menstruační fáze zahrnuje odlučování části sliznice, proliferační její obnovu a sekreční přípravu na možné uhnízdění zárodku. Jde o děložní cyklus; fáze ovariálního cyklu se pojmenovávají jinak."
+    ],
+    "memory": "Sliznice: odloučení, obnova, sekrece."
+  },
+  {
+    "id": 553,
+    "category": "Evoluce",
+    "bookRef": "České Budějovice TESTY 2019, 2021, 2022.pdf · 2019 · Evoluce · úloha 31 · PDF 267",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 267",
+    "question": "Která kombinace vystihuje australopitéky?",
+    "title": "Afričtí homininé se schopností chůze po dvou",
+    "options": [
+      "Evropští současní lidé s písmem",
+      "Mořští savci bez zadních končetin",
+      "Afričtí homininé se schopností chůze po dvou",
+      "Australští vačnatci žijící jen na stromech"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Fosilie australopitéků pocházejí z Afriky a jejich stavba ukazuje adaptace k bipedální chůzi. U některých druhů současně přetrvávaly znaky související se šplháním."
+    ],
+    "memory": "Australopiték: Afrika a dvě nohy."
+  },
+  {
+    "id": 554,
+    "category": "Ošetřovatelství",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Ošetřovatelství · úloha 7 · PDF 5",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 5",
+    "question": "Co znamená izokomprese při pobytu v hyperbarické komoře?",
+    "title": "Fázi se stálým tlakem",
+    "options": [
+      "Úplné odstranění kyslíku z komory",
+      "Fázi se stálým tlakem",
+      "Postupné zvyšování tlaku",
+      "Postupné snižování tlaku"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Komprese zvyšuje tlak, izokomprese jej udržuje a dekomprese jej snižuje. Předpona izo- znamená stejný; otázka rozlišuje názvy fází, nikoli návod k provedení léčby."
+    ],
+    "memory": "Izokomprese = stejný tlak."
+  },
+  {
+    "id": 555,
+    "category": "Ošetřovatelství",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Ošetřovatelství · úloha 1 · PDF 7",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 7",
+    "question": "Co znamená infarkt myokardu?",
+    "title": "Odumření části srdečního svalu následkem déle trvající ischemie",
+    "options": [
+      "Odumření části srdečního svalu následkem déle trvající ischemie",
+      "Pouhé zpomalení tepu bez poškození tkáně",
+      "Zánět krčních mandlí",
+      "Zvýšenou tvorbu krevních destiček jako jediný význam"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Často souvisí s uzávěrem koronární tepny trombem po narušení aterosklerotického plátu. Na rozdíl od samotné přechodné ischemie již dochází k nekróze buněk myokardu."
+    ],
+    "memory": "Infarkt = ischemie s odumřením tkáně."
+  },
+  {
+    "id": 556,
+    "category": "Ošetřovatelství",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Ošetřovatelství · úloha 3 · PDF 7",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 7",
+    "question": "Při vyšetřování kterého onemocnění se používá krevní marker NT-proBNP?",
+    "title": "Srdečního selhání",
+    "options": [
+      "Pouze zlomeniny zápěstí",
+      "Výhradně zubního kazu",
+      "Jen poruchy barevného vidění",
+      "Srdečního selhání"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Natriuretické peptidy pomáhají posuzovat zátěž srdeční stěny. Zvýšené NT-proBNP však samo diagnózu nepotvrzuje, protože jej mohou zvyšovat i jiné stavy."
+    ],
+    "memory": "NT-proBNP pomáhá hodnotit srdeční selhání."
+  },
+  {
+    "id": 557,
+    "category": "Ošetřovatelství",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Ošetřovatelství · úloha 4 · PDF 7",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 7",
+    "question": "K čemu jsou určena léčiva označovaná jako antiarytmika?",
+    "title": "K ovlivnění poruch srdečního rytmu",
+    "options": [
+      "Pouze ke snížení kyselosti žaludku",
+      "K tvorbě kostních osteofytů",
+      "K ovlivnění poruch srdečního rytmu",
+      "Výhradně k náhradě hemoglobinu"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Název skupiny odkazuje na arytmii, tedy poruchu srdečního rytmu. Konkrétní přípravky mají rozdílné účinky a nelze je podle názvu skupiny automaticky zaměňovat."
+    ],
+    "memory": "Antiarytmika souvisejí s rytmem srdce."
+  },
+  {
+    "id": 558,
+    "category": "Ošetřovatelství",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Ošetřovatelství · úloha 5 · PDF 7",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 7",
+    "question": "Co charakterizuje synchronizovanou elektrickou kardioverzi?",
+    "title": "Načasování výboje podle srdečního cyklu, obvykle ke kmitu R",
+    "options": [
+      "Mechanické rozšíření průdušnice",
+      "Načasování výboje podle srdečního cyklu, obvykle ke kmitu R",
+      "Záměrné podání výboje bez vztahu k EKG",
+      "Měření hustoty kostí"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Synchronizace odlišuje tento princip od nesynchronizované defibrilace. Otázka popisuje základní význam pojmu, nikoli volbu léčby nebo nastavení přístroje."
+    ],
+    "memory": "Kardioverze synchronizuje výboj s EKG."
+  },
+  {
+    "id": 559,
+    "category": "Management",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Management · úloha 2 · PDF 11",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 11",
+    "question": "Jak může kreativita přispět k rozhodování vedoucího?",
+    "title": "Umožňuje hledat nové varianty řešení problému",
+    "options": [
+      "Umožňuje hledat nové varianty řešení problému",
+      "Nahrazuje potřebu ověřovat fakta",
+      "Zaručí správnost každého prvního nápadu",
+      "Odstraní všechna omezení rozpočtu"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Tvořivost rozšiřuje soubor možností, mezi nimiž lze vybírat. Nápady je následně potřeba posoudit podle cílů, dostupných zdrojů a důsledků."
+    ],
+    "memory": "Nejprve tvořit možnosti, potom je posoudit."
+  },
+  {
+    "id": 560,
+    "category": "Etika",
+    "bookRef": "České Budějovice testy 2024.pdf · 2024 · Etika · úloha 9 · PDF 2",
+    "sourceFile": "České Budějovice testy 2024.pdf",
+    "sourcePages": "PDF 2",
+    "question": "Co označuje dystanázie v etice péče na konci života?",
+    "title": "Nepřiměřené prodlužování procesu umírání zatěžujícími zásahy",
+    "options": [
+      "Jakékoli zmírnění bolesti",
+      "Každé odmítnutí návštěvy",
+      "Přirozené usnutí zdravého člověka",
+      "Nepřiměřené prodlužování procesu umírání zatěžujícími zásahy"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Pojem kritizuje neúčelné prodlužování umírání, nikoli běžnou prospěšnou léčbu. Posouzení přiměřenosti závisí na cíli péče a konkrétní situaci; nejde o synonymum eutanázie."
+    ],
+    "memory": "Dystanázie prodlužuje umírání nepřiměřenou zátěží."
+  },
+  {
+    "id": 561,
+    "category": "Dějiny",
+    "bookRef": "České Budějovice testy 2024.pdf · 2024 · Dějiny · úloha 1 · PDF 1",
+    "sourceFile": "České Budějovice testy 2024.pdf",
+    "sourcePages": "PDF 1",
+    "question": "Ve kterém státě vstoupil 1. dubna 2002 v účinnost zákon WTL upravující posuzování ukončení života na žádost a asistované sebevraždy?",
+    "title": "V Nizozemsku",
+    "options": [
+      "V Polsku",
+      "V Irsku",
+      "V Nizozemsku",
+      "V České republice"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Historický údaj je přesnější než obecné tvrzení o neomezené legalizaci. Nizozemská úprava stanovila podmínky a kontrolu; neznamená, že jakékoli ukončení života je dovolené."
+    ],
+    "memory": "WTL: Nizozemsko, účinnost 2002."
+  },
+  {
+    "id": 562,
+    "category": "Společenské vědy",
+    "bookRef": "České Budějovice testy 2024.pdf · 2024 · Společenské vědy · úloha 3 · PDF 1",
+    "sourceFile": "České Budějovice testy 2024.pdf",
+    "sourcePages": "PDF 1",
+    "question": "S kterým náboženským společenstvím je spojeno odmítání transfuzí plné krve?",
+    "title": "Se svědky Jehovovými",
+    "options": [
+      "S každou osobou bez vyznání",
+      "Se svědky Jehovovými",
+      "Se všemi buddhisty bez výjimky",
+      "Se všemi křesťanskými církvemi"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Jde o náboženské stanovisko ke krvi, nikoli odmítání zdravotní péče obecně. Postoj ke složkám krve a jednotlivým postupům nelze automaticky odvozovat od členství; rozhodnutí konkrétního člověka je nutné zjišťovat individuálně."
+    ],
+    "memory": "Stanovisko ke krvi není odmítnutím veškeré péče."
+  },
+  {
+    "id": 563,
+    "category": "Anatomie",
+    "bookRef": "České Budějovice testy 2024.pdf · 2024 · Anatomie · úloha 1 · PDF 3",
+    "sourceFile": "České Budějovice testy 2024.pdf",
+    "sourcePages": "PDF 3",
+    "question": "Jak se nazývá jemné vazivo obklopující jednotlivé kosterní svalové vlákno?",
+    "title": "Endomysium",
+    "options": [
+      "Endomysium",
+      "Sarkolema",
+      "Sarkomera",
+      "Epifýza"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Endomysium je vazivo kolem vlákna, zatímco sarkolema je buněčná membrána vlákna. Sarkomera je opakující se kontraktilní jednotka myofibrily; tyto tři úrovně nelze zaměňovat."
+    ],
+    "memory": "Endomysium je vazivo, sarkolema membrána."
+  },
+  {
+    "id": 564,
+    "category": "Biologie",
+    "bookRef": "České Budějovice testy 2024.pdf · 2024 · Biologie · úloha 9 · PDF 4",
+    "sourceFile": "České Budějovice testy 2024.pdf",
+    "sourcePages": "PDF 4",
+    "question": "Pro který děj je důležitý folát, tedy vitamin B9?",
+    "title": "Syntézu nukleotidů a DNA při dělení buněk",
+    "options": [
+      "Tvorbu kyslíku fotosyntézou v lidské krvi",
+      "Přeměnu vápníku na železo",
+      "Rozpouštění všech krevních sraženin",
+      "Syntézu nukleotidů a DNA při dělení buněk"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Dělící se předchůdci krvinek potřebují tvořit DNA, proto může nedostatek folátu narušit krvetvorbu. Také B12 a B6 mají v krvetvorbě své role, takže původní obecná otázka nenabízela jediný vhodný vitamin."
+    ],
+    "memory": "Folát podporuje tvorbu DNA."
+  },
+  {
+    "id": 565,
+    "category": "Psychologie",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Psychologie · úloha 2 · PDF 25",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 25",
+    "question": "Proč se předškolní věk někdy označuje jako období mnoha otázek „proč“?",
+    "title": "Rozvíjí se řeč, zvídavost a hledání souvislostí",
+    "options": [
+      "Každé dítě ztrácí schopnost poznávat okolí",
+      "Končí veškerý další vývoj myšlení",
+      "Rozvíjí se řeč, zvídavost a hledání souvislostí",
+      "Dítě v tomto věku ještě nemůže mluvit"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Děti se ptají na příčiny a význam jevů a rozšiřují své porozumění světu. Jde o obecnou vývojovou charakteristiku, nikoli povinný počet otázek nebo přesnou hranici u každého dítěte."
+    ],
+    "memory": "Předškolák se ptá, jak svět funguje."
+  },
+  {
+    "id": 566,
+    "category": "Psychologie",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Psychologie · úloha 3 · PDF 25",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 25",
+    "question": "Který problém může doprovázet mentální anorexii?",
+    "title": "Zkreslené hodnocení vlastního těla a intenzivní obavy z přibírání",
+    "options": [
+      "Pouze zánět hrdla",
+      "Zkreslené hodnocení vlastního těla a intenzivní obavy z přibírání",
+      "Vždy ztráta barevného vidění",
+      "Povinně zvýšená chuť k jídlu bez dalších potíží"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Mentální anorexie je závažná porucha příjmu potravy s psychickými i tělesnými dopady. Vztah k tělu může být narušený; jediný uvedený znak však nestačí k určení diagnózy."
+    ],
+    "memory": "Anorexie není pouhé rozhodnutí méně jíst."
+  },
+  {
+    "id": 567,
+    "category": "Biologie",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Biologie · úloha 7 · PDF 47",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 47",
+    "question": "Jaký je základní účinek heparinu?",
+    "title": "Omezuje srážení krve",
+    "options": [
+      "Omezuje srážení krve",
+      "Přímo vytváří fibrinovou síť",
+      "Mění erytrocyty na destičky",
+      "Zvyšuje obsah vápníku v kostech"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Heparin zesiluje působení antitrombinu a tím tlumí některé koagulační enzymy. Jde o antikoagulační účinek, nikoli přímé rozpouštění již vzniklé sraženiny."
+    ],
+    "memory": "Heparin tlumí koagulaci."
+  },
+  {
+    "id": 568,
+    "category": "Genetika",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Genetika · úloha 6 · PDF 65",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 65",
+    "question": "Kdo je proband při sestavování rodokmenu?",
+    "title": "Výchozí osoba, od níž se rodokmen vyšetřuje",
+    "options": [
+      "Vždy nejstarší muž v celé rodině",
+      "Pouze zdravý sourozenec pacienta",
+      "Každá osoba zapsaná v rodokmenu bez rozdílu",
+      "Výchozí osoba, od níž se rodokmen vyšetřuje"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Proband je osoba, která přivedla rodinu k vyšetření nebo je výchozím bodem genealogického záznamu. Nemusí být nejstarším členem ani prvním předkem rodiny."
+    ],
+    "memory": "Proband je výchozí bod rodokmenu."
+  },
+  {
+    "id": 569,
+    "category": "Fyzioterapie",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Fyzioterapie · úloha 1 · PDF 67",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 67",
+    "question": "Co běžně znamená anglická zkratka PT v kontextu fyzioterapie?",
+    "title": "Physical Therapy",
+    "options": [
+      "Protein Transporter",
+      "Pulse Temperature",
+      "Physical Therapy",
+      "Personal Tax"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "V tomto oborovém kontextu zkratka odkazuje na fyzioterapii. Stejná dvě písmena mohou mít v jiných oborech jiný význam, proto je vždy důležitý kontext."
+    ],
+    "memory": "PT zde znamená Physical Therapy."
+  },
+  {
+    "id": 570,
+    "category": "Fyzioterapie",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Fyzioterapie · úloha 3 · PDF 67",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 67",
+    "question": "Co se zjišťuje pomocí dynamometru?",
+    "title": "Síla",
+    "options": [
+      "Saturace hemoglobinu kyslíkem",
+      "Síla",
+      "Elektrická aktivita mozku",
+      "Hustota kostního minerálu"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Dynamometr měří sílu; v rehabilitaci lze takto hodnotit například sílu stisku ruky. Elektromyograf naproti tomu zachycuje elektrickou aktivitu svalu, nikoli přímo stejnou veličinu."
+    ],
+    "memory": "Dynamometr měří sílu."
+  },
+  {
+    "id": 571,
+    "category": "Společenské vědy",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Společenské vědy · ruční poznámky · PDF 71",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 71",
+    "question": "Co patří k obecným znakům právní normy?",
+    "title": "Obecná závaznost a možnost státního vynucení v právním systému",
+    "options": [
+      "Obecná závaznost a možnost státního vynucení v právním systému",
+      "Platnost pouze podle osobní nálady",
+      "Závaznost výhradně pro autora textu",
+      "Úplná nezávislost na právním systému"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Právní norma stanoví pravidlo pro určitý okruh případů a subjektů v uznané právní formě. Obecnost neznamená, že každá norma ukládá stejnou povinnost všem lidem bez rozdílu."
+    ],
+    "memory": "Právní pravidlo má obecný dosah a státní garanci."
+  },
+  {
+    "id": 572,
+    "category": "Psychologie",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Psychologie · ruční poznámky · PDF 71",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 71",
+    "question": "Co je intrapersonální konflikt?",
+    "title": "Střet protichůdných motivů uvnitř jednoho člověka",
+    "options": [
+      "Spor dvou států",
+      "Hádka dvou kolegů jako jediný význam",
+      "Konkurence dvou podniků",
+      "Střet protichůdných motivů uvnitř jednoho člověka"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Člověk může současně chtít dvě neslučitelné věci nebo prožívat rozpor mezi přáním a povinností. Interpersonální konflikt naproti tomu probíhá mezi lidmi."
+    ],
+    "memory": "Intra = uvnitř, inter = mezi."
+  },
+  {
+    "id": 573,
+    "category": "Ekonomie",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Ekonomie · ruční poznámky · PDF 71",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 71",
+    "question": "Co zachycuje hrubý domácí produkt za určité období?",
+    "title": "Hodnotu finálních statků a služeb vytvořených na daném území",
+    "options": [
+      "Pouze příjmy státního rozpočtu",
+      "Součet všech nákupů včetně opakovaně započtených meziproduktů",
+      "Hodnotu finálních statků a služeb vytvořených na daném území",
+      "Celý majetek všech domácností k jednomu dni"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "HDP je tok produkce za období, nikoli zásoba majetku. Finální produkce nebo přidaná hodnota brání opakovanému započítávání téhož meziproduktu v různých stupních výroby."
+    ],
+    "memory": "HDP: produkce na území za období."
+  },
+  {
+    "id": 574,
+    "category": "Etika",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Etika · ruční poznámky · PDF 71",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 71",
+    "question": "Čím se zabývá deskriptivní etika?",
+    "title": "Popisem skutečných morálních názorů a jednání",
+    "options": [
+      "Výpočtem krevního tlaku",
+      "Popisem skutečných morálních názorů a jednání",
+      "Především předpisem, jak má každý jednat",
+      "Výhradně pravopisem odborných pojmů"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Deskriptivní přístup zkoumá, jaké normy a postoje lidé skutečně zastávají. Normativní etika se naproti tomu ptá, které jednání je správné a proč."
+    ],
+    "memory": "Deskriptivní popisuje, normativní hodnotí a předepisuje."
+  },
+  {
+    "id": 575,
+    "category": "Logika",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Logika · ruční poznámky · PDF 71",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 71",
+    "question": "Co je usuzování podle analogie?",
+    "title": "Odvození možné podobnosti v jednom ohledu z podobnosti v jiných ohledech",
+    "options": [
+      "Odvození možné podobnosti v jednom ohledu z podobnosti v jiných ohledech",
+      "Důkaz, že dvě podobné věci jsou ve všem totožné",
+      "Pouhé náhodné hádání bez vztahu mezi případy",
+      "Přímé změření všech vlastností obou předmětů"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Analogie může pomoci vytvořit hypotézu, ale sama nezaručuje správnost závěru. Podobnost musí být pro zkoumanou vlastnost relevantní a závěr je vhodné ověřit."
+    ],
+    "memory": "Podobnost napovídá, ale sama nedokazuje."
+  },
+  {
+    "id": 576,
+    "category": "Genetika",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Genetika · ruční poznámky · PDF 71",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 71",
+    "question": "Co je karyotyp?",
+    "title": "Soubor chromozomů charakterizovaný jejich počtem a stavbou",
+    "options": [
+      "Seznam všech bílkovin v krevní plazmě",
+      "Pouze jedna alela konkrétního genu",
+      "Všechny druhy buněk jednoho orgánu",
+      "Soubor chromozomů charakterizovaný jejich počtem a stavbou"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Vyšetření karyotypu hodnotí chromozomy, například jejich počet a velké strukturní změny. Není totožné se sekvenováním všech jednotlivých genů."
+    ],
+    "memory": "Karyotyp popisuje chromozomy."
+  },
+  {
+    "id": 577,
+    "category": "Genetika",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Genetika · ruční poznámky · PDF 71",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 71",
+    "question": "Kolik chromozomů má běžná zralá lidská gameta po meióze?",
+    "title": "23",
+    "options": [
+      "46 párů",
+      "92",
+      "23",
+      "23 párů"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Gameta má jednu sadu chromozomů, tedy haploidní počet. Po splynutí vajíčka a spermie se při běžném průběhu obnoví diploidní počet 46."
+    ],
+    "memory": "Gameta: 23 jednotlivých chromozomů."
+  },
+  {
+    "id": 578,
+    "category": "Genetika",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Genetika · ruční poznámky · PDF 71",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 71",
+    "question": "Matka má v jednoduchém modelu RhD genotyp dd a otec Dd. Jaká je pravděpodobnost RhD negativního dítěte?",
+    "title": "50 %",
+    "options": [
+      "100 %",
+      "50 %",
+      "0 %",
+      "25 %"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Matka předává vždy d, zatímco otec předá D nebo d se stejnou pravděpodobností. Polovina dětí bude Dd a polovina dd; skutečný systém Rh má složitější genetiku než tento školní model."
+    ],
+    "memory": "dd × Dd dává polovinu dd."
+  },
+  {
+    "id": 579,
+    "category": "Anatomie",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Anatomie · ruční poznámky · PDF 71",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 71",
+    "question": "Jak vzniká typický míšní nerv?",
+    "title": "Spojením předního a zadního kořene míšního nervu",
+    "options": [
+      "Spojením předního a zadního kořene míšního nervu",
+      "Spojením dvou tepen",
+      "Přímým pokračováním pouze svalové šlachy",
+      "Spojením dvou mozkových komor"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Přední kořen obsahuje zejména motorická vlákna a zadní zejména senzitivní. Po jejich spojení je míšní nerv smíšený, tedy vede více druhů informací."
+    ],
+    "memory": "Přední motorický + zadní senzitivní = smíšený nerv."
+  },
+  {
+    "id": 580,
+    "category": "Fyzioterapie",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Fyzioterapie · ruční poznámky · PDF 72",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 72",
+    "question": "Co označuje pasivní pohyb při vyšetření nebo cvičení?",
+    "title": "Pohyb provedený vnější silou bez aktivního provedení daného pohybu pacientem",
+    "options": [
+      "Vždy volní silový výkon pacienta",
+      "Pouze změnu srdeční frekvence",
+      "Každý rychlý běh",
+      "Pohyb provedený vnější silou bez aktivního provedení daného pohybu pacientem"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Vnější silou může být vyšetřující nebo přístroj. Při aktivním pohybu naopak pohyb vykonává pacient zapojením vlastních svalů."
+    ],
+    "memory": "Pasivní pohyb přichází zvenčí."
+  },
+  {
+    "id": 581,
+    "category": "Fyzika",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Fyzika · ruční poznámky · PDF 72",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 72",
+    "question": "Jak se změní moment síly, zkrátí-li se kolmé rameno síly na polovinu při stejné síle?",
+    "title": "Zmenší se na polovinu",
+    "options": [
+      "Zvětší se čtyřikrát",
+      "Nezmění se",
+      "Zmenší se na polovinu",
+      "Zdvojnásobí se"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Velikost momentu je M = F·r, kde r je kolmá vzdálenost osy otáčení od nositelky síly. Při stejné síle je tedy přímo úměrný tomuto rameni."
+    ],
+    "memory": "Poloviční rameno, poloviční moment."
+  },
+  {
+    "id": 582,
+    "category": "Matematika",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Matematika · ruční poznámky · PDF 72",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 72",
+    "question": "Za jak dlouho se vyprázdní nádrž o objemu 96 m³ při stálém odtoku 25 litrů za minutu bez přítoku?",
+    "title": "Za 64 hodin",
+    "options": [
+      "Za 640 minut",
+      "Za 64 hodin",
+      "Za 8 hodin",
+      "Za 6,4 hodiny"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "96 m³ je 96 000 litrů. Čas je 96 000 / 25 = 3 840 minut, po dělení 60 dostaneme 64 hodin; za osm hodin by odteklo jen 12 000 litrů."
+    ],
+    "memory": "Nejprve stejné jednotky, potom objem dělit průtokem."
+  },
+  {
+    "id": 583,
+    "category": "Psychologie",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Psychologie · ruční poznámky · PDF 72",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 72",
+    "question": "Co zdůrazňuje psychosomatické pojetí zdraví?",
+    "title": "Vzájemné souvislosti psychických a tělesných dějů",
+    "options": [
+      "Vzájemné souvislosti psychických a tělesných dějů",
+      "Že každá tělesná nemoc je pouze vymyšlená",
+      "Že psychika nikdy neovlivní tělo",
+      "Že tělo nemůže ovlivnit prožívání"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Psychické zatížení může ovlivňovat tělesné funkce a nemoc zase psychické prožívání. Toto pojetí nepopírá biologické příčiny ani potřebu tělesného vyšetření."
+    ],
+    "memory": "Psychika a tělo se navzájem ovlivňují."
+  },
+  {
+    "id": 584,
+    "category": "Chemie",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Chemie · ruční poznámky · PDF 72",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 72",
+    "question": "Co znamená údaj 0,9 % NaCl, je-li výslovně uvedeno vyjádření hmotnost/objem?",
+    "title": "0,9 g NaCl ve 100 ml výsledného roztoku",
+    "options": [
+      "0,9 g NaCl ve 100 litrech roztoku",
+      "9 g NaCl v každém mililitru",
+      "90 g NaCl ve 100 ml roztoku",
+      "0,9 g NaCl ve 100 ml výsledného roztoku"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "U procent hmotnost/objem vyjadřuje číslo gramy látky na 100 ml celého roztoku. Toto zadání je nutné odlišit od hmotnostního procenta vyjádřeného na 100 g roztoku."
+    ],
+    "memory": "0,9 % m/V = 0,9 g na 100 ml."
+  },
+  {
+    "id": 585,
+    "category": "Matematika",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Matematika · ruční poznámky · PDF 72",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 72",
+    "question": "Člověk stojí čelem na sever a otočí se o 90° doprava. Kam se nyní dívá?",
+    "title": "Na východ",
+    "options": [
+      "Na jih",
+      "Stále na sever",
+      "Na východ",
+      "Na západ"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Pravý úhel je čtvrtina plného otočení. Při pohledu na sever leží východ po pravé ruce; další stejná otočení by vedla na jih a západ."
+    ],
+    "memory": "Sever → doprava → východ."
+  },
+  {
+    "id": 586,
+    "category": "Dějiny zdravotnictví",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Dějiny zdravotnictví · úloha 7 · PDF 1",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 1",
+    "question": "Kdo byl Nikolaj Ivanovič Pirogov?",
+    "title": "Ruský lékař a chirurg podílející se na organizaci péče o raněné v krymské válce",
+    "options": [
+      "Anglický fyzik objevující elektron",
+      "Ruský lékař a chirurg podílející se na organizaci péče o raněné v krymské válce",
+      "Francouzský malíř a zakladatel impresionismu",
+      "První prezident Československa"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Pirogov je spojen s válečnou chirurgií a zapojením vyškolených ošetřovatelek do péče o raněné. Nešlo o vojenského velitele, jak naznačují nesprávné možnosti původního testu."
+    ],
+    "memory": "Pirogov byl chirurg, ne vojevůdce."
+  },
+  {
+    "id": 587,
+    "category": "Anatomie",
+    "bookRef": "České Budějovice testy 2024.pdf · 2024 · Anatomie · úloha 8 · PDF 3",
+    "sourceFile": "České Budějovice testy 2024.pdf",
+    "sourcePages": "PDF 3",
+    "question": "Ve které části nadledviny se tvoří kortizol?",
+    "title": "V kůře nadledviny",
+    "options": [
+      "V kůře nadledviny",
+      "Ve dřeni nadledviny",
+      "V ledvinné pánvičce",
+      "V močovém měchýři"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Kortizol patří mezi glukokortikoidy tvořené kůrou nadledvin. Dřeň vytváří především katecholaminy, například adrenalin, a je funkčně odlišnou částí orgánu."
+    ],
+    "memory": "Kortizol patří ke kůře."
+  },
+  {
+    "id": 588,
+    "category": "Anatomie",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Anatomie · úloha 8 · PDF 13",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 13",
+    "question": "Které tři kosti se účastní loketního kloubu?",
+    "title": "Pažní, loketní a vřetenní",
+    "options": [
+      "Klíční, lopatka a pažní",
+      "Stehenní, holenní a lýtková",
+      "Čelní, temenní a týlní",
+      "Pažní, loketní a vřetenní"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Loketní kloub spojuje dolní konec pažní kosti s horními konci kostí předloktí. Loketní kost leží při anatomické poloze na malíkové a vřetenní na palcové straně."
+    ],
+    "memory": "Loket propojuje paži s oběma kostmi předloktí."
+  },
+  {
+    "id": 589,
+    "category": "Biologie",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Biologie · úloha 10 · PDF 54",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 54",
+    "question": "Do které složky imunity se primárně řadí makrofágy?",
+    "title": "Do vrozené imunity",
+    "options": [
+      "Mezi červené krvinky",
+      "Do srdečního převodního systému",
+      "Do vrozené imunity",
+      "Pouze mezi buňky tvořící specifické protilátky"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Makrofágy pohlcují částice a mikroorganismy a účastní se zánětlivé odpovědi. Mohou zároveň prezentovat antigen a propojovat vrozenou a adaptivní imunitu, takže označení vrozené neznamená izolaci od ostatních složek."
+    ],
+    "memory": "Makrofág pohlcuje a pomáhá koordinovat obranu."
+  },
+  {
+    "id": 590,
+    "category": "Fyzioterapie",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Fyzioterapie · úloha 2 · PDF 67",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 67",
+    "question": "Jak se liší manuální lymfodrenáž od přístrojové pneumatické komprese?",
+    "title": "První využívá ruční techniku, druhá tlakové komory či manžety",
+    "options": [
+      "Obě vyžadují chirurgické otevření mízovodu",
+      "První využívá ruční techniku, druhá tlakové komory či manžety",
+      "První měří EKG a druhá EEG",
+      "Obě jsou pouze názvy krevních testů"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Jde o odlišné prostředky používané v rámci péče o některé mízní otoky. Označení metod nevypovídá o jejich vhodnosti pro každého člověka a samo není návodem k použití."
+    ],
+    "memory": "Manuální = ručně, přístrojová = pomocí zařízení."
+  },
+  {
+    "id": 591,
+    "category": "Fyzioterapie",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Fyzioterapie · ruční poznámky · PDF 72",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 72",
+    "question": "Co znamená zkratka DNS v konceptu spojeném s Pavlem Kolářem?",
+    "title": "Dynamická neuromuskulární stabilizace",
+    "options": [
+      "Dynamická neuromuskulární stabilizace",
+      "Difuzní nervová skleróza",
+      "Denzitometrická nukleární spektroskopie",
+      "Digitální nutriční soustava"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "DNS vychází z vývojové kineziologie a zabývá se koordinací stabilizačních a pohybových funkcí. V tomto fyzioterapeutickém kontextu nejde o stejnojmennou zkratku služby doménových jmen v informatice."
+    ],
+    "memory": "Kolářova DNS = dynamická neuromuskulární stabilizace."
+  },
+  {
+    "id": 592,
+    "category": "Biologie",
+    "bookRef": "České Budějovice TESTY 2024 nové.pdf · 2024 · Biologie · ruční poznámky · PDF 72",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 72",
+    "question": "Co znamená neuroplasticita?",
+    "title": "Schopnost nervové soustavy měnit své funkční a strukturální uspořádání podle zkušenosti a podmínek",
+    "options": [
+      "Úplnou neměnnost všech nervových spojení od narození",
+      "Přeměnu každého neuronu v kostní buňku",
+      "Pouze tvorbu mozkomíšního moku",
+      "Schopnost nervové soustavy měnit své funkční a strukturální uspořádání podle zkušenosti a podmínek"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Plastické změny se podílejí na učení i přizpůsobování po poškození. Neznamenají automatickou nebo neomezenou obnovu každé ztracené funkce."
+    ],
+    "memory": "Neuroplasticita umožňuje přizpůsobení nervových spojení."
+  },
+  {
+    "id": 593,
+    "category": "Biologie",
+    "bookRef": "České Budějovice testy 2024.pdf · 2024 · Biologie · úloha 10 · PDF 4",
+    "sourceFile": "České Budějovice testy 2024.pdf",
+    "sourcePages": "PDF 4",
+    "question": "Co znamená aerobní získávání energie v buňce?",
+    "title": "Využití kyslíku při buněčném dýchání",
+    "options": [
+      "Získávání energie výhradně bez kyslíku",
+      "Přeměnu kyslíku na DNA",
+      "Využití kyslíku při buněčném dýchání",
+      "Tvorbu organických látek fotosyntézou bez světla"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Většina lidských orgánů významně spoléhá na aerobní tvorbu ATP v mitochondriích. Neplatí to bez výjimky pro všechny buňky, například zralé erytrocyty mitochondrie nemají."
+    ],
+    "memory": "Aerobní metabolismus využívá kyslík."
+  },
+  {
+    "id": 594,
+    "category": "Anatomie",
+    "bookRef": "České Budějovice TESTY 2019, 2021, 2022.pdf · 2019 · Anatomie · úloha 36 · PDF 268",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 268",
+    "question": "Kolik párů hlavových nervů se rozlišuje v základním popisu člověka?",
+    "title": "12",
+    "options": [
+      "31",
+      "12",
+      "10",
+      "23"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Hlavové nervy vycházejí z mozku či jeho přidružených struktur. Počet 31 párů se týká míšních nervů, které vystupují z míchy."
+    ],
+    "memory": "Hlavových 12, míšních 31 párů."
+  },
+  {
+    "id": 595,
+    "category": "Biologie",
+    "bookRef": "České Budějovice TESTY 2019, 2021, 2022.pdf · 2019 · Biologie · úloha 43 · PDF 274",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 274",
+    "question": "Co charakterizuje Alzheimerovu nemoc?",
+    "title": "Neurodegenerativní onemocnění často vedoucí k postupnému zhoršování paměti a dalších poznávacích funkcí",
+    "options": [
+      "Neurodegenerativní onemocnění často vedoucí k postupnému zhoršování paměti a dalších poznávacích funkcí",
+      "Běžná nevyhnutelná součást každého stárnutí",
+      "Výhradně onemocnění srdečních chlopní",
+      "Přemnožení svalových vláken"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Nemoc postupně narušuje fungování a přežívání nervových buněk. Je častější ve vyšším věku, ale není normálním stárnutím a může se objevit i dříve."
+    ],
+    "memory": "Alzheimerova nemoc není běžné zapomínání stářím."
+  },
+  {
+    "id": 596,
+    "category": "Anatomie",
+    "bookRef": "České Budějovice TESTY 2019, 2021, 2022.pdf · 2019 · Anatomie · úloha 47 · PDF 275",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 275",
+    "question": "Jak spolu obvykle souvisejí vlasový folikul a kožní mazová žláza?",
+    "title": "Mazová žláza obvykle ústí do vlasového folikulu",
+    "options": [
+      "Vlasový folikul je součástí ledviny",
+      "Mazová žláza vytváří přímo krevní plazmu",
+      "Jsou vždy ve zcela různých orgánech",
+      "Mazová žláza obvykle ústí do vlasového folikulu"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Folikul obklopuje kořen vlasu a bývá spojen s mazovou žlázou i drobným vzpřimovačem chlupu. Maz se přes folikul dostává k povrchu kůže a vlasu."
+    ],
+    "memory": "Folikul, mazová žláza a vzpřimovač tvoří funkční celek."
+  },
+  {
+    "id": 597,
+    "category": "Genetika",
+    "bookRef": "České Budějovice TESTY 2019, 2021, 2022.pdf · 2019 · Genetika · úloha 49 · PDF 275",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 275",
+    "question": "Mezi čím se vyjadřuje dominance a recesivita při běžném mendelovském popisu znaku?",
+    "title": "Mezi alelami téhož genu při jejich společném výskytu v heterozygotovi",
+    "options": [
+      "Mezi dvěma celými biologickými druhy",
+      "Mezi libovolnými dvěma chromozomy bez vztahu ke genu",
+      "Mezi alelami téhož genu při jejich společném výskytu v heterozygotovi",
+      "Mezi jakýmikoli dvěma různými orgány"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Dominance popisuje vztah projevů alel u heterozygota pro daný znak a podmínky. Neříká automaticky, že dominantní alela je častější, výhodnější nebo silnější ve všech významech."
+    ],
+    "memory": "Dominance je vztah alel, ne měřítko jejich hodnoty."
+  },
+  {
+    "id": 598,
+    "category": "Anatomie",
+    "bookRef": "České Budějovice TESTY 2019, 2021, 2022.pdf · 2019 · Anatomie · úloha 3 · PDF 264",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 264",
+    "question": "Jak se může obsah dvanáctníku podílet na řízení vyprazdňování žaludku?",
+    "title": "Zpětnou vazbou může vyprazdňování zpomalit podle složení a množství obsahu",
+    "options": [
+      "Přeměňuje žaludeční kyselinu na krevní barvivo",
+      "Zpětnou vazbou může vyprazdňování zpomalit podle složení a množství obsahu",
+      "Nemůže žaludek nijak ovlivnit",
+      "Vždy okamžitě zcela vyprázdní žaludek"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Střevo musí dostat čas na zpracování přijaté tráveniny. Nervové a hormonální signály mohou tlumit další přísun, například když je obsah příliš kyselý nebo bohatý na tuk."
+    ],
+    "memory": "Dvanáctník reguluje, jak rychle žaludek předává obsah."
+  },
+  {
+    "id": 599,
+    "category": "Anatomie",
+    "bookRef": "České Budějovice TESTY 2019, 2021, 2022.pdf · 2019 · Anatomie · úloha 32 · PDF 202",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 202",
+    "question": "Která část mozkového kmene obsahuje důležité okruhy pro autonomní regulaci srdce a cév?",
+    "title": "Prodloužená mícha",
+    "options": [
+      "Prodloužená mícha",
+      "Mozková kůra týlního laloku jako jediné centrum",
+      "Mozečková kůra jako jediný řídicí orgán",
+      "Pouze čelní dutina"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Okruhy prodloužené míchy se podílejí například na reflexních úpravách srdeční činnosti a cévního tonu. Srdce má přitom vlastní automacii; nervová regulace ji upravuje, nikoli nahrazuje každý vzruch.",
+      "V prodloužené míše jsou také okruhy pro dýchání. Na tvorbě a porozumění řeči se podílejí zejména sítě v mozkové kůře."
+    ],
+    "memory": "Prodloužená mícha upravuje srdeční a cévní činnost."
+  },
+  {
+    "id": 600,
+    "category": "Anatomie",
+    "bookRef": "České Budějovice TESTY 2019, 2021, 2022.pdf · 2019 · Anatomie · úloha 34 · PDF 267",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 267",
+    "question": "Jaké jsou základní opačné účinky inzulinu a glukagonu na glykemii?",
+    "title": "Inzulin ji snižuje, glukagon ji zvyšuje",
+    "options": [
+      "Oba ji vždy snižují na nulu",
+      "Inzulin ji zvyšuje a glukagon snižuje",
+      "Ani jeden s hladinou glukózy nesouvisí",
+      "Inzulin ji snižuje, glukagon ji zvyšuje"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Inzulin podporuje využití a ukládání živin, zatímco glukagon podporuje uvolňování glukózy z jater. Jde o součást souhry více hormonů při udržování dostupnosti energie."
+    ],
+    "memory": "Inzulin ukládá, glukagon uvolňuje glukózu."
+  }
+]

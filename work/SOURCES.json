@@ -1,0 +1,62 @@
+[
+  {
+    "path": "798920109-Somatologie.pdf",
+    "bytes": 6773790,
+    "sha256": "3e8050ae6416705268ca4eeb3877ecc14e2c443a908aad66cd700fae451beceb",
+    "usedForCurrentQuiz": true
+  },
+  {
+    "path": "Assets/623763327-biologie-cloveka.pdf",
+    "bytes": 65879436,
+    "sha256": "f0cef3f6bab96ee1a7b0497f370da88f2e5aa8e4113b84fc056f666eb226a752",
+    "usedForCurrentQuiz": true
+  },
+  {
+    "path": "MUNI/877344967-LF-MU-Modelove-Otazky-New.pdf",
+    "bytes": 130367802,
+    "sha256": "8050da2875274719661795f2eea9e2ce3d979a6abdf3b85b2225673313ab0a08",
+    "usedForCurrentQuiz": false
+  },
+  {
+    "path": "MUNI/916110468-Modelove-Testove-Otazky-k-Přijimacim-Zkouškam-Na-LF-MU-fyzika-chemie-biologie-Vojtěch-Mornstein-Jiři-Dostal-Iva-Slaninov.pdf",
+    "bytes": 5617235,
+    "sha256": "5807dc75ce76145d1830276aa8ea277d3b7390daaa131300f7a89bd1ce873d96",
+    "usedForCurrentQuiz": false
+  },
+  {
+    "path": "České Budějovice Testy/prilohy_6393.zip",
+    "bytes": 4835825,
+    "sha256": "fe7a429bf81a7dce2c417d657ecf9462694434d6f7e26bd11d2ed6c360114e93",
+    "usedForCurrentQuiz": true
+  },
+  {
+    "path": "České Budějovice Testy/České Budějovice test 2019 oprava6.pdf",
+    "bytes": 438952,
+    "sha256": "b6028f77fe73ba9d6d7570a0939ac0a79b1bf20bfe0e7a6b0b4ad8e92f60fccd",
+    "usedForCurrentQuiz": true
+  },
+  {
+    "path": "České Budějovice Testy/České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "bytes": 10080463,
+    "sha256": "e37ba0e741edb97c7cb1d2fb9f12027e2a11cffeb54bfac8a75c833e0ce15a16",
+    "usedForCurrentQuiz": true
+  },
+  {
+    "path": "České Budějovice Testy/České Budějovice TESTY 2024 nové.pdf",
+    "bytes": 1980258,
+    "sha256": "5f3965355168ee2df226b2bc09862aee062348a2e3767e19769b8a4ef016d2f9",
+    "usedForCurrentQuiz": true
+  },
+  {
+    "path": "České Budějovice Testy/České Budějovice testy 2024 oprava6.pdf",
+    "bytes": 65606,
+    "sha256": "37c7eb9717171d6d1e4a883e45bebcd575464b3574e2208ffef836c4b7144c41",
+    "usedForCurrentQuiz": true
+  },
+  {
+    "path": "České Budějovice Testy/České Budějovice testy 2024.pdf",
+    "bytes": 116625,
+    "sha256": "13332f06087a3e466300b288299d3972dcdb6ce11da48c0459746c812e433536",
+    "usedForCurrentQuiz": true
+  }
+]

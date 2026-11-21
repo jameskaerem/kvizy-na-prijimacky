@@ -1,0 +1,202 @@
+[
+  {
+    "id": 661,
+    "category": "Fyziologie",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 37 · PDF 268",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 268",
+    "question": "Kolik mozkomíšního moku má typický dospělý v mozkových komorách a pod pavučnicí dohromady v daném okamžiku?",
+    "title": "Asi 150 ml",
+    "options": [
+      "Asi 15 ml",
+      "Asi 150 ml",
+      "Asi 500 ml",
+      "Asi 1 500 ml"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Orientační celkový objem je 150 ml. Za den vzniká více moku, protože se během dne průběžně tvoří i vstřebává."
+    ],
+    "memory": "Objem přítomný v jednom okamžiku je asi 150 ml."
+  },
+  {
+    "id": 662,
+    "category": "Svaly",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 4 · PDF 103",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 103",
+    "question": "Které uspořádání vytváří pravidelné příčné pruhování kosterní svaloviny?",
+    "title": "Rozložení tenkých a silných filament v opakujících se sarkomerách",
+    "options": [
+      "Střídání jednotlivých nervů a kapilár podél svalu",
+      "Střídání svalových vláken různého průměru",
+      "Rozložení tenkých a silných filament v opakujících se sarkomerách",
+      "Rozložení jader pod povrchem svalového vlákna"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Sarkomery jsou seřazené za sebou v myofibrilách. V každé z nich se určitým způsobem překrývají tenká aktinová a silná myozinová filamenta. Na mikroskopickém obraze proto vidíme střídání světlých a tmavých pásů."
+    ],
+    "memory": "Pruhy vycházejí z uspořádání filament uvnitř sarkomer."
+  },
+  {
+    "id": 663,
+    "category": "Páteř",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 1 · PDF 58",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 58",
+    "question": "Kolik obratlů mívá člověk v krčním, hrudním a bederním úseku v tomto pořadí?",
+    "title": "7, 12 a 5",
+    "options": [
+      "7, 12 a 5",
+      "5, 12 a 7",
+      "7, 10 a 5",
+      "8, 12 a 4"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "V krčním úseku je obvykle sedm obratlů, v hrudním dvanáct a v bederním pět. Pod bederním úsekem následují křížová kost a kostrč."
+    ],
+    "memory": "Krční 7, hrudní 12, bederní 5."
+  },
+  {
+    "id": 664,
+    "category": "Ekonomie",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 19 · PDF 54",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 54",
+    "question": "Co se podle zákona poptávky obvykle stane s poptávaným množstvím statku, když jeho cena vzroste a ostatní podmínky se nezmění?",
+    "title": "Klesne",
+    "options": [
+      "Vzroste ve stejném poměru jako cena",
+      "Zůstane ze zákona stejné",
+      "Nelze určit ani obvyklý směr změny",
+      "Klesne"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Zákon poptávky popisuje nepřímý vztah mezi cenou a poptávaným množstvím při jinak stejných podmínkách. Změna vlastní ceny vede k pohybu podél poptávkové křivky."
+    ],
+    "memory": "Vyšší cena obvykle znamená menší poptávané množství."
+  },
+  {
+    "id": 665,
+    "category": "Anatomie",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 40 · PDF 74",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 74",
+    "question": "Které struktury vedou mízu z tkání a kterými orgány míza po cestě obvykle prochází?",
+    "title": "Mízní cévy ji vedou přes mízní uzliny",
+    "options": [
+      "Mízní cévy ji vedou přes mízní uzliny",
+      "Tepny ji vedou přes slezinu",
+      "Žlučovody ji vedou přes játra",
+      "Močovody ji vedou přes ledviny"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Mízní cévy odvádějí tkáňový mok, který se po vstupu do nich nazývá míza. Uzliny na cestě mízu filtrují. K mízní soustavě patří také brzlík a slezina, které mají jiné úlohy."
+    ],
+    "memory": "Mízní cévy vedou, mízní uzliny filtrují."
+  },
+  {
+    "id": 666,
+    "category": "Svaly",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 37 · PDF 119",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 119",
+    "question": "Která dvojice situací ukazuje nejprve zkrácení aktivního svalu a potom vytvoření napětí bez podstatné změny jeho celkové délky?",
+    "title": "Zvednutí činky ohnutím lokte a pak výdrž v pevné poloze",
+    "options": [
+      "Držení činky v pevné poloze a poté její zvednutí ohnutím lokte",
+      "Dvě zvednutí činky stejným pohybem",
+      "Zvednutí činky ohnutím lokte a pak výdrž v pevné poloze",
+      "Výdrž v pevné poloze a poté odložení činky bez zátěže"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Při zvednutí činky se ohybače lokte zkracují. Při výdrži proti tíze dál vyvíjejí sílu, přestože se úhel v lokti a celková délka svalu podstatně nemění. Druhá situace je příkladem izometrické kontrakce."
+    ],
+    "memory": "Zvednutí mění délku, při výdrži sval udržuje napětí."
+  },
+  {
+    "id": 667,
+    "category": "Krev a oběh",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 5 · PDF 70",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 70",
+    "question": "Která dvojice živin je důležitá při tvorbě erytrocytů pro stavbu hemu a pro normální dělení buněk, v tomto pořadí?",
+    "title": "Železo a vitamin B12",
+    "options": [
+      "Vápník a vitamin D",
+      "Železo a vitamin B12",
+      "Hořčík a vitamin K",
+      "Jód a vitamin E"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Železo je součástí hemu v hemoglobinu. Vitamin B12 pomáhá udržet normální syntézu DNA při dělení buněk, z nichž červené krvinky vznikají."
+    ],
+    "memory": "Železo je pro hem, B12 pro dělení prekurzorů."
+  },
+  {
+    "id": 668,
+    "category": "Krev a oběh",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 21 · PDF 72",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 72",
+    "question": "Kde může u zdravého dítěte na rozdíl od většiny dospělých běžně probíhat krvetvorba?",
+    "title": "V červené dřeni v dřeňových dutinách dlouhých kostí",
+    "options": [
+      "V kloubním prostoru kolena",
+      "Ve sklovině dočasných zubů",
+      "Ve stěně velkých tepen",
+      "V červené dřeni v dřeňových dutinách dlouhých kostí"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "V dětství zasahuje aktivní červená dřeň do větší části dlouhých kostí. S věkem ji tam z velké části nahrazuje žlutá dřeň. U dospělého zůstává aktivní krvetvorba hlavně v kostech trupu a pánve a také v některých proximálních částech dlouhých kostí."
+    ],
+    "memory": "Dětské dlouhé kosti obsahují více aktivní dřeně."
+  },
+  {
+    "id": 669,
+    "category": "Nervová soustava",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 14 · PDF 116",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 116",
+    "question": "Které tři obaly chrání míchu v páteřním kanálu, od povrchu směrem k míše?",
+    "title": "Tvrdá plena, pavučnice a omozečnice",
+    "options": [
+      "Tvrdá plena, pavučnice a omozečnice",
+      "Pavučnice, tvrdá plena a omozečnice",
+      "Omozečnice, pavučnice a tvrdá plena",
+      "Okostice, tvrdá plena a pavučnice"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Tvrdá plena je zevní, pavučnice prostřední a omozečnice těsně přiléhá k míše. Z míchy vystupuje obvykle 31 párů míšních nervů."
+    ],
+    "memory": "Tvrdá plena je venku, omozečnice přiléhá k míše."
+  },
+  {
+    "id": 670,
+    "category": "Trávení",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 10 · PDF 71",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 71",
+    "question": "Která z hodnot pH nejlépe odpovídá silně kyselému obsahu žaludku nalačno?",
+    "title": "pH 2",
+    "options": [
+      "pH 7",
+      "pH 9",
+      "pH 2",
+      "pH 12"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Kyselina chlorovodíková udržuje žaludeční obsah kyselý. Hodnota kolísá a po jídle se může dočasně zvýšit. Kyselé prostředí umožňuje aktivaci pepsinogenu a působení pepsinu."
+    ],
+    "memory": "Žaludek nalačno má nízké pH, řádově kolem 2."
+  }
+]

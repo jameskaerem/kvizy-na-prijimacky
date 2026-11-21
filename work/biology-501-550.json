@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 501,
+    "category": "Řízení pohybu",
+    "bookRef": "str. 129",
+    "sourcePages": "129",
+    "question": "Co znamená lokomoce?",
+    "options": [
+      "Tvorbu nervových buněk v embryu",
+      "Pohyb organismu z místa na místo",
+      "Jakýkoli vznik elektrického napětí v buňce",
+      "Pouze stah hladkého svalu žaludku"
+    ],
+    "answer": 1,
+    "title": "Lokomoce mění místo organismu",
+    "paragraphs": [
+      "Lokomoce je přemisťování těla z místa na místo. Jde o určitý typ pohybové činnosti, například chůzi.",
+      "Představ si rozdíl mezi přesunem po místnosti a pouhým pohybem prstu na stejném místě. Obojí je pohyb, ale ne každý pohyb je lokomoce.",
+      "Pohyb je širší pojem. Patří sem také reflexní odtažení, změny postoje nebo další činnosti bez přesunu celého těla."
+    ],
+    "memory": "Lokomoce = přemístění z místa na místo."
+  },
+  {
+    "id": 502,
+    "category": "Řízení pohybu",
+    "bookRef": "str. 129–130",
+    "sourcePages": "129–130",
+    "question": "Které tři úrovně řízení motoriky základně rozlišuje učebnice?",
+    "options": [
+      "Glomerulus, močovod a měchýř",
+      "Sklovina, dentin a zubní dřeň",
+      "Mícha, mozkový kmen a mozková kůra",
+      "Pokožka, škára a podkoží"
+    ],
+    "answer": 2,
+    "title": "Pohybové řízení má více propojených úrovní",
+    "paragraphs": [
+      "Učebnice rozlišuje míšní, kmenovou a korovou úroveň řízení motorické činnosti. Jejich činnost na sebe navazuje a vzájemně se ovlivňuje.",
+      "Představ si místní obvody, širší řízení a plánování složitějšího výkonu. V běžném pohybu pracují propojeně.",
+      "Toto členění nevylučuje význam mozečku nebo bazálních ganglií. Jsou součástí širších motorických sítí."
+    ],
+    "memory": "Základní úrovně: mícha, kmen, kůra."
+  },
+  {
+    "id": 503,
+    "category": "Řízení pohybu",
+    "bookRef": "str. 130",
+    "sourcePages": "130",
+    "question": "Co propojuje kortikospinální dráha podle svého názvu?",
+    "options": [
+      "Močový měchýř s ledvinnou pánvičkou",
+      "Sítnici přímo s pokožkou",
+      "Pouze levou a pravou mozkovou komoru",
+      "Mozkovou kůru s míšními motorickými obvody"
+    ],
+    "answer": 3,
+    "title": "Kortiko znamená kůra, spinální mícha",
+    "paragraphs": [
+      "Kortikospinální dráha vede z mozkové kůry do míchy. Je důležitou cestou, kterou korová centra ovlivňují pohybové obvody.",
+      "Představ si sestupné vedení od plánovacích a motorických oblastí k míšním výstupům. Název pomáhá určit jeho počátek a cíl.",
+      "Nemusí každý její axon končit přímo na somatickém motoneuronu. Řada vláken působí přes míšní interneurony."
+    ],
+    "memory": "Kortikospinální = kůra → mícha."
+  },
+  {
+    "id": 504,
+    "category": "Řízení pohybu",
+    "bookRef": "str. 130",
+    "sourcePages": "130",
+    "question": "S jakým typem pohybů je výrazně spojena kortikospinální soustava?",
+    "options": [
+      "S přesnými a zručnými cílenými pohyby, například ruky",
+      "Výhradně s posunem žluči do střeva",
+      "Jen s mimovolním stahováním duhovky",
+      "Pouze s pohybem řasinek dýchacích cest"
+    ],
+    "answer": 0,
+    "title": "Přesná motorika využívá sestupné korové řízení",
+    "paragraphs": [
+      "Kortikospinální soustava má význam pro přesné cílené pohyby. U člověka je důležitá například pro jemnou obratnost ruky.",
+      "Představ si uchopení drobného předmětu nebo přesnou práci prstů. Vyžaduje pečlivé řízení jednotlivých svalových skupin.",
+      "Ani takový pohyb nevzniká činností jedné izolované dráhy. Spolupracuje více korových, podkorových i míšních obvodů."
+    ],
+    "memory": "Kortikospinální soustava pomáhá jemné cílené motorice."
+  },
+  {
+    "id": 505,
+    "category": "Řízení pohybu",
+    "bookRef": "str. 130",
+    "sourcePages": "130",
+    "question": "Co znamená nepřímé sestupné řízení pohybu v popisu učebnice?",
+    "options": [
+      "Sval musí sám vytvořit mozkovou kůru",
+      "Korové vlivy se před dosažením míšních obvodů přepojují i v dalších mozkových centrech",
+      "Signál vůbec nevyužívá neurony",
+      "Každý povel obchází míchu přes krevní oběh"
+    ],
+    "answer": 1,
+    "title": "Nepřímé řízení zahrnuje další nervové články",
+    "paragraphs": [
+      "Nepřímé motorické cesty využívají další přepojení, mimo jiné v mozkovém kmeni. Umožňují zapojení širších souvislostí pohybu a postoje.",
+      "Představ si pokyn, který se po cestě zpracuje v dalším řídicím uzlu. Není to nutně jediná nepřerušená linka od kůry ke konečnému výstupu.",
+      "Přímé a nepřímé řízení nejsou dvě vzájemně vyloučené možnosti. Při normálním pohybu spolu různé systémy spolupracují."
+    ],
+    "memory": "Nepřímá cesta využívá další řídicí přepojení."
+  },
+  {
+    "id": 506,
+    "category": "Řízení pohybu",
+    "bookRef": "str. 130–131",
+    "sourcePages": "130–131",
+    "question": "Co znamená opěrná motorika v základním popisu?",
+    "options": [
+      "Jen trávení škrobu v ústech",
+      "Výhradně pohyb buněčných organel v neuronu",
+      "Činnost pomáhající udržovat polohu a postoj při dalších pohybech",
+      "Pouze vědomé vyslovování jednotlivých slov"
+    ],
+    "answer": 2,
+    "title": "Cílený pohyb potřebuje také stabilní oporu",
+    "paragraphs": [
+      "Opěrná motorika souvisí s nastavením polohy těla a udržením postoje. Vytváří podmínky pro cílené pohyby jednotlivých částí.",
+      "Představ si sáhnutí pro předmět ve stoje. Vedle ruky pracují i další svaly, které brání ztrátě rovnováhy.",
+      "Opěrné a cílené složky se při skutečném pohybu kombinují. Není vhodné jednu z nich chápat jako zbytečný doplněk."
+    ],
+    "memory": "Opěrná motorika drží postoj pro další pohyb."
+  },
+  {
+    "id": 507,
+    "category": "Řízení pohybu",
+    "bookRef": "str. 131",
+    "sourcePages": "131",
+    "question": "Proč levá motorická kůra výrazně ovlivňuje pravostranné končetiny?",
+    "options": [
+      "Protože všechny svaly mají dvě levé poloviny",
+      "Protože pravá část těla nemá vlastní nervy",
+      "Protože mozkové hemisféry nejsou nijak propojené",
+      "Významná část kortikospinálních vláken se kříží na opačnou stranu"
+    ],
+    "answer": 3,
+    "title": "Křížení mění stranu působení",
+    "paragraphs": [
+      "Velká část kortikospinálních vláken se kříží, především v dolní části prodloužené míchy. Korové řízení končetin je proto výrazně kontralaterální.",
+      "Představ si vedení, které po cestě přechází na druhou stranu. Levý začátek pak může ovlivňovat pravostranný výstup.",
+      "Ne všechny motorické dráhy ani všechny svaly se řídí přesně stejným jednostranným schématem. Otázka zdůrazňuje hlavní vztah ke končetinám."
+    ],
+    "memory": "Křížení drah: levá kůra výrazně řídí pravou stranu."
+  },
+  {
+    "id": 508,
+    "category": "Řízení pohybu",
+    "bookRef": "str. 131",
+    "sourcePages": "131",
+    "question": "Jaké dvě informace mozeček porovnává při zpětnovazební kontrole pohybu?",
+    "options": [
+      "Informaci o zamýšlené činnosti a zpětné informace o skutečném provedení",
+      "Jen počet zubů a barvu očí",
+      "Pouze množství moči a velikost sleziny",
+      "Délku vlasů a hladinu kožního mazu"
+    ],
+    "answer": 0,
+    "title": "Plán se porovnává se skutečností",
+    "paragraphs": [
+      "Mozeček dostává motorické informace o plánovaném výkonu a smyslové informace o probíhajícím pohybu. Porovnání přispívá k úpravám koordinace.",
+      "Představ si kontrolu, zda skutečná poloha odpovídá cíli. Pokud se liší, může řídicí síť pomoci výkon korigovat.",
+      "Mozeček svaly neopravuje mechanickým dotykem. Zasahuje prostřednictvím nervových obvodů spolupracujících s dalšími motorickými oblastmi."
+    ],
+    "memory": "Mozeček porovnává plán pohybu s provedením."
+  },
+  {
+    "id": 509,
+    "category": "Řízení pohybu",
+    "bookRef": "str. 131",
+    "sourcePages": "131",
+    "question": "Proč může být pro cílený pohyb důležitá předchozí zkušenost?",
+    "options": [
+      "Protože po naučení už pohyb nepotřebuje nervové řízení",
+      "Pomáhá připravit a přizpůsobit pohybový program situaci",
+      "Protože bez zkušenosti neexistuje žádný vrozený reflex",
+      "Protože každá zkušenost mění všechny svaly na neurony"
+    ],
+    "answer": 1,
+    "title": "Zkušenost pomáhá plánovat pohyb",
+    "paragraphs": [
+      "Při plánování pohybu mozek využívá současné informace i dřívější zkušenosti. Výkon se tak může přizpůsobovat úkolu a prostředí.",
+      "Představ si uchopení známého předmětu: zkušenost napoví potřebný pohyb i sílu. Průběžné informace přitom umožňují další úpravy.",
+      "Naučený pohyb není odpojen od nervové soustavy. Učení mění způsob řízení, nikoli potřebu nervové činnosti."
+    ],
+    "memory": "Pohybový plán využívá situaci i zkušenost."
+  },
+  {
+    "id": 510,
+    "category": "Řízení pohybu",
+    "bookRef": "str. 129–131",
+    "sourcePages": "129–131",
+    "question": "Proč při tělesné zátěži spolupracuje somatické a autonomní řízení?",
+    "options": [
+      "Autonomní systém při pohybu vždy úplně přestane fungovat",
+      "Oba systémy mají totožné výstupní neurony ke všem orgánům",
+      "Pracující svaly potřebují také odpovídající zásobení a úpravu vnitřních funkcí",
+      "Kosterní sval je při zátěži nahrazen pouze hladkou svalovinou"
+    ],
+    "answer": 2,
+    "title": "Pohyb vyžaduje podporu vnitřního provozu",
+    "paragraphs": [
+      "Při práci kosterních svalů se musí přizpůsobovat také oběh a další tělesné funkce. Motorické a autonomní řízení proto potřebují koordinaci.",
+      "Představ si zvýšený výkon stroje, který vyžaduje odpovídající dodávku paliva i odvod tepla. Samotný pohybový povel nestačí pro všechny potřeby.",
+      "Spolupráce neznamená, že somatické a autonomní dráhy mají stejnou stavbu. Liší se cíli i typickým zapojením."
+    ],
+    "memory": "Svalový výkon potřebuje i úpravu vnitřního zásobování."
+  },
+  {
+    "id": 511,
+    "category": "Autonomní nervstvo",
+    "bookRef": "str. 132",
+    "sourcePages": "132",
+    "question": "Kolik neuronů typicky tvoří výstupní autonomní řetězec od CNS k cílovému orgánu?",
+    "options": [
+      "Vždy jediný neuron bez jakéhokoli přepojení",
+      "Přesně sto neuronů u každé žlázy",
+      "Žádný neuron, jen volně proudící krev",
+      "Dva neurony s přepojením v periferním gangliu"
+    ],
+    "answer": 3,
+    "title": "Typický autonomní výstup se přepojuje v gangliu",
+    "paragraphs": [
+      "Běžná autonomní eferentní cesta obsahuje pregangliový a postgangliový neuron. Přepojují se v periferním autonomním gangliu.",
+      "Představ si předání pokynu přes místní uzel mimo CNS. Odtud pokračuje další neuron k orgánu.",
+      "Jde o typický model, nikoli pravidlo bez výjimek. Například dřeň nadledvin má zvláštní uspořádání."
+    ],
+    "memory": "Autonomní výstup: pregangliový → ganglion → postgangliový."
+  },
+  {
+    "id": 512,
+    "category": "Autonomní nervstvo",
+    "bookRef": "str. 132",
+    "sourcePages": "132",
+    "question": "Kterou část typické autonomní výstupní cesty tvoří pregangliový neuron?",
+    "options": [
+      "Spojení z CNS do autonomního ganglia",
+      "Spojení pouze z ganglia ke konečnému orgánu",
+      "Výhradně receptor na pokožce",
+      "Samotnou žlázovou buňku v cílovém orgánu"
+    ],
+    "answer": 0,
+    "title": "Pregangliový znamená před gangliovým přepojením",
+    "paragraphs": [
+      "Pregangliový neuron má tělo v CNS a jeho axon vede k autonomnímu gangliu. Zde předává signál dalšímu článku.",
+      "Představ si první úsek cesty od centrály do místní přepojovací stanice. Označení určuje jeho polohu vůči gangliu.",
+      "Postgangliový neuron je až navazující článek. Podobné názvy se liší právě tímto pořadím."
+    ],
+    "memory": "Pre = před gangliem, z CNS k přepojení."
+  },
+  {
+    "id": 513,
+    "category": "Autonomní nervstvo",
+    "bookRef": "str. 132",
+    "sourcePages": "132",
+    "question": "Kterou část typické autonomní výstupní cesty tvoří postgangliový neuron?",
+    "options": [
+      "Jen mozkomíšní mok v centrálním kanálku",
+      "Spojení z autonomního ganglia k cílové tkáni",
+      "Pouze cestu z mozkové kůry do míchy",
+      "Receptor bolesti na povrchu kůže"
+    ],
+    "answer": 1,
+    "title": "Postgangliový článek vede dál k orgánu",
+    "paragraphs": [
+      "Postgangliový neuron navazuje na přepojení v autonomním gangliu. Jeho axon směřuje k cílovému orgánu nebo tkáni.",
+      "Představ si poslední úsek rozvodu z místního uzlu ke spotřebiči. Přestože je mimo CNS, stále patří k nervovému řízení.",
+      "Cílová buňka, například hladká svalová buňka, není sama tímto postgangliovým neuronem. Je příjemcem jeho signálu."
+    ],
+    "memory": "Post = po gangliu, směrem k cíli."
+  },
+  {
+    "id": 514,
+    "category": "Autonomní nervstvo",
+    "bookRef": "str. 132",
+    "sourcePages": "132",
+    "question": "Odkud vychází typický pregangliový sympatický výstup?",
+    "options": [
+      "Výhradně ze sítnice",
+      "Z buněk kožních mazových žláz",
+      "Z hrudních a horních bederních úseků míchy",
+      "Pouze z křížových úseků a jader hlavových nervů"
+    ],
+    "answer": 2,
+    "title": "Sympatický výstup je torakolumbální",
+    "paragraphs": [
+      "Pregangliové sympatické neurony vycházejí z hrudní a horní bederní části míchy. Proto se mluví o torakolumbálním uspořádání.",
+      "Představ si vymezenou oblast centrálních výstupů, ze které se signály dále rozvádějí k různým částem těla. Umístění výstupu není totéž co poloha cíle.",
+      "Sympatikus tak může ovlivňovat i orgány mimo hrudník a bedra. Jeho dosah není omezen jen na oblast, odkud vychází."
+    ],
+    "memory": "Sympatikus: hrudní a horní bederní mícha."
+  },
+  {
+    "id": 515,
+    "category": "Autonomní nervstvo",
+    "bookRef": "str. 132–133",
+    "sourcePages": "132–133",
+    "question": "Odkud vychází parasympatický výstup v klasickém členění?",
+    "options": [
+      "Jen z hrudních a horních bederních úseků",
+      "Pouze z kosterních svalových vláken",
+      "Výhradně z mozkového trámce",
+      "Z mozkového kmene a křížových úseků míchy"
+    ],
+    "answer": 3,
+    "title": "Parasympatikus má hlavovou a křížovou složku",
+    "paragraphs": [
+      "Klasické členění popisuje parasympatický výstup z jader v mozkovém kmeni a z křížové míchy. Označuje se jako kraniosakrální.",
+      "Představ si dvě oddělené oblasti výstupu, které společně zásobují různé cílové orgány. Mezi nimi leží oblast typického sympatického výstupu.",
+      "Název neznamená, že všechny parasympatické cíle leží jen v hlavě nebo kříži. Vlákna pokračují i k jiným oblastem."
+    ],
+    "memory": "Parasympatikus: mozkový kmen a křížová mícha."
+  },
+  {
+    "id": 516,
+    "category": "Autonomní nervstvo",
+    "bookRef": "str. 132",
+    "sourcePages": "132",
+    "question": "Co je sympatický kmen?",
+    "options": [
+      "Podélný řetězec propojených sympatických ganglií po stranách páteře",
+      "Pouze jiný název pro celý mozkový kmen",
+      "Jedna nepárová dutina s likvorem",
+      "Vývod slinné žlázy do úst"
+    ],
+    "answer": 0,
+    "title": "Sympatický kmen tvoří propojená ganglia",
+    "paragraphs": [
+      "Sympatická ganglia podél páteře jsou spojena nervovými vlákny. Vzniká tak podélný řetězec označovaný jako sympatický kmen.",
+      "Představ si řadu místních uzlů propojených podél společné trasy. Signál se tak může rozvádět k různým úrovním.",
+      "Sympatický kmen není totéž co mozkový kmen. Podobné slovo zde označuje odlišné anatomické struktury."
+    ],
+    "memory": "Sympatický kmen = řetězec ganglií vedle páteře."
+  },
+  {
+    "id": 517,
+    "category": "Autonomní nervstvo",
+    "bookRef": "str. 132",
+    "sourcePages": "132",
+    "question": "Kde bývají parasympatická ganglia ve vztahu k cílovému orgánu?",
+    "options": [
+      "V každé zubní korunce",
+      "Blízko cílového orgánu nebo v jeho stěně",
+      "Vždy výhradně v řetězci vedle páteře",
+      "Pouze v mozkové kůře"
+    ],
+    "answer": 1,
+    "title": "Parasympatické přepojení bývá blízko cíle",
+    "paragraphs": [
+      "Parasympatická ganglia bývají v těsné blízkosti inervovaného orgánu nebo přímo v jeho stěně. Tomu odpovídá uspořádání navazujících vláken.",
+      "Představ si přepojovací místo téměř u konečného vykonavatele. Poslední úsek nervové cesty pak může být krátký.",
+      "Typický sympatický řetězec vedle páteře má jiné prostorové uspořádání. Nelze jeho mapu automaticky použít pro parasympatikus."
+    ],
+    "memory": "Parasympatické ganglion hledej blízko orgánu."
+  },
+  {
+    "id": 518,
+    "category": "Autonomní nervstvo",
+    "bookRef": "str. 132",
+    "sourcePages": "132",
+    "question": "Co znamená dvojí autonomní inervace mnoha orgánů?",
+    "options": [
+      "Orgán obsahuje přesně dva glomeruly",
+      "Všechna jeho vlákna jsou současně somatická i smyslová",
+      "Orgán dostává sympatické i parasympatické nervové vlivy",
+      "Každá buňka má nutně dvě buněčná jádra"
+    ],
+    "answer": 2,
+    "title": "Jeden orgán může přijímat dva typy autonomních vlivů",
+    "paragraphs": [
+      "Mnoho orgánů je zásobeno sympatickými i parasympatickými vlákny. Jejich společné působení pomáhá upravovat činnost podle situace.",
+      "Představ si dva regulační vstupy ke stejnému zařízení. Výsledná aktivita závisí na jejich kombinaci i na vlastnostech cílového orgánu.",
+      "Neplatí to stejně pro každý orgán a každou tkáň. U některých cílů jedna složka výrazně převažuje nebo druhá chybí."
+    ],
+    "memory": "Dvojí inervace = sympatické i parasympatické vlivy."
+  },
+  {
+    "id": 519,
+    "category": "Autonomní nervstvo",
+    "bookRef": "str. 132–134",
+    "sourcePages": "132–134",
+    "question": "Co znamená antagonismus účinků sympatiku a parasympatiku u určitého orgánu?",
+    "options": [
+      "Obě složky mají vždy naprosto shodný účinek",
+      "Jedna soustava musí fyzicky zničit druhou",
+      "Orgán přestává mít nervové řízení",
+      "Jejich vlivy mění stejnou funkci opačným směrem"
+    ],
+    "answer": 3,
+    "title": "Antagonisté působí opačně na stejnou funkci",
+    "paragraphs": [
+      "U některých orgánových funkcí mají obě autonomní složky opačný vliv. Takové působení označujeme jako antagonistické.",
+      "Představ si dva vstupy, z nichž jeden výkon zvyšuje a druhý snižuje. Regulace tak může měnit výslednou úroveň podle potřeb.",
+      "Není správné tvrdit, že všechny účinky obou oddílů jsou vždy přesnými protiklady. Existují i jiné vztahy a odlišné rozložení inervace."
+    ],
+    "memory": "Antagonismus = opačný směr vlivu na určitou funkci."
+  },
+  {
+    "id": 520,
+    "category": "Autonomní nervstvo",
+    "bookRef": "str. 134",
+    "sourcePages": "134",
+    "question": "Jaký celkový význam má zvýšená sympatická aktivita při zátěži?",
+    "options": [
+      "Pomáhá mobilizovat organismus a zpřístupňovat zdroje pro výkon",
+      "Vždy vypíná celý krevní oběh",
+      "Má jedinou úlohu vyvolat spánek u všech lidí",
+      "Přímo mění kosterní svaly na hladké"
+    ],
+    "answer": 0,
+    "title": "Sympatikus pomáhá připravit výkon",
+    "paragraphs": [
+      "Při zátěži se sympatická aktivita podílí na mobilizaci zdrojů a úpravě orgánové činnosti. Pomáhá organismu zvládnout zvýšené požadavky.",
+      "Představ si přechod provozu na vyšší výkon s odpovídající dodávkou energie. Nejde o izolovanou změnu jednoho orgánu.",
+      "Sympatikus není činný pouze při strachu a jeho aktivita nemusí být všude stejná. Zde jde o typickou koordinovanou odpověď na zátěž."
+    ],
+    "memory": "Sympatikus pomáhá mobilizovat zdroje pro zátěž."
+  },
+  {
+    "id": 521,
+    "category": "Autonomní nervstvo",
+    "bookRef": "str. 134",
+    "sourcePages": "134",
+    "question": "Jaký typický účinek má parasympatikus na trávicí soustavu?",
+    "options": [
+      "Zajišťuje pouze růst zubní skloviny",
+      "Podporuje sekreci a pohybovou činnost trávicí trubice",
+      "Vždy úplně zastaví všechny střevní pohyby",
+      "Přemění žluč na krev"
+    ],
+    "answer": 1,
+    "title": "Parasympatické vlivy podporují trávení",
+    "paragraphs": [
+      "Parasympatikus zpravidla podporuje trávicí sekreci a pohyblivost trávicí trubice. Tím se podílí na zpracování a využití přijaté potravy.",
+      "Představ si prostředí vhodné pro doplnění zásob a obnovu. Trávicí děje vyžadují souhru žláz a svaloviny.",
+      "Nejde o jediný způsob řízení trávení. Uplatňují se také místní enterické obvody a hormonální vlivy."
+    ],
+    "memory": "Parasympatikus obvykle podporuje trávicí provoz."
+  },
+  {
+    "id": 522,
+    "category": "Autonomní nervstvo",
+    "bookRef": "str. 131",
+    "sourcePages": "131",
+    "question": "Proč autonomní řízení neznamená úplnou nepřístupnost vlivu vyšších center?",
+    "options": [
+      "Protože autonomní systém vůbec neexistuje",
+      "Protože žlázy nemají nervové zásobení",
+      "Některé autonomní děje jsou součástí širšího řízení ovlivnitelného mozkovou kůrou",
+      "Protože každý hladký sval ovládáme stejně přímo jako prst"
+    ],
+    "answer": 2,
+    "title": "Automatické neznamená úplně izolované",
+    "paragraphs": [
+      "Autonomní činnost probíhá převážně bez přímého vědomého řízení jednotlivých orgánů. Některé děje však mohou být součástí širší volně ovlivnitelné kontroly.",
+      "Představ si automatický program, jehož spuštění nebo potlačení může ovlivnit vyšší systém. Učebnice uvádí například souvislosti kontroly močení.",
+      "Neznamená to libovolnou přímou kontrolu každé žlázy nebo cévy. Vyšší vliv a přímé řízení jednoho svalového vlákna nejsou totéž."
+    ],
+    "memory": "Autonomní řízení spolupracuje s vyššími centry."
+  },
+  {
+    "id": 523,
+    "category": "Autonomní nervstvo",
+    "bookRef": "str. 132–134",
+    "sourcePages": "132–134",
+    "question": "Která úroveň CNS může zprostředkovat některé jednoduché autonomní reflexy?",
+    "options": [
+      "Pouze povrch zubní skloviny",
+      "Jen mozkový trámec jako jediná reflexní struktura",
+      "Výhradně čočka oka",
+      "Mícha"
+    ],
+    "answer": 3,
+    "title": "I mícha obsahuje autonomní reflexní obvody",
+    "paragraphs": [
+      "Míšní obvody se účastní například některých funkcí měchýře, střeva a pohlavních reakcí. Autonomní reflexní činnost proto nezačíná až v mozkové kůře.",
+      "Představ si místní regulační okruh, který současně přijímá vlivy vyšších center. Základní reakce a širší koordinace se doplňují.",
+      "Zachování místního obvodu neznamená, že po přerušení spojení s mozkem zůstane celá funkce zcela normální. Pro úplnou koordinaci jsou důležité další úrovně."
+    ],
+    "memory": "Mícha obsahuje i autonomní reflexní obvody."
+  },
+  {
+    "id": 524,
+    "category": "Autonomní nervstvo",
+    "bookRef": "str. 134",
+    "sourcePages": "134",
+    "question": "Jaké tělesné potřeby pomáhá hypotalamus řídit prostřednictvím pocitů hladu a žízně?",
+    "options": [
+      "Příjem potravy a vody",
+      "Pouze počet vlasových folikulů",
+      "Výhradně tvorbu vzduchu v plicích",
+      "Přesné rozmístění skloviny na zubech"
+    ],
+    "answer": 0,
+    "title": "Hlad a žízeň souvisejí s vnitřním stavem",
+    "paragraphs": [
+      "Hypotalamus se účastní řízení příjmu potravy a vody. Zpracovává přitom informace související s vnitřními podmínkami organismu.",
+      "Představ si signály, které propojují potřebu doplnit zásoby s chováním hledajícím jídlo nebo pití. Vnitřní stav tak ovlivní jednání.",
+      "Hlad ani žízeň nejsou řízeny jedinou izolovanou veličinou. Učebnicové příklady glukózy a osmotických podmínek jsou součástí širšího řízení."
+    ],
+    "memory": "Hypotalamus propojuje vnitřní potřebu s jídlem a pitím."
+  },
+  {
+    "id": 525,
+    "category": "Autonomní nervstvo",
+    "bookRef": "str. 131–134",
+    "sourcePages": "131–134",
+    "question": "Která trojice uvádí hlavní typy cílových struktur autonomního výstupu?",
+    "options": [
+      "Výhradně mozkové komory a synaptické štěrbiny",
+      "Hladká svalovina, srdeční svalovina a žlázy",
+      "Jen kosterní svaly prstů, paže a stehna",
+      "Pouze zubní sklovina, cement a dentin"
+    ],
+    "answer": 1,
+    "title": "Autonomní výstup má různé vykonavatele",
+    "paragraphs": [
+      "Autonomní nervstvo ovlivňuje hladkou svalovinu, srdce a žlázy. Výsledkem může být například změna svalového tonu, srdeční činnosti nebo sekrece.",
+      "Představ si více typů zařízení na konci regulačních cest. Pokyn se může projevit jinak podle toho, zda dorazí ke svalu nebo žláze.",
+      "Přímé ovládání kosterních svalových vláken patří somatickému motorickému systému. To nebrání jejich koordinaci s autonomními změnami."
+    ],
+    "memory": "Autonomní cíle: hladký sval, srdce a žlázy."
+  },
+  {
+    "id": 526,
+    "category": "Pojmy nemocí nervové soustavy",
+    "bookRef": "str. 134–135",
+    "sourcePages": "134–135",
+    "question": "Co znamená plasticita nervové soustavy v souvislosti s její funkcí?",
+    "options": [
+      "Přeměnu mozku na plastickou hmotu",
+      "Úplnou neměnnost všech synapsí po narození",
+      "Schopnost měnit zapojení a funkční využití obvodů",
+      "Záruku úplné obnovy po jakémkoli poškození"
+    ],
+    "answer": 2,
+    "title": "Plasticita znamená možnost změny obvodů",
+    "paragraphs": [
+      "Nervová soustava může měnit sílu spojení i funkční zapojení sítí. Tato plasticita má význam při učení a může se podílet také na funkčním přizpůsobení po poškození.",
+      "Představ si síť, která dokáže část vedení a spolupráce upravovat. Není to soustava zcela pevně daných spojů bez možnosti změny.",
+      "Plasticita má své meze a nezaručuje návrat každé ztracené funkce. Možnost přizpůsobení se nesmí zaměnit za jisté úplné zotavení."
+    ],
+    "memory": "Plasticita = schopnost funkční změny, nikoli záruka úplné opravy."
+  },
+  {
+    "id": 527,
+    "category": "Pojmy nemocí nervové soustavy",
+    "bookRef": "str. 134–135",
+    "sourcePages": "134–135",
+    "question": "Co je základním mechanismem ischemické cévní mozkové příhody?",
+    "options": [
+      "Vždy krvácení z každé mozkové cévy současně",
+      "Pouze zánět kožní mazové žlázy",
+      "Tvorba nové skloviny v mozkové kůře",
+      "Nedostatečné prokrvení části mozkové tkáně při omezení přívodu krve"
+    ],
+    "answer": 3,
+    "title": "Ischemie znamená nedostatečné prokrvení",
+    "paragraphs": [
+      "Při ischemické příhodě je narušen přívod krve do části mozku. Tkáně tak nedostávají odpovídající přísun kyslíku a dalších potřebných látek.",
+      "Představ si výpadek zásobovací cesty do určité oblasti. Problém začíná nedostatkem dodávky, nikoli nutně výronem krve.",
+      "Krvácivá příhoda má jiný základní mechanismus. Otázka rozlišuje biologické pojmy a neslouží k určování příčiny konkrétních obtíží."
+    ],
+    "memory": "Ischemická příhoda: omezený přívod krve do tkáně."
+  },
+  {
+    "id": 528,
+    "category": "Pojmy nemocí nervové soustavy",
+    "bookRef": "str. 135",
+    "sourcePages": "135",
+    "question": "Co charakterizuje hemoragickou cévní mozkovou příhodu?",
+    "options": [
+      "Krvácení v mozku nebo jeho okolí v souvislosti s porušenou cévou",
+      "Pouze nedostatek melaninu v pokožce",
+      "Vždy neprůchodnost močovodu kamenem",
+      "Jen zvýšenou tvorbu žaludečního hlenu"
+    ],
+    "answer": 0,
+    "title": "Hemoragie znamená krvácení",
+    "paragraphs": [
+      "Hemoragická příhoda souvisí s únikem krve z cévy v oblasti mozku. Její základní mechanismus se liší od pouhého uzávěru přívodné cévy.",
+      "Představ si porušení zásobovacího potrubí, při kterém krev vstupuje mimo běžný cévní prostor. Poškození může mít více navazujících příčin.",
+      "Není správné omezit každé mozkové krvácení jen na jednu příčinu, například aneurysma. Otázka ověřuje význam pojmu krvácivý."
+    ],
+    "memory": "Hemoragická = krvácivá."
+  },
+  {
+    "id": 529,
+    "category": "Pojmy nemocí nervové soustavy",
+    "bookRef": "str. 135",
+    "sourcePages": "135",
+    "question": "Co označuje meningitida?",
+    "options": [
+      "Jiný název pro běžný svalový třes chladem",
+      "Zánět mozkových nebo míšních plen",
+      "Zánět zubní skloviny jako jediný význam",
+      "Pouze ztrátu myelinu bez zánětu plen"
+    ],
+    "answer": 1,
+    "title": "Meningitida postihuje pleny",
+    "paragraphs": [
+      "Meningitida je zánět obalů mozku nebo míchy. Název tedy označuje především místo zánětlivého postižení.",
+      "Představ si rozdíl mezi samotnou nervovou tkání a jejími obaly. Znalost anatomie pomáhá porozumět názvu nemoci.",
+      "Zánět mozkové tkáně označujeme jako encefalitidu. Obě postižení se mohou kombinovat, ale pojmy nejsou totožné."
+    ],
+    "memory": "Meningitida = zánět plen."
+  },
+  {
+    "id": 530,
+    "category": "Pojmy nemocí nervové soustavy",
+    "bookRef": "str. 135",
+    "sourcePages": "135",
+    "question": "Jakého původu je klíšťová encefalitida?",
+    "options": [
+      "Je pouze mechanickým poraněním kosti",
+      "Vzniká jedině nedostatkem kožního mazu",
+      "Virového",
+      "Je vždy způsobena bakterií Borrelia"
+    ],
+    "answer": 2,
+    "title": "Klíšťová encefalitida je virová infekce",
+    "paragraphs": [
+      "Klíšťovou encefalitidu způsobuje virus. Učebnice ji odlišuje od dalších onemocnění přenášených klíšťaty.",
+      "Představ si stejného přenašeče, který může souviset s různými původci nemocí. Podobná cesta přenosu neznamená stejného původce.",
+      "Lymeská borrelióza je bakteriální onemocnění. Je proto důležité nezaměnit ji s virovou klíšťovou encefalitidou."
+    ],
+    "memory": "Klíšťová encefalitida: virus."
+  },
+  {
+    "id": 531,
+    "category": "Pojmy nemocí nervové soustavy",
+    "bookRef": "str. 135–136",
+    "sourcePages": "135–136",
+    "question": "Která skupina původců způsobuje lymeskou borreliózu?",
+    "options": [
+      "Pouze virus klíšťové encefalitidy",
+      "Myelinové pochvy jako infekční částice",
+      "Výhradně chybně uspořádané prionové bílkoviny",
+      "Bakterie rodu Borrelia"
+    ],
+    "answer": 3,
+    "title": "Borrelióza má bakteriální původ",
+    "paragraphs": [
+      "Lymeskou borreliózu způsobují bakterie rodu Borrelia. Patří tedy k jinému typu infekce než virová klíšťová encefalitida.",
+      "Představ si různé původce s různými biologickými vlastnostmi. Pojmenování nemoci samo nenahrazuje určení jejího původce.",
+      "Otázka se nezabývá léčbou ani určováním nemoci podle jedné kožní změny. Testuje základní zařazení původce."
+    ],
+    "memory": "Borrelióza: bakterie Borrelia."
+  },
+  {
+    "id": 532,
+    "category": "Pojmy nemocí nervové soustavy",
+    "bookRef": "str. 136",
+    "sourcePages": "136",
+    "question": "Co znamená demyelinizace?",
+    "options": [
+      "Poškozování nebo úbytek myelinových pochev nervových vláken",
+      "Tvorbu dalších vrstev zubního cementu",
+      "Zvýšení počtu červených krvinek v kůži",
+      "Odstraňování všech jader z neuronů"
+    ],
+    "answer": 0,
+    "title": "Demyelinizace narušuje myelin",
+    "paragraphs": [
+      "Demyelinizace znamená ztrátu nebo poškození myelinových obalů. Proto může narušovat normální vedení signálů po postižených vláknech.",
+      "Představ si poškození izolačního uspořádání vedení, které pomáhalo rychlému přenosu. Změna obalu může ovlivnit činnost celé trasy.",
+      "U roztroušené sklerózy se tento děj týká CNS. Pojem demyelinizace sám ale není jiným názvem pouze pro jednu konkrétní nemoc."
+    ],
+    "memory": "Demyelinizace = ztráta nebo poškození myelinu."
+  },
+  {
+    "id": 533,
+    "category": "Pojmy nemocí nervové soustavy",
+    "bookRef": "str. 136",
+    "sourcePages": "136",
+    "question": "Se kterými motorickými obvody výrazně souvisí Parkinsonova nemoc?",
+    "options": [
+      "Jen s receptory chuti na jazyku",
+      "S obvody bazálních ganglií",
+      "Pouze s nervy v zubní dřeni",
+      "Výhradně s mozkovými komorami bez neuronů"
+    ],
+    "answer": 1,
+    "title": "Parkinsonova nemoc zasahuje motorické regulační obvody",
+    "paragraphs": [
+      "Parkinsonova nemoc výrazně souvisí s narušením činnosti obvodů bazálních ganglií. Ty se podílejí na organizaci pohybové aktivity.",
+      "Představ si narušení řízení pohybu, které není totéž jako prosté mechanické přetržení svalu. Důležitá je činnost propojených nervových okruhů.",
+      "Nejde o tvrzení, že každý třes znamená Parkinsonovu nemoc. Otázka ověřuje anatomicko-funkční souvislost, nikoli diagnózu."
+    ],
+    "memory": "Parkinsonova nemoc: významná souvislost s bazálními ganglii."
+  },
+  {
+    "id": 534,
+    "category": "Pojmy nemocí nervové soustavy",
+    "bookRef": "str. 136",
+    "sourcePages": "136",
+    "question": "Do jaké základní skupiny patří Alzheimerova nemoc?",
+    "options": [
+      "Mezi nemoci tvořené pouze zánětem potních žláz",
+      "Mezi fyziologické změny každé noci bez onemocnění",
+      "Mezi neurodegenerativní onemocnění postihující mimo jiné paměť a poznávací funkce",
+      "Mezi běžné vrozené reflexy slinění"
+    ],
+    "answer": 2,
+    "title": "Neurodegenerace narušuje nervové struktury a jejich funkci",
+    "paragraphs": [
+      "Alzheimerova nemoc je neurodegenerativní onemocnění. Souvisí s postupným narušováním nervových funkcí, zejména paměti a dalších poznávacích schopností.",
+      "Představ si měnící se funkčnost propojených zpracovatelských sítí. Nejde pouze o dočasné zapomenutí jedné drobnosti.",
+      "Není přesné připsat všechny případy jediné genetické změně na jednom chromozomu. Otázka takové zjednodušení staršího textu nepřebírá."
+    ],
+    "memory": "Alzheimerova nemoc: neurodegenerace s poruchami paměti a poznávání."
+  },
+  {
+    "id": 535,
+    "category": "Pojmy nemocí nervové soustavy",
+    "bookRef": "str. 137",
+    "sourcePages": "137",
+    "question": "Co je základem infekčního prionového působení?",
+    "options": [
+      "Celá bakterie s buněčnou stěnou a vlastními ribozomy",
+      "Běžný virus povinně obsahující DNA nebo RNA",
+      "Pouze chybějící iont sodíku v potu",
+      "Chybně uspořádaná bílkovina podporující chybné uspořádání dalších příslušných bílkovin"
+    ],
+    "answer": 3,
+    "title": "Prionové působení souvisí s tvarem bílkoviny",
+    "paragraphs": [
+      "Prionové onemocnění souvisí s patologickou podobou určité bílkoviny. Ta může podporovat přechod dalších příslušných molekul do chybného uspořádání.",
+      "Představ si přenos nevhodného způsobu složení mezi odpovídajícími molekulami. Nejde o množení celé bakteriální buňky.",
+      "Patologický prion není běžný virus s genomem z nukleové kyseliny. Otázka se drží základního molekulárního rozlišení, nikoli rad k zacházení s materiálem."
+    ],
+    "memory": "Prionový problém: patologické uspořádání bílkoviny."
+  },
+  {
+    "id": 536,
+    "category": "Hormonální řízení",
+    "bookRef": "str. 138–139",
+    "sourcePages": "138–139",
+    "question": "Kam endokrinní žláza uvolňuje své hormony při endokrinním působení?",
+    "options": [
+      "Do vnitřního prostředí, odkud se dostávají do krevního oběhu",
+      "Výhradně vývodem na vnější povrch kůže",
+      "Jen do dutiny ústní jako sliny",
+      "Přímo do vzduchu z plicních sklípků"
+    ],
+    "answer": 0,
+    "title": "Endokrinní sekrece míří do vnitřního prostředí",
+    "paragraphs": [
+      "Endokrinní buňky uvolňují hormony do okolního vnitřního prostředí a krev je může rozvést k cílovým tkáním. Nepotřebují k tomu žlázový vývod na povrch.",
+      "Představ si chemickou zprávu předanou do rozvodné sítě organismu. K cíli se může dostat i daleko od místa vzniku.",
+      "Hormon obvykle nepřeskakuje veškerý mezibuněčný prostor přímo z buňky do cévy. Popis uvolnění do krve je funkční zkratka."
+    ],
+    "memory": "Endokrinní = hormon do vnitřního prostředí a krve."
+  },
+  {
+    "id": 537,
+    "category": "Hormonální řízení",
+    "bookRef": "str. 138–139",
+    "sourcePages": "138–139",
+    "question": "Co charakterizuje typickou exokrinní žlázu, například slinnou?",
+    "options": [
+      "Musí být vždy součástí mozkové kůry",
+      "Odvádí sekret vývodem na povrch nebo do tělní dutiny",
+      "Uvolňuje každý sekret jedině do krve jako hormon",
+      "Nemá žádné sekreční buňky"
+    ],
+    "answer": 1,
+    "title": "Exokrinní žláza používá vývod",
+    "paragraphs": [
+      "Exokrinní žlázy odvádějí své produkty vývodnými cestami. Slinná žláza například předává sliny do ústní dutiny.",
+      "Představ si výrobek dopravený konkrétní trubicí na místo použití. To je jiná cesta než rozvod hormonální zprávy krví.",
+      "Slovo žláza samo nestačí k určení způsobu sekrece. Rozhoduje konkrétní uspořádání a kam se produkt uvolňuje."
+    ],
+    "memory": "Exokrinní = sekret jde vývodem k povrchu či do dutiny."
+  },
+  {
+    "id": 538,
+    "category": "Hormonální řízení",
+    "bookRef": "str. 139",
+    "sourcePages": "139",
+    "question": "Co je základním významem hormonu v řízení organismu?",
+    "options": [
+      "Nahrazovat veškerý kyslík v krvi",
+      "Tvořit samotnou kostní minerální hmotu",
+      "Nést chemickou informaci ovlivňující činnost cílových buněk",
+      "Být hlavním mechanickým vláknem šlachy"
+    ],
+    "answer": 2,
+    "title": "Hormon je chemická zpráva",
+    "paragraphs": [
+      "Hormony jsou biologicky účinné látky přenášející chemickou informaci. Pomocí příslušných mechanismů mění činnost cílových buněk.",
+      "Představ si zprávu ovlivňující nastavení pracoviště. Důležitá je informace, nikoli dodání velkého objemu stavebního materiálu.",
+      "Hormon není automaticky palivo ani živina. Některé hormony však řídí právě způsob využívání živin a energie."
+    ],
+    "memory": "Hormon = chemická informace pro cílové buňky."
+  },
+  {
+    "id": 539,
+    "category": "Hormonální řízení",
+    "bookRef": "str. 139",
+    "sourcePages": "139",
+    "question": "Co rozhoduje o tom, zda buňka může přímo reagovat na určitý hormon?",
+    "options": [
+      "Pouze její vzdálenost od pokožky",
+      "Jen to, zda je větší než erytrocyt",
+      "Každý hormon působí na všechny buňky naprosto stejně",
+      "Přítomnost vhodného receptoru a navazujícího signálního mechanismu"
+    ],
+    "answer": 3,
+    "title": "Cílová buňka má vhodný příjem signálu",
+    "paragraphs": [
+      "Buňka potřebuje pro přímou specifickou odpověď odpovídající hormonální receptor. Důležité jsou i děje, které na jeho aktivaci navazují.",
+      "Představ si přijímač naladěný na určitý typ zprávy. Pouhá dostupnost zprávy v okolí nezaručí stejnou reakci každého příjemce.",
+      "Hormon může krví dosáhnout mnoha míst, ale to z každé buňky nedělá stejný cíl. Účinek není dán jen přítomností hormonu v krvi."
+    ],
+    "memory": "Vhodný receptor dělá z buňky příjemce hormonálního signálu."
+  },
+  {
+    "id": 540,
+    "category": "Hormonální řízení",
+    "bookRef": "str. 139",
+    "sourcePages": "139",
+    "question": "Kde se mohou nacházet receptory pro hormony?",
+    "options": [
+      "Na buněčné membráně i uvnitř buňky podle typu hormonu",
+      "Vždy jen mimo tělo v okolním vzduchu",
+      "Výhradně v mozkomíšním moku bez buněčných struktur",
+      "Pouze v každém otevřeném žlázovém vývodu"
+    ],
+    "answer": 0,
+    "title": "Hormony mají různé přijímací mechanismy",
+    "paragraphs": [
+      "Některé hormony působí přes membránové receptory, jiné přes receptory uvnitř buňky. Konkrétní mechanismus souvisí s vlastnostmi hormonu a cílové buňky.",
+      "Představ si zprávu přijímanou buď na vstupní hranici, nebo až uvnitř pracoviště. Obě možnosti mohou zahájit specifickou odpověď.",
+      "Není správné umístit všechny hormonální receptory pouze na povrch. Stejně tak ne všechny hormony volně vstupují do buňky ke vnitřnímu receptoru."
+    ],
+    "memory": "Hormonální receptor může být na membráně i uvnitř."
+  },
+  {
+    "id": 541,
+    "category": "Hormonální řízení",
+    "bookRef": "str. 139",
+    "sourcePages": "139",
+    "question": "Co je druhý posel v buněčné signalizaci?",
+    "options": [
+      "Samotný vývod slinné žlázy",
+      "Vnitrobuněčný prostředník předávající signál po aktivaci receptoru",
+      "Druhý člověk přinášející potravu",
+      "Každý hormon vyloučený jako druhý v pořadí"
+    ],
+    "answer": 1,
+    "title": "Druhý posel převádí signál do vnitřku buňky",
+    "paragraphs": [
+      "Při některých způsobech signalizace aktivovaný membránový receptor spustí vznik nebo změnu vnitrobuněčného prostředníka. Ten pomáhá předat a rozvinout účinek uvnitř buňky.",
+      "Představ si vnější zprávu, která po přijetí vyvolá vnitřní pokyn dalším částem pracoviště. První signál a jeho vnitřní prostředník nejsou stejná věc.",
+      "Ne všechny hormony musejí používat stejný druh druhého posla. Existuje více různých signálních mechanismů."
+    ],
+    "memory": "Druhý posel předává zprávu uvnitř buňky."
+  },
+  {
+    "id": 542,
+    "category": "Hormonální řízení",
+    "bookRef": "str. 139",
+    "sourcePages": "139",
+    "question": "Co znamená, že hormony působí už ve velmi malých koncentracích?",
+    "options": [
+      "Nemohou se vázat na receptory",
+      "Jejich účinek je vždy nulový, pokud nejsou viditelné okem",
+      "K biologickému účinku může stačit malé množství signální látky v daném objemu",
+      "Musejí tvořit většinu hmotnosti krevní plazmy"
+    ],
+    "answer": 2,
+    "title": "Nízká koncentrace může nést významnou zprávu",
+    "paragraphs": [
+      "Mnohé hormony působí při velmi nízkých koncentracích. K řízení buněčné činnosti nemusí tvořit velkou hmotnostní složku krve.",
+      "Představ si malý signál, který přepne činnost rozsáhlejšího systému. Velikost biologické odpovědi není dána jen hmotností zprávy.",
+      "Z nízké účinné koncentrace neplyne libovolná zaměnitelnost dávek ani tvrzení, že větší množství je automaticky lepší. Otázka popisuje princip signalizace."
+    ],
+    "memory": "Malá koncentrace hormonu může mít velký regulační význam."
+  },
+  {
+    "id": 543,
+    "category": "Hormonální řízení",
+    "bookRef": "str. 138",
+    "sourcePages": "138",
+    "question": "Co učebnice označuje jako tkáňové hormony?",
+    "options": [
+      "Výhradně mechanické vazivové pruhy",
+      "Jen všechny enzymy přítomné v trávenině",
+      "Pouze látky, které nemohou působit na buňky",
+      "Hormony tvořené i v tkáních, jejichž hlavní úloha není pouze endokrinní"
+    ],
+    "answer": 3,
+    "title": "Hormony nevznikají jen ve zvláštních žlázách",
+    "paragraphs": [
+      "Některé hormony vytvářejí buňky tkání, které mají také jinou významnou funkci. Učebnice uvádí například hormonální látky trávicího traktu.",
+      "Představ si pracoviště, které vedle svého hlavního výkonu také posílá řídicí zprávy. Sekreční činnost proto nemusí znamenat samostatnou velkou endokrinní žlázu.",
+      "Ne každý produkt tkáně je automaticky hormon. Důležitá je jeho signální biologická funkce."
+    ],
+    "memory": "Hormonální zprávy mohou tvořit i jiné tkáně než specializované žlázy."
+  },
+  {
+    "id": 544,
+    "category": "Hormonální řízení",
+    "bookRef": "str. 139",
+    "sourcePages": "139",
+    "question": "Které děje patří mezi významné oblasti hormonálního řízení?",
+    "options": [
+      "Metabolismus, hospodaření s vodou a ionty, růst a rozmnožování",
+      "Pouze mechanické přenosy zvuku ušními kůstkami",
+      "Jen tvar kořenů dospělých zubů",
+      "Výhradně pasivní průtok kapaliny otevřenou trubicí"
+    ],
+    "answer": 0,
+    "title": "Hormony řídí několik základních životních funkcí",
+    "paragraphs": [
+      "Hormonální řízení zasahuje metabolismus, rovnováhu vody a iontů, růst i rozmnožování. Vlivy jednotlivých hormonů se přitom propojují.",
+      "Představ si několik různých provozních oblastí organismu, které sdílejí systém chemických zpráv. Není to soustava určená pouze pro jediný orgán.",
+      "Hormonální a nervové řízení nejsou izolované soupeřící systémy. Společně se podílejí na koordinaci funkcí."
+    ],
+    "memory": "Hormony: metabolismus, voda a ionty, růst, rozmnožování."
+  },
+  {
+    "id": 545,
+    "category": "Hormonální řízení",
+    "bookRef": "str. 139",
+    "sourcePages": "139",
+    "question": "Kde je uložena hypofýza a k čemu je připojena stopkou?",
+    "options": [
+      "V dutině ústní, spojená se zubní sklovinou",
+      "Na bázi lebky, se stopkovým spojením k hypotalamu",
+      "Uvnitř močového měchýře, spojená s močovodem",
+      "Na povrchu dlaně, připojená k potnímu vývodu"
+    ],
+    "answer": 1,
+    "title": "Hypofýza leží pod hypotalamem",
+    "paragraphs": [
+      "Hypofýza neboli podvěsek mozkový je uložena na bázi lebky. Stopkou souvisí s hypotalamem.",
+      "Představ si blízké anatomické propojení mezi nervovým řídicím centrem a důležitou hormonální strukturou. Poloha odpovídá jejich funkční spolupráci.",
+      "Hypofýza není totéž co hypotalamus. Jedná se o odlišné, těsně propojené struktury."
+    ],
+    "memory": "Hypofýza leží na bázi lebky pod hypotalamem."
+  },
+  {
+    "id": 546,
+    "category": "Hormonální řízení",
+    "bookRef": "str. 139–140",
+    "sourcePages": "139–140",
+    "question": "Jak se nazývají hlavní přední a zadní části hypofýzy?",
+    "options": [
+      "Glomerulus a Henleova klička",
+      "Pravá síň a levá komora",
+      "Adenohypofýza a neurohypofýza",
+      "Škára a podkoží"
+    ],
+    "answer": 2,
+    "title": "Dvě části hypofýzy se liší stavbou i funkcí",
+    "paragraphs": [
+      "Přední část se nazývá adenohypofýza, zadní neurohypofýza. Jejich odlišnost souvisí se stavbou, vývojem i způsobem hormonální činnosti.",
+      "Představ si dvě propojená oddělení, která nejsou jen kopiemi téhož. Každé má jiné zapojení do vztahu s hypotalamem.",
+      "Názvy proto nelze používat zaměnitelně. Přední a zadní část mají rozdílné soubory hormonálních souvislostí."
+    ],
+    "memory": "Přední = adeno; zadní = neurohypofýza."
+  },
+  {
+    "id": 547,
+    "category": "Hormonální řízení",
+    "bookRef": "str. 140–141",
+    "sourcePages": "140–141",
+    "question": "Které rozlišení adenohypofýzy a neurohypofýzy je správné?",
+    "options": [
+      "Obě jsou výhradně kožní exokrinní žlázy",
+      "Neurohypofýza je jediným místem tvorby všech hormonů štítné žlázy",
+      "Adenohypofýza neobsahuje žádné sekreční buňky",
+      "Adenohypofýza tvoří vlastní hormony, neurohypofýza uvolňuje hormony vzniklé v hypotalamu"
+    ],
+    "answer": 3,
+    "title": "Místo tvorby a místo uvolnění se mohou lišit",
+    "paragraphs": [
+      "Adenohypofýza obsahuje buňky tvořící její hormony. Neurohypofýza naproti tomu skladuje a uvolňuje hormony vytvořené neurosekrečními neurony hypotalamu.",
+      "Představ si rozdíl mezi výrobním místem a výdejním místem. U některých hormonů mohou ležet jinde, i když jsou funkčně propojené.",
+      "Není přesné říci, že vše uvolňované hypofýzou musí také vznikat ve stejné její části. Zejména u zadního laloku je toto rozlišení zásadní."
+    ],
+    "memory": "Adeno tvoří; neuro uvolňuje hypotalamické hormony."
+  },
+  {
+    "id": 548,
+    "category": "Hormonální řízení",
+    "bookRef": "str. 140–141",
+    "sourcePages": "140–141",
+    "question": "Jak hypotalamus přímo hormonálně ovlivňuje adenohypofýzu?",
+    "options": [
+      "Regulačními hormony dopravovanými krví k jejím buňkám",
+      "Pouze přímým mechanickým tlakem mozkové kůry",
+      "Tím, že každý hormon adenohypofýzy vznikne v močovodu",
+      "Výhradně nervovým axonem až do každé cílové žlázy těla"
+    ],
+    "answer": 0,
+    "title": "Přední lalok dostává regulační chemické zprávy",
+    "paragraphs": [
+      "Hypotalamus tvoří regulační hormony, které se krví dostávají do adenohypofýzy. Mohou podporovat nebo tlumit sekreci jejích buněk.",
+      "Představ si krátkou chemickou řídicí cestu mezi dvěma blízkými odděleními. Nervové centrum zde využívá hormonální zprávy.",
+      "To se liší od axonální dopravy hormonů do neurohypofýzy. Vazba hypotalamu na obě části hypofýzy nemá totožné uspořádání."
+    ],
+    "memory": "Hypotalamus řídí adenohypofýzu regulačními hormony přes krev."
+  },
+  {
+    "id": 549,
+    "category": "Hormonální řízení",
+    "bookRef": "str. 141",
+    "sourcePages": "141",
+    "question": "Která dvojice hormonů se uvolňuje do krve z neurohypofýzy?",
+    "options": [
+      "Inzulin a glukagon",
+      "Antidiuretický hormon a oxytocin",
+      "Tyroxin a trijodtyronin",
+      "Pepsin a trypsin"
+    ],
+    "answer": 1,
+    "title": "Zadní lalok uvolňuje ADH a oxytocin",
+    "paragraphs": [
+      "Z neurohypofýzy se do krve uvolňují ADH a oxytocin. Oba vznikají v neurosekrečních neuronech hypotalamu a do zadního laloku se dopravují jejich axony.",
+      "Představ si výrobní místo propojené s výdejním místem dlouhými buněčnými výběžky. Výdejní orgán proto nemusí být místem syntézy.",
+      "Inzulin a glukagon souvisejí se slinivkou, hormony štítné žlázy jsou jiná dvojice. Pepsin a trypsin jsou trávicí enzymy."
+    ],
+    "memory": "Neurohypofýza uvolňuje ADH a oxytocin, tvořené v hypotalamu."
+  },
+  {
+    "id": 550,
+    "category": "Hormonální řízení",
+    "bookRef": "str. 140",
+    "sourcePages": "140",
+    "question": "Kterou žlázu přímo stimuluje tyreotropní hormon neboli TSH?",
+    "options": [
+      "Jen slinné žlázy",
+      "Zubní dřeň jako jedinou endokrinní žlázu",
+      "Štítnou žlázu",
+      "Výhradně potní žlázy"
+    ],
+    "answer": 2,
+    "title": "TSH propojuje hypofýzu se štítnou žlázou",
+    "paragraphs": [
+      "TSH neboli tyreotropin vzniká v adenohypofýze a stimuluje činnost štítné žlázy. Je příkladem hormonu řídícího jinou endokrinní žlázu.",
+      "Představ si navazující řídicí zprávu mezi dvěma hormonálními úrovněmi. Hypofýza tak může ovlivnit tvorbu dalších hormonů v jiném orgánu.",
+      "TSH není totožný s tyroxinem ani trijodtyroninem. Ty vznikají ve štítné žláze, zatímco TSH přichází z hypofýzy."
+    ],
+    "memory": "TSH z adenohypofýzy stimuluje štítnou žlázu."
+  }
+]

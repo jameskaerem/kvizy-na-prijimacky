@@ -1,0 +1,82 @@
+[
+  {
+    "id": 636,
+    "category": "Biologie",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 12 · PDF 40",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 40",
+    "question": "Která dvojice bílých krvinek se v základním dělení řadí mezi agranulocyty?",
+    "title": "Monocyty a lymfocyty",
+    "options": [
+      "Neutrofily a eozinofily",
+      "Monocyty a lymfocyty",
+      "Bazofily a neutrofily",
+      "Eozinofily a monocyty"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Mezi agranulocyty patří monocyty a lymfocyty. Neutrofily, eozinofily a bazofily tvoří tři hlavní skupiny granulocytů."
+    ],
+    "memory": "Agranulocyty: monocyty a lymfocyty."
+  },
+  {
+    "id": 637,
+    "category": "Genetika",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 37 · PDF 43",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 43",
+    "question": "Jaké krevní skupiny může mít dítě rodičů se skupinami AB a 0 podle běžného modelu dědičnosti AB0?",
+    "title": "A nebo B, každou s pravděpodobností 50 %",
+    "options": [
+      "A nebo B, každou s pravděpodobností 50 %",
+      "Pouze AB",
+      "AB nebo 0, každou s pravděpodobností 50 %",
+      "Kteroukoli ze čtyř skupin"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Rodič se skupinou AB předává alelu A nebo B. Rodič se skupinou 0 vždy předává alelu 0. Dítě tak může mít genotyp A0 nebo B0."
+    ],
+    "memory": "AB × 0 dává ve standardním modelu skupiny A a B."
+  },
+  {
+    "id": 638,
+    "category": "Zrak",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 30 · PDF 61",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 61",
+    "question": "Která dvojice označuje hlavní typy světločivných buněk sítnice?",
+    "title": "Tyčinky a čípky",
+    "options": [
+      "Buňky čočky a rohovky",
+      "Gangliové a bipolární buňky",
+      "Vláskové a podpůrné buňky",
+      "Tyčinky a čípky"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Tyčinky jsou citlivé na slabé světlo. Čípky při dostatečném osvětlení umožňují mimo jiné rozlišovat barvy. Oba typy převádějí světelný podnět na buněčný signál."
+    ],
+    "memory": "Tyčinky pro šero, čípky pro barvy."
+  },
+  {
+    "id": 639,
+    "category": "Vitaminy",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 44 · PDF 69",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 69",
+    "question": "Který vitamin rozpustný v tucích pomáhá jako antioxidant chránit lipidy buněčných membrán?",
+    "title": "Vitamin E",
+    "options": [
+      "Vitamin D",
+      "Vitamin B12",
+      "Vitamin E",
+      "Vitamin K"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Vitamin E zastavuje některé řetězové reakce volných radikálů, které mohou oxidovat lipidy. Tuto antioxidační úlohu plní například alfa-tokoferol."
+    ],
+    "memory": "Vitamin E pomáhá chránit membránové lipidy."
+  }
+]

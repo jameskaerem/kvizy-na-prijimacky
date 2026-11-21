@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 751,
+    "category": "Vývoj jedince",
+    "bookRef": "str. 176",
+    "sourcePages": "176",
+    "question": "Co znamená ontogeneze?",
+    "options": [
+      "Jen poslední období stáří",
+      "Vývoj jedince od oplození do smrti",
+      "Výhradně evoluce celého druhu",
+      "Pouze vývoj pohlavních buněk"
+    ],
+    "answer": 1,
+    "title": "Ontogeneze = životní vývoj jedince.",
+    "paragraphs": [
+      "Ontogeneze zahrnuje všechny změny konkrétního jedince během života.",
+      "Sleduješ život jednoho člověka: vznik zárodku, růst, dospívání i stárnutí.",
+      "Není omezena na tělesný růst; zahrnuje také funkční a psychické změny."
+    ],
+    "memory": "Ontogeneze = životní vývoj jedince."
+  },
+  {
+    "id": 752,
+    "category": "Vývoj jedince",
+    "bookRef": "str. 176",
+    "sourcePages": "176",
+    "question": "Čím se fylogeneze liší od ontogeneze?",
+    "options": [
+      "Popisuje evoluční vývoj v posloupnosti generací",
+      "Popisuje výhradně první týden po oplození",
+      "Je jiným názvem menstruace",
+      "Týká se jen růstu jednoho orgánu"
+    ],
+    "answer": 0,
+    "title": "Fylogeneze sleduje vývoj napříč generacemi.",
+    "paragraphs": [
+      "Fylogeneze sleduje evoluční historii organismů, nikoli život jediného člověka.",
+      "Místo jedné životní dráhy pozoruješ změny napříč generacemi.",
+      "Růst dítěte tedy patří do ontogeneze, ne do fylogeneze člověka."
+    ],
+    "memory": "Fylogeneze sleduje vývoj napříč generacemi."
+  },
+  {
+    "id": 753,
+    "category": "Časný vývoj zárodku",
+    "bookRef": "str. 177",
+    "sourcePages": "177",
+    "question": "Co je rýhování časného zárodku?",
+    "options": [
+      "Okamžité zvětšení každé buňky na velikost dělohy",
+      "Pouze vytvoření jediné velké dutiny bez dělení",
+      "Rozpad všech chromozomů",
+      "Dělení na více menších buněk bez odpovídajícího zvětšování celku"
+    ],
+    "answer": 3,
+    "title": "Rýhování: více menších buněk.",
+    "paragraphs": [
+      "Při časném rýhování roste počet buněk, zatímco celkový objem se zpočátku mění málo.",
+      "Představ si rozdělování původního prostoru na stále menší oddíly.",
+      "Není to stejný typ růstu jako pozdější zvětšování těla plodu."
+    ],
+    "memory": "Rýhování: více menších buněk."
+  },
+  {
+    "id": 754,
+    "category": "Časný vývoj zárodku",
+    "bookRef": "str. 177",
+    "sourcePages": "177",
+    "question": "Jaký útvar je morula?",
+    "options": [
+      "Zralá placenta po porodu",
+      "Jednotlivá spermie",
+      "Kompaktní shluk buněk časného zárodku",
+      "Dutina močového měchýře"
+    ],
+    "answer": 2,
+    "title": "Morula připomíná kompaktní moruši.",
+    "paragraphs": [
+      "Morula je rané mnohobuněčné stadium vzniklé rýhováním.",
+      "Její vzhled připomíná moruši; buňky tvoří kompaktní shluk.",
+      "Blastocysta je pozdější uspořádání s dutinou, ne pouze nové jméno pro každou morulu."
+    ],
+    "memory": "Morula připomíná kompaktní moruši."
+  },
+  {
+    "id": 755,
+    "category": "Časný vývoj zárodku",
+    "bookRef": "str. 177–178",
+    "sourcePages": "177–178",
+    "question": "Která změna odlišuje blastocystu od kompaktní moruly?",
+    "options": [
+      "Úplná ztráta všech buněčných obalů",
+      "Vytvoření dutiny a odlišení buněčných částí",
+      "Návrat k jediné neoplozené buňce",
+      "Vznik celé kostry dospělého"
+    ],
+    "answer": 1,
+    "title": "Blastocysta už má dutinu.",
+    "paragraphs": [
+      "Blastocysta obsahuje dutinu a odlišené buněčné skupiny.",
+      "Původně kompaktní shluk se prostorově uspořádává pro další vývoj.",
+      "Nejde o plod s hotovými orgány, ale o velmi časné stadium před a během uhnízdění."
+    ],
+    "memory": "Blastocysta už má dutinu."
+  },
+  {
+    "id": 756,
+    "category": "Časný vývoj zárodku",
+    "bookRef": "str. 177–178",
+    "sourcePages": "177–178",
+    "question": "Co znamená nidace neboli implantace?",
+    "options": [
+      "Zanořování blastocysty do děložní sliznice",
+      "Uvolnění oocytu z vaječníku",
+      "Odchod placenty z dělohy",
+      "Spojení spermií v nadvarleti"
+    ],
+    "answer": 0,
+    "title": "Nidace = uhnízdění v endometriu.",
+    "paragraphs": [
+      "Nidace je uhnízdění časného zárodku v endometriu.",
+      "Představ si přichycení a postupné zapojení zárodku do připravené výstelky dělohy.",
+      "Oplození se obvykle odehraje dříve ve vejcovodu; nejde o stejnou událost."
+    ],
+    "memory": "Nidace = uhnízdění v endometriu."
+  },
+  {
+    "id": 757,
+    "category": "Placenta a plodové obaly",
+    "bookRef": "str. 179–180",
+    "sourcePages": "179–180",
+    "question": "Který plodový obal se podílí svými klky na tvorbě placenty?",
+    "options": [
+      "Rohovka",
+      "Pohrudnice",
+      "Pokožka matky",
+      "Chorion"
+    ],
+    "answer": 3,
+    "title": "Chorion se podílí na placentě.",
+    "paragraphs": [
+      "Na vzniku placenty se podílí chorion a mateřská děložní sliznice.",
+      "Jde o místo těsného funkčního kontaktu tkání plodu a matky.",
+      "Placenta tedy nevzniká jen z pupečníku ani jen z volné plodové vody."
+    ],
+    "memory": "Chorion se podílí na placentě."
+  },
+  {
+    "id": 758,
+    "category": "Placenta a plodové obaly",
+    "bookRef": "str. 179–180",
+    "sourcePages": "179–180",
+    "question": "Jak se nazývá vnitřní plodový obal ohraničující prostor s plodovou vodou?",
+    "options": [
+      "Pobřišnice",
+      "Bělima",
+      "Amnion",
+      "Osrdečník"
+    ],
+    "answer": 2,
+    "title": "Amnion obklopuje prostor s plodovou vodou.",
+    "paragraphs": [
+      "Amnion je vnitřní obal kolem plodu a plodové vody.",
+      "Na schématu leží nejblíže prostoru, ve kterém se plod nachází.",
+      "Chorion je zevnější obal; názvy označují různé struktury."
+    ],
+    "memory": "Amnion obklopuje prostor s plodovou vodou."
+  },
+  {
+    "id": 759,
+    "category": "Placenta a plodové obaly",
+    "bookRef": "str. 179",
+    "sourcePages": "179",
+    "question": "Jaká je jedna z mechanických funkcí plodové vody?",
+    "options": [
+      "Vytváří mateřské erytrocyty",
+      "Tlumí nárazy a umožňuje pohyb plodu",
+      "Nahrazuje veškerou krev plodu",
+      "Zajišťuje dýchání vzduchu v plicích"
+    ],
+    "answer": 1,
+    "title": "Plodová voda chrání mechanicky a dovoluje pohyb.",
+    "paragraphs": [
+      "Tekutina kolem plodu pomáhá tlumit mechanické vlivy a poskytuje prostor pro pohyb.",
+      "Představ si tekuté ochranné prostředí, nikoli pevnou výplň.",
+      "Plodová voda není nepropustný štít proti všem infekcím ani náhrada placentární výměny plynů."
+    ],
+    "memory": "Plodová voda chrání mechanicky a dovoluje pohyb."
+  },
+  {
+    "id": 760,
+    "category": "Placenta",
+    "bookRef": "str. 179–180",
+    "sourcePages": "179–180",
+    "question": "Co patří mezi základní výměnné funkce placenty?",
+    "options": [
+      "Přenos kyslíku a živin k plodu a odvod jeho odpadních látek",
+      "Dýchání atmosférického vzduchu plícemi plodu",
+      "Tvorba všech spermií matky",
+      "Přímé vedení moči matky do plodu"
+    ],
+    "answer": 0,
+    "title": "Placenta zprostředkuje výměnu mezi matkou a plodem.",
+    "paragraphs": [
+      "Placenta umožňuje výměnu látek mezi mateřským a fetálním organismem.",
+      "Pro plod zajišťuje přísun látek, které by po narození přijímal pomocí plic a trávicí soustavy.",
+      "Neznamená to anatomickou přeměnu placenty na plíce nebo střevo."
+    ],
+    "memory": "Placenta zprostředkuje výměnu mezi matkou a plodem."
+  },
+  {
+    "id": 761,
+    "category": "Placenta",
+    "bookRef": "str. 180",
+    "sourcePages": "180",
+    "question": "Jak jsou v placentě za běžných podmínek uspořádány krevní oběhy matky a plodu?",
+    "options": [
+      "Tvoří jediný společný cévní okruh bez oddělení",
+      "Krev plodu je nahrazena plodovou vodou",
+      "Mateřské srdce přímo čerpá krev do aorty plodu",
+      "Zůstávají oddělené a látky přestupují přes placentární rozhraní"
+    ],
+    "answer": 3,
+    "title": "Dva oběhy, výměna přes placentu.",
+    "paragraphs": [
+      "Mateřská a fetální krev se za normálních podmínek přímo neslévají do jednoho oběhu.",
+      "Látky přecházejí přes tenké rozhraní mezi oběma stranami.",
+      "Oddělení krevních proudů neznamená, že přes placentu nemohou pronikat některé škodliviny nebo původci infekcí."
+    ],
+    "memory": "Dva oběhy, výměna přes placentu."
+  },
+  {
+    "id": 762,
+    "category": "Placenta",
+    "bookRef": "str. 179",
+    "sourcePages": "179",
+    "question": "Jaké cévy obsahuje běžný pupečník?",
+    "options": [
+      "Pouze tři lymfatické cévy",
+      "Jedinou aortu",
+      "Dvě pupeční tepny a jednu pupeční žílu",
+      "Jednu tepnu a dvě žíly"
+    ],
+    "answer": 2,
+    "title": "Pupečník: dvě tepny, jedna žíla.",
+    "paragraphs": [
+      "Běžný pupečník má tři cévy: dvě tepny a jednu žílu.",
+      "Názvy tepna a žíla se určují podle směru vůči srdci plodu.",
+      "Zde pupeční žíla přivádí krev od placenty, takže nelze určovat název cévy jen podle okysličení."
+    ],
+    "memory": "Pupečník: dvě tepny, jedna žíla."
+  },
+  {
+    "id": 763,
+    "category": "Placenta",
+    "bookRef": "str. 180",
+    "sourcePages": "180",
+    "question": "Co pohání krevní oběh mezi plodem a placentou na fetální straně?",
+    "options": [
+      "Plodová voda místo srdce",
+      "Srdce plodu",
+      "Pouze svalovina žaludku matky",
+      "Pohyby mateřských plic přímo v cévách plodu"
+    ],
+    "answer": 1,
+    "title": "Fetální krev pohání srdce plodu.",
+    "paragraphs": [
+      "Fetální krev v pupečních cévách pohání vlastní srdce plodu.",
+      "Placenta je součástí jeho oběhové cesty, přestože zprostředkovává výměnu s matkou.",
+      "Matka zásobuje mateřskou stranu placenty svým oběhem; nejde o jedno společné srdce."
+    ],
+    "memory": "Fetální krev pohání srdce plodu."
+  },
+  {
+    "id": 764,
+    "category": "Placenta",
+    "bookRef": "str. 179–180",
+    "sourcePages": "179–180",
+    "question": "Proč placenta nezaručuje úplné oddělení plodu od škodlivých vlivů matčina prostředí?",
+    "options": [
+      "Některé látky a původci infekcí mohou přes placentu přestupovat",
+      "Protože vůbec neumožňuje přenos kyslíku",
+      "Protože plod nemá vlastní buňky",
+      "Protože obaly jsou tvořeny pouze vzduchem"
+    ],
+    "answer": 0,
+    "title": "Placenta není neprostupný štít.",
+    "paragraphs": [
+      "Placentární rozhraní je výběrové, nikoli absolutně neprostupné.",
+      "Stejné propojení, které zajišťuje výživu, může umožnit i přenos některých nežádoucích látek.",
+      "Neznamená to, že všechny látky přestupují stejně snadno nebo že každá infekce vždy poškodí plod."
+    ],
+    "memory": "Placenta není neprostupný štít."
+  },
+  {
+    "id": 765,
+    "category": "Placenta",
+    "bookRef": "str. 173, 229",
+    "sourcePages": "173, 229",
+    "question": "Jaká je časná úloha choriogonadotropinu ve vztahu ke žlutému tělísku?",
+    "options": [
+      "Zajišťuje jeho okamžitou přeměnu v ledvinu",
+      "Vytváří oocyty ve vejcovodu",
+      "Nahrazuje všechny chromozomy zárodku",
+      "Podporuje zachování jeho hormonální činnosti"
+    ],
+    "answer": 3,
+    "title": "hCG podporuje časnou činnost žlutého tělíska.",
+    "paragraphs": [
+      "Choriogonadotropin pomáhá udržet činnost žlutého tělíska v časném těhotenství.",
+      "Tělísko tak dál poskytuje hormonální podporu potřebnou pro endometrium.",
+      "Nejde o totožný hormon jako progesteron; signál a hormonální produkt cílové struktury jsou dvě různé věci."
+    ],
+    "memory": "hCG podporuje časnou činnost žlutého tělíska."
+  },
+  {
+    "id": 766,
+    "category": "Těhotenství",
+    "bookRef": "str. 178",
+    "sourcePages": "178",
+    "question": "Jaká změna dělohy umožňuje uložení rostoucího plodu?",
+    "options": [
+      "Zánik její svaloviny bez náhrady",
+      "Přesunutí plodu do močového měchýře",
+      "Výrazné zvětšování děložní dutiny a přizpůsobení stěny",
+      "Přeměna celé dělohy na kost"
+    ],
+    "answer": 2,
+    "title": "Děloha se přizpůsobuje růstu plodu.",
+    "paragraphs": [
+      "Děloha se během těhotenství výrazně zvětšuje.",
+      "Představ si orgán, jehož stěna se přestavuje podle rostoucího obsahu.",
+      "Velikost ani rychlost změn nejsou u všech těhotenství stejné; nejde o pevný objemový limit pro každou ženu."
+    ],
+    "memory": "Děloha se přizpůsobuje růstu plodu."
+  },
+  {
+    "id": 767,
+    "category": "Nitroděložní vývoj",
+    "bookRef": "str. 179, 187",
+    "sourcePages": "179, 187",
+    "question": "Jaký je základní rozdíl mezi embryonálním a fetálním obdobím?",
+    "options": [
+      "Embryonální období začíná až po porodu",
+      "V embryonálním se zakládají orgány, ve fetálním převažuje jejich růst a zrání",
+      "Embryo je neoplozený oocyt a plod spermie",
+      "Ve fetálním období všechny orgány zanikají"
+    ],
+    "answer": 1,
+    "title": "Embryo zakládá orgány, plod roste a dozrává.",
+    "paragraphs": [
+      "Časný vývoj zakládá tělesný plán a orgány, později sílí jejich růst a funkční dozrávání.",
+      "Představ si nejprve založení stavby a potom její zvětšování a dokončování.",
+      "Nejde o náhlé dokončení všech funkcí při přechodu mezi obdobími."
+    ],
+    "memory": "Embryo zakládá orgány, plod roste a dozrává."
+  },
+  {
+    "id": 768,
+    "category": "Nitroděložní vývoj",
+    "bookRef": "str. 179",
+    "sourcePages": "179",
+    "question": "Proč mohou být škodlivé vlivy při zakládání orgánů zvlášť závažné?",
+    "options": [
+      "Mohou narušit právě probíhající utváření orgánových základů",
+      "Protože embryo tehdy nemá genetickou informaci",
+      "Protože v tomto období placenta vždy přenáší jen škodliviny",
+      "Protože každý podnět působí stejně ve všech týdnech"
+    ],
+    "answer": 0,
+    "title": "Význam vlivu závisí i na fázi vývoje.",
+    "paragraphs": [
+      "Vývojové procesy probíhají v určitém pořadí a mohou mít citlivá období.",
+      "Zásah při zakládání struktury může mít jiný důsledek než pozdější zásah do hotovějšího orgánu.",
+      "Účinek závisí také na druhu vlivu, intenzitě a době působení; nelze automaticky předpovědět konkrétní poškození."
+    ],
+    "memory": "Význam vlivu závisí i na fázi vývoje."
+  },
+  {
+    "id": 769,
+    "category": "Těhotenství",
+    "bookRef": "str. 180",
+    "sourcePages": "180",
+    "question": "Od jaké události se obvykle počítá přibližných 40 týdnů těhotenství?",
+    "options": [
+      "Od prvního pohybu plodu",
+      "Od porodu placenty",
+      "Od konce šestinedělí",
+      "Od prvního dne poslední menstruace"
+    ],
+    "answer": 3,
+    "title": "Porodnické týdny se počítají od poslední menstruace.",
+    "paragraphs": [
+      "Porodnické stáří se běžně počítá od začátku poslední menstruace.",
+      "Proto bývá zhruba o dva týdny vyšší než doba uplynulá od oplození v modelovém cyklu.",
+      "Čtyřicet týdnů od menstruace neznamená čtyřicet týdnů od oplození u každého těhotenství."
+    ],
+    "memory": "Porodnické týdny se počítají od poslední menstruace."
+  },
+  {
+    "id": 770,
+    "category": "Porod",
+    "bookRef": "str. 180–181",
+    "sourcePages": "180–181",
+    "question": "Jaké je základní pořadí dějů při běžném vaginálním porodu?",
+    "options": [
+      "Nidace, menstruace, rýhování",
+      "Narození dítěte, vznik oocytu, vznik dělohy",
+      "Otevírání hrdla, narození dítěte, porod placenty",
+      "Porod placenty, oplození, ovulace"
+    ],
+    "answer": 2,
+    "title": "Otevření → dítě → placenta.",
+    "paragraphs": [
+      "Porod zahrnuje přípravu porodních cest, vypuzení dítěte a následně placenty.",
+      "Nejde o jediný okamžik, ale o navazující fáze.",
+      "Délka a průběh se liší; schéma není návodem k vedení porodu."
+    ],
+    "memory": "Otevření → dítě → placenta."
+  },
+  {
+    "id": 771,
+    "category": "Porod",
+    "bookRef": "str. 181",
+    "sourcePages": "181",
+    "question": "Co se při porodu běžně vypuzuje po narození dítěte?",
+    "options": [
+      "Močový měchýř",
+      "Placenta s plodovými obaly",
+      "Celá děloha",
+      "Oba vaječníky"
+    ],
+    "answer": 1,
+    "title": "Po dítěti následuje placenta a obaly.",
+    "paragraphs": [
+      "Po narození dítěte se odlučuje a rodí placenta s obaly.",
+      "Jejich dočasná úloha pro výživu a ochranu plodu tím končí.",
+      "Není to odstranění vlastní dělohy ani běžných pohlavních orgánů."
+    ],
+    "memory": "Po dítěti následuje placenta a obaly."
+  },
+  {
+    "id": 772,
+    "category": "Poporodní období",
+    "bookRef": "str. 181",
+    "sourcePages": "181",
+    "question": "Co označuje šestinedělí?",
+    "options": [
+      "Období poporodních změn a návratu organismu po těhotenství",
+      "Šestý týden před oplozením",
+      "Prvních šest let života dítěte",
+      "Období samotné ovulace"
+    ],
+    "answer": 0,
+    "title": "Šestinedělí následuje po porodu.",
+    "paragraphs": [
+      "Šestinedělí je přibližně šestitýdenní období po porodu.",
+      "Děloha a další orgány se postupně přizpůsobují stavu po skončení těhotenství.",
+      "Neznamená to, že se všechny funkce včetně cyklu musejí přesně za šest týdnů vrátit do stejného stavu."
+    ],
+    "memory": "Šestinedělí následuje po porodu."
+  },
+  {
+    "id": 773,
+    "category": "Porod",
+    "bookRef": "str. 180–181",
+    "sourcePages": "180–181",
+    "question": "Která část dělohy se musí při vaginálním porodu rozšířit, aby mohl plod projít?",
+    "options": [
+      "Vaječníkový folikul",
+      "Ledvinná pánvička",
+      "Žlučový vývod",
+      "Děložní hrdlo"
+    ],
+    "answer": 3,
+    "title": "Porodní cesta vede přes otevřené hrdlo.",
+    "paragraphs": [
+      "Otevírání děložního hrdla vytváří průchod mezi děložní dutinou a pochvou.",
+      "Představ si postupné rozšíření dolního výstupu dělohy.",
+      "Samotný růst plodu ještě neznamená otevřené porodní cesty; jde o další proces."
+    ],
+    "memory": "Porodní cesta vede přes otevřené hrdlo."
+  },
+  {
+    "id": 774,
+    "category": "Plodnost",
+    "bookRef": "str. 182",
+    "sourcePages": "182",
+    "question": "Které tvrzení správně vystihuje možné příčiny neplodnosti páru?",
+    "options": [
+      "Vždy je způsobuje jen chybějící děloha",
+      "Nemohou souviset s tvorbou spermií",
+      "Mohou se týkat ženy, muže nebo obou partnerů",
+      "Vždy pocházejí výhradně od ženy"
+    ],
+    "answer": 2,
+    "title": "Příčina neplodnosti může být na obou stranách.",
+    "paragraphs": [
+      "Učebnice uvádí poruchy funkce vaječníků i tvorby spermií jako příklady různých příčin.",
+      "Úspěšné rozmnožování vyžaduje navazující funkce na obou stranách.",
+      "Pouhý neúspěch početí neumožňuje určit konkrétní příčinu ani obviňovat jednoho partnera."
+    ],
+    "memory": "Příčina neplodnosti může být na obou stranách."
+  },
+  {
+    "id": 775,
+    "category": "Antikoncepce",
+    "bookRef": "str. 182",
+    "sourcePages": "182",
+    "question": "Co znamená antikoncepce?",
+    "options": [
+      "Jiný název porodu",
+      "Metody směřující k zabránění vzniku těhotenství",
+      "Pouze ukončení už existujícího těhotenství",
+      "Výhradně podpora ovulace"
+    ],
+    "answer": 1,
+    "title": "Antikoncepce těhotenství předchází.",
+    "paragraphs": [
+      "Antikoncepce označuje předcházení těhotenství různými mechanismy.",
+      "Některé metody omezují setkání gamet, jiné ovulaci nebo jiné kroky před vznikem těhotenství.",
+      "Nejde o synonymum pro interrupci, která ukončuje už existující těhotenství."
+    ],
+    "memory": "Antikoncepce těhotenství předchází."
+  },
+  {
+    "id": 776,
+    "category": "Antikoncepce",
+    "bookRef": "str. 183–184",
+    "sourcePages": "183–184",
+    "question": "Jaký je princip bariérové antikoncepce?",
+    "options": [
+      "Mechanicky omezuje průnik spermií k oocytu",
+      "Vytváří nové spermie v děloze",
+      "Vždy vypíná všechny hormony těla",
+      "Nahrazuje placentační oběh"
+    ],
+    "answer": 0,
+    "title": "Bariérová metoda vytváří mechanickou překážku.",
+    "paragraphs": [
+      "Bariéra odděluje spermie od cesty k oocytu.",
+      "Představ si fyzickou překážku, nikoli hormonální signál.",
+      "Jednotlivé bariérové metody se liší; nelze jim automaticky přisoudit stejnou účinnost ani stejnou ochranu před infekcemi."
+    ],
+    "memory": "Bariérová metoda vytváří mechanickou překážku."
+  },
+  {
+    "id": 777,
+    "category": "Antikoncepce",
+    "bookRef": "str. 183",
+    "sourcePages": "183",
+    "question": "Které hormony obsahuje kombinovaná hormonální antikoncepce jako základní typ složení?",
+    "options": [
+      "Pouze inzulin a glukagon",
+      "Jen adrenalin a noradrenalin",
+      "Výhradně tyroxin a kalcitonin",
+      "Estrogen a gestagen"
+    ],
+    "answer": 3,
+    "title": "Kombinovaná = estrogen a gestagen.",
+    "paragraphs": [
+      "Kombinované přípravky spojují estrogenovou a gestagenní složku.",
+      "Název kombinovaná odkazuje na dvě hormonální složky, které ovlivňují reprodukční regulaci.",
+      "Konkrétní přípravky a režimy se liší; z tohoto principu neplyne univerzální návod k užívání."
+    ],
+    "memory": "Kombinovaná = estrogen a gestagen."
+  },
+  {
+    "id": 778,
+    "category": "Antikoncepce",
+    "bookRef": "str. 183–184",
+    "sourcePages": "183–184",
+    "question": "Čím se gestagenní antikoncepce složením liší od kombinované?",
+    "options": [
+      "Neobsahuje žádnou hormonální látku",
+      "Vždy obsahuje více estrogenů než kombinovaná",
+      "Neobsahuje estrogenovou složku",
+      "Obsahuje pouze spermie"
+    ],
+    "answer": 2,
+    "title": "Gestagenní metoda je bez estrogenu.",
+    "paragraphs": [
+      "Gestagenní metoda používá gestagenní složku bez estrogenu.",
+      "Rozdíl je ve složení, nikoli v tom, že by šlo o mechanickou bariéru.",
+      "Podoba a účinek jednotlivých metod se mohou lišit; ne všechny působí jediným stejným mechanismem."
+    ],
+    "memory": "Gestagenní metoda je bez estrogenu."
+  },
+  {
+    "id": 779,
+    "category": "Antikoncepce a infekce",
+    "bookRef": "str. 183",
+    "sourcePages": "183",
+    "question": "Které tvrzení správně odlišuje hormonální pilulku od kondomu?",
+    "options": [
+      "Kondom je hormon adenohypofýzy",
+      "Pilulka nechrání před pohlavně přenosnými infekcemi",
+      "Obě metody vždy zaručí ochranu před všemi infekcemi",
+      "Pilulka zachycuje viry jako mechanická síť"
+    ],
+    "answer": 1,
+    "title": "Prevence početí a prevence infekcí nejsou totéž.",
+    "paragraphs": [
+      "Hormonální antikoncepce ovlivňuje reprodukční děje, nevytváří bariéru proti přenosu infekcí.",
+      "Kondom může při správném a důsledném použití snižovat riziko většiny pohlavně přenosných infekcí.",
+      "Omezení rizika není absolutní záruka; některé infekce se přenášejí i kontaktem nekryté kůže."
+    ],
+    "memory": "Prevence početí a prevence infekcí nejsou totéž."
+  },
+  {
+    "id": 780,
+    "category": "Antikoncepce",
+    "bookRef": "str. 184",
+    "sourcePages": "184",
+    "question": "Co jsou spermicidy?",
+    "options": [
+      "Látky poškozující spermie nebo omezující jejich funkci",
+      "Hormony vyvolávající tvorbu spermií",
+      "Buňky vyrábějící vajíčka",
+      "Název pro pupeční cévy"
+    ],
+    "answer": 0,
+    "title": "Spermicidy působí proti spermiím.",
+    "paragraphs": [
+      "Spermicidy jsou chemické prostředky zaměřené na spermie.",
+      "Na rozdíl od bariéry působí chemicky, nikoli jen jako fyzická překážka.",
+      "Samotné označení neznamená spolehlivou ochranu před infekcemi ani návod k použití."
+    ],
+    "memory": "Spermicidy působí proti spermiím."
+  },
+  {
+    "id": 781,
+    "category": "Antikoncepce",
+    "bookRef": "str. 185",
+    "sourcePages": "185",
+    "question": "Jaký je anatomický princip sterilizace přerušením chámovodů?",
+    "options": [
+      "Odstranit tvorbu testosteronu vyjmutím všech žláz",
+      "Vytvořit další varle",
+      "Přerušit odtok moči z ledvin",
+      "Zablokovat vývodnou cestu spermií"
+    ],
+    "answer": 3,
+    "title": "Přerušený chámovod blokuje cestu spermií.",
+    "paragraphs": [
+      "Při tomto typu sterilizace se omezí průchod spermií chámovody.",
+      "Tvorba hormonů ve varlatech a vývodná cesta spermií jsou dvě různé funkce.",
+      "Sterilizace není totéž co odstranění varlat; otázka popisuje princip, nikoli postup výkonu."
+    ],
+    "memory": "Přerušený chámovod blokuje cestu spermií."
+  },
+  {
+    "id": 782,
+    "category": "Antikoncepce",
+    "bookRef": "str. 184–185",
+    "sourcePages": "184–185",
+    "question": "Proč nelze určit plodné období každé ženy jen pevným kalendářním dnem?",
+    "options": [
+      "Každá spermie přežívá vždy přesně jednu minutu",
+      "Vaječníky nejsou součástí cyklu",
+      "Načasování ovulace i délka cyklu mohou kolísat",
+      "Ovulace probíhá u všech žen každou hodinu"
+    ],
+    "answer": 2,
+    "title": "Kalendářní model není jistá předpověď ovulace.",
+    "paragraphs": [
+      "Skutečné cykly nemají neměnný průběh a načasování ovulace se liší.",
+      "Modelový graf dává přehled o souvislostech, ale sám není přesnou předpovědí konkrétního cyklu.",
+      "Jednoduché počítání dnů proto nelze vydávat za jistou ochranu před těhotenstvím."
+    ],
+    "memory": "Kalendářní model není jistá předpověď ovulace."
+  },
+  {
+    "id": 783,
+    "category": "Antikoncepce",
+    "bookRef": "str. 182",
+    "sourcePages": "182",
+    "question": "Čím se interrupce pojmově liší od antikoncepce?",
+    "options": [
+      "Je běžnou fází každého cyklu",
+      "Ukončuje již existující těhotenství",
+      "Je pouze jiným názvem kondomu",
+      "Vždy znamená spontánní ovulaci"
+    ],
+    "answer": 1,
+    "title": "Interrupce ukončuje, antikoncepce předchází.",
+    "paragraphs": [
+      "Interrupce je umělé ukončení těhotenství, antikoncepce směřuje k jeho prevenci.",
+      "Rozdíl je v tom, zda těhotenství už existuje.",
+      "Zde jde o vysvětlení pojmů, nikoli o právní podmínky, rizikové odhady nebo návod k výkonu."
+    ],
+    "memory": "Interrupce ukončuje, antikoncepce předchází."
+  },
+  {
+    "id": 784,
+    "category": "Období lidského života",
+    "bookRef": "str. 186–187",
+    "sourcePages": "186–187",
+    "question": "Které pořadí patří do nitroděložního vývoje?",
+    "options": [
+      "Rýhování → embryonální vývoj → fetální vývoj",
+      "Puberta → stáří → rýhování",
+      "Novorozenec → embryo → ovulace",
+      "Menopauza → kojenec → morula"
+    ],
+    "answer": 0,
+    "title": "Před narozením: rýhování, embryo, plod.",
+    "paragraphs": [
+      "Nitroděložní vývoj postupuje od časných dělení přes vývoj zárodku k plodu.",
+      "Jednotlivé fáze navazují a připravují další úroveň stavby těla.",
+      "Novorozenecké období začíná až narozením."
+    ],
+    "memory": "Před narozením: rýhování, embryo, plod."
+  },
+  {
+    "id": 785,
+    "category": "Období lidského života",
+    "bookRef": "str. 186–188",
+    "sourcePages": "186–188",
+    "question": "Kterému období odpovídají přibližně první čtyři týdny po narození?",
+    "options": [
+      "Batolecímu",
+      "Předškolnímu",
+      "Pubertálnímu",
+      "Novorozeneckému"
+    ],
+    "answer": 3,
+    "title": "Novorozenec = první týdny po porodu.",
+    "paragraphs": [
+      "Novorozenecké období zahrnuje první týdny života mimo dělohu.",
+      "Je charakteristické přizpůsobením dýchání, oběhu a dalších funkcí novým podmínkám.",
+      "Označení novorozenec se nevztahuje na celý první rok; ten je širším kojeneckým obdobím."
+    ],
+    "memory": "Novorozenec = první týdny po porodu."
+  },
+  {
+    "id": 786,
+    "category": "Adaptace novorozence",
+    "bookRef": "str. 187–188",
+    "sourcePages": "187–188",
+    "question": "Jaká zásadní změna nastává po narození ve výměně dýchacích plynů?",
+    "options": [
+      "Placenta zůstává trvalým dýchacím orgánem dospělého",
+      "Novorozenec přestane potřebovat kyslík",
+      "Kyslík začínají zajišťovat rozepnuté a ventilované plíce",
+      "Kyslík se nově vyrábí v kostech"
+    ],
+    "answer": 2,
+    "title": "Po porodu přebírají výměnu plynů plíce.",
+    "paragraphs": [
+      "Po narození přebírají výměnu plynů plíce.",
+      "Současně se mění poměry v krevním oběhu, protože placentární cesta přestává fungovat.",
+      "Nejde o to, že by plod před narozením kyslík nepotřeboval; získával jej jinou cestou."
+    ],
+    "memory": "Po porodu přebírají výměnu plynů plíce."
+  },
+  {
+    "id": 787,
+    "category": "Adaptace novorozence",
+    "bookRef": "str. 188",
+    "sourcePages": "188",
+    "question": "Jaký význam má vrozený sací reflex novorozence?",
+    "options": [
+      "Je vědomě naučenou dovedností před početím",
+      "Pomáhá při příjmu mléka",
+      "Umožňuje tvorbu nových zubů během minut",
+      "Nahrazuje funkci plic"
+    ],
+    "answer": 1,
+    "title": "Sací reflex podporuje příjem mléka.",
+    "paragraphs": [
+      "Sací reflex patří mezi vrozené reakce usnadňující příjem potravy.",
+      "Některé základní funkce jsou připraveny již při narození, přestože nervová soustava dál dozrává.",
+      "Přítomnost reflexu neznamená úplnou vyspělost všech pohybových a nervových funkcí."
+    ],
+    "memory": "Sací reflex podporuje příjem mléka."
+  },
+  {
+    "id": 788,
+    "category": "Růst a tělesné proporce",
+    "bookRef": "str. 186, 188",
+    "sourcePages": "186, 188",
+    "question": "Jak se liší relativní velikost hlavy novorozence od dospělého?",
+    "options": [
+      "Hlava tvoří větší podíl délky těla",
+      "Hlava je relativně menší než u dospělého",
+      "Je vždy stejně velká jako celý trup i končetiny dohromady",
+      "Poměr se po celý život nemění"
+    ],
+    "answer": 0,
+    "title": "Novorozenec má relativně větší hlavu.",
+    "paragraphs": [
+      "Hlava novorozence představuje větší část celkové délky než u dospělého.",
+      "Při růstu se různé části těla nezvětšují stejným tempem.",
+      "Dítě tedy není pouze rovnoměrně zmenšenou kopií dospělého."
+    ],
+    "memory": "Novorozenec má relativně větší hlavu."
+  },
+  {
+    "id": 789,
+    "category": "Vývoj nervové soustavy",
+    "bookRef": "str. 188",
+    "sourcePages": "188",
+    "question": "Proč se schopnosti novorozence dále výrazně mění s vývojem nervové soustavy?",
+    "options": [
+      "Všechny nervové funkce jsou od porodu definitivně hotové",
+      "Mozek po porodu úplně zaniká",
+      "Každá naučená dovednost vyžaduje změnu počtu chromozomů",
+      "Pokračuje zrání spojů a myelinizace nervových drah"
+    ],
+    "answer": 3,
+    "title": "Nervové spoje po narození dál dozrávají.",
+    "paragraphs": [
+      "Po narození pokračují změny nervových spojení i myelinových obalů.",
+      "Lépe dozrávající síť umožňuje postupné zvládání složitějších pohybů a reakcí.",
+      "Nelze z toho odvozovat, že všechny děti dosáhnou stejné dovednosti přesně v jediný den."
+    ],
+    "memory": "Nervové spoje po narození dál dozrávají."
+  },
+  {
+    "id": 790,
+    "category": "Období lidského života",
+    "bookRef": "str. 186, 188",
+    "sourcePages": "186, 188",
+    "question": "Do kdy podle základního členění trvá kojenecké období?",
+    "options": [
+      "Do začátku puberty",
+      "Jen první den po narození",
+      "Do konce prvního roku života",
+      "Do konce třetího roku"
+    ],
+    "answer": 2,
+    "title": "Kojenecký věk = první rok.",
+    "paragraphs": [
+      "Kojenecké období zahrnuje první rok života.",
+      "Jde o věkové označení spojené s intenzivním růstem a vývojem.",
+      "Délka skutečného kojení jednotlivého dítěte sama neurčuje hranice tohoto věkového období."
+    ],
+    "memory": "Kojenecký věk = první rok."
+  },
+  {
+    "id": 791,
+    "category": "Období lidského života",
+    "bookRef": "str. 186, 189",
+    "sourcePages": "186, 189",
+    "question": "Jaký věk přibližně odpovídá období batolete?",
+    "options": [
+      "Od patnácti do osmnácti let",
+      "Od jednoho do tří let",
+      "Od šesti do dvanácti let",
+      "První čtyři týdny"
+    ],
+    "answer": 1,
+    "title": "Batole = přibližně jeden až tři roky.",
+    "paragraphs": [
+      "Batolecí období navazuje na kojenecké a trvá přibližně do třetích narozenin.",
+      "Výrazně se rozvíjí pohyb, řeč a samostatnost.",
+      "Věk je orientační členění vývoje; konkrétní dovednosti mají individuální rozptyl."
+    ],
+    "memory": "Batole = přibližně jeden až tři roky."
+  },
+  {
+    "id": 792,
+    "category": "Období lidského života",
+    "bookRef": "str. 186, 189",
+    "sourcePages": "186, 189",
+    "question": "Který rozsah odpovídá předškolnímu věku v učebnici?",
+    "options": [
+      "Přibližně tři až šest let",
+      "Narození až čtyři týdny",
+      "Jeden až tři měsíce",
+      "Přibližně dvacet až třicet let"
+    ],
+    "answer": 0,
+    "title": "Předškolní věk přibližně tři až šest let.",
+    "paragraphs": [
+      "Předškolní období následuje po batolecím a předchází školnímu.",
+      "Rozvíjejí se pohybové dovednosti, učení, paměť a sociální chování.",
+      "Školní docházka je společenské uspořádání; biologické zrání samo nemá u všech dětí stejný přesný den."
+    ],
+    "memory": "Předškolní věk přibližně tři až šest let."
+  },
+  {
+    "id": 793,
+    "category": "Vývoj dítěte",
+    "bookRef": "str. 189",
+    "sourcePages": "189",
+    "question": "Jakou úlohu mají pohyb a hra v předškolním období podle učebnice?",
+    "options": [
+      "Zcela nahrazují spánek",
+      "Ukončují další vývoj nervové soustavy",
+      "Zajišťují naprostou totožnost schopností všech dětí",
+      "Podporují tělesný i duševní rozvoj"
+    ],
+    "answer": 3,
+    "title": "Hra propojuje pohyb, učení a vztahy.",
+    "paragraphs": [
+      "Hra a pohyb jsou součástí rozvoje motoriky, poznávání a vztahů.",
+      "Při hře dítě propojuje vnímání, jednání a zkušenost.",
+      "Nejde jen o zvětšování svalů ani o záruku stejných výsledků všech dětí."
+    ],
+    "memory": "Hra propojuje pohyb, učení a vztahy."
+  },
+  {
+    "id": 794,
+    "category": "Období lidského života",
+    "bookRef": "str. 186, 189",
+    "sourcePages": "186, 189",
+    "question": "Jaký věk přibližně zahrnuje mladší školní období v učebnici?",
+    "options": [
+      "První měsíc života",
+      "Nad devadesát let",
+      "Šest až dvanáct let",
+      "Jeden až tři roky"
+    ],
+    "answer": 2,
+    "title": "Mladší školní věk: přibližně šest až dvanáct let.",
+    "paragraphs": [
+      "Učebnice zařazuje mladší školní věk přibližně mezi šestý a dvanáctý rok.",
+      "Navazuje na předškolní období a předchází staršímu školnímu věku.",
+      "Nejde o přesnou hranici hormonálních změn; počátek puberty se může individuálně lišit."
+    ],
+    "memory": "Mladší školní věk: přibližně šest až dvanáct let."
+  },
+  {
+    "id": 795,
+    "category": "Puberta",
+    "bookRef": "str. 190",
+    "sourcePages": "190",
+    "question": "Co znamená pubertální růstový spurt?",
+    "options": [
+      "Návrat těla do novorozeneckých proporcí",
+      "Období zrychleného tělesného růstu při dospívání",
+      "Úplné zastavení růstu u všech lidí v deseti letech",
+      "Výhradně nárůst počtu chromozomů"
+    ],
+    "answer": 1,
+    "title": "Růstový spurt = zrychlení růstu v pubertě.",
+    "paragraphs": [
+      "Při dospívání se růst může výrazně zrychlit.",
+      "Jde o součást širších hormonálně řízených změn těla.",
+      "Načasování a intenzita nejsou u všech lidí stejné; jedno pevné číslo nemůže popsat každého."
+    ],
+    "memory": "Růstový spurt = zrychlení růstu v pubertě."
+  },
+  {
+    "id": 796,
+    "category": "Puberta",
+    "bookRef": "str. 190–191",
+    "sourcePages": "190–191",
+    "question": "Proč pohlavní zralost není totéž co úplná psychosociální zralost?",
+    "options": [
+      "Schopnost rozmnožování a psychický i sociální vývoj nemusejí dozrávat současně",
+      "Protože puberta nemá tělesnou složku",
+      "Protože se psychika po narození už nevyvíjí",
+      "Protože všichni lidé dospějí ve stejnou hodinu"
+    ],
+    "answer": 0,
+    "title": "Různé složky zralosti mají různá tempa.",
+    "paragraphs": [
+      "Učebnice rozlišuje reprodukční schopnost od širší fyzické a psychosociální vyspělosti.",
+      "Jednotlivé oblasti vývoje mají vlastní tempo.",
+      "Z přítomnosti pohlavních znaků proto nelze vyvozovat úplnou připravenost na všechny životní role."
+    ],
+    "memory": "Různé složky zralosti mají různá tempa."
+  },
+  {
+    "id": 797,
+    "category": "Období lidského života",
+    "bookRef": "str. 191",
+    "sourcePages": "191",
+    "question": "Co označuje adolescence v členění lidského vývoje?",
+    "options": [
+      "První fázi rýhování",
+      "Pouze první měsíc po porodu",
+      "Jiný název menopauzy",
+      "Období dospívání mezi dětstvím a dospělostí"
+    ],
+    "answer": 3,
+    "title": "Adolescence patří k dospívání.",
+    "paragraphs": [
+      "Adolescence je období dospívání s pokračujícími tělesnými a psychosociálními změnami.",
+      "Učebnice pro dorostový věk uvádí přibližně patnáct až osmnáct let.",
+      "Různá členění mohou mít širší hranice; podstatný je přechod k dospělosti, ne jediná univerzální věková hranice."
+    ],
+    "memory": "Adolescence patří k dospívání."
+  },
+  {
+    "id": 798,
+    "category": "Období lidského života",
+    "bookRef": "str. 191",
+    "sourcePages": "191",
+    "question": "S jakou změnou souvisí menopauza?",
+    "options": [
+      "Pravidelnou ovulací každý týden",
+      "Narozením dítěte a porodem placenty",
+      "Trvalé ukončení menstruace při útlumu ovariální folikulární činnosti",
+      "První menstruací v životě"
+    ],
+    "answer": 2,
+    "title": "Menopauza souvisí s koncem menstruace.",
+    "paragraphs": [
+      "Menopauza souvisí s útlumem funkce vaječníků a koncem menstruačních cyklů.",
+      "Není to jen krátká pauza jednoho cyklu, ale životní přechod související s reprodukčním stárnutím.",
+      "Neznamená okamžité zastavení všech hormonálních funkcí organismu ani všech složek sexuality."
+    ],
+    "memory": "Menopauza souvisí s koncem menstruace."
+  },
+  {
+    "id": 799,
+    "category": "Stárnutí",
+    "bookRef": "str. 191–192",
+    "sourcePages": "191–192",
+    "question": "Jak může změna meziobratlových plotének přispívat ke změně výšky ve stáří?",
+    "options": [
+      "Nemá žádný vztah k výšce páteře",
+      "Pokles jejich výšky může snížit celkovou tělesnou výšku",
+      "Vytvoří další metrový úsek páteře",
+      "Změní všechny obratle na svaly"
+    ],
+    "answer": 1,
+    "title": "Výška plotének přispívá k výšce páteře.",
+    "paragraphs": [
+      "Učebnice spojuje změny pojivových tkání a plotének s možným snížením tělesné výšky.",
+      "Drobná změna více meziobratlových prostorů se může sečíst.",
+      "Stárnutí má více příčin a projevů; každý pokles výšky nelze vysvětlit pouze jedním mechanismem."
+    ],
+    "memory": "Výška plotének přispívá k výšce páteře."
+  },
+  {
+    "id": 800,
+    "category": "Stárnutí",
+    "bookRef": "str. 192",
+    "sourcePages": "192",
+    "question": "Jak učebnice popisuje význam vztahů a pocitu sounáležitosti ve stáří?",
+    "options": [
+      "Jsou důležité pro psychickou pohodu a kvalitu života",
+      "Ve stáří už nemají žádný význam",
+      "Nahrazují všechny tělesné funkce",
+      "Zaručují úplné zastavení biologického stárnutí"
+    ],
+    "answer": 0,
+    "title": "Ve stáří zůstávají vztahy důležité.",
+    "paragraphs": [
+      "Vedle tělesného zdraví a zajištění zdůrazňuje učebnice i vztahy a psychické potřeby.",
+      "Člověk zůstává součástí sociálního prostředí v každém věku.",
+      "Sociální podpora není záruka nepřítomnosti nemocí, ale patří k podmínkám kvality života."
+    ],
+    "memory": "Ve stáří zůstávají vztahy důležité."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 609,
+    "category": "Biologie",
+    "bookRef": "prilohy_6393.zip · Biologie 2019, společná sada · úloha 6 · PDF 1",
+    "sourceFile": "Biologie 2019, společná sada",
+    "sourcePages": "PDF 1",
+    "question": "Která struktura v hlemýždi obsahuje vláskové buňky pro sluch?",
+    "title": "Cortiho orgán",
+    "options": [
+      "Cortiho orgán",
+      "Polokruhový kanálek",
+      "Bubínek",
+      "Eustachova trubice"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Cortiho orgán leží v hlemýždi. Jeho vláskové buňky reagují na pohyb vyvolaný zvukem a zahajují přenos sluchové informace do nervové soustavy."
+    ],
+    "memory": "Cortiho orgán je sluchová struktura hlemýždě."
+  },
+  {
+    "id": 610,
+    "category": "Biologie",
+    "bookRef": "prilohy_6393.zip · Biologie 2019, společná sada · úloha 17 · PDF 3",
+    "sourceFile": "Biologie 2019, společná sada",
+    "sourcePages": "PDF 3",
+    "question": "Kam ústí jaterní žíly, které odvádějí krev z jater?",
+    "title": "Do dolní duté žíly",
+    "options": [
+      "Do horní duté žíly",
+      "Do dolní duté žíly",
+      "Do vrátnicové žíly",
+      "Přímo do levé síně"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Krev ze střeva teče vrátnicovou žílou do jater. Po průtoku játry se krev vrací jaterními žilami do dolní duté žíly a dále do pravé síně."
+    ],
+    "memory": "Vrátnice vede do jater, jaterní žíly vedou z jater."
+  },
+  {
+    "id": 611,
+    "category": "Biologie",
+    "bookRef": "prilohy_6393.zip · zsp_biologie.pdf · úloha 10 · PDF 2",
+    "sourceFile": "zsp_biologie.pdf",
+    "sourcePages": "PDF 2",
+    "question": "Které buňky u zdravého člověka tvoří hlavní část glukagonu uvolňovaného do krve?",
+    "title": "Alfa buňky ostrůvků slinivky",
+    "options": [
+      "Beta buňky ostrůvků slinivky",
+      "Buňky kůry nadledvin",
+      "Alfa buňky ostrůvků slinivky",
+      "Jaterní buňky"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Při poklesu glykemie alfa buňky uvolňují glukagon. Játra na něj reagují mimo jiné odbouráváním zásobního glykogenu a uvolňováním glukózy. Beta buňky tvoří inzulin."
+    ],
+    "memory": "Alfa tvoří glukagon, beta inzulin."
+  },
+  {
+    "id": 612,
+    "category": "Ošetřovatelství",
+    "bookRef": "prilohy_6393.zip · intenzivni-pece.pdf · úloha 10 · PDF 2",
+    "sourceFile": "intenzivni-pece.pdf",
+    "sourcePages": "PDF 2",
+    "question": "Jakou frekvenci stlačování hrudníku při resuscitaci dospělého uvádí ERC v doporučeních pro základní resuscitaci z roku 2025?",
+    "title": "100–120 stlačení za minutu",
+    "options": [
+      "40–60 stlačení za minutu",
+      "70–90 stlačení za minutu",
+      "140–160 stlačení za minutu",
+      "100–120 stlačení za minutu"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Doporučení pro základní resuscitaci dospělých uvádí tempo 100–120 za minutu a co nejméně přerušování. Frekvence udává tempo stlačování, zatímco hloubka je samostatný parametr."
+    ],
+    "memory": "Tempo stlačování u dospělého je 100–120 za minutu."
+  }
+]

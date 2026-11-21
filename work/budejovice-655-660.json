@@ -1,0 +1,122 @@
+[
+  {
+    "id": 655,
+    "category": "Psychologie",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 16 · PDF 152",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 152",
+    "question": "Do kterého typu inteligence řadí model Daniela Golemana empatii a práci s emocemi?",
+    "title": "Emoční inteligence",
+    "options": [
+      "Fluidní inteligence",
+      "Emoční inteligence",
+      "Krystalická inteligence",
+      "Prostorová inteligence"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "V Golemanově modelu patří empatie k sociálnímu uvědomění, jedné z oblastí emoční inteligence. Rozpoznávání vlastních pocitů a porozumění emocím druhých v tomto modelu představují různé schopnosti."
+    ],
+    "memory": "Empatie patří v Golemanově modelu k emoční inteligenci."
+  },
+  {
+    "id": 656,
+    "category": "Etika",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 5 · PDF 46",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 46",
+    "question": "Jak nizozemský právní rámec používá výraz eutanazie v užším smyslu?",
+    "title": "Ukončení života pacienta lékařem na vlastní žádost pacienta",
+    "options": [
+      "Tlumení bolesti v paliativní péči",
+      "Přerušení léčby na přání pacienta",
+      "Přirozené úmrtí pod lékařským dohledem",
+      "Ukončení života pacienta lékařem na vlastní žádost pacienta"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "V užším smyslu jde o přímé ukončení života na žádost samotného pacienta. Nizozemský zákon odlišuje tuto situaci od asistované sebevraždy a také od odmítnutí léčby nebo paliativního tlumení obtíží."
+    ],
+    "memory": "Eutanazie v užším smyslu předpokládá vlastní žádost pacienta."
+  },
+  {
+    "id": 657,
+    "category": "Fyziologie",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 43 · PDF 68",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 68",
+    "question": "Proč u typického diabetu 1. typu klesá tvorba inzulinu?",
+    "title": "Imunitní systém poškozuje beta buňky slinivky",
+    "options": [
+      "Imunitní systém poškozuje beta buňky slinivky",
+      "Játra přestanou tvořit žluč",
+      "Nadledviny produkují příliš mnoho aldosteronu",
+      "Ledviny nedokážou vytvářet glukagon"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Beta buňky pankreatických ostrůvků obvykle uvolňují inzulin. Při diabetu 1. typu je imunitní systém ničí, a tím se tvorba inzulinu snižuje. U diabetu 2. typu hraje významnou roli inzulinová rezistence."
+    ],
+    "memory": "Diabetes 1. typu souvisí s úbytkem beta buněk."
+  },
+  {
+    "id": 658,
+    "category": "Filozofie",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 37 · PDF 154",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 154",
+    "question": "Které dvě oblasti patří v Aristotelově členění mezi praktické nauky o lidském jednání?",
+    "title": "Etika a politika",
+    "options": [
+      "Etika a fyzika",
+      "Poetika a matematika",
+      "Etika a politika",
+      "Metafyzika a logika"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Etika se ptá po dobrém jednání jednotlivce a politika po uspořádání společného života. Poetika se věnuje tvorbě básnických děl, například stavbě tragédie."
+    ],
+    "memory": "Etika a politika zkoumají lidské jednání."
+  },
+  {
+    "id": 659,
+    "category": "Informatika",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 34 · PDF 184",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 184",
+    "question": "Která dvojice součástí je přímo relevantní při hodnocení rychlosti výpočtů a množství dat, která může mít několik spuštěných programů současně v pracovní paměti?",
+    "title": "Procesor a operační paměť",
+    "options": [
+      "Napájecí zdroj a monitor",
+      "Grafická karta a síťová karta",
+      "Klávesnice a pevný disk",
+      "Procesor a operační paměť"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Procesor provádí instrukce. Kapacita operační paměti určuje, kolik právě používaných dat se do ní vejde. Která součást omezuje výkon nejvíc, závisí na konkrétní úloze."
+    ],
+    "memory": "Procesor počítá, operační paměť drží rozpracovaná data."
+  },
+  {
+    "id": 660,
+    "category": "Močová soustava",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 44 · PDF 204",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 204",
+    "question": "Jakého řádu je denní množství prvotní moči vzniklé filtrací v obou ledvinách zdravého dospělého?",
+    "title": "Přibližně 150–180 litrů",
+    "options": [
+      "Přibližně 150–180 litrů",
+      "Přibližně 1–2 litry",
+      "Přibližně 10–20 litrů",
+      "Přibližně 150–180 mililitrů"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Denní objem glomerulárního filtrátu je orientačně 150–180 litrů a mezi lidmi se liší. Většina filtrátu se zpětně vstřebá, takže konečné moči obvykle vzniká řádově jeden až dva litry za den."
+    ],
+    "memory": "Denní filtrát se měří v řádu stovek litrů, konečná moč v jednotkách."
+  }
+]

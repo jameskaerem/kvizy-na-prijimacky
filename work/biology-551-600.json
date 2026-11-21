@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 551,
+    "category": "Hormony hypofýzy",
+    "bookRef": "str. 140",
+    "sourcePages": "140",
+    "question": "Jak jinak označujeme somatotropin?",
+    "options": [
+      "Antidiuretický hormon",
+      "Hlavní hormon štítné žlázy T4",
+      "Hlavní mineralokortikoid aldosteron",
+      "Růstový hormon"
+    ],
+    "answer": 3,
+    "title": "Somatotropin souvisí s růstem",
+    "paragraphs": [
+      "Somatotropin je růstový hormon adenohypofýzy. Podporuje růstové a metabolické děje, mimo jiné tvorbu bílkovin.",
+      "Představ si signál ovlivňující stavbu a obnovu organismu. Jeho působení se propojuje s výživou i dalšími hormonálními vlivy.",
+      "Není to jediný hormon potřebný pro normální růst. Samotný název růstový také neznamená, že ovlivňuje pouze délku kostí."
+    ],
+    "memory": "Somatotropin = růstový hormon."
+  },
+  {
+    "id": 552,
+    "category": "Hormony hypofýzy",
+    "bookRef": "str. 140",
+    "sourcePages": "140",
+    "question": "Co jsou somatomediny ve vztahu k růstovému hormonu?",
+    "options": [
+      "Růstové faktory, jejichž tvorbu růstový hormon podporuje, významně také v játrech",
+      "Trávicí enzymy štěpící celulózu",
+      "Kožní pigmenty vznikající z mazu",
+      "Minerální krystaly v močových kamenech"
+    ],
+    "answer": 0,
+    "title": "Část růstového účinku má prostředníka",
+    "paragraphs": [
+      "Růstový hormon podporuje tvorbu růstových faktorů označovaných jako somatomediny, zejména IGF-1. Významným místem jejich tvorby jsou játra.",
+      "Představ si první signál, který vyvolá vznik dalšího signálu působícího na růst tkání. Hormonální účinek tak může mít více navazujících kroků.",
+      "Ne všechny účinky růstového hormonu jsou nepřímé ani všechny růstové faktory nevznikají pouze v játrech. Otázka vystihuje základní vazbu."
+    ],
+    "memory": "Růstový hormon podporuje somatomediny, například IGF-1."
+  },
+  {
+    "id": 553,
+    "category": "Hormony hypofýzy",
+    "bookRef": "str. 140",
+    "sourcePages": "140",
+    "question": "Jaká je důležitá úloha prolaktinu po porodu?",
+    "options": [
+      "Nahrazovat veškerou sekreci potních žláz",
+      "Podporovat tvorbu mléka v mléčné žláze",
+      "Vyvolávat výhradně štěpení glykogenu v játrech",
+      "Tvořit tyroxin v neurohypofýze"
+    ],
+    "answer": 1,
+    "title": "Prolaktin podporuje produkci mléka",
+    "paragraphs": [
+      "Prolaktin je hormon adenohypofýzy důležitý pro tvorbu mléka. Jeho působení souvisí s funkcí mléčné žlázy.",
+      "Představ si podporu výroby uvnitř žlázy. Vytvoření produktu je jiný krok než jeho následné vypuzení směrem ven.",
+      "Vypuzování mléka pomáhá řídit oxytocin. Prolaktin a oxytocin proto nelze u kojení zaměňovat."
+    ],
+    "memory": "Prolaktin: tvorba mléka; oxytocin: jeho vypuzení."
+  },
+  {
+    "id": 554,
+    "category": "Hormony hypofýzy",
+    "bookRef": "str. 140",
+    "sourcePages": "140",
+    "question": "Co přímo stimuluje ACTH neboli adrenokortikotropní hormon?",
+    "options": [
+      "Přímo tvorbu zubního dentinu",
+      "Výhradně sekreci slin do žaludku",
+      "Tvorbu a uvolňování glukokortikoidů, zejména kortizolu, v kůře nadledvin",
+      "Především tvorbu adrenalinu ve štítné žláze"
+    ],
+    "answer": 2,
+    "title": "ACTH směřuje ke kůře nadledvin",
+    "paragraphs": [
+      "ACTH vzniká v adenohypofýze a podporuje činnost kůry nadledvin, zejména tvorbu kortizolu. Je součástí navazující hormonální osy.",
+      "Představ si hypofyzární pokyn vyslaný k další endokrinní žláze. Ta po přijetí signálu upraví vlastní hormonální výstup.",
+      "Kůra a dřeň nadledvin nejsou stejné oddělení. Uvolňování katecholaminů z dřeně má především sympatické nervové řízení."
+    ],
+    "memory": "ACTH → kůra nadledvin → kortizol."
+  },
+  {
+    "id": 555,
+    "category": "Hormony hypofýzy",
+    "bookRef": "str. 140",
+    "sourcePages": "140",
+    "question": "Jaký účinek má FSH ve vaječníku?",
+    "options": [
+      "Přímo vytváří močovinu z amoniaku",
+      "Nahrazuje všechny účinky progesteronu",
+      "Řídí pouze sekreci kožního mazu",
+      "Podporuje růst folikulů a jejich funkci při tvorbě estrogenů"
+    ],
+    "answer": 3,
+    "title": "FSH podporuje folikulární děje",
+    "paragraphs": [
+      "Folikuly stimulující hormon podporuje růst a funkci ovariálních folikulů. Souvisí také s jejich tvorbou estrogenů.",
+      "Představ si hormonální podporu vývoje struktury, ve které dozrává vajíčko. S tím se propojuje i sekreční činnost folikulu.",
+      "FSH nepracuje sám bez dalších hormonů. Jeho účinek je potřeba odlišit od úlohy vzestupu LH při ovulaci."
+    ],
+    "memory": "FSH ve vaječníku podporuje folikuly."
+  },
+  {
+    "id": 556,
+    "category": "Hormony hypofýzy",
+    "bookRef": "str. 140",
+    "sourcePages": "140",
+    "question": "Jakou úlohu má FSH ve varleti?",
+    "options": [
+      "Podporuje spermatogenezi prostřednictvím působení na Sertoliho buňky",
+      "Přímo mění všechny spermie na testosteron",
+      "Tvoří žlučové soli",
+      "Výhradně vyvolává stahy dělohy"
+    ],
+    "answer": 0,
+    "title": "FSH pomáhá podmínkám pro tvorbu spermií",
+    "paragraphs": [
+      "FSH podporuje ve varleti činnost Sertoliho buněk a tím spermatogenezi. Tvorba spermií vyžaduje souhru více buněčných a hormonálních vlivů.",
+      "Představ si podporu prostředí, ve kterém se vyvíjejí pohlavní buňky. Hormon nemusí působit tak, že by sám tvořil spermii.",
+      "LH má ve varleti jinou hlavní cílovou skupinu buněk a souvisí s tvorbou testosteronu. Oba gonadotropiny tedy nelze zaměňovat."
+    ],
+    "memory": "FSH pomáhá spermatogenezi přes Sertoliho buňky."
+  },
+  {
+    "id": 557,
+    "category": "Hormony hypofýzy",
+    "bookRef": "str. 140",
+    "sourcePages": "140",
+    "question": "S čím je spojen výrazný vzestup LH v průběhu ovariálního cyklu?",
+    "options": [
+      "Výhradně s uvolněním adrenalinu z dřeně nadledvin",
+      "Se spuštěním ovulace a následným vznikem žlutého tělíska",
+      "Pouze se vznikem nové zubní skloviny",
+      "S přeměnou vaječníku na štítnou žlázu"
+    ],
+    "answer": 1,
+    "title": "Vzestup LH pomáhá spustit ovulaci",
+    "paragraphs": [
+      "Luteinizační hormon se podílí na ovulaci a přeměně folikulární struktury ve žluté tělísko. Jeho účinek navazuje na předchozí vývoj folikulu.",
+      "Představ si signál pro přechod mezi dvěma etapami cyklu. Nejde jen o trvalé zvětšování stejné struktury bez změny funkce.",
+      "Žluté tělísko vytváří také progesteron, ne pouze estrogeny. Tuto podstatnou souvislost je vhodné při učení zachovat."
+    ],
+    "memory": "Vzestup LH: ovulace a vznik žlutého tělíska."
+  },
+  {
+    "id": 558,
+    "category": "Hormony hypofýzy",
+    "bookRef": "str. 140",
+    "sourcePages": "140",
+    "question": "Které buňky ve varleti LH stimuluje k tvorbě testosteronu?",
+    "options": [
+      "Povrchové buňky skloviny",
+      "Buňky ledvinných kalichů",
+      "Leydigovy buňky",
+      "Erytrocyty"
+    ],
+    "answer": 2,
+    "title": "LH podporuje testosteron přes Leydigovy buňky",
+    "paragraphs": [
+      "LH působí na Leydigovy buňky varlete a podporuje jejich tvorbu testosteronu. Jde o hormonální vztah mezi hypofýzou a pohlavní žlázou.",
+      "Představ si stejný hypofyzární signál přicházející do jiného cílového orgánu než u ženy. Odpověď závisí na místních buňkách.",
+      "FSH se ve varleti výrazně uplatňuje přes Sertoliho buňky. Rozlišení obou cílových buněk pomáhá oddělit hlavní účinky gonadotropinů."
+    ],
+    "memory": "LH → Leydigovy buňky → testosteron."
+  },
+  {
+    "id": 559,
+    "category": "Hormony hypofýzy",
+    "bookRef": "str. 141",
+    "sourcePages": "141",
+    "question": "Jak oxytocin pomáhá při kojení?",
+    "options": [
+      "Je jediným hormonem zajišťujícím vlastní výrobu mléka",
+      "Mění mléko na glukózu přímo v krvi",
+      "Zastavuje všechny kontrakce v mléčné žláze",
+      "Vyvolává stah myoepiteliálních buněk a vypuzování již vytvořeného mléka"
+    ],
+    "answer": 3,
+    "title": "Oxytocin pomáhá mléko vypudit",
+    "paragraphs": [
+      "Oxytocin vyvolává stahy buněk obklopujících sekreční části mléčné žlázy. Tím pomáhá přesouvat vytvořené mléko do vývodného systému.",
+      "Představ si výdej hotového produktu ze zásobní a výrobní oblasti. Výroba a pohyb ven jsou dva související, ale odlišné děje.",
+      "Hlavní hormonální podporu tvorby mléka zajišťuje prolaktin. Úloha oxytocinu je spojena především s ejekčním reflexem."
+    ],
+    "memory": "Oxytocin pomáhá vypudit už vytvořené mléko."
+  },
+  {
+    "id": 560,
+    "category": "Hormony hypofýzy",
+    "bookRef": "str. 141",
+    "sourcePages": "141",
+    "question": "Proč je oxytocinová souvislost při porodu příkladem pozitivní zpětné vazby?",
+    "options": [
+      "Podnět podporuje další uvolňování oxytocinu a zesilování navazujících stahů",
+      "Odpověď vždy okamžitě zruší původní podnět",
+      "Oxytocin vůbec neovlivňuje děložní svalovinu",
+      "Hormon vytváří všechny nové neurony mozkové kůry"
+    ],
+    "answer": 0,
+    "title": "Pozitivní vazba zesiluje probíhající děj",
+    "paragraphs": [
+      "Podněty související s porodem podporují uvolňování oxytocinu. Ten podporuje stahy, které mohou dále posilovat příslušné podněty.",
+      "Představ si smyčku, v níž odezva zesiluje spouštějící děj. Ukončení situace, například porodem, pak zásadně mění podmínky celé smyčky.",
+      "Slovo pozitivní neznamená automaticky příznivý. Popisuje směr vazby, zatímco negativní vazba původní odchylku tlumí."
+    ],
+    "memory": "Pozitivní vazba při porodu: podnět a odpověď se zesilují."
+  },
+  {
+    "id": 561,
+    "category": "Štítná žláza a vápník",
+    "bookRef": "str. 141–142",
+    "sourcePages": "141–142",
+    "question": "Kde je uložena štítná žláza?",
+    "options": [
+      "Výhradně uvnitř močového měchýře",
+      "V přední části krku v těsné souvislosti s hrtanem a horní průdušnicí",
+      "Uvnitř levé srdeční komory",
+      "V zadní části kolenního kloubu"
+    ],
+    "answer": 1,
+    "title": "Štítná žláza leží vpředu na krku",
+    "paragraphs": [
+      "Štítná žláza má dva hlavní laloky spojené střední částí. Leží v přední krční oblasti u hrtanu a horní průdušnice.",
+      "Představ si párově rozšířený útvar obepínající zepředu a ze stran horní dýchací cestu. Poloha odpovídá známému krčnímu umístění.",
+      "Není totožná s příštítnými tělísky na své zadní straně. Blízkost těchto struktur neznamená stejný hormonální úkol."
+    ],
+    "memory": "Štítná žláza: přední část krku u hrtanu a průdušnice."
+  },
+  {
+    "id": 562,
+    "category": "Štítná žláza a vápník",
+    "bookRef": "str. 141",
+    "sourcePages": "141",
+    "question": "Která dvojice představuje hlavní jodované hormony štítné žlázy?",
+    "options": [
+      "ADH a oxytocin",
+      "Prolaktin a somatotropin",
+      "Tyroxin a trijodtyronin",
+      "Inzulin a glukagon"
+    ],
+    "answer": 2,
+    "title": "T4 a T3 jsou hormony štítné žlázy",
+    "paragraphs": [
+      "Tyroxin se označuje jako T4 a trijodtyronin jako T3. Oba patří mezi hormony štítné žlázy obsahující jod.",
+      "Představ si dva příbuzné chemické signály s odlišným počtem vázaných atomů jodu. Číslice v označení s tím souvisejí.",
+      "TSH je řídicí signál přicházející z adenohypofýzy. Není jedním z těchto dvou hormonů tvořených štítnou žlázou."
+    ],
+    "memory": "Štítná žláza: T4 tyroxin a T3 trijodtyronin."
+  },
+  {
+    "id": 563,
+    "category": "Štítná žláza a vápník",
+    "bookRef": "str. 141–142",
+    "sourcePages": "141–142",
+    "question": "Proč je jod důležitý pro tvorbu T3 a T4?",
+    "options": [
+      "Tvoří jejich společný buněčný receptor jako jediná látka",
+      "Nahrazuje všechny aminokyseliny v organismu",
+      "Je nezbytnou složkou každého hormonu bez výjimky",
+      "Je součástí jejich molekul"
+    ],
+    "answer": 3,
+    "title": "Jod je stavební součást T3 a T4",
+    "paragraphs": [
+      "Molekuly tyroxinu a trijodtyroninu obsahují vázaný jod. Jeho dostupnost tedy souvisí s jejich normální tvorbou.",
+      "Představ si konkrétní potřebnou součást výrobku. Bez ní nelze vytvořit stejnou molekulu pouze přidáním jiné libovolné látky.",
+      "Ne všechny hormony obsahují jod. Tento vztah je specifický pro uvedené hormony štítné žlázy a není doporučením užívat doplňky."
+    ],
+    "memory": "T3 a T4 obsahují jod."
+  },
+  {
+    "id": 564,
+    "category": "Štítná žláza a vápník",
+    "bookRef": "str. 142",
+    "sourcePages": "142",
+    "question": "Jaký obecný vliv mají hormony štítné žlázy na metabolismus dospělého?",
+    "options": [
+      "Podílejí se na nastavení metabolické aktivity a tvorby tepla",
+      "Úplně nahrazují kyslík ve všech buňkách",
+      "Vždy zastavují veškeré chemické reakce",
+      "Mají jediný účinek měnit krevní skupinu"
+    ],
+    "answer": 0,
+    "title": "T3 a T4 ovlivňují metabolické tempo",
+    "paragraphs": [
+      "Hormony štítné žlázy významně ovlivňují metabolickou aktivitu tkání. Souvisí s energetickým výdejem a tvorbou tepla.",
+      "Představ si regulační vliv na celkové nastavení provozu. Změna jejich působení se proto může projevit v několika soustavách zároveň.",
+      "Nejde o pouhé dodávání paliva. Hormonální regulace mění způsob činnosti tkání, zatímco živiny poskytují materiál a energii."
+    ],
+    "memory": "T3 a T4 pomáhají nastavovat metabolické tempo."
+  },
+  {
+    "id": 565,
+    "category": "Štítná žláza a vápník",
+    "bookRef": "str. 142",
+    "sourcePages": "142",
+    "question": "Proč mají hormony štítné žlázy význam také v raném vývoji člověka?",
+    "options": [
+      "Protože zajišťují jedině tvorbu potu",
+      "Jsou potřebné pro normální růst a vývoj, včetně nervové soustavy",
+      "Protože po narození zastaví vývoj všech orgánů",
+      "Protože působí pouze na barvu vlasů"
+    ],
+    "answer": 1,
+    "title": "Hormonální působení se mění s vývojovým obdobím",
+    "paragraphs": [
+      "T3 a T4 jsou důležité nejen pro metabolismus dospělého, ale také pro normální vývoj organismu. Významná je jejich úloha při vývoji nervové soustavy.",
+      "Představ si signály potřebné při budování systému i při jeho pozdějším provozu. Stejná hormonální soustava může být důležitá v obou etapách.",
+      "Zde se vysvětluje fyziologická funkce, nikoli určuje diagnóza podle výšky nebo schopností konkrétního člověka. Vývoj ovlivňuje více faktorů."
+    ],
+    "memory": "Hormony štítné žlázy pomáhají růstu i vývoji CNS."
+  },
+  {
+    "id": 566,
+    "category": "Štítná žláza a vápník",
+    "bookRef": "str. 142",
+    "sourcePages": "142",
+    "question": "Co znamená struma neboli vole?",
+    "options": [
+      "Pouze zmenšení všech příštítných tělísek",
+      "Jiný název pro nadledvinu",
+      "Zvětšení štítné žlázy",
+      "Vždy jednoznačně zvýšenou tvorbu všech jejích hormonů"
+    ],
+    "answer": 2,
+    "title": "Struma popisuje velikost žlázy",
+    "paragraphs": [
+      "Struma je zvětšení štítné žlázy. Samotné označení ještě neurčuje, zda je hormonální funkce zvýšená, snížená nebo zachovaná.",
+      "Představ si údaj o rozměru zařízení, který sám neříká přesně, jak intenzivně pracuje. Velikost a funkční výstup nejsou totéž.",
+      "Proto nelze ze slova struma automaticky vyvozovat jeden konkrétní hormonální stav. Otázka ověřuje význam názvu."
+    ],
+    "memory": "Struma = zvětšená štítná žláza, nikoli jediný funkční stav."
+  },
+  {
+    "id": 567,
+    "category": "Štítná žláza a vápník",
+    "bookRef": "str. 142",
+    "sourcePages": "142",
+    "question": "Co obecně označuje hypotyreóza?",
+    "options": [
+      "Nadbytečné působení T3 a T4",
+      "Výhradně zvýšení sekrece inzulinu",
+      "Pouze růst vlasového folikulu",
+      "Nedostatečné působení hormonů štítné žlázy v organismu"
+    ],
+    "answer": 3,
+    "title": "Hypotyreóza znamená nedostatečné hormonální působení",
+    "paragraphs": [
+      "Při hypotyreóze je působení hormonů štítné žlázy nedostatečné. Typicky se tím snižuje metabolická aktivita oproti potřebám organismu.",
+      "Představ si regulační vliv, kterého je pro běžný provoz málo. Proto může být ovlivněno více tělesných funkcí.",
+      "Jednotlivý příznak, například únava nebo pocit chladu, sám diagnózu neurčuje. Testujeme biologické vymezení pojmu."
+    ],
+    "memory": "Hypotyreóza: nedostatečné působení hormonů štítné žlázy."
+  },
+  {
+    "id": 568,
+    "category": "Štítná žláza a vápník",
+    "bookRef": "str. 142",
+    "sourcePages": "142",
+    "question": "Co znamená hyperfunkce štítné žlázy v základním školním popisu?",
+    "options": [
+      "Nadměrnou tvorbu jejích hormonů se zvýšeným hormonálním působením",
+      "Úplné chybění všech hormonů štítné žlázy",
+      "Pouze mechanické zvětšení zubu",
+      "Nedostatečnou tvorbu slin"
+    ],
+    "answer": 0,
+    "title": "Hyperfunkce zvyšuje hormonální výstup",
+    "paragraphs": [
+      "Při hyperfunkci štítné žlázy je její hormonální tvorba zvýšená. Nadbytečné působení T3 a T4 souvisí mimo jiné se zvýšenou metabolickou aktivitou.",
+      "Představ si příliš vysoké nastavení regulačního vlivu na provoz tkání. Projevy proto mohou zasáhnout energetický výdej i další soustavy.",
+      "Ne každý stav nadbytku hormonů v těle musí vznikat právě zvýšenou tvorbou v žláze. Otázka výslovně vymezuje její hyperfunkci."
+    ],
+    "memory": "Hyperfunkce štítné žlázy = zvýšený hormonální výstup."
+  },
+  {
+    "id": 569,
+    "category": "Štítná žláza a vápník",
+    "bookRef": "str. 142",
+    "sourcePages": "142",
+    "question": "Jaký základní účinek se připisuje kalcitoninu?",
+    "options": [
+      "Vždy přímo mění sodík na vápník",
+      "Podporuje snižování koncentrace vápníku v krvi",
+      "Působí výhradně jako trávicí enzym",
+      "Je hlavním hormonem pro tvorbu spermií"
+    ],
+    "answer": 1,
+    "title": "Kalcitonin souvisí s regulací vápníku",
+    "paragraphs": [
+      "Kalcitonin je hormon štítné žlázy s účinkem směřujícím ke snižování krevní koncentrace vápníku. Uplatňuje se mimo jiné omezením kostní resorpce.",
+      "Představ si vliv působící proti nadměrnému uvolňování vápníku z kostních zásob. Je to jiná úloha než metabolické působení T3 a T4.",
+      "U dospělého člověka není kalcitonin jediným ani hlavním regulátorem běžné kalcemie. Zásadní význam mají také PTH a další mechanismy."
+    ],
+    "memory": "Kalcitonin může snižovat kalcemii."
+  },
+  {
+    "id": 570,
+    "category": "Štítná žláza a vápník",
+    "bookRef": "str. 142",
+    "sourcePages": "142",
+    "question": "Kde bývají uložena příštítná tělíska?",
+    "options": [
+      "Pouze ve dřeni nadledvin",
+      "V dutině močového měchýře",
+      "Obvykle na zadní straně štítné žlázy",
+      "Uvnitř každého mozkového závitu"
+    ],
+    "answer": 2,
+    "title": "Blízká poloha neznamená stejnou žlázu",
+    "paragraphs": [
+      "Příštítná tělíska jsou malé endokrinní útvary obvykle při zadní straně štítné žlázy. Nejčastěji jsou čtyři, ale jejich počet a poloha se mohou lišit.",
+      "Představ si několik malých samostatných žláz těsně u většího orgánu. Jejich hlavní funkce souvisí s vápníkem.",
+      "Nejde o jiný název pro laloky štítné žlázy. Vytvářejí především parathormon, nikoli T3 a T4."
+    ],
+    "memory": "Příštítná tělíska bývají vzadu při štítné žláze."
+  },
+  {
+    "id": 571,
+    "category": "Štítná žláza a vápník",
+    "bookRef": "str. 142–143",
+    "sourcePages": "142–143",
+    "question": "Jaký je celkový základní účinek parathormonu na koncentraci Ca²⁺ v krvi?",
+    "options": [
+      "Vždy ji snižovat na nulu",
+      "Nahrazovat Ca²⁺ glukózou",
+      "Měnit Ca²⁺ na ionty železa",
+      "Zvyšovat ji"
+    ],
+    "answer": 3,
+    "title": "PTH pomáhá udržet dostupný vápník",
+    "paragraphs": [
+      "Parathormon se podílí na zvyšování krevní koncentrace vápníku. Jeho účinky zahrnují děje v kostech, ledvinách a nepřímo i ve střevě.",
+      "Představ si koordinovaný zásah, který zvýší dostupnost důležitého iontu. Organismus upravuje více cest jeho hospodaření.",
+      "Působení nelze omezit jen na prosté mechanické rozpouštění kosti. Jde o hormonálně řízené buněčné děje."
+    ],
+    "memory": "PTH pomáhá zvýšit krevní Ca²⁺."
+  },
+  {
+    "id": 572,
+    "category": "Štítná žláza a vápník",
+    "bookRef": "str. 143",
+    "sourcePages": "143",
+    "question": "Jak na pokles krevní koncentrace ionizovaného vápníku běžně reagují příštítná tělíska?",
+    "options": [
+      "Zvýší uvolňování parathormonu",
+      "Vždy úplně zastaví veškerou sekreci PTH",
+      "Začnou tvořit výhradně inzulin",
+      "Změní se v potní žlázy"
+    ],
+    "answer": 0,
+    "title": "Pokles vápníku spouští nápravnou odpověď",
+    "paragraphs": [
+      "Buňky příštítných tělísek sledují dostupnost vápníku. Při poklesu ionizovaného Ca²⁺ obvykle zvyšují sekreci PTH.",
+      "Představ si čidlo propojené přímo s regulačním výstupem. Pokles sledované hodnoty podpoří odpověď, která ji pomáhá vrátit.",
+      "Jde o regulační vztah, nikoli o návod stanovovat hormonální poruchu podle jednoho pocitu či příznaku. Konkrétní stav vyžaduje další údaje."
+    ],
+    "memory": "Málo krevního Ca²⁺ → více PTH."
+  },
+  {
+    "id": 573,
+    "category": "Štítná žláza a vápník",
+    "bookRef": "str. 143",
+    "sourcePages": "143",
+    "question": "Co se děje se sekrecí PTH, když se zvýší koncentrace ionizovaného Ca²⁺ v krvi?",
+    "options": [
+      "Začne se místo něj tvořit pepsin",
+      "Zvýšený vápník sekreci PTH tlumí",
+      "PTH se musí vždy dále neomezeně zvyšovat",
+      "Vápník nemůže mít na příštítná tělíska žádný vliv"
+    ],
+    "answer": 1,
+    "title": "Výsledek tlumí další regulační zásah",
+    "paragraphs": [
+      "Zvýšení koncentrace ionizovaného vápníku působí proti další sekreci PTH. Jde o příklad negativní zpětné vazby.",
+      "Představ si regulační smyčku, která po zlepšení stavu ubere na síle zásahu. Tím brání neomezenému růstu sledované hodnoty.",
+      "Negativní zde neznamená škodlivý. Označuje, že odpověď a její výsledek tlumí původní regulační podnět."
+    ],
+    "memory": "Více krevního Ca²⁺ → útlum PTH."
+  },
+  {
+    "id": 574,
+    "category": "Štítná žláza a vápník",
+    "bookRef": "str. 143",
+    "sourcePages": "143",
+    "question": "Proč je kostní tkáň důležitá pro hospodaření s vápníkem?",
+    "options": [
+      "Obsahuje jen nerozložitelnou glukózu",
+      "Nemůže se za života nijak přestavovat",
+      "Představuje velkou zásobu vápníku, která se může zapojovat do regulované výměny",
+      "Je zcela bez minerálních látek"
+    ],
+    "answer": 2,
+    "title": "Kost je i minerální zásoba",
+    "paragraphs": [
+      "Kostní hmota obsahuje významnou zásobu vápníku. Regulovaná přestavba a výměna minerálů propojuje stav kosti s vnitřním prostředím.",
+      "Představ si pevnou konstrukci, která zároveň tvoří zásobní prostor určitého materiálu. Obě úlohy spolu souvisejí.",
+      "Neznamená to, že uvolňování vápníku může být bez následků libovolně velké. Mechanická a metabolická funkce kosti musejí být v rovnováze."
+    ],
+    "memory": "Kost: opora těla i zásoba vápníku."
+  },
+  {
+    "id": 575,
+    "category": "Štítná žláza a vápník",
+    "bookRef": "str. 143",
+    "sourcePages": "143",
+    "question": "Jak může výrazný pokles extracelulárního Ca²⁺ ovlivnit nervosvalovou dráždivost?",
+    "options": [
+      "Vždy ji zcela vyřadí bez jakéhokoli podráždění",
+      "Nemůže ovlivnit nervy ani svaly",
+      "Mění všechny svalové buňky na kostní",
+      "Může ji zvýšit a podpořit vznik křečových projevů"
+    ],
+    "answer": 3,
+    "title": "Vápník souvisí i s dráždivostí",
+    "paragraphs": [
+      "Nízká koncentrace extracelulárního vápníku může zvyšovat nervosvalovou dráždivost. Nejde tedy jen o dlouhodobou stavební složku kosti.",
+      "Představ si iont, který je důležitý pro různé funkce podle místa a prostředí. Jeho krevní koncentrace má jiný význam než množství uložené v kostech.",
+      "Křeč sama neprokazuje nízký vápník a má i jiné možné příčiny. Otázka se týká fyziologického vztahu."
+    ],
+    "memory": "Nízký extracelulární Ca²⁺ může zvýšit dráždivost."
+  },
+  {
+    "id": 576,
+    "category": "Nadledviny",
+    "bookRef": "str. 143–144",
+    "sourcePages": "143–144",
+    "question": "Kde jsou nadledviny uloženy?",
+    "options": [
+      "Při horních pólech ledvin",
+      "Uvnitř srdečních síní",
+      "V každé mozkové komoře",
+      "Na vnějším povrchu dlaní"
+    ],
+    "answer": 0,
+    "title": "Nadledvina leží nad ledvinou, ale má vlastní úkol",
+    "paragraphs": [
+      "Nadledviny jsou párové endokrinní orgány při horní části ledvin. Navzdory těsné poloze mají jinou hlavní funkci než samotné ledviny.",
+      "Představ si dva sousedící orgány s odlišným typem práce. Jeden významně upravuje moč a vnitřní prostředí, druhý vytváří hormony.",
+      "Hormony nadledvin mohou činnost ledvin ovlivňovat. To ale neznamená, že je nadledvina částí nefronu."
+    ],
+    "memory": "Nadledviny leží při horních pólech ledvin."
+  },
+  {
+    "id": 577,
+    "category": "Nadledviny",
+    "bookRef": "str. 143–144",
+    "sourcePages": "143–144",
+    "question": "Na které dvě hlavní funkčně odlišné části se nadledvina člení?",
+    "options": [
+      "Na folikul a žluté tělísko",
+      "Na kůru a dřeň",
+      "Na pravou a levou srdeční komoru",
+      "Na pokožku a dentin"
+    ],
+    "answer": 1,
+    "title": "Kůra a dřeň vytvářejí jiné hormony",
+    "paragraphs": [
+      "Nadledvina obsahuje zevní kůru a vnitřní dřeň. Liší se stavbou, původem i hormonální činností.",
+      "Představ si dvě oddělení v jednom orgánu s odlišnými produkty a řízením. Společný obal neznamená totožné buňky.",
+      "Kortizol a aldosteron souvisejí s kůrou, adrenalin a noradrenalin s dření. Toto přiřazení pomáhá zabránit záměnám."
+    ],
+    "memory": "Nadledvina: kůra venku, dřeň uvnitř."
+  },
+  {
+    "id": 578,
+    "category": "Nadledviny",
+    "bookRef": "str. 143",
+    "sourcePages": "143",
+    "question": "Do které hormonální skupiny patří kortizol?",
+    "options": [
+      "Mezi katecholaminy dřeně nadledvin",
+      "Mezi trávicí enzymy slinivky",
+      "Mezi glukokortikoidy kůry nadledvin",
+      "Mezi hlavní hormony neurohypofýzy"
+    ],
+    "answer": 2,
+    "title": "Kortizol je glukokortikoid",
+    "paragraphs": [
+      "Kortizol vzniká v kůře nadledvin. Podílí se na metabolickém nastavení organismu a na odpovědích při zátěži.",
+      "Představ si hormon ovlivňující dostupnost energetických zdrojů v širším časovém a funkčním rámci. Jeho činnost se propojuje s dalšími regulačními vlivy.",
+      "Není to adrenalin ani aldosteron. Všechny souvisejí s nadledvinami, ale mají jiné hlavní hormonální zařazení."
+    ],
+    "memory": "Kortizol = glukokortikoid z kůry nadledvin."
+  },
+  {
+    "id": 579,
+    "category": "Nadledviny",
+    "bookRef": "str. 144",
+    "sourcePages": "144",
+    "question": "Jak aldosteron ovlivňuje ledvinné hospodaření se sodíkem?",
+    "options": [
+      "Vždy zablokuje veškeré vstřebávání sodíku",
+      "Přímo mění Na⁺ na K⁺",
+      "Zajišťuje pouze filtraci krvinek do moči",
+      "Podporuje zpětné vstřebávání Na⁺ v příslušných úsecích nefronu"
+    ],
+    "answer": 3,
+    "title": "Aldosteron podporuje zadržování sodíku",
+    "paragraphs": [
+      "Aldosteron působí na transport iontů v ledvině a podporuje zpětné vstřebávání sodíku. Je významným mineralokortikoidem kůry nadledvin.",
+      "Představ si regulační pokyn pro výběr toho, co se z kanálkové tekutiny vrací do těla. Hospodaření se sodíkem souvisí také s objemem tekutin.",
+      "Voda a sodík nejsou totéž a nepřesouvají se vždy stejným mechanismem. Otázka zdůrazňuje přímé působení na sodíkový transport."
+    ],
+    "memory": "Aldosteron podporuje návrat Na⁺ do těla."
+  },
+  {
+    "id": 580,
+    "category": "Nadledviny",
+    "bookRef": "str. 144",
+    "sourcePages": "144",
+    "question": "Jaký typický účinek má aldosteron na draslík v ledvině?",
+    "options": [
+      "Podporuje sekreci K⁺ do kanálkové tekutiny a jeho vylučování",
+      "Vždy zastaví veškerý odchod K⁺ z těla",
+      "Mění K⁺ na glukózu",
+      "Vytváří draslík z jodu"
+    ],
+    "answer": 0,
+    "title": "Aldosteron ovlivňuje i odchod draslíku",
+    "paragraphs": [
+      "Aldosteron podporuje v příslušných ledvinných úsecích sekreci draslíku do kanálku. Tím může zvyšovat jeho vylučování močí.",
+      "Představ si dvě propojené iontové úpravy: větší návrat sodíku a podpora odchodu draslíku. Regulace elektrolytů má více souvisejících stran.",
+      "Sekrece do kanálku je opačný směr než resorpce z kanálku zpět. Záměna směru by změnila význam celého děje."
+    ],
+    "memory": "Aldosteron: Na⁺ zpět, K⁺ směrem do moči."
+  },
+  {
+    "id": 581,
+    "category": "Nadledviny",
+    "bookRef": "str. 141, 144",
+    "sourcePages": "141, 144",
+    "question": "Které rozlišení aldosteronu a ADH je správné?",
+    "options": [
+      "Ani jeden nemá souvislost s ledvinami",
+      "Aldosteron ovlivňuje hlavně iontový transport, ADH propustnost sběracích kanálků pro vodu",
+      "Oba hormony mají ve všech buňkách totožný receptor i účinek",
+      "ADH je trávicí enzym a aldosteron kožní pigment"
+    ],
+    "answer": 1,
+    "title": "Hospodaření s vodou má různé regulační cesty",
+    "paragraphs": [
+      "Aldosteron podporuje zejména změny transportu sodíku a draslíku. ADH naproti tomu výrazně ovlivňuje propustnost sběracích kanálků pro vodu.",
+      "Představ si dva regulační zásahy do stejné čistírny, ale na různá zařízení. Výsledky se mohou spojovat v celkovém hospodaření s tekutinami.",
+      "Podobný dopad na vnitřní prostředí neznamená totožný mechanismus. Hormony také vznikají v odlišných strukturách."
+    ],
+    "memory": "Aldosteron: ionty; ADH: propustnost pro vodu."
+  },
+  {
+    "id": 582,
+    "category": "Nadledviny",
+    "bookRef": "str. 144",
+    "sourcePages": "144",
+    "question": "Která dvojice hormonů se uvolňuje ze dřeně nadledvin?",
+    "options": [
+      "FSH a LH",
+      "Prolaktin a inzulin",
+      "Adrenalin a noradrenalin",
+      "Tyroxin a parathormon"
+    ],
+    "answer": 2,
+    "title": "Dřeň nadledvin uvolňuje katecholaminy",
+    "paragraphs": [
+      "Adrenalin a noradrenalin jsou hormony dřeně nadledvin. Jejich uvolnění souvisí s autonomní nervovou aktivací.",
+      "Představ si chemické signály, které po nervovém pokynu vstoupí do krve a ovlivní více tkání. Propojuje se zde nervový i hormonální způsob řízení.",
+      "Kortizol patří ke kůře nadledvin. Dřeň a kůru nelze zaměnit jen podle toho, že jde o jeden orgán."
+    ],
+    "memory": "Dřeň nadledvin: adrenalin a noradrenalin."
+  },
+  {
+    "id": 583,
+    "category": "Nadledviny",
+    "bookRef": "str. 144–145",
+    "sourcePages": "144–145",
+    "question": "Co přímo řídí uvolňování katecholaminů z dřeně nadledvin?",
+    "options": [
+      "Výhradně TSH ze štítné žlázy",
+      "Pouze otevření močového měchýře",
+      "Mechanické tření zubů bez nervového vedení",
+      "Sympatická nervová vlákna"
+    ],
+    "answer": 3,
+    "title": "Dřeň má bezprostřední nervové řízení",
+    "paragraphs": [
+      "Sekrece dřeně nadledvin je přímo podporována sympatickými vlákny. Nervový signál tak může vyvolat hormonální výstup do oběhu.",
+      "Představ si výdej chemické zprávy spuštěný elektrickým vedením. Je to příklad těsného spojení dvou regulačních způsobů.",
+      "ACTH má hlavní význam v řízení kortizolu z kůry. Není základním přímým spínačem sekrece adrenalinu z dřeně."
+    ],
+    "memory": "Sympatický pokyn spouští výdej hormonů dřeně."
+  },
+  {
+    "id": 584,
+    "category": "Nadledviny",
+    "bookRef": "str. 144",
+    "sourcePages": "144",
+    "question": "Jak adrenalin pomáhá zpřístupnit energetické zásoby?",
+    "options": [
+      "Podporuje mobilizaci glykogenu a tuků v odpovídajících tkáních",
+      "Vždy mění veškerou glukózu jen na celulózu",
+      "Zastaví všechny metabolické děje",
+      "Nahrazuje kyslík ve svalových buňkách"
+    ],
+    "answer": 0,
+    "title": "Adrenalin pomáhá rychle využít zásoby",
+    "paragraphs": [
+      "Adrenalin může podporovat rozklad glykogenu a mobilizaci tukových zásob. Připravuje tak energetické zdroje pro zvýšené požadavky.",
+      "Představ si rychlé otevření dostupných zásob paliva. Vliv se liší podle tkáně a jejích receptorů.",
+      "Svalový glykogen se využívá především místně; sval neuvolňuje přímo volnou glukózu do krve stejným způsobem jako játra."
+    ],
+    "memory": "Adrenalin pomáhá mobilizovat zásoby pro výkon."
+  },
+  {
+    "id": 585,
+    "category": "Nadledviny",
+    "bookRef": "str. 144",
+    "sourcePages": "144",
+    "question": "Jak adrenalin typicky ovlivňuje srdce prostřednictvím jeho adrenergních receptorů?",
+    "options": [
+      "Působí výhradně na srdeční chlopně mechanickým tlakem",
+      "Může zvýšit frekvenci a sílu srdečních stahů",
+      "Vždy nevratně zastaví srdeční rytmus",
+      "Mění srdeční sval na kosterní sval"
+    ],
+    "answer": 1,
+    "title": "Srdeční účinek pomáhá zvýšit výkon",
+    "paragraphs": [
+      "Adrenalin může zrychlovat činnost srdce a zvyšovat sílu jeho stahů. Tím pomáhá přizpůsobit oběh zvýšeným požadavkům.",
+      "Představ si regulační zprávu, která ovlivní činnost pumpy. Změna rychlosti a síly má význam pro krevní zásobování.",
+      "Celkový oběhový účinek závisí na více okolnostech. Nelze z toho vyvozovat stejnou změnu každé cévy nebo tlaku za všech podmínek."
+    ],
+    "memory": "Adrenalin může zvýšit frekvenci i sílu srdeční práce."
+  },
+  {
+    "id": 586,
+    "category": "Nadledviny",
+    "bookRef": "str. 145",
+    "sourcePages": "145",
+    "question": "Co označuje stres v biologickém smyslu této kapitoly?",
+    "options": [
+      "Vždy jednu konkrétní infekční nemoc",
+      "Výhradně zastavení činnosti nadledvin",
+      "Zátěž vyžadující přizpůsobení organismu, fyzická i psychická",
+      "Pouze vědomý pocit strachu a nikdy tělesnou zátěž"
+    ],
+    "answer": 2,
+    "title": "Biologická zátěž může mít různé příčiny",
+    "paragraphs": [
+      "Stres označuje zátěžovou situaci a související přizpůsobovací odpovědi. Podněty mohou mít fyzickou i psychickou povahu.",
+      "Představ si různé okolnosti zvyšující nároky na provoz těla. Organismus přizpůsobuje nervové, hormonální a metabolické děje.",
+      "Jedna učebnicová posloupnost fází není přesným povinným průběhem každé reakce. Síla a podoba odpovědi se podle situace liší."
+    ],
+    "memory": "Stres = zátěž s potřebou přizpůsobení, nejen pocit strachu."
+  },
+  {
+    "id": 587,
+    "category": "Slinivka a další endokrinní orgány",
+    "bookRef": "str. 145",
+    "sourcePages": "145",
+    "question": "Proč má slinivka břišní exokrinní i endokrinní funkci?",
+    "options": [
+      "Protože každá její buňka musí mít dvě jádra",
+      "Protože tvoří jen pot a kožní maz",
+      "Protože v ní vzniká výhradně žluč",
+      "Vytváří trávicí šťávu do střeva a zároveň hormony do vnitřního prostředí"
+    ],
+    "answer": 3,
+    "title": "Slinivka kombinuje dva způsoby sekrece",
+    "paragraphs": [
+      "Exokrinní část slinivky dodává trávicí šťávu do dvanáctníku. Endokrinní buňky tvoří hormony, které se uvolňují do vnitřního prostředí a krve.",
+      "Představ si jeden orgán se dvěma odděleními a dvěma cestami výdeje. Produkty míří k jiným cílům a plní jiné úkoly.",
+      "Trávicí enzym není totéž co hormon. Pankreatická šťáva a inzulin proto nejsou zaměnitelné názvy."
+    ],
+    "memory": "Pankreas: šťáva do střeva, hormony do krve."
+  },
+  {
+    "id": 588,
+    "category": "Slinivka a další endokrinní orgány",
+    "bookRef": "str. 145",
+    "sourcePages": "145",
+    "question": "Jak se nazývají endokrinní buněčné skupiny slinivky?",
+    "options": [
+      "Langerhansovy ostrůvky",
+      "Henleovy kličky",
+      "Ranvierovy zářezy",
+      "Plicní alveoly"
+    ],
+    "answer": 0,
+    "title": "Ostrůvky obsahují hormonálně aktivní buňky",
+    "paragraphs": [
+      "Langerhansovy ostrůvky jsou endokrinní buněčné skupiny rozptýlené v pankreatu. Obsahují více buněčných typů s odlišnými hormonálními produkty.",
+      "Představ si malé sekreční ostrůvky uvnitř většího orgánu. Endokrinní úloha nemusí být soustředěna do jediného velkého odděleného útvaru.",
+      "Ne všechny buňky ostrůvku tvoří stejný hormon. Rozlišení buněčných typů vysvětluje i různý směr metabolických vlivů."
+    ],
+    "memory": "Langerhansovy ostrůvky = endokrinní pankreas."
+  },
+  {
+    "id": 589,
+    "category": "Slinivka a další endokrinní orgány",
+    "bookRef": "str. 145–146",
+    "sourcePages": "145–146",
+    "question": "Jaký je základní celkový účinek inzulinu na glykemii?",
+    "options": [
+      "Nemá žádnou souvislost s metabolismem živin",
+      "Pomáhá snižovat koncentraci glukózy v krvi",
+      "Vždy ji zvyšuje mobilizací jaterního glykogenu",
+      "Přeměňuje glukózu v krvi přímo na kyslík"
+    ],
+    "answer": 1,
+    "title": "Inzulin pomáhá využít a uložit přijaté zdroje",
+    "paragraphs": [
+      "Inzulin podporuje děje vedoucí k využití a ukládání živin. Jeho celkový účinek obvykle směřuje ke snížení krevní koncentrace glukózy.",
+      "Představ si stav po příjmu potravy, kdy se dostupné zdroje rozdělují do tkání a zásob. Pokles glykemie je výsledkem více souvisejících dějů.",
+      "Nejde jen o jediný přesun ve všech buňkách stejně. Významné jsou i vlivy na játra a další metabolické cesty."
+    ],
+    "memory": "Inzulin pomáhá glykemii snížit."
+  },
+  {
+    "id": 590,
+    "category": "Slinivka a další endokrinní orgány",
+    "bookRef": "str. 145",
+    "sourcePages": "145",
+    "question": "Ve kterých tkáních inzulin výrazně podporuje vstup glukózy přes inzulinově citlivé mechanismy?",
+    "options": [
+      "Pouze ve zubní sklovině",
+      "Výhradně v červených krvinkách, které bez inzulinu nikdy nepřijmou glukózu",
+      "Ve kosterním svalstvu a tukové tkáni",
+      "Ve všech buňkách těla výhradně stejnou cestou"
+    ],
+    "answer": 2,
+    "title": "Citlivost vstupu glukózy se mezi tkáněmi liší",
+    "paragraphs": [
+      "Inzulin výrazně podporuje příjem glukózy ve svalové a tukové tkáni. Uplatňují se zde inzulinově citlivé transportní mechanismy.",
+      "Představ si zvýšení počtu dostupných vstupních cest na membráně. Pokyn pomůže tkáni přijmout glukózu z okolí.",
+      "Mnohé jiné buňky přijímají glukózu převážně nezávisle na inzulinu. Není proto správné tvrdit, že každá buňka bez inzulinu glukózu vůbec nepřijme."
+    ],
+    "memory": "Inzulin výrazně pomáhá vstupu glukózy do svalů a tuku."
+  },
+  {
+    "id": 591,
+    "category": "Slinivka a další endokrinní orgány",
+    "bookRef": "str. 146",
+    "sourcePages": "146",
+    "question": "Jak glukagon pomáhá zvyšovat glykemii?",
+    "options": [
+      "Přímo vylučuje glukózu ze skloviny",
+      "Vždy zastaví veškerou jaterní činnost",
+      "Zvyšuje jen tvorbu slin bez vlivu na játra",
+      "Podporuje uvolňování glukózy z jater, mimo jiné rozkladem jaterního glykogenu"
+    ],
+    "answer": 3,
+    "title": "Glukagon mobilizuje jaterní zdroje",
+    "paragraphs": [
+      "Glukagon podporuje jaterní děje zvyšující výdej glukózy do krve. Patří mezi ně rozklad jaterního glykogenu.",
+      "Představ si vydávání zásob z centrálního skladu do oběhu. To je užitečné například mezi příjmy potravy.",
+      "Jeho přímý účinek na glykogen kosterních svalů není stejný jako na játra. Učebnice toto rozlišení výslovně uvádí."
+    ],
+    "memory": "Glukagon pomáhá játrům dodat glukózu do krve."
+  },
+  {
+    "id": 592,
+    "category": "Slinivka a další endokrinní orgány",
+    "bookRef": "str. 146",
+    "sourcePages": "146",
+    "question": "Jaký vztah mají inzulin a glukagon vzhledem ke glykemii?",
+    "options": [
+      "Jejich hlavní celkové účinky směřují opačně: inzulin dolů, glukagon nahoru",
+      "Oba vždy snižují glykemii úplně stejnou cestou",
+      "Oba jsou pouze trávicí enzymy",
+      "Každý z nich mění glukózu na ionty vápníku"
+    ],
+    "answer": 0,
+    "title": "Dva hormony pomáhají upravit dostupnost glukózy",
+    "paragraphs": [
+      "Inzulin a glukagon mají ve vztahu ke krevní glukóze protichůdné hlavní účinky. Jejich souhra pomáhá přizpůsobit zásobování aktuálním potřebám.",
+      "Představ si přepínání mezi ukládáním zdrojů a jejich vydáváním. Organismus potřebuje obě možnosti v různých situacích.",
+      "Neznamená to, že jsou ve všech tkáních všechny jejich účinky dokonalými zrcadly. Jde o základní vztah ke glykemii."
+    ],
+    "memory": "Inzulin glykemii snižuje, glukagon ji zvyšuje."
+  },
+  {
+    "id": 593,
+    "category": "Slinivka a další endokrinní orgány",
+    "bookRef": "str. 146",
+    "sourcePages": "146",
+    "question": "Jak zvýšená glukóza po jídle běžně ovlivňuje sekreci inzulinu?",
+    "options": [
+      "Změní inzulin na oxytocin",
+      "Podporuje její zvýšení",
+      "Vždy ji zcela a trvale vypne",
+      "Nemůže buňky slinivky nijak ovlivnit"
+    ],
+    "answer": 1,
+    "title": "Dostupnost živiny ovlivňuje regulační výstup",
+    "paragraphs": [
+      "Zvýšení krevní glukózy podporuje uvolňování inzulinu. Jeho účinky pak pomáhají využít a uložit dostupné zdroje.",
+      "Představ si čidlo propojené s odpovědí na nadbytek aktuálně dostupného materiálu. Výsledný zásah přispívá ke snížení původní odchylky.",
+      "Glukóza není jediným vlivem na sekreci inzulinu. Uplatňují se také další živiny, střevní hormony a nervové vlivy."
+    ],
+    "memory": "Vyšší glukóza obvykle podporuje výdej inzulinu."
+  },
+  {
+    "id": 594,
+    "category": "Slinivka a další endokrinní orgány",
+    "bookRef": "str. 146",
+    "sourcePages": "146",
+    "question": "Který hormonální děj pomáhá při poklesu glykemie?",
+    "options": [
+      "Ukončení veškeré činnosti jater",
+      "Přeměna všech ledvin na pankreas",
+      "Zvýšené uvolňování glukagonu s podporou jaterního výdeje glukózy",
+      "Trvalé neomezené zvyšování inzulinu jako jediná nápravná reakce"
+    ],
+    "answer": 2,
+    "title": "Pokles glukózy má protiregulační odpověď",
+    "paragraphs": [
+      "Při poklesu glykemie pomáhá zvýšená sekrece glukagonu mobilizovat jaterní zdroje. Tím se podporuje návrat glukózy do oběhu.",
+      "Představ si doplňování dostupné zásoby ve chvíli, kdy její hladina klesá. Regulace podle situace mění poměr ukládání a výdeje.",
+      "Na obraně proti nízké glykemii se podílejí i další hormony a nervové děje. Glukagon je důležitou součástí, nikoli jediným prvkem."
+    ],
+    "memory": "Nízká glykemie → glukagon pomáhá játrům vydávat glukózu."
+  },
+  {
+    "id": 595,
+    "category": "Slinivka a další endokrinní orgány",
+    "bookRef": "str. 145",
+    "sourcePages": "145",
+    "question": "Která porucha může vést k dlouhodobě zvýšené glykemii při diabetu?",
+    "options": [
+      "Pouze nedostatek melaninu v kůži",
+      "Každé běžné zvýšení slinění",
+      "Výhradně mechanická překážka ve vnějším zvukovodu",
+      "Nedostatek inzulinu nebo nedostatečná odpověď tkání na jeho působení"
+    ],
+    "answer": 3,
+    "title": "Diabetes souvisí s nedostatečným inzulinovým působením",
+    "paragraphs": [
+      "U diabetu může být problémem nedostatek inzulinu, oslabení odpovědi na něj nebo jejich kombinace. Výsledkem je porucha hospodaření s glukózou.",
+      "Představ si chybějící regulační zprávu nebo příjemce, který na ni nereaguje dostatečně. Podobný výsledek může mít odlišný mechanismus.",
+      "Otázka nestanovuje diagnózu podle jedné hodnoty ani nedoporučuje léčbu. Jednotlivé typy diabetu vyžadují přesnější rozlišení."
+    ],
+    "memory": "Problém může být v množství inzulinu i v odpovědi na něj."
+  },
+  {
+    "id": 596,
+    "category": "Slinivka a další endokrinní orgány",
+    "bookRef": "str. 145–146",
+    "sourcePages": "145–146",
+    "question": "Proč by běžný inzulin spolknutý jako nechráněná bílkovina neúčinkoval stejně jako hormon v krvi?",
+    "options": [
+      "V trávicím traktu by podléhal rozkladu a špatně by se vstřebával v účinné podobě",
+      "Protože neobsahuje žádné chemické vazby",
+      "Protože žaludek běžně mění každý hormon přímo na nový pankreas",
+      "Protože krev nemůže obsahovat bílkoviny"
+    ],
+    "answer": 0,
+    "title": "Peptidová zpráva musí zůstat dostatečně zachovaná",
+    "paragraphs": [
+      "Inzulin je peptidový hormon. V trávicím prostředí by se běžná nechráněná molekula rozkládala a obtížně dostávala do krve v účinné podobě.",
+      "Představ si zprávu, která se cestou rozebere na části. Samotné přijetí ústy pak nezaručí doručení stejné aktivní molekuly do oběhu.",
+      "Toto vysvětluje biologickou překážku, nikoli návod k podávání léků. Speciální lékové technologie jsou jiná otázka než vlastnosti běžné nechráněné molekuly."
+    ],
+    "memory": "Inzulin je peptid citlivý na trávicí rozklad."
+  },
+  {
+    "id": 597,
+    "category": "Slinivka a další endokrinní orgány",
+    "bookRef": "str. 146",
+    "sourcePages": "146",
+    "question": "Mají pohlavní orgány kromě tvorby pohlavních buněk i endokrinní funkci?",
+    "options": [
+      "Ne, všechny pohlavní hormony vznikají jen v ledvinné pánvičce",
+      "Ano, pohlavní žlázy vytvářejí hormony",
+      "Ne, varlata ani vaječníky nikdy netvoří hormony",
+      "Ano, ale pouze kožní maz"
+    ],
+    "answer": 1,
+    "title": "Pohlavní žlázy mají více úkolů",
+    "paragraphs": [
+      "Varlata a vaječníky se podílejí na reprodukci i hormonálním řízení. Jejich endokrinní činnost ovlivňuje více tělesných funkcí.",
+      "Představ si orgán, který vedle buněčné produkce také posílá regulační zprávy do těla. Tyto úkoly se vzájemně propojují.",
+      "Samotné hormonální řízení pohlavních funkcí neprobíhá jen v pohlavních žlázách. Spolupracují i hypotalamus a hypofýza."
+    ],
+    "memory": "Pohlavní žlázy tvoří gamety i hormony."
+  },
+  {
+    "id": 598,
+    "category": "Slinivka a další endokrinní orgány",
+    "bookRef": "str. 146",
+    "sourcePages": "146",
+    "question": "Který orgán vznikající v souvislosti s těhotenstvím plní také endokrinní funkce?",
+    "options": [
+      "Vnější zvukovod",
+      "Slezinný vaz jako jediná endokrinní struktura těhotenství",
+      "Placenta",
+      "Zubní sklovina"
+    ],
+    "answer": 2,
+    "title": "Placenta má i hormonální činnost",
+    "paragraphs": [
+      "Placenta není pouze místem výměny mezi matkou a plodem. Vytváří také hormony důležité pro průběh těhotenství.",
+      "Představ si dočasný orgán s více spolupracujícími funkcemi. Výměna látek a hormonální řízení mohou být součástí stejného celku.",
+      "Tento fakt neznamená přímé volné smíchání veškeré mateřské a fetální krve. Hormonální funkce je samostatná stránka její činnosti."
+    ],
+    "memory": "Placenta je také endokrinní orgán."
+  },
+  {
+    "id": 599,
+    "category": "Slinivka a další endokrinní orgány",
+    "bookRef": "str. 146",
+    "sourcePages": "146",
+    "question": "Který hormon je typicky spojen se šišinkou neboli epifýzou?",
+    "options": [
+      "Pepsin",
+      "Parathormon",
+      "Aldosteron",
+      "Melatonin"
+    ],
+    "answer": 3,
+    "title": "Šišinka souvisí s melatoninem",
+    "paragraphs": [
+      "Šišinka vytváří melatonin. Tento hormon se podílí na signalizaci denního rytmu a souvisí s cyklem bdění a spánku.",
+      "Představ si chemickou zprávu o časovém nastavení organismu. Nejde o palivo pro mozek ani mechanický spínač spánku.",
+      "Podobně znějící melanin je kožní pigment, nikoli stejná látka. Melatonin a melanin mají odlišné funkce."
+    ],
+    "memory": "Šišinka → melatonin; kůže → pigment melanin."
+  },
+  {
+    "id": 600,
+    "category": "Slinivka a další endokrinní orgány",
+    "bookRef": "str. 146",
+    "sourcePages": "146",
+    "question": "Kdy bývá za běžného světelného režimu sekrece melatoninu vyšší?",
+    "options": [
+      "V noci za tmy",
+      "Vždy pouze při nejjasnějším poledním světle",
+      "Výhradně v okamžiku každého srdečního stahu",
+      "Jen při polknutí každého sousta bez vztahu k dennímu rytmu"
+    ],
+    "answer": 0,
+    "title": "Melatonin signalizuje biologickou noc",
+    "paragraphs": [
+      "Za běžných podmínek bývá tvorba a sekrece melatoninu vyšší během temné části dne. Souvisí s časovým sladěním tělesných rytmů.",
+      "Představ si noční značku pro vnitřní hodiny. Světelné podmínky a režim člověka mohou podobu tohoto signálu měnit.",
+      "Neznamená to, že jediná molekula melatoninu okamžitě uspí každého člověka. Jde o hormonální součást širšího řízení rytmu."
+    ],
+    "memory": "Melatonin bývá vyšší během biologické noci."
+  }
+]

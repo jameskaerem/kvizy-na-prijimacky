@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 301,
+    "category": "Metabolismus",
+    "bookRef": "str. 91",
+    "sourcePages": "91",
+    "question": "K čemu organismus využívá živiny po jejich vstřebání?",
+    "options": [
+      "Výhradně k ochlazování vzduchu",
+      "Jako zdroj energie a materiál pro tvorbu vlastních látek",
+      "Jen jako mechanickou náplň žaludku",
+      "Pouze k tvorbě nestrávené stolice"
+    ],
+    "answer": 1,
+    "title": "Živiny poskytují palivo i materiál",
+    "paragraphs": [
+      "Vstřebané živiny se zapojují do látkové přeměny. Mohou poskytovat energii nebo materiál pro tvorbu a obnovu tělesných struktur.",
+      "Představ si dílnu: potřebuje energii pro stroje i součástky pro výrobky. Jedna skupina látek může podle situace sloužit různým účelům.",
+      "Vstřebáním práce s živinami nekončí. Trávení je připravilo, metabolismus je dále využívá."
+    ],
+    "memory": "Živiny = palivo i stavební materiál."
+  },
+  {
+    "id": 302,
+    "category": "Metabolismus",
+    "bookRef": "str. 91",
+    "sourcePages": "91",
+    "question": "Co může tělo vytvořit z nadbytečné glukózy?",
+    "options": [
+      "Zubní sklovinu bez dalších látek",
+      "Vzdušný dusík jako hlavní zásobu energie",
+      "Tuk ukládaný do zásoby",
+      "Pouze nezměněnou celulózu v buněčné stěně"
+    ],
+    "answer": 2,
+    "title": "Sacharidy mohou přispět k tukové zásobě",
+    "paragraphs": [
+      "Organismus umí přeměňovat sacharidy na tuk. Energie přijatá jako sacharidy tedy nemusí zůstat uložená pouze v sacharidové podobě.",
+      "Představ si převod peněz na jiný druh úspor. Původ energie a konečná forma zásoby nemusí být stejné.",
+      "Neznamená to, že každá porce sacharidů automaticky způsobí tloustnutí. Zde se testuje možnost metabolické přeměny."
+    ],
+    "memory": "Z glukózy může vzniknout tuk."
+  },
+  {
+    "id": 303,
+    "category": "Metabolismus",
+    "bookRef": "str. 91",
+    "sourcePages": "91",
+    "question": "Která část triacylglycerolu se může využít k tvorbě glukózy?",
+    "options": [
+      "Cholesterol jako jeho povinná stavební část",
+      "Dusík jako hlavní složka každé mastné kyseliny",
+      "Celulózová stěna tukové kapénky",
+      "Glycerol"
+    ],
+    "answer": 3,
+    "title": "Glycerol propojuje metabolické cesty",
+    "paragraphs": [
+      "Učebnice uvádí glycerol jako část triacylglycerolu využitelnou k tvorbě glukózy. Tuk tedy nelze při této otázce chápat jako jednu nedělitelnou molekulu.",
+      "Triacylglycerol si představ jako glycerolový základ se třemi mastnými kyselinami. Jednotlivé části se mohou dále zpracovávat odlišně.",
+      "Z této možnosti neplyne, že všechny mastné kyseliny jednoduše poskytují čistý zisk glukózy. Otázka se týká právě glycerolu."
+    ],
+    "memory": "Glycerol může přispět k tvorbě glukózy."
+  },
+  {
+    "id": 304,
+    "category": "Metabolismus",
+    "bookRef": "str. 91",
+    "sourcePages": "91",
+    "question": "Co znamená, že je aminokyselina pro člověka esenciální?",
+    "options": [
+      "Musí být dodávána potravou, protože si ji tělo nedokáže vytvořit v potřebném množství",
+      "Tělo ji vůbec nepoužívá",
+      "Vzniká výhradně v zubní sklovině",
+      "Je vždy škodlivým odpadem"
+    ],
+    "answer": 0,
+    "title": "Esenciální znamená nezbytný přívod zvenku",
+    "paragraphs": [
+      "Esenciální aminokyseliny potřebujeme přijímat potravou. Vlastní syntéza organismu jejich potřebný přívod nezajistí.",
+      "Představ si díl, který dílna potřebuje, ale neumí si ho sama dostatečně vyrobit. Musí přijít v dodávce.",
+      "Esenciální neznamená energeticky nejbohatší ani největší molekula. Označuje závislost na přívodu zvenku."
+    ],
+    "memory": "Esenciální = potřebuji dodat."
+  },
+  {
+    "id": 305,
+    "category": "Metabolismus",
+    "bookRef": "str. 92",
+    "sourcePages": "92",
+    "question": "Co vyjadřuje dynamický stav tělesných bílkovin?",
+    "options": [
+      "Obnova probíhá pouze před narozením",
+      "Bílkoviny se průběžně odbourávají a znovu vytvářejí",
+      "Po vzniku už se nikdy nemění",
+      "Všechny bílkoviny se každý den mění na sklovinu"
+    ],
+    "answer": 1,
+    "title": "Obnova pokračuje i bez viditelné změny",
+    "paragraphs": [
+      "Tělesné bílkoviny se průběžně štěpí a znovu syntetizují. Zdánlivě stálá tkáň tak může mít neustálou vnitřní obměnu.",
+      "Je to jako udržovaný dům: jeho vzhled zůstává, ale opotřebené součásti se vyměňují. Stálý výsledek nemusí znamenat zastavené děje.",
+      "Nejde o tvrzení, že všechny bílkoviny mají stejnou životnost. Rychlost obnovy se mezi nimi liší."
+    ],
+    "memory": "Stálá tkáň, průběžná obnova."
+  },
+  {
+    "id": 306,
+    "category": "Metabolismus",
+    "bookRef": "str. 92",
+    "sourcePages": "92",
+    "question": "Která látka má ústřední význam v metabolismu sacharidů?",
+    "options": [
+      "Bilirubin",
+      "Pepsin",
+      "Glukóza",
+      "Močovina"
+    ],
+    "answer": 2,
+    "title": "Glukóza je důležitá metabolická křižovatka",
+    "paragraphs": [
+      "Glukóza je významný krevní cukr a výchozí látka řady metabolických dějů. Buňky ji mohou využít pro energii i pro další přeměny.",
+      "Představ si hlavní zásobovací uzel, ze kterého vedou různé cesty. Glukóza nemusí mít v každé buňce stejný osud.",
+      "Močovina slouží k odstranění dusíku, bilirubin souvisí s rozkladem hemu a pepsin je trávicí enzym."
+    ],
+    "memory": "Metabolismus sacharidů: hlavní uzel glukóza."
+  },
+  {
+    "id": 307,
+    "category": "Metabolismus",
+    "bookRef": "str. 92",
+    "sourcePages": "92",
+    "question": "Jak může organismus při hladovění vytvářet glukózu?",
+    "options": [
+      "Pouze rozpuštěním skloviny",
+      "Přímou přeměnou kyslíku na cukr bez uhlíku",
+      "Jen štěpením celulózy vlastní celulázou",
+      "Také z některých nesacharidových látek, například glukogenních aminokyselin"
+    ],
+    "answer": 3,
+    "title": "Glukóza nemusí pocházet jen z potravy",
+    "paragraphs": [
+      "Při hladovění může glukóza vznikat také z nesacharidových zdrojů. Patří mezi ně některé aminokyseliny.",
+      "Představ si výrobu potřebné suroviny z jiného dostupného materiálu, když běžná dodávka chybí. Tělo tak pomáhá udržet její přísun.",
+      "Ne každá aminokyselina poskytuje čistý zisk glukózy. Proto je správná odpověď omezena na glukogenní aminokyseliny."
+    ],
+    "memory": "Glukózu lze nově tvořit i z jiných zdrojů."
+  },
+  {
+    "id": 308,
+    "category": "Metabolismus",
+    "bookRef": "str. 92",
+    "sourcePages": "92",
+    "question": "Jaké jsou konečné produkty úplné oxidace glukózy v energetickém metabolismu?",
+    "options": [
+      "Oxid uhličitý a voda",
+      "Pepsin a žlučové soli",
+      "Celulóza a sklovina",
+      "Pouze močovina a hemoglobin"
+    ],
+    "answer": 0,
+    "title": "Úplná oxidace uvolňuje energii",
+    "paragraphs": [
+      "Při úplné oxidaci glukózy vznikají oxid uhličitý a voda. Uvolněnou energii organismus využívá pro svou činnost.",
+      "Představ si postupné získávání energie z paliva. Uhlík glukózy nakonec odchází v oxidu uhličitém.",
+      "Otázka se týká úplné oxidace. Při jiném způsobu zpracování glukózy mohou vznikat jiné produkty, například laktát."
+    ],
+    "memory": "Úplně oxidovaná glukóza → CO₂ a voda."
+  },
+  {
+    "id": 309,
+    "category": "Metabolismus",
+    "bookRef": "str. 92",
+    "sourcePages": "92",
+    "question": "Která skupina obsahuje hormony podílející se na řízení hladiny glukózy?",
+    "options": [
+      "Mucin, dentin a sklovina",
+      "Inzulin, glukagon a adrenalin",
+      "Pepsin, trypsin a amyláza",
+      "Albumin, fibrinogen a hemoglobin"
+    ],
+    "answer": 1,
+    "title": "Hladina cukru je řízená",
+    "paragraphs": [
+      "Učebnice uvádí inzulin, glukagon a adrenalin jako hormony ovlivňující hladinu glukózy. Organismus tak přizpůsobuje její dostupnost potřebám.",
+      "Představ si řízení zásobování podle toho, zda právě přijímáš potravu, nebo potřebuješ mobilizovat zásoby.",
+      "Uvedené hormony nepůsobí všechny stejným směrem. Otázka ověřuje jejich účast na regulaci, nikoli shodný účinek."
+    ],
+    "memory": "Cukr řídí mimo jiné inzulin, glukagon a adrenalin."
+  },
+  {
+    "id": 310,
+    "category": "Metabolismus",
+    "bookRef": "str. 92",
+    "sourcePages": "92",
+    "question": "Jak se glukóza z krevní plazmy dostává k buňkám tkání?",
+    "options": [
+      "Pouze přes dutinu močového měchýře",
+      "Tak, že se celá tepna změní na glukózu",
+      "Přes mezibuněčný prostor a následně přes buněčnou membránu",
+      "Přímo z jícnu do buněčného jádra"
+    ],
+    "answer": 2,
+    "title": "Krev zásobuje buňky přes jejich okolí",
+    "paragraphs": [
+      "Glukóza je přenášena krevní plazmou a dostává se do mezibuněčného prostředí. Odtud vstupuje přes membránu do buněk.",
+      "Představ si dovoz do čtvrti a poslední úsek cesty ke konkrétnímu domu. Krevní oběh a buněčný transport na sebe navazují.",
+      "Přítomnost glukózy v krvi není totéž jako její přítomnost uvnitř buňky. Membrána tvoří další řízenou hranici."
+    ],
+    "memory": "Krev → okolí buňky → buňka."
+  },
+  {
+    "id": 311,
+    "category": "Metabolismus",
+    "bookRef": "str. 92–93",
+    "sourcePages": "92–93",
+    "question": "Která látková zásoba představuje hlavní dlouhodobou energetickou rezervu těla?",
+    "options": [
+      "Kyslík uložený ve sklovině",
+      "Pepsin v krevní plazmě",
+      "Močovina v močovém měchýři",
+      "Tuky v tukové tkáni"
+    ],
+    "answer": 3,
+    "title": "Tuk je vydatná energetická zásoba",
+    "paragraphs": [
+      "Tuková tkáň ukládá značné množství energie ve formě tuků. Ty představují významnější dlouhodobou rezervu než zásoby glykogenu.",
+      "Představ si sklad velmi koncentrovaného paliva. Do malé hmotnosti zásoby se vejde hodně využitelné energie.",
+      "Glykogen má důležitou úlohu, ale jeho zásoby jsou omezenější. Močovina je odpadní látka, nikoli hlavní energetická rezerva."
+    ],
+    "memory": "Dlouhodobá energetická zásoba = tuk."
+  },
+  {
+    "id": 312,
+    "category": "Metabolismus",
+    "bookRef": "str. 93",
+    "sourcePages": "93",
+    "question": "Jak se přibližně liší energetická vydatnost stejné hmotnosti tuku a bílkovin?",
+    "options": [
+      "Tuk poskytuje více než dvojnásobek využitelné energie",
+      "Tuk neposkytuje žádnou energii",
+      "Bílkoviny poskytují vždy desetkrát více energie",
+      "Obě látky jsou energeticky totožné v každé hmotnosti"
+    ],
+    "answer": 0,
+    "title": "Gram tuku nese více energie",
+    "paragraphs": [
+      "Podle učebnice obsahuje gram triacylglycerolů více než dvojnásobek využitelné energie oproti gramu bílkovin nebo glykogenu.",
+      "Představ si dva stejně těžké balíčky s různě vydatným palivem. Stejná hmotnost nemusí znamenat stejnou energetickou hodnotu.",
+      "Tato vlastnost sama neurčuje vhodný jídelníček. Otázka porovnává energetickou hustotu látek."
+    ],
+    "memory": "Stejná hmotnost: tuk má přes dvojnásobek energie."
+  },
+  {
+    "id": 313,
+    "category": "Metabolismus",
+    "bookRef": "str. 92",
+    "sourcePages": "92",
+    "question": "Které produkty se uvolňují při mobilizaci uložených triacylglycerolů?",
+    "options": [
+      "Pepsin a kyselina chlorovodíková",
+      "Glycerol a mastné kyseliny",
+      "Aminokyseliny a močovina jako přímé stavební části tuku",
+      "Glukóza a celulóza jako jeho jediné složky"
+    ],
+    "answer": 1,
+    "title": "Zásobní tuk se rozebírá na své složky",
+    "paragraphs": [
+      "Při štěpení uložených triacylglycerolů se uvolňují glycerol a mastné kyseliny. Ty mohou být dále metabolicky využity.",
+      "Představ si rozebrání zásobního balíčku na části, které lze přepravit a zpracovat. Uložená energie se tím zpřístupňuje.",
+      "Nejde o totéž co emulgace tuku ve střevě. Zde mluvíme o mobilizaci už uložených tělesných zásob."
+    ],
+    "memory": "Zásobní tuk → glycerol a mastné kyseliny."
+  },
+  {
+    "id": 314,
+    "category": "Metabolismus",
+    "bookRef": "str. 93",
+    "sourcePages": "93",
+    "question": "Co se může stát s tělesnými bílkovinami při dlouhodobě nedostatečném přísunu živin?",
+    "options": [
+      "Změní se výhradně na nové neurony",
+      "Přestanou se jakkoli účastnit metabolismu",
+      "Jejich odbourávání může převážit nad tvorbou a ubývá svalová hmota",
+      "Všechny se automaticky zdvojnásobí"
+    ],
+    "answer": 2,
+    "title": "Při nedostatku se spotřebovává i vlastní materiál",
+    "paragraphs": [
+      "Pokud odbourávání bílkovin převáží nad jejich syntézou, tělo ztrácí bílkovinnou hmotu. Projevit se to může úbytkem svalstva.",
+      "Představ si dílnu bez dostatku dodávek, která začne rozebírat vlastní vybavení. Krátkodobě získá materiál, ale její stav se zhoršuje.",
+      "Svalová hmota nevzniká pouhou přítomností aminokyselin v krvi. Důležitá je celková bilance tvorby a rozkladu."
+    ],
+    "memory": "Převaha rozkladu bílkovin → úbytek tkáně."
+  },
+  {
+    "id": 315,
+    "category": "Metabolismus",
+    "bookRef": "str. 93",
+    "sourcePages": "93",
+    "question": "Co označuje deaminace aminokyseliny?",
+    "options": [
+      "Připojení tří mastných kyselin na glycerol",
+      "Rozpuštění skloviny slinami",
+      "Přesun celé krvinky do alveolu",
+      "Odstranění její aminoskupiny"
+    ],
+    "answer": 3,
+    "title": "Deaminace odděluje dusíkatou část",
+    "paragraphs": [
+      "Při deaminaci se z aminokyseliny odstraňuje aminoskupina. Zbývající uhlíkatá část může vstoupit do dalších metabolických dějů.",
+      "Představ si oddělení jedné součásti před dalším zpracováním zbytku molekuly. Dusíkatá a uhlíkatá část pak mají odlišný osud.",
+      "Deaminace není totéž co proteosyntéza. Ta naopak spojuje aminokyseliny do bílkovin."
+    ],
+    "memory": "De-aminace = odebrání aminoskupiny."
+  },
+  {
+    "id": 316,
+    "category": "Metabolismus",
+    "bookRef": "str. 93",
+    "sourcePages": "93",
+    "question": "Jaký význam má přeměna amoniaku na močovinu v játrech?",
+    "options": [
+      "Umožňuje odvést dusík ve formě vhodnější pro vyloučení ledvinami",
+      "Zajišťuje přímou tvorbu kyslíku",
+      "Mění moč na žluč už v močovém měchýři",
+      "Nahrazuje syntézu všech aminokyselin"
+    ],
+    "answer": 0,
+    "title": "Dusík se připravuje k odstranění",
+    "paragraphs": [
+      "Amoniak vznikající při metabolismu aminokyselin se v játrech zpracovává na močovinu. Ta přechází do krve a je odstraňována ledvinami.",
+      "Představ si zabalení problematického odpadu do podoby vhodnější k přepravě a odvozu. Játra odpad zpracují, ledviny jej vyloučí.",
+      "Močovina se netvoří prostým skladováním moči v měchýři. Její vznik a konečné vyloučení jsou dvě různé etapy."
+    ],
+    "memory": "Játra tvoří močovinu, ledviny ji odvádějí."
+  },
+  {
+    "id": 317,
+    "category": "Metabolismus",
+    "bookRef": "str. 93",
+    "sourcePages": "93",
+    "question": "Co je proteosyntéza?",
+    "options": [
+      "Rozklad hemoglobinu na žlučová barviva",
+      "Tvorba bílkovin z aminokyselin",
+      "Štěpení tuku na glycerol a mastné kyseliny",
+      "Filtrace krevní plazmy v glomerulu"
+    ],
+    "answer": 1,
+    "title": "Proteosyntéza staví bílkoviny",
+    "paragraphs": [
+      "Při proteosyntéze buňky využívají aminokyseliny k tvorbě bílkovin. Ty slouží mimo jiné jako součásti buněk a funkční molekuly.",
+      "Představ si sestavování řetězce podle stanoveného pořadí dílků. Aminokyseliny jsou jednotlivé stavební jednotky.",
+      "Trávení bílkovin probíhá opačným směrem: velké molekuly se rozkládají. Proteosyntéza vytváří nové vlastní bílkoviny."
+    ],
+    "memory": "Proteo-syntéza = sestavení bílkoviny."
+  },
+  {
+    "id": 318,
+    "category": "Výživa",
+    "bookRef": "str. 93–94",
+    "sourcePages": "93–94",
+    "question": "Která skupina obsahuje tři hlavní typy energetických živin?",
+    "options": [
+      "Žluč, sliny a moč",
+      "Sklovina, dentin a cement",
+      "Sacharidy, lipidy a bílkoviny",
+      "Vitaminy, voda a chloridy"
+    ],
+    "answer": 2,
+    "title": "Tři hlavní skupiny dodávají energii",
+    "paragraphs": [
+      "Sacharidy, lipidy a bílkoviny patří mezi hlavní živiny poskytující využitelnou energii. Potrava ale musí obsahovat i další nezbytné složky.",
+      "Představ si hlavní zásilky paliva a materiálu. Pro fungování dílny jsou však potřeba také voda a pomocné součásti.",
+      "Vitaminy a minerální látky jsou nezbytné, ale neplní roli energetického paliva jako tyto tři skupiny."
+    ],
+    "memory": "Energetické živiny: sacharidy, tuky, bílkoviny."
+  },
+  {
+    "id": 319,
+    "category": "Výživa",
+    "bookRef": "str. 93",
+    "sourcePages": "93",
+    "question": "Proč se energetická potřeba jednotlivých lidí liší?",
+    "options": [
+      "Je u každého vždy naprosto stejná",
+      "Určuje ji pouze barva očí",
+      "Závisí výhradně na počtu zubů",
+      "Závisí mimo jiné na věku, fyziologickém stavu a tělesné aktivitě"
+    ],
+    "answer": 3,
+    "title": "Potřeba energie odpovídá situaci",
+    "paragraphs": [
+      "Učebnice spojuje potřebu živin s věkem, fyziologickým stavem a vykonávanou činností. Nelze ji popsat jednou neměnnou hodnotou pro všechny.",
+      "Představ si různě vytížené stroje: při větší práci obvykle potřebují více paliva. Organismus navíc může růst či vytvářet nové tkáně.",
+      "Stejná tělesná hmotnost sama nezaručuje stejnou energetickou potřebu. Otázka proto nevyžaduje jedno univerzální denní číslo."
+    ],
+    "memory": "Potřebu mění věk, stav a aktivita."
+  },
+  {
+    "id": 320,
+    "category": "Výživa",
+    "bookRef": "str. 93",
+    "sourcePages": "93",
+    "question": "Jaká je základní úloha vlákniny ve střevě popsaná učebnicí?",
+    "options": [
+      "Podporovat pohyb střev a přispívat k pravidelnému vyprazdňování",
+      "Nahradit všechny střevní enzymy",
+      "Přenášet kyslík místo hemoglobinu",
+      "Přímo tvořit žaludeční kyselinu"
+    ],
+    "answer": 0,
+    "title": "Vláknina pomáhá střevnímu obsahu postupovat",
+    "paragraphs": [
+      "Vláknina je tvořena složkami potravy, které vlastní lidské enzymy plně neštěpí. Podporuje pohyb střev a přispívá k vlastnostem stolice.",
+      "Představ si součást obsahu, která pomáhá udržovat jeho objem a průchod střevem. Potrava nemusí být důležitá jen svou energetickou hodnotou.",
+      "Nejde o tvrzení, že vláknina řeší každý problém s vyprazdňováním. Testuje se její běžná fyziologická úloha."
+    ],
+    "memory": "Vláknina pomáhá pohybu a vyprazdňování střev."
+  },
+  {
+    "id": 321,
+    "category": "Výživa",
+    "bookRef": "str. 93",
+    "sourcePages": "93",
+    "question": "Která skupina potravin je typickým zdrojem vlákniny?",
+    "options": [
+      "Samotná vejce a čistý masový vývar",
+      "Zelenina, ovoce, celozrnné obiloviny a luštěniny",
+      "Čistý olej, máslo a sádlo",
+      "Voda a kuchyňská sůl"
+    ],
+    "answer": 1,
+    "title": "Vláknina přichází hlavně s rostlinnou potravou",
+    "paragraphs": [
+      "Učebnice uvádí zeleninu, ovoce, obiloviny a luštěniny jako zdroje vlákniny. Ta souvisí s obtížně štěpitelnými složkami rostlinných struktur.",
+      "Představ si rostlinnou tkáň s jejími buněčnými stěnami. Právě takové složky přispívají k obsahu vlákniny.",
+      "Čistý tuk může dodávat hodně energie, ale vlákninu tím nenahrazuje. Jde o jinou vlastnost potravy."
+    ],
+    "memory": "Vláknina: rostlinné zdroje, zvlášť celozrnné a luštěniny."
+  },
+  {
+    "id": 322,
+    "category": "Výživa",
+    "bookRef": "str. 94",
+    "sourcePages": "94",
+    "question": "Která mastná kyselina patří mezi esenciální mastné kyseliny člověka?",
+    "options": [
+      "Kyselina močová",
+      "Kyselina mléčná",
+      "Kyselina linolová",
+      "Kyselina chlorovodíková"
+    ],
+    "answer": 2,
+    "title": "Některé mastné kyseliny je nutné přijmout",
+    "paragraphs": [
+      "Kyselina linolová patří mezi esenciální mastné kyseliny. Tělo si potřebné množství nedokáže samo vytvořit, a proto závisí na potravě.",
+      "Podobně jako u esenciálních aminokyselin jde o potřebný díl, který musí přijít zvenku. Slovo esenciální popisuje původ potřebné dodávky.",
+      "Ne každá látka se slovem kyselina v názvu je mastná kyselina. Ostatní možnosti patří do jiných chemických a funkčních souvislostí."
+    ],
+    "memory": "Linolová = esenciální mastná kyselina."
+  },
+  {
+    "id": 323,
+    "category": "Výživa",
+    "bookRef": "str. 94",
+    "sourcePages": "94",
+    "question": "Co chemicky charakterizuje nenasycenou mastnou kyselinu?",
+    "options": [
+      "Nepřítomnost jakéhokoli uhlíku",
+      "Řetězec tvořený pouze aminokyselinami",
+      "Povinná přítomnost hemoglobinu",
+      "Alespoň jedna dvojná vazba mezi uhlíky jejího řetězce"
+    ],
+    "answer": 3,
+    "title": "Nenasycenost se týká vazeb v řetězci",
+    "paragraphs": [
+      "Nenasycené mastné kyseliny obsahují v uhlíkatém řetězci jednu či více dvojných vazeb. Je to znak jejich chemické struktury.",
+      "Představ si řetěz, u kterého se liší způsob propojení některých sousedních článků. Rozdíl není v pocitu sytosti člověka.",
+      "Nasycené mastné kyseliny takové dvojné vazby mezi uhlíky nemají. Slova nasycený a nenasycený zde nejsou popisem hladu."
+    ],
+    "memory": "Nenasycená mastná kyselina má dvojnou vazbu."
+  },
+  {
+    "id": 324,
+    "category": "Výživa",
+    "bookRef": "str. 94",
+    "sourcePages": "94",
+    "question": "Které vitaminy jsou rozpustné v tucích?",
+    "options": [
+      "A, D, E a K",
+      "C a všechny vitaminy skupiny B",
+      "Pouze C",
+      "B₁ a B₁₂ jako jediná skupina"
+    ],
+    "answer": 0,
+    "title": "Čtyři vitaminy souvisejí s tuky",
+    "paragraphs": [
+      "Vitaminy A, D, E a K jsou rozpustné v tucích. Tuky v potravě proto souvisejí i s jejich vstřebáváním.",
+      "Představ si látky, které potřebují vhodné prostředí pro rozpuštění a další zpracování. Rozpustnost ovlivňuje jejich cestu organismem.",
+      "Vitaminy skupiny B a vitamin C se řadí mezi rozpustné ve vodě. Nejde tedy o jednu společnou skupinu všech vitaminů."
+    ],
+    "memory": "V tucích: A D E K."
+  },
+  {
+    "id": 325,
+    "category": "Výživa",
+    "bookRef": "str. 94",
+    "sourcePages": "94",
+    "question": "Jaká je obecná úloha mnoha vitaminů v metabolismu?",
+    "options": [
+      "Nahrazují veškerou vodu v buňkách",
+      "Pomáhají chemickým reakcím, často jako součásti enzymových pomocníků",
+      "Jsou hlavním energetickým palivem místo sacharidů",
+      "Tvoří většinu hmotnosti svalových vláken"
+    ],
+    "answer": 1,
+    "title": "Malé množství, důležitá funkce",
+    "paragraphs": [
+      "Mnohé vitaminy se účastní metabolických reakcí jako součásti kofaktorů či koenzymů. Tělo je potřebuje, přestože nejsou hlavním zdrojem energie.",
+      "Představ si malý nástroj potřebný pro práci stroje. Není palivem ani hlavním výrobkem, ale bez něj určitý krok nefunguje správně.",
+      "Ne všechny vitaminy mají totožný mechanismus působení. Správná odpověď proto říká mnohé, nikoli každý bez výjimky."
+    ],
+    "memory": "Vitamin často pomáhá reakci, nedodává hlavní energii."
+  },
+  {
+    "id": 326,
+    "category": "Výživa",
+    "bookRef": "str. 94",
+    "sourcePages": "94",
+    "question": "Co znamená, že tělo potřebuje některé prvky ve stopovém množství?",
+    "options": [
+      "Musejí tvořit většinu každého jídla",
+      "Nesmějí se v těle vůbec vyskytovat",
+      "Jsou potřebné jen ve velmi malých množstvích",
+      "Jsou vždy zcela nepotřebné"
+    ],
+    "answer": 2,
+    "title": "Stopový neznamená bezvýznamný",
+    "paragraphs": [
+      "Některé minerální prvky organismus potřebuje pouze v malém množství. Přesto mohou mít nezbytné biologické funkce.",
+      "Představ si malý šroubek ve velkém stroji. Jeho hmotnost je nepatrná, ale z toho neplyne, že je zbytečný.",
+      "Potřebné množství a význam nejsou totéž. Z označení stopový také neplyne, že neomezené množství je prospěšné."
+    ],
+    "memory": "Stopový = málo co do množství, ne významu."
+  },
+  {
+    "id": 327,
+    "category": "Výživa",
+    "bookRef": "str. 94",
+    "sourcePages": "94",
+    "question": "Proč je nutné minerální látky průběžně doplňovat potravou?",
+    "options": [
+      "Tělo je všechny mění na světlo",
+      "Každý minerální ion se po jedné sekundě rozpadá",
+      "Minerální látky nikdy nevstupují do těla",
+      "Část se z těla ztrácí například močí a sekrety"
+    ],
+    "answer": 3,
+    "title": "Příjem vyrovnává průběžné ztráty",
+    "paragraphs": [
+      "Organismus ztrácí určité množství minerálních látek močí a dalšími výměšky. Příjem potravou pomáhá tyto ztráty nahrazovat.",
+      "Představ si nádrž s malým průběžným odtokem. K udržení obsahu nestačí jediné naplnění na celý život.",
+      "Ledviny hospodaření se solemi regulují, ale nezajišťují nulové ztráty všech látek. Regulace a doplňování se doplňují."
+    ],
+    "memory": "Průběžné ztráty vyžadují průběžný příjem."
+  },
+  {
+    "id": 328,
+    "category": "Výživa",
+    "bookRef": "str. 94",
+    "sourcePages": "94",
+    "question": "Odkud člověk přijímá vodu kromě samotných nápojů?",
+    "options": [
+      "Také z vody obsažené v potravinách",
+      "Jen z tvrdé zubní skloviny",
+      "Výhradně z vdechnutého dusíku",
+      "Z močového měchýře zpět přes jícen"
+    ],
+    "answer": 0,
+    "title": "I potraviny přinášejí vodu",
+    "paragraphs": [
+      "Voda se do těla dostává nejen pitím, ale také jako součást potravy. Při popisu příjmu vody tedy nestačí sledovat jen nápoje.",
+      "Představ si ovoce, zeleninu nebo polévku. Jejich voda vstupuje do organismu společně s ostatními složkami.",
+      "Otázka neurčuje univerzální denní dávku tekutin. Ta není stejná pro každého a za všech podmínek."
+    ],
+    "memory": "Voda přichází v nápojích i potravě."
+  },
+  {
+    "id": 329,
+    "category": "Výživa",
+    "bookRef": "str. 93–94",
+    "sourcePages": "93–94",
+    "question": "Proč samotná dostatečná energetická hodnota potravy nezaručuje její plnohodnotnost?",
+    "options": [
+      "Tělo nepotřebuje žádné složky kromě tuku",
+      "Musí dodat také potřebné aminokyseliny, mastné kyseliny, vitaminy, minerály a vodu",
+      "Každá energetická látka automaticky obsahuje všechny vitaminy",
+      "Voda a minerály jsou zbytečné, pokud je dost cukru"
+    ],
+    "answer": 1,
+    "title": "Energie je jen jedna stránka výživy",
+    "paragraphs": [
+      "Potrava musí poskytovat energii i nezbytné látky pro fungování organismu. Důležitá je tedy její skladba, nikoli pouze energetický součet.",
+      "Představ si dílnu s plnou nádrží paliva, ale bez potřebných součástek a vody. Dostatek paliva sám práci nezajistí.",
+      "Vitaminy ani minerály nelze nahradit prostým zvýšením množství cukru. Různé složky plní různé úkoly."
+    ],
+    "memory": "Dost energie ještě neznamená všechny potřebné látky."
+  },
+  {
+    "id": 330,
+    "category": "Ledviny a vylučování",
+    "bookRef": "str. 95–96",
+    "sourcePages": "95–96",
+    "question": "Co v biologii znamená exkrece?",
+    "options": [
+      "Tvorbu nových svalových bílkovin",
+      "Přenos kyslíku z alveolů do krve",
+      "Odstraňování odpadních produktů metabolismu z organismu",
+      "Pouze mechanické žvýkání potravy"
+    ],
+    "answer": 2,
+    "title": "Exkrece odstraňuje metabolický odpad",
+    "paragraphs": [
+      "Exkrece je vylučování odpadních produktů látkové přeměny. Patří sem například odvádění močoviny či oxidu uhličitého.",
+      "Představ si odvoz odpadu, který vznikl provozem dílny. Život vyžaduje nejen příjem materiálu, ale také odstraňování zbytků po jeho využití.",
+      "Samotné odstranění nevstřebaných zbytků potravy není v tomto vymezení exkrecí. Tyto zbytky nebyly zapojeny do tkáňového metabolismu."
+    ],
+    "memory": "Exkrece = odvod metabolického odpadu."
+  },
+  {
+    "id": 331,
+    "category": "Ledviny a vylučování",
+    "bookRef": "str. 96",
+    "sourcePages": "96",
+    "question": "Které rozlišení vylučování a odchodu stolice je správné?",
+    "options": [
+      "Nevstřebané zbytky jsou vždy hlavním produktem rozkladu svalových bílkovin",
+      "Močovina vzniká jen rozkousáním potravy",
+      "Odchod nevstřebaných zbytků je totožný s filtrací plazmy",
+      "Močovina je metabolický odpad, kdežto nevstřebané zbytky potravy neprošly tkáňovým metabolismem"
+    ],
+    "answer": 3,
+    "title": "Původ odstraňované látky je rozhodující",
+    "paragraphs": [
+      "Učebnice odlišuje metabolický odpad od nestrávených a nevstřebaných zbytků potravy. Rozhoduje, zda látka vznikla nebo byla zpracována ve vnitřním prostředí.",
+      "Představ si rozdíl mezi odpadem vzniklým výrobou a materiálem, který se do výrobní haly vůbec nedostal. Obojí odchází, ale jiným způsobem.",
+      "Stolice může obsahovat i látky vyloučené do střeva. Otázka se výslovně týká nevstřebaných zbytků, nikoli každé její složky."
+    ],
+    "memory": "Nevstřebaný zbytek není totéž co metabolický odpad."
+  },
+  {
+    "id": 332,
+    "category": "Ledviny a vylučování",
+    "bookRef": "str. 96",
+    "sourcePages": "96",
+    "question": "Který orgán odvádí z těla oxid uhličitý vznikající metabolismem?",
+    "options": [
+      "Plíce",
+      "Močový měchýř jako hlavní místo výdeje CO₂",
+      "Zubní dřeň",
+      "Žlučník jako hlavní místo výdeje CO₂"
+    ],
+    "answer": 0,
+    "title": "Plíce mají také vylučovací úlohu",
+    "paragraphs": [
+      "Oxid uhličitý vzniká v metabolismu tkání, je přepravován krví a odchází plícemi. Dýchací soustava tak zároveň odstraňuje odpadní produkt.",
+      "Představ si zásobovací cestu, která jedním směrem přiváží kyslík a opačným směrem odvádí oxid uhličitý.",
+      "Vylučování se neomezuje na moč. Různé odpadní látky mají různé výstupní cesty."
+    ],
+    "memory": "CO₂ odchází plícemi."
+  },
+  {
+    "id": 333,
+    "category": "Ledviny a vylučování",
+    "bookRef": "str. 96",
+    "sourcePages": "96",
+    "question": "Co označuje osmoregulační funkce ledvin?",
+    "options": [
+      "Mechanické pohyby hlasivek",
+      "Regulaci hospodaření s vodou a solemi v tělesných tekutinách",
+      "Pouze ukládání nestrávené potravy",
+      "Tvorbu skloviny z aminokyselin"
+    ],
+    "answer": 1,
+    "title": "Ledviny řídí složení vnitřního prostředí",
+    "paragraphs": [
+      "Ledviny pomáhají regulovat objem vody a množství rozpuštěných solí. Tím přispívají ke stálosti vnitřního prostředí.",
+      "Představ si správce nádrže, který hlídá hladinu i koncentraci obsahu. Nejde jen o odstranění jedné odpadní látky.",
+      "Exkreční a osmoregulační funkce probíhají současně. Jedny ledviny tedy plní více souvisejících úkolů."
+    ],
+    "memory": "Ledviny hlídají vodu i soli."
+  },
+  {
+    "id": 334,
+    "category": "Ledviny a vylučování",
+    "bookRef": "str. 96",
+    "sourcePages": "96",
+    "question": "Jaký význam má Henleova klička pro tvorbu koncentrované moči?",
+    "options": [
+      "Převádí moč zpět na žluč",
+      "Zastavuje přívod krve do celého těla",
+      "Podílí se na vzniku koncentračního gradientu ve dřeni ledviny",
+      "Tvoří červené krvinky uvnitř moči"
+    ],
+    "answer": 2,
+    "title": "Klička pomáhá vytvořit podmínky pro šetření vody",
+    "paragraphs": [
+      "Transportní děje v Henleově kličce přispívají ke koncentračnímu gradientu ve dřeni. Ten pomáhá umožnit zpětné vstřebávání vody a zahušťování moči.",
+      "Představ si vytvoření okolí, které umožní vodě opouštět sběrací kanálky. Klička připravuje podmínky, na které navazují další úseky.",
+      "Neznamená to, že voda prostupuje všemi částmi kličky stejně. Jednotlivé úseky se svou propustností a transportem liší."
+    ],
+    "memory": "Henleova klička pomáhá vytvářet dřeňový gradient."
+  },
+  {
+    "id": 335,
+    "category": "Ledviny a vylučování",
+    "bookRef": "str. 97",
+    "sourcePages": "97",
+    "question": "Kde jsou uloženy ledviny?",
+    "options": [
+      "Uvnitř hrudníku mezi plicními sklípky",
+      "V dutině ústní pod jazykem",
+      "Uvnitř močového měchýře",
+      "Po stranách bederní páteře v zadní části břišní oblasti"
+    ],
+    "answer": 3,
+    "title": "Ledviny leží vzadu v břišní oblasti",
+    "paragraphs": [
+      "Ledviny jsou párové orgány po obou stranách bederní páteře. Jejich poloha souvisí se zadní částí břišní oblasti.",
+      "Představ si dvojici orgánů blízko zad, nikoli volně uložené uvnitř měchýře. Moč z nich musí teprve odtékat dolů.",
+      "Močový měchýř je jiný orgán uložený v pánvi. Tvorba a shromažďování moči proto nemají stejné místo."
+    ],
+    "memory": "Ledviny: pár po stranách bederní páteře."
+  },
+  {
+    "id": 336,
+    "category": "Ledviny a vylučování",
+    "bookRef": "str. 97",
+    "sourcePages": "97",
+    "question": "Co je základní stavební a funkční jednotkou ledviny?",
+    "options": [
+      "Nefron",
+      "Alveolus",
+      "Osteon",
+      "Sarkomera"
+    ],
+    "answer": 0,
+    "title": "Nefron zajišťuje základní děje tvorby moči",
+    "paragraphs": [
+      "Ledvina obsahuje velké množství nefronů. Každý spojuje filtrační část s navazujícím systémem kanálků.",
+      "Představ si mnoho drobných pracovních jednotek zapojených vedle sebe. Jejich společná činnost vytváří výkon celého orgánu.",
+      "Alveolus patří k plicím, osteon ke kosti a sarkomera ke svalu. Podobný princip jednotek neznamená stejnou strukturu."
+    ],
+    "memory": "Ledvina pracuje prostřednictvím nefronů."
+  },
+  {
+    "id": 337,
+    "category": "Ledviny a vylučování",
+    "bookRef": "str. 97",
+    "sourcePages": "97",
+    "question": "Co tvoří ledvinné tělísko?",
+    "options": [
+      "Kůra nadledviny a slezina",
+      "Glomerulus a Bowmanovo pouzdro",
+      "Henleova klička a močový měchýř",
+      "Ledvinná pánvička a močová trubice"
+    ],
+    "answer": 1,
+    "title": "Tělísko spojuje klubíčko s pouzdrem",
+    "paragraphs": [
+      "Ledvinné tělísko tvoří cévní klubíčko neboli glomerulus a Bowmanovo pouzdro. Zde začíná vznik glomerulárního filtrátu.",
+      "Představ si jemný cévní filtr obklopený prostorem, který přijímá přefiltrovanou tekutinu. Obě části spolu funkčně souvisejí.",
+      "Celý nefron je širší pojem: zahrnuje také navazující kanálky. Tělísko proto není totéž co celý nefron."
+    ],
+    "memory": "Tělísko = glomerulus + Bowmanovo pouzdro."
+  },
+  {
+    "id": 338,
+    "category": "Ledviny a vylučování",
+    "bookRef": "str. 97",
+    "sourcePages": "97",
+    "question": "Jaké pořadí částí odpovídá průtoku tekutiny kanálkovou částí nefronu?",
+    "options": [
+      "Henleova klička → močový měchýř → proximální kanálek",
+      "Močová trubice → Bowmanovo pouzdro → žaludek",
+      "Proximální kanálek → Henleova klička → distální kanálek",
+      "Distální kanálek → jícen → glomerulus"
+    ],
+    "answer": 2,
+    "title": "Kanálky mají návazné pořadí",
+    "paragraphs": [
+      "Z Bowmanova pouzdra tekutina pokračuje do proximálního kanálku, dále do Henleovy kličky a distálního kanálku. Potom se dostává do sběrací soustavy.",
+      "Představ si navazující úpravy tekutiny na jedné trase. Proximální označuje bližší a distální vzdálenější úsek vzhledem k počátku.",
+      "Močový měchýř neleží mezi částmi nefronu. Je až zásobárnou moči odvedené z ledvin."
+    ],
+    "memory": "Proximální → klička → distální."
+  },
+  {
+    "id": 339,
+    "category": "Ledviny a vylučování",
+    "bookRef": "str. 97–98",
+    "sourcePages": "97–98",
+    "question": "Který popis polohy částí nefronu je správný?",
+    "options": [
+      "Všechna tělíska leží v močovém měchýři",
+      "Celý nefron je vždy mimo ledvinu",
+      "Kůra obsahuje jen močovody a žádné nefrony",
+      "Ledvinná tělíska leží v kůře, kličky některých nefronů zasahují hluboko do dřeně"
+    ],
+    "answer": 3,
+    "title": "Nefron propojuje kůru a dřeň",
+    "paragraphs": [
+      "Ledvinná tělíska jsou uložena v kůře ledviny. Kličky některých nefronů probíhají hluboko do dřeně.",
+      "Představ si začátek pracovní trasy ve vnější vrstvě a její ohyb směřující dovnitř orgánu. Jedna funkční jednotka může zasahovat do více oblastí.",
+      "Není přesné uzavřít celý každý nefron výhradně do kůry. Dřeň má důležitou roli při zahušťování moči."
+    ],
+    "memory": "Tělíska v kůře, kličky mohou hluboko do dřeně."
+  },
+  {
+    "id": 340,
+    "category": "Ledviny a vylučování",
+    "bookRef": "str. 98",
+    "sourcePages": "98",
+    "question": "Kudy odtéká moč z ledvinných papil dále k měchýři?",
+    "options": [
+      "Kalichy → ledvinná pánvička → močovod → močový měchýř",
+      "Pánvička → jícen → měchýř → průdušnice",
+      "Kalichy → žlučník → močová trubice → játra",
+      "Močová trubice → glomerulus → kalichy → pánvička"
+    ],
+    "answer": 0,
+    "title": "Odvodná cesta sbírá moč z ledviny",
+    "paragraphs": [
+      "Moč vytéká do ledvinných kalichů a dále do pánvičky. Z ní ji odvádí močovod do močového měchýře.",
+      "Představ si menší sběrné nálevky ústící do společného prostoru a navazující odtokové trubice. Měchýř tvoří další zásobní zastávku.",
+      "Močovod vede z ledviny do měchýře. Močová trubice je až cesta z měchýře ven."
+    ],
+    "memory": "Kalichy, pánvička, močovod, měchýř."
+  },
+  {
+    "id": 341,
+    "category": "Ledviny a vylučování",
+    "bookRef": "str. 98",
+    "sourcePages": "98",
+    "question": "Odkud běžně přivádí ledvinná tepna krev do ledviny?",
+    "options": [
+      "Z plicního sklípku",
+      "Z břišní aorty",
+      "Z močové trubice",
+      "Ze žlučovodu"
+    ],
+    "answer": 1,
+    "title": "Ledvina dostává tepennou krev z aorty",
+    "paragraphs": [
+      "Ledvinná neboli renální tepna odstupuje z břišní aorty. V ledvině se dále větví na menší cévy.",
+      "Představ si odbočku z hlavního tepenného rozvodu k orgánu, který musí zpracovávat krevní plazmu.",
+      "Močové cesty vedou moč, nikoli přívodnou tepennou krev. Krevní zásobení a odvod moči jsou různé soustavy."
+    ],
+    "memory": "Renální tepna přichází z břišní aorty."
+  },
+  {
+    "id": 342,
+    "category": "Ledviny a vylučování",
+    "bookRef": "str. 98",
+    "sourcePages": "98",
+    "question": "Co bezprostředně pohání glomerulární filtraci?",
+    "options": [
+      "Stažení kosterních svalů močovodu",
+      "Aktivní pumpování každé molekuly vody do pouzdra",
+      "Tlakové poměry přes filtrační bariéru glomerulárních kapilár",
+      "Žvýkací pohyby dolní čelisti"
+    ],
+    "answer": 2,
+    "title": "Filtrace využívá tlak",
+    "paragraphs": [
+      "Tvorba filtrátu začíná přestupem tekutiny přes filtrační bariéru glomerulu. Rozhodující jsou tlakové síly působící na této bariéře.",
+      "Představ si kapalinu protlačovanou jemným filtrem. Filtrace sama není totéž co následné vybírání látek transportéry v kanálku.",
+      "O skutečné filtraci rozhoduje výsledná bilance více tlaků, nejen izolovaná hodnota krevního tlaku. Otázka míří na tlakový princip."
+    ],
+    "memory": "Glomerulus filtruje díky tlakovým poměrům."
+  },
+  {
+    "id": 343,
+    "category": "Ledviny a vylučování",
+    "bookRef": "str. 98–99",
+    "sourcePages": "98–99",
+    "question": "Kde vzniká primární moč?",
+    "options": [
+      "Smícháním slin a žluči v měchýři",
+      "Odpařením vody z kůže",
+      "Výhradně stahem močové trubice",
+      "Filtrací plazmy přes glomerulární bariéru do Bowmanova pouzdra"
+    ],
+    "answer": 3,
+    "title": "Primární moč je glomerulární filtrát",
+    "paragraphs": [
+      "Primární moč vzniká jako filtrát krevní plazmy v ledvinném tělísku. Tekutina vstupuje do Bowmanova pouzdra a odtud do kanálku.",
+      "Představ si první pracovní verzi tekutiny, která ještě projde rozsáhlými úpravami. Název primární upozorňuje, že nejde o konečný výsledek.",
+      "Definitivní moč vzniká až po dalších dějích v ledvině. Její objem a složení se od primárního filtrátu výrazně liší."
+    ],
+    "memory": "Primární moč = první filtrát v Bowmanově pouzdru."
+  },
+  {
+    "id": 344,
+    "category": "Ledviny a vylučování",
+    "bookRef": "str. 99",
+    "sourcePages": "99",
+    "question": "Co zdravá glomerulární bariéra za běžných podmínek zadržuje v krvi?",
+    "options": [
+      "Krevní buňky a převážnou většinu plazmatických bílkovin",
+      "Veškerou vodu bez výjimky",
+      "Všechnu glukózu, takže žádná není ve filtrátu",
+      "Všechny malé ionty bez výjimky"
+    ],
+    "answer": 0,
+    "title": "Filtrační bariéra vybírá podle vlastností látek",
+    "paragraphs": [
+      "Krevní buňky a převážná většina plazmatických bílkovin přes zdravou bariéru neprocházejí. Voda a řada malých rozpuštěných látek se naopak filtrují.",
+      "Představ si filtr, který propouští tekutinu s malými složkami, ale drží velké částice. Biologická bariéra má přitom složitější vlastnosti než kuchyňské síto.",
+      "Není přesné tvrdit, že každá bílkovinná molekula je absolutně nepropustná. Drobné filtrované bílkoviny se mohou dále zachycovat v kanálcích."
+    ],
+    "memory": "Buňky a většina bílkovin zůstávají v krvi."
+  },
+  {
+    "id": 345,
+    "category": "Ledviny a vylučování",
+    "bookRef": "str. 99",
+    "sourcePages": "99",
+    "question": "Co je tubulární resorpce?",
+    "options": [
+      "Jen hromadění moči v ledvinné pánvičce",
+      "Zpětný přenos látek z tekutiny v kanálcích do krve",
+      "Přesun krve z aorty přímo do močovodu",
+      "Tvorba nových krvinek v měchýři"
+    ],
+    "answer": 1,
+    "title": "Resorpce vrací využitelné látky",
+    "paragraphs": [
+      "Při tubulární resorpci přecházejí látky z kanálkové tekutiny přes výstelku zpět do vnitřního prostředí a krve. Tělo tak zachraňuje vodu a potřebné rozpuštěné látky.",
+      "Představ si třídění po prvním přefiltrování: užitečné položky se vracejí do oběhu. První filtrát proto není určen celý k vyhození.",
+      "Směr je opačný než při filtraci do pouzdra. Slovo zpětný upozorňuje právě na návrat látek."
+    ],
+    "memory": "Resorpce: z kanálku zpět do krve."
+  },
+  {
+    "id": 346,
+    "category": "Ledviny a vylučování",
+    "bookRef": "str. 99",
+    "sourcePages": "99",
+    "question": "Proč glukóza přítomná v primární moči za běžných podmínek téměř chybí v definitivní moči?",
+    "options": [
+      "Protože ji močový měchýř mění na sklovinu",
+      "Protože ji všechny krvinky snědí v močovodu",
+      "Je téměř úplně zpětně vstřebána v ledvinných kanálcích",
+      "Protože se žádná glukóza nikdy nefiltruje"
+    ],
+    "answer": 2,
+    "title": "Filtrace glukózy neznamená její konečnou ztrátu",
+    "paragraphs": [
+      "Glukóza je malá molekula, která se dostává do glomerulárního filtrátu. Za běžných podmínek se pak téměř všechna vrací zpět resorpcí.",
+      "Představ si užitečný díl, který prošel prvním filtrem, ale následná kontrola ho vrátí. Jeho přítomnost v první tekutině neurčuje složení konečné moči.",
+      "Platí to při normální hladině glukózy a zachované funkci transportu. Transportní kapacita není neomezená."
+    ],
+    "memory": "Glukóza se filtruje a pak se vrací."
+  },
+  {
+    "id": 347,
+    "category": "Ledviny a vylučování",
+    "bookRef": "str. 99",
+    "sourcePages": "99",
+    "question": "Jak se při zpětném vstřebávání v ledvině přesouvá voda?",
+    "options": [
+      "Vždy aktivní vodní pumpou spotřebovávající přímo ATP",
+      "Výhradně uvnitř nově vytvořených krvinek",
+      "Jen mechanickým vytlačením z močového měchýře",
+      "Osmoticky podle rozdílů koncentrace a propustnosti příslušného úseku"
+    ],
+    "answer": 3,
+    "title": "Voda následuje osmotické podmínky",
+    "paragraphs": [
+      "Zpětné vstřebávání vody souvisí s osmotickými gradienty vytvářenými rozpuštěnými látkami. Záleží také na tom, zda je daný úsek pro vodu propustný.",
+      "Představ si vodu přecházející přes vhodnou bariéru do prostředí s vyšší účinnou koncentrací rozpuštěných látek. Transport solí tak může nepřímo řídit i pohyb vody.",
+      "Energie může být potřebná k přesunu iontů, které gradient vytvářejí. To ale není přímé aktivní pumpování molekul vody."
+    ],
+    "memory": "Voda se resorbuje osmózou."
+  },
+  {
+    "id": 348,
+    "category": "Ledviny a vylučování",
+    "bookRef": "str. 98–99",
+    "sourcePages": "98–99",
+    "question": "Proč je objem definitivní moči mnohem menší než objem glomerulárního filtrátu?",
+    "options": [
+      "Většina filtrované vody se zpětně vstřebává",
+      "Většina se mění na kyslík v močovodu",
+      "Filtrát se celý skladuje v plicích",
+      "Veškerá voda z filtrátu odchází stolicí"
+    ],
+    "answer": 0,
+    "title": "Ledvina většinu vody vrací",
+    "paragraphs": [
+      "Ledviny vytvářejí velký objem filtrátu, ale převážnou část vody vracejí do oběhu. Ven odchází jen menší výsledný objem moči.",
+      "Představ si velký oběh tekutiny přes třídicí zařízení s malým konečným odtokem. Velký průtok neznamená stejně velkou ztrátu.",
+      "Filtrace a vyloučení moči nejsou dvě jména pro stejný objem. Mezi nimi probíhá rozsáhlá resorpce a další úpravy."
+    ],
+    "memory": "Hodně se filtruje, většina vody se vrací."
+  },
+  {
+    "id": 349,
+    "category": "Ledviny a vylučování",
+    "bookRef": "str. 100",
+    "sourcePages": "100",
+    "question": "Jaký je hlavní účinek antidiuretického hormonu na sběrací kanálky?",
+    "options": [
+      "Přímo tvoří močovinu z hemoglobinu",
+      "Zvyšuje jejich propustnost pro vodu a podporuje její zpětné vstřebávání",
+      "Zastavuje každé vstřebávání vody",
+      "Mění všechny ionty sodíku na glukózu"
+    ],
+    "answer": 1,
+    "title": "ADH pomáhá šetřit vodu",
+    "paragraphs": [
+      "Antidiuretický hormon podporuje zvýšení propustnosti sběracích kanálků pro vodu. Při odpovídajícím gradientu se tak více vody vrací do těla.",
+      "Představ si otevření dalších cest pro vodu skrz stěnu kanálku. Menší množství vody pak pokračuje do konečné moči.",
+      "Hormon vodu nevytváří. Mění její zpětné vstřebávání, a tím pomáhá upravit množství a koncentraci moči."
+    ],
+    "memory": "ADH: více vody zpět, méně vody ven."
+  },
+  {
+    "id": 350,
+    "category": "Ledviny a vylučování",
+    "bookRef": "str. 100",
+    "sourcePages": "100",
+    "question": "Co bezprostředně umožňuje vyprázdnění močového měchýře?",
+    "options": [
+      "Přesun moči močovodem zpět do jater",
+      "Otevření hlasivek a stažení bránice",
+      "Stah hladké svaloviny měchýře spolu s uvolněním výtokové cesty včetně zevního svěrače",
+      "Stažení zevního svěrače při úplně ochablé stěně měchýře"
+    ],
+    "answer": 2,
+    "title": "Vyprázdnění potřebuje souhru stahu a uvolnění",
+    "paragraphs": [
+      "Při močení se stahuje svalovina měchýře a uvolňuje se uzávěr odvodné cesty. Moč pak odtéká močovou trubicí.",
+      "Představ si zmáčknutí pružného zásobníku při současném otevření jeho vývodu. Zavřený vývod by odtoku bránil.",
+      "Zevní svěrač je tvořen příčně pruhovaným svalstvem a podléhá volní kontrole. Samotný měchýř má ve stěně hladkou svalovinu."
+    ],
+    "memory": "Močení: měchýř se stáhne, vývod se uvolní."
+  }
+]

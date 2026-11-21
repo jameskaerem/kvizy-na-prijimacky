@@ -1,0 +1,102 @@
+[
+  {
+    "id": 621,
+    "category": "Biologie",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 10 · PDF 2",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 2",
+    "question": "Která trojice je u zdravého dospělého běžným místem aktivní krvetvorby?",
+    "title": "Pánev, obratle a hrudní kost",
+    "options": [
+      "Pánev, obratle a hrudní kost",
+      "Střední části všech dlouhých kostí",
+      "Výhradně chrupavky žeber",
+      "Pouze kosti prstů rukou"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "U dospělého přetrvává červená kostní dřeň především v kostech trupu a pánve. Aktivní je také například v proximálních částech pažní a stehenní kosti."
+    ],
+    "memory": "Pánev, páteř a sternum jsou důležité oblasti krvetvorby."
+  },
+  {
+    "id": 622,
+    "category": "Psychologie",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 23 · PDF 17",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 17",
+    "question": "Co je charakteristické pro demenci?",
+    "title": "Zhoršení poznávacích funkcí, které narušuje samostatnost v každodenním životě",
+    "options": [
+      "Občasné zapomenutí jména bez dopadu na běžný život",
+      "Zhoršení poznávacích funkcí, které narušuje samostatnost v každodenním životě",
+      "Vrozená porucha barvocitu",
+      "Krátká únava po námaze"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Demence může ovlivnit paměť, řeč, orientaci nebo úsudek. Jde o soubor příznaků s různými příčinami. Alzheimerova nemoc je jednou z nich."
+    ],
+    "memory": "Demence zasahuje do každodenního fungování."
+  },
+  {
+    "id": 623,
+    "category": "Občanská orientace",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 38 · PDF 18",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 18",
+    "question": "Které celky tvoří územní samosprávu podle čl. 99 Ústavy České republiky?",
+    "title": "Obce a kraje",
+    "options": [
+      "Obce a okresy",
+      "Okresy a kraje",
+      "Obce a kraje",
+      "Kraje a správní obvody obcí s rozšířenou působností"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Obce jsou základní a kraje vyšší územní samosprávné celky. Okres je územní jednotka a Ústava jej mezi tyto samosprávné celky neřadí."
+    ],
+    "memory": "Obec je základ, kraj vyšší celek."
+  },
+  {
+    "id": 624,
+    "category": "Právní pojmy",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 39 · PDF 19",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 19",
+    "question": "Které tři údaje podle § 34 odst. 1 českého zákoníku práce musí obsahovat pracovní smlouva?",
+    "title": "Druh práce, místo výkonu práce a den nástupu do práce",
+    "options": [
+      "Druh práce, výši mzdy a dobu obědové přestávky",
+      "Místo výkonu práce, výši mzdy a termín dovolené",
+      "Den nástupu, zkušební dobu a délku výpovědní doby",
+      "Druh práce, místo výkonu práce a den nástupu do práce"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Povinná trojice určuje, co má zaměstnanec vykonávat, kde a od kdy. Mzda a zkušební doba se mohou řešit podle dalších pravidel, takže nejsou součástí této trojice."
+    ],
+    "memory": "Co, kde a od kdy."
+  },
+  {
+    "id": 625,
+    "category": "Občanská orientace",
+    "bookRef": "2019–2022 · sbírka přijímacích testů · úloha 23 · PDF 48",
+    "sourceFile": "České Budějovice TESTY 2019, 2021, 2022.pdf",
+    "sourcePages": "PDF 48",
+    "question": "Který z uvedených soudů je podle čl. 91 Ústavy součástí soustavy soudů České republiky?",
+    "title": "Nejvyšší správní soud",
+    "options": [
+      "Nejvyšší správní soud",
+      "Evropský soud pro lidská práva",
+      "Soudní dvůr Evropské unie",
+      "Ústavní soud"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Článek 91 uvádí Nejvyšší soud, Nejvyšší správní soud, vrchní, krajské a okresní soudy. Ústavní soud má samostatnou ústavní úpravu jako orgán ochrany ústavnosti."
+    ],
+    "memory": "Do soustavy podle čl. 91 patří i Nejvyšší správní soud."
+  }
+]

@@ -1,0 +1,952 @@
+[
+  {
+    "id": 201,
+    "category": "Genetika",
+    "bookRef": "2020 · Fyzioterapie · Biologie 38 · str. 5 (PDF 43)",
+    "sourcePages": "5 (PDF 43)",
+    "question": "Která molekula přináší k ribozomu informaci o pořadí aminokyselin v připravované bílkovině?",
+    "options": [
+      "mRNA",
+      "Tuková kapénka",
+      "Glykogen",
+      "Cholesterol"
+    ],
+    "answer": 0,
+    "title": "mRNA",
+    "paragraphs": [
+      "Z příslušného genu vznikne přepis. Ribozom pak čte jeho zprávu po trojicích nukleotidů a podle nich se skládá bílkovina."
+    ],
+    "memory": "mRNA přináší zprávu k ribozomu."
+  },
+  {
+    "id": 202,
+    "category": "Genetika",
+    "bookRef": "2020 · Fyzioterapie · Biologie 40 · str. 5 (PDF 43)",
+    "sourcePages": "5 (PDF 43)",
+    "question": "Jaký pohlavní chromozom může nést běžná spermie muže s karyotypem 46,XY?",
+    "options": [
+      "Vždy X i Y dohromady",
+      "Vždy dva X",
+      "Vždy dva Y",
+      "Buď X, nebo Y"
+    ],
+    "answer": 3,
+    "title": "Buď X, nebo Y",
+    "paragraphs": [
+      "Během meiózy se pohlavní chromozomy rozdělí. Každá normální spermie dostane spolu s 22 autozomy jeden z nich."
+    ],
+    "memory": "Spermie má jedno místo pro X či Y."
+  },
+  {
+    "id": 203,
+    "category": "Genetika",
+    "bookRef": "2020 · Fyzioterapie · Biologie 41 · str. 5 (PDF 43)",
+    "sourcePages": "5 (PDF 43)",
+    "question": "Matka nese jednu alelu pro recesivní hemofilii A vázanou na X. Jaká je v jednoduchém modelu pravděpodobnost, že ji zdědí její syn?",
+    "options": [
+      "0 %",
+      "25 %",
+      "50 %",
+      "100 %"
+    ],
+    "answer": 2,
+    "title": "50 %",
+    "paragraphs": [
+      "Otázka už určuje, že jde o syna. Od otce získá Y a od matky jeden ze dvou chromozomů X. Varianta je na jednom z nich."
+    ],
+    "memory": "U syna rozhoduje jeden ze dvou matčiných X."
+  },
+  {
+    "id": 204,
+    "category": "Genetika",
+    "bookRef": "2020 · Fyzioterapie · Biologie 43 · str. 6 (PDF 44)",
+    "sourcePages": "6 (PDF 44)",
+    "question": "Při testovacím křížení AaBb × aabb se oba geny dědí nezávisle a u obou platí úplná dominance. Jaký poměr čtyř fenotypů očekáváme?",
+    "options": [
+      "9 : 3 : 3 : 1",
+      "1 : 1 : 1 : 1",
+      "3 : 1 : 0 : 0",
+      "1 : 2 : 1 : 0"
+    ],
+    "answer": 1,
+    "title": "1 : 1 : 1 : 1",
+    "paragraphs": [
+      "První rodič vytváří čtyři stejně pravděpodobné kombinace alel. Druhý vždy předá ab, takže na potomstvu přímo poznáme, kterou kombinaci dodal první."
+    ],
+    "memory": "V testovacím křížení čtyři stejně časté gamety dají čtyři stejně časté výsledky."
+  },
+  {
+    "id": 205,
+    "category": "Genetika",
+    "bookRef": "2020 · Fyzioterapie · Biologie 45 · str. 6 (PDF 44)",
+    "sourcePages": "6 (PDF 44)",
+    "question": "Které nové vlákno DNA je komplementární k úseku 3′-CAC-5′ při replikaci?",
+    "options": [
+      "5′-GTG-3′",
+      "5′-GUG-3′",
+      "5′-CAC-3′",
+      "5′-CTC-3′"
+    ],
+    "answer": 0,
+    "title": "5′-GTG-3′",
+    "paragraphs": [
+      "Při kopírování DNA se k C přidává G a k A se přidává T. Nové vlákno má opačnou orientaci než předloha a obsahuje thymin."
+    ],
+    "memory": "V DNA patří C ke G a A k T."
+  },
+  {
+    "id": 206,
+    "category": "Genetika",
+    "bookRef": "2020 · Fyzioterapie · Biologie 46 · str. 6 (PDF 44)",
+    "sourcePages": "6 (PDF 44)",
+    "question": "Kolik kombinací sledovaných alel může nést gameta jedince AaBbCc, pokud jsou tři geny na různých párech chromozomů?",
+    "options": [
+      "8",
+      "3",
+      "6",
+      "16"
+    ],
+    "answer": 0,
+    "title": "8",
+    "paragraphs": [
+      "U každého genu jsou dvě možnosti. Volba u jednoho páru neurčuje volbu u druhého, takže počet kombinací dostaneme násobením 2 × 2 × 2."
+    ],
+    "memory": "Tři nezávislé dvojice dávají osm kombinací."
+  },
+  {
+    "id": 207,
+    "category": "Genetika",
+    "bookRef": "2020 · Fyzioterapie · Biologie 50 · str. 7 (PDF 45)",
+    "sourcePages": "7 (PDF 45)",
+    "question": "Výchozí diploidní buňka má deset párů chromozomů. Jaký je stav v každé výsledné buňce po dokončení druhého meiotického dělení?",
+    "options": [
+      "10 chromozomů po dvou chromatidách",
+      "20 chromozomů po jedné chromatidě",
+      "20 chromozomů po dvou chromatidách",
+      "10 chromozomů po jedné chromatidě"
+    ],
+    "answer": 3,
+    "title": "10 chromozomů po jedné chromatidě",
+    "paragraphs": [
+      "V prvním dělení se rozdělí homologní chromozomy, takže zbude po jednom z každého páru. Ve druhém se oddělí i sesterské chromatidy."
+    ],
+    "memory": "Po meióze II zbývá jeden z páru a jedna chromatida."
+  },
+  {
+    "id": 208,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v2 2 · str. 1 (PDF 46)",
+    "sourcePages": "1 (PDF 46)",
+    "question": "Co nejlépe vystihuje paternalistický model lékařské etiky spojovaný s hippokratovskou tradicí?",
+    "options": [
+      "O každé jednotlivé volbě rozhoduje hlasování veřejnosti",
+      "Volbu určuje výhradně přání příbuzných",
+      "Lékař rozhoduje podle toho, co pokládá za dobro nemocného",
+      "Lékař poskytuje pouze informace a odpovědnost vůbec nepřijímá"
+    ],
+    "answer": 2,
+    "title": "Lékař rozhoduje podle toho, co pokládá za dobro nemocného",
+    "paragraphs": [
+      "V tomto historickém modelu má lékař díky odborným znalostem určovat pacientův prospěch. Model lze porovnat s pojetím, které výslovně staví do středu také pacientovu vlastní volbu."
+    ],
+    "memory": "Paternalismus klade rozhodnutí do rukou pečující autority."
+  },
+  {
+    "id": 209,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v2 4 · str. 1 (PDF 46)",
+    "sourcePages": "1 (PDF 46)",
+    "question": "Která čtveřice odpovídá tradičním základním ctnostem vycházejícím z antické etiky?",
+    "options": [
+      "Víra, naděje, poslušnost a píle",
+      "Rozumnost, spravedlnost, statečnost a uměřenost",
+      "Výmluvnost, rychlost, síla a obratnost",
+      "Sláva, moc, bohatství a úspěch"
+    ],
+    "answer": 1,
+    "title": "Rozumnost, spravedlnost, statečnost a uměřenost",
+    "paragraphs": [
+      "Ctnosti popisují kvality jednání. Uměřenost pomáhá ovládat žádosti, statečnost jednat i v nebezpečí a rozumnost se spravedlností posoudit, co je na místě."
+    ],
+    "memory": "Promyslet, jednat spravedlivě, obstát a znát míru."
+  },
+  {
+    "id": 210,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v2 11 · str. 2 (PDF 47)",
+    "sourcePages": "2 (PDF 47)",
+    "question": "Ve které oblasti působila raná řecká filozofická škola spojená s Thalétem z Milétu?",
+    "options": [
+      "Na západním pobřeží Malé Asie",
+      "V egyptské Alexandrii za římských císařů",
+      "V Kartágu v severní Africe",
+      "V císařském Římě"
+    ],
+    "answer": 0,
+    "title": "Na západním pobřeží Malé Asie",
+    "paragraphs": [
+      "Milétos byl řecké město v Iónii na pobřeží dnešního Turecka. Jeho myslitelé hledali přírodní vysvětlení světa už v 6. století před naším letopočtem."
+    ],
+    "memory": "Milétos ležel v maloasijské Iónii."
+  },
+  {
+    "id": 211,
+    "category": "Ekonomie",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v2 12 · str. 2 (PDF 47)",
+    "sourcePages": "2 (PDF 47)",
+    "question": "Dvě prodejny nabízejí srovnatelné zboží a zákazník může snadno přejít ke konkurenci. Co omezuje možnost jedné prodejny výrazně zdražit?",
+    "options": [
+      "Možnost, že zákazníci nakoupí u druhé prodejny",
+      "Nutnost obou prodejen mít stejný počet zaměstnanců",
+      "Povinnost kupujících vždy nakoupit ve stejné prodejně",
+      "Jistota, že změna ceny nemůže ovlivnit prodej"
+    ],
+    "answer": 0,
+    "title": "Možnost, že zákazníci nakoupí u druhé prodejny",
+    "paragraphs": [
+      "Zdražení přináší více peněz za kus, ale může snížit počet prodaných kusů. Dostupná alternativa tak vytváří konkurenční tlak na prodávajícího."
+    ],
+    "memory": "Konkurence dává kupujícím možnost odejít jinam."
+  },
+  {
+    "id": 212,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v2 13 · str. 2 (PDF 47)",
+    "sourcePages": "2 (PDF 47)",
+    "question": "Který myslitel pozdní antiky napsal Vyznání a patří k významným představitelům patristiky?",
+    "options": [
+      "Tomáš Akvinský",
+      "Immanuel Kant",
+      "René Descartes",
+      "Augustin z Hippo"
+    ],
+    "answer": 3,
+    "title": "Augustin z Hippo",
+    "paragraphs": [
+      "Patristika označuje období a myšlení církevních otců. Augustin ve Vyznáních spojuje vlastní životní příběh s úvahami o víře a paměti."
+    ],
+    "memory": "Augustin patří k církevním otcům."
+  },
+  {
+    "id": 213,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v2 14 · str. 2 (PDF 47)",
+    "sourcePages": "2 (PDF 47)",
+    "question": "Student se přihlásí jako dobrovolník, protože chce být užitečný. Co je v tomto příkladu jeho pohnutkou?",
+    "options": [
+      "Adresa pracoviště",
+      "Datum nástupu v kalendáři",
+      "Vnitřní přání pomoci",
+      "Počet otevřených míst"
+    ],
+    "answer": 2,
+    "title": "Vnitřní přání pomoci",
+    "paragraphs": [
+      "Pohnutka je motiv, který člověka vede k jednání. Adresa a termín popisují okolnosti, ale samy nevysvětlují, proč se student rozhodl přijít."
+    ],
+    "memory": "Pohnutku najdeš otázkou „Co ho k tomu vedlo?“"
+  },
+  {
+    "id": 214,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v2 15 · str. 2 (PDF 47)",
+    "sourcePages": "2 (PDF 47)",
+    "question": "Jak může etický kodex pomoci pracovníkovi, který řeší neobvyklý profesní problém?",
+    "options": [
+      "Změří přesnou pravděpodobnost všech výsledků",
+      "Nabídne zásady, podle kterých může zvážit své rozhodnutí",
+      "Nahradí odborné znalosti pracovníka",
+      "Zařídí, že už nemůže nastat střet hodnot"
+    ],
+    "answer": 1,
+    "title": "Nabídne zásady, podle kterých může zvážit své rozhodnutí",
+    "paragraphs": [
+      "Kodex shrnuje sdílené zásady, například respekt a důvěrnost. V konkrétním případě je pracovník musí vztáhnout na situaci a své jednání zdůvodnit."
+    ],
+    "memory": "Kodex dává vodítka pro rozhodování."
+  },
+  {
+    "id": 215,
+    "category": "Ekonomie",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v2 17 · str. 2 (PDF 47)",
+    "sourcePages": "2 (PDF 47)",
+    "question": "Jak se nazývá vzestupná fáze hospodářského cyklu, při níž celková ekonomická aktivita roste?",
+    "options": [
+      "Expanze",
+      "Recese",
+      "Dno cyklu",
+      "Stagnace"
+    ],
+    "answer": 0,
+    "title": "Expanze",
+    "paragraphs": [
+      "V expanzi se hospodářství rozšiřuje a podniky celkově vytvářejí více produkce. Slovo recese naopak označuje pokles ekonomické aktivity."
+    ],
+    "memory": "Expanze znamená rozšiřování."
+  },
+  {
+    "id": 216,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v2 18 · str. 3 (PDF 48)",
+    "sourcePages": "3 (PDF 48)",
+    "question": "Který středověký myslitel navázal na Aristotela a pojímal duši jako formu živého lidského těla?",
+    "options": [
+      "Tomáš Akvinský",
+      "René Descartes",
+      "Karl Popper",
+      "Francis Bacon"
+    ],
+    "answer": 0,
+    "title": "Tomáš Akvinský",
+    "paragraphs": [
+      "Slovem forma zde není míněn vnější obrys. Jde o princip, díky němuž je tělo živým celkem právě určitého druhu."
+    ],
+    "memory": "U Akvinského tvoří tělo a duše jednoho člověka."
+  },
+  {
+    "id": 217,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v2 21 · str. 3 (PDF 48)",
+    "sourcePages": "3 (PDF 48)",
+    "question": "Proč se rodina v základním sociologickém členění uvádí jako příklad primární skupiny?",
+    "options": [
+      "Členství vyžaduje odbornou zkoušku",
+      "Členové se znají pouze podle pracovního čísla",
+      "Jejím jediným účelem je splnění jednorázového úkolu",
+      "Typicky ji spojují blízké osobní vztahy a přímý kontakt"
+    ],
+    "answer": 3,
+    "title": "Typicky ji spojují blízké osobní vztahy a přímý kontakt",
+    "paragraphs": [
+      "Primární skupina je důležitá osobními vazbami mezi členy. Rodina například poskytuje prostředí, v němž si dítě od blízkých lidí osvojuje první návyky."
+    ],
+    "memory": "Primární skupinu poznáš podle blízkých vazeb."
+  },
+  {
+    "id": 218,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v2 24 · str. 3 (PDF 48)",
+    "sourcePages": "3 (PDF 48)",
+    "question": "Jaký typ díla představuje Baconova Nová Atlantida?",
+    "options": [
+      "Cestovní řád námořních linek",
+      "Atlas skutečných ostrovů",
+      "Utopický obraz společnosti, která podporuje poznávání přírody",
+      "Sbírku rozsudků ze starověkých Athén"
+    ],
+    "answer": 2,
+    "title": "Utopický obraz společnosti, která podporuje poznávání přírody",
+    "paragraphs": [
+      "Bacon líčí fiktivní ostrovní společnost a instituci, která organizuje výzkum. Vymyšlené místo mu umožňuje ukázat, jak by mohlo fungovat poznání ve službě společnosti."
+    ],
+    "memory": "Nová Atlantida ukazuje vědu ve smyšlené obci."
+  },
+  {
+    "id": 219,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v2 25 · str. 3 (PDF 48)",
+    "sourcePages": "3 (PDF 48)",
+    "question": "Která otázka nejlépe patří do aplikované zdravotnické psychologie?",
+    "options": [
+      "Kolik obratlů má krční páteř?",
+      "Jak obavy při vyšetření ovlivní spolupráci pacienta?",
+      "Jak se kreslí elektrické schéma přístroje?",
+      "Kolik chromozomů je v lidské gametě?"
+    ],
+    "answer": 1,
+    "title": "Jak obavy při vyšetření ovlivní spolupráci pacienta?",
+    "paragraphs": [
+      "Zdravotnická psychologie využívá poznatky o prožívání a chování při poskytování péče. Může například zkoumat, jak srozumitelné vysvětlení ovlivní pacientův strach."
+    ],
+    "memory": "Zdravotnická psychologie sleduje člověka v situaci péče."
+  },
+  {
+    "id": 220,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v2 27 · str. 3 (PDF 48)",
+    "sourcePages": "3 (PDF 48)",
+    "question": "Kdo je autorem díla Obecná porada o nápravě věcí lidských?",
+    "options": [
+      "Jan Amos Komenský",
+      "Tomáš Garrigue Masaryk",
+      "Jan Patočka",
+      "Emanuel Rádl"
+    ],
+    "answer": 0,
+    "title": "Jan Amos Komenský",
+    "paragraphs": [
+      "Komenského zájem přesahoval školní vyučování. V tomto díle spojil úvahy o vzdělání, vědění a uspořádání lidských záležitostí."
+    ],
+    "memory": "Komenský spojoval vzdělání s nápravou společnosti."
+  },
+  {
+    "id": 221,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v2 34 · str. 4 (PDF 49)",
+    "sourcePages": "4 (PDF 49)",
+    "question": "Který příklad ukazuje, jak řeč pomáhá při myšlení?",
+    "options": [
+      "Člověk si slovy pojmenuje možnosti a porovná důvody pro každou z nich",
+      "Zornice se reflexně zúží při osvětlení",
+      "Srdce zrychlí při běhu",
+      "Kůže se ochlazuje odpařováním potu"
+    ],
+    "answer": 0,
+    "title": "Člověk si slovy pojmenuje možnosti a porovná důvody pro každou z nich",
+    "paragraphs": [
+      "Pojmenování umožní udržet dvě možnosti oddělené a vyjádřit, čím se liší. Takto může i vnitřní řeč pomoci uspořádat složitou úvahu."
+    ],
+    "memory": "Slova mohou uspořádat myšlenky."
+  },
+  {
+    "id": 222,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v2 39 · str. 5 (PDF 50)",
+    "sourcePages": "5 (PDF 50)",
+    "question": "Který filozofický směr vznikl v USA v 19. století a objasňoval význam pojmů pomocí jejich praktických důsledků?",
+    "options": [
+      "Stoicismus",
+      "Scholastika",
+      "Antický atomismus",
+      "Pragmatismus"
+    ],
+    "answer": 3,
+    "title": "Pragmatismus",
+    "paragraphs": [
+      "Pragmatik se například ptá, jaký pozorovatelný rozdíl by přineslo přijetí jedné nebo druhé představy. Tím dává abstraktní otázce konkrétní obsah."
+    ],
+    "memory": "Pragmatismus se ptá po důsledcích v praxi."
+  },
+  {
+    "id": 223,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v2 40 · str. 5 (PDF 50)",
+    "sourcePages": "5 (PDF 50)",
+    "question": "Kdo založil roku 1879 v Lipsku laboratoř spojovanou s osamostatněním experimentální psychologie?",
+    "options": [
+      "Sigmund Freud",
+      "Carl Gustav Jung",
+      "Wilhelm Wundt",
+      "Abraham Maslow"
+    ],
+    "answer": 2,
+    "title": "Wilhelm Wundt",
+    "paragraphs": [
+      "Laboratoř umožnila zkoumat psychické procesy v předem stanovených a opakovatelných podmínkách. Význam tohoto kroku spočívá ve způsobu výzkumu."
+    ],
+    "memory": "Wundt, Lipsko, experiment."
+  },
+  {
+    "id": 224,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v2 43 · str. 5 (PDF 50)",
+    "sourcePages": "5 (PDF 50)",
+    "question": "Které jednání ukazuje sebemotivaci při učení?",
+    "options": [
+      "Student okamžitě rozpozná barvu obrázku",
+      "Po neúspěchu si student stanoví zvládnutelný další krok a pokračuje",
+      "Student změří výšku spolužáka",
+      "Student bezděčně mrkne při hlasitém zvuku"
+    ],
+    "answer": 1,
+    "title": "Po neúspěchu si student stanoví zvládnutelný další krok a pokračuje",
+    "paragraphs": [
+      "Sebemotivace pomáhá zaměřit vlastní jednání na cíl i při zklamání. V některých modelech emoční inteligence souvisí se schopností pracovat s vlastními emocemi."
+    ],
+    "memory": "Sebemotivace pomáhá udělat další krok."
+  },
+  {
+    "id": 225,
+    "category": "Informatika",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v2 47 · str. 5 (PDF 50)",
+    "sourcePages": "5 (PDF 50)",
+    "question": "Co vyjadřuje údaj 100 Mb/s u datového připojení?",
+    "options": [
+      "Přenosovou rychlost sto megabitů za sekundu",
+      "Úložnou kapacitu sto megabajtů",
+      "Frekvenci sto megahertzů",
+      "Sto připojených zařízení"
+    ],
+    "answer": 0,
+    "title": "Přenosovou rychlost sto megabitů za sekundu",
+    "paragraphs": [
+      "Za lomítkem je sekunda, takže údaj říká, jaké množství dat lze přenést za čas. Malé b označuje bit, velké B by znamenalo bajt."
+    ],
+    "memory": "Mb/s počítá bity za sekundu."
+  },
+  {
+    "id": 226,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v2 48 · str. 6 (PDF 51)",
+    "sourcePages": "6 (PDF 51)",
+    "question": "Kdy v Československu proběhl komunistický převrat označovaný jako únorový převrat?",
+    "options": [
+      "V únoru 1948",
+      "V únoru 1946",
+      "V srpnu 1968",
+      "V listopadu 1989"
+    ],
+    "answer": 0,
+    "title": "V únoru 1948",
+    "paragraphs": [
+      "Politická krize v únoru 1948 vyústila v přestavbu vlády a upevnění moci KSČ. Srpen 1968 patří až k pozdější okupaci Československa."
+    ],
+    "memory": "Únor 1948 označuje převzetí moci KSČ."
+  },
+  {
+    "id": 227,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v2 49 · str. 6 (PDF 51)",
+    "sourcePages": "6 (PDF 51)",
+    "question": "Která čtveřice států tvořila Visegrádskou skupinu v roce konání testu 2021?",
+    "options": [
+      "Česko, Rakousko, Polsko a Slovinsko",
+      "Slovensko, Rumunsko, Chorvatsko a Maďarsko",
+      "Polsko, Litva, Lotyšsko a Estonsko",
+      "Česko, Slovensko, Polsko a Maďarsko"
+    ],
+    "answer": 3,
+    "title": "Česko, Slovensko, Polsko a Maďarsko",
+    "paragraphs": [
+      "Označení V4 patří spolupráci čtyř středoevropských zemí. Při vybavování pomůže vyjít z Česka a Slovenska a přidat Polsko a Maďarsko."
+    ],
+    "memory": "K Česku a Slovensku přidej Polsko a Maďarsko."
+  },
+  {
+    "id": 228,
+    "category": "Informatika",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v2 50 · str. 6 (PDF 51)",
+    "sourcePages": "6 (PDF 51)",
+    "question": "Která součást počítače poskytuje pracovní prostor pro data právě používaná spuštěnými programy?",
+    "options": [
+      "Napájecí zdroj",
+      "Monitor",
+      "Operační paměť RAM",
+      "Chladič procesoru"
+    ],
+    "answer": 2,
+    "title": "Operační paměť RAM",
+    "paragraphs": [
+      "Program potřebuje při běhu rychlý přístup k datům. Pokud je operační paměti málo, přesouvání části dat mezi ní a úložištěm může práci zpomalit."
+    ],
+    "memory": "RAM je pracovní prostor běžících programů."
+  },
+  {
+    "id": 229,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v1 1 · str. 1 (PDF 52)",
+    "sourcePages": "1 (PDF 52)",
+    "question": "Jaký význam nese řecký původ slova filozofie?",
+    "options": [
+      "Vláda většiny",
+      "Láska k moudrosti",
+      "Věda o životě",
+      "Popis Země"
+    ],
+    "answer": 1,
+    "title": "Láska k moudrosti",
+    "paragraphs": [
+      "Řecké sofia znamená moudrost. Název vystihuje úsilí člověka moudrosti dosahovat a promýšlet i vlastní přesvědčení."
+    ],
+    "memory": "Sofia je moudrost."
+  },
+  {
+    "id": 230,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v1 3 · str. 1 (PDF 52)",
+    "sourcePages": "1 (PDF 52)",
+    "question": "Která skupina činností patří mezi poznávací procesy?",
+    "options": [
+      "Vnímání, vybavování z paměti a usuzování",
+      "Pocení, trávení a filtrace krve",
+      "Srážení krve, růst kosti a hojení rány",
+      "Výdech, polknutí a sevření zornice"
+    ],
+    "answer": 0,
+    "title": "Vnímání, vybavování z paměti a usuzování",
+    "paragraphs": [
+      "Při poznávání člověk získává informace, uchovává je a pracuje s nimi. Při řešení úlohy například přečte zadání, vybaví si pravidlo a odvodí výsledek."
+    ],
+    "memory": "Poznávání zahrnuje příjem, uchování i zpracování informací."
+  },
+  {
+    "id": 231,
+    "category": "Ekonomie",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v1 7 · str. 1 (PDF 52)",
+    "sourcePages": "1 (PDF 52)",
+    "question": "Jak v běžné peněžní směně vyjádříme cenu jednoho statku?",
+    "options": [
+      "Částkou peněz za danou jednotku statku",
+      "Počtem osob ve výrobním závodě",
+      "Hmotností obalu",
+      "Samotným počtem kusů na skladě"
+    ],
+    "answer": 0,
+    "title": "Částkou peněz za danou jednotku statku",
+    "paragraphs": [
+      "Údaj 40 korun za kilogram říká, kolik peněz připadá na konkrétní množství zboží. K porovnání dvou nabídek proto potřebujeme znát i jednotku."
+    ],
+    "memory": "Při porovnání ceny se ptej, za kolik a za jaké množství."
+  },
+  {
+    "id": 232,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v1 8 · str. 2 (PDF 53)",
+    "sourcePages": "2 (PDF 53)",
+    "question": "Proč se u starověkých autorů setkáme v jednom díle s filozofií i zkoumáním přírody?",
+    "options": [
+      "Přírodovědná pozorování byla všem myslitelům zakázána",
+      "Všechna jejich díla pojednávala jen o státní správě",
+      "V každém městě musela existovat moderní univerzita",
+      "Jednotlivé vědní obory se teprve postupně vyčleňovaly"
+    ],
+    "answer": 3,
+    "title": "Jednotlivé vědní obory se teprve postupně vyčleňovaly",
+    "paragraphs": [
+      "Otázky o pohybu, poznání či živých organismech mohly patřit k jednomu širšímu bádání. Hranice dnešních školních předmětů vznikaly postupně."
+    ],
+    "memory": "Starověké bádání mělo širší hranice."
+  },
+  {
+    "id": 233,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v1 11 · str. 2 (PDF 53)",
+    "sourcePages": "2 (PDF 53)",
+    "question": "Která antická škola přisuzovala číslům a číselným poměrům základní roli ve stavbě světa?",
+    "options": [
+      "Epikurejci",
+      "Kynikové",
+      "Pythagorovci",
+      "Skeptikové"
+    ],
+    "answer": 2,
+    "title": "Pythagorovci",
+    "paragraphs": [
+      "Příkladem je souvislost hudebních intervalů s poměry délek strun. Čísla tak pro pythagorovce vyjadřovala řád, který lze nalézt v přírodě."
+    ],
+    "memory": "Pythagorovci hledají řád v poměrech čísel."
+  },
+  {
+    "id": 234,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v1 12 · str. 2 (PDF 53)",
+    "sourcePages": "2 (PDF 53)",
+    "question": "Co staví etický hédonismus do centra úvahy o dobrém životě?",
+    "options": [
+      "Původ člověka z určité rodiny",
+      "Slast či příjemné prožívání",
+      "Bezpodmínečnou poslušnost panovníkovi",
+      "Počet veřejných úřadů"
+    ],
+    "answer": 1,
+    "title": "Slast či příjemné prožívání",
+    "paragraphs": [
+      "Hédonistické úvahy hodnotí jednání podle příjemnosti a strasti, které přináší. Mohou proto zvažovat také dlouhodobé následky krátkého potěšení."
+    ],
+    "memory": "Hédoné znamená slast."
+  },
+  {
+    "id": 235,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v1 13 · str. 2 (PDF 53)",
+    "sourcePages": "2 (PDF 53)",
+    "question": "Co v Maslowově pojetí označuje seberealizace?",
+    "options": [
+      "Rozvíjení a uskutečňování vlastních možností",
+      "Pouhé odstranění žízně",
+      "Automatické získání nejvyššího postavení",
+      "Převzetí každého cíle od okolí"
+    ],
+    "answer": 0,
+    "title": "Rozvíjení a uskutečňování vlastních možností",
+    "paragraphs": [
+      "Člověk může například tvořit nebo rozvíjet dovednost, ve které vidí osobní smysl. Jde o využití jeho možností, nikoli o povinnost být lepší než ostatní."
+    ],
+    "memory": "Seberealizace rozvíjí to, co člověk dokáže."
+  },
+  {
+    "id": 236,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v1 14 · str. 2 (PDF 53)",
+    "sourcePages": "2 (PDF 53)",
+    "question": "Který filozof založil v Athénách školu známou jako Akademie?",
+    "options": [
+      "Platón",
+      "Aristotelés",
+      "Epikúros",
+      "Thalés"
+    ],
+    "answer": 0,
+    "title": "Platón",
+    "paragraphs": [
+      "Akademie byla místem společného filozofického zkoumání. Aristotelés v ní studoval, později však založil vlastní školu nazývanou Lykeion."
+    ],
+    "memory": "Platónova Akademie, Aristotelovo Lykeion."
+  },
+  {
+    "id": 237,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v1 18 · str. 3 (PDF 54)",
+    "sourcePages": "3 (PDF 54)",
+    "question": "Která skupina nejlépe odpovídá sekundární skupině založené na společném úkolu a formálních rolích?",
+    "options": [
+      "Blízká rodina při společném stolování",
+      "Dvojice celoživotních přátel",
+      "Úzký kruh přátel sdílejících osobní starosti",
+      "Výbor vytvořený k organizaci konference"
+    ],
+    "answer": 3,
+    "title": "Výbor vytvořený k organizaci konference",
+    "paragraphs": [
+      "Členy výboru spojuje především práce, kterou mají udělat. Mohou se spřátelit, ale členství vzniklo kvůli úkolu a rozdělení odpovědnosti."
+    ],
+    "memory": "Sekundární skupinu často drží pohromadě úkol."
+  },
+  {
+    "id": 238,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v1 20 · str. 3 (PDF 54)",
+    "sourcePages": "3 (PDF 54)",
+    "question": "Co nejlépe vystihuje mýtus jako kulturní vyprávění?",
+    "options": [
+      "Přesný technický návod k montáži stroje",
+      "Účetní soupis prodaného zboží",
+      "Příběh, který symbolicky vykládá svět či původ společných zvyklostí",
+      "Tabulku naměřených teplot"
+    ],
+    "answer": 2,
+    "title": "Příběh, který symbolicky vykládá svět či původ společných zvyklostí",
+    "paragraphs": [
+      "Mýtus může například vyprávět o vzniku světa a zároveň vyjadřovat, jaké místo v něm lidé podle své tradice zaujímají. Důležitá je jeho symbolická funkce."
+    ],
+    "memory": "Mýtus dává světu význam příběhem."
+  },
+  {
+    "id": 239,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v1 22 · str. 3 (PDF 54)",
+    "sourcePages": "3 (PDF 54)",
+    "question": "Která dvojice je příbuzná v přímé linii?",
+    "options": [
+      "Bratr a sestra",
+      "Babička a její vnuk",
+      "Strýc a neteř",
+      "Bratranec a sestřenice"
+    ],
+    "answer": 1,
+    "title": "Babička a její vnuk",
+    "paragraphs": [
+      "V přímé linii pochází jedna osoba z druhé, případně přes několik generací. Sourozenci mají společného předka, ale jeden není potomkem druhého."
+    ],
+    "memory": "Přímá linie vede od předka k potomkovi."
+  },
+  {
+    "id": 240,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v1 26 · str. 3 (PDF 54)",
+    "sourcePages": "3 (PDF 54)",
+    "question": "Který postoj je typický pro evropské osvícenství?",
+    "options": [
+      "Prověřovat zděděné názory rozumem a veřejnou diskusí",
+      "Přijmout tvrzení jen proto, že je starší",
+      "Odmítat vzdělávání jako zdroj poznání",
+      "Vysvětlovat všechny přírodní děje rodokmenem bohů"
+    ],
+    "answer": 0,
+    "title": "Prověřovat zděděné názory rozumem a veřejnou diskusí",
+    "paragraphs": [
+      "Osvícenci kladli důraz na schopnost člověka samostatně uvažovat. Autorita tradice tedy sama o sobě nemusela stačit ke zdůvodnění názoru."
+    ],
+    "memory": "Osvícenství důvěřuje rozumu."
+  },
+  {
+    "id": 241,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v1 27 · str. 3 (PDF 54)",
+    "sourcePages": "3 (PDF 54)",
+    "question": "Který filozof byl v Římě roku 1600 po inkvizičním procesu popraven upálením?",
+    "options": [
+      "Giordano Bruno",
+      "Galileo Galilei",
+      "Mikuláš Koperník",
+      "Johannes Kepler"
+    ],
+    "answer": 0,
+    "title": "Giordano Bruno",
+    "paragraphs": [
+      "Brunův proces souvisel s jeho teologickými a filozofickými názory. Galileo také stanul před inkvizicí, jeho případ měl ale jiný průběh i výsledek."
+    ],
+    "memory": "Řím a rok 1600 patří k Brunovi."
+  },
+  {
+    "id": 242,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v1 29 · str. 4 (PDF 55)",
+    "sourcePages": "4 (PDF 55)",
+    "question": "Se kterým raně novověkým myslitelem se tradičně spojuje myšlenka „vědění je moc“?",
+    "options": [
+      "Voltaire",
+      "Jan Amos Komenský",
+      "Sókratés",
+      "Francis Bacon"
+    ],
+    "answer": 3,
+    "title": "Francis Bacon",
+    "paragraphs": [
+      "U Bacona má poznání praktický význam. Když člověk porozumí pravidelnostem přírody, získá větší možnost předvídat děje a cíleně jednat."
+    ],
+    "memory": "Bacon spojuje poznání s možností jednat."
+  },
+  {
+    "id": 243,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v1 33 · str. 4 (PDF 55)",
+    "sourcePages": "4 (PDF 55)",
+    "question": "Jakou roli připisoval Komenský přírodě při promýšlení uspořádání výuky?",
+    "options": [
+      "Určovala známky podle počasí",
+      "Nahrazovala veškerou práci učitele",
+      "Nabízela vzor řádu a postupného vývoje",
+      "Vyžadovala učit všechny děti současně všem věcem"
+    ],
+    "answer": 2,
+    "title": "Nabízela vzor řádu a postupného vývoje",
+    "paragraphs": [
+      "Komenský v přírodě nacházel příklady postupného růstu. Z toho vyvozoval také potřebu uspořádat učivo tak, aby další krok navazoval na předchozí."
+    ],
+    "memory": "Učení má svůj řád jako růst."
+  },
+  {
+    "id": 244,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v1 37 · str. 5 (PDF 56)",
+    "sourcePages": "5 (PDF 56)",
+    "question": "Výzkumnice prozkoumá řadu jednotlivých případů a navrhne na jejich základě obecné pravidlo. Jaký postup použila?",
+    "options": [
+      "Dedukci z předem daného pravidla",
+      "Indukci",
+      "Definici nové jednotky",
+      "Náhodné losování"
+    ],
+    "answer": 1,
+    "title": "Indukci",
+    "paragraphs": [
+      "Indukce postupuje od konkrétních pozorování k zobecnění. Další pozorování mohou navržené pravidlo podpořit nebo ukázat jeho omezení."
+    ],
+    "memory": "Indukce míří od případů k pravidlu."
+  },
+  {
+    "id": 245,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v1 38 · str. 5 (PDF 56)",
+    "sourcePages": "5 (PDF 56)",
+    "question": "S kterým myslitelem je spojeno založení moderní filozofické fenomenologie?",
+    "options": [
+      "Edmund Husserl",
+      "Karl Popper",
+      "Immanuel Kant",
+      "Francis Bacon"
+    ],
+    "answer": 0,
+    "title": "Edmund Husserl",
+    "paragraphs": [
+      "Fenomenologie systematicky zkoumá, jak se věci člověku dávají ve zkušenosti. Například rozlišuje, jak je tentýž předmět přítomen při vnímání a při vzpomínce."
+    ],
+    "memory": "Husserl zkoumá, jak se věci jeví ve zkušenosti."
+  },
+  {
+    "id": 246,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v1 41 · str. 5 (PDF 56)",
+    "sourcePages": "5 (PDF 56)",
+    "question": "Jaká vlastnost hypotézy je zásadní v Popperově pojetí vědeckého testování?",
+    "options": [
+      "Lze určit, jaké pozorování by s ní bylo v rozporu",
+      "Musí vysvětlit každý výsledek až po jeho zjištění",
+      "Nesmí připouštět žádnou zkoušku",
+      "Musí ji předem přijmout každý badatel"
+    ],
+    "answer": 0,
+    "title": "Lze určit, jaké pozorování by s ní bylo v rozporu",
+    "paragraphs": [
+      "Tvrzení o všech případech vystavíme riziku chyby, když předem určíme možný protipříklad. Právě možnost vyvrácení se označuje jako falzifikovatelnost."
+    ],
+    "memory": "U Poppera se ptej, co by hypotézu vyvrátilo."
+  },
+  {
+    "id": 247,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v1 42 · str. 5 (PDF 56)",
+    "sourcePages": "5 (PDF 56)",
+    "question": "Kdo napsal Kacířské eseje o filosofii dějin?",
+    "options": [
+      "Emanuel Rádl",
+      "Erazim Kohák",
+      "Tomáš Garrigue Masaryk",
+      "Jan Patočka"
+    ],
+    "answer": 3,
+    "title": "Jan Patočka",
+    "paragraphs": [
+      "Patočka ve svých esejích promýšlí lidskou zkušenost dějin. Název tak odkazuje k filozofickým otázkám dějin a jejich smyslu."
+    ],
+    "memory": "Kacířské eseje patří Patočkovi."
+  },
+  {
+    "id": 248,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v1 44 · str. 5 (PDF 56)",
+    "sourcePages": "5 (PDF 56)",
+    "question": "Který psychologický obor zkoumá změny myšlení, prožívání a chování v průběhu lidského života?",
+    "options": [
+      "Forenzní psychologie",
+      "Psychologie reklamy",
+      "Vývojová psychologie",
+      "Psychologie dopravy"
+    ],
+    "answer": 2,
+    "title": "Vývojová psychologie",
+    "paragraphs": [
+      "Výzkumná otázka může znít například tak, jak se mění schopnost plánovat od dětství po dospělost. Rozhodující je zde proměna v čase napříč životem."
+    ],
+    "memory": "Vývojová psychologie sleduje změny s věkem."
+  },
+  {
+    "id": 249,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v1 47 · str. 6 (PDF 57)",
+    "sourcePages": "6 (PDF 57)",
+    "question": "Co se v dějinném kontextu Sovětského svazu označuje slovem gulag?",
+    "options": [
+      "Program elektrifikace venkova",
+      "Systém táborů nucených prací",
+      "Označení samostatně hospodařícího rolníka",
+      "Název sovětské akademie věd"
+    ],
+    "answer": 1,
+    "title": "Systém táborů nucených prací",
+    "paragraphs": [
+      "Název vychází ze zkratky úřadu spravujícího tábory. V širším významu se používá pro celý represivní táborový systém."
+    ],
+    "memory": "Gulag připomíná sovětské pracovní tábory."
+  },
+  {
+    "id": 250,
+    "category": "Společenské vědy",
+    "bookRef": "2021 · Fyzioterapie · Všeobecná informovanost v1 48 · str. 6 (PDF 57)",
+    "sourcePages": "6 (PDF 57)",
+    "question": "Ve kterém roce vstoupila Česká republika do Evropské unie?",
+    "options": [
+      "2004",
+      "1993",
+      "1999",
+      "2007"
+    ],
+    "answer": 0,
+    "title": "2004",
+    "paragraphs": [
+      "Česko vstoupilo do EU 1. května při velkém rozšíření v roce 2004. Rok 1993 je spojen se vznikem samostatné České republiky."
+    ],
+    "memory": "Česko v EU od května 2004."
+  }
+]

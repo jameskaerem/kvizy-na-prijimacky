@@ -1,0 +1,953 @@
+[
+  {
+    "id": 151,
+    "category": "Sociologie a komunikace",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 46 · str. 5 (PDF 19)",
+    "sourcePages": "5 (PDF 19)",
+    "question": "Který sociologický směr se při studiu školy ptá, jakou úlohu plní pro fungování společnosti?",
+    "title": "Funkcionalismus",
+    "options": [
+      "Funkcionalismus",
+      "Behaviorismus",
+      "Psychoanalýza",
+      "Atomismus"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Škola například předává znalosti a připravuje lidi na pracovní role. Funkcionalista zkoumá právě tento příspěvek instituce k životu širšího celku."
+    ],
+    "memory": "Funkcionalismus hledá funkci."
+  },
+  {
+    "id": 152,
+    "category": "Sociologie a komunikace",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 48 · str. 6 (PDF 20)",
+    "sourcePages": "6 (PDF 20)",
+    "question": "Člověku okolí připisuje záporné vlastnosti jen kvůli označení, které dostal. Jak se tento proces nazývá?",
+    "title": "Stigmatizace",
+    "options": [
+      "Afiliace",
+      "Sociometrie",
+      "Empatie",
+      "Stigmatizace"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Nálepka může zastínit skutečné chování člověka. Okolí pak například předem pokládá za nespolehlivého někoho, s kým dosud ani nespolupracovalo."
+    ],
+    "memory": "Stigma funguje jako nálepka."
+  },
+  {
+    "id": 153,
+    "category": "Sociologie a komunikace",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 49 · str. 6 (PDF 20)",
+    "sourcePages": "6 (PDF 20)",
+    "question": "Do které složky komunikace patří pokynutí rukou a odstup mezi dvěma mluvčími?",
+    "title": "Neverbální komunikace",
+    "options": [
+      "Písemná slovní komunikace",
+      "Ústní slovní komunikace",
+      "Neverbální komunikace",
+      "Vnitřní řeč"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Gesto i zvolená vzdálenost mohou předat význam bez vyslovení slova. Odstup může třeba vyjádřit, jak blízký kontakt je člověku příjemný."
+    ],
+    "memory": "Gesta a vzdálenost promlouvají beze slov."
+  },
+  {
+    "id": 154,
+    "category": "Sociologie a komunikace",
+    "bookRef": "2020 · Fyzioterapie · Všeobecná informovanost 50 · str. 6 (PDF 20)",
+    "sourcePages": "6 (PDF 20)",
+    "question": "Jak se nazývá proces, při němž lidé postupně ztrácejí možnost účastnit se běžného života společnosti?",
+    "title": "Sociální exkluze",
+    "options": [
+      "Sociální inkluze",
+      "Sociální exkluze",
+      "Socializace",
+      "Mezigenerační mobilita"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Překážky v přístupu k bydlení, práci nebo vzdělání se mohou navzájem posilovat. Člověk tak zůstává stranou i tam, kde by se chtěl zapojit."
+    ],
+    "memory": "Exkluze vylučuje, inkluze začleňuje."
+  },
+  {
+    "id": 155,
+    "category": "Fyzioterapie",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 1 · str. 1 (PDF 27)",
+    "sourcePages": "1 (PDF 27)",
+    "question": "Jak vypadá typické kosterní svalové vlákno při vhodném zvětšení pod mikroskopem?",
+    "title": "Má pravidelné příčné pruhování",
+    "options": [
+      "Má pravidelné příčné pruhování",
+      "Má povrch pokrytý pohyblivými řasinkami",
+      "Je obklopeno minerálními lamelami",
+      "Obsahuje jen hladkou hmotu bez uspořádaných vláken"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Bílkoviny uvnitř vlákna jsou uspořádány do opakujících se úseků. Proto se pod mikroskopem střídají světlejší a tmavší pásy."
+    ],
+    "memory": "Pruhy vedou napříč svalovým vláknem."
+  },
+  {
+    "id": 156,
+    "category": "Fyzioterapie",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 3 · str. 1 (PDF 27)",
+    "sourcePages": "1 (PDF 27)",
+    "question": "Jak se nazývá nauka o lidském pohybu, která propojuje mechaniku těla s řízením pohybu nervovou soustavou?",
+    "title": "Kineziologie",
+    "options": [
+      "Histologie",
+      "Audiologie",
+      "Hematologie",
+      "Kineziologie"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Při studiu kroku můžeme sledovat pohyb kloubů i načasování činnosti svalů. Kineziologie tyto pohledy spojuje."
+    ],
+    "memory": "Kineziologie zkoumá pohyb."
+  },
+  {
+    "id": 157,
+    "category": "Fyzioterapie",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 4 · str. 1 (PDF 27)",
+    "sourcePages": "1 (PDF 27)",
+    "question": "Jaký je vztah ergoterapie k rehabilitaci?",
+    "title": "Ergoterapie je jednou ze součástí rehabilitace",
+    "options": [
+      "Oba pojmy označují výhradně práci se svalovou silou",
+      "Rehabilitace je jednou z technik ergoterapie",
+      "Ergoterapie a rehabilitace označují tutéž jednotlivou proceduru",
+      "Ergoterapie je jednou ze součástí rehabilitace"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Rehabilitace zahrnuje více oborů. Ergoterapeut může například s člověkem hledat způsob, jak samostatně zvládnout oblékání nebo přípravu jídla."
+    ],
+    "memory": "Ergoterapie pomáhá zvládat běžné činnosti."
+  },
+  {
+    "id": 158,
+    "category": "Fyzioterapie",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 5 · str. 1 (PDF 27)",
+    "sourcePages": "1 (PDF 27)",
+    "question": "Která kost je u dospělého člověka obvykle nejdelší?",
+    "title": "Stehenní",
+    "options": [
+      "Holenní",
+      "Pažní",
+      "Stehenní",
+      "Vřetenní"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Stehenní kost sahá od kyčle ke koleni. Nese značnou část hmotnosti těla a délkou převyšuje ostatní jednotlivé kosti."
+    ],
+    "memory": "Nejdelší kost najdeš ve stehně."
+  },
+  {
+    "id": 159,
+    "category": "Početní úlohy",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 7 · str. 1 (PDF 27)",
+    "sourcePages": "1 (PDF 27)",
+    "question": "Na jedné straně ulice stojí po jednom domě s každým lichým číslem od 1 do 19, na druhé s každým sudým od 2 do 14. Kolik domů stojí celkem?",
+    "title": "17",
+    "options": [
+      "16",
+      "17",
+      "18",
+      "19"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Lichých čísel je deset, protože počítáme i první a poslední dům. Sudých čísel je sedm. Sečtením obou stran dostaneme sedmnáct."
+    ],
+    "memory": "Počítej domy na každé straně zvlášť."
+  },
+  {
+    "id": 160,
+    "category": "Fyzioterapie",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 9 · str. 2 (PDF 28)",
+    "sourcePages": "2 (PDF 28)",
+    "question": "Které dvě bílkoviny vytvářejí v kosterním svalu sílu vzájemným posunem vláken?",
+    "title": "Aktin a myozin",
+    "options": [
+      "Aktin a myozin",
+      "Inzulín a glukagon",
+      "Kolagen a elastin",
+      "Albumin a hemoglobin"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Myozinové hlavičky se připojují k aktinu a táhnou za něj. Při zkrácení svalu se tak vlákna více překryjí."
+    ],
+    "memory": "Myozin táhne za aktin."
+  },
+  {
+    "id": 161,
+    "category": "Početní úlohy",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 11 · str. 2 (PDF 28)",
+    "sourcePages": "2 (PDF 28)",
+    "question": "Dva stříbrné dukáty mají cenu jednoho zlatého a pět měděných cenu tří stříbrných. Kolik zlatých získáš za 60 měděných?",
+    "title": "18",
+    "options": [
+      "12",
+      "20",
+      "36",
+      "18"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Šedesát měděných tvoří dvanáct skupin po pěti. Za ně dostaneš 36 stříbrných a jejich směnou po dvojicích 18 zlatých."
+    ],
+    "memory": "Nejdřív převeď měď na stříbro, pak stříbro na zlato."
+  },
+  {
+    "id": 162,
+    "category": "Fyzioterapie",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 12 · str. 2 (PDF 28)",
+    "sourcePages": "2 (PDF 28)",
+    "question": "Co při běžném nádechu udělá bránice?",
+    "title": "Stáhne se a její klenba klesne",
+    "options": [
+      "Uvolní se a její klenba vystoupí",
+      "Uzavře průdušnici",
+      "Stáhne se a její klenba klesne",
+      "Stáhne hlasové vazy k sobě"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Pokles bránice zvětší prostor v hrudníku. Plíce se rozepnou, tlak vzduchu uvnitř krátce klesne pod okolní tlak a vzduch proudí dovnitř."
+    ],
+    "memory": "Bránice dolů, vzduch dovnitř."
+  },
+  {
+    "id": 163,
+    "category": "Fyzioterapie",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 13 · str. 2 (PDF 28)",
+    "sourcePages": "2 (PDF 28)",
+    "question": "Který údaj patří do anamnézy získané rozhovorem s pacientem?",
+    "title": "Kdy potíže začaly a při čem je člověk pociťuje",
+    "options": [
+      "Hodnota právě odečtená z teploměru",
+      "Úhel právě změřený úhloměrem",
+      "Kdy potíže začaly a při čem je člověk pociťuje",
+      "Výsledek právě provedeného rentgenového snímku"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Pacient popisuje průběh obtíží, předchozí onemocnění i okolnosti svého života. Tyto informace pomáhají pochopit význam nálezu při vyšetření."
+    ],
+    "memory": "Anamnéza je příběh potíží a jejich souvislostí."
+  },
+  {
+    "id": 164,
+    "category": "Fyzioterapie",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 14 · str. 2 (PDF 28)",
+    "sourcePages": "2 (PDF 28)",
+    "question": "Která činnost fyzioterapeuta je příkladem prevence pohybových obtíží?",
+    "title": "Učí pracovníky bezpečně střídat polohy při opakované práci",
+    "options": [
+      "Zaznamená již vzniklou zlomeninu na rentgenu",
+      "Učí pracovníky bezpečně střídat polohy při opakované práci",
+      "Zhotoví laboratorní rozbor moči",
+      "Vydá potvrzení o krevní skupině"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Prevence se zaměřuje na okolnosti, které mohou k potížím přispět. V tomto příkladu jde o omezení dlouhodobého jednostranného zatížení."
+    ],
+    "memory": "Prevence předchází obtížím."
+  },
+  {
+    "id": 165,
+    "category": "Fyzioterapie",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 15 · str. 2 (PDF 28)",
+    "sourcePages": "2 (PDF 28)",
+    "question": "Co vyjadřuje pojem polymorbidita?",
+    "title": "Současný výskyt několika nemocí u jednoho člověka",
+    "options": [
+      "Současný výskyt několika nemocí u jednoho člověka",
+      "Opakování jedné infekce v jediné rodině",
+      "Počet zemřelých za rok",
+      "Počet nových případů jedné nemoci v populaci"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Například člověk s cukrovkou i artrózou má více onemocnění zároveň. Slovo popisuje souběh nemocí u jednotlivce."
+    ],
+    "memory": "Poly znamená mnoho."
+  },
+  {
+    "id": 166,
+    "category": "Početní úlohy",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 16 · str. 2 (PDF 28)",
+    "sourcePages": "2 (PDF 28)",
+    "question": "Tři králíci snědli 31 mrkví. Mládě snědlo 6 a otec o 5 více než matka. Kolik snědla matka?",
+    "title": "10",
+    "options": [
+      "8",
+      "11",
+      "15",
+      "10"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Po odečtení šesti mrkví mláděte zůstane rodičům 25. Odečti pět otcových mrkví navíc a rozděl zbývajících 20 rovným dílem."
+    ],
+    "memory": "Odeber rozdíl a pak děl dvěma."
+  },
+  {
+    "id": 167,
+    "category": "Fyzioterapie",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 18 · str. 3 (PDF 29)",
+    "sourcePages": "3 (PDF 29)",
+    "question": "Co se myslí multidisciplinární spoluprací v rehabilitaci?",
+    "title": "Odborníci různých profesí spolupracují na cílech pacienta",
+    "options": [
+      "Jeden pracovník opakuje stejný test několikrát",
+      "Každý člen týmu má totožnou odbornost",
+      "Odborníci různých profesí spolupracují na cílech pacienta",
+      "Všechny úkoly přecházejí na jediného pracovníka"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Pohyb, sebeobsluha a komunikace mohou vyžadovat odlišné znalosti. Různí odborníci proto mohou přispívat ke společnému cíli, například návratu do domácího prostředí."
+    ],
+    "memory": "Více odborností pracuje pro jednoho člověka."
+  },
+  {
+    "id": 168,
+    "category": "Fyzioterapie",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 20 · str. 3 (PDF 29)",
+    "sourcePages": "3 (PDF 29)",
+    "question": "Jak označíme úplnou ztrátu volní hybnosti postižené části těla?",
+    "title": "Plegie",
+    "options": [
+      "Paréza",
+      "Plegie",
+      "Ztráta čití",
+      "Ataxie"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Při plegii člověk postiženou částí nedokáže vůlí pohnout. Při paréze určitá schopnost pohybu zůstává, ale bývá oslabená."
+    ],
+    "memory": "Paréza oslabuje, plegie ruší volní pohyb."
+  },
+  {
+    "id": 169,
+    "category": "Fyzioterapie",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 22 · str. 3 (PDF 29)",
+    "sourcePages": "3 (PDF 29)",
+    "question": "Proč při intenzivnější svalové práci v teple obvykle stoupá tvorba potu?",
+    "title": "Odpařování potu pomáhá odvádět vzniklé teplo",
+    "options": [
+      "Pot přenáší kyslík do plicních sklípků",
+      "Odpařování potu pomáhá odvádět vzniklé teplo",
+      "Pot tvoří hlavní zásobu energie svalu",
+      "Odpařování potu zvyšuje teplotu kůže"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Pracující svaly vytvářejí teplo. Přeměna vody na páru spotřebuje energii, takže její odpařování z povrchu těla pomáhá s ochlazováním."
+    ],
+    "memory": "Chladí hlavně odpaření potu."
+  },
+  {
+    "id": 170,
+    "category": "Fyzioterapie",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 23 · str. 3 (PDF 29)",
+    "sourcePages": "3 (PDF 29)",
+    "question": "Fyzioterapeut prsty hodnotí napětí tkáně. Jak se nazývá tento způsob vyšetření?",
+    "title": "Palpace",
+    "options": [
+      "Palpace",
+      "Auskultace",
+      "Inspekce pohledem",
+      "Spirometrie"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Při palpaci se využívá hmat. Lze tak posoudit třeba poddajnost podkoží nebo místní bolestivost při dotyku."
+    ],
+    "memory": "Palpace je pohmat."
+  },
+  {
+    "id": 171,
+    "category": "Fyzioterapie",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 26 · str. 4 (PDF 30)",
+    "sourcePages": "4 (PDF 30)",
+    "question": "Jak se nazývá prostorová deformita páteře, při které je patrné vybočení do strany a typicky také rotace obratlů?",
+    "title": "Skolióza",
+    "options": [
+      "Fyziologická bederní lordóza",
+      "Fyziologická hrudní kyfóza",
+      "Extenze lokte",
+      "Skolióza"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Přirozené předozadní oblouky jsou dobře vidět z boku. U skoliózy se páteř vychyluje také při pohledu zezadu a obratle se mohou otáčet."
+    ],
+    "memory": "U skoliózy sleduj vybočení i rotaci."
+  },
+  {
+    "id": 172,
+    "category": "Fyzioterapie",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 27 · str. 4 (PDF 30)",
+    "sourcePages": "4 (PDF 30)",
+    "question": "Jaké dvě klenby nohy rozlišuje základní popis podle směru jejich průběhu?",
+    "title": "Podélnou a příčnou",
+    "options": [
+      "Horní a dolní",
+      "Přední a týlní",
+      "Podélnou a příčnou",
+      "Loketní a vřetenní"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Podélná klenba probíhá ve směru od paty k přednoží. Příčná překlenuje šířku nohy. Obě souvisejí s rozložením zatížení."
+    ],
+    "memory": "Podélně po délce, příčně napříč."
+  },
+  {
+    "id": 173,
+    "category": "Fyzioterapie",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 29 · str. 4 (PDF 30)",
+    "sourcePages": "4 (PDF 30)",
+    "question": "Která část mozku významně přispívá ke koordinaci a přesnému načasování kroků?",
+    "title": "Mozeček",
+    "options": [
+      "Zrakové nervové zkřížení",
+      "Mozeček",
+      "Čichový bulbus",
+      "Epifýza"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Mozeček porovnává informace o probíhajícím pohybu a pomáhá jej průběžně zpřesňovat. Při poruše může být chůze nejistá a špatně koordinovaná.",
+      "Alkohol může narušit funkci mozečku a koordinaci chůze. Účinky alkoholu se přitom týkají i dalších částí nervové soustavy."
+    ],
+    "memory": "Mozeček dolaďuje pohyb."
+  },
+  {
+    "id": 174,
+    "category": "Fyzioterapie",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 6 · str. 1 (PDF 35)",
+    "sourcePages": "1 (PDF 35)",
+    "question": "Na které struktury se ve fyzioterapii zaměřují takzvané měkké techniky?",
+    "title": "Kůže, podkoží a fascie",
+    "options": [
+      "Kůže, podkoží a fascie",
+      "Pouze zubní sklovina",
+      "Pouze obsah kostní dřeně",
+      "Pouze kloubní dutina jako volný prostor"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Kůže a hlubší vrstvy se při pohybu vůči sobě posouvají. Měkké techniky pracují s pohyblivostí a poddajností právě těchto tkání."
+    ],
+    "memory": "Měkké vrstvy se vůči sobě posouvají."
+  },
+  {
+    "id": 175,
+    "category": "Početní úlohy",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 9 · str. 2 (PDF 36)",
+    "sourcePages": "2 (PDF 36)",
+    "question": "Hmotnost mouky a cukru má být v poměru 5 ku 2. Kolik mouky připadá na 500 g cukru?",
+    "title": "1 250 g",
+    "options": [
+      "1 250 g",
+      "200 g",
+      "750 g",
+      "2 500 g"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Dva díly cukru váží dohromady 500 g, jeden díl tedy 250 g. Mouka má tvořit pět takových dílů."
+    ],
+    "memory": "Najdi jeden díl a vynásob ho pěti."
+  },
+  {
+    "id": 176,
+    "category": "Fyzioterapie",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 12 · str. 2 (PDF 36)",
+    "sourcePages": "2 (PDF 36)",
+    "question": "Jakému významu odpovídají řecké kořeny slova fyzioterapie v pořadí physis a therapeia?",
+    "title": "Příroda a léčení",
+    "options": [
+      "Pohyb a měření",
+      "Sval a síla",
+      "Voda a teplo",
+      "Příroda a léčení"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Physis odkazuje k přírodě či přirozenosti. Therapeia označuje péči či léčení a objevuje se také ve jménech dalších léčebných oborů."
+    ],
+    "memory": "Physis souvisí s přírodou, terapie s péčí."
+  },
+  {
+    "id": 177,
+    "category": "Fyzioterapie",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 13 · str. 2 (PDF 36)",
+    "sourcePages": "2 (PDF 36)",
+    "question": "Který přístup zohledňuje člověka jako celek při hodnocení jeho pohybových obtíží?",
+    "title": "Spojit tělesný nález s běžnými činnostmi, prostředím a cíli člověka",
+    "options": [
+      "Založit celý závěr pouze na úhlu jednoho kloubu",
+      "Převzít cíl jiného pacienta stejného věku",
+      "Spojit tělesný nález s běžnými činnostmi, prostředím a cíli člověka",
+      "Hodnotit výhradně výsledek jednoho snímku"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Stejné omezení pohybu může člověka při jeho zaměstnání nebo doma ovlivňovat různě. Celostní přístup se proto zajímá i o to, co člověk potřebuje zvládat."
+    ],
+    "memory": "Ptej se, co nález znamená v každodenním životě."
+  },
+  {
+    "id": 178,
+    "category": "Fyzioterapie",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 15 · str. 2 (PDF 36)",
+    "sourcePages": "2 (PDF 36)",
+    "question": "Jaký odborný název má vodoléčba?",
+    "title": "Hydroterapie",
+    "options": [
+      "Helioterapie",
+      "Hydroterapie",
+      "Hipoterapie",
+      "Elektroterapie"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "V hydroterapii je prostředkem voda. Slovo hydro označuje vodu, zatímco například helioterapie využívá sluneční záření."
+    ],
+    "memory": "Hydro znamená voda."
+  },
+  {
+    "id": 179,
+    "category": "Fyzioterapie",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 16 · str. 3 (PDF 37)",
+    "sourcePages": "3 (PDF 37)",
+    "question": "Jak probíhá ambulantní rehabilitace z hlediska pobytu pacienta?",
+    "title": "Pacient přichází na péči bez hospitalizace",
+    "options": [
+      "Pacient přichází na péči bez hospitalizace",
+      "Pacient zůstává na lůžkovém oddělení přes noc při každé návštěvě",
+      "Péče je určena jen lidem schopným chůze bez pomoci",
+      "Péče se poskytuje pouze po operaci"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Ambulantní označuje způsob organizace péče. Pacient může například přijet na vozíku a po návštěvě se vrátit domů."
+    ],
+    "memory": "Ambulantní návštěva končí odchodem domů."
+  },
+  {
+    "id": 180,
+    "category": "Fyzioterapie",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 18 · str. 3 (PDF 37)",
+    "sourcePages": "3 (PDF 37)",
+    "question": "Se jménem kterého českého lékaře je spojena metoda reflexní lokomoce?",
+    "title": "Václav Vojta",
+    "options": [
+      "Vladimír Janda",
+      "Jan Evangelista Purkyně",
+      "Jan Janský",
+      "Václav Vojta"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Pojem reflexní lokomoce označuje pohybové vzory vybavované určitými podněty. V dějinách rehabilitace je tento přístup spojen s Václavem Vojtou."
+    ],
+    "memory": "Vojtova metoda a reflexní lokomoce patří k sobě."
+  },
+  {
+    "id": 181,
+    "category": "Fyzioterapie",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 19 · str. 3 (PDF 37)",
+    "sourcePages": "3 (PDF 37)",
+    "question": "K čemu ve fyzioterapii slouží kineziologický rozbor?",
+    "title": "K systematickému vyšetření pohybových funkcí",
+    "options": [
+      "K rozboru chemického složení moči",
+      "K určení krevní skupiny",
+      "K měření sluchového prahu",
+      "K systematickému vyšetření pohybových funkcí"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Terapeut při rozboru sleduje například držení těla, rozsah pohybu a způsob provedení pohybového úkolu. Zjištění mu pomáhají pojmenovat konkrétní funkční problém."
+    ],
+    "memory": "Rozbor pohybu je součást vyšetření."
+  },
+  {
+    "id": 182,
+    "category": "Fyzioterapie",
+    "bookRef": "2020 · Fyzioterapie · Motivační test 20 · str. 3 (PDF 37)",
+    "sourcePages": "3 (PDF 37)",
+    "question": "Jaký přírodní zdroj využívá helioterapie?",
+    "title": "Sluneční záření",
+    "options": [
+      "Tlak vody",
+      "Proud vzduchu",
+      "Sluneční záření",
+      "Zemské magnetické pole"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Název vychází z řeckého označení slunce. Rozhodující je zdroj záření, pouhá přítomnost tepla k označení helioterapie nestačí."
+    ],
+    "memory": "Hélios znamená slunce."
+  },
+  {
+    "id": 183,
+    "category": "Pohybová soustava",
+    "bookRef": "2020 · Fyzioterapie · Biologie 1 · str. 1 (PDF 39)",
+    "sourcePages": "1 (PDF 39)",
+    "question": "Kde se u rostoucího dítěte prodlužuje dlouhá kost?",
+    "title": "V růstové chrupavce poblíž konce kosti",
+    "options": [
+      "V dutině kloubu mezi dvěma kostmi",
+      "V růstové chrupavce poblíž konce kosti",
+      "V úponu šlachy na kůži",
+      "V kloubní tekutině"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "V růstové ploténce přibývá chrupavka, kterou ze strany těla kosti postupně nahrazuje kostní tkáň. Tím se zvětšuje vzdálenost mezi konci kosti."
+    ],
+    "memory": "Růstová ploténka přidává délku."
+  },
+  {
+    "id": 184,
+    "category": "Pohybová soustava",
+    "bookRef": "2020 · Fyzioterapie · Biologie 3 · str. 1 (PDF 39)",
+    "sourcePages": "1 (PDF 39)",
+    "question": "Která kost spolu s lícní kostí vytváří jařmový oblouk?",
+    "title": "Spánková",
+    "options": [
+      "Spánková",
+      "Týlní",
+      "Čichová",
+      "Dolní čelist"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Jařmový oblouk lze nahmatat na boční straně obličeje. Tvoří jej výběžky lícní a spánkové kosti, které se setkávají nad oblastí dolní čelisti."
+    ],
+    "memory": "Jařmový oblouk spojuje líc a spánek."
+  },
+  {
+    "id": 185,
+    "category": "Pohybová soustava",
+    "bookRef": "2020 · Fyzioterapie · Biologie 4 · str. 1 (PDF 39)",
+    "sourcePages": "1 (PDF 39)",
+    "question": "Která dvojice tvoří kostěný podklad předloktí?",
+    "title": "Kost loketní a vřetenní",
+    "options": [
+      "Kost pažní a loketní",
+      "Kost klíční a pažní",
+      "Kost vřetenní a lopatka",
+      "Kost loketní a vřetenní"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Předloktí leží mezi loktem a zápěstím. V anatomické poloze je vřetenní kost na straně palce a loketní na straně malíku."
+    ],
+    "memory": "Palec u vřetenní, malík u loketní."
+  },
+  {
+    "id": 186,
+    "category": "Pohybová soustava",
+    "bookRef": "2020 · Fyzioterapie · Biologie 5 · str. 1 (PDF 39)",
+    "sourcePages": "1 (PDF 39)",
+    "question": "Kolik zánártních kostí obsahuje jedna typická lidská noha?",
+    "title": "Sedm",
+    "options": [
+      "Pět",
+      "Osm",
+      "Sedm",
+      "Čtrnáct"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Do zánártí patří například kost patní a hlezenní. Před zánártím leží další oddíl, nárt, který tvoří pět nártních kostí."
+    ],
+    "memory": "Sedm v zánártí, pět v nártu."
+  },
+  {
+    "id": 187,
+    "category": "Pohybová soustava",
+    "bookRef": "2020 · Fyzioterapie · Biologie 7 · str. 1 (PDF 39)",
+    "sourcePages": "1 (PDF 39)",
+    "question": "Jak se označují svalové buňky tvořící myokard?",
+    "title": "Kardiomyocyty",
+    "options": [
+      "Osteocyty",
+      "Chondrocyty",
+      "Kardiomyocyty",
+      "Erytrocyty"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Myokard je svalová vrstva srdeční stěny. Její buňky jsou vzájemně propojené, což umožňuje šíření podráždění a souhru při stahu."
+    ],
+    "memory": "Kardio patří k srdci, myo ke svalu."
+  },
+  {
+    "id": 188,
+    "category": "Krev a oběh",
+    "bookRef": "2020 · Fyzioterapie · Biologie 8 · str. 2 (PDF 40)",
+    "sourcePages": "2 (PDF 40)",
+    "question": "Která svalovina upravuje průsvit tepny stahem buněk v její stěně?",
+    "title": "Hladká",
+    "options": [
+      "Kosterní příčně pruhovaná",
+      "Hladká",
+      "Srdeční pracovní",
+      "Srdeční převodní"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Hladké svalové buňky obepínají cévu. Když se stáhnou, průsvit se zmenší a změní se odpor, který musí proudící krev překonat."
+    ],
+    "memory": "Hladký sval ve stěně mění šířku cévy."
+  },
+  {
+    "id": 189,
+    "category": "Krev a oběh",
+    "bookRef": "2020 · Fyzioterapie · Biologie 10 · str. 2 (PDF 40)",
+    "sourcePages": "2 (PDF 40)",
+    "question": "Proč se může nedostatek vitaminu B12 projevit při tvorbě červených krvinek?",
+    "title": "Zasahuje do tvorby DNA a dělení jejich prekurzorů",
+    "options": [
+      "Zasahuje do tvorby DNA a dělení jejich prekurzorů",
+      "Odstraní veškeré železo ze zralých krvinek",
+      "Změní krevní skupinu AB0",
+      "Zastaví tvorbu žluči ve žlučníku"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Budoucí krvinky se v kostní dřeni opakovaně dělí. K tomu potřebují kopírovat DNA, a proto může nedostatek B12 narušit jejich dozrávání."
+    ],
+    "memory": "B12 potřebují dělící se předchůdci krvinek."
+  },
+  {
+    "id": 190,
+    "category": "Krev a oběh",
+    "bookRef": "2020 · Fyzioterapie · Biologie 11 · str. 2 (PDF 40)",
+    "sourcePages": "2 (PDF 40)",
+    "question": "Z kterých buněk vznikají plazmatické buňky produkující protilátky?",
+    "title": "Z aktivovaných B lymfocytů",
+    "options": [
+      "Z červených krvinek",
+      "Z krevních destiček",
+      "Ze svalových buněk",
+      "Z aktivovaných B lymfocytů"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Po rozpoznání antigenu a potřebných aktivačních signálech se část B lymfocytů přemění v plazmatické buňky. Ty uvolňují velké množství protilátek."
+    ],
+    "memory": "B lymfocyt může dozrát v producenta protilátek."
+  },
+  {
+    "id": 191,
+    "category": "Krev a oběh",
+    "bookRef": "2020 · Fyzioterapie · Biologie 13 · str. 2 (PDF 40)",
+    "sourcePages": "2 (PDF 40)",
+    "question": "Co nese na povrchu červená krvinka člověka skupiny A v systému AB0?",
+    "title": "Antigen A",
+    "options": [
+      "Protilátku anti-A jako určující znak skupiny",
+      "Pouze antigen B",
+      "Antigen A",
+      "Oba antigeny A i B"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Skupina se určuje podle znaků na povrchu krvinek. U skupiny A je na krvince znak A, zatímco protilátky proti znaku B se běžně nacházejí v plazmě."
+    ],
+    "memory": "Antigen na krvince dává skupině jméno."
+  },
+  {
+    "id": 192,
+    "category": "Krev a oběh",
+    "bookRef": "2020 · Fyzioterapie · Biologie 14 · str. 2 (PDF 40)",
+    "sourcePages": "2 (PDF 40)",
+    "question": "Do které cévy vytlačuje krev při stahu levá komora?",
+    "title": "Do aorty",
+    "options": [
+      "Do plicnice",
+      "Do aorty",
+      "Do horní duté žíly",
+      "Do plicní žíly"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Jakmile tlak v levé komoře překročí tlak v aortě, otevře se aortální chlopeň. Krev pokračuje do velkého oběhu k orgánům."
+    ],
+    "memory": "Levá komora zásobuje tělo aortou."
+  },
+  {
+    "id": 193,
+    "category": "Krev a oběh",
+    "bookRef": "2020 · Fyzioterapie · Biologie 15 · str. 2 (PDF 40)",
+    "sourcePages": "2 (PDF 40)",
+    "question": "Kde se mezi krví a okolními tkáněmi běžně vyměňují plyny a malé živiny přes tenkou cévní stěnu?",
+    "title": "V kapilárách",
+    "options": [
+      "V aortě u jejího výstupu",
+      "V kapilárách",
+      "V dolní duté žíle",
+      "V kmeni plicnice"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Kapiláry vytvářejí jemnou síť mezi buňkami. Jejich velmi tenká stěna zkracuje vzdálenost, kterou musí látky při přestupu překonat."
+    ],
+    "memory": "Vlásečnice přibližují krev k buňkám."
+  },
+  {
+    "id": 194,
+    "category": "Dýchání a trávení",
+    "bookRef": "2020 · Fyzioterapie · Biologie 18 · str. 3 (PDF 41)",
+    "sourcePages": "3 (PDF 41)",
+    "question": "Která část plic tvoří rozhraní pro výměnu kyslíku a oxidu uhličitého mezi vzduchem a krví?",
+    "title": "Plicní sklípky s přilehlými kapilárami",
+    "options": [
+      "Plicní sklípky s přilehlými kapilárami",
+      "Průdušnice s chrupavčitými prstenci",
+      "Hrtan s hlasivkami",
+      "Hlavní průdušky u vstupu do plic"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Do sklípků se přivede vzduch a po jejich povrchu vede síť vlásečnic. Plyny mohou přes tenkou bariéru mezi oběma prostory difundovat."
+    ],
+    "memory": "Sklípek má z jedné strany vzduch a z druhé krev."
+  },
+  {
+    "id": 195,
+    "category": "Dýchání a trávení",
+    "bookRef": "2020 · Fyzioterapie · Biologie 23 · str. 3 (PDF 41)",
+    "sourcePages": "3 (PDF 41)",
+    "question": "Kam při normálním polknutí přechází sousto z hltanu?",
+    "title": "Do jícnu",
+    "options": [
+      "Do hrtanu",
+      "Do průdušnice",
+      "Přímo do dvanáctníku",
+      "Do jícnu"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "V hltanu se kříží cesta vzduchu a potravy. Při polknutí sousto pokračuje do jícnu, který ho svalovými stahy posouvá směrem k žaludku."
+    ],
+    "memory": "Hltan předá sousto jícnu."
+  },
+  {
+    "id": 196,
+    "category": "Ledviny a nervová soustava",
+    "bookRef": "2020 · Fyzioterapie · Biologie 28 · str. 4 (PDF 42)",
+    "sourcePages": "4 (PDF 42)",
+    "question": "Jak se nazývá základní funkční jednotka ledviny tvořená ledvinným tělískem a soustavou kanálků?",
+    "title": "Nefron",
+    "options": [
+      "Neuron",
+      "Alveolus",
+      "Nefron",
+      "Osteon"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "V tělísku se filtruje tekutina z krve. V navazujících kanálcích se její složení upravuje, mimo jiné návratem vody a potřebných látek do krve."
+    ],
+    "memory": "Nefron spojuje filtr a kanálky."
+  },
+  {
+    "id": 197,
+    "category": "Ledviny a nervová soustava",
+    "bookRef": "2020 · Fyzioterapie · Biologie 31 · str. 4 (PDF 42)",
+    "sourcePages": "4 (PDF 42)",
+    "question": "Které dvě části tvoří centrální nervovou soustavu člověka?",
+    "title": "Mozek a mícha",
+    "options": [
+      "Mozek a všechny míšní nervy",
+      "Mozek a mícha",
+      "Mícha a všechny periferní nervy",
+      "Hlavové nervy a míšní nervy"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "V mozku a míše se zpracovávají signály. Periferní nervy spojují tato centra s jednotlivými částmi těla."
+    ],
+    "memory": "Centrum je v lebce a páteřním kanálu."
+  },
+  {
+    "id": 198,
+    "category": "Ledviny a nervová soustava",
+    "bookRef": "2020 · Fyzioterapie · Biologie 32 · str. 4 (PDF 42)",
+    "sourcePages": "4 (PDF 42)",
+    "question": "Která nervová hmota tvoří mozkovou kůru na povrchu hemisfér?",
+    "title": "Šedá hmota",
+    "options": [
+      "Šedá hmota",
+      "Pouze bílá hmota",
+      "Pouze mozkomíšní mok",
+      "Tvrdá plena"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "V kůře je mnoho těl neuronů a jejich propojení. Pod kůrou leží bílá hmota, v níž vedou svazky vláken mezi oblastmi nervové soustavy."
+    ],
+    "memory": "Šedá kůra pokrývá hemisféry."
+  },
+  {
+    "id": 199,
+    "category": "Ledviny a nervová soustava",
+    "bookRef": "2020 · Fyzioterapie · Biologie 33 · str. 4 (PDF 42)",
+    "sourcePages": "4 (PDF 42)",
+    "question": "Co vystihuje nepodmíněný reflex, například typickou reakci zornice na světlo?",
+    "title": "Má vrozený základ a nevyžaduje předchozí nácvik",
+    "options": [
+      "Má vrozený základ a nevyžaduje předchozí nácvik",
+      "Vzniká výhradně vědomým rozhodnutím",
+      "Vyžaduje předchozí spojování dvou podnětů",
+      "Objevuje se pouze po opakované slovní instrukci"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Reakci umožňuje již utvořený nervový okruh. Světelný podnět proto může vyvolat zúžení zornice i bez učení této konkrétní reakci."
+    ],
+    "memory": "Nepodmíněný reflex má vrozený základ."
+  },
+  {
+    "id": 200,
+    "category": "Ledviny a nervová soustava",
+    "bookRef": "2020 · Fyzioterapie · Biologie 34 · str. 4 (PDF 42)",
+    "sourcePages": "4 (PDF 42)",
+    "question": "Kde na příčném řezu míchou leží šedá hmota?",
+    "title": "Uprostřed v útvaru připomínajícím motýla",
+    "options": [
+      "Jako souvislá kůra na celém povrchu",
+      "Pouze uvnitř míšních plen",
+      "Pouze v kořenech míšních nervů",
+      "Uprostřed v útvaru připomínajícím motýla"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Šedá hmota tvoří uvnitř míchy přední a zadní rohy. Kolem ní leží bílá hmota s drahami, po kterých se přenášejí signály."
+    ],
+    "memory": "V míše je šedý motýl uvnitř."
+  }
+]

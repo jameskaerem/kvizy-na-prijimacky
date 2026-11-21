@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 801,
+    "category": "Zdraví člověka",
+    "bookRef": "str. 193",
+    "sourcePages": "193",
+    "question": "Které složky zdraví zdůrazňuje definice uvedená v učebnici?",
+    "options": [
+      "Pouze nepřítomnost horečky",
+      "Jen sportovní výkon",
+      "Výhradně normální barvu kůže",
+      "Tělesnou, duševní a sociální pohodu"
+    ],
+    "answer": 3,
+    "title": "Zdraví má tělesnou, duševní a sociální složku.",
+    "paragraphs": [
+      "Zdraví se týká těla, psychiky i vztahů a podmínek života.",
+      "Člověka nelze úplně popsat jediným laboratorním číslem.",
+      "Jde o široké pojetí zdraví, nikoli tvrzení, že jakákoli chvilková nepohoda automaticky znamená nemoc."
+    ],
+    "memory": "Zdraví má tělesnou, duševní a sociální složku."
+  },
+  {
+    "id": 802,
+    "category": "Zdraví člověka",
+    "bookRef": "str. 193–194",
+    "sourcePages": "193–194",
+    "question": "Proč zdraví ovlivňuje i prostředí, nejen osobní rozhodnutí?",
+    "options": [
+      "Protože žádné osobní návyky nemají účinek",
+      "Protože všechny nemoci způsobuje stejná bakterie",
+      "Lidé jsou vystaveni také podmínkám bydlení, práce, vody a ovzduší",
+      "Protože genetická výbava vůbec neexistuje"
+    ],
+    "answer": 2,
+    "title": "Zdraví ovlivňuje člověk i jeho podmínky.",
+    "paragraphs": [
+      "Učebnice uvádí více zdrojů zdravotních vlivů včetně prostředí a životních podmínek.",
+      "Člověk dýchá okolní vzduch a žije v konkrétních sociálních i materiálních podmínkách.",
+      "Nemoc proto nelze automaticky vykládat jako osobní selhání; příčiny se mohou kombinovat."
+    ],
+    "memory": "Zdraví ovlivňuje člověk i jeho podmínky."
+  },
+  {
+    "id": 803,
+    "category": "Zdraví člověka",
+    "bookRef": "str. 193–194",
+    "sourcePages": "193–194",
+    "question": "Co vystihuje vyrovnaný denní režim?",
+    "options": [
+      "Náhodné vynechávání veškerého odpočinku",
+      "Pravidelné střídání činnosti, odpočinku a spánku",
+      "Trvalou práci bez spánku",
+      "Pouze nehybnost po celý den"
+    ],
+    "answer": 1,
+    "title": "Činnost a odpočinek patří do jednoho režimu.",
+    "paragraphs": [
+      "Pravidelný režim zahrnuje činnost i obnovu sil.",
+      "Představ si opakující se rytmus zatížení a zotavení.",
+      "Nejde o požadavek stejného rozvrhu pro každého ani o léčebný předpis."
+    ],
+    "memory": "Činnost a odpočinek patří do jednoho režimu."
+  },
+  {
+    "id": 804,
+    "category": "Zdraví člověka",
+    "bookRef": "str. 194",
+    "sourcePages": "194",
+    "question": "Co znamená kvalitativně i kvantitativně přiměřená výživa?",
+    "options": [
+      "Vhodné složení i množství potravy vzhledem k potřebám",
+      "Pouze co největší energetický příjem",
+      "Výhradně jedinou živinu v libovolné dávce",
+      "Stejné množství jídla pro všechny lidi bez rozdílu"
+    ],
+    "answer": 0,
+    "title": "Kvalita = složení, kvantita = množství.",
+    "paragraphs": [
+      "Kvalita se týká složení, kvantita množství potravy.",
+      "Dostatek energie bez potřebných živin není totéž jako vyvážená výživa.",
+      "Konkrétní potřeby se liší podle věku, aktivity a dalších okolností."
+    ],
+    "memory": "Kvalita = složení, kvantita = množství."
+  },
+  {
+    "id": 805,
+    "category": "Infekce dýchací soustavy",
+    "bookRef": "str. 75",
+    "sourcePages": "75",
+    "question": "Proč může pneumonie zhoršovat výměnu plynů v plicích?",
+    "options": [
+      "Protože se všechny alveoly mění na srdeční chlopně",
+      "Protože plíce přestanou být prokrveny u každého člověka natrvalo",
+      "Protože kyslík už nemůže existovat ve vzduchu",
+      "Zánětlivé změny a tekutina v alveolech narušují podmínky pro výměnu"
+    ],
+    "answer": 3,
+    "title": "Zánět alveolární oblasti může zhoršit výměnu plynů.",
+    "paragraphs": [
+      "Při pneumonii může být zasažena oblast plicních sklípků a jejich okolí.",
+      "Tekutina a zánětlivé změny zhoršují souhru ventilace a přenosu plynů.",
+      "Pneumonie má různé původce i rozsah; nelze všechny případy popsat jediným stejným průběhem."
+    ],
+    "memory": "Zánět alveolární oblasti může zhoršit výměnu plynů."
+  },
+  {
+    "id": 806,
+    "category": "Alkohol",
+    "bookRef": "str. 194",
+    "sourcePages": "194",
+    "question": "Jak se nazývá alkohol obsažený v alkoholických nápojích?",
+    "options": [
+      "Aceton",
+      "Glycerol jako jediná účinná složka",
+      "Ethanol",
+      "Methan"
+    ],
+    "answer": 2,
+    "title": "Nápojový alkohol = ethanol.",
+    "paragraphs": [
+      "V alkoholických nápojích je hlavní psychoaktivní alkohol ethanol.",
+      "Slovo alkohol v běžné řeči zde označuje konkrétní chemickou látku.",
+      "Ne všechny chemické alkoholy mají stejné vlastnosti; methanol se s ethanolem nesmí zaměňovat."
+    ],
+    "memory": "Nápojový alkohol = ethanol."
+  },
+  {
+    "id": 807,
+    "category": "Alkohol",
+    "bookRef": "str. 194",
+    "sourcePages": "194",
+    "question": "Jak může ethanol ovlivnit úsudek a koordinaci?",
+    "options": [
+      "Nemá žádný účinek na nervovou soustavu",
+      "Může zhoršovat sebekontrolu, úsudek a pohybovou koordinaci",
+      "Vždy zpřesní všechny reakce",
+      "Zaručí neomylný odhad vlastních schopností"
+    ],
+    "answer": 1,
+    "title": "Pocit jistoty po alkoholu neznamená lepší výkon.",
+    "paragraphs": [
+      "Alkohol mění činnost nervové soustavy a může narušovat úsudek i koordinaci.",
+      "Pocit uvolnění není důkazem přesnějšího výkonu.",
+      "Subjektivní sebejistota se proto může rozcházet se skutečnými schopnostmi."
+    ],
+    "memory": "Pocit jistoty po alkoholu neznamená lepší výkon."
+  },
+  {
+    "id": 808,
+    "category": "Infekce dýchací soustavy",
+    "bookRef": "str. 74",
+    "sourcePages": "74",
+    "question": "Jakého typu je původce pravé chřipky?",
+    "options": [
+      "Virus",
+      "Parazitický tasemník",
+      "Bakterie Treponema pallidum",
+      "Lidský pohlavní hormon"
+    ],
+    "answer": 0,
+    "title": "Pravá chřipka je virová infekce.",
+    "paragraphs": [
+      "Pravou chřipku způsobují chřipkové viry.",
+      "Příznaky podobné chřipce samy nestačí k přesnému určení původce.",
+      "Případná navazující bakteriální komplikace nemění virový původ samotné chřipky."
+    ],
+    "memory": "Pravá chřipka je virová infekce."
+  },
+  {
+    "id": 809,
+    "category": "Alkohol",
+    "bookRef": "str. 195",
+    "sourcePages": "195",
+    "question": "Které orgány mohou být poškozovány dlouhodobým nadměrným příjmem alkoholu?",
+    "options": [
+      "Výhradně nehty bez vlivu na jiné tkáně",
+      "Pouze zubní sklovina",
+      "Žádné orgány, pouze obaly potravin",
+      "Například játra, mozek a srdce"
+    ],
+    "answer": 3,
+    "title": "Alkohol může působit na více orgánů.",
+    "paragraphs": [
+      "Učebnice uvádí poškození více orgánových systémů.",
+      "Látka vstřebaná do krve může působit v celém organismu, ne jen v místě, kudy vstoupila.",
+      "Konkrétní následek závisí na mnoha okolnostech; nelze všem lidem přiřadit totožný průběh."
+    ],
+    "memory": "Alkohol může působit na více orgánů."
+  },
+  {
+    "id": 810,
+    "category": "Alkohol",
+    "bookRef": "str. 195",
+    "sourcePages": "195",
+    "question": "Co znamená abstinence od alkoholu?",
+    "options": [
+      "Zvyšování dávky při každé příležitosti",
+      "Jiný název alkoholového opojení",
+      "Nepřijímání alkoholu",
+      "Pouze užívání alkoholu ráno"
+    ],
+    "answer": 2,
+    "title": "Abstinence = zdržení se užívání.",
+    "paragraphs": [
+      "Abstinence znamená zdržení se užívání dané látky.",
+      "V této souvislosti jde o nepřijímání alkoholických nápojů.",
+      "Abstinenční příznaky označují něco jiného: potíže při omezení látky u fyzické závislosti."
+    ],
+    "memory": "Abstinence = zdržení se užívání."
+  },
+  {
+    "id": 811,
+    "category": "Závislost",
+    "bookRef": "str. 195–196",
+    "sourcePages": "195–196",
+    "question": "Co nejlépe vystihuje návykové užívání látky se ztrátou kontroly?",
+    "options": [
+      "Schopnost kdykoli zcela libovolně ovládnout všechny následky",
+      "Nutkavé pokračování navzdory závažným škodám",
+      "Každé jednorázové užití automaticky bez výjimky",
+      "Pouhá přítomnost látky v laboratorní skříni"
+    ],
+    "answer": 1,
+    "title": "Závislost narušuje kontrolu nad užíváním.",
+    "paragraphs": [
+      "Závislost zahrnuje poruchu kontroly a pokračování navzdory škodlivým následkům.",
+      "Užívání může získávat nepřiměřeně velkou prioritu oproti jiným činnostem.",
+      "Nejde o morální nálepku ani o tvrzení, že každý člověk po jediné zkušenosti nevyhnutelně získá závislost."
+    ],
+    "memory": "Závislost narušuje kontrolu nad užíváním."
+  },
+  {
+    "id": 812,
+    "category": "Závislost",
+    "bookRef": "str. 196",
+    "sourcePages": "196",
+    "question": "Co označuje psychická složka závislosti?",
+    "options": [
+      "Silné nutkání látku znovu přijmout a její vysokou psychickou prioritu",
+      "Pouze počet erytrocytů",
+      "Každý pocit hladu bez vztahu k látce",
+      "Vznik nové kosti v mozku"
+    ],
+    "answer": 0,
+    "title": "Psychická složka: nutkání a priorita látky.",
+    "paragraphs": [
+      "Psychická složka souvisí s touhou, očekáváním účinku a obtížným ovládáním užívání.",
+      "Látka může zabírat nepřiměřeně velké místo v pozornosti a rozhodování.",
+      "Není totožná s fyzickými abstinenčními příznaky, i když se mohou vyskytovat současně."
+    ],
+    "memory": "Psychická složka: nutkání a priorita látky."
+  },
+  {
+    "id": 813,
+    "category": "Závislost",
+    "bookRef": "str. 196",
+    "sourcePages": "196",
+    "question": "Čím se projevuje fyzická závislost při omezení nebo vysazení látky?",
+    "options": [
+      "Vždy vytvořením dalšího chromozomu",
+      "Naprostou nepřítomností jakékoli tělesné reakce",
+      "Pouze změnou barvy vlasů",
+      "Abstinenčními příznaky v důsledku tělesné adaptace"
+    ],
+    "answer": 3,
+    "title": "Fyzická závislost se může projevit při vysazení.",
+    "paragraphs": [
+      "Organismus přizpůsobený přítomnosti látky může na její vysazení reagovat obtížemi.",
+      "Představ si systém, který se nastavil na pravidelný vnější vliv a musí se znovu přizpůsobit.",
+      "Fyzická závislost sama není totéž co nutkavé návykové užívání; může vznikat i při některých léčbách."
+    ],
+    "memory": "Fyzická závislost se může projevit při vysazení."
+  },
+  {
+    "id": 814,
+    "category": "Závislost",
+    "bookRef": "str. 196",
+    "sourcePages": "196",
+    "question": "Co znamená tolerance k účinku látky?",
+    "options": [
+      "Tělo látku přemění na chromozom",
+      "Vznik absolutní ochrany před otravou",
+      "Stejná dávka má postupně menší účinek",
+      "Stejná dávka vždy působí stále silněji"
+    ],
+    "answer": 2,
+    "title": "Tolerance = menší účinek stejné dávky.",
+    "paragraphs": [
+      "Tolerance je pokles odpovědi na stejnou dávku při opakovaném působení.",
+      "Původní účinek může vyžadovat vyšší dávku; jde o popis adaptace, nikoli doporučení dávku zvyšovat.",
+      "Tolerance vůči jednomu účinku neznamená ochranu před všemi toxickými účinky."
+    ],
+    "memory": "Tolerance = menší účinek stejné dávky."
+  },
+  {
+    "id": 815,
+    "category": "Závislost",
+    "bookRef": "str. 196",
+    "sourcePages": "196",
+    "question": "Jaký je rozdíl mezi tolerancí a abstinenčními příznaky?",
+    "options": [
+      "Oba pojmy označují vyloučení látky ledvinou bez reakce těla",
+      "Tolerance mění účinek stejné dávky, abstinenční příznaky vznikají při omezení látky",
+      "Oba pojmy znamenají pouze zvýšenou chuť k jídlu",
+      "Tolerance vzniká jen po narození a abstinence jen před početím"
+    ],
+    "answer": 1,
+    "title": "Tolerance: účinek dávky. Abstinenční stav: omezení látky.",
+    "paragraphs": [
+      "Tolerance a abstinenční projevy popisují různé stránky adaptace na látku.",
+      "U prvního se ptáš, jak působí dávka; u druhého, co se stane při jejím omezení.",
+      "Mohou se kombinovat, ale nesmějí se vydávat za stejný děj."
+    ],
+    "memory": "Tolerance: účinek dávky. Abstinenční stav: omezení látky."
+  },
+  {
+    "id": 816,
+    "category": "Závislost",
+    "bookRef": "str. 195–196",
+    "sourcePages": "195–196",
+    "question": "Co v souvislosti s drogami označuje euforie?",
+    "options": [
+      "Výrazně příjemnou náladu nebo pocit pohody",
+      "Trvalé poškození kosti",
+      "Ztrátu všech receptorů bolesti",
+      "Typ krevní skupiny"
+    ],
+    "answer": 0,
+    "title": "Euforie = výrazně příjemné naladění.",
+    "paragraphs": [
+      "Euforie je označení pro velmi příjemné naladění.",
+      "Jde o popis subjektivního prožitku, který může mít různé příčiny.",
+      "Přítomnost euforie neprokazuje zdraví ani bezpečnost látky a není sama definicí závislosti."
+    ],
+    "memory": "Euforie = výrazně příjemné naladění."
+  },
+  {
+    "id": 817,
+    "category": "Závislost",
+    "bookRef": "str. 196–198",
+    "sourcePages": "196–198",
+    "question": "Proč mohou kombinace psychoaktivních látek zvyšovat riziko?",
+    "options": [
+      "Každá kombinace se vždy dokonale zneškodní",
+      "Látky při smíchání automaticky ztratí účinek",
+      "Kombinace zabrání přestupu látek do krve",
+      "Jejich účinky se mohou vzájemně zesilovat nebo jinak ovlivňovat"
+    ],
+    "answer": 3,
+    "title": "Kombinace může změnit a zesílit účinky.",
+    "paragraphs": [
+      "Působení více látek nemusí odpovídat jednoduchému součtu pocitů.",
+      "Jedna látka může změnit účinek druhé na nervovou soustavu nebo jiné orgány.",
+      "Otázka nepopisuje dávky ani návod k užívání; důležitý je princip interakce."
+    ],
+    "memory": "Kombinace může změnit a zesílit účinky."
+  },
+  {
+    "id": 818,
+    "category": "Závislost a infekce",
+    "bookRef": "str. 198",
+    "sourcePages": "198",
+    "question": "Proč sdílení injekčních jehel umožňuje přenos některých infekcí?",
+    "options": [
+      "Protože všechny infekce vznikají působením vzduchu",
+      "Protože kov vždy přímo mění počet chromozomů",
+      "Může přenést kontaminovanou krev mezi lidmi",
+      "Protože jehla vytváří viry z kovu"
+    ],
+    "answer": 2,
+    "title": "Sdílená kontaminovaná jehla může přenést krevní infekci.",
+    "paragraphs": [
+      "Na kontaminovaném vybavení může zůstat krev s infekčním původcem.",
+      "Další vpich může přenést biologický materiál do těla dalšího člověka.",
+      "Riziko souvisí s přenosem původce, nikoli s tím, že by jehla sama vyráběla HIV nebo viry hepatitid."
+    ],
+    "memory": "Sdílená kontaminovaná jehla může přenést krevní infekci."
+  },
+  {
+    "id": 819,
+    "category": "Kouření",
+    "bookRef": "str. 198–199",
+    "sourcePages": "198–199",
+    "question": "Která látka tabáku je hlavním původcem nikotinové závislosti?",
+    "options": [
+      "Chlorid sodný",
+      "Nikotin",
+      "Kyslík",
+      "Voda"
+    ],
+    "answer": 1,
+    "title": "Nikotin je hlavní návyková látka tabáku.",
+    "paragraphs": [
+      "Nikotin je psychoaktivní a návyková složka tabáku.",
+      "Ovlivňuje nervovou soustavu a podílí se na opakovaném nutkání užívat tabák.",
+      "Není však jedinou škodlivou složkou kouře; další látky mají jiné účinky."
+    ],
+    "memory": "Nikotin je hlavní návyková látka tabáku."
+  },
+  {
+    "id": 820,
+    "category": "Kouření",
+    "bookRef": "str. 199",
+    "sourcePages": "199",
+    "question": "Proč oxid uhelnatý z kouře zhoršuje přenos kyslíku krví?",
+    "options": [
+      "Váže se na hemoglobin a omezuje jeho využití pro kyslík",
+      "Mění všechen kyslík na dusík",
+      "Vyrábí nové funkční erytrocyty během sekund",
+      "Nemůže vstupovat do krve"
+    ],
+    "answer": 0,
+    "title": "CO obsazuje hemoglobin a zhoršuje přenos kyslíku.",
+    "paragraphs": [
+      "Oxid uhelnatý vytváří s hemoglobinem karboxyhemoglobin.",
+      "Obsazené vazebné místo není běžně k dispozici pro přenos kyslíku.",
+      "Nejde o totéž co oxid uhličitý; názvy podobných plynů se nesmějí zaměňovat."
+    ],
+    "memory": "CO obsazuje hemoglobin a zhoršuje přenos kyslíku."
+  },
+  {
+    "id": 821,
+    "category": "Kouření",
+    "bookRef": "str. 199",
+    "sourcePages": "199",
+    "question": "Co znamená karcinogenní účinek některých složek tabákového kouře?",
+    "options": [
+      "Spolehlivě chrání všechny buňky před mutacemi",
+      "Zaručují vznik nádoru po jediném kontaktu",
+      "Týká se pouze tvorby svalové síly",
+      "Mohou přispívat ke vzniku zhoubných nádorů"
+    ],
+    "answer": 3,
+    "title": "Karcinogen může podporovat vznik nádoru.",
+    "paragraphs": [
+      "Karcinogenní látky mohou zvyšovat pravděpodobnost nádorového onemocnění.",
+      "Jde o působení na buněčné procesy, nikoli pouze o krátkodobý pocit po kouření.",
+      "Zvýšení rizika není jistota stejného výsledku u každého; výjimka v okolí riziko nevyvrací."
+    ],
+    "memory": "Karcinogen může podporovat vznik nádoru."
+  },
+  {
+    "id": 822,
+    "category": "Kouření",
+    "bookRef": "str. 198–199",
+    "sourcePages": "198–199",
+    "question": "Co se rozumí pasivním kouřením?",
+    "options": [
+      "Pití vody při kouření",
+      "Tvorba nikotinu v játrech nekuřáka",
+      "Vdechování tabákového kouře z okolí nekuřákem",
+      "Výhradně kouření bez zapalování"
+    ],
+    "answer": 2,
+    "title": "Pasivní kouření = kouř z okolí.",
+    "paragraphs": [
+      "Kouř v prostředí může působit také na lidi, kteří sami nekouří.",
+      "Zdroj je u jiné osoby, ale znečištěný vzduch dýchají i okolní lidé.",
+      "Nepřítomnost vlastní cigarety neznamená nepřítomnost expozice kouři."
+    ],
+    "memory": "Pasivní kouření = kouř z okolí."
+  },
+  {
+    "id": 823,
+    "category": "Pohlavně přenosné infekce",
+    "bookRef": "str. 199",
+    "sourcePages": "199",
+    "question": "Který původce způsobuje syfilis?",
+    "options": [
+      "Kvasinka jako jediný původce",
+      "Bakterie Treponema pallidum",
+      "Virus chřipky",
+      "Prvok Plasmodium"
+    ],
+    "answer": 1,
+    "title": "Syfilis: Treponema pallidum.",
+    "paragraphs": [
+      "Syfilis neboli příjici způsobuje bakterie Treponema pallidum.",
+      "Při učení spoj jeden název nemoci s konkrétním původcem.",
+      "Pohlavně přenosné infekce nejsou jedna choroba a nemají všechny stejný typ původce."
+    ],
+    "memory": "Syfilis: Treponema pallidum."
+  },
+  {
+    "id": 824,
+    "category": "Pohlavně přenosné infekce",
+    "bookRef": "str. 200",
+    "sourcePages": "200",
+    "question": "Který původce způsobuje kapavku?",
+    "options": [
+      "Bakterie Neisseria gonorrhoeae",
+      "Virus HIV",
+      "Bakterie způsobující tetanus",
+      "Parazit Toxoplasma gondii"
+    ],
+    "answer": 0,
+    "title": "Kapavka: Neisseria gonorrhoeae.",
+    "paragraphs": [
+      "Kapavku vyvolává bakterie Neisseria gonorrhoeae.",
+      "Druhové jméno připomíná odborný název choroby gonorrhoea.",
+      "Podobné obtíže mohou mít i jiné příčiny; samotný příznak neurčuje původce."
+    ],
+    "memory": "Kapavka: Neisseria gonorrhoeae."
+  },
+  {
+    "id": 825,
+    "category": "Pohlavně přenosné infekce",
+    "bookRef": "str. 200",
+    "sourcePages": "200",
+    "question": "Do které skupiny původců patří chlamydie?",
+    "options": [
+      "Mezi lidské hormony",
+      "Mezi mnohobuněčné červy",
+      "Mezi pohlavní chromozomy",
+      "Mezi bakterie"
+    ],
+    "answer": 3,
+    "title": "Chlamydie jsou bakterie.",
+    "paragraphs": [
+      "Chlamydie jsou bakterie, přestože žijí a množí se uvnitř hostitelských buněk.",
+      "Závislost na buňce hostitele z nich automaticky nedělá viry.",
+      "Starší zařazování mezi viry se nepoužívá; rozhoduje biologická stavba a příslušnost organismu."
+    ],
+    "memory": "Chlamydie jsou bakterie."
+  },
+  {
+    "id": 826,
+    "category": "Pohlavně přenosné infekce",
+    "bookRef": "str. 200",
+    "sourcePages": "200",
+    "question": "Jaký typ organismu je Trichomonas vaginalis?",
+    "options": [
+      "Bakteriální spora",
+      "Virus s označením HIV",
+      "Jednobuněčný eukaryotický parazit",
+      "Lidský erytrocyt"
+    ],
+    "answer": 2,
+    "title": "Trichomonas je prvok.",
+    "paragraphs": [
+      "Trichomonas vaginalis je prvok způsobující trichomoniázu.",
+      "Má eukaryotickou buněčnou stavbu, na rozdíl od bakterií.",
+      "Není správné všechny pohlavně přenosné infekce označit automaticky za bakteriální."
+    ],
+    "memory": "Trichomonas je prvok."
+  },
+  {
+    "id": 827,
+    "category": "HIV a AIDS",
+    "bookRef": "str. 200",
+    "sourcePages": "200",
+    "question": "Jaký je vztah mezi HIV a AIDS?",
+    "options": [
+      "AIDS je běžná fáze každé rýmy",
+      "HIV je virus; AIDS je pokročilý syndrom při infekci HIV",
+      "HIV je bakterie a AIDS typ očkovací látky",
+      "Jde o dva názvy téže krevní buňky"
+    ],
+    "answer": 1,
+    "title": "HIV je virus, AIDS syndrom.",
+    "paragraphs": [
+      "HIV označuje původce infekce, AIDS její pokročilý stav s těžkou poruchou imunity.",
+      "Název viru není totéž jako název syndromu.",
+      "Infekce HIV se díky léčbě nemusí rozvinout do AIDS; průběh není nevyhnutelně stejný u všech lidí."
+    ],
+    "memory": "HIV je virus, AIDS syndrom."
+  },
+  {
+    "id": 828,
+    "category": "HIV a AIDS",
+    "bookRef": "str. 200",
+    "sourcePages": "200",
+    "question": "Které imunitní buňky HIV významně napadá?",
+    "options": [
+      "CD4 pozitivní pomocné T lymfocyty",
+      "Pouze bezjaderné erytrocyty",
+      "Výhradně krevní destičky",
+      "Jen osteocyty"
+    ],
+    "answer": 0,
+    "title": "HIV významně poškozuje CD4 T lymfocyty.",
+    "paragraphs": [
+      "HIV napadá mimo jiné CD4 pozitivní T lymfocyty důležité pro koordinaci imunity.",
+      "Narušení koordinačních buněk oslabuje souhru více obranných mechanismů.",
+      "Virus může zasahovat i další buňky; otázka neříká, že uvedený typ je jediným cílem."
+    ],
+    "memory": "HIV významně poškozuje CD4 T lymfocyty."
+  },
+  {
+    "id": 829,
+    "category": "HIV a AIDS",
+    "bookRef": "str. 200–201",
+    "sourcePages": "200–201",
+    "question": "Která situace představuje možnou cestu přenosu HIV?",
+    "options": [
+      "Běžné podání ruky",
+      "Společné sezení ve třídě",
+      "Použití stejné kliky bez kontaktu s krví",
+      "Kontakt s kontaminovanou krví při sdílení jehel"
+    ],
+    "answer": 3,
+    "title": "Rozhoduje cesta přenosu, ne blízkost člověka.",
+    "paragraphs": [
+      "HIV se může přenést určitými tělními tekutinami, například krví.",
+      "Přenos vyžaduje konkrétní biologickou cestu, nikoli prostou blízkost člověka.",
+      "Riziko nelze určit podle vzhledu osoby a běžný společenský kontakt HIV nepřenáší."
+    ],
+    "memory": "Rozhoduje cesta přenosu, ne blízkost člověka."
+  },
+  {
+    "id": 830,
+    "category": "HIV a AIDS",
+    "bookRef": "str. 201",
+    "sourcePages": "201",
+    "question": "Které tvrzení o běžném společenském kontaktu s člověkem žijícím s HIV je správné?",
+    "options": [
+      "Virus přenáší každý společný nádech",
+      "Každá společná židle je zdrojem infekce",
+      "Objímání a podání ruky nejsou cestou přenosu HIV",
+      "HIV se šíří každým pohledem"
+    ],
+    "answer": 2,
+    "title": "HIV se nepřenáší objetím ani podáním ruky.",
+    "paragraphs": [
+      "HIV se nepřenáší běžným dotykem ani společným pobytem.",
+      "Je třeba rozlišovat konkrétní rizikové tělní tekutiny a vstupní cestu od běžného soužití.",
+      "Odmítání lidí při běžném kontaktu tedy nemá biologické opodstatnění."
+    ],
+    "memory": "HIV se nepřenáší objetím ani podáním ruky."
+  },
+  {
+    "id": 831,
+    "category": "HIV a AIDS",
+    "bookRef": "str. 201",
+    "sourcePages": "201",
+    "question": "Proč komáří bodnutí nepovažujeme za cestu přenosu HIV?",
+    "options": [
+      "Všechny viry jsou příliš velké pro komára",
+      "HIV není infekce přenášená komáry",
+      "Každý komár vytváří očkovací látku proti HIV",
+      "Komáři nikdy nepřicházejí do styku s krví"
+    ],
+    "answer": 1,
+    "title": "Komáři HIV nepřenášejí.",
+    "paragraphs": [
+      "HIV se komářím bodnutím nepřenáší.",
+      "Přenos hmyzem vyžaduje specifický vztah původce, přenašeče a hostitele; samotné sání krve nestačí.",
+      "To nevylučuje, že komáři mohou přenášet jiné konkrétní infekce."
+    ],
+    "memory": "Komáři HIV nepřenášejí."
+  },
+  {
+    "id": 832,
+    "category": "Genetické choroby",
+    "bookRef": "str. 201",
+    "sourcePages": "201",
+    "question": "Proč je pojem genetická choroba širší než dědičná choroba?",
+    "options": [
+      "Genetická změna může vzniknout nově a nemusí být zděděna od rodiče",
+      "Protože genetické choroby nemají vztah k DNA",
+      "Protože každá infekce je dědičná",
+      "Protože dědičné choroby vznikají pouze působením chladu"
+    ],
+    "answer": 0,
+    "title": "Genetické neznamená vždy zděděné.",
+    "paragraphs": [
+      "Genetické podmínění neznamená nutně přenos dané změny z rodiče.",
+      "Změna může vzniknout nově při tvorbě gamety nebo během vývoje.",
+      "Dědičnost popisuje přenos mezi generacemi, genetické podmínění příčinu v genetické informaci."
+    ],
+    "memory": "Genetické neznamená vždy zděděné."
+  },
+  {
+    "id": 833,
+    "category": "Genetické choroby",
+    "bookRef": "str. 201",
+    "sourcePages": "201",
+    "question": "Co může být biologickým podkladem genetické choroby?",
+    "options": [
+      "Pouze znečištění oblečení",
+      "Výhradně naučený pohyb",
+      "Jen přechodné mrknutí",
+      "Změna genu nebo počtu či stavby chromozomů"
+    ],
+    "answer": 3,
+    "title": "Změna může být genová i chromozomová.",
+    "paragraphs": [
+      "Genetické poruchy mohou zasáhnout jednotlivý gen i rozsáhlejší chromozomové uspořádání.",
+      "Představ si rozdíl mezi změnou konkrétního pokynu a změnou velké části jeho nosiče.",
+      "Ne každá genetická varianta je chorobná; genetická odlišnost sama neznamená nemoc."
+    ],
+    "memory": "Změna může být genová i chromozomová."
+  },
+  {
+    "id": 834,
+    "category": "Genetické choroby",
+    "bookRef": "str. 201",
+    "sourcePages": "201",
+    "question": "Co označuje přenašeč dědičné varianty v běžném školním příkladu?",
+    "options": [
+      "Pouze člověka bez jakékoli DNA",
+      "Vždy člověka s těžkými projevy každé choroby",
+      "Člověka, který nese variantu a může ji předat, i když sám nemusí mít projevy choroby",
+      "Komára přenášejícího všechny genetické choroby"
+    ],
+    "answer": 2,
+    "title": "Variantu lze nést i bez plného projevu choroby.",
+    "paragraphs": [
+      "Genetická varianta může být přítomna bez plného projevu onemocnění.",
+      "Nositel ji přesto může předat potomkovi podle příslušného způsobu dědičnosti.",
+      "Výraz přenašeč má v infekcích jiný kontext; genetická choroba se nepřenáší obyčejným dotykem."
+    ],
+    "memory": "Variantu lze nést i bez plného projevu choroby."
+  },
+  {
+    "id": 835,
+    "category": "Genetické choroby",
+    "bookRef": "str. 201",
+    "sourcePages": "201",
+    "question": "S čím souvisí hemofilie A uvedená v učebnici?",
+    "options": [
+      "S přeměnou erytrocytů na spermie",
+      "S nedostatkem nebo poruchou funkce koagulačního faktoru VIII",
+      "S úplnou nepřítomností inzulinu v potravě",
+      "S nadbytečnou tvorbou žluči"
+    ],
+    "answer": 1,
+    "title": "Hemofilie A souvisí s faktorem VIII.",
+    "paragraphs": [
+      "Hemofilie A je porucha krevního srážení spojená s faktorem VIII.",
+      "Srážení potřebuje navazující spolupráci více faktorů; porucha jednoho může narušit celý sled.",
+      "Nejde o všechny možné typy krvácení ani o tvrzení, že každá hemofilie má stejný chybějící faktor."
+    ],
+    "memory": "Hemofilie A souvisí s faktorem VIII."
+  },
+  {
+    "id": 836,
+    "category": "Genetické choroby",
+    "bookRef": "str. 201",
+    "sourcePages": "201",
+    "question": "Na kterém chromozomu leží gen pro faktor VIII v příkladu hemofilie A?",
+    "options": [
+      "Na chromozomu X",
+      "Na chromozomu Y",
+      "Výhradně v mitochondriální DNA",
+      "Na všech chromozomech jako stejná kopie"
+    ],
+    "answer": 0,
+    "title": "Hemofilie A je příklad vazby na X.",
+    "paragraphs": [
+      "Gen související s hemofilií A leží na chromozomu X.",
+      "Proto se při vysvětlování přenosu uplatňuje vazba na pohlavní chromozom.",
+      "Poloha genu na X neznamená, že chromozom X obsahuje pouze geny pro pohlavní vývoj."
+    ],
+    "memory": "Hemofilie A je příklad vazby na X."
+  },
+  {
+    "id": 837,
+    "category": "Genetické choroby",
+    "bookRef": "str. 201",
+    "sourcePages": "201",
+    "question": "Co znamená nejběžnější forma trisomie 21 u Downova syndromu?",
+    "options": [
+      "Celkem pouze 21 chromozomů v každé buňce",
+      "Tři kopie všech lidských chromozomů",
+      "Chybění všech pohlavních chromozomů",
+      "Tři kopie chromozomu 21 místo obvyklých dvou"
+    ],
+    "answer": 3,
+    "title": "Trisomie 21 = navíc kopie chromozomu 21.",
+    "paragraphs": [
+      "Trisomie znamená přítomnost tří kopií určitého chromozomu.",
+      "Číslo 21 označuje konkrétní chromozom, nikoli celkový počet chromozomů.",
+      "Existují i jiné cytogenetické podoby Downova syndromu; otázka se výslovně týká běžné úplné trisomie."
+    ],
+    "memory": "Trisomie 21 = navíc kopie chromozomu 21."
+  },
+  {
+    "id": 838,
+    "category": "Genetické choroby",
+    "bookRef": "str. 201",
+    "sourcePages": "201",
+    "question": "Jak může chyba rozchodu chromozomů při meióze ovlivnit gametu?",
+    "options": [
+      "Nemůže ovlivnit počet chromozomů",
+      "Změní automaticky každý chromozom na bílkovinu",
+      "Může mít nadbytečný nebo chybějící chromozom",
+      "Vždy odstraní veškerou DNA ze všech gamet"
+    ],
+    "answer": 2,
+    "title": "Chyba rozchodu může změnit počet chromozomů.",
+    "paragraphs": [
+      "Při nesprávném rozdělení chromozomů mohou vzniknout gamety s neobvyklým počtem.",
+      "Rozděluješ-li dvojice do různých buněk, chyba může jednu buňku obohatit a druhou ochudit.",
+      "Oplození takové gamety nemusí vést k životaschopnému vývoji; následky nejsou vždy stejné."
+    ],
+    "memory": "Chyba rozchodu může změnit počet chromozomů."
+  },
+  {
+    "id": 839,
+    "category": "Vlivy prostředí",
+    "bookRef": "str. 201–202",
+    "sourcePages": "201–202",
+    "question": "Který příklad patří mezi biologické faktory prostředí ovlivňující zdraví?",
+    "options": [
+      "Toxická chemická látka bez živého původce",
+      "Choroboplodná bakterie",
+      "Ionizující záření",
+      "Hluk jako fyzikální podnět"
+    ],
+    "answer": 1,
+    "title": "Biologický faktor může být původce infekce.",
+    "paragraphs": [
+      "Biologické faktory zahrnují původce infekcí a parazity.",
+      "Na rozdíl od fyzikální energie nebo samotné chemické sloučeniny zde působí biologický původce.",
+      "Viry se do této praktické skupiny řadí také, přestože nemají buněčnou stavbu."
+    ],
+    "memory": "Biologický faktor může být původce infekce."
+  },
+  {
+    "id": 840,
+    "category": "Vlivy prostředí",
+    "bookRef": "str. 201–202",
+    "sourcePages": "201–202",
+    "question": "Který příklad patří mezi fyzikální faktory prostředí?",
+    "options": [
+      "Záření",
+      "Bakterie v potravě",
+      "Genová varianta zděděná od rodiče",
+      "Jednobuněčný parazit"
+    ],
+    "answer": 0,
+    "title": "Záření patří mezi fyzikální vlivy.",
+    "paragraphs": [
+      "Záření je fyzikální vliv působící energií.",
+      "Mezi další fyzikální podmínky patří například teplota.",
+      "Účinek závisí na druhu a intenzitě; ne každé záření má stejné biologické působení."
+    ],
+    "memory": "Záření patří mezi fyzikální vlivy."
+  },
+  {
+    "id": 841,
+    "category": "Vlivy prostředí",
+    "bookRef": "str. 201–202",
+    "sourcePages": "201–202",
+    "question": "Jak se mohou cizorodé látky z prostředí dostávat do organismu?",
+    "options": [
+      "Pouze pohledem na jejich název",
+      "Výhradně přes vlasové špičky bez kontaktu",
+      "Jen při vzniku zygoty",
+      "Například s potravou, vodou nebo vdechovaným vzduchem"
+    ],
+    "answer": 3,
+    "title": "Vstupní cesta ovlivňuje expozici látce.",
+    "paragraphs": [
+      "Učebnice uvádí více vstupních cest podle vlastností látky a prostředí.",
+      "Co je ve vzduchu, může být vdechnuto; co je ve vodě či jídle, může být přijato trávicí cestou.",
+      "Samotná přítomnost látky někde v okolí ještě neurčuje skutečně přijatou dávku."
+    ],
+    "memory": "Vstupní cesta ovlivňuje expozici látce."
+  },
+  {
+    "id": 842,
+    "category": "Civilizační choroby",
+    "bookRef": "str. 202",
+    "sourcePages": "202",
+    "question": "Jak učebnice používá pojem civilizační choroby?",
+    "options": [
+      "Pro všechny choroby způsobené pouze jedním genem",
+      "Pro nemoc vznikající jen u obyvatel měst bez výjimky",
+      "Pro skupinu často chronických neinfekčních nemocí souvisejících i se způsobem života a prostředím",
+      "Pro jedinou infekci přenášenou komárem"
+    ],
+    "answer": 2,
+    "title": "Civilizační choroby mají více souvisejících příčin.",
+    "paragraphs": [
+      "Jde o souhrnné označení různých neinfekčních onemocnění, ne o jedinou diagnózu.",
+      "Na jejich vzniku se mohou kombinovat prostředí, návyky, věk a dědičné předpoklady.",
+      "Název neznamená, že nemoc má vždy jedinou příčinu nebo že se vyskytuje jen v určitých společnostech."
+    ],
+    "memory": "Civilizační choroby mají více souvisejících příčin."
+  },
+  {
+    "id": 843,
+    "category": "Civilizační choroby",
+    "bookRef": "str. 202",
+    "sourcePages": "202",
+    "question": "Proč nepřítomnost výrazných potíží nevylučuje rozvíjející se chronické onemocnění?",
+    "options": [
+      "Příznaky se nikdy nevztahují k tělu",
+      "Některé změny mohou dlouho probíhat bez nápadných příznaků",
+      "Každá nemoc vždy okamžitě vyvolá vysokou horečku",
+      "Bez bolesti nemůže vzniknout žádná změna tkáně"
+    ],
+    "answer": 1,
+    "title": "Biologická změna může předcházet příznakům.",
+    "paragraphs": [
+      "Chronické změny se mohou rozvíjet postupně a zpočátku nenápadně.",
+      "Mezi počátkem biologického procesu a jeho zřetelným projevem může být odstup.",
+      "Z toho nelze určovat konkrétní diagnózu; jde o vztah mezi změnou a jejím vnímáním."
+    ],
+    "memory": "Biologická změna může předcházet příznakům."
+  },
+  {
+    "id": 844,
+    "category": "Nádorové bujení",
+    "bookRef": "str. 202",
+    "sourcePages": "202",
+    "question": "Jaký buněčný děj souvisí se vznikem nádoru?",
+    "options": [
+      "Porucha regulace množení a přežívání buněk",
+      "Přesné plánované nahrazení každé buňky bez odchylek",
+      "Výhradně běžné rýhování zdravé zygoty",
+      "Pouhé zmenšení velikosti všech buněk bez dalších změn"
+    ],
+    "answer": 0,
+    "title": "U nádoru je narušena regulace buněčné populace.",
+    "paragraphs": [
+      "Nádorové bujení souvisí s narušením řízení buněčného růstu a množení.",
+      "Buněčná populace se přestává řídit obvyklými omezeními tkáně.",
+      "Ne každé normální dělení je nádorové; množení je nezbytné i při růstu a hojení."
+    ],
+    "memory": "U nádoru je narušena regulace buněčné populace."
+  },
+  {
+    "id": 845,
+    "category": "Vlivy prostředí",
+    "bookRef": "str. 202",
+    "sourcePages": "202",
+    "question": "Jak je správné chápat působení více rizikových faktorů současně?",
+    "options": [
+      "Každý další rizikový faktor vždy odstraní předchozí",
+      "Všechny se navzájem automaticky vyruší",
+      "Na zdraví může vždy působit jen jediný faktor",
+      "Mohou se kombinovat a jejich účinky se mohou ovlivňovat"
+    ],
+    "answer": 3,
+    "title": "Rizikové vlivy se mohou kombinovat.",
+    "paragraphs": [
+      "Organismus bývá vystaven více vlivům zároveň.",
+      "Celkový výsledek závisí na souhře, délce působení i vlastnostech člověka.",
+      "Nelze z toho bez dalších údajů vytvořit jednoduchý výpočet rizika pro konkrétní osobu."
+    ],
+    "memory": "Rizikové vlivy se mohou kombinovat."
+  },
+  {
+    "id": 846,
+    "category": "Odpočinek a únava",
+    "bookRef": "str. 202–203",
+    "sourcePages": "202–203",
+    "question": "Co je aktivní odpočinek v pojetí učebnice?",
+    "options": [
+      "Úplné nahrazení spánku kofeinem",
+      "Záměrné navyšování únavy za každou cenu",
+      "Změna druhu činnosti, která pomáhá obnově sil",
+      "Pokračování stejné vyčerpávající činnosti bez přestávky"
+    ],
+    "answer": 2,
+    "title": "Aktivní odpočinek mění typ zatížení.",
+    "paragraphs": [
+      "Aktivní odpočinek může spočívat ve střídání fyzické a duševní činnosti.",
+      "Jiný typ přiměřené aktivity může odlehčit právě přetěžované oblasti.",
+      "Neznamená to, že pohyb nahradí veškerý spánek nebo že je vhodná jakákoli intenzita při vyčerpání."
+    ],
+    "memory": "Aktivní odpočinek mění typ zatížení."
+  },
+  {
+    "id": 847,
+    "category": "Odpočinek a únava",
+    "bookRef": "str. 202–203",
+    "sourcePages": "202–203",
+    "question": "Jak se může projevovat únava při náročné činnosti?",
+    "options": [
+      "Trvalou nezávislostí na spánku",
+      "Sníženou soustředěností a vnímavostí",
+      "Vždy dokonalou pozorností",
+      "Jistým zlepšením všech smyslů"
+    ],
+    "answer": 1,
+    "title": "Únava může snižovat pozornost.",
+    "paragraphs": [
+      "Učebnice uvádí při únavě malátnost, ospalost a zhoršenou soustředěnost.",
+      "Systém nedokáže dlouhodobě udržovat stejnou úroveň výkonu bez obnovy.",
+      "Tyto projevy nejsou výlučné pro únavu a samy neurčují lékařskou diagnózu."
+    ],
+    "memory": "Únava může snižovat pozornost."
+  },
+  {
+    "id": 848,
+    "category": "Pohlavně přenosné infekce",
+    "bookRef": "str. 200–201",
+    "sourcePages": "200–201",
+    "question": "Co označuje přenos infekce z matky na dítě?",
+    "options": [
+      "Vertikální cestu přenosu",
+      "Genetickou dědičnost všech mikroorganismů",
+      "Výhradně přenos podáním ruky mezi spolužáky",
+      "Změnu bakterie na lidský chromozom"
+    ],
+    "answer": 0,
+    "title": "Infekční přenos na dítě není totéž co genetická dědičnost.",
+    "paragraphs": [
+      "Některé infekce se mohou přenášet v těhotenství, při porodu nebo jinou cestou z matky na dítě.",
+      "Jde o přenos původce mezi organismy, nikoli o zdědění lidské genové varianty.",
+      "Konkrétní možnosti přenosu se liší podle původce; ne každá infekce se přenáší ve všech těchto situacích."
+    ],
+    "memory": "Infekční přenos na dítě není totéž co genetická dědičnost."
+  },
+  {
+    "id": 849,
+    "category": "Genetické choroby",
+    "bookRef": "str. 201",
+    "sourcePages": "201",
+    "question": "Proč může změna jednoho genu ovlivnit funkci celé tkáně?",
+    "options": [
+      "Protože každý gen tvoří samostatný celý orgán bez buněk",
+      "Protože bílkoviny nemají vztah k činnosti buněk",
+      "Protože geny jsou uloženy pouze mimo tělo",
+      "Může změnit množství nebo funkci důležité bílkoviny"
+    ],
+    "answer": 3,
+    "title": "Gen může ovlivnit tkáň prostřednictvím bílkoviny.",
+    "paragraphs": [
+      "Genetická informace se uplatňuje mimo jiné prostřednictvím bílkovin.",
+      "Porucha jedné potřebné součásti může narušit navazující buněčné a tkáňové procesy.",
+      "Ne každá varianta genu však musí mít zjistitelný účinek nebo vést k chorobě."
+    ],
+    "memory": "Gen může ovlivnit tkáň prostřednictvím bílkoviny."
+  },
+  {
+    "id": 850,
+    "category": "Infekce dýchací soustavy",
+    "bookRef": "str. 75",
+    "sourcePages": "75",
+    "question": "Který původce je klasicky spojen s tuberkulózou?",
+    "options": [
+      "Prvok Trichomonas vaginalis",
+      "Běžný chřipkový virus",
+      "Bakterie Mycobacterium tuberculosis",
+      "Virus HIV jako jediný původce"
+    ],
+    "answer": 2,
+    "title": "Tuberkulóza: Mycobacterium tuberculosis.",
+    "paragraphs": [
+      "Hlavním původcem lidské tuberkulózy je Mycobacterium tuberculosis.",
+      "Jde o bakterii, nikoli virus; rozlišení původců je základ biologického vysvětlení infekcí.",
+      "Otázka neurčuje diagnózu podle příznaků ani nepopisuje léčebný postup."
+    ],
+    "memory": "Tuberkulóza: Mycobacterium tuberculosis."
+  }
+]

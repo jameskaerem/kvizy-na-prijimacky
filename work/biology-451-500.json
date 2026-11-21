@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 451,
+    "category": "CNS a mícha",
+    "bookRef": "str. 121",
+    "sourcePages": "121",
+    "question": "Co znamená centralizace neuronů ve vývoji nervové soustavy?",
+    "options": [
+      "Rovnoměrné rozpuštění neuronů v krevní plazmě",
+      "Přeměnu všech neuronů v kosterní svaly",
+      "Zánik všech spojení mezi neurony",
+      "Soustřeďování neuronů do nervových center"
+    ],
+    "answer": 3,
+    "title": "Centralizace vytváří nervová centra",
+    "paragraphs": [
+      "Centralizace je soustřeďování neuronů do nervových center. Spolu s jejich propojením rozšiřuje možnosti řízení organismu jako celku.",
+      "Představ si vznik společných zpracovatelských uzlů namísto pouhých izolovaných místních reakcí. Více informací se může setkávat a ovlivňovat.",
+      "Neznamená to, že všechny neurony musejí být pouze v mozku. Periferní nervové struktury i mícha nadále plní důležité funkce."
+    ],
+    "memory": "Centralizace = vytváření nervových center."
+  },
+  {
+    "id": 452,
+    "category": "CNS a mícha",
+    "bookRef": "str. 121",
+    "sourcePages": "121",
+    "question": "Co označuje cefalizace?",
+    "options": [
+      "Soustředění významných nervových a smyslových struktur do hlavové oblasti",
+      "Přesun celého mozku do dolní končetiny",
+      "Vznik močovodu z nervové trubice",
+      "Rozptýlení hlavních smyslů výhradně do zadního konce těla"
+    ],
+    "answer": 0,
+    "title": "Cefalizace souvisí s hlavovým koncem",
+    "paragraphs": [
+      "Při cefalizaci se významná nervová centra a smyslové struktury soustřeďují v hlavové oblasti. Učebnice ji spojuje také s pohybem těla směrem dopředu.",
+      "Představ si přední část pohybujícího se organismu, která jako první získává informace o prostředí. Blízkost čidel a center usnadňuje jejich propojení.",
+      "Cefalizace není totéž co centralizace obecně. Je to soustředění se zvláštním důrazem na hlavovou oblast."
+    ],
+    "memory": "Cefalizace = nervová centra a čidla směrem k hlavě."
+  },
+  {
+    "id": 453,
+    "category": "CNS a mícha",
+    "bookRef": "str. 121",
+    "sourcePages": "121",
+    "question": "Ze kterého zárodečného listu se zakládá nervová trubice obratlovců?",
+    "options": [
+      "Z krevní plazmy dospělého",
+      "Z ektodermu",
+      "Z entodermu jako výstelka střeva",
+      "Z hotové zubní skloviny"
+    ],
+    "answer": 1,
+    "title": "Základ nervové soustavy pochází z ektodermu",
+    "paragraphs": [
+      "Nervová trubice se vyvíjí z ektodermu. Z této struktury vznikají hlavní části centrální nervové soustavy.",
+      "Představ si raný společný základ, který se později prostorově rozrůzní. Dospělá stavba má původ v postupném embryonálním vývoji.",
+      "To neznamená, že všechny tkáně kolem nervové soustavy mají totožný vývojový původ. Otázka míří konkrétně na nervovou trubici."
+    ],
+    "memory": "Nervová trubice má ektodermový základ."
+  },
+  {
+    "id": 454,
+    "category": "CNS a mícha",
+    "bookRef": "str. 121",
+    "sourcePages": "121",
+    "question": "Co vzniká z hlavového a z navazující zadní části nervové trubice?",
+    "options": [
+      "Z celé trubice pouze periferní krev",
+      "Z hlavové části sklovina, ze zadní mozkový mok bez buněk",
+      "Z hlavové části mozek, z navazující zadní části mícha",
+      "Z hlavové části ledviny, ze zadní žlučník"
+    ],
+    "answer": 2,
+    "title": "Společný základ se rozliší na mozek a míchu",
+    "paragraphs": [
+      "Hlavový konec nervové trubice se rozvíjí v mozek. Navazující zadní část dává vznik míše.",
+      "Představ si souvislou trubicovitou strukturu, jejíž přední část se výrazně zvětšuje a člení. Základní návaznost zůstává patrná i v dospělé CNS.",
+      "Mozek a mícha tedy nejsou dvě vývojově zcela nesouvisející soustavy. Jsou propojenými částmi jednoho centrálního systému."
+    ],
+    "memory": "Hlavový konec → mozek; navazující část → mícha."
+  },
+  {
+    "id": 455,
+    "category": "CNS a mícha",
+    "bookRef": "str. 121",
+    "sourcePages": "121",
+    "question": "Kolik párů míšních nervů má člověk?",
+    "options": [
+      "12 párů",
+      "Jedno nepárové vlákno",
+      "Přesně 100 párů",
+      "31 párů"
+    ],
+    "answer": 3,
+    "title": "Míšní nervy tvoří párové výstupy",
+    "paragraphs": [
+      "U člověka rozlišujeme 31 párů míšních nervů. Jsou uspořádány podle jednotlivých oblastí podél páteře.",
+      "Představ si opakované párové napojení na obou stranách míchy. Počet párů není totéž co počet jednotlivých nervů.",
+      "S hlavovými nervy se tento údaj nezaměňuje. Těch se standardně rozlišuje 12 párů."
+    ],
+    "memory": "Míšní nervy: 31 párů."
+  },
+  {
+    "id": 456,
+    "category": "CNS a mícha",
+    "bookRef": "str. 121–122",
+    "sourcePages": "121–122",
+    "question": "Co převážně charakterizuje šedou hmotu míchy?",
+    "options": [
+      "Oblasti bohaté na těla neuronů, jejich výběžky a synaptická spojení",
+      "Pouze prázdný prostor s močovinou",
+      "Výhradně svazky šlach bez neuronů",
+      "Jen souvislá vrstva kostního minerálu"
+    ],
+    "answer": 0,
+    "title": "Šedá hmota obsahuje buněčná zpracovatelská místa",
+    "paragraphs": [
+      "Šedá hmota zahrnuje těla neuronů, dendrity a četná spojení, spolu s dalšími buněčnými složkami. V míše se zde zapojují místní nervové obvody.",
+      "Představ si oblast s mnoha zpracovatelskými uzly, nikoli pouze dálková vedení. Její stavba souvisí s integrací a přepojováním signálů.",
+      "Ani šedá hmota není tvořena jen buněčnými těly. Základní rozlišení vyjadřuje převažující uspořádání, ne absolutně jedinou složku."
+    ],
+    "memory": "Šedá hmota: těla neuronů a místní spojení."
+  },
+  {
+    "id": 457,
+    "category": "CNS a mícha",
+    "bookRef": "str. 121–122",
+    "sourcePages": "121–122",
+    "question": "Co tvoří významnou součást bílé hmoty míchy?",
+    "options": [
+      "Výhradně dutiny s potním sekretem",
+      "Svazky axonů, z nichž mnohé mají myelinové pochvy",
+      "Pouze těla červených krvinek",
+      "Hlavně chrupavkové ploténky"
+    ],
+    "answer": 1,
+    "title": "Bílá hmota obsahuje spojovací dráhy",
+    "paragraphs": [
+      "Bílá hmota míchy obsahuje nervová vlákna uspořádaná do drah. K jejímu světlému vzhledu přispívá myelin četných axonů.",
+      "Představ si svazky vedení propojující různá místa. Některé cesty směřují výše, jiné níže nebo mezi míšními úseky.",
+      "Bílá hmota neznamená nepřítomnost živých buněk. Vedle vláken obsahuje například gliové buňky."
+    ],
+    "memory": "Bílá hmota: axonové dráhy s významným podílem myelinu."
+  },
+  {
+    "id": 458,
+    "category": "CNS a mícha",
+    "bookRef": "str. 121–122",
+    "sourcePages": "121–122",
+    "question": "Jak je na typickém příčném řezu míchou uspořádána šedá a bílá hmota?",
+    "options": [
+      "Obě vrstvy jsou vždy mimo páteřní kanál",
+      "Šedá hmota tvoří výhradně míšní nervy mimo CNS",
+      "Šedá hmota uvnitř přibližně ve tvaru H, bílá více při obvodu",
+      "Bílá hmota jen uvnitř tvaru H a šedá výhradně mimo míchu"
+    ],
+    "answer": 2,
+    "title": "Mícha má šedý vnitřek a bělejší okolí",
+    "paragraphs": [
+      "Na příčném řezu má šedá hmota přibližný tvar písmene H nebo motýla. Obklopuje ji bílá hmota s nervovými drahami.",
+      "Představ si centrální buněčné obvody a kolem nich hlavní spojovací vedení. Tento obraz pomáhá umístit i přední a zadní rohy.",
+      "Mozková kůra má jiné prostorové uspořádání než mícha. Schéma míchy se nesmí automaticky přenášet na celý mozek."
+    ],
+    "memory": "Řez míchou: šedé H uvnitř, bílá hmota kolem."
+  },
+  {
+    "id": 459,
+    "category": "CNS a mícha",
+    "bookRef": "str. 122",
+    "sourcePages": "122",
+    "question": "Kterými kořeny vstupují do míchy smyslová vlákna?",
+    "options": [
+      "Předními kořeny jako jedinou běžnou vstupní cestou",
+      "Přímo močovou trubicí",
+      "Výhradně přes mozkový trámec",
+      "Zadními neboli dorzálními kořeny"
+    ],
+    "answer": 3,
+    "title": "Zadní kořeny přivádějí smyslové vstupy",
+    "paragraphs": [
+      "Smyslová vlákna přicházejí do míchy zadními kořeny. Jsou součástí dostředivého vedení z periferie.",
+      "Představ si vstupní vedení přivádějící zprávy k míšnímu zpracování. Následně mohou ovlivnit místní obvody nebo pokračovat k vyšším centrům.",
+      "Přední kořeny jsou výstupní. Zadní a přední proto není jen označení polohy bez funkčního významu."
+    ],
+    "memory": "Zadní kořen: smyslové informace dovnitř."
+  },
+  {
+    "id": 460,
+    "category": "CNS a mícha",
+    "bookRef": "str. 122",
+    "sourcePages": "122",
+    "question": "Kde jsou uložena buněčná těla primárních smyslových neuronů míšních nervů?",
+    "options": [
+      "V míšních gangliích na zadních kořenech mimo vlastní míchu",
+      "Výhradně v předních rozích jako těla somatických motoneuronů",
+      "V každém svalovém vlákně místo jeho jádra",
+      "V mozkových komorách volně v moku"
+    ],
+    "answer": 0,
+    "title": "Smyslové tělo leží v gangliu",
+    "paragraphs": [
+      "Buněčná těla primárních smyslových neuronů míšních nervů leží v míšních gangliích. Jejich výběžky propojují periferii s CNS.",
+      "Představ si tělo buňky v bočním uzlu a její vedení směřující k oběma stranám spojení. Není nutné umístit tělo přímo dovnitř míchy.",
+      "Somatické motorické neurony mají těla v předních rozích míchy. Právě tím se v tomto schématu liší od primárních smyslových neuronů."
+    ],
+    "memory": "Míšní smyslový neuron má tělo v zadním kořenovém gangliu."
+  },
+  {
+    "id": 461,
+    "category": "CNS a mícha",
+    "bookRef": "str. 122",
+    "sourcePages": "122",
+    "question": "Kde v míše leží těla somatických motorických neuronů ovládajících kosterní svalstvo?",
+    "options": [
+      "Výhradně v bílé hmotě bez spojení se šedou",
+      "V předních rozích šedé hmoty",
+      "Pouze v zadních kořenových gangliích",
+      "Ve žlučových cestách"
+    ],
+    "answer": 1,
+    "title": "Přední rohy obsahují somatické motoneurony",
+    "paragraphs": [
+      "Somatické motorické neurony mají těla v předních rozích míšní šedé hmoty. Jejich axony opouštějí míchu směrem ke kosterním svalům.",
+      "Představ si výstupní buňky, které převedou zpracovaný povel na vedení ke svalu. Jejich těla zůstávají v CNS, i když axony pokračují do periferie.",
+      "Nejde o všechna motorická centra celého nervového systému. Otázka se týká konkrétně míšních somatických motoneuronů."
+    ],
+    "memory": "Přední roh: tělo motoneuronu pro kosterní sval."
+  },
+  {
+    "id": 462,
+    "category": "CNS a mícha",
+    "bookRef": "str. 122",
+    "sourcePages": "122",
+    "question": "Kterými kořeny vystupují z míchy axony somatických motorických neuronů?",
+    "options": [
+      "Přes dutinu vnitřního ucha",
+      "Výhradně podél slzného kanálku",
+      "Předními neboli ventrálními kořeny",
+      "Zadními kořeny jako jedinou běžnou výstupní cestou"
+    ],
+    "answer": 2,
+    "title": "Přední kořeny odvádějí výstup",
+    "paragraphs": [
+      "Axony somatických motoneuronů opouštějí míchu předními kořeny. Pokračují do periferních nervů a ke kosterním svalům.",
+      "Představ si odchozí vedení od míšního výstupního článku. Smyslová informace vstupuje jinou kořenovou cestou.",
+      "Kořen není totéž co celý smíšený míšní nerv. Ve vzniklém nervu se pak vlákna různých směrů spojují."
+    ],
+    "memory": "Přední kořen: motorický výstup ven."
+  },
+  {
+    "id": 463,
+    "category": "CNS a mícha",
+    "bookRef": "str. 122",
+    "sourcePages": "122",
+    "question": "Proč označujeme běžný míšní nerv po spojení kořenů za smíšený?",
+    "options": [
+      "Protože musí obsahovat současně žluč a moč",
+      "Protože každé jeho vlákno vede vždy oběma směry zároveň",
+      "Protože v něm nejsou žádné nervové buňky ani výběžky",
+      "Obsahuje smyslová i motorická vlákna"
+    ],
+    "answer": 3,
+    "title": "Jeden nerv může nést různé typy vláken",
+    "paragraphs": [
+      "Po spojení vláken zadního a předního kořene obsahuje míšní nerv smyslové i motorické složky. Proto jej označujeme jako smíšený.",
+      "Představ si společný svazek, v němž vedou různé komunikační linky. Jednotlivé linky si přitom zachovávají své funkční směry.",
+      "Smíšený neznamená, že každý jednotlivý axon současně funguje jako smyslový i motorický. Mluvíme o složení celého svazku."
+    ],
+    "memory": "Smíšený nerv = smyslová i motorická vlákna."
+  },
+  {
+    "id": 464,
+    "category": "CNS a mícha",
+    "bookRef": "str. 122",
+    "sourcePages": "122",
+    "question": "Jaký je obecný směr vzestupných senzorických drah míchy?",
+    "options": [
+      "Od míšních úrovní směrem k mozku",
+      "Z mozku výhradně dolů ke svalům",
+      "Z močového měchýře přímo do vlasu",
+      "Jen z levé hemisféry do pravé přes trámec"
+    ],
+    "answer": 0,
+    "title": "Vzestupné dráhy vedou informace výše",
+    "paragraphs": [
+      "Vzestupné senzorické dráhy přenášejí informace od míšních úrovní k vyšším částem CNS. Umožňují další zpracování vstupů v mozku.",
+      "Představ si hlášení z místní pobočky do vyššího centra. Některé informace současně ovlivňují i míšní reflexní obvody.",
+      "Ne všechny smyslové informace z těla musejí vstupovat přes míchu. Otázka míří na směr drah, které v míše probíhají."
+    ],
+    "memory": "Vzestupné senzorické dráhy: směrem k mozku."
+  },
+  {
+    "id": 465,
+    "category": "CNS a mícha",
+    "bookRef": "str. 122",
+    "sourcePages": "122",
+    "question": "Co zprostředkovávají sestupné motorické dráhy z mozku do míchy?",
+    "options": [
+      "Tvorbu kožního pigmentu bez nervové činnosti",
+      "Vliv mozkových center na míšní motorické obvody a pohyb",
+      "Pouze návrat moči do ledvin",
+      "Výhradně přenos světla ze sítnice do čočky"
+    ],
+    "answer": 1,
+    "title": "Sestupné dráhy přinášejí vliv shora",
+    "paragraphs": [
+      "Sestupné motorické dráhy umožňují mozku ovlivňovat míšní neurony a jejich prostřednictvím svalovou činnost. Mícha tak není od mozku funkčně izolovaná.",
+      "Představ si pokyny z vyššího řídicího místa do místních výstupních obvodů. Mohou měnit cílený pohyb i nastavení reflexních reakcí.",
+      "To neznamená, že každý axon z mozku vede přímo bez přepojení až ke svalu. Často ovlivňuje míšní obvody přes další neurony."
+    ],
+    "memory": "Sestupné dráhy: mozek ovlivňuje míšní motoriku."
+  },
+  {
+    "id": 466,
+    "category": "Mozkový kmen a obaly",
+    "bookRef": "str. 123",
+    "sourcePages": "123",
+    "question": "Která trojice tvoří mozkový kmen?",
+    "options": [
+      "Talamus, hypotalamus a hypofýza",
+      "Pouze čelní, temenní a týlní lalok",
+      "Prodloužená mícha, most a střední mozek",
+      "Mozeček, obě hemisféry a mozkový trámec"
+    ],
+    "answer": 2,
+    "title": "Kmen má tři základní části",
+    "paragraphs": [
+      "Mozkový kmen tvoří prodloužená mícha, most a střední mozek. Navazuje na míchu a obsahuje významné dráhy i nervová centra.",
+      "Představ si centrální spojovací a řídicí oblast pod výše uloženými částmi mozku. Její činnost není omezena na pouhé vedení signálů.",
+      "Mozeček je s kmenem těsně propojen, ale do této trojice se nepočítá. Mezimozek také rozlišujeme zvlášť."
+    ],
+    "memory": "Mozkový kmen = prodloužená mícha + most + střední mozek."
+  },
+  {
+    "id": 467,
+    "category": "Mozkový kmen a obaly",
+    "bookRef": "str. 124",
+    "sourcePages": "124",
+    "question": "Kolik párů hlavových nervů standardně rozlišujeme u člověka?",
+    "options": [
+      "31 párů",
+      "Pouze jeden pár",
+      "Přesně 50 párů",
+      "12 párů"
+    ],
+    "answer": 3,
+    "title": "Hlavové nervy mají vlastní číslování",
+    "paragraphs": [
+      "U člověka standardně rozlišujeme 12 párů hlavových nervů. Označují se čísly a anatomickými názvy.",
+      "Představ si jinou skupinu spojení než párové nervy vycházející podél míchy. Číselné údaje těchto dvou skupin se liší.",
+      "Název hlavový neznamená, že všechna vlákna zůstávají jen v hlavě. Bloudivý nerv například zasahuje i k vnitřním orgánům."
+    ],
+    "memory": "Hlavové nervy: 12 párů; míšní: 31 párů."
+  },
+  {
+    "id": 468,
+    "category": "Mozkový kmen a obaly",
+    "bookRef": "str. 124",
+    "sourcePages": "124",
+    "question": "Který hlavový nerv se významně podílí na autonomním řízení vnitřních orgánů hrudníku a břicha?",
+    "options": [
+      "X. hlavový nerv neboli nervus vagus, bloudivý nerv",
+      "Zrakový nerv jako hlavní motorický nerv žaludku",
+      "Čichový nerv jako jediná cesta k srdci",
+      "Pouze nerv vedoucí ze sítnice do čočky"
+    ],
+    "answer": 0,
+    "title": "Bloudivý nerv vede i daleko od hlavy",
+    "paragraphs": [
+      "Bloudivý nerv je desátý hlavový nerv. Obsahuje mimo jiné autonomní vlákna k vnitřním orgánům a má i další funkční složky.",
+      "Představ si vedení, které z oblasti hlavy pokračuje hluboko do těla. Pojmenování hlavový tedy popisuje příslušnost nervu, ne pouze konečné místo působení.",
+      "Není to jen čistě motorický nerv ani jediná autonomní cesta celého těla. Otázka zdůrazňuje jeho významný podíl."
+    ],
+    "memory": "Vagus = X. hlavový nerv s dosahem do útrob."
+  },
+  {
+    "id": 469,
+    "category": "Mozkový kmen a obaly",
+    "bookRef": "str. 124",
+    "sourcePages": "124",
+    "question": "Co obsahují mozkové komory a centrální míšní kanálek?",
+    "options": [
+      "Nestrávenou potravu",
+      "Mozkomíšní mok neboli likvor",
+      "Za běžného stavu vzduch jako plicní sklípky",
+      "Kožní maz"
+    ],
+    "answer": 1,
+    "title": "Komorový systém obsahuje mozkomíšní mok",
+    "paragraphs": [
+      "Mozkové komory a centrální kanálek míchy jsou spojeny s mozkomíšním mokem. Ten se nachází také v prostoru kolem CNS.",
+      "Představ si navazující tekutinové prostory uvnitř a kolem centrálních nervových struktur. Nejsou to další krevní tepny.",
+      "Mozkomíšní mok není totožný s plnou krví. Komora vyplněná likvorem tedy není srdeční komora s obíhajícími krvinkami."
+    ],
+    "memory": "Komory a centrální kanálek obsahují likvor."
+  },
+  {
+    "id": 470,
+    "category": "Mozkový kmen a obaly",
+    "bookRef": "str. 124",
+    "sourcePages": "124",
+    "question": "Které komory spojuje mozkový mokovod neboli Sylviův kanálek?",
+    "options": [
+      "Močový měchýř s ledvinnou pánvičkou",
+      "Pouze levou síň s pravou komorou",
+      "Třetí a čtvrtou mozkovou komoru",
+      "Obě srdeční komory"
+    ],
+    "answer": 2,
+    "title": "Mokovod propojuje dvě mozkové komory",
+    "paragraphs": [
+      "Mozkový mokovod spojuje třetí komoru se čtvrtou. Je součástí návaznosti tekutinových prostor mozku.",
+      "Představ si úzký spojovací úsek mezi dvěma dutinami. Jeho název se vztahuje k mozkomíšnímu moku.",
+      "Není to céva s tepennou krví ani močovod. Podobnost slova kanálek neznamená stejný orgánový systém."
+    ],
+    "memory": "Mokovod propojuje III. a IV. komoru."
+  },
+  {
+    "id": 471,
+    "category": "Mozkový kmen a obaly",
+    "bookRef": "str. 124",
+    "sourcePages": "124",
+    "question": "Jak jdou mozkové pleny od povrchu směrem k nervové tkáni?",
+    "options": [
+      "Omozečnice → tvrdá plena → pokožka",
+      "Pavučnice → kostní dřeň → sklovina",
+      "Tvrdá plena → pohrudnice → pobřišnice",
+      "Tvrdá plena → pavučnice → omozečnice"
+    ],
+    "answer": 3,
+    "title": "Tři obaly mají pevné pořadí",
+    "paragraphs": [
+      "Zevně je tvrdá plena, pod ní pavučnice a nejblíže povrchu nervové tkáně omozečnice. Obaly kryjí mozek i míchu.",
+      "Představ si vícevrstevný ochranný obal s různými vlastnostmi jednotlivých vrstev. Pořadí pomáhá správně umístit i prostor s mokem.",
+      "Mozkové pleny se nezaměňují s kůží ani s obaly plic. Jde o konkrétní obaly centrální nervové soustavy."
+    ],
+    "memory": "Zvenku: tvrdá plena, pavučnice, omozečnice."
+  },
+  {
+    "id": 472,
+    "category": "Mozkový kmen a obaly",
+    "bookRef": "str. 124",
+    "sourcePages": "124",
+    "question": "Která plena těsně přiléhá k povrchu mozku a míchy?",
+    "options": [
+      "Omozečnice neboli pia mater",
+      "Tvrdá plena jako jediný přímý povrchový kryt neuronů",
+      "Pohrudnice",
+      "Pokožka"
+    ],
+    "answer": 0,
+    "title": "Omozečnice sleduje nervový povrch",
+    "paragraphs": [
+      "Omozečnice je jemný, cévami zásobený obal těsně při povrchu CNS. Leží hlouběji než pavučnice a tvrdá plena.",
+      "Představ si nejvnitřnější jemný kryt, který přiléhá k členitému povrchu. Není to tvrdá kostěná schránka.",
+      "Tvrdá plena leží zevněji. Záměna obou názvů by obrátila jejich polohu v ochranných obalech."
+    ],
+    "memory": "Pia mater = omozečnice přímo při nervové tkáni."
+  },
+  {
+    "id": 473,
+    "category": "Mozkový kmen a obaly",
+    "bookRef": "str. 124",
+    "sourcePages": "124",
+    "question": "Ve kterém prostoru kolem CNS se nachází mozkomíšní mok?",
+    "options": [
+      "V každém axonu místo cytoplazmy",
+      "V subarachnoidálním prostoru mezi pavučnicí a omozečnicí",
+      "Uvnitř buněčných jader všech neuronů",
+      "Výhradně mezi zubní sklovinou a dentinem"
+    ],
+    "answer": 1,
+    "title": "Mok je i mezi měkkými plenami",
+    "paragraphs": [
+      "Mozkomíšní mok obklopuje CNS v subarachnoidálním prostoru. Ten leží pod pavučnicí a nad omozečnicí.",
+      "Představ si tekutinový prostor mezi dvěma obaly, ne tekutinu uvnitř každé nervové buňky. Poloha vysvětluje i jeho název.",
+      "Mok je také v komorovém systému, ale komora a prostor kolem mozku nejsou totožná dutina. Jsou to propojené části jeho oběhu."
+    ],
+    "memory": "Pod pavučnicí je prostor s likvorem."
+  },
+  {
+    "id": 474,
+    "category": "Mozkový kmen a obaly",
+    "bookRef": "str. 124",
+    "sourcePages": "124",
+    "question": "Které životně důležité funkce pomáhají řídit centra prodloužené míchy?",
+    "options": [
+      "Jen vědomé rozeznávání všech barev",
+      "Výhradně ukládání minerálů do skloviny",
+      "Dýchání a činnost oběhové soustavy",
+      "Pouze růst vlasů a tvar nehtů"
+    ],
+    "answer": 2,
+    "title": "Prodloužená mícha řídí základní životní děje",
+    "paragraphs": [
+      "V prodloužené míše jsou důležité nervové struktury pro řízení dýchání a oběhu. Podílejí se na základních automatických funkcích organismu.",
+      "Představ si řídicí síť pro provoz, který musí pokračovat i bez vědomého přemýšlení. Vyšší nervová činnost stojí na fungování těchto základů.",
+      "Nejde o jediné místo řízení všech souvisejících dějů. Dýchání například využívá i další oblasti a přicházející informace."
+    ],
+    "memory": "Prodloužená mícha: zásadní řízení dechu a oběhu."
+  },
+  {
+    "id": 475,
+    "category": "Mozkový kmen a obaly",
+    "bookRef": "str. 124",
+    "sourcePages": "124",
+    "question": "Jaká funkce patří mostu mozkového kmene?",
+    "options": [
+      "Tvorba veškerého kožního mazu",
+      "Filtrace glukózy do primární moči",
+      "Přímé mechanické posouvání potravy jícnem",
+      "Spoluúčast na řízení dýchání a vedení spojů mezi kůrou a mozečkem"
+    ],
+    "answer": 3,
+    "title": "Most obsahuje centra i spojovací cesty",
+    "paragraphs": [
+      "Most se účastní regulace dýchání a probíhají v něm významné nervové spoje. Učebnice zdůrazňuje také propojení kůry s mozečkem.",
+      "Představ si oblast, která není jen pasivním mostem přes mezeru. Vedle vedení obsahuje i funkční nervové okruhy.",
+      "Název most proto nelze vykládat jen podle běžné stavby přes řeku. Jde o konkrétní část mozkového kmene."
+    ],
+    "memory": "Most: spojení a podíl na řízení dechu."
+  },
+  {
+    "id": 476,
+    "category": "Mozeček a mezimozek",
+    "bookRef": "str. 125",
+    "sourcePages": "125",
+    "question": "Jaká je hlavní úloha mozečku v základním popisu učebnice?",
+    "options": [
+      "Koordinace pohybů a podíl na udržování polohy a postoje",
+      "Vytvářet veškerou žluč",
+      "Nahrazovat sítnici při vnímání světla",
+      "Přímo provádět filtraci krve"
+    ],
+    "answer": 0,
+    "title": "Mozeček pomáhá pohyby sladit",
+    "paragraphs": [
+      "Mozeček se podílí na koordinaci motorické aktivity a udržování polohy těla. Využívá k tomu různé smyslové a motorické informace.",
+      "Představ si systém, který pomáhá sladit činnost více svalů v přesném čase. Nejde jen o jediný povel ke stažení jednoho svalu.",
+      "Mozeček není synonymem pro celý mozek ani jediným místem řízení pohybu. Spolupracuje s dalšími strukturami."
+    ],
+    "memory": "Mozeček: souhra pohybu, polohy a postoje."
+  },
+  {
+    "id": 477,
+    "category": "Mozeček a mezimozek",
+    "bookRef": "str. 125",
+    "sourcePages": "125",
+    "question": "Které informace mozeček využívá při úpravě rovnováhy a pohybu?",
+    "options": [
+      "Jen barvu duhovky bez nervových signálů",
+      "Mimo jiné vstupy z rovnovážného ústrojí, svalů a kůže",
+      "Pouze koncentraci žluči ve žlučníku",
+      "Výhradně počet zubů v chrupu"
+    ],
+    "answer": 1,
+    "title": "Koordinace potřebuje zpětné informace",
+    "paragraphs": [
+      "Mozeček přijímá informace o rovnováze, poloze a stavu pohybové soustavy. Přicházejí mimo jiné z rovnovážného ústrojí, svalů a kůže.",
+      "Představ si řízení pohybu podle průběžných hlášení čidel. Bez informací o skutečném stavu by se souhra upravovala obtížně.",
+      "Smyslový vstup není jediným typem informace pro mozeček. Přicházejí také signály z motorických center."
+    ],
+    "memory": "Mozeček využívá hlášení rovnováhy, svalů i kůže."
+  },
+  {
+    "id": 478,
+    "category": "Mozeček a mezimozek",
+    "bookRef": "str. 125",
+    "sourcePages": "125",
+    "question": "Na jakém ději se mozeček podílí spolu s mozkovou kůrou?",
+    "options": [
+      "Na přeměně potu v kožní maz",
+      "Na nahrazení veškeré činnosti ledvin",
+      "Na osvojování a zdokonalování pohybových dovedností",
+      "Na výrobě všech krevních destiček"
+    ],
+    "answer": 2,
+    "title": "Pohybová dovednost využívá spolupráci struktur",
+    "paragraphs": [
+      "Mozeček spolupracuje s mozkovou kůrou při řízení složitých pohybů a získávání pohybových návyků. Opakovaný výkon se tak může zpřesňovat.",
+      "Představ si učení přesné pohybové souhry, například při nácviku práce rukou. Výsledek vyžaduje víc než jen sílu jednotlivého svalu.",
+      "Veškeré učení není uloženo jen v mozečku. Otázka se týká jeho podílu na motorických dovednostech."
+    ],
+    "memory": "Mozeček pomáhá pohybovou souhru natrénovat."
+  },
+  {
+    "id": 479,
+    "category": "Mozeček a mezimozek",
+    "bookRef": "str. 125",
+    "sourcePages": "125",
+    "question": "Co je čtverohrbolí?",
+    "options": [
+      "Čtyři srdeční chlopně",
+      "Čtyři ledvinné pánvičky",
+      "Všechny čtyři laloky jedné hemisféry",
+      "Dva páry hrbolků na střeše středního mozku"
+    ],
+    "answer": 3,
+    "title": "Čtverohrbolí patří střednímu mozku",
+    "paragraphs": [
+      "Čtverohrbolí tvoří dva páry hrbolků středního mozku. Souvisí mimo jiné se zrakovými a sluchovými reflexními drahami.",
+      "Představ si dvě dvojice struktur, podle kterých lze odlišit funkční oblasti. Název pomáhá početně, ale sám neurčuje všechny jejich funkce.",
+      "Nejde o pojmenování mozkových laloků. Střední mozek je jiná oblast než kůra hemisfér."
+    ],
+    "memory": "Čtverohrbolí = dvě dvojice hrbolků středního mozku."
+  },
+  {
+    "id": 480,
+    "category": "Mozeček a mezimozek",
+    "bookRef": "str. 125",
+    "sourcePages": "125",
+    "question": "S jakými ději souvisejí horní hrbolky čtverohrbolí?",
+    "options": [
+      "Se zrakově řízenými orientačními a reflexními pohyby",
+      "S hlavní filtrací krevní plazmy",
+      "S tvorbou močoviny z amoniaku",
+      "Pouze s odpařováním potu"
+    ],
+    "answer": 0,
+    "title": "Horní hrbolky souvisejí se zrakovou orientací",
+    "paragraphs": [
+      "Horní hrbolky se zapojují do zrakově řízených orientačních a reflexních dějů. Mohou souviset například s nasměrováním pohledu.",
+      "Představ si rychlé přesměrování očí k významnému podnětu. Taková reakce nemusí být totéž jako podrobné vědomé rozpoznání obrazu.",
+      "Zrakové zpracování není celé umístěno jen ve čtverohrbolí. Významnou roli má také mozková kůra a další dráhy."
+    ],
+    "memory": "Horní hrbolky: zrakově řízená orientace."
+  },
+  {
+    "id": 481,
+    "category": "Mozeček a mezimozek",
+    "bookRef": "str. 125",
+    "sourcePages": "125",
+    "question": "S jakým smyslovým systémem jsou spojeny dolní hrbolky čtverohrbolí?",
+    "options": [
+      "Pouze s čichem v nosní sliznici",
+      "Se sluchovým systémem",
+      "Výhradně s chutí na jazyku",
+      "S tvorbou kožního melaninu"
+    ],
+    "answer": 1,
+    "title": "Dolní hrbolky patří ke sluchovým drahám",
+    "paragraphs": [
+      "Dolní hrbolky jsou významnou součástí sluchových drah. Učebnice je spojuje také s orientačními reakcemi na zvuk.",
+      "Představ si zpracování informace o zvukovém podnětu a zapojení do navazujících odpovědí. Nejde jen o mechanické zachycení zvuku uchem.",
+      "Není přesné omezit jejich činnost pouze na jediný pohyb hlavy. Sluchové zpracování využívá více navazujících úrovní."
+    ],
+    "memory": "Dolní hrbolky: sluchové souvislosti."
+  },
+  {
+    "id": 482,
+    "category": "Mozeček a mezimozek",
+    "bookRef": "str. 125–126",
+    "sourcePages": "125–126",
+    "question": "Která dvojice uvádí významné části mezimozku?",
+    "options": [
+      "Most a přední míšní kořen",
+      "Sklovina a dentin",
+      "Talamus a hypotalamus",
+      "Mozeček a močový měchýř"
+    ],
+    "answer": 2,
+    "title": "Mezimozek zahrnuje talamus i hypotalamus",
+    "paragraphs": [
+      "Talamus a hypotalamus jsou významné části mezimozku. Přestože jsou názvy podobné, jejich funkční zaměření se liší.",
+      "Představ si dvě sousedící oblasti, které patří do stejného většího celku, ale řeší jiné úkoly. Poloha a příbuzný název nejsou důkaz stejné funkce.",
+      "Tato dvojice není úplným výčtem všech struktur mezimozku. Otázka se ptá na jeho významné části."
+    ],
+    "memory": "Mezimozek: mimo jiné talamus a hypotalamus."
+  },
+  {
+    "id": 483,
+    "category": "Mozeček a mezimozek",
+    "bookRef": "str. 125–126",
+    "sourcePages": "125–126",
+    "question": "Jaká je důležitá úloha talamu ve smyslovém zpracování?",
+    "options": [
+      "Zachycování světla místo sítnice",
+      "Tvorba slin místo slinných žláz",
+      "Vylučování glukózy místo ledvin",
+      "Přepojování a zpracování mnoha smyslových informací směřujících ke kůře"
+    ],
+    "answer": 3,
+    "title": "Talamus je důležitý přepojovací uzel",
+    "paragraphs": [
+      "Talamus je významným uzlem pro řadu smyslových drah směřujících ke kůře. Informace se zde nejen předávají, ale také zpracovávají.",
+      "Představ si přestupní a třídicí stanici před další úrovní zpracování. Není to samotné periferní čidlo ani pouhý prázdný průchod.",
+      "Učebnice zdůrazňuje odlišnou základní cestu čichu. Není proto vhodné bez výjimky tvrdit, že každý smyslový signál nejprve projde stejným talamickým přepojením."
+    ],
+    "memory": "Talamus: významný uzel na cestě mnoha smyslů ke kůře."
+  },
+  {
+    "id": 484,
+    "category": "Mozeček a mezimozek",
+    "bookRef": "str. 126",
+    "sourcePages": "126",
+    "question": "Co znamená integrační úloha hypotalamu při řízení vnitřních orgánů?",
+    "options": [
+      "Koordinuje více tělesných funkcí do související odpovědi",
+      "Řídí jen jeden izolovaný potní pór a nic dalšího",
+      "Je samotným kosterním svalem",
+      "Zajišťuje pouze vědomé rozeznávání barev"
+    ],
+    "answer": 0,
+    "title": "Hypotalamus sladí vnitřní reakci",
+    "paragraphs": [
+      "Hypotalamus propojuje řízení různých vnitřních funkcí. Může tak pomáhat přizpůsobit oběh, trávení a další děje situaci organismu.",
+      "Představ si koordinaci více oddělení při přechodu od klidu k zátěži. Jednotlivé orgány potřebují reagovat společně, ne každý bez souvislostí.",
+      "Není jediným řídicím místem všech těchto funkcí. Jeho role spočívá v širší koordinaci v rámci propojených sítí."
+    ],
+    "memory": "Hypotalamus sladí vnitřní provoz do společné reakce."
+  },
+  {
+    "id": 485,
+    "category": "Mozeček a mezimozek",
+    "bookRef": "str. 126",
+    "sourcePages": "126",
+    "question": "Se kterou endokrinní žlázou je hypotalamus úzce funkčně propojen?",
+    "options": [
+      "S močovým měchýřem označovaným jako hypofýza",
+      "S hypofýzou neboli podvěskem mozkovým",
+      "S každým vlasovým folikulem jako jedinou endokrinní žlázou",
+      "Pouze s mazovou žlázou dlaně"
+    ],
+    "answer": 1,
+    "title": "Spojení s hypofýzou propojuje nervové a hormonální řízení",
+    "paragraphs": [
+      "Hypotalamus je úzce propojen s hypofýzou. Toto spojení umožňuje koordinovat nervovou regulaci s hormonálním řízením tělesných funkcí.",
+      "Představ si návaznost řídicího centra na systém chemických zpráv do těla. Signály tak mohou působit i prostřednictvím hormonů.",
+      "Hypotalamus a hypofýza nejsou dvě jména pro stejný orgán. Jde o propojené, ale odlišné struktury."
+    ],
+    "memory": "Hypotalamus + hypofýza: propojení nervů a hormonů."
+  },
+  {
+    "id": 486,
+    "category": "Mozková kůra",
+    "bookRef": "str. 126",
+    "sourcePages": "126",
+    "question": "Jak je základně rozdělen koncový mozek člověka?",
+    "options": [
+      "Pouze na jeden přední a čtyři zadní kořeny",
+      "Na dvě srdeční síně",
+      "Na pravou a levou hemisféru",
+      "Na tři ledvinné pyramidy"
+    ],
+    "answer": 2,
+    "title": "Koncový mozek tvoří dvě polokoule",
+    "paragraphs": [
+      "Koncový mozek má pravou a levou hemisféru. Obsahuje mozkovou kůru, bílou hmotu a důležité podkorové struktury.",
+      "Představ si dvě rozsáhlé, vzájemně propojené poloviny. Jejich spolupráce je součástí normální činnosti mozku.",
+      "Hemisféra není jen samotná povrchová kůra. Zahrnuje také hlouběji uložené struktury."
+    ],
+    "memory": "Koncový mozek: pravá a levá hemisféra."
+  },
+  {
+    "id": 487,
+    "category": "Mozková kůra",
+    "bookRef": "str. 126",
+    "sourcePages": "126",
+    "question": "Jaká je hlavní úloha mozkového trámce neboli corpus callosum?",
+    "options": [
+      "Odvádět moč z ledviny do měchýře",
+      "Tvořit čtvrtou mozkovou komoru",
+      "Nahrazovat všechny receptory kůže",
+      "Propojovat pravou a levou mozkovou hemisféru"
+    ],
+    "answer": 3,
+    "title": "Trámec spojuje hemisféry",
+    "paragraphs": [
+      "Mozkový trámec obsahuje nervová vlákna propojující obě hemisféry. Umožňuje tak výměnu informací mezi odpovídajícími oblastmi.",
+      "Představ si rozsáhlý spojovací svazek mezi dvěma částmi jedné sítě. Oddělení na pravou a levou polovinu neznamená jejich úplnou izolaci.",
+      "Trámec je spojovací struktura, nikoli jiný název pro talamus nebo mozeček. Jeho podstatou jsou nervová vlákna."
+    ],
+    "memory": "Corpus callosum propojuje hemisféry."
+  },
+  {
+    "id": 488,
+    "category": "Mozková kůra",
+    "bookRef": "str. 126",
+    "sourcePages": "126",
+    "question": "Proč mozkovou kůru označujeme jako šedou hmotu?",
+    "options": [
+      "Je bohatá na těla neuronů a jejich místní spojení",
+      "Protože jde pouze o myelinové obaly bez buněk",
+      "Protože obsahuje výhradně krevní plazmu",
+      "Protože kůra leží mimo CNS"
+    ],
+    "answer": 0,
+    "title": "Kůra je buněčně bohatá povrchová oblast",
+    "paragraphs": [
+      "Mozková kůra obsahuje četná buněčná těla neuronů a rozsáhlá místní spojení. Patří proto k šedé hmotě.",
+      "Představ si povrchovou vrstvu s hustou sítí zpracovatelských článků. Pod ní probíhá bílá hmota s mnoha spojovacími vlákny.",
+      "Ani kůra není tvořena pouze těly neuronů. Obsahuje jejich výběžky, glii a další struktury."
+    ],
+    "memory": "Kůra = šedá hmota s bohatými buněčnými obvody."
+  },
+  {
+    "id": 489,
+    "category": "Mozková kůra",
+    "bookRef": "str. 126",
+    "sourcePages": "126",
+    "question": "Kolik základních buněčných vrstev má typický neokortex?",
+    "options": [
+      "Žádnou, je to pouze tekutina",
+      "Šest",
+      "Vždy jen jednu",
+      "Přesně dvacet čtyři"
+    ],
+    "answer": 1,
+    "title": "Neokortex má šestivrstevné uspořádání",
+    "paragraphs": [
+      "Typický neokortex má šest základních vrstev. Jeho neurony jsou zároveň bohatě propojeny do funkčních obvodů.",
+      "Představ si vrstvenou síť, kde různé úrovně přijímají a předávají informace. Vrstvy nejsou od sebe oddělené jako nezávislé listy papíru.",
+      "Ne všechny části mozkové kůry mají právě toto uspořádání. Otázka výslovně míří na neokortex."
+    ],
+    "memory": "Neokortex: šest základních vrstev."
+  },
+  {
+    "id": 490,
+    "category": "Mozková kůra",
+    "bookRef": "str. 126–127",
+    "sourcePages": "126–127",
+    "question": "Jaký význam má zvrásnění mozkové kůry do závitů?",
+    "options": [
+      "Mění neurony na kostní tkáň",
+      "Zcela ruší komunikaci mezi oblastmi",
+      "Zvětšuje její povrch v omezeném prostoru lebky",
+      "Zmenšuje kůru na jedinou buňku"
+    ],
+    "answer": 2,
+    "title": "Závity zvětšují dostupný povrch",
+    "paragraphs": [
+      "Zvrásnění umožňuje uložit větší plochu kůry do omezeného objemu. Závity a rýhy tedy souvisejí s prostorovým uspořádáním povrchu.",
+      "Představ si složený list, jehož plocha se vejde do menšího prostoru. Složením se plocha neztrácí, jen se jinak uloží.",
+      "Z toho nelze vyvodit jednoduché měření inteligence podle počtu závitů jednotlivce. Otázka vysvětluje anatomický význam."
+    ],
+    "memory": "Závity umožní více plochy v omezeném prostoru."
+  },
+  {
+    "id": 491,
+    "category": "Mozková kůra",
+    "bookRef": "str. 127",
+    "sourcePages": "127",
+    "question": "Co označují sulci na povrchu hemisfér?",
+    "options": [
+      "Samotné červené krvinky v kůře",
+      "Výhradně buněčná jádra neuronů",
+      "Kožní póry nad lebkou",
+      "Rýhy mezi mozkovými závity"
+    ],
+    "answer": 3,
+    "title": "Sulcus je rýha, gyrus závit",
+    "paragraphs": [
+      "Sulci jsou rýhy oddělující mozkové závity. Závity se označují jako gyri.",
+      "Představ si střídání vyvýšených částí a prohlubní na členitém povrchu. Tyto názvy pomáhají přesně popsat jeho anatomii.",
+      "Rýha není další komora uvnitř mozku. Jde o útvar na jeho povrchu."
+    ],
+    "memory": "Sulci = rýhy, gyri = závity."
+  },
+  {
+    "id": 492,
+    "category": "Mozková kůra",
+    "bookRef": "str. 127",
+    "sourcePages": "127",
+    "question": "Která skupina uvádí čtyři základní povrchové laloky hemisféry probírané učebnicí?",
+    "options": [
+      "Čelní, temenní, týlní a spánkový",
+      "Plicní, jaterní, ledvinný a slinný",
+      "Dorzální, ventrální, alveolární a zubní",
+      "Pouze pravý, levý, horní a dolní jako odborné názvy laloků"
+    ],
+    "answer": 0,
+    "title": "Laloky mají anatomická jména",
+    "paragraphs": [
+      "Na povrchu hemisféry rozlišujeme čelní, temenní, týlní a spánkový lalok. Jejich názvy pomáhají přiřadit polohu významných korových oblastí.",
+      "Představ si větší pojmenované regiony jedné členité mapy. Každý region přitom obsahuje více funkčních oblastí.",
+      "Tento základní výčet nevylučuje další anatomické členění, například ostrovní oblast. Otázka vymezuje čtyři povrchové laloky z učebnice."
+    ],
+    "memory": "Čelní, temenní, týlní, spánkový."
+  },
+  {
+    "id": 493,
+    "category": "Mozková kůra",
+    "bookRef": "str. 127",
+    "sourcePages": "127",
+    "question": "Ve kterém laloku leží primární motorická kůra?",
+    "options": [
+      "Pouze uvnitř mozkového mokovodu",
+      "V čelním laloku před centrální rýhou",
+      "V týlním laloku jako primární zrakové centrum",
+      "V levé ledvině"
+    ],
+    "answer": 1,
+    "title": "Motorická oblast leží před centrální rýhou",
+    "paragraphs": [
+      "Primární motorická kůra je v zadní části čelního laloku před centrální rýhou. Podílí se na řízení pohybové aktivity.",
+      "Představ si hranici mezi sousedními funkčními pruhy. Na přední straně je motorická oblast, za hranicí navazuje somatosenzorická.",
+      "Pohyb neřídí jen jedna úzká oblast. Spolupracují i další korové a podkorové obvody."
+    ],
+    "memory": "Motorická kůra: čelní lalok před centrální rýhou."
+  },
+  {
+    "id": 494,
+    "category": "Mozková kůra",
+    "bookRef": "str. 127",
+    "sourcePages": "127",
+    "question": "Ve kterém laloku leží primární zraková kůra?",
+    "options": [
+      "V zadním míšním kořeni",
+      "Uvnitř močového měchýře",
+      "V týlním laloku",
+      "V čelním laloku jako jediném místě všech smyslů"
+    ],
+    "answer": 2,
+    "title": "Zraková kůra leží vzadu",
+    "paragraphs": [
+      "Primární zraková oblast je uložena v týlním laloku. Je důležitou korovou úrovní zpracování zrakových informací.",
+      "Představ si zrakovou cestu, která začíná v oku a pokračuje přes další úrovně až ke kůře vzadu v mozku. Čidlo a korové zpracování neleží na stejném místě.",
+      "Vidění jako celek využívá rozsáhlejší síť. Primární zraková kůra proto není jediné místo všech dějů spojených se zrakem."
+    ],
+    "memory": "Týlní lalok: primární zraková kůra."
+  },
+  {
+    "id": 495,
+    "category": "Mozková kůra",
+    "bookRef": "str. 127",
+    "sourcePages": "127",
+    "question": "Ve kterém laloku leží primární sluchová kůra?",
+    "options": [
+      "Výhradně v týlním laloku",
+      "V předním míšním kořeni",
+      "V kožním podkoží kolem ucha",
+      "Ve spánkovém laloku"
+    ],
+    "answer": 3,
+    "title": "Sluchová kůra patří spánkovému laloku",
+    "paragraphs": [
+      "Primární sluchová kůra leží ve spánkovém laloku. Zpracovává informace přicházející sluchovými drahami.",
+      "Představ si navazující cestu od zachycení zvuku v uchu k nervovému vyhodnocení v mozku. Ucho a korové centrum nejsou totéž.",
+      "Ne každý děj související se sluchem nebo porozuměním řeči probíhá pouze v primární sluchové kůře. Do složitějšího zpracování vstupují další oblasti."
+    ],
+    "memory": "Spánkový lalok: primární sluchová kůra."
+  },
+  {
+    "id": 496,
+    "category": "Mozková kůra",
+    "bookRef": "str. 127",
+    "sourcePages": "127",
+    "question": "Kde je primární somatosenzorická kůra pro informace z těla?",
+    "options": [
+      "V temenním laloku za centrální rýhou",
+      "V čelním laloku před rýhou jako totožná oblast s primární motorickou kůrou",
+      "Pouze v mozkových plenách",
+      "Ve stěně žlučníku"
+    ],
+    "answer": 0,
+    "title": "Tělesná čití mají oblast za centrální rýhou",
+    "paragraphs": [
+      "Primární somatosenzorická kůra leží v temenním laloku za centrální rýhou. Přijímá a zpracovává informace z těla, například z kůže a pohybové soustavy.",
+      "Představ si smyslovou mapu těla hned vedle motorické oblasti. Sousedství obou oblastí odpovídá úzké souvislosti čití a pohybu.",
+      "Před centrální rýhou leží primární motorická kůra. Smyslová a motorická funkce spolupracují, ale jejich základní poloha se liší."
+    ],
+    "memory": "Za centrální rýhou: somatosenzorická kůra."
+  },
+  {
+    "id": 497,
+    "category": "Mozková kůra",
+    "bookRef": "str. 127",
+    "sourcePages": "127",
+    "question": "Jaká je významná úloha asociačních oblastí mozkové kůry?",
+    "options": [
+      "Nahrazovat všechny smyslové receptory na povrchu těla",
+      "Propojovat a zpracovávat informace v širších souvislostech",
+      "Jen předávat každý podnět beze změny do jediného svalu",
+      "Tvořit výhradně mozkomíšní mok"
+    ],
+    "answer": 1,
+    "title": "Asociační oblasti propojují souvislosti",
+    "paragraphs": [
+      "Asociační oblasti se účastní složitějšího zpracování a propojování informací. Jejich činnost souvisí s poznáváním a dalšími vyššími funkcemi.",
+      "Představ si práci s významem více zpráv současně, ne pouze zachycení jednoho zvuku nebo spuštění jednoho pohybu. Výsledek závisí na širší síti.",
+      "Nejde o jediné izolované centrum všeho myšlení. Složité funkce využívají spolupráci více korových a podkorových oblastí."
+    ],
+    "memory": "Asociační oblasti dávají informacím širší souvislosti."
+  },
+  {
+    "id": 498,
+    "category": "Mozková kůra",
+    "bookRef": "str. 128",
+    "sourcePages": "128",
+    "question": "Jak se u většiny lidí typicky projevuje lateralizace jazykových funkcí?",
+    "options": [
+      "Levá hemisféra nikdy nijak nesouvisí s jazykem",
+      "Každá hemisféra pracuje úplně bez spojení s druhou",
+      "Významné jazykové oblasti bývají více zastoupeny v levé hemisféře",
+      "Veškeré funkce řeči vždy probíhají pouze v pravé hemisféře"
+    ],
+    "answer": 2,
+    "title": "Jazykové funkce mají často levostrannou převahu",
+    "paragraphs": [
+      "U většiny lidí mají některé klíčové jazykové funkce převahu v levé hemisféře. Jde o příklad funkční asymetrie.",
+      "Představ si rozdělení práce s určitou převahou jedné strany, nikoli dvě navždy oddělené sítě. Obě hemisféry jsou propojené a spolupracují.",
+      "Z toho neplyne dělení lidí na čistě levomozkové logiky a pravomozkové umělce. Takové jednoduché osobnostní škatulky otázka netvrdí."
+    ],
+    "memory": "Jazyk bývá více vlevo, hemisféry ale spolupracují."
+  },
+  {
+    "id": 499,
+    "category": "Mozková kůra",
+    "bookRef": "str. 128",
+    "sourcePages": "128",
+    "question": "S čím významně souvisí činnost limbického systému?",
+    "options": [
+      "Pouze s filtrací krve v glomerulech",
+      "Jen s mechanickým pohybem ušních kůstek",
+      "Výhradně s tvorbou zubního cementu",
+      "S emocemi, motivací a některými paměťovými ději"
+    ],
+    "answer": 3,
+    "title": "Limbické struktury propojují význam a vnitřní reakci",
+    "paragraphs": [
+      "Struktury označované jako limbický systém souvisejí s emocemi, motivací a částí paměťových procesů. Jsou propojeny také s hypotalamem a dalšími oblastmi.",
+      "Představ si zpracování toho, co je pro organismus významné, a jeho propojení s chováním a tělesnou odpovědí. Nejde jen o příjem jednoho smyslového signálu.",
+      "Tyto funkce nejsou uzavřeny v jediném ostře odděleném centru. Pojem limbický systém je užitečný rámec pro spolupracující struktury."
+    ],
+    "memory": "Limbické souvislosti: emoce, motivace a paměť."
+  },
+  {
+    "id": 500,
+    "category": "Mozková kůra",
+    "bookRef": "str. 128",
+    "sourcePages": "128",
+    "question": "Jaký význam mají bazální ganglia v řízení pohybu?",
+    "options": [
+      "Podílejí se jako podkorové obvody na organizaci motorické aktivity",
+      "Jsou jen svazkem periferních čichových receptorů",
+      "Nahrazují všechny svalové bílkoviny",
+      "Jsou dutinami naplněnými výhradně likvorem"
+    ],
+    "answer": 0,
+    "title": "Bazální ganglia spolupracují na organizaci pohybu",
+    "paragraphs": [
+      "Bazální ganglia jsou skupiny neuronů v podkorových oblastech. Mají významnou úlohu v motorických obvodech a souvisejí i s dalšími funkcemi.",
+      "Představ si další řídicí článek vedle kůry a mozečku. Plynulá pohybová činnost vzniká spoluprací více propojených systémů.",
+      "Navzdory historickému názvu nejde o periferní ganglia mimo CNS. Jsou to struktury uvnitř mozku."
+    ],
+    "memory": "Bazální ganglia: podkorové obvody důležité pro motoriku."
+  }
+]

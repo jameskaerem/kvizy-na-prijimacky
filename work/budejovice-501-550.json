@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 501,
+    "category": "Anatomie",
+    "bookRef": "2024 · Anatomie · úloha 1 · PDF 13",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 13",
+    "question": "Co označuje epifýza dlouhé kosti?",
+    "title": "Koncovou část dlouhé kosti",
+    "options": [
+      "Koncovou část dlouhé kosti",
+      "Střední část kosti s dřeňovou dutinou",
+      "Vazivový obal celé kosti",
+      "Pouze kloubní tekutinu"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Epifýzy tvoří rozšířené konce dlouhé kosti, zatímco střední úsek je diafýza. Růstová chrupavka u rostoucího člověka leží mezi oblastí epifýzy a diafýzy."
+    ],
+    "memory": "Epifýza je konec, diafýza střed."
+  },
+  {
+    "id": 502,
+    "category": "Informatika",
+    "bookRef": "2024 · Informatika · úloha 2 · PDF 15",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 15",
+    "question": "Které rozhraní běžně přenáší digitální obraz i zvuk jedním kabelem?",
+    "title": "HDMI",
+    "options": [
+      "VGA",
+      "PS/2",
+      "RJ-11",
+      "HDMI"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "HDMI je audiovizuální rozhraní používané například mezi počítačem a monitorem či televizorem. VGA přenáší analogový obraz a samo zvukový přenos neposkytuje."
+    ],
+    "memory": "HDMI spojuje obraz se zvukem."
+  },
+  {
+    "id": 503,
+    "category": "Informatika",
+    "bookRef": "2024 · Informatika · úloha 4 · PDF 15",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 15",
+    "question": "Proč je skener vstupním zařízením počítače?",
+    "title": "Převádí předlohu na data vstupující do počítače",
+    "options": [
+      "Pouze zesiluje zvuk",
+      "Uchovává elektrickou energii",
+      "Převádí předlohu na data vstupující do počítače",
+      "Tiskne data na papír"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Vstup a výstup se určují podle směru toku dat vůči počítači. Skener do něj přináší obraz předlohy; tiskárna naopak vytváří výstup na papíře."
+    ],
+    "memory": "Skener dovnitř, tiskárna ven."
+  },
+  {
+    "id": 504,
+    "category": "Informatika",
+    "bookRef": "2024 · Informatika · úloha 6 · PDF 15",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 15",
+    "question": "Co znamená Wi-Fi hotspot?",
+    "title": "Místo nebo zařízení poskytující bezdrátové připojení k síti",
+    "options": [
+      "Pevný disk s vysokou teplotou",
+      "Místo nebo zařízení poskytující bezdrátové připojení k síti",
+      "Vždy nebezpečný počítačový virus",
+      "Formát pro kompresi obrázků"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Hotspot může vytvářet například telefon sdílející připojení. Samotný název popisuje způsob přístupu, nikoli automaticky zabezpečení nebo důvěryhodnost sítě."
+    ],
+    "memory": "Hotspot zpřístupňuje Wi-Fi připojení."
+  },
+  {
+    "id": 505,
+    "category": "Informatika",
+    "bookRef": "2024 · Informatika · úloha 9 · PDF 16",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 16",
+    "question": "Která funkce charakterizuje router?",
+    "title": "Směrování dat mezi různými sítěmi",
+    "options": [
+      "Směrování dat mezi různými sítěmi",
+      "Výhradně tisk dokumentů",
+      "Převod papírové předlohy na obraz",
+      "Zobrazení grafiky na monitoru"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Domácí přístroj často spojuje router, Wi-Fi přístupový bod i switch. Pro samotnou bezdrátovou síť je podstatný přístupový bod; tvrzení, že vždy musí jít o router, by bylo příliš úzké."
+    ],
+    "memory": "Router směruje mezi sítěmi."
+  },
+  {
+    "id": 506,
+    "category": "Společenské vědy",
+    "bookRef": "2024 · Společenské vědy · úloha 10 · PDF 16",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 16",
+    "question": "Která trojice patří k základním znakům státu?",
+    "title": "Území, obyvatelstvo a státní moc",
+    "options": [
+      "Jediný jazyk, jediná víra a jediná strana",
+      "Pouze armáda, měna a hymna",
+      "Prezident, král a císař současně",
+      "Území, obyvatelstvo a státní moc"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Stát vykonává veřejnou moc vůči obyvatelstvu na určitém území. Konkrétní forma vlády nebo náboženská jednotnost nejsou univerzálními podmínkami existence státu."
+    ],
+    "memory": "Stát: území, lidé, moc."
+  },
+  {
+    "id": 507,
+    "category": "Sociologie",
+    "bookRef": "2024 · Sociologie · úloha 1 · PDF 17",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 17",
+    "question": "Co označuje sociální stratifikace?",
+    "title": "Rozvrstvení společnosti podle sociálního postavení",
+    "options": [
+      "Zánik všech společenských rozdílů",
+      "Výměnu zboží mezi státy",
+      "Rozvrstvení společnosti podle sociálního postavení",
+      "Pouze přesun lidí mezi městy"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Rozvrstvení může souviset s příjmem, vzděláním, mocí či prestiží. Mobilita označuje pohyb mezi pozicemi, zatímco stratifikace jejich uspořádání."
+    ],
+    "memory": "Stratifikace = vrstvy společnosti."
+  },
+  {
+    "id": 508,
+    "category": "Sociologie",
+    "bookRef": "2024 · Sociologie · úloha 2 · PDF 17",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 17",
+    "question": "Co v sociologii označuje anomie?",
+    "title": "Oslabení nebo rozklad závazných společenských norem",
+    "options": [
+      "Úplnou shodu na pravidlech",
+      "Oslabení nebo rozklad závazných společenských norem",
+      "Schopnost samostatně rozhodovat",
+      "Pouze anatomickou odchylku"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Při anomii přestávají být pravidla jasná či účinná, například během prudké společenské změny. Nejde o autonomii, tedy samostatnost, ani obecnou anomálii."
+    ],
+    "memory": "Anomie = oslabené normy."
+  },
+  {
+    "id": 509,
+    "category": "Sociologie",
+    "bookRef": "2024 · Sociologie · úloha 4 · PDF 17",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 17",
+    "question": "Co znamená individualizace v moderní společnosti?",
+    "title": "Rostoucí význam vlastní životní volby oproti tradičně předepsaným rolím",
+    "options": [
+      "Rostoucí význam vlastní životní volby oproti tradičně předepsaným rolím",
+      "Úplné odstranění všech sociálních vztahů",
+      "Výhradně osamělé bydlení",
+      "Sjednocení všech životních drah"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Jedinec ve větší míře rozhoduje o vzdělání, povolání či vztazích a nese také více odpovědnosti. Neznamená to, že se může obejít bez společnosti nebo jejích institucí."
+    ],
+    "memory": "Individualizace rozšiřuje vlastní životní volbu."
+  },
+  {
+    "id": 510,
+    "category": "Sociologie",
+    "bookRef": "2024 · Sociologie · úloha 5 · PDF 17",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 17",
+    "question": "Co při socializaci zdůrazňuje pojem personalizace?",
+    "title": "Utváření jedinečné osobnosti člověka",
+    "options": [
+      "Pouze přejímání cizího jazyka",
+      "Měření platnosti výzkumného nástroje",
+      "Pohyb mezi sociálními vrstvami",
+      "Utváření jedinečné osobnosti člověka"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Socializace zahrnuje osvojování společenských pravidel i vývoj osobní identity. Personalizace zdůrazňuje jedinečnost člověka, nikoli pouhé sjednocení všech členů společnosti."
+    ],
+    "memory": "Personalizace: vzniká jedinečná osobnost."
+  },
+  {
+    "id": 511,
+    "category": "Sociologie",
+    "bookRef": "2024 · Sociologie · úloha 10 · PDF 18",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 18",
+    "question": "Který český myslitel patří k průkopníkům české sociologie a napsal studii Sebevražda?",
+    "title": "Tomáš Garrigue Masaryk",
+    "options": [
+      "Bedřich Smetana",
+      "Josef Lada",
+      "Tomáš Garrigue Masaryk",
+      "Antonín Dvořák"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Masaryk se vedle filozofie a politiky věnoval sociologickému zkoumání moderní společnosti. Studie sebevražednosti hledala také společenské a kulturní souvislosti tohoto jevu."
+    ],
+    "memory": "Masaryk byl také sociolog."
+  },
+  {
+    "id": 512,
+    "category": "Anatomie",
+    "bookRef": "2024 · Anatomie · úloha 6 · PDF 19",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 19",
+    "question": "Co je myelinová pochva?",
+    "title": "Izolační obal některých axonů tvořený gliovými buňkami",
+    "options": [
+      "Chrupavka kloubního povrchu",
+      "Izolační obal některých axonů tvořený gliovými buňkami",
+      "Vazivový obal svalového vlákna",
+      "Jedna ze srdečních chlopní"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Myelin umožňuje rychlé šíření vzruchu skokem mezi Ranvierovými zářezy. Ne každý axon je myelinizovaný; obal vytvářejí Schwannovy buňky nebo oligodendrocyty."
+    ],
+    "memory": "Myelin izoluje axon a urychluje vedení."
+  },
+  {
+    "id": 513,
+    "category": "Filozofie",
+    "bookRef": "2024 · Filozofie · úloha 6 · PDF 29",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 29",
+    "question": "Která etická teorie posuzuje jednání především podle jeho důsledků pro celkový užitek či blaho?",
+    "title": "Utilitarismus",
+    "options": [
+      "Utilitarismus",
+      "Solipsismus",
+      "Mechanický materialismus",
+      "Gnozeologický skepticismus"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Utilitarismus patří k důsledkovým etickým teoriím. Nejde jednoduše o vlastní prospěch jednotlivce: hodnotí se dopady na všechny, jichž se jednání týká."
+    ],
+    "memory": "Utilitarismus zvažuje celkové důsledky."
+  },
+  {
+    "id": 514,
+    "category": "Psychologie",
+    "bookRef": "2024 · Psychologie · úloha 2 · PDF 35",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 35",
+    "question": "Co znamená vyhasínání podmíněného reflexu?",
+    "title": "Slábnutí naučené reakce při opakovaném nepodporování spojení podnětů",
+    "options": [
+      "Zánik všech vrozených reflexů",
+      "Vytvoření nového genu",
+      "Zrychlování reakce po každém opakování bez výjimky",
+      "Slábnutí naučené reakce při opakovaném nepodporování spojení podnětů"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Naučená souvislost se může oslabit, jestliže podmíněný podnět opakovaně nepředpovídá očekávanou událost. Vyhasínání se netýká jen člověka a nemusí znamenat úplné vymazání původního učení."
+    ],
+    "memory": "Naučená reakce bez posilování slábne."
+  },
+  {
+    "id": 515,
+    "category": "Anatomie",
+    "bookRef": "2024 · Anatomie · úloha 3 · PDF 35",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 35",
+    "question": "Co prochází Haversovými kanálky v kompaktní kosti?",
+    "title": "Cévy a nervy",
+    "options": [
+      "Vzduch do plic",
+      "Žluč do dvanáctníku",
+      "Cévy a nervy",
+      "Pouze moč"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Centrální kanálky osteonů umožňují zásobení živé kostní tkáně. Jejich stěny obklopují soustředně uspořádané kostní lamely."
+    ],
+    "memory": "Haversovy kanálky zásobují kost."
+  },
+  {
+    "id": 516,
+    "category": "Anatomie",
+    "bookRef": "2024 · Anatomie · úloha 4 · PDF 35",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 35",
+    "question": "Co je bělima oka?",
+    "title": "Pevná vnější vazivová vrstva oční koule",
+    "options": [
+      "Tekutina v přední oční komoře",
+      "Pevná vnější vazivová vrstva oční koule",
+      "Světločivná vrstva s tyčinkami",
+      "Barevná část před čočkou"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Bělima neboli sklera pomáhá udržovat tvar oka a chrání jeho vnitřek. V přední části na ni navazuje průhledná rohovka; sítnice patří do vnitřní vrstvy."
+    ],
+    "memory": "Bělima tvoří pevný bílý obal oka."
+  },
+  {
+    "id": 517,
+    "category": "Anatomie",
+    "bookRef": "2024 · Anatomie · úloha 5 · PDF 35",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 35",
+    "question": "Který orgán tvoří rozsáhlý vnější kryt těla a bývá uváděn jako jeho největší orgán?",
+    "title": "Kůže",
+    "options": [
+      "Kůže",
+      "Slezina",
+      "Štítná žláza",
+      "Močový měchýř"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Kůže pokrývá povrch těla a zajišťuje ochranu, čití i podíl na termoregulaci. Játra jsou významným velkým vnitřním orgánem, ale nepokrývají celé tělo."
+    ],
+    "memory": "Největší tělesný kryt je kůže."
+  },
+  {
+    "id": 518,
+    "category": "Anatomie",
+    "bookRef": "2024 · Anatomie · úloha 6 · PDF 35",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 35",
+    "question": "Proč se mléčná žláza řadí mezi exokrinní žlázy?",
+    "title": "Odvádí sekret vývody na povrch",
+    "options": [
+      "Vylučuje mléko přímo do krve",
+      "Nemá žádné vývody",
+      "Je součástí hypofýzy",
+      "Odvádí sekret vývody na povrch"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Exokrinní a endokrinní rozlišujeme podle cesty sekretu. Označení apokrinní popisuje jiný aspekt sekrece, takže se s označením exokrinní nevylučuje; původní možnosti proto nebyly dobře vzájemně oddělené."
+    ],
+    "memory": "Exokrinní žláza má vývod."
+  },
+  {
+    "id": 519,
+    "category": "Anatomie",
+    "bookRef": "2024 · Anatomie · úloha 7 · PDF 35",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 35",
+    "question": "Co označuje kyčelník neboli ileum?",
+    "title": "Konečný úsek tenkého střeva",
+    "options": [
+      "Kyčelní kost",
+      "Žlučový vývod",
+      "Konečný úsek tenkého střeva",
+      "Část tlustého střeva před konečníkem"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Tenké střevo postupuje od dvanáctníku přes lačník ke kyčelníku. Podobně znějící latinské ilium označuje kyčelní kost, nikoli střevo."
+    ],
+    "memory": "Ileum je střevo, ilium kost."
+  },
+  {
+    "id": 520,
+    "category": "Anatomie",
+    "bookRef": "2024 · Anatomie · úloha 8 · PDF 35",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 35",
+    "question": "Kde se nachází vrátník neboli pylorus?",
+    "title": "Na přechodu žaludku do dvanáctníku",
+    "options": [
+      "V ústí močovodu",
+      "Na přechodu žaludku do dvanáctníku",
+      "Mezi hltanem a jícnem",
+      "Mezi tenkým a tlustým střevem"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Vrátník je výstupní oblast žaludku se svěračovým aparátem. Podílí se na regulaci přechodu žaludečního obsahu do první části tenkého střeva."
+    ],
+    "memory": "Pylorus hlídá výstup ze žaludku."
+  },
+  {
+    "id": 521,
+    "category": "Anatomie",
+    "bookRef": "2024 · Anatomie · úloha 9 · PDF 36",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 36",
+    "question": "Jaký je hlavní celkový účinek parathormonu na hladinu vápníku v krvi?",
+    "title": "Zvyšuje ji",
+    "options": [
+      "Zvyšuje ji",
+      "Vždy ji snižuje na nulu",
+      "Nemá k vápníku žádný vztah",
+      "Mění vápník na železo"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Parathormon ovlivňuje hospodaření s vápníkem v ledvinách a kostech a nepřímo i jeho střevní vstřebávání. Zjednodušenou otázku nelze vykládat tak, že by kostní metabolismus měl jediný izolovaný děj."
+    ],
+    "memory": "Parathormon pomáhá zvýšit krevní vápník."
+  },
+  {
+    "id": 522,
+    "category": "Anatomie",
+    "bookRef": "2024 · Anatomie · úloha 10 · PDF 36",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 36",
+    "question": "Z čeho vznikají žlučová barviva bilirubin a biliverdin?",
+    "title": "Z odbourávání hemu, například z hemoglobinu",
+    "options": [
+      "Z polymerace glukózy",
+      "Přímo ze škrobu ve střevě",
+      "Z přeměny vápníku",
+      "Z odbourávání hemu, například z hemoglobinu"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Při zániku erytrocytů se hemoglobin rozebírá na složky. Hem se postupně mění na biliverdin a bilirubin, zatímco železo se může znovu využít."
+    ],
+    "memory": "Rozpad hemu dává žlučová barviva."
+  },
+  {
+    "id": 523,
+    "category": "Sociologie",
+    "bookRef": "2024 · Sociologie · úloha 8 · PDF 50",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 50",
+    "question": "Co označuje kohabitace v partnerských vztazích?",
+    "title": "Soužití partnerů bez uzavřeného manželství",
+    "options": [
+      "Soupeření politických stran",
+      "Přesun mezi sociálními vrstvami",
+      "Soužití partnerů bez uzavřeného manželství",
+      "Společnou práci ve stejné profesi"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Kohabitace popisuje formu partnerského soužití. Není totožná s kooperací, která obecně znamená spolupráci, ani nevyžaduje, aby partneři pracovali na jednom místě."
+    ],
+    "memory": "Kohabitace = nesezdané soužití."
+  },
+  {
+    "id": 524,
+    "category": "Ekonomie",
+    "bookRef": "2024 · Ekonomie · úloha 9–10 · PDF 50",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 50",
+    "question": "Co za jinak stejných podmínek vyjadřuje rostoucí nabídková křivka?",
+    "title": "Při vyšší ceně jsou výrobci ochotni nabízet více zboží",
+    "options": [
+      "Vyšší cena vždy zaručuje vyšší zisk",
+      "Při vyšší ceně jsou výrobci ochotni nabízet více zboží",
+      "Při vyšší ceně nutně klesne nabízené množství na nulu",
+      "Nabízené množství je vždy nezávislé na ceně"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Pohyb po křivce zachycuje reakci nabízeného množství na cenu při nezměněných dalších podmínkách. Změna nákladů či technologie by naopak mohla posunout celou křivku."
+    ],
+    "memory": "Vyšší cena obvykle podporuje nabídku."
+  },
+  {
+    "id": 525,
+    "category": "Chemie",
+    "bookRef": "2024 · Chemie · úloha 1 · PDF 51",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 51",
+    "question": "Jaký je vzorec hydrogensiřičitanu amonného?",
+    "title": "NH₄HSO₃",
+    "options": [
+      "NH₄HSO₃",
+      "NH₄HSO₄",
+      "NH₄HS",
+      "NaHSO₃"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Kation amonný NH₄⁺ a anion hydrogensiřičitanový HSO₃⁻ se spojují v poměru 1 : 1. Síranový a siřičitanový anion se liší počtem kyslíků."
+    ],
+    "memory": "Amonný NH₄⁺, hydrogensiřičitan HSO₃⁻."
+  },
+  {
+    "id": 526,
+    "category": "Chemie",
+    "bookRef": "2024 · Chemie · úloha 2 · PDF 51",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 51",
+    "question": "Jaký vzorec má kyselina bromičná?",
+    "title": "HBrO₃",
+    "options": [
+      "HBrO",
+      "HBrO₂",
+      "HBrO₄",
+      "HBrO₃"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "V HBrO₃ má brom oxidační číslo V: vodík přispívá +I a tři kyslíky celkem −VI. Koncovka -ičná odpovídá pátému oxidačnímu číslu."
+    ],
+    "memory": "Bromičná má brom V."
+  },
+  {
+    "id": 527,
+    "category": "Chemie",
+    "bookRef": "2024 · Chemie · úloha 4 · PDF 51",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 51",
+    "question": "Jak se nazývá sloučenina BaO₂?",
+    "title": "Peroxid barnatý",
+    "options": [
+      "Oxid baričitý",
+      "Hydroxid barnatý",
+      "Peroxid barnatý",
+      "Oxid barnatý"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Baryum má oxidační číslo II a skupina O₂ je peroxidový anion s nábojem 2−. Každý kyslík v něm má oxidační číslo −I, nikoli obvyklé −II."
+    ],
+    "memory": "BaO₂ obsahuje peroxidovou skupinu."
+  },
+  {
+    "id": 528,
+    "category": "Chemie",
+    "bookRef": "2024 · Chemie · úloha 5 · PDF 51",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 51",
+    "question": "Jaké oxidační číslo má fluor ve svých sloučeninách?",
+    "title": "−I",
+    "options": [
+      "+VII",
+      "−I",
+      "+I",
+      "+II"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Fluor je nejvíce elektronegativní prvek a v běžných sloučeninách má oxidační číslo −I. V elementárním F₂ je oxidační číslo nula, ale to není sloučenina."
+    ],
+    "memory": "Fluor ve sloučenině: −I."
+  },
+  {
+    "id": 529,
+    "category": "Chemie",
+    "bookRef": "2024 · Chemie · úloha 6 · PDF 51",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 51",
+    "question": "Kolik valenčních elektronů má neutrální atom alkalického kovu v základním stavu?",
+    "title": "Jeden",
+    "options": [
+      "Jeden",
+      "Dva",
+      "Šest",
+      "Osm"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Alkalické kovy první skupiny mají konfiguraci vnější vrstvy ns¹. Snadno tak odevzdávají jeden elektron a vytvářejí kationty s nábojem +1."
+    ],
+    "memory": "První skupina má jeden valenční elektron."
+  },
+  {
+    "id": 530,
+    "category": "Chemie",
+    "bookRef": "2024 · Chemie · úloha 7 · PDF 51",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 51",
+    "question": "Jaké oxidační číslo má síra v H₂SO₃ i SO₂?",
+    "title": "IV",
+    "options": [
+      "−II",
+      "II",
+      "VI",
+      "IV"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "V H₂SO₃ platí 2·(+I) + x + 3·(−II) = 0, tedy x = IV. V SO₂ dva kyslíky celkem přispívají −IV, a síra proto opět IV."
+    ],
+    "memory": "Siřičitá i oxid siřičitý: síra IV."
+  },
+  {
+    "id": 531,
+    "category": "Chemie",
+    "bookRef": "2024 · Chemie · úloha 8 · PDF 52",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 52",
+    "question": "Který z uvedených prvků není vzácným plynem?",
+    "title": "Radium",
+    "options": [
+      "Neon",
+      "Krypton",
+      "Radium",
+      "Helium"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Radium je kov druhé skupiny, patří mezi kovy alkalických zemin. Helium, neon a krypton jsou ve skupině vzácných plynů."
+    ],
+    "memory": "Radium je kov, nikoli vzácný plyn."
+  },
+  {
+    "id": 532,
+    "category": "Chemie",
+    "bookRef": "2024 · Chemie · úloha 9 · PDF 52",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 52",
+    "question": "Jaké je pH ideálního vodného roztoku při 25 °C, jestliže [OH⁻] = 10⁻¹⁰ mol/l?",
+    "title": "4, tedy kyselé",
+    "options": [
+      "14, tedy neutrální",
+      "4, tedy kyselé",
+      "10, tedy zásadité",
+      "4, tedy zásadité"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "pOH = −log[OH⁻] = 10. Za uvedených podmínek platí pH + pOH = 14, takže pH = 4; nízká koncentrace hydroxidových iontů odpovídá kyselému prostředí."
+    ],
+    "memory": "pOH 10 znamená pH 4."
+  },
+  {
+    "id": 533,
+    "category": "Chemie",
+    "bookRef": "2024 · Chemie · úloha 10 · PDF 52",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 52",
+    "question": "Která z uvedených kapalin vede elektrický proud nejlépe?",
+    "title": "Rtuť",
+    "options": [
+      "Rtuť",
+      "Čistá destilovaná voda",
+      "Kapalný brom",
+      "Čistý ethanol"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Rtuť je kapalný kov s pohyblivými elektrony. Velmi čistá voda obsahuje málo iontů a vede proud podstatně hůře; samotný kapalný stav vodivost neurčuje."
+    ],
+    "memory": "Kapalný kov rtuť dobře vede proud."
+  },
+  {
+    "id": 534,
+    "category": "Fyzika",
+    "bookRef": "2024 · Fyzika · úloha 1 · PDF 57",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 57",
+    "question": "Která z uvedených veličin je skalární?",
+    "title": "Práce",
+    "options": [
+      "Síla",
+      "Rychlost jako vektor",
+      "Zrychlení",
+      "Práce"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Práci vyjadřuje číselná hodnota s jednotkou bez prostorového směru. Síla, vektorová rychlost a zrychlení potřebují kromě velikosti i směr."
+    ],
+    "memory": "Práce nemá prostorový směr."
+  },
+  {
+    "id": 535,
+    "category": "Fyzika",
+    "bookRef": "2024 · Fyzika · úloha 2 · PDF 57",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 57",
+    "question": "Kolik kilometrů je 3 × 10⁸ metrů?",
+    "title": "300 000 km",
+    "options": [
+      "30 000 km",
+      "3 000 000 km",
+      "300 000 km",
+      "3 000 km"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Při převodu metrů na kilometry dělíme tisícem: 3 × 10⁸ / 10³ = 3 × 10⁵. Výsledkem je tři sta tisíc kilometrů."
+    ],
+    "memory": "Z metrů na kilometry odečti tři mocniny deseti."
+  },
+  {
+    "id": 536,
+    "category": "Fyzika",
+    "bookRef": "2024 · Fyzika · úloha 3 · PDF 57",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 57",
+    "question": "Jakým směrem se Země otáčí kolem vlastní osy?",
+    "title": "Od západu k východu",
+    "options": [
+      "Směr se pravidelně mění každý den",
+      "Od západu k východu",
+      "Od východu k západu",
+      "Od severu k jihu po poledníku"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Zemská rotace způsobuje zdánlivý denní pohyb Slunce opačným směrem po obloze. Proto Slunce zdánlivě postupuje od východu k západu."
+    ],
+    "memory": "Země na východ, Slunce zdánlivě na západ."
+  },
+  {
+    "id": 537,
+    "category": "Fyzika",
+    "bookRef": "2024 · Fyzika · úloha 4 · PDF 57",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 57",
+    "question": "Jaká je jednotka zrychlení v soustavě SI?",
+    "title": "m/s²",
+    "options": [
+      "m/s²",
+      "m/s",
+      "kg/m³",
+      "N/m²"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Zrychlení vyjadřuje změnu rychlosti za čas. Dělíme tedy jednotku rychlosti m/s další sekundou a dostaneme m/s²."
+    ],
+    "memory": "Zrychlení je změna rychlosti za sekundu."
+  },
+  {
+    "id": 538,
+    "category": "Fyzika",
+    "bookRef": "2024 · Fyzika · úloha 5 · PDF 57",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 57",
+    "question": "Jaká frekvence odpovídá pravidelným 60 dějům za minutu?",
+    "title": "1 Hz",
+    "options": [
+      "60 Hz",
+      "0,01 Hz",
+      "3 600 Hz",
+      "1 Hz"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Hertz označuje počet opakování za sekundu. Jedna minuta má 60 sekund, takže 60 / 60 = 1 děj za sekundu."
+    ],
+    "memory": "Šedesát za minutu = jeden za sekundu."
+  },
+  {
+    "id": 539,
+    "category": "Fyzika",
+    "bookRef": "2024 · Fyzika · úloha 6 · PDF 57",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 57",
+    "question": "Která z planet Země, Venuše a Merkur má největší hmotnost?",
+    "title": "Země",
+    "options": [
+      "Merkur",
+      "Všechny mají stejnou hmotnost",
+      "Země",
+      "Venuše"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Venuše je Zemi velikostí i hmotností blízká, ale je o něco méně hmotná. Merkur je výrazně menší a méně hmotný než obě ostatní planety."
+    ],
+    "memory": "Z této trojice je nejhmotnější Země."
+  },
+  {
+    "id": 540,
+    "category": "Fyzika",
+    "bookRef": "2024 · Fyzika · úloha 7 · PDF 57",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 57",
+    "question": "Jak se ve vakuu liší rychlost červeného a modrého světla?",
+    "title": "Je stejná",
+    "options": [
+      "Červené se pohybuje rychlostí zvuku",
+      "Je stejná",
+      "Červené je vždy dvakrát rychlejší",
+      "Modré se ve vakuu nešíří"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Vakuem se všechny složky elektromagnetického záření šíří stejnou rychlostí c. Rozdílné rychlosti různých barev mohou vznikat v látkovém prostředí při disperzi."
+    ],
+    "memory": "Ve vakuu mají barvy stejnou rychlost."
+  },
+  {
+    "id": 541,
+    "category": "Fyzika",
+    "bookRef": "2024 · Fyzika · úloha 9 · PDF 58",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 58",
+    "question": "Jaká je vlnová délka záření o frekvenci 1 GHz ve vakuu při c = 3 × 10⁸ m/s?",
+    "title": "0,30 m",
+    "options": [
+      "0,30 m",
+      "3 m",
+      "30 m",
+      "0,003 m"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Použijeme λ = c/f. Po dosazení 3 × 10⁸ / 10⁹ dostaneme 0,3 metru, tedy 30 centimetrů."
+    ],
+    "memory": "λ = c děleno frekvencí."
+  },
+  {
+    "id": 542,
+    "category": "Fyzika",
+    "bookRef": "2024 · Fyzika · úloha 10 · PDF 58",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 58",
+    "question": "Jak se v Coulombově zákoně změní velikost síly, pokud se vzdálenost stejných bodových nábojů zmenší desetkrát?",
+    "title": "Zvětší se stokrát",
+    "options": [
+      "Zvětší se desetkrát",
+      "Zmenší se stokrát",
+      "Nezmění se",
+      "Zvětší se stokrát"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Síla je nepřímo úměrná druhé mocnině vzdálenosti. Dosazení r/10 místo r proto vede k násobku 10², tedy 100, při stejných nábojích a prostředí."
+    ],
+    "memory": "Desetkrát blíž znamená stokrát větší sílu."
+  },
+  {
+    "id": 543,
+    "category": "Fyzika",
+    "bookRef": "2024 · Fyzika · úloha 1 · PDF 63",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 63",
+    "question": "Jaká je základní jednotka látkového množství v SI?",
+    "title": "Mol",
+    "options": [
+      "Kilogram",
+      "Pascal",
+      "Mol",
+      "Lux"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Látkové množství vyjadřuje počet specifikovaných částic pomocí Avogadrovy konstanty. Kilogram měří hmotnost, lux osvětlenost a pascal tlak."
+    ],
+    "memory": "Látkové množství měříme v molech."
+  },
+  {
+    "id": 544,
+    "category": "Fyzika",
+    "bookRef": "2024 · Fyzika · úloha 2 · PDF 63",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 63",
+    "question": "Jak závisí směr elektrostatické síly na znaménku dvou bodových nábojů?",
+    "title": "Stejná znaménka se odpuzují a opačná přitahují",
+    "options": [
+      "Znaménka nemají žádný vliv",
+      "Stejná znaménka se odpuzují a opačná přitahují",
+      "Všechny náboje se vždy přitahují",
+      "Všechny náboje se vždy odpuzují"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Elektrický náboj může mít kladné či záporné znaménko. To určuje přitažlivý nebo odpudivý charakter síly, zatímco její velikost závisí i na vzdálenosti a velikosti nábojů."
+    ],
+    "memory": "Stejné se odpuzuje, opačné přitahuje."
+  },
+  {
+    "id": 545,
+    "category": "Fyzika",
+    "bookRef": "2024 · Fyzika · úloha 3 · PDF 63",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 63",
+    "question": "Co je foton?",
+    "title": "Kvantum elektromagnetického záření",
+    "options": [
+      "Kvantum elektromagnetického záření",
+      "Jednotka elektrické síly",
+      "Atom vzácného plynu",
+      "Částice tvořící pouze buněčné jádro"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Foton nese energii elektromagnetického pole. Jeho energie souvisí s frekvencí vztahem E = hf; nejde o látkový prvek ani jednotku síly."
+    ],
+    "memory": "Foton je kvantum záření."
+  },
+  {
+    "id": 546,
+    "category": "Fyzika",
+    "bookRef": "2024 · Fyzika · úloha 5 · PDF 63",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 63",
+    "question": "Proč ionizace plynu zvyšuje jeho elektrickou vodivost?",
+    "title": "Vytváří volné elektrony a ionty schopné přenášet náboj",
+    "options": [
+      "Odstraňuje všechny nositele náboje",
+      "Mění plyn vždy na kovovou kapalinu",
+      "Zastavuje veškerý pohyb částic",
+      "Vytváří volné elektrony a ionty schopné přenášet náboj"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "Neutrální plyn za běžných podmínek obsahuje málo volných nositelů náboje. Ionizace jejich počet zvyšuje; rekombinace naopak volné náboje slučuje."
+    ],
+    "memory": "Ionizace vytváří nositele proudu."
+  },
+  {
+    "id": 547,
+    "category": "Fyzika",
+    "bookRef": "2024 · Fyzika · úloha 6 · PDF 63",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 63",
+    "question": "Jaká bude hmotnost ledu vzniklého z 10 kg vody v uzavřené soustavě bez úniku látky?",
+    "title": "10 kg",
+    "options": [
+      "10,8 kg",
+      "Nelze určit bez objemu nádoby",
+      "10 kg",
+      "9,2 kg"
+    ],
+    "answer": 2,
+    "paragraphs": [
+      "Při tuhnutí se mění hustota a objem, nikoli celková hmotnost uzavřené soustavy v tomto školním modelu. Menší hustota ledu znamená větší objem stejné hmotnosti."
+    ],
+    "memory": "Změna skupenství nemění množství hmoty."
+  },
+  {
+    "id": 548,
+    "category": "Fyzika",
+    "bookRef": "2024 · Fyzika · úloha 7 · PDF 63",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 63",
+    "question": "Jak se změní energie jednoho fotonu, zdvojnásobí-li se jeho frekvence?",
+    "title": "Zdvojnásobí se",
+    "options": [
+      "Zvětší se čtyřikrát",
+      "Zdvojnásobí se",
+      "Zmenší se na polovinu",
+      "Zůstane stejná"
+    ],
+    "answer": 1,
+    "paragraphs": [
+      "Platí E = hf, kde Planckova konstanta h je stálá. Přímá úměrnost se týká energie jednotlivého fotonu; celkový výkon svazku závisí také na počtu fotonů."
+    ],
+    "memory": "Dvojnásobná frekvence = dvojnásobná energie fotonu."
+  },
+  {
+    "id": 549,
+    "category": "Informatika",
+    "bookRef": "2024 · Informatika · úloha 8 · PDF 62",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 62",
+    "question": "Co označuje zkratka LAN?",
+    "title": "Lokální počítačovou síť",
+    "options": [
+      "Lokální počítačovou síť",
+      "Jednotku rychlosti přenosu",
+      "Typ paměťového čipu",
+      "Jazyk pro úpravu obrázků"
+    ],
+    "answer": 0,
+    "paragraphs": [
+      "Local Area Network propojuje zařízení v omezené oblasti, například domácnosti či budově. Není to označení celého internetu ani datové jednotky."
+    ],
+    "memory": "LAN je místní síť."
+  },
+  {
+    "id": 550,
+    "category": "Informatika",
+    "bookRef": "2024 · Informatika · úloha 10 · PDF 62",
+    "sourceFile": "České Budějovice TESTY 2024 nové.pdf",
+    "sourcePages": "PDF 62",
+    "question": "Co znamená zkratka HTTP?",
+    "title": "Hypertext Transfer Protocol",
+    "options": [
+      "High Transmission Type Processor",
+      "Hardware Test Timing Program",
+      "Host Terminal Transfer Port",
+      "Hypertext Transfer Protocol"
+    ],
+    "answer": 3,
+    "paragraphs": [
+      "HTTP je aplikační protokol používaný pro komunikaci webových klientů a serverů. Zabezpečený přenos s využitím TLS označujeme HTTPS."
+    ],
+    "memory": "HTTP přenáší webové požadavky a odpovědi."
+  }
+]
