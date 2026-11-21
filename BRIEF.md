@@ -1,7 +1,7 @@
 # Studijní kvízy
 
 - Veřejný web běží na https://jameskaerem.github.io/somatologie-otazky/. Zdrojový repozitář je `jameskaerem/somatologie-otazky`, větev `main`.
-- Stav k 21. 11. 2026: 630 původních otázek somatologie, 900 otázek biologie, 683 otázek České Budějovice a 50 modelových otázek LF MU (17 fyzika, 17 chemie, 16 biologie). Další dávky dle [mapy LF MU](work/MUNI-POKRYTI.md).
+- Stav k 21. 11. 2026: 630 původních otázek somatologie, 900 otázek biologie, 683 otázek České Budějovice a 100 modelových otázek LF MU (34 fyzika, 34 chemie, 32 biologie). Další dávky dle [mapy LF MU](work/MUNI-POKRYTI.md).
 - Codex navazuje na banku otázek a audity. Claude upravuje zejména design, drobné funkce nebo provádí revizi obsahu. Pravidla a kontrolní příkazy jsou v [CLAUDE.md](CLAUDE.md).
 - Samostatný HTML vzniká z `work/build.py`, zdrojové šablony, stylů, JS a bank v JSON. Nasazení používá vygenerovaný `index.html`.
 - Úložiště běží v prohlížeči. Záloha ve formátu JSON přenáší chyby, tipy, opakování a rozpracovaná kola všech předmětů i sekcí. Změnu domény plánuj až po zpřístupnění a vyzkoušení exportu na původním webu.

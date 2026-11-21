@@ -228,10 +228,10 @@ result.progressBackupRoundTrip=true;
 // New LF MU bank: each subject has its own resumable round; statistics are shared in the bank.
 const muni=app(html);
 muni.run("switchSubject('muni');start('all');choose(byId.get(data.session.currentId).answer);nextQuestion()");
-assert.equal(muni.run('BANK_SIZE'),50);
+assert.equal(muni.run('BANK_SIZE'),100);
 const muniAll=muni.read('data.session');
 const muniTopics=muni.read('MUNI_TOPICS');
-assert.deepEqual(Object.values(muniTopics).map(t=>t.ids.length),[17,17,16]);
+assert.deepEqual(Object.values(muniTopics).map(t=>t.ids.length),[34,34,32]);
 for(const [key,topic] of Object.entries(muniTopics)){
  const picker=muni.ids.get('muniSection');picker.value=key;picker.events.change();
  muni.run("start('all')");
@@ -253,8 +253,32 @@ legacyBackup.subjects.budejovice.sections.physics.queue.pop();
 assert.ok(muniReload.run(`restoreProgress(${JSON.stringify(legacyBackup)})`));
 assert.deepEqual(muniReload.read('backupProgress().subjects.budejovice'),legacyBackup.subjects.budejovice);
 const muniBank=muni.read('MUNI_QUESTIONS');
-assert.equal(new Set(muniBank.map(q=>q.question)).size,50);
+assert.equal(new Set(muniBank.map(q=>q.question)).size,100);
 muniBank.forEach((q,i)=>{assert.equal(q.id,i+1);assert.equal(new Set(q.options).size,4);assert.equal(q.options[q.answer],q.title);assert.ok(q.subject&&q.sourceItem&&q.bookRef&&q.paragraphs[0]);});
 result.muniQuestions=muniBank.length;result.muniSectionsAndLegacyBackup=true;
+const pickMuni=(app,key)=>{const picker=app.ids.get('muniSection');picker.value=key;picker.events.change();};
+// Upgrade from the 50-question LF MU release: same first 50 questions, saved answers, tips and open rounds survive.
+const muni50=app(historical('outputs/studijni-kvizy-v2.40.0/index.html','2.40.0'));
+muni50.run("switchSubject('muni');start('all');choose((byId.get(data.session.currentId).answer+1)%4);nextQuestion();$('guess').checked=true;choose(byId.get(data.session.currentId).answer);nextQuestion()");
+pickMuni(muni50,'physics');
+muni50.run("start('all');choose(byId.get(data.session.currentId).answer);nextQuestion()");
+pickMuni(muni50,'all');
+const muni50Bank=muni50.read('MUNI_QUESTIONS');
+assert.equal(muni50Bank.length,50);
+assert.deepEqual(muniBank.slice(0,50),muni50Bank);
+const muni50Backup=muni50.read('backupProgress()');
+const muniUpgraded=app(html,muni50.storage);
+muniUpgraded.run("switchSubject('muni')");
+assert.equal(muniUpgraded.run('BANK_SIZE'),100);
+assert.deepEqual(muniUpgraded.read('backupProgress().subjects.muni'),muni50Backup.subjects.muni);
+assert.equal(muni50Backup.subjects.muni.session.attempts.filter(a=>a.good===false).length,1);
+assert.equal(muni50Backup.subjects.muni.session.attempts.filter(a=>a.guessed).length,1);
+pickMuni(muniUpgraded,'physics');
+assert.deepEqual(muniUpgraded.read('data.session'),muni50Backup.subjects.muni.sections.physics);
+const muniRestored=app(html);
+assert.ok(muniRestored.run(`restoreProgress(${JSON.stringify(muni50Backup)})`));
+assert.deepEqual(app(html,muniRestored.storage).read('backupProgress().subjects.muni'),muni50Backup.subjects.muni);
+result.muniUpgradeFrom50=true;
+
 fs.mkdirSync('tmp',{recursive:true});
 fs.writeFileSync('tmp/check-results.json',JSON.stringify(result,null,2));console.log(JSON.stringify(result));
