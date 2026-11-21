@@ -34,6 +34,7 @@
 :root[data-subject="biologie"] { --subj: #16a34a; }
 :root[data-subject="budejovice"] { --subj: #7c3aed; }
 :root[data-subject="muni"] { --subj: #0d9488; }
+:root[data-subject="uk"] { --subj: #d97706; }
 :root {
   --subj-ink: color-mix(in srgb, var(--subj) 72%, #000);
   --subj-strong: color-mix(in srgb, var(--subj) 82%, #000);
@@ -126,6 +127,7 @@ button:focus-visible, a:focus-visible, summary:focus-visible, select:focus-visib
 #tab-biologie { --tab: #16a34a; }
 #tab-budejovice { --tab: #7c3aed; }
 #tab-muni { --tab: #0d9488; }
+#tab-uk { --tab: #d97706; }
 .subject-tab::before {
   content: ""; position: absolute; top: 9px; left: 9px; width: 7px; height: 7px; border-radius: 50%;
   background: var(--tab); transition: transform .25s var(--ease);
@@ -372,12 +374,14 @@ button:focus-visible, a:focus-visible, summary:focus-visible, select:focus-visib
 .theme-toggle:active { transform: rotate(-30deg) scale(.92); }
 .theme-switching, .theme-switching * { transition: background-color .4s, color .4s, border-color .4s, box-shadow .4s !important; }
 
-/* Four equally sized subject tabs */
-.subject-tabs { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+/* Five equally sized subject tabs: one row on wide screens, 3 + 2 (centred) on phones */
+.subject-tabs { grid-template-columns: repeat(5, minmax(0, 1fr)); grid-auto-rows: 1fr; }
 .subject-tabs .muni-tab { grid-column: auto; }
-.subject-tab { min-height: 64px; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+.subject-tab { min-height: 64px; display: flex; flex-direction: column; align-items: center; justify-content: center; overflow-wrap: anywhere; }
 @media (max-width: 620px) {
-  .subject-tabs { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .subject-tabs { grid-template-columns: repeat(6, minmax(0, 1fr)); }
+  .subject-tabs .subject-tab { grid-column: span 2; }
+  .subject-tabs .subject-tab:nth-child(4) { grid-column: 2 / span 2; }
 }
 @media (max-width: 360px) {
   .theme-toggle { width: 36px; height: 36px; font-size: 16px; }

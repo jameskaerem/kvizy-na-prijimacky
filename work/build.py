@@ -175,7 +175,9 @@ s=s.replace('kosti končetin. Formulace i vysvětlení','kosti končetin; svalst
 s=s.replace('data=load();save();updateSubjectUI();renderHome();','// Initialized after subject UI constants.',1)
 from muni_integration import integrate
 s=integrate(s,ROOT)
-# Design 3.0: four equally sized subject tabs; the full LF MU title stays in the panel text.
+from uk_integration import integrate as integrate_uk
+s=integrate_uk(s,ROOT)
+# Design 3.0: equally sized subject tabs; the full LF MU title stays in the panel text.
 import re as _re
 s,n=_re.subn(r'(id="tab-muni" class="subject-tab muni-tab"[^>]*)>[^<]*<small>(\d+) otázek</small>', lambda m: m.group(1)+' title="Modelové testové otázky k přijímacím zkouškám na LF MU (fyzika, chemie, biologie)">LF MU<small>Modelové otázky · '+m.group(2)+'</small>', s, count=1)
 assert n==1

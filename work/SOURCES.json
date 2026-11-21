@@ -59,5 +59,26 @@
     "bytes": 116625,
     "sha256": "13332f06087a3e466300b288299d3972dcdb6ce11da48c0459746c812e433536",
     "usedForCurrentQuiz": true
+  },
+  {
+    "path": "Univerzita Karlova/776944895-Modelove-Otazky-z-Biologie-Pro-Prijimaci-Zkousky.pdf",
+    "bytes": 1376393,
+    "sha256": "34bc87c7e9a1b473d8d5ca0c9381c4f2ab3573b702511967a0c922190c7aa2b0",
+    "usedForCurrentQuiz": true,
+    "note": "Kočárek a kol., 2. LF UK, 7. vyd. 2019; 920 otázek, klíč str. 198–204."
+  },
+  {
+    "path": "Univerzita Karlova/806318126-nahled-EK51316.pdf",
+    "bytes": 561481,
+    "sha256": "cfee5765148055aecc787f74dc85c5a6103b2ce2496198ffc5edf2fcb1009af6",
+    "usedForCurrentQuiz": true,
+    "note": "Amler a kol., fyzika 2. LF UK, 8. vyd. 2023; jen ukázka (úlohy 1.01–1.64 a 2.01–2.05), bez klíče."
+  },
+  {
+    "path": "Univerzita Karlova/876103174-Modelove-Otazky-z-Chemie-Pro-Prijimaci-Zkousky.pdf",
+    "bytes": 6717290,
+    "sha256": "4dfdb0565ad9f370e0ec95b7ff502d1745b39d26d80412373058ced877628b09",
+    "usedForCurrentQuiz": true,
+    "note": "Blanický, Pelouch, 2. LF UK, 7. vyd. 2019; otázky nečíslované, správné odpovědi vyznačené tučným písmenem."
   }
 ]
