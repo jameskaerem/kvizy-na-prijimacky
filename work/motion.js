@@ -12,7 +12,7 @@
     if (root && root.setAttribute) root.setAttribute('data-subject', activeSubject);
   }
   function viewKey() {
-    return activeSubject + ':' + (activeSubject === 'budejovice' ? schoolSection : activeSubject === 'muni' ? muniSection : '');
+    return activeSubject + ':' + (activeSubject === 'budejovice' ? schoolSection : activeSubject === 'muni' ? muniSection : activeSubject === 'uk' ? ukSection : '');
   }
   let shownKey = viewKey();
   let shownQuestion = data.session && !data.session.completed ? data.session.currentId : null;

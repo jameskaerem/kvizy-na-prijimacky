@@ -280,5 +280,68 @@ assert.ok(muniRestored.run(`restoreProgress(${JSON.stringify(muni50Backup)})`));
 assert.deepEqual(app(html,muniRestored.storage).read('backupProgress().subjects.muni'),muni50Backup.subjects.muni);
 result.muniUpgradeFrom50=true;
 
+// Univerzita Karlova: fifth subject with its own key, sections and backup; v2.43.0 progress and backups stay intact.
+const ukBank=JSON.parse(fs.readFileSync('work/uk-001-050.json','utf8'));
+const ukApp=app(html);
+assert.deepEqual(ukApp.read('UK_QUESTIONS'),ukBank);
+assert.equal(new Set(ukBank.map(q=>q.question)).size,ukBank.length);
+ukBank.forEach((q,i)=>{assert.equal(q.id,i+1);assert.equal(new Set(q.options).size,4);assert.equal(q.options[q.answer],q.title);assert.ok(q.subject&&q.sourceItem&&q.sourcePages&&q.bookRef&&q.paragraphs[0]&&q.memory);});
+assert.deepEqual(ukApp.read('subjectIds'),['somatologie','biologie','budejovice','muni','uk']);
+assert.equal(ukApp.run("SUBJECTS.uk.key"),'uk-learning-v2');
+assert.equal(new Set(ukApp.read('Object.values(SUBJECTS).map(s=>s.key)')).size,5);
+const ukTopicData=ukApp.read('UK_TOPICS');
+assert.deepEqual(Object.values(ukTopicData).map(t=>t.ids.length),[17,17,16]);
+const pickUk=(a,key)=>{const picker=a.ids.get('ukSection');picker.value=key;picker.events.change();};
+ukApp.run("switchSubject('uk');start('all');choose((byId.get(data.session.currentId).answer+1)%4);nextQuestion();$('guess').checked=true;choose(byId.get(data.session.currentId).answer);nextQuestion()");
+assert.equal(ukApp.run('BANK_SIZE'),50);
+const ukAll=ukApp.read('data.session');
+for(const [key,topic] of Object.entries(ukTopicData)){
+ pickUk(ukApp,key);ukApp.run("start('all')");
+ assert.deepEqual(ukApp.read('[data.session.currentId,...data.session.queue]').sort((a,b)=>a-b),topic.ids);
+ ukApp.run('choose(byId.get(data.session.currentId).answer);nextQuestion()');
+}
+assert.ok(ukApp.storage.has('uk-learning-v2'));
+assert.equal(ukApp.storage.get('uk-section'),'biology');
+const ukBackup=ukApp.read('backupProgress()');
+assert.equal(ukBackup.ukSection,'biology');
+assert.equal(ukBackup.subjects.uk.session.attempts.filter(a=>a.good===false).length,1);
+assert.equal(ukBackup.subjects.uk.session.attempts.filter(a=>a.guessed).length,1);
+assert.deepEqual(Object.keys(ukBackup.subjects.uk.sections).sort(),['biology','chemistry','physics']);
+// Reload keeps the selected section and every round.
+const ukReload=app(html,ukApp.storage);
+assert.equal(ukReload.run('activeSubject'),'uk');
+assert.equal(ukReload.run('ukSection'),'biology');
+assert.deepEqual(ukReload.read('backupProgress().subjects'),ukBackup.subjects);
+pickUk(ukReload,'all');
+assert.deepEqual(ukReload.read('data.session'),ukAll);
+// Export and import of the full five-subject backup in a fresh browser.
+const ukRestored=app(html);
+assert.ok(ukRestored.run(`restoreProgress(${JSON.stringify(ukBackup)})`));
+assert.deepEqual(app(html,ukRestored.storage).read('backupProgress().subjects'),ukBackup.subjects);
+assert.ok(!ukRestored.run(`validBackup(${JSON.stringify({...ukBackup,ukSection:'neexistuje'})})`));
+// Reset of the UK subject leaves the other subjects alone.
+const otherBefore=['somatologie-learning-v2','biologie-learning-v2','budejovice-learning-v2','muni-learning-v2'].map(k=>ukReload.storage.get(k));
+ukReload.run("$('reset').events.click()");
+assert.deepEqual(['somatologie-learning-v2','biologie-learning-v2','budejovice-learning-v2','muni-learning-v2'].map(k=>ukReload.storage.get(k)),otherBefore);
+assert.equal(ukReload.read('data.session'),null);
+// Upgrade from v2.43.0 (four subjects): stored progress and an old backup still work, UK starts empty.
+const v243=app(historical('outputs/studijni-kvizy-v2.43.0/index.html','2.43.0'));
+assert.throws(()=>v243.run('UK_QUESTIONS'));
+v243.run("switchSubject('budejovice');start('all');choose(byId.get(data.session.currentId).answer);nextQuestion();switchSubject('muni');start('all');choose((byId.get(data.session.currentId).answer+1)%4);nextQuestion();switchSubject('somatologie');start('all');choose(0);nextQuestion();switchSubject('muni')");
+const v243Backup=v243.read('backupProgress()');
+assert.equal(v243Backup.subjects.uk,undefined);
+const v243Before=new Map(v243.storage);
+const ukUpgraded=app(html,v243.storage);
+assert.equal(ukUpgraded.run('activeSubject'),'muni');
+const upgradedBackup=ukUpgraded.read('backupProgress()');
+for(const id of ['somatologie','biologie','budejovice','muni'])assert.deepEqual(upgradedBackup.subjects[id],v243Backup.subjects[id]);
+assert.equal(upgradedBackup.subjects.uk.session,null);
+for(const [key,value] of v243Before)if(key!=='uk-section'&&key!=='uk-learning-v2')assert.equal(ukUpgraded.storage.get(key),value,key);
+const oldRestore=app(html);
+assert.ok(oldRestore.run(`restoreProgress(${JSON.stringify(v243Backup)})`));
+const oldRestored=app(html,oldRestore.storage).read('backupProgress()');
+for(const id of ['somatologie','biologie','budejovice','muni'])assert.deepEqual(oldRestored.subjects[id],v243Backup.subjects[id]);
+result.ukQuestions=ukBank.length;result.ukSectionsBackupAndUpgradeFrom243=true;
+
 fs.mkdirSync('tmp',{recursive:true});
 fs.writeFileSync('tmp/check-results.json',JSON.stringify(result,null,2));console.log(JSON.stringify(result));
