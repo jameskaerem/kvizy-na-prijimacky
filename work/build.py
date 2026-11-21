@@ -30,6 +30,10 @@ for batch in sorted((ROOT / 'work').glob('budejovice-*.json')):
 assert [q['id'] for q in school] == list(range(1, len(school) + 1)) and school
 s=original.replace('<title>Somatologie · malý krok, velké pochopení</title>','<title>Studijní kvízy · Procvičování</title>')
 s=s.replace('content="630 otázek ze somatologie s vysvětlením a chytrým opakováním. Chyby a tipy častěji, zvládnuté otázky s odstupem."','content="Somatologie, biologie a přijímací testy z Českých Budějovic. Tři kvízy s vysvětlením, chytrým opakováním a samostatným ukládáním pokroku."')
+import base64 as _b64
+_icon_svg=(ROOT/'work/icon/icon.svg').read_text(encoding='utf-8').strip()
+_icon_png=_b64.b64encode((ROOT/'work/icon/apple-touch-icon.png').read_bytes()).decode()
+s=s.replace('<title>','<link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,'+_b64.b64encode(_icon_svg.encode()).decode()+'">\n  <link rel="apple-touch-icon" href="data:image/png;base64,'+_icon_png+'">\n  <title>',1)
 s=s.replace('<meta name="theme-color" content="#f6f3ee">','<meta name="theme-color" content="#f6f7f9">',1)
 s=s.replace('<div class="brand-name">Somatologie</div>','<div class="brand-name">Studijní kvízy</div>')
 s=s.replace('</style>','''

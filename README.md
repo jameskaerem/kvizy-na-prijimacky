@@ -1,12 +1,12 @@
 # Studijní kvízy
 
-Verze 2.42.0 • 21. 11. 2026
+Verze 2.43.0 • 21. 11. 2026
 
 Somatologie (630), Biologie (900), České Budějovice (683) a Modelové testové otázky k přijímacím zkouškám na LF MU (100). Samostatný soubor HTML funguje offline. Všechny předměty mají chytré procvičování, opakování chyb a tipů a test celé sady.
 
 ## Vzhled
 
-Od verze 2.42.0 sdílí kvíz vzhled s aplikací se zápisky z hodin: každý předmět má vlastní barvu, režimy a rozbalovací panely jsou barevné karty a přepínání záložek, otázek a výsledků je plynule animované. Vpravo v hlavičce lze přepnout vzhled podle systému, světlý nebo tmavý. Volba se ukládá pod klíčem `quiz-theme` odděleně od pokroku. Při omezení pohybu v systému se animace vypínají. Styly jsou v `work/design.css`, animace a přepínač vzhledu v `work/motion.js`.
+Od verze 2.42.0 sdílí kvíz vzhled s aplikací se zápisky z hodin: každý předmět má vlastní barvu, režimy a rozbalovací panely jsou barevné karty a přepínání záložek, otázek a výsledků je plynule animované. Vpravo v hlavičce lze přepnout vzhled podle systému, světlý nebo tmavý. Volba se ukládá pod klíčem `quiz-theme` odděleně od pokroku. Při omezení pohybu v systému se animace vypínají. Styly jsou v `work/design.css`, animace a přepínač vzhledu v `work/motion.js`. Od verze 2.43.0 má kvíz vlastní ikonu pro záložku prohlížeče a plochu telefonu (`work/icon/`), vloženou přímo do HTML, takže funguje i offline.
 
 ## Záloha a přenos pokroku
 
