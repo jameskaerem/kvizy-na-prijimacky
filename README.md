@@ -1,8 +1,8 @@
 # Studijní kvízy
 
-Verze 2.87.0 • 22. 11. 2026
+Verze 2.88.0 • 22. 11. 2026
 
-Somatologie (630), Biologie (900), České Budějovice (683), Modelové testové otázky k přijímacím zkouškám na LF MU (786) a Modelové otázky 2. LF UK – Univerzita Karlova (1 300). Samostatný soubor HTML funguje offline. Všechny předměty mají chytré procvičování, opakování chyb a tipů a test celé sady.
+Somatologie (630), Biologie (900), České Budějovice (683), Modelové testové otázky k přijímacím zkouškám na LF MU (786) a Modelové otázky 2. LF UK – Univerzita Karlova (1 350). Samostatný soubor HTML funguje offline. Všechny předměty mají chytré procvičování, opakování chyb a tipů a test celé sady.
 
 ## Formát odpovědí podle zkoušky
 
@@ -123,4 +123,4 @@ Nové otázky jsou založeny na učebnici. Sporné obecné údaje o antikoncepci
 
 ## Univerzita Karlova – modelové otázky 2. LF UK (fyzika, chemie, biologie)
 
-Pátá záložka (od verze 2.44.0) obsahuje 1 300 vlastních otázek podle modelových otázek 2. lékařské fakulty UK (Karolinum): 334 fyzika (Amler a kol., 2023, od verze 2.82.0 z celé knihy), 391 chemie (Blanický, Pelouch, 2019) a 575 biologie (Kočárek a kol., 2019). Od ID 738 jsou otázky ve formátu zkoušky se zaškrtáváním více správných odpovědí. Dávky 51–100 až 988–1000 přibyly ve verzích 2.46.0, 2.47.0, 2.49.0, 2.51.0, 2.53.0, 2.55.0, 2.57.0, 2.59.0, 2.61.0, 2.63.0, 2.65.0, 2.67.0, 2.69.0, 2.71.0, 2.75.0, 2.76.0, 2.77.0, 2.78.0, 2.79.0, 2.80.0, 2.82.0, 2.83.0, 2.84.0, 2.85.0, 2.86.0 a 2.87.0. V rozbalovacím seznamu lze vybrat všechny otázky nebo jeden předmět, každý výběr má vlastní rozpracované kolo. Pokrok se ukládá pod novým klíčem `uk-learning-v2` a volba předmětu pod `uk-section`, stávající klíče se nemění. Záloha zahrnuje i tento kvíz a starší zálohy bez něj se dál načítají. Na širokém displeji je všech pět záložek v jedné řadě, na telefonu ve dvou řadách (3 + 2) se stejnou velikostí. Evidence zdrojů a další postup v [mapě UK](work/UK-POKRYTI.md).
+Pátá záložka (od verze 2.44.0) obsahuje 1 350 vlastních otázek podle modelových otázek 2. lékařské fakulty UK (Karolinum): 384 fyzika (Amler a kol., 2023, od verze 2.82.0 z celé knihy), 391 chemie (Blanický, Pelouch, 2019) a 575 biologie (Kočárek a kol., 2019). Od ID 738 jsou otázky ve formátu zkoušky se zaškrtáváním více správných odpovědí. Dávky 51–100 až 988–1000 přibyly ve verzích 2.46.0, 2.47.0, 2.49.0, 2.51.0, 2.53.0, 2.55.0, 2.57.0, 2.59.0, 2.61.0, 2.63.0, 2.65.0, 2.67.0, 2.69.0, 2.71.0, 2.75.0, 2.76.0, 2.77.0, 2.78.0, 2.79.0, 2.80.0, 2.82.0, 2.83.0, 2.84.0, 2.85.0, 2.86.0, 2.87.0 a 2.88.0. V rozbalovacím seznamu lze vybrat všechny otázky nebo jeden předmět, každý výběr má vlastní rozpracované kolo. Pokrok se ukládá pod novým klíčem `uk-learning-v2` a volba předmětu pod `uk-section`, stávající klíče se nemění. Záloha zahrnuje i tento kvíz a starší zálohy bez něj se dál načítají. Na širokém displeji je všech pět záložek v jedné řadě, na telefonu ve dvou řadách (3 + 2) se stejnou velikostí. Evidence zdrojů a další postup v [mapě UK](work/UK-POKRYTI.md).

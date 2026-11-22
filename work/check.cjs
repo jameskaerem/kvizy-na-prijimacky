@@ -445,10 +445,12 @@ const a0=fmt.read('data.session.attempts[0]');
 assert.equal(a0.id,multiId);assert.equal(a0.selected,16+want.reduce((m,i)=>m|(1<<i),0));assert.equal(a0.good,true);
 fmt.run("nextQuestion()");
 const q2=fmt.read('byId.get(data.session.currentId)');const c2=q2.answers||[q2.answer];
-fmt.run(`togglePick(${c2[0]});togglePick(${(c2[0]+1)%4})`);
+// Pick one correct option plus a definitely wrong one; if all four are correct, a single pick is partial.
+const w2=[0,1,2,3].find(i=>!c2.includes(i));
+fmt.run(`togglePick(${c2[0]})`+(w2===undefined?'':`;togglePick(${w2})`));
 fmt.run("nextQuestion()");
 assert.equal(fmt.read('data.session.attempts[1]').good,false);
-assert.ok(fmt.run("[...$('answers').children].some(b=>b.className.includes('wrong'))"));
+assert.ok(fmt.run(`[...$('answers').children].some(b=>b.className.includes('${w2===undefined?'missed':'wrong'}'))`));
 // Real multi-select attempts and the LF MU E answer survive export, import and reload.
 const fmtBackup=fmt.read('backupProgress()');
 const fmtRestored=app(html);

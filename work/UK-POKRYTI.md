@@ -459,6 +459,14 @@ Vynechané: 6.51 (jako 6.09), 6.55 (jako 6.31), 6.59 (jako 6.58), 6.60 (LF MU 22
 
 Sporné: 7.31 – klíč ABCD zahrnuje možnost „111 kΩ“, která neodpovídá vodivosti 0,111 S (správně asi 9 Ω). Úloha je vyřazená.
 
+## Dávka ID 1301–1350: Amler, zbytek kap. 7 a kap. 8 po úlohu 8.38 (v2.88.0)
+
+Použité úlohy (ID): 7.46 (1301), 7.53, 7.54 (1302–1303), 7.57–7.59 (1304–1306), 7.61–7.65 (1307–1311), 7.67–7.69 (1312–1314), 7.71 (1315), 7.73 (1316), 7.76 (1317), 7.78 (1318), kap. 8 „Elektřina a magnetismus II“: 8.01–8.07 (1319–1325), 8.09 (1326), 8.11–8.24 (1327–1340), 8.26 (1341), 8.28–8.33 (1342–1347), 8.36–8.38 (1348–1350). Klíč všech 50 otázek odpovídá klíči knihy, výpočty (7.53, 7.59, 7.61–7.65, 7.69, 7.71, 7.73, 7.76, 7.78) jsou přepočítané.
+
+Vynechané: 7.55 (jako 7.54), 7.56 (jako 7.35), 7.60 (LF MU 12), 7.66 (jako 7.44), 7.70 a 8.10 (vzorce poškozené v textovém exportu), 7.72 (jako 7.71), 7.74 a 7.77 (jako 7.06), 7.75 (jako 7.76), 7.79 (jako 7.39), 8.08 (jako 7.14), 8.25 (zrcadlová k 8.24, vysvětlení obou je v 8.24), 8.27 (LF MU 311), 8.34 (jako 8.33), 8.35 (možnosti B a C v exportu nerozlišitelné, energie kondenzátoru už v 7.07 a 7.26).
+
+Test `work/check.cjs` u kontroly částečné odpovědi nově volí jistě chybnou možnost. Dřív náhodně selhal, když druhá vylosovaná otázka měla správné obě zaškrtnuté možnosti.
+
 ## Stav pokrytí
 
-Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) je posouzená celá včetně úloh s více správnými odpověďmi (ID 738–1000). Fyzika (Amler, celá kniha 907 úloh) je posouzená v kap. 1–6 a v kap. 7 po úlohu 7.52. Další dávka začne od ID 1301 úlohami 7.46 a 7.53.
+Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) je posouzená celá včetně úloh s více správnými odpověďmi (ID 738–1000). Fyzika (Amler, celá kniha 907 úloh) je posouzená v kap. 1–7 a v kap. 8 po úlohu 8.38. Další dávka začne od ID 1351 úlohou 8.39.
