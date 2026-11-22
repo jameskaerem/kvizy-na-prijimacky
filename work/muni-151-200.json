@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 151,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 1 · str. 25",
+    "sourcePages": "25",
+    "sourceItem": "1",
+    "question": "Jaká je celková mechanická energie netlumeného mechanického oscilátoru během kmitání?",
+    "options": [
+      "největší při maximální výchylce",
+      "nejmenší při nulové výchylce",
+      "konstantní",
+      "nulová při průchodu rovnovážnou polohou"
+    ],
+    "answer": 2,
+    "title": "konstantní",
+    "paragraphs": [
+      "U netlumeného oscilátoru se kinetická a potenciální energie navzájem přeměňují, ale jejich součet zůstává stále stejný. Energie se neztrácí, protože nepůsobí tlumení."
+    ],
+    "memory": "Netlumený = součet Ek + Ep se nemění."
+  },
+  {
+    "id": 152,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 2 · str. 25",
+    "sourcePages": "25",
+    "sourceItem": "2",
+    "question": "Kdy je rychlost tělesa konajícího netlumený harmonický kmitavý pohyb největší?",
+    "options": [
+      "v okamžiku maximální kladné výchylky",
+      "v okamžiku maximální záporné výchylky",
+      "rychlost je stále stejná",
+      "v okamžiku nulové výchylky"
+    ],
+    "answer": 3,
+    "title": "v okamžiku nulové výchylky",
+    "paragraphs": [
+      "Při průchodu rovnovážnou polohou je veškerá energie oscilátoru kinetická, proto je rychlost maximální. V krajních polohách se těleso na okamžik zastaví."
+    ],
+    "memory": "Střed = nejrychleji, kraj = stojí."
+  },
+  {
+    "id": 153,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 4 · str. 25",
+    "sourcePages": "25",
+    "sourceItem": "4",
+    "question": "Kdy má netlumený harmonický oscilátor nejmenší kinetickou energii?",
+    "options": [
+      "když dosahuje maximálního zrychlení",
+      "když prochází rovnovážnou polohou",
+      "když má výchylku rovnou polovině amplitudy",
+      "když má největší rychlost"
+    ],
+    "answer": 0,
+    "title": "když dosahuje maximálního zrychlení",
+    "paragraphs": [
+      "Maximální zrychlení odpovídá maximální výchylce (a = −ω²y). V krajní poloze je rychlost nulová, takže kinetická energie je nejmenší, tedy nulová."
+    ],
+    "memory": "Krajní poloha: max zrychlení, nulová Ek."
+  },
+  {
+    "id": 154,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 9 · str. 26",
+    "sourcePages": "26",
+    "sourceItem": "9",
+    "question": "Co udává výraz y = yₘ · sin(ωt + φ₀) u harmonického oscilátoru?",
+    "options": [
+      "amplitudu kmitů",
+      "okamžitou výchylku z rovnovážné polohy",
+      "maximální výchylku z rovnovážné polohy",
+      "vždy počáteční výchylku"
+    ],
+    "answer": 1,
+    "title": "okamžitou výchylku z rovnovážné polohy",
+    "paragraphs": [
+      "Rovnice popisuje výchylku y v libovolném čase t. Amplituda je yₘ, počáteční fáze φ₀ a počáteční výchylka je jen hodnota pro t = 0."
+    ],
+    "memory": "y(t) = okamžitá výchylka."
+  },
+  {
+    "id": 155,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 10 · str. 26",
+    "sourcePages": "26",
+    "sourceItem": "10",
+    "question": "O kolik se musí změnit fáze netlumeného harmonického kmitání, aby měl kmitající bod s jistotou opět stejnou výchylku?",
+    "options": [
+      "o 1 rad",
+      "o π/2 rad",
+      "o 2π rad",
+      "o π rad"
+    ],
+    "answer": 2,
+    "title": "o 2π rad",
+    "paragraphs": [
+      "Funkce sinus má periodu 2π. Změna fáze o 2π odpovídá jedné celé periodě, po které se bod vrací do stejného stavu."
+    ],
+    "memory": "Celý kmit = 2π."
+  },
+  {
+    "id": 156,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 11 · str. 26",
+    "sourcePages": "26",
+    "sourceItem": "11",
+    "question": "Jak je dána úhlová frekvence harmonického kmitání?",
+    "options": [
+      "ω = 2πT",
+      "ω = 1/f",
+      "ω = f/2π",
+      "ω = 2πf"
+    ],
+    "answer": 3,
+    "title": "ω = 2πf",
+    "paragraphs": [
+      "Úhlová frekvence je ω = 2πf = 2π/T, kde f je frekvence a T perioda. V původní nabídce nebyl správný vzorec uveden, proto je zde doplněn."
+    ],
+    "memory": "ω = 2πf = 2π/T."
+  },
+  {
+    "id": 157,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 12 · str. 26",
+    "sourcePages": "26",
+    "sourceItem": "12",
+    "question": "Jak se změní perioda matematického kyvadla, prodloužíme-li závěs na čtyřnásobek?",
+    "options": [
+      "zdvojnásobí se",
+      "zvýší se na čtyřnásobek",
+      "nezmění se",
+      "zmenší se na polovinu"
+    ],
+    "answer": 0,
+    "title": "zdvojnásobí se",
+    "paragraphs": [
+      "Perioda kyvadla je T = 2π√(l/g). Při čtyřnásobné délce vzroste odmocnina dvakrát, takže perioda se zdvojnásobí."
+    ],
+    "memory": "T ~ √l: 4× délka = 2× perioda."
+  },
+  {
+    "id": 158,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 13 · str. 26",
+    "sourcePages": "26",
+    "sourceItem": "13",
+    "question": "Jak se změní perioda matematického kyvadla, zvětšíme-li velmi malou počáteční výchylku na čtyřnásobek?",
+    "options": [
+      "zdvojnásobí se",
+      "nezmění se",
+      "zvýší se na čtyřnásobek",
+      "zmenší se na polovinu"
+    ],
+    "answer": 1,
+    "title": "nezmění se",
+    "paragraphs": [
+      "Pro malé výchylky platí T = 2π√(l/g), takže perioda nezávisí na amplitudě. Kyvadlo jen urazí delší dráhu větší rychlostí."
+    ],
+    "memory": "Malé výchylky: perioda nezávisí na amplitudě."
+  },
+  {
+    "id": 159,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 14 · str. 26",
+    "sourcePages": "26",
+    "sourceItem": "14",
+    "question": "Jak se změní perioda kyvů matematického kyvadla na planetě se čtvrtinovým tíhovým zrychlením oproti Zemi?",
+    "options": [
+      "bude totožná",
+      "bude čtyřikrát menší",
+      "bude dvakrát větší",
+      "bude čtyřikrát větší"
+    ],
+    "answer": 2,
+    "title": "bude dvakrát větší",
+    "paragraphs": [
+      "Z T = 2π√(l/g) plyne, že při g/4 vzroste √(l/g) dvakrát. Kyvadlo tedy kmitá pomaleji s dvojnásobnou periodou."
+    ],
+    "memory": "Méně g = pomalejší kyvadlo, T ~ 1/√g."
+  },
+  {
+    "id": 160,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 16 · str. 27",
+    "sourcePages": "27",
+    "sourceItem": "16",
+    "question": "O kolik se musí změnit fáze harmonického kmitání, aby výchylka nabyla opačné, stejně velké hodnoty, a to pro každé y?",
+    "options": [
+      "o π/2",
+      "o 3π/2",
+      "o 2π",
+      "o π"
+    ],
+    "answer": 3,
+    "title": "o π",
+    "paragraphs": [
+      "Platí sin(α + π) = −sin α. Změna fáze o π tedy pro každou výchylku y dá hodnotu −y."
+    ],
+    "memory": "+π = opačné znaménko."
+  },
+  {
+    "id": 161,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 21 · str. 27",
+    "sourcePages": "27",
+    "sourceItem": "21",
+    "question": "Jaký je hlavní rozdíl mezi zvukem a ultrazvukem?",
+    "options": [
+      "ultrazvuk má vyšší frekvenci než slyšitelný zvuk",
+      "ultrazvuk se v daném prostředí šíří rychleji než zvuk",
+      "ultrazvuk je elektromagnetické vlnění",
+      "zvuk je příčné vlnění a ultrazvuk podélné"
+    ],
+    "answer": 0,
+    "title": "ultrazvuk má vyšší frekvenci než slyšitelný zvuk",
+    "paragraphs": [
+      "Zvuk i ultrazvuk jsou mechanické vlnění, které se v daném prostředí šíří stejnou rychlostí. Ultrazvuk má frekvenci nad hranicí slyšitelnosti, tedy nad 20 kHz. V původní nabídce byla správná varianta „žádná z uvedených“."
+    ],
+    "memory": "Ultrazvuk = nad 20 kHz, jinak stejná mechanika."
+  },
+  {
+    "id": 162,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 22 · str. 27",
+    "sourcePages": "27",
+    "sourceItem": "22",
+    "question": "Které veličiny je jednotkou watt na metr čtvereční (W·m⁻²)?",
+    "options": [
+      "hladiny intenzity zvuku",
+      "intenzity zvuku",
+      "akustického výkonu",
+      "akustického tlaku"
+    ],
+    "answer": 1,
+    "title": "intenzity zvuku",
+    "paragraphs": [
+      "Intenzita zvuku je výkon připadající na jednotku plochy: I = P/S, proto W·m⁻². Hladina intenzity se udává v decibelech, výkon ve wattech a tlak v pascalech."
+    ],
+    "memory": "Intenzita = W na m²."
+  },
+  {
+    "id": 163,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 23 · str. 27",
+    "sourcePages": "27",
+    "sourceItem": "23",
+    "question": "Kde může vznikat příčné mechanické vlnění?",
+    "options": [
+      "pouze v plynech",
+      "pouze v objemu kapaliny",
+      "zejména v tuhých látkách",
+      "stejně ve všech skupenstvích"
+    ],
+    "answer": 2,
+    "title": "zejména v tuhých látkách",
+    "paragraphs": [
+      "Příčné vlnění vyžaduje pružnost ve smyku, kterou mají hlavně pevné látky. V objemu kapalin a v plynech se šíří podélné vlnění. U kapalin vzniká příčné vlnění jen na povrchu."
+    ],
+    "memory": "Příčné = tuhá látka (smyk)."
+  },
+  {
+    "id": 164,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 25 · str. 27",
+    "sourcePages": "27",
+    "sourceItem": "25",
+    "question": "Jaké je přibližně celkové rozpětí hladin intenzity zvuku, které zdravé lidské ucho zpracuje?",
+    "options": [
+      "16–20 000 dB",
+      "70–80 dB",
+      "90–100 dB",
+      "0–130 dB"
+    ],
+    "answer": 3,
+    "title": "0–130 dB",
+    "paragraphs": [
+      "Práh slyšení odpovídá 0 dB a práh bolesti přibližně 130 dB. Hodnoty 16–20 000 platí pro frekvence v hertzích, ne pro decibely."
+    ],
+    "memory": "Slyšení: 0 dB až práh bolesti 130 dB."
+  },
+  {
+    "id": 165,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 29 · str. 28",
+    "sourcePages": "28",
+    "sourceItem": "29",
+    "question": "Které tvrzení o zvuku a ultrazvuku je pravdivé?",
+    "options": [
+      "akustické kmity o frekvenci 10 MHz jsou ultrazvukové",
+      "ultrazvuk se nešíří vzduchem",
+      "ultrazvuk má delší vlnovou délku než zvuk",
+      "ultrazvuk se v kapalinách šíří zpravidla příčně"
+    ],
+    "answer": 0,
+    "title": "akustické kmity o frekvenci 10 MHz jsou ultrazvukové",
+    "paragraphs": [
+      "10 MHz je mnohem víc než 20 kHz, jde tedy o ultrazvuk, jaký se používá v diagnostice. Ultrazvuk se šíří i vzduchem, má kratší vlnovou délku a v kapalinách je podélný."
+    ],
+    "memory": "MHz v medicíně = ultrazvuk."
+  },
+  {
+    "id": 166,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 31 · str. 28",
+    "sourcePages": "28",
+    "sourceItem": "31",
+    "question": "Čím se v daném prostředí liší slyšitelný zvuk od ultrazvuku?",
+    "options": [
+      "zvuk má kratší vlnovou délku",
+      "zvuk má větší vlnovou délku",
+      "zvuk má větší rychlost šíření",
+      "zvuk má vždy větší intenzitu"
+    ],
+    "answer": 1,
+    "title": "zvuk má větší vlnovou délku",
+    "paragraphs": [
+      "Rychlost šíření je v daném prostředí stejná, takže z λ = v/f plyne, že nižší frekvence zvuku znamená větší vlnovou délku."
+    ],
+    "memory": "λ = v/f: nižší f = delší vlna."
+  },
+  {
+    "id": 167,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 32 · str. 28",
+    "sourcePages": "28",
+    "sourceItem": "32",
+    "question": "Hladina intenzity zvuku vzroste o 50 dB. Jaký je poměr původní a konečné intenzity zvuku?",
+    "options": [
+      "1 : 50",
+      "1 : 500",
+      "1 : 10⁵",
+      "1 : 1050"
+    ],
+    "answer": 2,
+    "title": "1 : 10⁵",
+    "paragraphs": [
+      "Každých 10 dB znamená desetinásobek intenzity. Vzestup o 50 dB tedy odpovídá 10⁵násobku: L = 10 · log(I₂/I₁) = 50 dB."
+    ],
+    "memory": "10 dB = ×10, 50 dB = ×10⁵."
+  },
+  {
+    "id": 168,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 33 · str. 28",
+    "sourcePages": "28",
+    "sourceItem": "33",
+    "question": "Jaká intenzita zvuku se obvykle udává pro práh slyšení při frekvenci 1000 Hz?",
+    "options": [
+      "1 W·m⁻²",
+      "130 dB",
+      "16–20 000 dB",
+      "1 · 10⁻¹² W·m⁻²"
+    ],
+    "answer": 3,
+    "title": "1 · 10⁻¹² W·m⁻²",
+    "paragraphs": [
+      "Prahová intenzita I₀ = 10⁻¹² W·m⁻² je referenční hodnota, ke které se vztahuje hladina intenzity 0 dB."
+    ],
+    "memory": "I₀ = 10⁻¹² W/m² = 0 dB."
+  },
+  {
+    "id": 169,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 35 · str. 28",
+    "sourcePages": "28",
+    "sourceItem": "35",
+    "question": "Zvuk má intenzitu 1 mW·m⁻². Jaká je jeho hladina intenzity?",
+    "options": [
+      "90 dB",
+      "1 dB",
+      "0,001 dB",
+      "0,002 dB"
+    ],
+    "answer": 0,
+    "title": "90 dB",
+    "paragraphs": [
+      "L = 10 · log(I/I₀) = 10 · log(10⁻³/10⁻¹²) = 10 · log 10⁹ = 90 dB."
+    ],
+    "memory": "L = 10 · log(I/10⁻¹²)."
+  },
+  {
+    "id": 170,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 38 · str. 29",
+    "sourcePages": "29",
+    "sourceItem": "38",
+    "question": "Co je příkladem podélného stojatého vlnění?",
+    "options": [
+      "mořský příboj",
+      "chvění vzduchového sloupce v píšťale",
+      "světlo šířící se prostorem",
+      "ozvěna v jeskyni"
+    ],
+    "answer": 1,
+    "title": "chvění vzduchového sloupce v píšťale",
+    "paragraphs": [
+      "Ve vzduchovém sloupci píšťaly se podélné zvukové vlny odrážejí a skládají ve stojaté vlnění s uzly a kmitnami. Ozvěna je postupné vlnění, světlo je elektromagnetické příčné vlnění."
+    ],
+    "memory": "Píšťala = podélné stojaté vlnění."
+  },
+  {
+    "id": 171,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 41 · str. 29",
+    "sourcePages": "29",
+    "sourceItem": "41",
+    "question": "Projevem jakého mechanického vlnění jsou Chladniho obrazce?",
+    "options": [
+      "postupného příčného",
+      "postupného podélného",
+      "stojatého příčného",
+      "stojatého podélného"
+    ],
+    "answer": 2,
+    "title": "stojatého příčného",
+    "paragraphs": [
+      "Na rozkmitané desce vzniká stojaté příčné vlnění. Písek se shromáždí v uzlových čarách, které se nepohybují, a vytvoří obrazec."
+    ],
+    "memory": "Chladni: písek v uzlech stojaté příčné vlny."
+  },
+  {
+    "id": 172,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 42 · str. 29",
+    "sourcePages": "29",
+    "sourceItem": "42",
+    "question": "Jaký charakter mají samohlásky?",
+    "options": [
+      "čistých tónů",
+      "pouze vyšších harmonických tónů",
+      "hluků a šumů",
+      "barevných (složených) tónů"
+    ],
+    "answer": 3,
+    "title": "barevných (složených) tónů",
+    "paragraphs": [
+      "Samohlásky jsou periodické zvuky složené ze základního tónu a vyšších harmonických. Jejich zastoupení dává každé samohlásce typickou barvu."
+    ],
+    "memory": "Samohláska = složený tón s barvou."
+  },
+  {
+    "id": 173,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 43 · str. 29",
+    "sourcePages": "29",
+    "sourceItem": "43",
+    "question": "Jaký charakter mají souhlásky?",
+    "options": [
+      "hluků a šumů",
+      "složených tónů",
+      "čistých hlubokých tónů",
+      "hudebních zvuků"
+    ],
+    "answer": 0,
+    "title": "hluků a šumů",
+    "paragraphs": [
+      "Souhlásky vznikají turbulentním prouděním nebo náhlým uvolněním vzduchu. Jde o neperiodické zvuky, tedy hluky a šumy. V původní nabídce byla správná varianta „žádná z uvedených“."
+    ],
+    "memory": "Souhláska = šum, samohláska = tón."
+  },
+  {
+    "id": 174,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 45 · str. 29",
+    "sourcePages": "29",
+    "sourceItem": "45",
+    "question": "Ve které látce se zvuk šíří nejvyšší rychlostí?",
+    "options": [
+      "ve vzduchu",
+      "v oceli",
+      "v héliu",
+      "ve vodě"
+    ],
+    "answer": 1,
+    "title": "v oceli",
+    "paragraphs": [
+      "V pevných látkách s velkým modulem pružnosti je rychlost zvuku nejvyšší, v oceli kolem 5000 m/s. Ve vodě je to asi 1500 m/s, v héliu asi 1000 m/s a ve vzduchu 340 m/s."
+    ],
+    "memory": "Pevná látka > kapalina > plyn."
+  },
+  {
+    "id": 175,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 47 · str. 29",
+    "sourcePages": "29",
+    "sourceItem": "47",
+    "question": "Na čem především závisí vlastnosti tónu, který vydává varhanní píšťala?",
+    "options": [
+      "na frekvenci, s jakou je vzduch vháněn z měchu",
+      "na množství vzduchu, které vniká do píšťaly",
+      "na délce píšťaly",
+      "především na akustice kostela"
+    ],
+    "answer": 2,
+    "title": "na délce píšťaly",
+    "paragraphs": [
+      "Výška tónu je dána vlastní frekvencí vzduchového sloupce, a ta závisí hlavně na délce píšťaly. Delší píšťala vydává hlubší tón."
+    ],
+    "memory": "Delší píšťala = hlubší tón."
+  },
+  {
+    "id": 176,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmity a akustika",
+    "bookRef": "LF MU · Fyzika · Kmity a akustika 48 · str. 29",
+    "sourcePages": "29",
+    "sourceItem": "48",
+    "question": "Na čem závisí výška tónu prázdné kytarové struny?",
+    "options": [
+      "jen na délce struny mezi kobylkou a koncem hmatníku",
+      "jen na celkové hmotnosti struny",
+      "jen na délce struny a rychlosti zvuku ve vzduchu",
+      "na délce, napětí a hustotě struny"
+    ],
+    "answer": 3,
+    "title": "na délce, napětí a hustotě struny",
+    "paragraphs": [
+      "Frekvence struny roste s jejím napětím a klesá s délkou a hmotností na jednotku délky (hustotou). Proto se kytara ladí napínáním strun a struny mají různou tloušťku."
+    ],
+    "memory": "Struna: napětí ↑ výška ↑, délka a hustota ↑ výška ↓."
+  },
+  {
+    "id": 177,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 53 · str. 77",
+    "sourcePages": "77",
+    "sourceItem": "53",
+    "question": "K neutralizaci 10,0 cm³ roztoku kyseliny octové bylo spotřebováno 80,0 cm³ roztoku NaOH o koncentraci 0,20 mol·dm⁻³. Jaká je koncentrace kyseliny?",
+    "options": [
+      "1,60 mol·dm⁻³",
+      "1,78 mol·dm⁻³",
+      "2,00 mol·dm⁻³",
+      "2,50 mol·dm⁻³"
+    ],
+    "answer": 0,
+    "title": "1,60 mol·dm⁻³",
+    "paragraphs": [
+      "n(NaOH) = 0,080 · 0,20 = 0,016 mol. Kyselina octová reaguje s NaOH v poměru 1 : 1, takže c = 0,016/0,010 = 1,60 mol·dm⁻³."
+    ],
+    "memory": "c₁V₁ = c₂V₂ pro poměr 1 : 1."
+  },
+  {
+    "id": 178,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 54 · str. 77",
+    "sourcePages": "77",
+    "sourceItem": "54",
+    "question": "Jaký objem roztoku HCl o koncentraci 0,2 mol·dm⁻³ je nutný k neutralizaci 0,404 g hydroxidu draselného (Mr = 56,1)?",
+    "options": [
+      "11,3 cm³",
+      "36,0 cm³",
+      "18,0 cm³",
+      "72,0 cm³"
+    ],
+    "answer": 1,
+    "title": "36,0 cm³",
+    "paragraphs": [
+      "n(KOH) = 0,404/56,1 = 7,2 mmol. HCl reaguje v poměru 1 : 1, takže V = 7,2 mmol / 0,2 mol·dm⁻³ = 36 cm³."
+    ],
+    "memory": "Hmotnost → mol → objem."
+  },
+  {
+    "id": 179,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 55 · str. 77",
+    "sourcePages": "77",
+    "sourceItem": "55",
+    "question": "Smícháme stejné objemy roztoků Ca(OH)₂ (Mr = 74,1) a H₂SO₄ (Mr = 98,1), oba o hmotnostní koncentraci 1 g·dm⁻³. Jaká bude reakce výsledné směsi?",
+    "options": [
+      "neutrální",
+      "slabě kyselá",
+      "zásaditá",
+      "silně kyselá"
+    ],
+    "answer": 2,
+    "title": "zásaditá",
+    "paragraphs": [
+      "Na 1 dm³ připadá 1/74,1 = 13,5 mmol Ca(OH)₂ a 1/98,1 = 10,2 mmol H₂SO₄. Obě látky reagují v poměru 1 : 1, takže hydroxid zůstane v nadbytku a směs je zásaditá."
+    ],
+    "memory": "Stejné gramy ≠ stejné moly: lehčí látka převáží."
+  },
+  {
+    "id": 180,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 56 · str. 77",
+    "sourcePages": "77",
+    "sourceItem": "56",
+    "question": "Co je elektrolytická disociace?",
+    "options": [
+      "rozklad elektrolytu elektrickým proudem",
+      "pohyb iontů k opačně nabitým elektrodám",
+      "redoxní reakce iontů na elektrodách",
+      "rozpad látky na kladně a záporně nabité ionty"
+    ],
+    "answer": 3,
+    "title": "rozpad látky na kladně a záporně nabité ionty",
+    "paragraphs": [
+      "Při disociaci se látka v roztoku nebo tavenině rozpadá na ionty i bez proudu. Rozklad proudem je elektrolýza a pohyb iontů k elektrodám je vedení proudu."
+    ],
+    "memory": "Disociace = vznik iontů, elektrolýza = proud."
+  },
+  {
+    "id": 181,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 62 · str. 78",
+    "sourcePages": "78",
+    "sourceItem": "62",
+    "question": "Roztoky mají stejnou koncentraci 0,01 mol·dm⁻³. Který z nich má nejvyšší elektrickou vodivost?",
+    "options": [
+      "kyselina sírová",
+      "ethanol",
+      "kyselina octová",
+      "chlorid sodný"
+    ],
+    "answer": 0,
+    "title": "kyselina sírová",
+    "paragraphs": [
+      "H₂SO₄ je silný elektrolyt, dává nejvíce iontů na molekulu a obsahuje velmi pohyblivé ionty H₃O⁺. NaCl dává jen dva méně pohyblivé ionty, kyselina octová je slabý elektrolyt a ethanol nevede."
+    ],
+    "memory": "Nejvíc pohyblivých iontů = nejlepší vodivost."
+  },
+  {
+    "id": 182,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 65 · str. 78",
+    "sourcePages": "78",
+    "sourceItem": "65",
+    "question": "Který výrok je nesprávný?",
+    "options": [
+      "koncentrace Cl⁻ v roztoku AlCl₃ (c = 50 mmol·dm⁻³) je 150 mmol·dm⁻³",
+      "octan sodný je ve vodném roztoku slabý elektrolyt",
+      "1 mol CaCl₂ obsahuje 18,06 · 10²³ iontů",
+      "čistá voda je velmi slabý elektrolyt"
+    ],
+    "answer": 1,
+    "title": "octan sodný je ve vodném roztoku slabý elektrolyt",
+    "paragraphs": [
+      "Octan sodný je sůl a disociuje úplně, je to tedy silný elektrolyt (slabá je jen kyselina octová). Ostatní tvrzení platí: AlCl₃ dává 3 Cl⁻ a CaCl₂ dává 3 moly iontů, tedy 3 · 6,02 · 10²³."
+    ],
+    "memory": "Soli jsou silné elektrolyty."
+  },
+  {
+    "id": 183,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 69 · str. 78",
+    "sourcePages": "78",
+    "sourceItem": "69",
+    "question": "Jaká je koncentrace síranových aniontů v roztoku síranu železitého o koncentraci 50 mmol·dm⁻³?",
+    "options": [
+      "10 mmol·dm⁻³",
+      "25 mmol·dm⁻³",
+      "150 mmol·dm⁻³",
+      "50 mmol·dm⁻³"
+    ],
+    "answer": 2,
+    "title": "150 mmol·dm⁻³",
+    "paragraphs": [
+      "Fe₂(SO₄)₃ disociuje na 2 Fe³⁺ a 3 SO₄²⁻. Koncentrace síranů je proto 3 · 50 = 150 mmol·dm⁻³."
+    ],
+    "memory": "Počet iontů ve vzorci × koncentrace soli."
+  },
+  {
+    "id": 184,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 72 · str. 78",
+    "sourcePages": "78",
+    "sourceItem": "72",
+    "question": "Jakou koncentraci síranu sodného zvolíte, aby koncentrace sodných iontů v roztoku byla 18 mmol·dm⁻³?",
+    "options": [
+      "12 mmol·dm⁻³",
+      "18 mmol·dm⁻³",
+      "27 mmol·dm⁻³",
+      "9 mmol·dm⁻³"
+    ],
+    "answer": 3,
+    "title": "9 mmol·dm⁻³",
+    "paragraphs": [
+      "Na₂SO₄ uvolní dva ionty Na⁺. Potřebná koncentrace soli je tedy 18/2 = 9 mmol·dm⁻³."
+    ],
+    "memory": "Na₂SO₄: c(Na⁺) = 2 · c(soli)."
+  },
+  {
+    "id": 185,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 94 · str. 80",
+    "sourcePages": "80",
+    "sourceItem": "94",
+    "question": "Která z uvedených dusíkatých bází je nejsilnější?",
+    "options": [
+      "dimethylamin (Kb = 5,1 · 10⁻⁴)",
+      "amoniak (Kb = 1,8 · 10⁻⁵)",
+      "methylamin (Kb = 4,4 · 10⁻⁴)",
+      "trimethylamin (Kb = 5,3 · 10⁻⁵)"
+    ],
+    "answer": 0,
+    "title": "dimethylamin (Kb = 5,1 · 10⁻⁴)",
+    "paragraphs": [
+      "Síla báze roste s disociační konstantou Kb. Největší hodnotu má dimethylamin, je tedy nejsilnější bází."
+    ],
+    "memory": "Větší Kb = silnější báze."
+  },
+  {
+    "id": 186,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 96 · str. 80",
+    "sourcePages": "80",
+    "sourceItem": "96",
+    "question": "Jaká je přibližná koncentrace HCl ve vodném roztoku s pH 2,50?",
+    "options": [
+      "1,6 · 10⁻³ mol·dm⁻³",
+      "3,2 · 10⁻³ mol·dm⁻³",
+      "2,5 · 10⁻³ mol·dm⁻³",
+      "5,0 · 10⁻³ mol·dm⁻³"
+    ],
+    "answer": 1,
+    "title": "3,2 · 10⁻³ mol·dm⁻³",
+    "paragraphs": [
+      "HCl je silná kyselina, takže c = [H₃O⁺] = 10⁻²·⁵ ≈ 3,2 · 10⁻³ mol·dm⁻³."
+    ],
+    "memory": "c = 10⁻ᵖᴴ pro silnou jednosytnou kyselinu."
+  },
+  {
+    "id": 187,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 104 · str. 81",
+    "sourcePages": "81",
+    "sourceItem": "104",
+    "question": "Jaká je koncentrace vodíkových iontů v roztoku NaOH o koncentraci 5 · 10⁻³ mol·dm⁻³?",
+    "options": [
+      "5 · 10⁻³ mol·dm⁻³",
+      "2 · 10⁻¹⁰ mol·dm⁻³",
+      "2 · 10⁻¹² mol·dm⁻³",
+      "4 · 10⁻¹² mol·dm⁻³"
+    ],
+    "answer": 2,
+    "title": "2 · 10⁻¹² mol·dm⁻³",
+    "paragraphs": [
+      "[OH⁻] = 5 · 10⁻³ mol·dm⁻³. Z iontového součinu vody [H₃O⁺] = 10⁻¹⁴ / (5 · 10⁻³) = 2 · 10⁻¹² mol·dm⁻³."
+    ],
+    "memory": "[H⁺] · [OH⁻] = 10⁻¹⁴."
+  },
+  {
+    "id": 188,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 107 · str. 81",
+    "sourcePages": "81",
+    "sourceItem": "107",
+    "question": "Jaké pH má roztok hydroxidu draselného o koncentraci 20 mmol·dm⁻³?",
+    "options": [
+      "11,70",
+      "12,00",
+      "12,70",
+      "12,30"
+    ],
+    "answer": 3,
+    "title": "12,30",
+    "paragraphs": [
+      "[OH⁻] = 0,020 mol·dm⁻³, pOH = −log 0,02 = 1,70 a pH = 14 − 1,70 = 12,30."
+    ],
+    "memory": "Zásada: pOH, pak pH = 14 − pOH."
+  },
+  {
+    "id": 189,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "LF MU · Biologie · Genetika 38 · str. 135",
+    "sourcePages": "135",
+    "sourceItem": "38",
+    "question": "Při kterém procesu se aktivně uplatňuje ribozomální RNA (rRNA)?",
+    "options": [
+      "při translaci",
+      "při replikaci RNA",
+      "při respiraci",
+      "při transkripci"
+    ],
+    "answer": 0,
+    "title": "při translaci",
+    "paragraphs": [
+      "rRNA tvoří spolu s bílkovinami ribozomy, na kterých probíhá translace, tedy syntéza bílkovin podle mRNA. Část rRNA katalyzuje vznik peptidové vazby."
+    ],
+    "memory": "rRNA = ribozom = translace."
+  },
+  {
+    "id": 190,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "LF MU · Biologie · Genetika 43 · str. 135",
+    "sourcePages": "135",
+    "sourceItem": "43",
+    "question": "Jak se v průběhu meiózy rozcházejí chromozomy mateřské a otcovské sady?",
+    "options": [
+      "gamety obsahují buď jen mateřské, nebo jen otcovské chromozomy",
+      "gamety dostanou náhodnou kombinaci otcovských a mateřských chromozomů",
+      "gamety obsahují vždy přesně polovinu mateřských a polovinu otcovských chromozomů",
+      "každá gameta obsahuje chromozomy X i Y"
+    ],
+    "answer": 1,
+    "title": "gamety dostanou náhodnou kombinaci otcovských a mateřských chromozomů",
+    "paragraphs": [
+      "V anafázi I se každý pár homologních chromozomů rozchází nezávisle na ostatních. U člověka tak vzniká 2²³ možných kombinací, což je základ genetické variability."
+    ],
+    "memory": "Meióza míchá rodičovské chromozomy náhodně."
+  },
+  {
+    "id": 191,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "LF MU · Biologie · Genetika 46 · str. 135",
+    "sourcePages": "135",
+    "sourceItem": "46",
+    "question": "Co je klon?",
+    "options": [
+      "soubor jedinců vzniklých příbuzenským křížením",
+      "soubor jedinců vzniklých pohlavním rozmnožováním",
+      "soubor jedinců vzniklých vegetativním (nepohlavním) rozmnožováním",
+      "soubor jedinců shodných jen fenotypově"
+    ],
+    "answer": 2,
+    "title": "soubor jedinců vzniklých vegetativním (nepohlavním) rozmnožováním",
+    "paragraphs": [
+      "Klon tvoří geneticky shodní potomci jednoho jedince, kteří vznikli nepohlavně, například řízkováním rostlin. Pohlavní rozmnožování vytváří nové kombinace alel."
+    ],
+    "memory": "Klon = nepohlavně, geneticky shodní."
+  },
+  {
+    "id": 192,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "LF MU · Biologie · Genetika 50 · str. 136",
+    "sourcePages": "136",
+    "sourceItem": "50",
+    "question": "Co způsobují nesmyslné (nonsense) mutace?",
+    "options": [
+      "nemají účinek, protože mutovaný triplet kóduje stejnou aminokyselinu",
+      "vedou k zařazení jiné aminokyseliny do polypeptidu",
+      "způsobují posun čtecího rámce",
+      "mění triplet kódující aminokyselinu na stop kodon"
+    ],
+    "answer": 3,
+    "title": "mění triplet kódující aminokyselinu na stop kodon",
+    "paragraphs": [
+      "Nonsense mutace vytvoří předčasný stop kodon, takže translace skončí dřív a bílkovina je zkrácená. Záměna aminokyseliny je missense mutace, beze změny je mutace tichá a posun rámce způsobí inzerce nebo delece."
+    ],
+    "memory": "Nonsense = předčasný STOP."
+  },
+  {
+    "id": 193,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "LF MU · Biologie · Genetika 52 · str. 136",
+    "sourcePages": "136",
+    "sourceItem": "52",
+    "question": "Které tvrzení o chromozomech je správné?",
+    "options": [
+      "počet chromozomů je charakteristickou vlastností druhu",
+      "heterochromozom je cizí chromozom v jádře hostitelské buňky",
+      "pohlavní chromozomy mají jen pohlavní buňky, somatické ne",
+      "každá eukaryotní buňka obsahuje dvě sady chromozomů"
+    ],
+    "answer": 0,
+    "title": "počet chromozomů je charakteristickou vlastností druhu",
+    "paragraphs": [
+      "Každý druh má stálý počet chromozomů, člověk 46. Heterochromozomy jsou pohlavní chromozomy a jsou i v somatických buňkách. Haploidní buňky, například gamety, mají jen jednu sadu."
+    ],
+    "memory": "Počet chromozomů = znak druhu."
+  },
+  {
+    "id": 194,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "LF MU · Biologie · Genetika 53 · str. 136",
+    "sourcePages": "136",
+    "sourceItem": "53",
+    "question": "Muž má krevní skupinu B a žena krevní skupinu A. Jakou krevní skupinu mohou mít jejich děti?",
+    "options": [
+      "pouze AB",
+      "A, B, AB nebo 0",
+      "AB nebo 0",
+      "pouze A nebo B"
+    ],
+    "answer": 1,
+    "title": "A, B, AB nebo 0",
+    "paragraphs": [
+      "Pokud jsou oba rodiče heterozygoti (B0 a A0), může dítě zdědit kombinace AB, A0, B0 i 00. Jsou proto možné všechny čtyři skupiny."
+    ],
+    "memory": "A0 × B0 = všechny čtyři skupiny."
+  },
+  {
+    "id": 195,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "LF MU · Biologie · Genetika 54 · str. 136",
+    "sourcePages": "136",
+    "sourceItem": "54",
+    "question": "Při dihybridismu s úplnou dominancí vzniklo potomstvo ve fenotypovém poměru 1 : 1. Jaké jsou genotypy rodičů?",
+    "options": [
+      "AaBb × AaBb",
+      "AaBb × AABB",
+      "AaBB × aaBb",
+      "Aabb × AaBB"
+    ],
+    "answer": 2,
+    "title": "AaBB × aaBb",
+    "paragraphs": [
+      "U AaBB × aaBb dá gen A poměr 1 : 1 (Aa : aa) a v genu B mají všichni potomci aspoň jednu alelu B. Vznikají tedy jen dva fenotypy v poměru 1 : 1."
+    ],
+    "memory": "1 : 1 = zpětné křížení v jednom genu."
+  },
+  {
+    "id": 196,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "LF MU · Biologie · Genetika 56 · str. 136",
+    "sourcePages": "136",
+    "sourceItem": "56",
+    "question": "Lidské vajíčko obsahuje dva spojené chromozomy 21 (Robertsonova translokace). Po oplození normální spermií vznikne zygota. Co z ní vznikne?",
+    "options": [
+      "normální jedinec se 46 chromozomy",
+      "jedinec s Downovým syndromem se 47 chromozomy",
+      "jedinec s monozomií chromozomu 21",
+      "jedinec s Downovým syndromem se 46 chromozomy"
+    ],
+    "answer": 3,
+    "title": "jedinec s Downovým syndromem se 46 chromozomy",
+    "paragraphs": [
+      "Spojené chromozomy se počítají jako jeden útvar, takže celkem je chromozomů 46. Genetický materiál chromozomu 21 je ale ztrojený, proto vzniká translokační forma Downova syndromu."
+    ],
+    "memory": "Translokační Down: 46 chromozomů, trojí dávka 21."
+  },
+  {
+    "id": 197,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "LF MU · Biologie · Genetika 57 · str. 137",
+    "sourcePages": "137",
+    "sourceItem": "57",
+    "question": "Která tvrzení o pohlavních chromozomech člověka jsou správná? (1) U žen se alely gonozomu X dědí jako alely autozomů. (2) Projev alel vázaných na X je u muže nezávislý na jejich dominanci či recesivitě. (3) Projev recesivních alel na X nezávisí na pohlaví. (4) Chromozom Y je geneticky prázdný.",
+    "options": [
+      "tvrzení 1 a 2",
+      "tvrzení 1 a 4",
+      "tvrzení 2 a 3",
+      "tvrzení 2 a 4"
+    ],
+    "answer": 0,
+    "title": "tvrzení 1 a 2",
+    "paragraphs": [
+      "Ženy mají dva chromozomy X, takže se alely chovají jako autozomální. Muž má jen jeden X (hemizygot), proto se projeví každá alela. Recesivní alely na X se tedy častěji projeví u mužů a chromozom Y nese geny, například SRY."
+    ],
+    "memory": "Muž = hemizygot X, projeví se vše."
+  },
+  {
+    "id": 198,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "LF MU · Biologie · Genetika 61 · str. 137",
+    "sourcePages": "137",
+    "sourceItem": "61",
+    "question": "Matka i otec mají krevní skupinu A. Jaké krevní skupiny mohou mít jejich děti?",
+    "options": [
+      "0, A nebo AB",
+      "pouze 0 nebo A",
+      "pouze 0",
+      "pouze A"
+    ],
+    "answer": 1,
+    "title": "pouze 0 nebo A",
+    "paragraphs": [
+      "Rodiče mohou být AA nebo A0. Dítě zdědí od každého A nebo 0, takže může mít skupinu A (AA, A0) nebo 0 (00). Alelu B nemá od koho zdědit."
+    ],
+    "memory": "A × A: bez alely B nemůže vzniknout AB."
+  },
+  {
+    "id": 199,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "LF MU · Biologie · Genetika 62 · str. 137",
+    "sourcePages": "137",
+    "sourceItem": "62",
+    "question": "Co je polyploidie?",
+    "options": [
+      "zvýšení počtu pohlavních chromozomů",
+      "zvýšení počtu jader v buňce",
+      "zvýšení počtu chromozomových sad",
+      "zvýšení počtu plazmidů"
+    ],
+    "answer": 2,
+    "title": "zvýšení počtu chromozomových sad",
+    "paragraphs": [
+      "Polyploidní buňka má více než dvě celé sady chromozomů, například 3n nebo 4n. Je častá u rostlin. Změna počtu jednotlivých chromozomů se nazývá aneuploidie."
+    ],
+    "memory": "Polyploidie = víc celých sad."
+  },
+  {
+    "id": 200,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "LF MU · Biologie · Genetika 64 · str. 137",
+    "sourcePages": "137",
+    "sourceItem": "64",
+    "question": "Příkladem jakého znaku je tělesná výška člověka?",
+    "options": [
+      "monogenního",
+      "úplně dominantního",
+      "kodominantního",
+      "polygenního"
+    ],
+    "answer": 3,
+    "title": "polygenního",
+    "paragraphs": [
+      "Výšku ovlivňuje mnoho genů s malým účinkem a také prostředí, například výživa. Proto má plynulou (kvantitativní) proměnlivost."
+    ],
+    "memory": "Plynulé znaky (výška, hmotnost) = polygenní."
+  }
+]

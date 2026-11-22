@@ -55,4 +55,23 @@ Hydrostatika, hydrodynamika a pružnost (úlohy 1–64) jsou tím posouzené cel
 
 Dosud nepokryté oddíly: zbylé úlohy prvních kapitol fyziky (jednotky, kinematika) a chemie (vzorce, stavba atomu) mimo seznam výše, fyzika od kapitoly Kmity a akustika (str. 25+), chemie Roztoky 49–126 a dále, biologie Genetika 37–69, Biologie člověka a další.
 
+## Čtvrtá dávka ID 151–200 (v2.50.0)
+
+Soubor `muni-151-200.json`, generátor `create_muni_151_200.py` (sdílený `batch_tools.py`). Odpovědi ověřeny výpočtem nebo výkladem a porovnány s klíčem na str. 60, 120 a 154.
+
+| Předmět | Kapitola (tištěné strany) | Použité úlohy | ID |
+|---|---|---|---|
+| Fyzika | Kmity a akustika (25–29) | 1, 2, 4, 9, 10, 11, 12, 13, 14, 16, 21, 22, 23, 25, 29, 31, 32, 33, 35, 38, 41, 42, 43, 45, 47, 48 | 151–176 |
+| Chemie | Roztoky, elektrolyty, pH (77–81) | 53, 54, 55, 56, 62, 65, 69, 72, 94, 96, 104, 107 | 177–188 |
+| Biologie | Genetika (135–137) | 38, 43, 46, 50, 52, 53, 54, 56, 57, 61, 62, 64 | 189–200 |
+
+Klíč E převeden na explicitní správnou odpověď: fyzika 11 (ω = 2πf), 21 (ultrazvuk má vyšší frekvenci), 43 (souhlásky jsou hluky a šumy).
+
+Kapitola Kmity a akustika (úlohy 1–48) je posouzená celá. Nepřidané úlohy:
+- Varianta téhož poznatku: 3, 5–8 (energie a rychlost v krajní a rovnovážné poloze, 151–153), 15, 17–20 (změna fáze, 155 a 160), 24, 26–28, 30 (šíření zvuku, 163, 165–166; 27 a 28 také BIO 631–632), 34 a 36 (výpočet hladiny intenzity, 167 a 169), 37 (postupné vlnění, 170), 39 (jednotka intenzity, 162), 40 a 44 (podélné vlnění v plynech, 163), 46 (30 dB = ×1000, princip 167).
+- Chemie: 49–52 a 57–61, 63, 64, 66–68, 70, 71, 73, 74 jsou výpočty nebo třídění stejného typu jako zařazené úlohy (neutralizace, silné a slabé elektrolyty, koncentrace iontů ze vzorce soli; elektrolyty také UK 155–156). 78 a 80 (konjugovaný pár, amfolyt) jsou ve sbírce UK 33–34, 95 (iontový součin vody) je UK 74. 89–93 (silné a slabé kyseliny a báze, princip 94 a UK 155), 97–103, 105, 106, 108, 109 (výpočty pH a ředění, princip 96, 104, 107).
+- Genetika úlohy 37–69: 37 (daltonismus, SOM 42 a 45), 39 a 40 (transkripce a replikace, UK 97–98 a ČB 120), 41 (92 chromatid, ČB 122), 42, 44, 51, 59 (základní pojmy dominance, XY, gen a alela, BIO 703 a ČB 407), 45 (pojmy transdukce a transformace, UK 88 a LF MU 146), 47 a 58 (dihybridní poměry, ČB 118 a 189 této dávky), 48, 49, 63 (Hardyho–Weinbergův zákon a panmixie, UK 149, 185, 192), 55 (64 kodonů, UK 91), 60 a 69 (heterozygot × recesivní homozygot 1 : 1, UK 186), 65 (AB0 monogenně, UK 199), 66 (rodokmen je jen obrázek, v textové kopii nečitelný), 67 (genotypy v nabídce poškozené OCR), 68 (kodominance AB, LF MU 143). Genetika je tím posouzená celá.
+
+Dosud nepokryté oddíly: zbylé úlohy prvních kapitol fyziky (jednotky, kinematika) a chemie (vzorce, stavba atomu) mimo seznamy výše, fyzika od kapitoly Termodynamika (str. 30+), chemie Roztoky 75–88 a 110–126 a další kapitoly, biologie od oddílu Biologie člověka (str. 138+).
+
 Druhý soubor `877344967-LF-MU-Modelove-Otazky-New.pdf` je podle vlastníka (21. 11. 2026) stejná publikace jako hlavní soubor Mornstein a kol. Samostatně se nepokrývá; zdrojem kvízu LF MU je jen hlavní soubor.
