@@ -391,10 +391,23 @@ Soubor `uk-1001-1050.json`, generátor `create_uk_1001_1050.py`. Formát zkoušk
 | Fyzika | 2. Mechanika I (str. 16–26) | 2.07–2.12, 2.14–2.16, 2.18, 2.20, 2.22, 2.23, 2.25–2.29, 2.31, 2.33, 2.35–2.40, 2.42–2.46, 2.48, 2.51–2.54, 2.56–2.60, 2.62, 2.63, 2.65, 2.66, 2.68, 2.69 | 1004–1050 |
 
 Nepřidáno (stejný poznatek jako starší nebo nová otázka):
-- 2.04 a 2.06 (stejná situace jako UK 16 a 17), 2.13 (tíhové zrychlení, ČB 601), 2.17 (jako 2.16), 2.21 (jednotka povrchového napětí, LF MU 10), 2.30 a 2.41 (jednotka momentu síly, LF MU 702), 2.32, 2.34 a 2.85 (skalár a vektor, ČB 534 a nová 1032), 2.47 (směr dostředivého zrychlení, nová 1037), 2.49, 2.50 a 2.81 (v = 2πrf a ω = 2πf, nová 1024), 2.55 (jako 2.54), 2.61 (stav beztíže, LF MU 67), 2.64 (jako 2.65), 2.67 (práce a výkon, LF MU 64), 2.70–2.73 (grafy pohybu, LF MU 51 a 52, nové 1033 a 1050), 2.80 (odstředivé zrychlení na rovníku, nová 1029), 2.84 (vzorec kinetické energie, v exportu nečitelný a jako nová 1028), 2.86 (jako 2.20).
+- 2.04 a 2.06 (stejná situace jako UK 16 a 17), 2.13 (tíhové zrychlení, ČB 601), 2.17 (jako 2.16), 2.21 (jednotka povrchového napětí, LF MU 10), 2.30 a 2.41 (jednotka momentu síly, LF MU 702), 2.32, 2.34 a 2.85 (skalár a vektor, ČB 534 a nová 1028), 2.47 (směr dostředivého zrychlení, nová 1033), 2.49, 2.50 a 2.81 (v = 2πrf a ω = 2πf, nová 1021), 2.55 (jako 2.54), 2.61 (stav beztíže, LF MU 67), 2.64 (jako 2.65), 2.67 (práce a výkon, LF MU 64), 2.70–2.73 (grafy pohybu, LF MU 51 a 52, nové 1029 a 1050), 2.80 (odstředivé zrychlení na rovníku, nová 1026), 2.84 (vzorec kinetické energie, v exportu nečitelný a jako nová 1025), 2.86 (jako 2.20).
 - 2.19 v exportu ztratil rozlišení možností A a B, poznatek p = F/S pokrývá LF MU.
-- Úlohy 2.74–2.79, 2.82 a 2.83 se doplní v další dávce.
+- Úlohy 2.74–2.79, 2.82 a 2.83 jsou v dávce 1051–1100.
+
+## Dávka ID 1051–1100, fyzika: zbytek Mechaniky I a Mechanika II (v2.83.0)
+
+Soubor `uk-1051-1100.json`, generátor `create_uk_1051_1100.py`. Formát zkoušky, klíč porovnán s kap. 12 knihy, výpočty ověřeny.
+
+| Předmět | Kapitola | Úlohy | ID |
+|---|---|---|---|
+| Fyzika | 2. Mechanika I (str. 27–29) | 2.74–2.79, 2.82, 2.83 | 1051–1058 |
+| Fyzika | 3. Mechanika II (str. 31–45) | 3.01, 3.02, 3.04–3.06, 3.08, 3.09, 3.11, 3.12, 3.16, 3.19, 3.21, 3.22, 3.28, 3.30, 3.35, 3.38, 3.40, 3.41, 3.43, 3.44, 3.46, 3.47, 3.49–3.52, 3.54, 3.56, 3.58, 3.60–3.62, 3.64, 3.67, 3.69, 3.72, 3.75–3.77, 3.86, 3.90 | 1059–1100 |
+
+Nepřidáno (stejný poznatek jako starší nebo nová otázka):
+- 3.03 (jako 3.02), 3.07 (Bernoulli jako zákon zachování energie, nová 1087), 3.10 (jako 3.09), 3.14 a 3.18 (v exportu ztracené horní indexy, poznatek Ep = m·g·h a p = h·ρ·g už v UK 1027 a 1060), 3.15, 3.48 a 3.81 (tlak 10 m pod vodou a atmosférický tlak, LF MU 104 a 111, nová 1082), 3.17 a 3.82 (Hookův zákon a jednotka E, LF MU 124 a nová 1092), 3.24, 3.26, 3.29, 3.31, 3.33 a 3.34 (joule, pascal a watt, LF MU 5 a 6, nové 1016, 1059 a 1072), 3.32 (účinnost bez jednotky, LF MU 7), 3.36, 3.39 a 3.66 (rovnice spojitosti a poměr rychlostí, LF MU 120, nové 1074 a 1100), 3.37 (kWh jako jednotka energie, nová 1075), 3.42 (jako 3.11), 3.45 (jako 3.44), 3.65 (jako UK 1035), 3.68 (rovnice spojitosti a zachování hmoty, LF MU 116), 3.73 a 3.74 (v = g·t a h = ½·g·t², UK 1030), 3.79, 3.83 a 3.85 (tlak jako skalár, nová 1069), 3.80 (opak laminárního proudění, nová 1076), 3.84 (pád ve vakuu, UK 1032), 3.87 (vztlaková síla, LF MU 102), 3.88 (práce, UK 1040), 3.89 (pascal).
+- Úlohy 3.13, 3.20, 3.23, 3.25, 3.27, 3.53, 3.55, 3.57, 3.59, 3.63, 3.70, 3.71 a 3.78 se posoudí v další dávce.
 
 ## Stav pokrytí
 
-Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) je posouzená celá včetně úloh s více správnými odpověďmi (ID 738–1000). Fyzika (Amler, celá kniha 907 úloh) je posouzená v kap. 1 a v kap. 2 po úlohu 2.73. Další dávka začne od ID 1051 úlohami 2.74 a výš.
+Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) je posouzená celá včetně úloh s více správnými odpověďmi (ID 738–1000). Fyzika (Amler, celá kniha 907 úloh) je posouzená v kap. 1 a 2 a v hlavní části kap. 3. Další dávka začne od ID 1101 zbytkem kap. 3 a kap. 4.

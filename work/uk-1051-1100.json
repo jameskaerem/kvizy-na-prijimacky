@@ -1,0 +1,1227 @@
+[
+  {
+    "id": 1051,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.74 · str. 27",
+    "sourcePages": "27",
+    "sourceItem": "2.74",
+    "question": "Jakou čarou je v grafu závislosti velikosti zrychlení na čase znázorněn rovnoměrný přímočarý pohyb?",
+    "options": [
+      "přímkou totožnou s osou t",
+      "přímkou rovnoběžnou s osou t, která s ní není totožná",
+      "přímkou svírající s osou t úhel α > 0",
+      "hyperbolou"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Při rovnoměrném přímočarém pohybu se rychlost nemění, zrychlení je stále nulové. Graf a(t) proto leží přímo na časové ose."
+    ],
+    "memory": "Rovnoměrný pohyb: a = 0."
+  },
+  {
+    "id": 1052,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.75 · str. 27",
+    "sourcePages": "27",
+    "sourceItem": "2.75",
+    "question": "Které vyjádření jednotek pomocí základních jednotek SI je správné?",
+    "options": [
+      "síla – kg·m·s⁻²",
+      "hybnost – kg·m·s⁻¹",
+      "výkon – kg·m³·s⁻³",
+      "práce – kg·m³·s⁻²"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Síla F = m·a má jednotku kg·m·s⁻², hybnost p = m·v kg·m·s⁻¹. Práce je N·m = kg·m²·s⁻² a výkon J/s = kg·m²·s⁻³, v obou je tedy metr na druhou, ne na třetí."
+    ],
+    "memory": "J = kg·m²·s⁻², W = kg·m²·s⁻³."
+  },
+  {
+    "id": 1053,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.76 · str. 28",
+    "sourcePages": "28",
+    "sourceItem": "2.76",
+    "question": "Muž v loďce se přitahuje lanem ke břehu silou F. Poprvé je lano uvázané ke kolíku na břehu, podruhé ho drží jiný muž a působí na něj také silou F opačného směru. Jak se oba pokusy liší?",
+    "options": [
+      "muž na břehu pohyb urychlí, protože jeho síla zvýší celkovou tažnou sílu",
+      "pohyb loďky se lišit nebude, protože i kolík působí na lano silou F opačného směru",
+      "ve druhém případě bude přitahování pro muže v loďce méně namáhavé",
+      "ve druhém případě bude pohyb rychlejší, protože se síly obou mužů sčítají"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Lano přenáší na loďku sílu F v obou případech. Kolík působí reakcí stejně velkou silou jako muž na břehu, takže výsledná síla na loďku i její pohyb jsou stejné. Síly obou mužů se nesčítají, napínají totéž lano."
+    ],
+    "memory": "Napětí lana je F v obou případech."
+  },
+  {
+    "id": 1054,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.77 · str. 28",
+    "sourcePages": "28",
+    "sourceItem": "2.77",
+    "question": "Talíř v mikrovlnné troubě o průměru 32 cm se otáčí rychlostí 6 otáček za minutu. Jaká je přibližně obvodová rychlost na jeho okraji?",
+    "options": [
+      "0,1 m/s",
+      "0,2 m/s",
+      "1 m/s",
+      "0,6 m/s"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Obvod talíře je π·0,32 m ≈ 1 m a talíř se otočí 6krát za 60 s, tedy jednou za 10 s. Okraj urazí asi 1 m za 10 s, což je 0,1 m/s."
+    ],
+    "memory": "v = obvod × frekvence."
+  },
+  {
+    "id": 1055,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.78 · str. 28",
+    "sourcePages": "28",
+    "sourceItem": "2.78",
+    "question": "Co platí ve sluneční soustavě?",
+    "options": [
+      "největší planetou je Jupiter",
+      "Venuše je blíž ke Slunci než Země",
+      "platí druhý Keplerův zákon",
+      "vzdálenější planety obíhají s menší úhlovou rychlostí"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Jupiter je největší planeta, Venuše je druhá od Slunce a Země třetí. Druhý Keplerův zákon (průvodič opíše za stejnou dobu stejnou plochu) platí pro všechny planety. Podle třetího zákona mají vzdálenější planety delší dobu oběhu, a tedy menší úhlovou rychlost."
+    ],
+    "memory": "Dál od Slunce = pomalejší oběh."
+  },
+  {
+    "id": 1056,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.79 · str. 28",
+    "sourcePages": "28",
+    "sourceItem": "2.79",
+    "question": "Kulička přivázaná na niti krouží ve vodorovné rovině. V určitém okamžiku se nit přetrhne. Jakým směrem se kulička hned potom pohybuje?",
+    "options": [
+      "ve směru spojnice středu otáčení a kuličky (normálově)",
+      "ve směru tečny ke kružnici v bodě, kde byla kulička při přetržení",
+      "dál po kružnici",
+      "šikmo mezi směrem normály a tečny podle obvodové rychlosti"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Dostředivou sílu dodávala nit. Po jejím přetržení na kuličku ve vodorovném směru nepůsobí žádná síla a podle zákona setrvačnosti pokračuje směrem okamžité rychlosti, tedy po tečně."
+    ],
+    "memory": "Bez dostředivé síly po tečně."
+  },
+  {
+    "id": 1057,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.82 · str. 29",
+    "sourcePages": "29",
+    "sourceItem": "2.82",
+    "question": "Vlak se rozjíždí po rovině se zrychlením 0,5 m/s². Za jak dlouho dosáhne rychlosti 72 km/h?",
+    "options": [
+      "144 s",
+      "40 s",
+      "36 s",
+      "0,4 h"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "72 km/h = 20 m/s. Z klidu platí t = v/a = 20/0,5 = 40 s. Výsledek 144 s by vyšel bez převodu jednotek."
+    ],
+    "memory": "km/h → m/s: děl 3,6."
+  },
+  {
+    "id": 1058,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.83 · str. 29",
+    "sourcePages": "29",
+    "sourceItem": "2.83",
+    "question": "Školák ujde 1 km na zastávku za 10 minut a hned pokračuje autobusem, který 15 km ke škole ujede za 20 minut. Jaká je jeho průměrná rychlost cestou do školy?",
+    "options": [
+      "16 km/h",
+      "5,3 km/h",
+      "32 km/h",
+      "25,5 km/h"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Průměrná rychlost je celková dráha dělená celkovým časem: 16 km za 30 minut, tedy 32 km/h. Nesmí se průměrovat rychlosti obou úseků."
+    ],
+    "memory": "Průměrná rychlost = celá dráha / celý čas."
+  },
+  {
+    "id": 1059,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.01 · str. 31",
+    "sourcePages": "31",
+    "sourceItem": "3.01",
+    "question": "Jak lze vyjádřit tlak 9,81 Pa?",
+    "options": [
+      "1 N",
+      "9,81 kg·m⁻¹·s⁻²",
+      "9,81 N·m²",
+      "9,81 N·m⁻²"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "Pascal je newton na metr čtvereční: Pa = N·m⁻² = kg·m·s⁻²·m⁻² = kg·m⁻¹·s⁻². Newton je jednotka síly a N·m² není jednotka tlaku."
+    ],
+    "memory": "Pa = N/m²."
+  },
+  {
+    "id": 1060,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.02 · str. 31",
+    "sourcePages": "31",
+    "sourceItem": "3.02",
+    "question": "Akvárium tvaru hranolu je vysoké 60 cm a z pěti šestin naplněné vodou. Na boční stěny působí zevnitř tlak vody a zvenku atmosférický tlak. Co platí?",
+    "options": [
+      "rozdíl tlaku kapaliny na dno a tlaku podložky je 6 Pa",
+      "rozdíl tlaků na boční stěnu u dna je 5 kPa",
+      "rozdíl tlaků na boční stěnu ve výšce hladiny je nulový",
+      "rozdíl tlaků na boční stěnu u dna je 100 kPa"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Voda sahá do výšky 50 cm. Atmosférický tlak působí z obou stran, rozdíl dělá jen hydrostatický tlak h·ρ·g = 0,5 · 1000 · 10 = 5 kPa u dna. U hladiny je hydrostatický tlak nulový."
+    ],
+    "memory": "10 cm vody ≈ 1 kPa."
+  },
+  {
+    "id": 1061,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.04 · str. 31",
+    "sourcePages": "31",
+    "sourceItem": "3.04",
+    "question": "Automobil o hmotnosti 1000 kg se po vodorovné vozovce rozjede z klidu za 10 s na rychlost 20 m/s. Jaký nejmenší výkon musel mít (bez ztrát)?",
+    "options": [
+      "1000 W",
+      "2 kW",
+      "20 kW",
+      "200 000 J"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Kinetická energie na konci je ½ · 1000 · 20² = 200 kJ. Získal ji za 10 s, průměrný výkon je tedy 200 kJ / 10 s = 20 kW. Joule je jednotka energie, ne výkonu."
+    ],
+    "memory": "P = ΔE / t."
+  },
+  {
+    "id": 1062,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.05 · str. 31",
+    "sourcePages": "31",
+    "sourceItem": "3.05",
+    "question": "Za 10 minut potřebujeme vyčerpat 10 hl vody z hloubky 10 m čerpadlem s účinností 90 %. Co platí?",
+    "options": [
+      "příkon čerpadla 150 W bude stačit",
+      "spotřebujeme alespoň 1 kWh energie",
+      "potenciální energie vody stoupne o 100 kJ",
+      "průtok čerpadlem bude 0,1 m³/min"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "10 hl = 1 m³ vody o hmotnosti 1000 kg. Ep = m·g·h = 1000 · 10 · 10 = 100 kJ, průtok 1 m³ za 10 min = 0,1 m³/min. Užitečný výkon je 100 kJ / 600 s ≈ 167 W, příkon tedy asi 185 W. Spotřeba asi 111 kJ je mnohem méně než 1 kWh = 3,6 MJ."
+    ],
+    "memory": "1 hl = 100 l."
+  },
+  {
+    "id": 1063,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.06 · str. 32",
+    "sourcePages": "32",
+    "sourceItem": "3.06",
+    "question": "Jaký tvar má Bernoulliho rovnice pro ideální kapalinu proudící vodorovnou trubicí (p tlak, ρ hustota, v rychlost)?",
+    "options": [
+      "p + ρ·v² = konst.",
+      "p·V + ½·ρ·v² = konst.",
+      "p + ½·ρ·v² = konst.",
+      "p + ½·m·v² = konst."
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Ve vodorovné trubici je součet tlakové energie a kinetické energie objemové jednotky stálý: p + ½·ρ·v² = konst. Všechny členy mají rozměr tlaku. V možnosti d by se sčítal tlak s energií."
+    ],
+    "memory": "Kde rychleji teče, tam je menší tlak."
+  },
+  {
+    "id": 1064,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.08 · str. 32",
+    "sourcePages": "32",
+    "sourceItem": "3.08",
+    "question": "Dva hmotné body o hmotnosti 50 kg jsou od sebe 50 cm. Jakou gravitační silou se přitahují (κ = 6,67·10⁻¹¹ N·m²·kg⁻²)?",
+    "options": [
+      "6,67·10⁻¹¹ N",
+      "6,67·10⁻⁷ N",
+      "6,67·10⁻⁹ N",
+      "3,34·10⁻⁷ N"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "F = κ·m₁·m₂/r² = 6,67·10⁻¹¹ · 50 · 50 / 0,25 = 6,67·10⁻¹¹ · 10⁴ = 6,67·10⁻⁷ N."
+    ],
+    "memory": "2500 / 0,25 = 10⁴."
+  },
+  {
+    "id": 1065,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.09 · str. 32",
+    "sourcePages": "32",
+    "sourceItem": "3.09",
+    "question": "Síla F působí na kruhový píst o poloměru r a vyvolá v kapalině tlak p. Jaký tlak vyvolá stejná síla na pístu o poloměru 2r?",
+    "options": [
+      "dvojnásobný",
+      "čtyřnásobný",
+      "poloviční",
+      "čtvrtinový"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Tlak je p = F/S a plocha kruhu roste s druhou mocninou poloměru. Dvojnásobný poloměr dává čtyřnásobnou plochu a tlak klesne na čtvrtinu."
+    ],
+    "memory": "S = π·r²."
+  },
+  {
+    "id": 1066,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.11 · str. 33",
+    "sourcePages": "33",
+    "sourceItem": "3.11",
+    "question": "Válcová nádoba a nádoba kuželovitě se zužující nahoru mají stejnou plochu dna a jsou naplněné vodou do stejné výšky. Co platí?",
+    "options": [
+      "na dno působí v obou stejná tlaková síla, protože dno i výška vody jsou stejné",
+      "na dno působí různá tlaková síla, protože objem vody se liší",
+      "u dna je v obou stejný hydrostatický tlak, protože výška vody je stejná",
+      "u dna je různý hydrostatický tlak, protože hmotnost vody se liší"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Hydrostatický tlak závisí jen na hloubce a hustotě, ne na tvaru nádoby ani množství vody (hydrostatické paradoxon). Při stejné ploše dna je stejná i tlaková síla F = p·S."
+    ],
+    "memory": "Hydrostatické paradoxon."
+  },
+  {
+    "id": 1067,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.12 · str. 33",
+    "sourcePages": "33",
+    "sourceItem": "3.12",
+    "question": "Co je dvojice sil?",
+    "options": [
+      "jakékoli dvě síly opačného směru",
+      "dvě stejně velké síly opačného směru ležící v jedné přímce",
+      "dvě stejně velké síly opačného směru, které působí na totéž těleso a neleží v jedné přímce",
+      "dvě síly stejného směru působící na totéž těleso"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Dvojice sil má nulovou výslednici, ale nenulový moment, a proto těleso jen otáčí (například volant). Kdyby síly ležely v jedné přímce, vyrušily by se úplně."
+    ],
+    "memory": "Dvojice sil = otáčení bez posunu."
+  },
+  {
+    "id": 1068,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.16 · str. 33",
+    "sourcePages": "33",
+    "sourceItem": "3.16",
+    "question": "V jakém rozsahu platí Hookův zákon?",
+    "options": [
+      "v celém rozsahu deformace",
+      "i v oblasti plastické (trvalé) deformace",
+      "až do meze pevnosti materiálu",
+      "v oblasti pružné deformace"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Přímá úměrnost napětí a prodloužení platí jen pro pružnou deformaci, do meze úměrnosti. Při plastické deformaci a před přetržením už neplatí."
+    ],
+    "memory": "Hooke = jen pružná deformace."
+  },
+  {
+    "id": 1069,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.19 · str. 34",
+    "sourcePages": "34",
+    "sourceItem": "3.19",
+    "question": "Co je hydrostatický tlak v kapalině?",
+    "options": [
+      "skalár vyvolaný vnější tlakovou silou",
+      "skalár vyvolaný tíhovou silou",
+      "vektor vyvolaný tíhovou silou",
+      "vektor vyvolaný vnější tlakovou silou"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Hydrostatický tlak vzniká tíhou kapaliny nad daným místem. Tlak je skalár, působí ve všech směrech stejně. Vnější tlakovou silou vzniká tlak podle Pascalova zákona."
+    ],
+    "memory": "Tlak je skalár, tlaková síla vektor."
+  },
+  {
+    "id": 1070,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.21 · str. 34",
+    "sourcePages": "34",
+    "sourceItem": "3.21",
+    "question": "Jakou práci vykoná zařízení o výkonu 2,5 kW za 3 hodiny?",
+    "options": [
+      "75 J",
+      "2 J",
+      "27 MJ",
+      "75 MJ"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "W = P·t = 2500 W · 10 800 s = 27 000 000 J = 27 MJ. Totéž je 7,5 kWh."
+    ],
+    "memory": "1 h = 3600 s."
+  },
+  {
+    "id": 1071,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.22 · str. 34",
+    "sourcePages": "34",
+    "sourceItem": "3.22",
+    "question": "Čemu se rovná jednotka J·kg⁻¹?",
+    "options": [
+      "m²·s⁻²",
+      "N·m·kg⁻¹",
+      "N·m⁻¹·kg⁻¹",
+      "m·s⁻²"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Joule je N·m = kg·m²·s⁻². Po dělení kilogramem zbývá m²·s⁻², tedy druhá mocnina rychlosti. Možnost b je jen jiný zápis joulu na kilogram. m·s⁻² je zrychlení."
+    ],
+    "memory": "J/kg = (m/s)²."
+  },
+  {
+    "id": 1072,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.28 · str. 35",
+    "sourcePages": "35",
+    "sourceItem": "3.28",
+    "question": "Jak se vyjádří watt v základních jednotkách SI?",
+    "options": [
+      "kg·m²·s⁻¹",
+      "kg·m⁻¹·s⁻²",
+      "kg·m²·s⁻²",
+      "kg·m²·s⁻³"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Watt je joule za sekundu: J/s = kg·m²·s⁻² / s = kg·m²·s⁻³. Výraz kg·m²·s⁻² je joule a kg·m⁻¹·s⁻² pascal."
+    ],
+    "memory": "W = J/s."
+  },
+  {
+    "id": 1073,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.30 · str. 35",
+    "sourcePages": "35",
+    "sourceItem": "3.30",
+    "question": "Které z uvedených jednotek jsou jednotkami tlaku?",
+    "options": [
+      "pascal (Pa)",
+      "technická atmosféra",
+      "bar",
+      "torr"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Všechny jsou jednotkami tlaku. Jednotkou SI je pascal, bar = 10⁵ Pa, technická atmosféra je asi 98 kPa a torr (mm rtuťového sloupce) asi 133 Pa. Používají se dál v technice a medicíně."
+    ],
+    "memory": "Krevní tlak se udává v torrech."
+  },
+  {
+    "id": 1074,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.35 · str. 36",
+    "sourcePages": "36",
+    "sourceItem": "3.35",
+    "question": "Kapalina proudí vodorovnou trubicí, která se v určitém úseku zužuje. Co platí ve směru proudu, kde se průřez zmenšuje?",
+    "options": [
+      "tlak na stěny trubice se nemění",
+      "rychlost se zmenšuje a je přímo úměrná obsahu průřezu",
+      "rychlost se zmenšuje a je přímo úměrná průměru trubice",
+      "tlak na stěny klesá a může být i nižší než atmosférický"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Podle rovnice spojitosti S·v = konst. se v užším místě kapalina zrychlí. Podle Bernoulliho rovnice tam pak klesá tlak, a to i pod atmosférický. Na tom je založena vodní vývěva."
+    ],
+    "memory": "Užší místo: rychleji a menší tlak."
+  },
+  {
+    "id": 1075,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.38 · str. 37",
+    "sourcePages": "37",
+    "sourceItem": "3.38",
+    "question": "Čemu se rovná kilowatthodina?",
+    "options": [
+      "je jednotkou impulsu síly",
+      "je jednotkou momentu setrvačnosti",
+      "rovná se 4200 J",
+      "rovná se 3,6·10⁶ J"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Kilowatthodina je jednotka energie: 1 kWh = 1000 W · 3600 s = 3,6·10⁶ J."
+    ],
+    "memory": "1 kWh = 3,6 MJ."
+  },
+  {
+    "id": 1076,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.40 · str. 37",
+    "sourcePages": "37",
+    "sourceItem": "3.40",
+    "question": "Jaké vlastnosti má laminární proudění reálné kapaliny?",
+    "options": [
+      "netvoří se víry a vrstvy kapaliny se nepromíchávají",
+      "proudnice se protínají, ale kapalina nevíří",
+      "rychlost je ve všech místech průřezu stejná",
+      "proudnice se protínají a vznikají víry"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Při laminárním proudění se vrstvy kapaliny posouvají vedle sebe bez víření a proudnice se neprotínají. Kvůli vnitřnímu tření je rychlost uprostřed trubice největší a u stěny nejmenší. Víry patří k turbulentnímu proudění."
+    ],
+    "memory": "Laminární = ve vrstvách."
+  },
+  {
+    "id": 1077,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.41 · str. 37",
+    "sourcePages": "37",
+    "sourceItem": "3.41",
+    "question": "Lyžař o hmotnosti 80 kg stojí na běžkách dlouhých 200 cm a širokých 5 cm a zatěžuje obě nohy stejně. Jaký průměrný tlak působí na sníh?",
+    "options": [
+      "4 kPa",
+      "0,8 Pa",
+      "0,4 Pa",
+      "8 Pa"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Tíha je asi 800 N a obě lyže mají plochu 2 · 2 m · 0,05 m = 0,2 m². Tlak p = F/S = 800/0,2 = 4000 Pa."
+    ],
+    "memory": "Nezapomeň na obě lyže."
+  },
+  {
+    "id": 1078,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.43 · str. 38",
+    "sourcePages": "38",
+    "sourceItem": "3.43",
+    "question": "Jedna sklenice je s obyčejnou vodou, druhá se sodovkou s bublinkami CO₂ (rozpuštěný CO₂ zanedbáme). Co platí?",
+    "options": [
+      "v sodovce je ve stejné hloubce větší hydrostatický tlak",
+      "v sodovce je ve stejné hloubce menší hydrostatický tlak",
+      "hydrostatický tlak je ve stejné hloubce v obou stejný",
+      "když ze sodovky uniká CO₂, její hustota se zmenšuje"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Bublinky plynu snižují průměrnou hustotu kapaliny, a hydrostatický tlak h·ρ·g je proto menší. Když bublinky uniknou, hustota naopak vzroste k hustotě vody."
+    ],
+    "memory": "Bublinky = menší hustota."
+  },
+  {
+    "id": 1079,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.44 · str. 38",
+    "sourcePages": "38",
+    "sourceItem": "3.44",
+    "question": "Motor o příkonu 4 kW pracuje s účinností 80 % po dobu 4 hodin. Jakou práci vykoná?",
+    "options": [
+      "12,8 kWh",
+      "12,8 kJ",
+      "16 kWh",
+      "16 kJ"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Užitečný výkon je 0,8 · 4 kW = 3,2 kW a za 4 h vykoná 3,2 · 4 = 12,8 kWh. 16 kWh je spotřebovaná energie bez započtení účinnosti."
+    ],
+    "memory": "Výkon = účinnost × příkon."
+  },
+  {
+    "id": 1080,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.46 · str. 38",
+    "sourcePages": "38",
+    "sourceItem": "3.46",
+    "question": "Na vodě v kádince plave nádobka s malým kouskem olova na dně. Olovo vyndáme a hodíme do vody v kádince. Co se stane s hladinou?",
+    "options": [
+      "poklesne, protože objem olova je menší než objem vody stejné hmotnosti",
+      "nezmění se",
+      "stoupne o objem olova",
+      "poklesne, protože objem olova je větší než objem vody stejné hmotnosti"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Olovo v plovoucí nádobce vytlačovalo vodu o stejné hmotnosti, jako má samo. Ponořené na dně vytlačí jen vodu o svém objemu. Olovo je asi 11krát hustší než voda, vytlačený objem se zmenší a hladina klesne."
+    ],
+    "memory": "Plovoucí vytlačí svou hmotnost, potopené svůj objem."
+  },
+  {
+    "id": 1081,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.47 · str. 38",
+    "sourcePages": "38",
+    "sourceItem": "3.47",
+    "question": "Nestlačitelné válcové těleso je zcela ponořené 5 m pod hladinou. Jak se změní vztlaková síla, ponoříme-li ho do hloubky 15 m?",
+    "options": [
+      "zvětší se 3krát",
+      "zmenší se 3krát",
+      "nezmění se",
+      "zvětší se 9krát"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Vztlaková síla se rovná tíze kapaliny o objemu ponořeného tělesa, F = V·ρ·g. Objem nestlačitelného tělesa ani hustota kapaliny se s hloubkou nemění. S hloubkou roste tlak, ale rozdíl tlaků na horní a dolní podstavu zůstává stejný."
+    ],
+    "memory": "Vztlak nezávisí na hloubce."
+  },
+  {
+    "id": 1082,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.49 · str. 39",
+    "sourcePages": "39",
+    "sourceItem": "3.49",
+    "question": "Jaký sloupec kapaliny udrží přibližně v rovnováze normální atmosférický tlak?",
+    "options": [
+      "sloupec rtuti vysoký 760 mm",
+      "sloupec rtuti vysoký 1 m",
+      "sloupec vody vysoký 10 m",
+      "sloupec vody vysoký 1 m"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Normální tlak 101 325 Pa odpovídá 760 mm rtuťového sloupce (Torricelliho pokus). Voda je 13,6krát lehčí než rtuť, a sloupec je proto asi 10,3 m vysoký."
+    ],
+    "memory": "760 mm Hg ≈ 10 m vody."
+  },
+  {
+    "id": 1083,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.50 · str. 39",
+    "sourcePages": "39",
+    "sourceItem": "3.50",
+    "question": "E₁ je kinetická energie homogenní koule rotující kolem osy procházející těžištěm úhlovou rychlostí ω, E₂ energie téže koule rotující stejnou ω kolem osy, která je její tečnou. Jaký je mezi nimi vztah?",
+    "options": [
+      "E₁ = E₂",
+      "E₁ > E₂",
+      "E₁ < E₂",
+      "nelze rozhodnout, záleží na poloze osy a smyslu otáčení"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Moment setrvačnosti k ose posunuté o vzdálenost d je podle Steinerovy věty J = J₀ + m·d². Vůči tečně je tedy větší než vůči ose těžištěm, a při stejné ω je větší i energie ½·J·ω²."
+    ],
+    "memory": "Osa těžištěm = nejmenší moment setrvačnosti."
+  },
+  {
+    "id": 1084,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.51 · str. 39",
+    "sourcePages": "39",
+    "sourceItem": "3.51",
+    "question": "Kdy platí Pascalův zákon?",
+    "options": [
+      "neplatí ve stavu beztíže",
+      "platí jen pro kapaliny, ne pro plyny",
+      "přesně platí jen při absolutní nule",
+      "platí i ve stavu beztíže"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Pascalův zákon popisuje šíření tlaku vyvolaného vnější silou, který je v celé tekutině stejný. Nezávisí na tíze, platí tedy i ve stavu beztíže, a to pro kapaliny i plyny."
+    ],
+    "memory": "Vnější tlak se šíří všemi směry."
+  },
+  {
+    "id": 1085,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.52 · str. 39",
+    "sourcePages": "39",
+    "sourceItem": "3.52",
+    "question": "Který převodní vztah je správný?",
+    "options": [
+      "1 J = 1 N·m⁻¹",
+      "1 J = 1 W·s⁻¹",
+      "1 J = 1 Pa·m³",
+      "1 J = 1 N·m²"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Pa·m³ = N·m⁻²·m³ = N·m = J. Joule je také W·s (ne W/s) a N·m (ne N/m ani N·m²)."
+    ],
+    "memory": "Tlak × objem = energie."
+  },
+  {
+    "id": 1086,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.54 · str. 39",
+    "sourcePages": "39",
+    "sourceItem": "3.54",
+    "question": "Které tvrzení o měření tlaku je pravdivé?",
+    "options": [
+      "manometr je tlakoměr",
+      "barometr je tlakoměr na měření atmosférického tlaku",
+      "aneroid je barometr, který měří deformaci uzavřené duté krabičky vnějším tlakem",
+      "barometrický tlak je totéž co atmosférický tlak"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Všechna tvrzení platí. Manometr měří tlak (obvykle přetlak) v nádobách, barometr atmosférický tlak. Aneroid (kovový barometr) využívá prohýbání vzduchoprázdné krabičky."
+    ],
+    "memory": "Baro- = atmosférický tlak."
+  },
+  {
+    "id": 1087,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.56 · str. 40",
+    "sourcePages": "40",
+    "sourceItem": "3.56",
+    "question": "Co platí o proudění kapalin?",
+    "options": [
+      "Bernoulliho rovnice vyjadřuje zákon zachování energie v proudící kapalině",
+      "při určité rychlosti se proudění mění z laminárního na turbulentní",
+      "rychlosti molekul reálné kapaliny se v celém průřezu trubice neliší",
+      "měření rychlosti toku krve může využít Dopplerův jev"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "title": "Správně: A, B a D",
+    "paragraphs": [
+      "Bernoulliho rovnice je zákon zachování energie. Nad kritickou rychlostí přechází laminární proudění v turbulentní. U reálné kapaliny je rychlost uprostřed trubice větší než u stěn. Dopplerovská ultrasonografie měří rychlost krve."
+    ],
+    "memory": "Doppler měří průtok krve."
+  },
+  {
+    "id": 1088,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.58 · str. 40",
+    "sourcePages": "40",
+    "sourceItem": "3.58",
+    "question": "Sportovní obuv má dvakrát větší plochu podrážek než společenská. Jaký je tlak téže osoby na podlahu ve společenské obuvi?",
+    "options": [
+      "dvojnásobný než ve sportovní obuvi",
+      "poloviční než ve sportovní obuvi",
+      "stejný, protože osoba působí stále stejnou tíhou",
+      "závisí jen na hmotnosti osoby a tíhovém zrychlení"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Tíha je stejná, ale tlak p = F/S je nepřímo úměrný ploše. Poloviční plocha podrážek společenské obuvi dává dvojnásobný tlak."
+    ],
+    "memory": "Menší plocha = větší tlak."
+  },
+  {
+    "id": 1089,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.60 · str. 40",
+    "sourcePages": "40",
+    "sourceItem": "3.60",
+    "question": "Poměr hustoty ledovce a mořské vody je 0,89. Jaká část objemu plovoucího ledovce vyčnívá nad hladinu?",
+    "options": [
+      "nelze určit",
+      "6 %",
+      "22 %",
+      "11 %"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Plovoucí těleso je ponořené takovou částí objemu, jaký je poměr hustot. Pod vodou je 89 % ledovce a nad hladinu vyčnívá 11 %."
+    ],
+    "memory": "Ponořená část = poměr hustot."
+  },
+  {
+    "id": 1090,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.61 · str. 40",
+    "sourcePages": "40",
+    "sourceItem": "3.61",
+    "question": "Který převod mezi jednotkami je správný?",
+    "options": [
+      "1 J·kg⁻¹·K⁻¹ = 1 m·s⁻²·K⁻¹",
+      "1 W = 1 Pa·m·s⁻¹",
+      "1 Pa = 1 J·m⁻³",
+      "1 W·m⁻² = 1 kg·s⁻³"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "J·m⁻³ = N·m·m⁻³ = N·m⁻² = Pa. W·m⁻² = kg·m²·s⁻³·m⁻² = kg·s⁻³. Naopak J·kg⁻¹ = m²·s⁻², ne m·s⁻², a W = Pa·m³·s⁻¹, ne Pa·m·s⁻¹."
+    ],
+    "memory": "Tlak = energie na objem."
+  },
+  {
+    "id": 1091,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.62 · str. 41",
+    "sourcePages": "41",
+    "sourceItem": "3.62",
+    "question": "Co platí o pojmech tlaku?",
+    "options": [
+      "absolutní tlak je tlak vztažený k absolutnímu vakuu",
+      "přetlak je tlak vztažený k okolnímu tlaku",
+      "podtlak udává, o kolik je tlak nižší než okolní",
+      "atmosférický tlak je aerostatický tlak ovzduší"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Všechna tvrzení platí. Absolutní tlak se měří od vakua, přetlak a podtlak jako rozdíl proti okolnímu tlaku. Atmosférický tlak vzniká tíhou vzduchu, je to aerostatická obdoba hydrostatického tlaku."
+    ],
+    "memory": "Krevní tlak je přetlak."
+  },
+  {
+    "id": 1092,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.64 · str. 41",
+    "sourcePages": "41",
+    "sourceItem": "3.64",
+    "question": "Jak se vyjádří jednotka modulu pružnosti v tahu E v základních jednotkách SI?",
+    "options": [
+      "kg·m⁻²·s⁻²",
+      "kg·m⁻¹·s⁻²",
+      "kg·m⁻³·s⁻²",
+      "kg·m⁻¹·s⁻¹"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Z Hookova zákona σ = E·ε, kde ε je bezrozměrné, má E stejnou jednotku jako napětí, tedy pascal: N·m⁻² = kg·m⁻¹·s⁻²."
+    ],
+    "memory": "E se měří v pascalech."
+  },
+  {
+    "id": 1093,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.67 · str. 41",
+    "sourcePages": "41",
+    "sourceItem": "3.67",
+    "question": "Na tyč působí síla v podélném směru. Jak podle Hookova zákona závisí její prodloužení na délce tyče?",
+    "options": [
+      "nepřímo úměrně",
+      "přímo úměrně",
+      "lineárně",
+      "exponenciálně"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Δl = F·l/(S·E), takže prodloužení je přímo úměrné původní délce, což je lineární závislost. Dvakrát delší tyč se stejnou silou prodlouží dvakrát víc."
+    ],
+    "memory": "Relativní prodloužení je stejné."
+  },
+  {
+    "id": 1094,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.69 · str. 42",
+    "sourcePages": "42",
+    "sourceItem": "3.69",
+    "question": "Pro co platí rovnice spojitosti v₁·S₁ = v₂·S₂?",
+    "options": [
+      "pro ideální kapaliny",
+      "pro ideální tekutiny",
+      "pro ideální plyny",
+      "pro nestlačitelné kapaliny bez ohledu na jejich viskozitu"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Rovnice spojitosti ve tvaru S·v = konst. vychází ze zachování hmoty u nestlačitelné kapaliny, takže platí pro ideální i viskózní kapaliny. Plyny (a tím ani obecné tekutiny) jsou stlačitelné, a pro ně v tomto tvaru neplatí."
+    ],
+    "memory": "S·v = konst. jen bez stlačení."
+  },
+  {
+    "id": 1095,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.72 · str. 42",
+    "sourcePages": "42",
+    "sourceItem": "3.72",
+    "question": "Těleso o hmotnosti 2 kg zvedneme do výšky 2 m a pustíme. Jakou přibližně kinetickou energii má při dopadu na původní místo?",
+    "options": [
+      "20 J",
+      "4 J",
+      "40 J",
+      "60 J"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Potenciální energie m·g·h = 2 · 10 · 2 = 40 J se při pádu přemění na kinetickou."
+    ],
+    "memory": "Ep se mění na Ek."
+  },
+  {
+    "id": 1096,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.75 · str. 43",
+    "sourcePages": "43",
+    "sourceItem": "3.75",
+    "question": "Těleso ve vakuu volně padá z klidu z výšky h. Jakou rychlostí dopadne?",
+    "options": [
+      "½·g·t",
+      "g·h",
+      "√(2h/g)",
+      "√(2g·h)"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Ze zachování energie m·g·h = ½·m·v² vychází v = √(2g·h). Výraz √(2h/g) je doba pádu."
+    ],
+    "memory": "v = √(2gh)."
+  },
+  {
+    "id": 1097,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.76 · str. 43",
+    "sourcePages": "43",
+    "sourceItem": "3.76",
+    "question": "Těleso ve vakuu volně padá z klidu z výšky h. Za jak dlouho dopadne?",
+    "options": [
+      "g·h",
+      "h/g",
+      "√(2h/g)",
+      "½·g·h"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Z h = ½·g·t² vychází t = √(2h/g). Z výšky 5 m padá těleso asi 1 s."
+    ],
+    "memory": "t = √(2h/g)."
+  },
+  {
+    "id": 1098,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.77 · str. 43",
+    "sourcePages": "43",
+    "sourceItem": "3.77",
+    "question": "Celé těleso vložíme do kapaliny. Kdy bude stoupat k hladině?",
+    "options": [
+      "když má větší hustotu než kapalina",
+      "když je tíhová síla větší než vztlaková",
+      "když má menší hmotnost než kapalina",
+      "když má menší hustotu než kapalina"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Stoupá, když vztlaková síla V·ρ_k·g převýší tíhu V·ρ_t·g, tedy když má těleso menší hustotu než kapalina. Rozhoduje hustota, ne hmotnost celé kapaliny."
+    ],
+    "memory": "Lehčí než kapalina = stoupá."
+  },
+  {
+    "id": 1099,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.86 · str. 44",
+    "sourcePages": "44",
+    "sourceItem": "3.86",
+    "question": "Jaká je rychlost, kterou reálná kapalina vytéká otvorem ve stěně, ve srovnání s ideální kapalinou stejné hustoty?",
+    "options": [
+      "větší",
+      "menší",
+      "menší nebo větší podle teploty",
+      "stejná"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Reálná kapalina má vnitřní tření, část energie se přemění na teplo a výtoková rychlost je menší než u ideální kapaliny podle Torricelliho vztahu √(2gh)."
+    ],
+    "memory": "Tření brzdí výtok."
+  },
+  {
+    "id": 1100,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.90 · str. 45",
+    "sourcePages": "45",
+    "sourceItem": "3.90",
+    "question": "Co se stane, zmenší-li se průřez trubice, kterou proudí ideální kapalina se stálým průtokem?",
+    "options": [
+      "rychlost kapaliny se zvětší",
+      "rychlost kapaliny se zmenší",
+      "hustota kapaliny se zvýší",
+      "tlak kapaliny klesne"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Při stálém průtoku Q = S·v se v užším místě rychlost zvětší. Podle Bernoulliho rovnice tam klesá tlak. Ideální kapalina je nestlačitelná, hustota se nemění."
+    ],
+    "memory": "Hadice zúžená prstem stříká dál."
+  }
+]
