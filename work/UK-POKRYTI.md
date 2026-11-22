@@ -191,6 +191,22 @@ Nepřidané položky:
 - Chemie str. 153–164: 153/3 (butanal, varianta 401), 153/4, 155/2, 157/1 (vzorce aldehydu, ketonu a etheru, varianta 408), 153/6, 154/1–155/1 (vzorce jen jako obrázek), 155/3 (dvě správné možnosti, aceton ve 404), 156/1, 156/2 (redukce ketonu, varianta 404), 156/4 (benzochinon z hydrochinonu, UK 373), 156/5 (acetofenon, ve 405), 157/4 (chiralita hydroxykyselin, UK 278), 157/5 (varianta 410), 158/1, 158/2 (varianty 412), 159/2 (název esteru, varianta 415), 159/5 (vzorec vinyl-acetátu, OCR nečitelné), 159/6 (dvě správné možnosti, malonová = propandiová, varianta 418), 160/1 (keton z 2-hydroxymáselné kyseliny, sporné, acetoctová vzniká z 3-hydroxymáselné), 160/3 (varianta 419), 160/6, 161/1 (laktát na pyruvát, varianta 421 a LF MU 345), 161/2 (varianta 418), 161/5 (hydrogenace fumarátu, varianta 423), 162/2 (varianta 424), 162/4, 162/5 (kyselina benzoová z toluenu, UK 332), 163/2, 163/3 (varianty 427–428), 163/6 (kyselina ftalová z o-xylenu, pro další dávku), 164/3 (vzorce v OCR neúplné).
 - Biologie 540–590: 542, 544, 550, 551, 553, 569, 570, 581–584, 587 (více správných možností, část přeformulována, zbytek pro další dávku), 547 (trichomonáda, BIO 826), 552, 559, 563, 571 (zařazení ploštěnců a hlístic, LF MU 396 a UK 443), 554 (ježura, UK 391), 555 (amnion plazů a savců, varianta 448), 560, 561, 564, 585 (spavá nemoc a malárie, LF MU 399–400), 565 (lamblie, LF MU 299), 577, 590 (oddělené oběhy ptáků a savců, LF MU 395), 566, 567, 573, 579, 586, 588 (pro další dávku).
 
+## Dávka ID 451–500 (v2.61.0)
+
+Soubor `uk-451-500.json`, generátor `create_uk_451_500.py`. Chemie ověřena výkladem, biologie porovnána s klíčem. Otázky s více správnými možnostmi přeformulovány na jednu správnou.
+
+| Předmět | Kapitola | Použité úlohy | ID |
+|---|---|---|---|
+| Chemie | 4.11 Aminy, amidy, alkaloidy (str. 166–170) | str. 166/5, 167/1, 168/1, 168/4, 168/5, 169/2, 169/3, 169/5, 169/6, 170/2 | 451–460 |
+| Chemie | 5.1 Heterocyklické sloučeniny (str. 171–177) | str. 171/1, 172/1, 172/4, 172/5, 172/6, 173/6, 174/1, 174/2, 174/3, 174/5, 174/6, 175/2, 175/3, 175/4, 175/6, 176/1, 176/2, 176/3, 176/4, 176/6, 177/1 | 461–481 |
+| Chemie | 5.2 Monosacharidy (str. 179) | str. 179/3 | 482 |
+| Biologie | Biologie živočichů a protistů (str. 122–133) | 542, 544, 566, 567, 569, 573, 581, 583, 584, 586, 587, 588, 593, 596, 598, 605 | 483–498 |
+| Biologie | Biologie člověka (str. 137–138) | 620, 623 | 499–500 |
+
+Nepřidané položky:
+- Chemie str. 166–179: 166/2–166/4 (zápis aminů, UK 432), 167/2 (varianta 452), 168/2, 168/3, 177/2–179/2 (vzorce jen jako obrázek), 169/1, 169/4 (varianty 454 a 457), 170/1 (varianta 460), 172/2, 172/3, 173/1, 175/1 (dvě správné možnosti), 173/2–173/5 (pyrrol a porfyrin v hemu a chlorofylu, UK 42), 174/4 (varianta 469), 175/5 (varianta 474), 176/5 (varianta 479).
+- Biologie 542–625: 550, 553, 570 (více správných možností, trypanozoma a toxoplazma v LF MU 399 a UK 522), 591 (žebříčková nervová soustava, SOM 66), 592 (struna hřbetní, UK 397), 594, 595, 602–604 (plíce, oběh, teplokrevnost a komorové oko, UK 449, 491 a 390), 597 (vzdušnice, SOM 239), 599, 600 (komorové a složené oko, UK 390), 601 (kostra žraloka, UK 446), 606–619, 621, 622, 624, 625 (biologie člověka pokrytá bankami SOM, BIO a ČB, například obratle BIO 31–32, nefron BIO 336–339, oko BIO 651–678, Langerhansovy ostrůvky BIO 588, vestibulární ústrojí BIO 616–630).
+
 ## Další dávky
 
-Pokračovat od ID 451. Fyzika čeká na plnou knihu. Chemie pokračuje kap. 4.11 od str. 166, biologie od otázky 591 a zbytek 542–588. Úplné pokrytí zatím nebylo dosaženo.
+Pokračovat od ID 501. Fyzika čeká na plnou knihu. Chemie pokračuje kap. 5.2 od str. 179 (otázka 4), biologie od otázky 626 (biologie člověka, nutná pečlivá kontrola duplicit vůči SOM, BIO a ČB). Úplné pokrytí zatím nebylo dosaženo.

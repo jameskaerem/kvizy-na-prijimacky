@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 451,
+    "subject": "Chemie",
+    "category": "Chemie · 4.11 Aminy, amidy, alkaloidy",
+    "bookRef": "UK · Chemie · 4.11 Aminy, amidy, alkaloidy · str. 166, otázka 5",
+    "sourcePages": "166",
+    "sourceItem": "str. 166, otázka 5",
+    "question": "Jaký amin je methylamin CH₃−NH₂?",
+    "options": [
+      "sekundární",
+      "terciární",
+      "primární",
+      "aromatický"
+    ],
+    "answer": 2,
+    "title": "primární",
+    "paragraphs": [
+      "Na dusíku je vázán jen jeden uhlovodíkový zbytek a zbývají dva vodíky, amin je tedy primární. Aromatickým aminem je například anilin."
+    ],
+    "memory": "Jeden R na dusíku = primární."
+  },
+  {
+    "id": 452,
+    "subject": "Chemie",
+    "category": "Chemie · 4.11 Aminy, amidy, alkaloidy",
+    "bookRef": "UK · Chemie · 4.11 Aminy, amidy, alkaloidy · str. 167, otázka 1",
+    "sourcePages": "167",
+    "sourceItem": "str. 167, otázka 1",
+    "question": "Co je p-fenylendiamin?",
+    "options": [
+      "benzen-1,2-diamin",
+      "benzen-1,3-diamin",
+      "benzenamin (anilin)",
+      "benzen-1,4-diamin"
+    ],
+    "answer": 3,
+    "title": "benzen-1,4-diamin",
+    "paragraphs": [
+      "Předpona para označuje polohu 1,4. Fenylendiamin má na benzenovém jádře dvě aminoskupiny. Anilin má jen jednu."
+    ],
+    "memory": "para = 1,4."
+  },
+  {
+    "id": 453,
+    "subject": "Chemie",
+    "category": "Chemie · 4.11 Aminy, amidy, alkaloidy",
+    "bookRef": "UK · Chemie · 4.11 Aminy, amidy, alkaloidy · str. 168, otázka 1",
+    "sourcePages": "168",
+    "sourceItem": "str. 168, otázka 1",
+    "question": "Jaký vzorec má trimethylamin?",
+    "options": [
+      "N(CH₃)₃",
+      "NH(CH₃)₂",
+      "(CH₃)₃C−NH₂",
+      "N(CH₄)₃"
+    ],
+    "answer": 0,
+    "title": "N(CH₃)₃",
+    "paragraphs": [
+      "Tři methylové skupiny jsou vázány přímo na dusík, jde o terciární amin. NH(CH₃)₂ je dimethylamin a (CH₃)₃C−NH₂ terc-butylamin. Trimethylamin způsobuje typický rybí zápach."
+    ],
+    "memory": "Tri-methyl na N = N(CH₃)₃."
+  },
+  {
+    "id": 454,
+    "subject": "Chemie",
+    "category": "Chemie · 4.11 Aminy, amidy, alkaloidy",
+    "bookRef": "UK · Chemie · 4.11 Aminy, amidy, alkaloidy · str. 168, otázka 4",
+    "sourcePages": "168",
+    "sourceItem": "str. 168, otázka 4",
+    "question": "Co vzniká dehydratací amidů?",
+    "options": [
+      "aminy",
+      "nitrily",
+      "nitráty",
+      "nitridy"
+    ],
+    "answer": 1,
+    "title": "nitrily",
+    "paragraphs": [
+      "Odštěpením vody ze skupiny −CO−NH₂ vznikne trojná vazba C≡N: R−CONH₂ → R−C≡N + H₂O. Hydrolýzou nitrilu se naopak vrací amid a dále kyselina."
+    ],
+    "memory": "Amid − H₂O = nitril."
+  },
+  {
+    "id": 455,
+    "subject": "Chemie",
+    "category": "Chemie · 4.11 Aminy, amidy, alkaloidy",
+    "bookRef": "UK · Chemie · 4.11 Aminy, amidy, alkaloidy · str. 168, otázka 5",
+    "sourcePages": "168",
+    "sourceItem": "str. 168, otázka 5",
+    "question": "Která karboxylová kyselina vzniká hydrolýzou benzamidu?",
+    "options": [
+      "kyselina salicylová",
+      "kyselina ftalová",
+      "kyselina benzoová",
+      "kyselina octová"
+    ],
+    "answer": 2,
+    "title": "kyselina benzoová",
+    "paragraphs": [
+      "C₆H₅−CO−NH₂ + H₂O → C₆H₅−COOH + NH₃. Hydrolýzou amidu vzniká kyselina a amoniak (nebo amin)."
+    ],
+    "memory": "Amid + voda = kyselina + NH₃."
+  },
+  {
+    "id": 456,
+    "subject": "Chemie",
+    "category": "Chemie · 4.11 Aminy, amidy, alkaloidy",
+    "bookRef": "UK · Chemie · 4.11 Aminy, amidy, alkaloidy · str. 169, otázka 2",
+    "sourcePages": "169",
+    "sourceItem": "str. 169, otázka 2",
+    "question": "Nitrilem které kyseliny je kyanovodík?",
+    "options": [
+      "octové",
+      "šťavelové",
+      "malonové",
+      "mravenčí"
+    ],
+    "answer": 3,
+    "title": "mravenčí",
+    "paragraphs": [
+      "H−C≡N obsahuje jediný uhlík, stejně jako kyselina mravenčí HCOOH. Hydrolýzou HCN vzniká mravenčan amonný. Nitrilem kyseliny octové je acetonitril CH₃CN."
+    ],
+    "memory": "HCN ↔ HCOOH."
+  },
+  {
+    "id": 457,
+    "subject": "Chemie",
+    "category": "Chemie · 4.11 Aminy, amidy, alkaloidy",
+    "bookRef": "UK · Chemie · 4.11 Aminy, amidy, alkaloidy · str. 169, otázka 3",
+    "sourcePages": "169",
+    "sourceItem": "str. 169, otázka 3",
+    "question": "Co je močovina?",
+    "options": [
+      "diamid kyseliny uhličité",
+      "diamid kyseliny octové",
+      "aminokyselina",
+      "derivát purinu"
+    ],
+    "answer": 0,
+    "title": "diamid kyseliny uhličité",
+    "paragraphs": [
+      "Močovina CO(NH₂)₂ vznikne náhradou obou skupin −OH kyseliny uhličité aminoskupinami. Je hlavní dusíkatou odpadní látkou savců a vzniká v játrech v ornitinovém cyklu."
+    ],
+    "memory": "Močovina = O=C(NH₂)₂."
+  },
+  {
+    "id": 458,
+    "subject": "Chemie",
+    "category": "Chemie · 4.11 Aminy, amidy, alkaloidy",
+    "bookRef": "UK · Chemie · 4.11 Aminy, amidy, alkaloidy · str. 169, otázka 5",
+    "sourcePages": "169",
+    "sourceItem": "str. 169, otázka 5",
+    "question": "Co jsou alkaloidy?",
+    "options": [
+      "deriváty bílkovin",
+      "přírodní dusíkaté organické látky",
+      "přírodní polysacharidy",
+      "deriváty steranu"
+    ],
+    "answer": 1,
+    "title": "přírodní dusíkaté organické látky",
+    "paragraphs": [
+      "Alkaloidy jsou převážně rostlinné dusíkaté látky, často heterocyklické a s výrazným účinkem na organismus, například nikotin, kofein, morfin nebo atropin."
+    ],
+    "memory": "Alkaloid = rostlinná dusíkatá látka."
+  },
+  {
+    "id": 459,
+    "subject": "Chemie",
+    "category": "Chemie · 4.11 Aminy, amidy, alkaloidy",
+    "bookRef": "UK · Chemie · 4.11 Aminy, amidy, alkaloidy · str. 169, otázka 6",
+    "sourcePages": "169",
+    "sourceItem": "str. 169, otázka 6",
+    "question": "Jaký charakter má většina alkaloidů?",
+    "options": [
+      "kyselý",
+      "neutrální",
+      "zásaditý",
+      "amfoterní"
+    ],
+    "answer": 2,
+    "title": "zásaditý",
+    "paragraphs": [
+      "Název alkaloid znamená „podobný zásadě“. Volný elektronový pár dusíku váže proton, proto alkaloidy s kyselinami tvoří soli, ve kterých se často podávají jako léky."
+    ],
+    "memory": "Alkaloid = zásaditý dusík."
+  },
+  {
+    "id": 460,
+    "subject": "Chemie",
+    "category": "Chemie · 4.11 Aminy, amidy, alkaloidy",
+    "bookRef": "UK · Chemie · 4.11 Aminy, amidy, alkaloidy · str. 170, otázka 2",
+    "sourcePages": "170",
+    "sourceItem": "str. 170, otázka 2",
+    "question": "Jak se nazývá sloučenina, která vznikne náhradou hydroxylu v karboxylu kyseliny benzoové aminoskupinou?",
+    "options": [
+      "kyselina p-aminobenzoová",
+      "fenylalanin",
+      "anilin",
+      "benzamid (benzoylamid)"
+    ],
+    "answer": 3,
+    "title": "benzamid (benzoylamid)",
+    "paragraphs": [
+      "Náhradou −OH v −COOH skupinou −NH₂ vznikne amid C₆H₅−CO−NH₂. Kyselina p-aminobenzoová má aminoskupinu na jádře a karboxyl zachovaný."
+    ],
+    "memory": "−COOH → −CONH₂ = amid."
+  },
+  {
+    "id": 461,
+    "subject": "Chemie",
+    "category": "Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty",
+    "bookRef": "UK · Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty · str. 171, otázka 1",
+    "sourcePages": "171",
+    "sourceItem": "str. 171, otázka 1",
+    "question": "Která pětičlenná heterocyklická sloučenina obsahuje jeden atom kyslíku?",
+    "options": [
+      "furan",
+      "pyrrol",
+      "thiofen",
+      "pyran"
+    ],
+    "answer": 0,
+    "title": "furan",
+    "paragraphs": [
+      "Furan C₄H₄O má v pětičlenném kruhu kyslík. Pyrrol má dusík, thiofen síru a pyran je šestičlenný s kyslíkem."
+    ],
+    "memory": "Furan O, pyrrol N, thiofen S."
+  },
+  {
+    "id": 462,
+    "subject": "Chemie",
+    "category": "Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty",
+    "bookRef": "UK · Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty · str. 172, otázka 1",
+    "sourcePages": "172",
+    "sourceItem": "str. 172, otázka 1",
+    "question": "Které heteroatomy obsahuje pětičlenný kruh thiazolu?",
+    "options": [
+      "dva atomy dusíku",
+      "dusík a síru",
+      "dusík a kyslík",
+      "kyslík a síru"
+    ],
+    "answer": 1,
+    "title": "dusík a síru",
+    "paragraphs": [
+      "Thiazol má v kruhu atom síry (thia-) a dusíku (-azol). Je součástí vitaminu B₁ (thiaminu). Dva dusíky má imidazol, dusík a kyslík oxazol."
+    ],
+    "memory": "Thia = S, aza = N."
+  },
+  {
+    "id": 463,
+    "subject": "Chemie",
+    "category": "Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty",
+    "bookRef": "UK · Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty · str. 172, otázka 4",
+    "sourcePages": "172",
+    "sourceItem": "str. 172, otázka 4",
+    "question": "Kolik atomů dusíku obsahuje molekula pyrrolu?",
+    "options": [
+      "dva",
+      "tři",
+      "jeden",
+      "žádný"
+    ],
+    "answer": 2,
+    "title": "jeden",
+    "paragraphs": [
+      "Pyrrol je pětičlenný aromatický heterocyklus se čtyřmi uhlíky a jedním dusíkem. Čtyři pyrrolová jádra tvoří porfyrin hemu a chlorofylu."
+    ],
+    "memory": "Pyrrol: 1 N v pětičlenném kruhu."
+  },
+  {
+    "id": 464,
+    "subject": "Chemie",
+    "category": "Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty",
+    "bookRef": "UK · Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty · str. 172, otázka 5",
+    "sourcePages": "172",
+    "sourceItem": "str. 172, otázka 5",
+    "question": "Jakou reakcí vzniká pyrrolidin z pyrrolu?",
+    "options": [
+      "dehydrogenací",
+      "deaminací",
+      "acetylací",
+      "hydrogenací"
+    ],
+    "answer": 3,
+    "title": "hydrogenací",
+    "paragraphs": [
+      "Adicí vodíku na obě dvojné vazby pyrrolu vznikne nasycený pyrrolidin. Jeho kruh je součástí aminokyseliny prolinu."
+    ],
+    "memory": "Pyrrol + 2 H₂ = pyrrolidin."
+  },
+  {
+    "id": 465,
+    "subject": "Chemie",
+    "category": "Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty",
+    "bookRef": "UK · Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty · str. 172, otázka 6",
+    "sourcePages": "172",
+    "sourceItem": "str. 172, otázka 6",
+    "question": "Čím se navzájem liší pyrrol a imidazol?",
+    "options": [
+      "počtem heteroatomů",
+      "druhem heteroatomů",
+      "velikostí kruhu",
+      "počtem kruhů"
+    ],
+    "answer": 0,
+    "title": "počtem heteroatomů",
+    "paragraphs": [
+      "Oba jsou pětičlenné dusíkaté heterocykly. Pyrrol má jeden dusík, imidazol dva. Imidazolový kruh je v histidinu."
+    ],
+    "memory": "Pyrrol 1 N, imidazol 2 N."
+  },
+  {
+    "id": 466,
+    "subject": "Chemie",
+    "category": "Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty",
+    "bookRef": "UK · Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty · str. 173, otázka 6",
+    "sourcePages": "173",
+    "sourceItem": "str. 173, otázka 6",
+    "question": "Kolik atomů dusíku obsahuje pětičlenný kruh imidazolu?",
+    "options": [
+      "jeden",
+      "dva",
+      "tři",
+      "čtyři"
+    ],
+    "answer": 1,
+    "title": "dva",
+    "paragraphs": [
+      "Imidazol má v pětičlenném kruhu dva dusíky v polohách 1 a 3. Je součástí histidinu a purinových bází."
+    ],
+    "memory": "Imidazol = dva N."
+  },
+  {
+    "id": 467,
+    "subject": "Chemie",
+    "category": "Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty",
+    "bookRef": "UK · Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty · str. 174, otázka 1",
+    "sourcePages": "174",
+    "sourceItem": "str. 174, otázka 1",
+    "question": "Kolik atomů dusíku obsahuje molekula pyranu?",
+    "options": [
+      "jeden",
+      "dva",
+      "žádný",
+      "tři"
+    ],
+    "answer": 2,
+    "title": "žádný",
+    "paragraphs": [
+      "Pyran je šestičlenný heterocyklus s jedním atomem kyslíku. Pyranový kruh tvoří cyklické formy glukózy (pyranózy)."
+    ],
+    "memory": "Pyran: O, ne N."
+  },
+  {
+    "id": 468,
+    "subject": "Chemie",
+    "category": "Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty",
+    "bookRef": "UK · Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty · str. 174, otázka 2",
+    "sourcePages": "174",
+    "sourceItem": "str. 174, otázka 2",
+    "question": "Co je pyridin?",
+    "options": [
+      "šestičlenná heterocyklická sloučenina se dvěma atomy dusíku",
+      "pětičlenná heterocyklická sloučenina s jedním atomem dusíku",
+      "pětičlenná heterocyklická sloučenina se dvěma atomy dusíku",
+      "šestičlenná heterocyklická sloučenina s jedním atomem dusíku"
+    ],
+    "answer": 3,
+    "title": "šestičlenná heterocyklická sloučenina s jedním atomem dusíku",
+    "paragraphs": [
+      "Pyridin C₅H₅N je aromatický jako benzen, jen jeden článek CH nahrazuje dusík. Dva dusíky v šestičlenném kruhu má pyrimidin, pětičlenný s jedním dusíkem je pyrrol."
+    ],
+    "memory": "Pyridin = benzen s jedním N."
+  },
+  {
+    "id": 469,
+    "subject": "Chemie",
+    "category": "Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty",
+    "bookRef": "UK · Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty · str. 174, otázka 3",
+    "sourcePages": "174",
+    "sourceItem": "str. 174, otázka 3",
+    "question": "Co vzniká reakcí pyridinu s kyselinou chlorovodíkovou?",
+    "options": [
+      "pyridiniová sůl",
+      "pyrimidin",
+      "chlorpyran",
+      "pyrrol"
+    ],
+    "answer": 0,
+    "title": "pyridiniová sůl",
+    "paragraphs": [
+      "Volný elektronový pár dusíku pyridinu váže proton, pyridin je slabá zásada. Vzniká pyridinium-chlorid C₅H₅NH⁺Cl⁻."
+    ],
+    "memory": "Pyridin + kyselina = pyridiniová sůl."
+  },
+  {
+    "id": 470,
+    "subject": "Chemie",
+    "category": "Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty",
+    "bookRef": "UK · Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty · str. 174, otázka 5",
+    "sourcePages": "174",
+    "sourceItem": "str. 174, otázka 5",
+    "question": "Čím se navzájem liší pyridin a pyrimidin?",
+    "options": [
+      "velikostí kruhu",
+      "počtem heteroatomů",
+      "druhem heteroatomů",
+      "počtem kruhů"
+    ],
+    "answer": 1,
+    "title": "počtem heteroatomů",
+    "paragraphs": [
+      "Oba jsou šestičlenné dusíkaté heterocykly. Pyridin má jeden dusík, pyrimidin dva (v polohách 1 a 3)."
+    ],
+    "memory": "Pyridin 1 N, pyrimidin 2 N."
+  },
+  {
+    "id": 471,
+    "subject": "Chemie",
+    "category": "Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty",
+    "bookRef": "UK · Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty · str. 174, otázka 6",
+    "sourcePages": "174",
+    "sourceItem": "str. 174, otázka 6",
+    "question": "Derivátem které sloučeniny je kyselina nikotinová?",
+    "options": [
+      "pyrimidinu",
+      "purinu",
+      "pyridinu",
+      "furanu"
+    ],
+    "answer": 2,
+    "title": "pyridinu",
+    "paragraphs": [
+      "Kyselina nikotinová (niacin, vitamin B₃) je pyridin-3-karboxylová kyselina. Její amid je součástí koenzymů NAD⁺ a NADP⁺."
+    ],
+    "memory": "Niacin = pyridin + COOH."
+  },
+  {
+    "id": 472,
+    "subject": "Chemie",
+    "category": "Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty",
+    "bookRef": "UK · Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty · str. 175, otázka 2",
+    "sourcePages": "175",
+    "sourceItem": "str. 175, otázka 2",
+    "question": "Jakou reakcí vzniká piperidin z pyridinu?",
+    "options": [
+      "halogenací",
+      "acetylací",
+      "deaminací",
+      "hydrogenací"
+    ],
+    "answer": 3,
+    "title": "hydrogenací",
+    "paragraphs": [
+      "Adicí tří molekul vodíku na aromatický kruh pyridinu vznikne nasycený šestičlenný piperidin."
+    ],
+    "memory": "Pyridin + 3 H₂ = piperidin."
+  },
+  {
+    "id": 473,
+    "subject": "Chemie",
+    "category": "Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty",
+    "bookRef": "UK · Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty · str. 175, otázka 3",
+    "sourcePages": "175",
+    "sourceItem": "str. 175, otázka 3",
+    "question": "Derivátem kterého heterocyklu je pyridoxin (vitamin B₆)?",
+    "options": [
+      "pyridinu",
+      "pyrrolu",
+      "purinu",
+      "pyrimidinu"
+    ],
+    "answer": 0,
+    "title": "pyridinu",
+    "paragraphs": [
+      "Pyridoxin má pyridinový kruh se skupinami −OH, −CH₃ a dvěma −CH₂OH. Jeho aktivní forma pyridoxalfosfát je koenzymem transamináz."
+    ],
+    "memory": "Pyridoxin = pyridin."
+  },
+  {
+    "id": 474,
+    "subject": "Chemie",
+    "category": "Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty",
+    "bookRef": "UK · Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty · str. 175, otázka 4",
+    "sourcePages": "175",
+    "sourceItem": "str. 175, otázka 4",
+    "question": "Kolik atomů dusíku obsahuje molekula pyrimidinu?",
+    "options": [
+      "jeden",
+      "dva",
+      "čtyři",
+      "žádný"
+    ],
+    "answer": 1,
+    "title": "dva",
+    "paragraphs": [
+      "Pyrimidin je šestičlenný kruh se dvěma dusíky v polohách 1 a 3. Je základem bází cytosinu, thyminu a uracilu."
+    ],
+    "memory": "Pyrimidin = 2 N v šestičlenném kruhu."
+  },
+  {
+    "id": 475,
+    "subject": "Chemie",
+    "category": "Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty",
+    "bookRef": "UK · Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty · str. 175, otázka 6",
+    "sourcePages": "175",
+    "sourceItem": "str. 175, otázka 6",
+    "question": "Která z uvedených bází je derivátem pyrimidinu?",
+    "options": [
+      "guanin",
+      "adenin",
+      "cytosin",
+      "kofein"
+    ],
+    "answer": 2,
+    "title": "cytosin",
+    "paragraphs": [
+      "Pyrimidinové báze nukleových kyselin jsou cytosin, thymin a uracil. Adenin, guanin i kofein jsou deriváty purinu."
+    ],
+    "memory": "C, T, U = pyrimidiny."
+  },
+  {
+    "id": 476,
+    "subject": "Chemie",
+    "category": "Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty",
+    "bookRef": "UK · Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty · str. 176, otázka 1",
+    "sourcePages": "176",
+    "sourceItem": "str. 176, otázka 1",
+    "question": "Která z uvedených bází nepatří mezi deriváty pyrimidinu?",
+    "options": [
+      "cytosin",
+      "thymin",
+      "uracil",
+      "adenin"
+    ],
+    "answer": 3,
+    "title": "adenin",
+    "paragraphs": [
+      "Adenin je purinová báze s kondenzovaným pyrimidinovým a imidazolovým kruhem. Cytosin, thymin a uracil mají jediný pyrimidinový kruh."
+    ],
+    "memory": "A a G = puriny."
+  },
+  {
+    "id": 477,
+    "subject": "Chemie",
+    "category": "Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty",
+    "bookRef": "UK · Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty · str. 176, otázka 2",
+    "sourcePages": "176",
+    "sourceItem": "str. 176, otázka 2",
+    "question": "Mezi jaké heterocyklické sloučeniny řadíme purin?",
+    "options": [
+      "kondenzované",
+      "čtyřčlenné",
+      "pětičlenné",
+      "šestičlenné"
+    ],
+    "answer": 0,
+    "title": "kondenzované",
+    "paragraphs": [
+      "Purin vzniká spojením (kondenzací) pyrimidinového a imidazolového kruhu, které sdílejí dva atomy uhlíku."
+    ],
+    "memory": "Purin = pyrimidin + imidazol."
+  },
+  {
+    "id": 478,
+    "subject": "Chemie",
+    "category": "Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty",
+    "bookRef": "UK · Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty · str. 176, otázka 3",
+    "sourcePages": "176",
+    "sourceItem": "str. 176, otázka 3",
+    "question": "Kolik atomů dusíku obsahuje molekula purinu?",
+    "options": [
+      "tři",
+      "čtyři",
+      "dva",
+      "jeden"
+    ],
+    "answer": 1,
+    "title": "čtyři",
+    "paragraphs": [
+      "Pyrimidinová část přispívá dvěma dusíky a imidazolová dalšími dvěma, purin C₅H₄N₄ má tedy čtyři dusíky."
+    ],
+    "memory": "Purin: 2 + 2 = 4 N."
+  },
+  {
+    "id": 479,
+    "subject": "Chemie",
+    "category": "Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty",
+    "bookRef": "UK · Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty · str. 176, otázka 4",
+    "sourcePages": "176",
+    "sourceItem": "str. 176, otázka 4",
+    "question": "Derivátem které sloučeniny je kyselina močová?",
+    "options": [
+      "pyrimidinu",
+      "močoviny",
+      "purinu",
+      "steranu"
+    ],
+    "answer": 2,
+    "title": "purinu",
+    "paragraphs": [
+      "Kyselina močová (2,6,8-trihydroxypurin) je konečným produktem odbourávání purinových bází u člověka. Její ukládání v kloubech způsobuje dnu."
+    ],
+    "memory": "Puriny → kyselina močová."
+  },
+  {
+    "id": 480,
+    "subject": "Chemie",
+    "category": "Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty",
+    "bookRef": "UK · Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty · str. 176, otázka 6",
+    "sourcePages": "176",
+    "sourceItem": "str. 176, otázka 6",
+    "question": "Ve kterých polohách furanu nejsnáze probíhají elektrofilní substituce?",
+    "options": [
+      "3 a 4",
+      "1 a 3",
+      "jen 1",
+      "2 a 5"
+    ],
+    "answer": 3,
+    "title": "2 a 5",
+    "paragraphs": [
+      "Poloha 1 patří kyslíku. Polohy 2 a 5 (α) sousedí s heteroatomem a vzniklý meziprodukt je tam nejlépe stabilizován, proto substituce probíhá přednostně v nich."
+    ],
+    "memory": "Pětičlenné heterocykly: α-polohy 2 a 5."
+  },
+  {
+    "id": 481,
+    "subject": "Chemie",
+    "category": "Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty",
+    "bookRef": "UK · Chemie · 5.1 Heterocyklické sloučeniny a jejich deriváty · str. 177, otázka 1",
+    "sourcePages": "177",
+    "sourceItem": "str. 177, otázka 1",
+    "question": "Co jsou pyranózy?",
+    "options": [
+      "šestičlenné cyklické formy monosacharidů",
+      "pětičlenné cyklické formy monosacharidů",
+      "čtyřčlenné cyklické formy monosacharidů",
+      "heterocyklické sloučeniny s dusíkem"
+    ],
+    "answer": 0,
+    "title": "šestičlenné cyklické formy monosacharidů",
+    "paragraphs": [
+      "Pyranóza má kruh odvozený od pyranu z pěti uhlíků a jednoho kyslíku, typicky glukopyranóza. Pětičlenné kruhy (čtyři uhlíky a kyslík) jsou furanózy."
+    ],
+    "memory": "Pyranóza 6, furanóza 5."
+  },
+  {
+    "id": 482,
+    "subject": "Chemie",
+    "category": "Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy",
+    "bookRef": "UK · Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy · str. 179, otázka 3",
+    "sourcePages": "179",
+    "sourceItem": "str. 179, otázka 3",
+    "question": "Který z uvedených cukrů je ketóza?",
+    "options": [
+      "glukóza",
+      "fruktóza",
+      "galaktóza",
+      "manóza"
+    ],
+    "answer": 1,
+    "title": "fruktóza",
+    "paragraphs": [
+      "Fruktóza má karbonylovou skupinu na uhlíku 2, jde o ketohexózu. Glukóza, galaktóza a manóza jsou aldohexózy s aldehydovou skupinou na uhlíku 1."
+    ],
+    "memory": "Fruktóza keto, glukóza aldo."
+  },
+  {
+    "id": 483,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 542 · str. 122",
+    "sourcePages": "122",
+    "sourceItem": "542",
+    "question": "Který řád patří mezi hmyz s proměnou dokonalou?",
+    "options": [
+      "rovnokřídlí",
+      "šváby",
+      "motýli",
+      "vážky"
+    ],
+    "answer": 2,
+    "title": "motýli",
+    "paragraphs": [
+      "Při proměně dokonalé se mezi larvu a dospělce vkládá stadium kukly, například u motýlů, brouků, blanokřídlých a dvoukřídlých. Rovnokřídlí, švábi a vážky mají proměnu nedokonalou."
+    ],
+    "memory": "Kukla = proměna dokonalá."
+  },
+  {
+    "id": 484,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 544 · str. 123",
+    "sourcePages": "123",
+    "sourceItem": "544",
+    "question": "Jakým způsobem se hlavonožci rychle pohybují?",
+    "options": [
+      "vlněním celého těla",
+      "pomocí lastury",
+      "vystřikováním inkoustu z konečníku",
+      "reaktivně, vystřikováním vody z plášťové dutiny"
+    ],
+    "answer": 3,
+    "title": "reaktivně, vystřikováním vody z plášťové dutiny",
+    "paragraphs": [
+      "Hlavonožci nasají vodu do plášťové dutiny a prudce ji vystříknou nálevkou, čímž se pohybují reaktivně. Chapadla slouží k pomalému lezení a lovu, inkoust k obraně."
+    ],
+    "memory": "Chobotnice = tryskový pohon."
+  },
+  {
+    "id": 485,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 566 · str. 126",
+    "sourcePages": "126",
+    "sourceItem": "566",
+    "question": "Které opice patří mezi ploskonosé?",
+    "options": [
+      "malpy",
+      "gorily",
+      "šimpanzi",
+      "lemuři"
+    ],
+    "answer": 0,
+    "title": "malpy",
+    "paragraphs": [
+      "Ploskonosé opice žijí v Americe a mají široce oddělené nosní otvory, patří k nim malpy, kotulové nebo vřešťani. Gorily a šimpanzi jsou úzkonosí lidoopi a lemuři poloopice."
+    ],
+    "memory": "Ploskonosé = Nový svět."
+  },
+  {
+    "id": 486,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 567 · str. 127",
+    "sourcePages": "127",
+    "sourceItem": "567",
+    "question": "Kteří ptáci patří mezi krátkokřídlé?",
+    "options": [
+      "bažanti a tetřevi",
+      "lysky a jeřábi",
+      "pštrosi a kiviové",
+      "husy a labutě"
+    ],
+    "answer": 1,
+    "title": "lysky a jeřábi",
+    "paragraphs": [
+      "Krátkokřídlí (Gruiformes) zahrnují jeřáby, lysky, chřástaly a dropy. Bažanti a tetřevi jsou hrabaví, pštrosi a kiviové běžci, husy a labutě vrubozobí."
+    ],
+    "memory": "Jeřáb a lyska = krátkokřídlí."
+  },
+  {
+    "id": 487,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 569 · str. 127",
+    "sourcePages": "127",
+    "sourceItem": "569",
+    "question": "Kam se v systému řadí klíšťata?",
+    "options": [
+      "mezi hmyz",
+      "mezi kroužkovce",
+      "mezi roztoče, kam patří i zákožky",
+      "mezi klepítkatce spolu s plošticemi"
+    ],
+    "answer": 2,
+    "title": "mezi roztoče, kam patří i zákožky",
+    "paragraphs": [
+      "Klíšťata jsou roztoči (třída pavoukovci). Mezi roztoče patří i zákožka svrabová, původce svrabu. Ploštice jsou hmyz."
+    ],
+    "memory": "Klíště a zákožka = roztoči."
+  },
+  {
+    "id": 488,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 573 · str. 128",
+    "sourcePages": "128",
+    "sourceItem": "573",
+    "question": "U kterých skupin živočichů jsou vyvinuty sluchové orgány?",
+    "options": [
+      "výhradně u obratlovců",
+      "u obratlovců a všech bezobratlých",
+      "u obratlovců a většiny bezobratlých kromě hmyzu",
+      "u obratlovců a hmyzu"
+    ],
+    "answer": 3,
+    "title": "u obratlovců a hmyzu",
+    "paragraphs": [
+      "Sluchová ústrojí (tympanální orgány) má například řada hmyzu: kobylky na holeních, cikády a někteří motýli na zadečku. Většina ostatních bezobratlých je nemá."
+    ],
+    "memory": "Kobylka slyší nohama."
+  },
+  {
+    "id": 489,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 581 · str. 129",
+    "sourcePages": "129",
+    "sourceItem": "581",
+    "question": "Pro kterou skupinu obratlovců má dýchání kůží velký význam?",
+    "options": [
+      "pro obojživelníky",
+      "pro plazy",
+      "pro ptáky",
+      "pro savce"
+    ],
+    "answer": 0,
+    "title": "pro obojživelníky",
+    "paragraphs": [
+      "Tenká vlhká kůže obojživelníků je bohatě prokrvená a podílí se na výměně plynů, u některých mloků je dokonce hlavním dýchacím orgánem. Plazi mají suchou kůži se šupinami."
+    ],
+    "memory": "Žába dýchá i kůží."
+  },
+  {
+    "id": 490,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 583 · str. 129",
+    "sourcePages": "129",
+    "sourceItem": "583",
+    "question": "Které soustavy ústí do kloaky?",
+    "options": [
+      "jen trávicí a vylučovací",
+      "trávicí, vylučovací a pohlavní",
+      "jen vylučovací a pohlavní",
+      "jen trávicí"
+    ],
+    "answer": 1,
+    "title": "trávicí, vylučovací a pohlavní",
+    "paragraphs": [
+      "Kloaka je společné vyústění všech tří soustav. Mají ji obojživelníci, plazi, ptáci a ptakořitní savci. Většina savců má otvory oddělené."
+    ],
+    "memory": "Kloaka = společný východ."
+  },
+  {
+    "id": 491,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 584 · str. 130",
+    "sourcePages": "130",
+    "sourceItem": "584",
+    "question": "Která dvojice skupin patří mezi homoiotermní (teplokrevné) živočichy?",
+    "options": [
+      "ryby a obojživelníci",
+      "plazi a ptáci",
+      "ptáci a savci",
+      "obojživelníci a savci"
+    ],
+    "answer": 2,
+    "title": "ptáci a savci",
+    "paragraphs": [
+      "Ptáci a savci udržují stálou tělesnou teplotu nezávisle na okolí díky intenzivnímu metabolismu, izolaci peřím nebo srstí a dokonale oddělenému krevnímu oběhu."
+    ],
+    "memory": "Peří a srst = stálá teplota."
+  },
+  {
+    "id": 492,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 586 · str. 130",
+    "sourcePages": "130",
+    "sourceItem": "586",
+    "question": "Která skupina obsahuje pouze čeledi patřící mezi přežvýkavce?",
+    "options": [
+      "turovití, velbloudovití, žirafovití",
+      "jelenovití, turovití, hrochovití",
+      "hrochovití, velbloudovití, turovití",
+      "turovití, žirafovití, jelenovití"
+    ],
+    "answer": 3,
+    "title": "turovití, žirafovití, jelenovití",
+    "paragraphs": [
+      "Přežvýkavci mají vícedílný žaludek s bachorem a potravu znovu přežvykují. Patří sem turovití, jelenovití a žirafovití. Velbloudi se řadí zvlášť (mozolnatci) a hroši k přežvýkavcům nepatří."
+    ],
+    "memory": "Kráva, jelen, žirafa = přežvýkavci."
+  },
+  {
+    "id": 493,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 587 · str. 130",
+    "sourcePages": "130",
+    "sourceItem": "587",
+    "question": "Jak přijímají potravu tasemnice?",
+    "options": [
+      "celým povrchem těla",
+      "dobře vyvinutou trávicí soustavou",
+      "přísavkami na hlavičce",
+      "ústy na každém článku"
+    ],
+    "answer": 0,
+    "title": "celým povrchem těla",
+    "paragraphs": [
+      "Tasemnice nemají trávicí soustavu, natrávené živiny ze střeva hostitele vstřebávají povrchem těla (tegumentem). Přísavky a háčky slouží jen k přichycení."
+    ],
+    "memory": "Tasemnice: bez střeva, sání povrchem."
+  },
+  {
+    "id": 494,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 588 · str. 130",
+    "sourcePages": "130",
+    "sourceItem": "588",
+    "question": "Který oddíl mozku je u ryb největší a nejvyvinutější?",
+    "options": [
+      "koncový mozek",
+      "střední mozek",
+      "mozeček",
+      "prodloužená mícha"
+    ],
+    "answer": 1,
+    "title": "střední mozek",
+    "paragraphs": [
+      "U ryb dominuje střední mozek se zrakovými laloky, protože zpracovává zrakové podněty. Koncový mozek se výrazně rozvíjí až u plazů, ptáků a hlavně savců."
+    ],
+    "memory": "Ryba = střední mozek."
+  },
+  {
+    "id": 495,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 593 · str. 131",
+    "sourcePages": "131",
+    "sourceItem": "593",
+    "question": "Který z uvedených živočichů nepatří mezi prvoústé?",
+    "options": [
+      "tasemnice",
+      "škrkavka",
+      "člověk (strunatec)",
+      "chobotnice"
+    ],
+    "answer": 2,
+    "title": "člověk (strunatec)",
+    "paragraphs": [
+      "U prvoústých se z prvoústí zárodku stávají ústa. Patří sem ploštěnci, hlístice, měkkýši, kroužkovci a členovci. Strunatci a ostnokožci jsou druhoústí."
+    ],
+    "memory": "Strunatci = druhoústí."
+  },
+  {
+    "id": 496,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 596 · str. 132",
+    "sourcePages": "132",
+    "sourceItem": "596",
+    "question": "Jací byli nejstarší paleontologicky doložení zástupci hmyzu?",
+    "options": [
+      "suchozemští a okřídlení",
+      "mořští s tracheálními žábrami",
+      "trilobiti",
+      "suchozemští a bezkřídlí"
+    ],
+    "answer": 3,
+    "title": "suchozemští a bezkřídlí",
+    "paragraphs": [
+      "Nejstarší hmyz z devonu byl bezkřídlý a žil na souši, podobně jako dnešní chvostoskoci nebo šupinušky. Křídla se objevila až v karbonu. Trilobiti jsou jiná skupina členovců."
+    ],
+    "memory": "Nejdřív bez křídel."
+  },
+  {
+    "id": 497,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 598 · str. 132",
+    "sourcePages": "132",
+    "sourceItem": "598",
+    "question": "Co je charakteristické pro stavbu těla korýšů?",
+    "options": [
+      "hlavohruď a pět párů kráčivých končetin",
+      "oddělená hlava a hruď a tři páry končetin",
+      "hlavohruď a tři páry kráčivých končetin",
+      "oddělená hlava a hruď a čtyři páry končetin"
+    ],
+    "answer": 0,
+    "title": "hlavohruď a pět párů kráčivých končetin",
+    "paragraphs": [
+      "Desetinožci, například rak, mají hlavu srostlou s hrudí v hlavohruď kryt krunýřem a pět párů kráčivých končetin. Tři páry nohou na hrudi má hmyz."
+    ],
+    "memory": "Rak = desetinožec."
+  },
+  {
+    "id": 498,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 605 · str. 133",
+    "sourcePages": "133",
+    "sourceItem": "605",
+    "question": "Který z uvedených primátů nepatří mezi hominidy?",
+    "options": [
+      "šimpanz",
+      "lemur",
+      "gorila",
+      "orangutan"
+    ],
+    "answer": 1,
+    "title": "lemur",
+    "paragraphs": [
+      "Hominidi (velcí lidoopi a člověk) zahrnují orangutany, gorily, šimpanze a člověka. Lemuři z Madagaskaru jsou poloopice."
+    ],
+    "memory": "Lemur = poloopice."
+  },
+  {
+    "id": 499,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 620 · str. 137",
+    "sourcePages": "137",
+    "sourceItem": "620",
+    "question": "Který orgán produkuje trypsinogen?",
+    "options": [
+      "játra",
+      "sliznice žaludku",
+      "slinivka břišní",
+      "sliznice tenkého střeva"
+    ],
+    "answer": 2,
+    "title": "slinivka břišní",
+    "paragraphs": [
+      "Trypsinogen je neaktivní předchůdce trypsinu, který slinivka vylučuje do dvanáctníku. Tam ho enterokináza aktivuje na trypsin štěpící bílkoviny. Neaktivní forma chrání slinivku před samonatrávením."
+    ],
+    "memory": "Trypsin(ogen) = pankreas."
+  },
+  {
+    "id": 500,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 623 · str. 138",
+    "sourcePages": "138",
+    "sourceItem": "623",
+    "question": "Který přenašeč se uvolňuje na zakončeních parasympatických nervů?",
+    "options": [
+      "adrenalin",
+      "noradrenalin",
+      "aldosteron",
+      "acetylcholin"
+    ],
+    "answer": 3,
+    "title": "acetylcholin",
+    "paragraphs": [
+      "Parasympatické postgangliové neurony jsou cholinergní. Většina postgangliových vláken sympatiku uvolňuje noradrenalin. Aldosteron je hormon kůry nadledvin."
+    ],
+    "memory": "Parasympatikus = acetylcholin."
+  }
+]
