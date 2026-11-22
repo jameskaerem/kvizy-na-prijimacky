@@ -483,6 +483,12 @@ Vynechané: 9.10 (jako 9.09), 9.14 a 9.15 (čípky a tyčinky, ČB 26 a biologie
 
 Sporné: 9.77 – klíč B uvádí „0,000 39 nm – 0,000 79 nm“, správně je 390–790 nm (možnost A). V exportu se zřejmě ztratila jednotka (mm), klíč tak nelze ověřit. Úloha je vyřazená.
 
+## Dávka ID 1451–1500: Amler, kap. 10 Optika po úlohu 10.67 (v2.91.0)
+
+Použité úlohy (ID): 10.01–10.08 (1451–1458), 10.10–10.14 (1459–1463), 10.17–10.19 (1464–1466), 10.21 (1467), 10.23 (1468), 10.25–10.29 (1469–1473), 10.31–10.33 (1474–1476), 10.35, 10.36 (1477–1478), 10.38, 10.39 (1479–1480), 10.41 (1481), 10.44–10.46 (1482–1484), 10.48–10.53 (1485–1490), 10.55–10.57 (1491–1493), 10.59 (1494), 10.61, 10.62 (1495–1496), 10.64–10.67 (1497–1500). Klíč všech 50 otázek odpovídá klíči knihy, výpočty (10.02, 10.08, 10.39, 10.46, 10.55, 10.56, 10.62, 10.64, 10.65) jsou přepočítané. U 10.28 jsou vzorce v možnostech A a D doplněné podle významu, klíč C se jich netýká.
+
+Vynechané: 10.09 (stejné zadání jako 10.08, výsledek je ve vysvětlení), 10.15 a 10.16 (triviální hodnoty indexu lomu), 10.20 (jako 10.19), 10.22 (jako 10.21), 10.24 (jako 10.23), 10.30 (LF MU 353), 10.34 (LF MU 378), 10.37 a 10.42 (jako 10.39 a LF MU 358), 10.40 (jako 10.41), 10.43 (LF MU 379), 10.47 (jako UK 1116), 10.54 (jako 10.53), 10.58 (jako 9.63), 10.60 (LF MU 356), 10.63 (jako 9.62). Úlohy 10.68–10.77 přejdou do další dávky.
+
 ## Stav pokrytí
 
-Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) je posouzená celá včetně úloh s více správnými odpověďmi (ID 738–1000). Fyzika (Amler, celá kniha 907 úloh) je posouzená v kap. 1–9. Další dávka začne od ID 1451 kapitolou 10 Optika.
+Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) je posouzená celá včetně úloh s více správnými odpověďmi (ID 738–1000). Fyzika (Amler, celá kniha 907 úloh) je posouzená v kap. 1–9 a v kap. 10 po úlohu 10.67. Další dávka začne od ID 1501 úlohou 10.68.

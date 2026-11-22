@@ -1,0 +1,1230 @@
+[
+  {
+    "id": 1451,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.01 · str. 139",
+    "sourcePages": "139",
+    "sourceItem": "10.01",
+    "question": "Jak je definován absolutní index lomu?",
+    "options": [
+      "jako součin rychlosti světla ve vakuu a rychlosti světla v daném prostředí",
+      "jako podíl rychlosti světla ve vakuu a rychlosti světla v daném prostředí",
+      "jako podíl rychlostí světla ve dvou libovolných prostředích",
+      "jako podíl úhlu lomu a úhlu dopadu"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Absolutní index lomu je n = c/v, kolikrát je světlo v prostředí pomalejší než ve vakuu. Podíl rychlostí ve dvou prostředích je relativní index lomu."
+    ],
+    "memory": "n = c/v."
+  },
+  {
+    "id": 1452,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.02 · str. 139",
+    "sourcePages": "139",
+    "sourceItem": "10.02",
+    "question": "Jak daleko od sebe musí být dva body vzdálené 1 km, aby je normální oko za dobré viditelnosti rozlišilo (tg 1° ≈ 0,017, tg 1′ ≈ 0,0003)?",
+    "options": [
+      "0,3 m",
+      "3 m",
+      "1,7 m",
+      "0,17 m"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Rozlišovací mez oka je asi 1 úhlová minuta. Na vzdálenost 1000 m odpovídá 1000 · 0,0003 = 0,3 m."
+    ],
+    "memory": "Rozlišení oka asi 1′."
+  },
+  {
+    "id": 1453,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.03 · str. 139",
+    "sourcePages": "139",
+    "sourceItem": "10.03",
+    "question": "V čem spočívá barevná vada čoček?",
+    "options": [
+      "čočky jsou nehomogenně zbarvené",
+      "barevné složky bílého světla se lámou do různých ohnisek",
+      "index lomu závisí na frekvenci světla",
+      "barva očí je individuální"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Barevná (chromatická) vada je důsledkem disperze: index lomu závisí na frekvenci, takže fialové světlo má ohnisko blíž než červené a obraz má barevné lemy."
+    ],
+    "memory": "Disperze = barevná vada."
+  },
+  {
+    "id": 1454,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.04 · str. 139",
+    "sourcePages": "139",
+    "sourceItem": "10.04",
+    "question": "Co platí o brýlích s rozptylkami?",
+    "options": [
+      "posunují obraz předmětu blíž k oční čočce",
+      "posunují obraz předmětu dál od oční čočky",
+      "korigují krátkozrakost",
+      "korigují dalekozrakost"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Krátkozraké oko láme příliš silně a obraz vzniká před sítnicí. Rozptylka paprsky rozbíhá a obraz posune dozadu, dál od čočky na sítnici. Dalekozrakost se koriguje spojkami."
+    ],
+    "memory": "Krátkozrakost = rozptylka."
+  },
+  {
+    "id": 1455,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.05 · str. 139",
+    "sourcePages": "139",
+    "sourceItem": "10.05",
+    "question": "Co platí o rozptylkách?",
+    "options": [
+      "soustřeďují rovnoběžné paprsky do jednoho bodu, ohniska",
+      "mají zápornou optickou mohutnost",
+      "jsou uprostřed silnější než na okraji",
+      "lze jimi zapálit papír slunečním světlem"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Rozptylka je uprostřed tenčí, rovnoběžné paprsky rozbíhá a její ohnisko je zdánlivé, proto má zápornou ohniskovou vzdálenost i optickou mohutnost. Soustřeďuje a pálí spojka."
+    ],
+    "memory": "Rozptylka: f < 0."
+  },
+  {
+    "id": 1456,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.06 · str. 139",
+    "sourcePages": "139",
+    "sourceItem": "10.06",
+    "question": "Co platí o spojkách?",
+    "options": [
+      "jsou na okraji silnější než uprostřed",
+      "mají zápornou optickou mohutnost",
+      "soustřeďují dopadající rovnoběžné paprsky do ohniska",
+      "používají se pro svou schopnost odrážet světlo"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Spojka je uprostřed silnější, láme rovnoběžné paprsky do skutečného ohniska a má kladnou optickou mohutnost. Čočky světlo lámou, neodrážejí."
+    ],
+    "memory": "Spojka: f > 0."
+  },
+  {
+    "id": 1457,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.07 · str. 140",
+    "sourcePages": "140",
+    "sourceItem": "10.07",
+    "question": "Co platí o dalekozrakém oku?",
+    "options": [
+      "korigujeme ho spojkami",
+      "korigujeme ho rozptylkami",
+      "má nedostatečnou optickou mohutnost k zaostření blízkých předmětů",
+      "vytváří obraz blízkého předmětu před sítnicí"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Dalekozraké oko láme slabě a obraz blízkého předmětu by vznikl za sítnicí. Spojka přidá chybějící optickou mohutnost."
+    ],
+    "memory": "Dalekozrakost = spojka."
+  },
+  {
+    "id": 1458,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.08 · str. 140",
+    "sourcePages": "140",
+    "sourceItem": "10.08",
+    "question": "Duté kulové zrcadlo má poloměr křivosti 5 m. Předmět vysoký 1 m stojí 10 m před ním. Jak velký je převrácený obraz?",
+    "options": [
+      "33 cm",
+      "3,3 m",
+      "20 cm",
+      "50 cm"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "f = r/2 = 2,5 m. Ze zobrazovací rovnice 1/a′ = 1/2,5 − 1/10 = 0,3, tedy a′ ≈ 3,3 m. Zvětšení a′/a = 0,33, obraz je vysoký asi 33 cm."
+    ],
+    "memory": "f = r/2."
+  },
+  {
+    "id": 1459,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.10 · str. 140",
+    "sourcePages": "140",
+    "sourceItem": "10.10",
+    "question": "Co platí o dutém zrcadle?",
+    "options": [
+      "má ohniskovou vzdálenost f > 0",
+      "vytváří vždy převrácený obraz",
+      "vždy obraz zmenšuje",
+      "má ohniskovou vzdálenost f < 0"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Duté zrcadlo má skutečné ohnisko a kladnou ohniskovou vzdálenost. Předmět blíž než ohnisko zobrazí vzpřímeně a zvětšeně (kosmetické zrcadlo), vzdálený předmět převráceně a zmenšeně."
+    ],
+    "memory": "Duté zrcadlo: f > 0."
+  },
+  {
+    "id": 1460,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.11 · str. 140",
+    "sourcePages": "140",
+    "sourceItem": "10.11",
+    "question": "Dvě rovinná zrcadla svírají úhel 90°. Paprsek v rovině kolmé k oběma zrcadlům se odrazí od prvního i druhého zrcadla. Je dvakrát odražený paprsek rovnoběžný s dopadajícím?",
+    "options": [
+      "paprsky nejsou nikdy rovnoběžné",
+      "jen při dopadu pod úhlem 45°",
+      "ano, vždy",
+      "jen kdyby zrcadla svírala úhel 45°"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Dva odrazy na kolmých zrcadlech otočí směr paprsku o 180° pro libovolný úhel dopadu, paprsek se vrací rovnoběžně proti dopadajícímu. Na tom stojí koutový odražeč."
+    ],
+    "memory": "Kolmá zrcadla vrací paprsek zpět."
+  },
+  {
+    "id": 1461,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.12 · str. 140",
+    "sourcePages": "140",
+    "sourceItem": "10.12",
+    "question": "Co platí o dvojduté čočce ve vzduchu?",
+    "options": [
+      "má obě plochy konkávní",
+      "v opticky řidším prostředí je rozptylkou",
+      "vytváří vždy zvětšený obraz",
+      "má obě plochy konvexní"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Dvojdutá čočka má obě plochy vyduté (konkávní). Ze skla ve vzduchu je rozptylkou a obraz vytváří zmenšený a zdánlivý."
+    ],
+    "memory": "Dutá = konkávní = rozptylka."
+  },
+  {
+    "id": 1462,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.13 · str. 141",
+    "sourcePages": "141",
+    "sourceItem": "10.13",
+    "question": "Co platí o dvojvypuklé čočce ve vzduchu?",
+    "options": [
+      "má obě plochy konvexní",
+      "vytváří obraz jen vzpřímený a skutečný",
+      "je rozptylkou",
+      "má obě plochy konkávní"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Dvojvypuklá čočka má obě plochy vypuklé (konvexní) a ve vzduchu je spojkou. Podle polohy předmětu vytváří obraz skutečný převrácený nebo zdánlivý vzpřímený."
+    ],
+    "memory": "Vypuklá = konvexní = spojka."
+  },
+  {
+    "id": 1463,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.14 · str. 141",
+    "sourcePages": "141",
+    "sourceItem": "10.14",
+    "question": "Co platí o Galileově (holandském) dalekohledu?",
+    "options": [
+      "je tvořen kombinací spojky a rozptylky",
+      "je tvořen spojkami",
+      "vytváří převrácený obraz",
+      "vytváří vzpřímený a zmenšený obraz"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Galileův dalekohled má spojný objektiv a rozptylný okulár a dává vzpřímený zvětšený obraz, používá se v divadelních kukátkách. Keplerův dalekohled má dvě spojky a obraz převrací."
+    ],
+    "memory": "Galileo: spojka + rozptylka."
+  },
+  {
+    "id": 1464,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.17 · str. 141",
+    "sourcePages": "141",
+    "sourceItem": "10.17",
+    "question": "Jakou jednotku má index lomu?",
+    "options": [
+      "je bezrozměrný",
+      "m·s⁻¹",
+      "úhlové stupně",
+      "radiány"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Index lomu n = c/v je podíl dvou rychlostí, jednotky se vykrátí. Vakuum má n = 1, vzduch téměř 1, voda 1,33."
+    ],
+    "memory": "Podíl rychlostí = bez jednotky."
+  },
+  {
+    "id": 1465,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.18 · str. 141",
+    "sourcePages": "141",
+    "sourceItem": "10.18",
+    "question": "Jaké brýle musí ve vzduchu nosit člověk, který po ponoření do vody vidí normálně?",
+    "options": [
+      "spojky",
+      "rozptylky",
+      "otázka nemá smysl, pod vodou nelze vidět ostře",
+      "žádné"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Ve vodě rohovka skoro neláme, protože má podobný index lomu jako voda, a normální oko se stane silně dalekozrakým. Kdo pod vodou vidí ostře, má oko příliš silné, ve vzduchu je krátkozraký a potřebuje rozptylky."
+    ],
+    "memory": "Pod vodou rohovka neláme."
+  },
+  {
+    "id": 1466,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.19 · str. 141",
+    "sourcePages": "141",
+    "sourceItem": "10.19",
+    "question": "Čeho je jednotkou m⁻¹?",
+    "options": [
+      "optické mohutnosti",
+      "frekvence (1 Hz)",
+      "příčného zvětšení",
+      "ohniskové vzdálenosti"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Optická mohutnost φ = 1/f se udává v dioptriích, 1 D = 1 m⁻¹. Hertz je s⁻¹, zvětšení je bezrozměrné a ohnisková vzdálenost se měří v metrech."
+    ],
+    "memory": "Dioptrie = m⁻¹."
+  },
+  {
+    "id": 1467,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.21 · str. 142",
+    "sourcePages": "142",
+    "sourceItem": "10.21",
+    "question": "Co platí o Keplerově dalekohledu?",
+    "options": [
+      "skládá se ze dvou spojek, objektivu a okuláru",
+      "skládá se ze spojky a rozptylky",
+      "obraz z objektivu pozorujeme okulárem a je skutečný a přímý",
+      "je to zrcadlový hvězdářský dalekohled"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Keplerův (hvězdářský) dalekohled má spojný objektiv a spojný okulár. Objektiv vytvoří skutečný převrácený obraz, který okulár zvětší jako lupa, výsledný obraz je převrácený."
+    ],
+    "memory": "Kepler: dvě spojky."
+  },
+  {
+    "id": 1468,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.23 · str. 142",
+    "sourcePages": "142",
+    "sourceItem": "10.23",
+    "question": "Co platí o konvenční zrakové vzdálenosti?",
+    "options": [
+      "je větší než vzdálenost blízkého bodu normálního oka",
+      "je menší než vzdálenost blízkého bodu normálního oka",
+      "je menší než vzdálenost dalekého bodu normálního oka",
+      "je 25 cm"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "title": "Správně: A, C a D",
+    "paragraphs": [
+      "Konvenční zraková vzdálenost je dohodnutých 25 cm, z nichž se pohodlně čte. Blízký bod mladého oka je blíž (asi 10–15 cm), daleký bod normálního oka leží v nekonečnu. Používá se k výpočtu zvětšení lupy a mikroskopu."
+    ],
+    "memory": "Konvenční vzdálenost 25 cm."
+  },
+  {
+    "id": 1469,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.25 · str. 142",
+    "sourcePages": "142",
+    "sourceItem": "10.25",
+    "question": "Co platí o krátkozrakém oku?",
+    "options": [
+      "obraz velmi vzdáleného předmětu vytváří teoreticky za sítnicí",
+      "korigujeme ho spojkami",
+      "má daleký bod v konečné vzdálenosti a blízký bod posunutý k oku",
+      "má blízký bod posunutý od oka"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Krátkozraké oko láme příliš silně, obraz vzdáleného předmětu vzniká před sítnicí. Ostře vidí jen do konečné vzdálenosti (daleký bod) a blízký bod má blíž než normální oko. Korigujeme ho rozptylkami."
+    ],
+    "memory": "Krátkozraký vidí dobře nablízko."
+  },
+  {
+    "id": 1470,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.26 · str. 142",
+    "sourcePages": "142",
+    "sourceItem": "10.26",
+    "question": "Které optické soustavy mají skutečné ohnisko?",
+    "options": [
+      "rovinné zrcadlo",
+      "duté zrcadlo",
+      "vypuklé zrcadlo",
+      "spojná čočka"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "Duté zrcadlo a spojka soustřeďují rovnoběžné paprsky do skutečného bodu. Vypuklé zrcadlo a rozptylka mají ohnisko zdánlivé, rovinné zrcadlo žádné."
+    ],
+    "memory": "Skutečné ohnisko: duté zrcadlo, spojka."
+  },
+  {
+    "id": 1471,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.27 · str. 143",
+    "sourcePages": "143",
+    "sourceItem": "10.27",
+    "question": "Na jaké světlo je lidské oko nejcitlivější?",
+    "options": [
+      "červené",
+      "žlutozelené",
+      "bílé",
+      "černé"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Za dne je oko (čípky) nejcitlivější na žlutozelené světlo kolem 555 nm. Proto mají výstražné vesty a značky žlutozelenou barvu."
+    ],
+    "memory": "Maximum citlivosti 555 nm."
+  },
+  {
+    "id": 1472,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.28 · str. 143",
+    "sourcePages": "143",
+    "sourceItem": "10.28",
+    "question": "Tenká dvojdutá čočka má poloměry křivosti r₁, r₂ a index lomu n. Co platí o její optické mohutnosti ve vzduchu?",
+    "options": [
+      "vypočte se jako ((n − 1)·(r₁ + r₂))⁻¹",
+      "je podle poloměrů kladná, nebo záporná",
+      "je záporná",
+      "vypočte se jako n·(r₁⁻¹ + r₂⁻¹)"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Skleněná dvojdutá čočka je ve vzduchu vždy rozptylkou se zápornou optickou mohutností. Správný vztah je φ = (n − 1)·(1/r₁ + 1/r₂), kde vyduté plochy mají záporné poloměry."
+    ],
+    "memory": "Dvojdutá ve vzduchu = rozptylka."
+  },
+  {
+    "id": 1473,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.29 · str. 143",
+    "sourcePages": "143",
+    "sourceItem": "10.29",
+    "question": "Co nepatří mezi základní předpoklady geometrické optiky?",
+    "options": [
+      "zákon záměnnosti chodu paprsků",
+      "zákon odrazu",
+      "zákon zachování rychlosti světla",
+      "zákon přímočarého šíření"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Geometrická optika stojí na přímočarém šíření, nezávislosti a záměnnosti chodu paprsků a na zákonech odrazu a lomu. Rychlost světla se při přechodu do jiného prostředí naopak mění."
+    ],
+    "memory": "Při lomu se rychlost mění."
+  },
+  {
+    "id": 1474,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.31 · str. 143",
+    "sourcePages": "143",
+    "sourceItem": "10.31",
+    "question": "Pod jakým zorným úhlem normální oko nerozliší dva body?",
+    "options": [
+      "1 úhlový stupeň",
+      "2 úhlové minuty",
+      "1 úhlová vteřina",
+      "0,1 radiánu"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Rozlišovací mez normálního oka je asi 1 úhlová minuta. Úhel 1″ je šedesátkrát menší, body splynou. Stupeň, dvě minuty i 0,1 rad (asi 6°) jsou dost velké úhly."
+    ],
+    "memory": "Mez rozlišení asi 1′."
+  },
+  {
+    "id": 1475,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.32 · str. 143",
+    "sourcePages": "143",
+    "sourceItem": "10.32",
+    "question": "Co lze říci o viditelném světle?",
+    "options": [
+      "je to elektromagnetické vlnění",
+      "má větší vlnovou délku než UV záření",
+      "má jinou fyzikální podstatu než vlny televizního signálu",
+      "je to část záření černého tělesa vnímatelná zrakem"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "title": "Správně: A, B a D",
+    "paragraphs": [
+      "Světlo i televizní signál jsou elektromagnetické vlnění, liší se jen vlnovou délkou. Viditelné světlo leží mezi UV a IR zářením a tvoří zrakem vnímatelnou část spektra tepelného záření."
+    ],
+    "memory": "Světlo i rádio jsou elektromagnetické vlny."
+  },
+  {
+    "id": 1476,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.33 · str. 144",
+    "sourcePages": "144",
+    "sourceItem": "10.33",
+    "question": "Jaký obraz vytvoří duté kulové zrcadlo z předmětu v nekonečné vzdálenosti na optické ose?",
+    "options": [
+      "skutečný a převrácený",
+      "ve středu křivosti zrcadla",
+      "v ohniskové rovině zrcadla",
+      "žádný nevznikne"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Paprsky z nekonečna jsou rovnoběžné a zrcadlo je soustředí do ohniska. Vznikne skutečný, převrácený a bodově zmenšený obraz v ohniskové rovině."
+    ],
+    "memory": "Z nekonečna do ohniska."
+  },
+  {
+    "id": 1477,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.35 · str. 144",
+    "sourcePages": "144",
+    "sourceItem": "10.35",
+    "question": "Jaký obraz vytváří spojná čočka podle polohy předmětu vzhledem k ohnisku?",
+    "options": [
+      "zvětšený nebo zmenšený, skutečný nebo neskutečný, vždy vzpřímený",
+      "zvětšený nebo zmenšený, skutečný nebo neskutečný, vzpřímený nebo převrácený",
+      "vždy zvětšený, skutečný, vzpřímený nebo převrácený",
+      "vždy zvětšený, skutečný nebo neskutečný, převrácený"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Předmět za dvojnásobnou ohniskovou vzdáleností dá skutečný zmenšený převrácený obraz, mezi f a 2f skutečný zvětšený převrácený, před ohniskem neskutečný zvětšený vzpřímený (lupa)."
+    ],
+    "memory": "Spojka umí všechny druhy obrazu."
+  },
+  {
+    "id": 1478,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.36 · str. 144",
+    "sourcePages": "144",
+    "sourceItem": "10.36",
+    "question": "Jaký tvar má oční čočka?",
+    "options": [
+      "ploskodutá",
+      "ploskovypuklá",
+      "dvojvypuklá",
+      "průsvitná"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Oční čočka je pružná dvojvypuklá spojka. Ciliární sval mění její zakřivení a tím optickou mohutnost při akomodaci. Je průhledná, ne jen průsvitná."
+    ],
+    "memory": "Čočka = dvojvypuklá spojka."
+  },
+  {
+    "id": 1479,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.38 · str. 144",
+    "sourcePages": "144",
+    "sourceItem": "10.38",
+    "question": "Co platí o okuláru mikroskopu?",
+    "options": [
+      "nelze ho použít jako okulár dalekohledu",
+      "neovlivňuje zvětšení mikroskopu",
+      "je tvořen rozptylkami",
+      "je to spojná soustava použitá jako lupa"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Okulár zvětšuje jako lupa skutečný obraz vytvořený objektivem. Celkové zvětšení mikroskopu je součinem zvětšení objektivu a okuláru."
+    ],
+    "memory": "Okulár = lupa."
+  },
+  {
+    "id": 1480,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.39 · str. 144",
+    "sourcePages": "144",
+    "sourceItem": "10.39",
+    "question": "Čočka má optickou mohutnost −2 D. Co platí?",
+    "options": [
+      "je to spojka",
+      "je to rozptylka",
+      "její ohnisková vzdálenost je −2 m",
+      "její ohnisková vzdálenost je −0,5 m"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "Záporná optická mohutnost znamená rozptylku. f = 1/φ = 1/(−2 D) = −0,5 m."
+    ],
+    "memory": "f = 1/φ."
+  },
+  {
+    "id": 1481,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.41 · str. 145",
+    "sourcePages": "145",
+    "sourceItem": "10.41",
+    "question": "Co platí o optické mohutnosti čočky?",
+    "options": [
+      "je to ohnisková vzdálenost v metrech",
+      "je bezrozměrná",
+      "je to převrácená hodnota ohniskové vzdálenosti v metrech",
+      "má stejné znaménko jako ohnisková vzdálenost"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "φ = 1/f se udává v dioptriích (m⁻¹), není tedy bezrozměrná. Spojka má f i φ kladné, rozptylka obojí záporné."
+    ],
+    "memory": "φ = 1/f v D."
+  },
+  {
+    "id": 1482,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.44 · str. 145",
+    "sourcePages": "145",
+    "sourceItem": "10.44",
+    "question": "Co je otvorová vada?",
+    "options": [
+      "důsledek špatného zaostření dalekohledu",
+      "důsledek toho, že čočka nemá ideálně hladký povrch",
+      "vada parabolického zrcadla odstraněná otvorem uprostřed zrcadla na vyšetření ucha",
+      "vada čoček, kdy paprsky vzdálenější od osy zobrazují bod jako neostrý kroužek"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Kulová plocha láme okrajové paprsky silněji než paprsky u osy, ty pak mají jiné ohnisko a bod se zobrazí jako kroužek. Vadu zmenšíme clonou, která propustí jen paprsky u osy."
+    ],
+    "memory": "Okrajové paprsky = otvorová vada."
+  },
+  {
+    "id": 1483,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.45 · str. 145",
+    "sourcePages": "145",
+    "sourceItem": "10.45",
+    "question": "Co jsou paraxiální paprsky?",
+    "options": [
+      "paprsky procházející jen středem čočky",
+      "paprsky jdoucí přímo od zdroje bez odrazu",
+      "paprsky, kterými se přímka zobrazí vždy jako bod",
+      "paprsky jdoucí v blízkosti optické osy"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Paraxiální paprsky svírají s optickou osou malý úhel a jdou blízko ní. Pro ně platí zobrazovací rovnice přesně a otvorová vada se neprojeví."
+    ],
+    "memory": "Paraxiální = u osy."
+  },
+  {
+    "id": 1484,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.46 · str. 145",
+    "sourcePages": "145",
+    "sourceItem": "10.46",
+    "question": "Ploskovypuklá čočka má poloměr křivosti 25 cm a index lomu 1,5. Jaká je přibližně její ohnisková vzdálenost?",
+    "options": [
+      "+50 cm",
+      "−50 cm",
+      "−2 D",
+      "−20 cm"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Rovinná plocha má nekonečný poloměr, proto 1/f = (n − 1)/r = 0,5 / 0,25 m = 2 D. Ohnisková vzdálenost je +0,5 m = +50 cm, čočka je spojka."
+    ],
+    "memory": "1/f = (n − 1)/r."
+  },
+  {
+    "id": 1485,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.48 · str. 146",
+    "sourcePages": "146",
+    "sourceItem": "10.48",
+    "question": "Pro který obraz je podle znaménkové konvence obrazová vzdálenost a′ vždy záporná?",
+    "options": [
+      "obraz vytvořený rozptylkou",
+      "obraz vytvořený spojkou",
+      "obraz vytvořený dutým zrcadlem",
+      "obraz vytvořený vypuklým zrcadlem"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Záporná a′ znamená zdánlivý obraz. Rozptylka a vypuklé zrcadlo vytvářejí ze skutečného předmětu vždy zdánlivý obraz. Spojka a duté zrcadlo dávají podle polohy předmětu obraz skutečný i zdánlivý."
+    ],
+    "memory": "Rozptylka a vypuklé zrcadlo: vždy zdánlivý."
+  },
+  {
+    "id": 1486,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.49 · str. 146",
+    "sourcePages": "146",
+    "sourceItem": "10.49",
+    "question": "Pro které soustavy je podle znaménkové konvence předmětová ohnisková vzdálenost kladná?",
+    "options": [
+      "dutá zrcadla",
+      "vypuklá zrcadla",
+      "spojné čočky",
+      "rozptylné čočky"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Kladnou ohniskovou vzdálenost mají soustavy se skutečným ohniskem: duté zrcadlo a spojka. Vypuklé zrcadlo a rozptylka mají f záporné."
+    ],
+    "memory": "Spojné soustavy: f > 0."
+  },
+  {
+    "id": 1487,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.50 · str. 146",
+    "sourcePages": "146",
+    "sourceItem": "10.50",
+    "question": "Předmět dál než dvojnásobek ohniskové vzdálenosti se spojnou soustavou zobrazí skutečně, zmenšeně a převráceně. Co tohoto principu využívá?",
+    "options": [
+      "fotoaparát",
+      "lupa",
+      "lidské oko",
+      "zpětné zrcátko automobilu"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Fotoaparát i oko promítají vzdálené předměty zmenšeně a převráceně na snímač nebo sítnici. Lupa dává obraz zdánlivý zvětšený a zpětné zrcátko je vypuklé."
+    ],
+    "memory": "Fotoaparát jako oko."
+  },
+  {
+    "id": 1488,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.51 · str. 146",
+    "sourcePages": "146",
+    "sourceItem": "10.51",
+    "question": "Co platí o zobrazovací rovnici kulových zrcadel a čoček?",
+    "options": [
+      "má tvar 1/a + 1/a′ = 1/f",
+      "je společná pro všechny tyto soustavy při dodržení znaménkové konvence",
+      "u čoček předpokládá měření vzdáleností od hlavních bodů čočky",
+      "u zrcadel předpokládá měření vzdáleností od vrcholu zrcadla"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Rovnice 1/a + 1/a′ = 1/f platí pro dutá i vypuklá zrcadla, spojky i rozptylky, pokud dodržíme znaménkovou konvenci. Vzdálenosti se měří od vrcholu zrcadla nebo od hlavních bodů (u tenké čočky od jejího středu)."
+    ],
+    "memory": "Jedna rovnice pro zrcadla i čočky."
+  },
+  {
+    "id": 1489,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.52 · str. 147",
+    "sourcePages": "147",
+    "sourceItem": "10.52",
+    "question": "Které vztahy platí pro příčné zvětšení Z kulového zrcadla (a, a′ vzdálenost předmětu a obrazu, y, y′ jejich výška, f ohnisková vzdálenost)?",
+    "options": [
+      "Z = −f/(a − f)",
+      "Z = y′/y",
+      "Z = −a′/a",
+      "Z = a/f"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2
+    ],
+    "title": "Správně: A, B a C",
+    "paragraphs": [
+      "Zvětšení je poměr výšky obrazu a předmětu y′/y a rovná se −a′/a. Dosazením a′ ze zobrazovací rovnice dostaneme Z = −f/(a − f). Záporné Z znamená převrácený obraz."
+    ],
+    "memory": "Z = y′/y = −a′/a."
+  },
+  {
+    "id": 1490,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.53 · str. 147",
+    "sourcePages": "147",
+    "sourceItem": "10.53",
+    "question": "Co platí při zobrazení spojnou čočkou (a předmětová, f ohnisková vzdálenost)?",
+    "options": [
+      "pro a > 2f je obraz skutečný, zmenšený a převrácený",
+      "pro a > 2f je obraz skutečný, zvětšený a převrácený",
+      "pro a < f je obraz skutečný, zvětšený a vzpřímený",
+      "pro a < f je obraz neskutečný, zvětšený a vzpřímený"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Daleký předmět spojka zmenší a převrátí (fotoaparát). Předmět před ohniskem dá zdánlivý, zvětšený a vzpřímený obraz, tak funguje lupa."
+    ],
+    "memory": "a < f = lupa."
+  },
+  {
+    "id": 1491,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.55 · str. 147",
+    "sourcePages": "147",
+    "sourceItem": "10.55",
+    "question": "Křemennou spojku (n = 1,46) přeneseme ze vzduchu do metylenjodidu (n = 1,74). Co platí?",
+    "options": [
+      "funguje dál jako spojka",
+      "absolutní hodnota její ohniskové vzdálenosti se zvětší",
+      "funguje jako rozptylka",
+      "její optická mohutnost se zmenší"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: B, C a D",
+    "paragraphs": [
+      "Optická mohutnost je úměrná (n_čočky/n_prostředí − 1). Ve vzduchu je to 0,46, v metylenjodidu 1,46/1,74 − 1 ≈ −0,16. Mohutnost klesne pod nulu, čočka rozptyluje a absolutní hodnota f je asi třikrát větší."
+    ],
+    "memory": "Čočka v hustším prostředí obrací účinek."
+  },
+  {
+    "id": 1492,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.56 · str. 147",
+    "sourcePages": "147",
+    "sourceItem": "10.56",
+    "question": "Skleněnou spojku (n = 1,5) přeneseme ze vzduchu do vody (n = 1,33). Co platí?",
+    "options": [
+      "funguje jako rozptylka",
+      "funguje dál jako spojka",
+      "zmenší se její optická mohutnost",
+      "zvětší se její ohnisková vzdálenost"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: B, C a D",
+    "paragraphs": [
+      "Mohutnost je úměrná n_čočky/n_prostředí − 1: ve vzduchu 0,5, ve vodě 1,5/1,33 − 1 ≈ 0,13. Čočka zůstane spojkou, ale asi čtyřikrát slabší, s delší ohniskovou vzdáleností."
+    ],
+    "memory": "Ve vodě čočka slábne."
+  },
+  {
+    "id": 1493,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.57 · str. 147",
+    "sourcePages": "147",
+    "sourceItem": "10.57",
+    "question": "Co pozorujeme na spektrálních čarách vzdalující se hvězdy?",
+    "options": [
+      "červený posuv",
+      "Dopplerův jev",
+      "zkracování vlnových délek čar",
+      "zvýšení energie dopadajících fotonů"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Při vzdalování zdroje se vlnové délky podle Dopplerova jevu prodlužují, čáry se posouvají k červenému konci a energie fotonů klesá. Z posuvu se určuje rychlost vzdalování galaxií."
+    ],
+    "memory": "Vzdalování = červený posuv."
+  },
+  {
+    "id": 1494,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.59 · str. 148",
+    "sourcePages": "148",
+    "sourceItem": "10.59",
+    "question": "Co platí o relativním indexu lomu?",
+    "options": [
+      "je to poměr rychlosti světla ve vakuu a v daném prostředí c/v",
+      "je to poměr rychlostí světla v obou prostředích v₁/v₂",
+      "je-li menší než 1 a sinus úhlu dopadu je větší nebo roven jeho hodnotě, nastane úplný odraz",
+      "při přechodu z opticky řidšího do hustšího prostředí je větší než 1"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: B, C a D",
+    "paragraphs": [
+      "Relativní index lomu n = n₂/n₁ = v₁/v₂. Je větší než 1 při přechodu do hustšího prostředí. Při přechodu do řidšího je menší než 1 a pro sin α ≥ n nastane úplný odraz. Poměr c/v je absolutní index lomu."
+    ],
+    "memory": "n₂₁ = v₁/v₂."
+  },
+  {
+    "id": 1495,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.61 · str. 148",
+    "sourcePages": "148",
+    "sourceItem": "10.61",
+    "question": "Co platí o rozlišovací schopnosti mikroskopu?",
+    "options": [
+      "závisí jen na intenzitě osvětlení",
+      "je dána nejmenší vzdáleností dvou bodů, které ještě rozlišíme",
+      "nezmění se výměnou okuláru",
+      "nezmění se záměnou objektivu a okuláru"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Rozlišovací mez je nejmenší vzdálenost dvou rozlišitelných bodů. Určuje ji hlavně objektiv (jeho numerická apertura) a vlnová délka světla, kolem 0,2 µm."
+    ],
+    "memory": "Rozlišení dává objektiv a vlnová délka."
+  },
+  {
+    "id": 1496,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.62 · str. 148",
+    "sourcePages": "148",
+    "sourceItem": "10.62",
+    "question": "Jaká je rychlost světla v prostředí s indexem lomu 2,0?",
+    "options": [
+      "15·10⁷ m/s",
+      "3·10⁸ m/s",
+      "6·10⁸ m/s",
+      "1,5·10⁷ m/s"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "v = c/n = 3·10⁸ / 2 = 1,5·10⁸ m/s, což je totéž co 15·10⁷ m/s."
+    ],
+    "memory": "v = c/n."
+  },
+  {
+    "id": 1497,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.64 · str. 149",
+    "sourcePages": "149",
+    "sourceItem": "10.64",
+    "question": "Kolikrát je rychlost zvuku ve vzduchu řádově menší než rychlost světla?",
+    "options": [
+      "tisíckrát",
+      "je tisíckrát větší",
+      "milionkrát",
+      "stotisíckrát"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "3·10⁸ m/s / 340 m/s ≈ 9·10⁵, tedy řádově milionkrát. Proto blesk vidíme dřív, než uslyšíme hrom, asi 3 s na každý kilometr."
+    ],
+    "memory": "Hrom 3 s na kilometr."
+  },
+  {
+    "id": 1498,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.65 · str. 149",
+    "sourcePages": "149",
+    "sourceItem": "10.65",
+    "question": "Spojná čočka má oba poloměry křivosti 20 cm a index lomu 1,5. Jaká je její optická mohutnost?",
+    "options": [
+      "+5 D",
+      "−5 D",
+      "+0,5 D",
+      "−1 D"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "φ = (n − 1)·(1/r₁ + 1/r₂) = 0,5 · (1/0,2 + 1/0,2) = 0,5 · 10 = +5 D."
+    ],
+    "memory": "φ = (n − 1)(1/r₁ + 1/r₂)."
+  },
+  {
+    "id": 1499,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.66 · str. 149",
+    "sourcePages": "149",
+    "sourceItem": "10.66",
+    "question": "Co udává světelnost jednočočkového objektivu fotoaparátu?",
+    "options": [
+      "poměr ohniskové vzdálenosti a citlivosti filmu",
+      "závisí na osvětlení scény",
+      "poměr průměru vstupního otvoru a ohniskové vzdálenosti",
+      "lze ji zvýšit bleskem"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Světelnost je poměr průměru vstupní pupily a ohniskové vzdálenosti, například 1 : 2. Je to vlastnost objektivu, nezávisí na scéně ani blesku."
+    ],
+    "memory": "Světelnost = D/f."
+  },
+  {
+    "id": 1500,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "UK · Fyzika · Optika · úloha 10.67 · str. 149",
+    "sourcePages": "149",
+    "sourceItem": "10.67",
+    "question": "Jaká je přibližná teplota povrchu Slunce?",
+    "options": [
+      "1300 °C",
+      "6000 K",
+      "1000 K",
+      "27 000 K"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Povrch (fotosféra) Slunce má asi 5800 K. Podle Wienova zákona tomu odpovídá maximum vyzařování kolem 500 nm, ve viditelné oblasti."
+    ],
+    "memory": "Slunce asi 6000 K."
+  }
+]
