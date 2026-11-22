@@ -119,6 +119,29 @@ Nepřidané položky:
 - Kap. 3.2 str. 86–96: 86/4, 86/5, 87/1, 87/3–87/6 (jednotky veličin, varianta 224 a ČB 543, LF MU 14), 88/3 (hodnota N_A, ve vysvětlení 226), 88/4–88/6, 89/1 (počet atomů ve vzorci, triviální), 89/2, 89/3, 89/5, 90/1–90/5, 91/1–91/5, 92/3, 92/4 (n = m/M a počet částic, varianty 227 a 231), 92/1 (varianta 228), 93/1–93/5, 94/1–94/5 (c = m/(M·V), varianta 229; 94/4 a 94/5 mají v zadání chybné Ar), 95/1, 95/2, 95/4, 95/5, 96/1, 96/2 (m = c·V·M, varianta 230), 96/5 (varianta 232).
 - Biologie 366–420: 366, 372 (alela a genotyp, ČB 407 a LF MU 140), 368 a 374 (dominantní a X-vázaná dědičnost, UK 189 a 191), 373, 377, 378, 419, 420 (Mendelovy štěpné poměry, ČB 118, UK 148, 196), 379 (vazba genů, LF MU 147), 380 (centimorgan, ve vysvětlení 250), 381 a 382 (polygenní a multifaktoriální znaky, LF MU 200 a varianta 234), 384 (konkordance dvojčat, sporné zadání), 385, 386, 390, 414, 415 (panmixie, faktory frekvence alel a drift, UK 184, 185, 192), 387–389, 401 (výpočty H–W, varianta 240 a LF MU 150), 393 a 407–409 (X-recesivní dědičnost a hemofilie, UK 191, SOM 38–41), 394 a 396 (autozomově recesivní dědičnost, UK 190), 395 (vlastnosti mutací, obecné), 397 (trizomie, BIO 837 a LF MU 149), 398 a 400 (zpětné křížení a 1/16, varianty 235 a ČB 118), 404 (pojmy křížení, triviální), 412 (alogamická populace, opak 249), 416 (proband, ČB 568), 417 (organizace prenatální diagnostiky v ČR, časově citlivé).
 
+## Dávka ID 251–300 (v2.53.0)
+
+Soubor `uk-251-300.json`, generátor `create_uk_251_300.py`. Chemie ověřena výpočtem a výkladem, biologie porovnána s klíčem. Otázky s více správnými možnostmi přeformulovány na jednu správnou.
+
+| Předmět | Kapitola | Použité úlohy | ID |
+|---|---|---|---|
+| Chemie | 3.2 Látkové množství (str. 97) | str. 97/1, 97/3 | 251–252 |
+| Chemie | 3.3 Hmotnostní a objemový zlomek (str. 98–105) | str. 98/1, 101/1, 101/4, 103/5, 104/2, 105/4 | 253–258 |
+| Chemie | 3.4 Molární objem plynu (str. 106–108) | str. 106/1, 107/5 | 259–260 |
+| Chemie | 3.5 pH kyselin a zásad (str. 108–117) | str. 111/5, 112/3, 115/3, 117/1 | 261–264 |
+| Chemie | 4.1 Reakce organických sloučenin a činidla (str. 118–121) | str. 118/1, 118/2, 118/3, 119/1, 119/3, 119/4, 119/5, 120/1, 120/3, 121/3 | 265–274 |
+| Chemie | 4.2 Izomerie, konformace, konfigurace (str. 122–125) | str. 122/1, 122/4, 123/2, 123/5, 124/1, 124/5, 125/2, 125/3 | 275–282 |
+| Biologie | Genetika (str. 95–103) | 422, 433, 434, 436, 437, 448, 451, 452, 453, 455, 458, 459, 460, 461 | 283–296 |
+| Biologie | Bakteriologie a virologie (str. 105–106) | 463, 465, 470, 472 | 297–300 |
+
+Nepřidané položky:
+- Chemie str. 97–105: 97/2, 97/4 (varianty 251–252), 98/2, 98/3 (varianta 253), 98/4, 98/5, 99/1–99/5, 100/1–100/5, 101/3, 103/3, 103/4 (m = w · m(roztoku), LF MU 126 a ČB 584), 101/2 (varianta 254), 101/5, 102/1–102/5 (ředění vodou, varianta 255 a LF MU 127), 103/1, 103/2 (hmotnostní zlomek prvku, UK 220–221), 104/1 (varianta 256), 104/3–104/5, 105/1–105/3 (varianty 257), 105/5 (varianta 258).
+- Kap. 3.4: 106/2–106/5, 107/1–107/4, 108/1 (varianty 259–260).
+- Kap. 3.5: 108/2–108/5, 109/1–109/5, 110/1–110/5, 111/1–111/4, 112/1, 112/2, 112/4–112/6, 113/1–113/6, 114/1–114/5, 115/1, 115/2, 115/4, 115/5, 116/1–116/5, 117/2–117/4 (převody pH, [H₃O⁺] a [OH⁻] a ředění, varianty 261–264, LF MU 186–188, 227–234 a ČB 532). 109/2–109/5 mají v zadání „roztok silné báze“ s pH pod 7, vynecháno jako zavádějící.
+- Kap. 4.1: 119/2 (reakce jen jako obrázek), 120/2, 120/4–120/6, 121/1, 121/2, 121/4, 121/5 (zařazení činidel, varianty 271–274).
+- Kap. 4.2: 122/2, 122/3, 122/5, 123/1 (keto- a enolforma, varianty 275–276), 123/3, 123/4, 123/6 (chiralita, varianty 277–278), 124/2–124/4, 124/6 (konformace a cis-trans, varianty 279–281), 125/1 a 125/5 (vzorce jen jako obrázek), 125/4 (konstituční izomerie, varianta 282).
+- Biologie 421–472: 421, 423, 430–432, 454 (H–W a drift, UK 184–185, 240 a 249), 424, 443 (daltonismus, SOM 42 a UK 199), 425 (AR rodiče Aa × Aa, UK 190), 426 (otcovství, žádného z mužů nelze vyloučit, zadání nejednoznačné), 427 a 428 (A × B, LF MU 193), 429 (9 : 3 : 3 : 1, ČB 118), 435 (heritabilita 1, varianta 249 z dávky 233–250), 438, 462 (rodokmen a proband, ČB 568), 439, 440 (Morganovo číslo, UK 250), 441 a 447 (XD a AD dědičnost, UK 189 a 200), 442, 444, 446 (AR dědičnost, UK 190 a 194), 445 a 450 (hemofilie, ČB 203 a SOM 41), 449 (minorgeny, UK 197), 456 (Klinefelter, UK 245), 457 (organizace prenatální péče, časově citlivé), 464 (archea, nejednoznačné), 466, 467 (chromozom a stavba prokaryot, LF MU 139 a SOM 15), 468 (viry, SOM 12), 469 (bakteriofág, UK 88), 471 (prion, BIO 535).
+
 ## Další dávky
 
-Pokračovat od ID 251. Fyzika čeká na plnou knihu. Chemie pokračuje kap. 3.2 od str. 97, biologie od otázky 421. Úplné pokrytí zatím nebylo dosaženo.
+Pokračovat od ID 301. Fyzika čeká na plnou knihu. Chemie pokračuje kap. 4.3 od str. 126, biologie od otázky 473. Úplné pokrytí zatím nebylo dosaženo.
