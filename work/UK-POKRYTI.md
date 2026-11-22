@@ -175,6 +175,22 @@ Nepřidané položky:
 - Chemie str. 139–152: 139/6, 140/1, 140/2 (kondenzované areny, varianta 334), 140/3, 140/4, 141/1–141/3, 142/1–142/3, 143/1–143/3, 144/1, 144/2, 147/1 (vzorce jen jako obrázek), 144/3 a 145/1 (počty isoprenů, varianty 351–352), 146/1 (varianta 356), 146/2 a 146/5 (glycerol trojsytný, ve vysvětlení 357), 149/4 (vinylalkohol a acetaldehyd, UK 276), 149/6 a 150/1 (thioly a disulfidy, varianta 370), 150/4 (varianta 371), 150/5 (dvě správné možnosti, naftoly ve 372), 151/1 (α-naftol, ve vysvětlení 372), 151/2 (dvě správné možnosti, varianta 373), 152/1 (fenoláty jako soli, ve vysvětlení 377), 152/4 a 152/5 (formaldehyd z methanolu, varianta 360).
 - Biologie 496–539: 497, 501, 505, 507, 508, 511, 512, 515 (už v dávce 301–350), 499 (fáze fotosyntézy, ve vysvětlení 381–382), 502 (plastidy semiautonomní, UK 44 a LF MU 42), 514 (dvouděložné, opak 388), 516 (okolík, ve vysvětlení 350), 518 (močovina v játrech, BIO 299), 520 (nervová trubice z ektodermu, BIO 453), 522 (toxoplazma, dvě správné možnosti, pro další dávku), 528 (původ struny hřbetní, varianta 397), 530 (okysličení krve v aortě ryb, sporný klíč), 531, 533–536, 538 (více správných možností, pro další dávku).
 
+## Dávka ID 401–450 (v2.59.0)
+
+Soubor `uk-401-450.json`, generátor `create_uk_401_450.py`. Chemie ověřena výkladem, biologie porovnána s klíčem. Otázky s více správnými možnostmi přeformulovány na jednu správnou.
+
+| Předmět | Kapitola | Použité úlohy | ID |
+|---|---|---|---|
+| Chemie | 4.8 Aldehydy (str. 153) | str. 153/1, 153/2, 153/5 | 401–403 |
+| Chemie | 4.9 Ketony a ethery (str. 155–156) | str. 155/4, 155/5, 156/3, 156/6 | 404–407 |
+| Chemie | 4.10 Karboxylové kyseliny a deriváty (str. 157–164) | str. 159/1, 157/2, 157/3, 157/6, 158/3, 158/4, 158/5, 158/6, 159/3, 159/4, 161/3, 160/2, 160/4, 160/5, 161/4, 161/6, 162/1, 162/3, 162/6, 163/1, 163/4, 163/5, 164/1, 164/2 | 408–431 |
+| Chemie | 4.11 Aminy, amidy, alkaloidy (str. 166) | str. 166/3 | 432 |
+| Biologie | Biologie živočichů a protistů (str. 122–130) | 540, 541, 543, 545, 546, 548, 549, 556, 557, 558, 562, 568, 572, 574, 576, 578, 580, 589 | 433–450 |
+
+Nepřidané položky:
+- Chemie str. 153–164: 153/3 (butanal, varianta 401), 153/4, 155/2, 157/1 (vzorce aldehydu, ketonu a etheru, varianta 408), 153/6, 154/1–155/1 (vzorce jen jako obrázek), 155/3 (dvě správné možnosti, aceton ve 404), 156/1, 156/2 (redukce ketonu, varianta 404), 156/4 (benzochinon z hydrochinonu, UK 373), 156/5 (acetofenon, ve 405), 157/4 (chiralita hydroxykyselin, UK 278), 157/5 (varianta 410), 158/1, 158/2 (varianty 412), 159/2 (název esteru, varianta 415), 159/5 (vzorec vinyl-acetátu, OCR nečitelné), 159/6 (dvě správné možnosti, malonová = propandiová, varianta 418), 160/1 (keton z 2-hydroxymáselné kyseliny, sporné, acetoctová vzniká z 3-hydroxymáselné), 160/3 (varianta 419), 160/6, 161/1 (laktát na pyruvát, varianta 421 a LF MU 345), 161/2 (varianta 418), 161/5 (hydrogenace fumarátu, varianta 423), 162/2 (varianta 424), 162/4, 162/5 (kyselina benzoová z toluenu, UK 332), 163/2, 163/3 (varianty 427–428), 163/6 (kyselina ftalová z o-xylenu, pro další dávku), 164/3 (vzorce v OCR neúplné).
+- Biologie 540–590: 542, 544, 550, 551, 553, 569, 570, 581–584, 587 (více správných možností, část přeformulována, zbytek pro další dávku), 547 (trichomonáda, BIO 826), 552, 559, 563, 571 (zařazení ploštěnců a hlístic, LF MU 396 a UK 443), 554 (ježura, UK 391), 555 (amnion plazů a savců, varianta 448), 560, 561, 564, 585 (spavá nemoc a malárie, LF MU 399–400), 565 (lamblie, LF MU 299), 577, 590 (oddělené oběhy ptáků a savců, LF MU 395), 566, 567, 573, 579, 586, 588 (pro další dávku).
+
 ## Další dávky
 
-Pokračovat od ID 401. Fyzika čeká na plnou knihu. Chemie pokračuje str. 153 (kap. 4.8 Aldehydy), biologie od otázky 540 a vrátit se k víceodpovědním 522, 531, 533–536 a 538. Úplné pokrytí zatím nebylo dosaženo.
+Pokračovat od ID 451. Fyzika čeká na plnou knihu. Chemie pokračuje kap. 4.11 od str. 166, biologie od otázky 591 a zbytek 542–588. Úplné pokrytí zatím nebylo dosaženo.

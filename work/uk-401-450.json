@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 401,
+    "subject": "Chemie",
+    "category": "Chemie · 4.8 Aldehydy",
+    "bookRef": "UK · Chemie · 4.8 Aldehydy · str. 153, otázka 1",
+    "sourcePages": "153",
+    "sourceItem": "str. 153, otázka 1",
+    "question": "Co může vznikat redukcí aldehydů?",
+    "options": [
+      "primární alkoholy",
+      "sekundární alkoholy",
+      "terciární alkoholy",
+      "karboxylové kyseliny"
+    ],
+    "answer": 0,
+    "title": "primární alkoholy",
+    "paragraphs": [
+      "Redukcí (hydrogenací) skupiny −CHO vznikne −CH₂OH, tedy primární alkohol, například z ethanalu ethanol. Sekundární alkoholy vznikají redukcí ketonů, kyseliny oxidací aldehydů."
+    ],
+    "memory": "Aldehyd + H₂ = primární alkohol."
+  },
+  {
+    "id": 402,
+    "subject": "Chemie",
+    "category": "Chemie · 4.8 Aldehydy",
+    "bookRef": "UK · Chemie · 4.8 Aldehydy · str. 153, otázka 2",
+    "sourcePages": "153",
+    "sourceItem": "str. 153, otázka 2",
+    "question": "Co vzniká redukcí benzaldehydu?",
+    "options": [
+      "kyselina benzoová",
+      "benzylalkohol",
+      "toluen",
+      "fenol"
+    ],
+    "answer": 1,
+    "title": "benzylalkohol",
+    "paragraphs": [
+      "Aldehydová skupina C₆H₅−CHO se redukuje na C₆H₅−CH₂OH, benzylalkohol. Kyselina benzoová by vznikla oxidací."
+    ],
+    "memory": "Redukce aldehydu = alkohol."
+  },
+  {
+    "id": 403,
+    "subject": "Chemie",
+    "category": "Chemie · 4.8 Aldehydy",
+    "bookRef": "UK · Chemie · 4.8 Aldehydy · str. 153, otázka 5",
+    "sourcePages": "153",
+    "sourceItem": "str. 153, otázka 5",
+    "question": "Na jaké vlastnosti aldehydů je založen jejich důkaz Fehlingovým roztokem?",
+    "options": [
+      "na oxidačních vlastnostech",
+      "na schopnosti polymerovat",
+      "na redukčních vlastnostech",
+      "na dekarboxylaci"
+    ],
+    "answer": 2,
+    "title": "na redukčních vlastnostech",
+    "paragraphs": [
+      "Aldehyd redukuje modré měďnaté ionty na červený oxid měďný Cu₂O a sám se oxiduje na kyselinu. Stejně reagují redukující sacharidy, například glukóza."
+    ],
+    "memory": "Fehling: aldehyd redukuje Cu²⁺."
+  },
+  {
+    "id": 404,
+    "subject": "Chemie",
+    "category": "Chemie · 4.9 Ketony a ethery",
+    "bookRef": "UK · Chemie · 4.9 Ketony a ethery · str. 155, otázka 4",
+    "sourcePages": "155",
+    "sourceItem": "str. 155, otázka 4",
+    "question": "Co vzniká redukcí propan-2-onu (acetonu)?",
+    "options": [
+      "propan-1-ol",
+      "propanal",
+      "kyselina propionová",
+      "propan-2-ol"
+    ],
+    "answer": 3,
+    "title": "propan-2-ol",
+    "paragraphs": [
+      "Redukcí ketonu vzniká sekundární alkohol. Z CH₃−CO−CH₃ vzniká CH₃−CH(OH)−CH₃, propan-2-ol (isopropylalkohol)."
+    ],
+    "memory": "Keton + H₂ = sekundární alkohol."
+  },
+  {
+    "id": 405,
+    "subject": "Chemie",
+    "category": "Chemie · 4.9 Ketony a ethery",
+    "bookRef": "UK · Chemie · 4.9 Ketony a ethery · str. 155, otázka 5",
+    "sourcePages": "155",
+    "sourceItem": "str. 155, otázka 5",
+    "question": "Kolik atomů uhlíku obsahuje molekula fenyl(methyl)ketonu (acetofenonu)?",
+    "options": [
+      "osm",
+      "sedm",
+      "pět",
+      "deset"
+    ],
+    "answer": 0,
+    "title": "osm",
+    "paragraphs": [
+      "Acetofenon C₆H₅−CO−CH₃ má šest uhlíků ve fenylu, jeden v karbonylu a jeden v methylu, celkem 8. Je to aromatický keton."
+    ],
+    "memory": "6 + 1 + 1 = 8."
+  },
+  {
+    "id": 406,
+    "subject": "Chemie",
+    "category": "Chemie · 4.9 Ketony a ethery",
+    "bookRef": "UK · Chemie · 4.9 Ketony a ethery · str. 156, otázka 3",
+    "sourcePages": "156",
+    "sourceItem": "str. 156, otázka 3",
+    "question": "Mezi jaké sloučeniny patří chinony?",
+    "options": [
+      "alkoholy",
+      "ketony",
+      "aldehydy",
+      "thiofenoly"
+    ],
+    "answer": 1,
+    "title": "ketony",
+    "paragraphs": [
+      "Chinony jsou cyklické diketony, například 1,4-benzochinon má v kruhu dvě skupiny C=O. Vznikají oxidací dihydroxyfenolů."
+    ],
+    "memory": "Chinon = cyklický diketon."
+  },
+  {
+    "id": 407,
+    "subject": "Chemie",
+    "category": "Chemie · 4.9 Ketony a ethery",
+    "bookRef": "UK · Chemie · 4.9 Ketony a ethery · str. 156, otázka 6",
+    "sourcePages": "156",
+    "sourceItem": "str. 156, otázka 6",
+    "question": "Deriváty jaké látky lze považovat ethery?",
+    "options": [
+      "peroxidu vodíku s oběma vodíky nahrazenými zbytky",
+      "kyseliny uhličité s oběma vodíky nahrazenými zbytky",
+      "vody, v níž jsou oba vodíky nahrazeny uhlovodíkovými zbytky",
+      "amoniaku s jedním vodíkem nahrazeným zbytkem"
+    ],
+    "answer": 2,
+    "title": "vody, v níž jsou oba vodíky nahrazeny uhlovodíkovými zbytky",
+    "paragraphs": [
+      "Ether R−O−R′ si lze představit jako H−O−H, ve které oba vodíky nahradily uhlovodíkové zbytky. Alkohol je voda s jedním nahrazeným vodíkem."
+    ],
+    "memory": "Ether = R−O−R′."
+  },
+  {
+    "id": 408,
+    "subject": "Chemie",
+    "category": "Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty · str. 159, otázka 1",
+    "sourcePages": "159",
+    "sourceItem": "str. 159, otázka 1",
+    "question": "Který vzorec patří esteru?",
+    "options": [
+      "CH₃−O−CH₃",
+      "CH₃−CO−CH₃",
+      "HCO−CH₃",
+      "CH₃−CO−O−CH₃"
+    ],
+    "answer": 3,
+    "title": "CH₃−CO−O−CH₃",
+    "paragraphs": [
+      "Ester obsahuje skupinu −CO−O−, zde methyl-acetát. CH₃−O−CH₃ je dimethylether, CH₃−CO−CH₃ aceton a HCO−CH₃ acetaldehyd."
+    ],
+    "memory": "Ester: C(=O)−O−C."
+  },
+  {
+    "id": 409,
+    "subject": "Chemie",
+    "category": "Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty · str. 157, otázka 2",
+    "sourcePages": "157",
+    "sourceItem": "str. 157, otázka 2",
+    "question": "Která z uvedených kyselin je dikarboxylová?",
+    "options": [
+      "kyselina šťavelová",
+      "kyselina olejová",
+      "kyselina citronová",
+      "kyselina askorbová"
+    ],
+    "answer": 0,
+    "title": "kyselina šťavelová",
+    "paragraphs": [
+      "Kyselina šťavelová HOOC−COOH je nejjednodušší dikarboxylová kyselina. Olejová má jeden karboxyl, citronová tři a askorbová žádný (kyselá je díky enolovým skupinám)."
+    ],
+    "memory": "Šťavelová = dva karboxyly."
+  },
+  {
+    "id": 410,
+    "subject": "Chemie",
+    "category": "Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty · str. 157, otázka 3",
+    "sourcePages": "157",
+    "sourceItem": "str. 157, otázka 3",
+    "question": "Která z uvedených kyselin obsahuje nejvíce karboxylových skupin?",
+    "options": [
+      "kyselina vinná",
+      "kyselina citronová",
+      "kyselina malonová",
+      "kyselina olejová"
+    ],
+    "answer": 1,
+    "title": "kyselina citronová",
+    "paragraphs": [
+      "Kyselina citronová je trikarboxylová hydroxykyselina, proto se Krebsův cyklus nazývá i cyklus trikarboxylových kyselin. Vinná a malonová mají dva karboxyly, olejová jeden."
+    ],
+    "memory": "Citronová = tři karboxyly."
+  },
+  {
+    "id": 411,
+    "subject": "Chemie",
+    "category": "Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty · str. 157, otázka 6",
+    "sourcePages": "157",
+    "sourceItem": "str. 157, otázka 6",
+    "question": "Co vzniká neutralizací karboxylových kyselin?",
+    "options": [
+      "estery",
+      "ethery",
+      "soli",
+      "aldehydy"
+    ],
+    "answer": 2,
+    "title": "soli",
+    "paragraphs": [
+      "Karboxylová kyselina reaguje se zásadou na sůl a vodu, například CH₃COOH + NaOH → CH₃COONa + H₂O. Estery vznikají reakcí s alkoholem."
+    ],
+    "memory": "Kyselina + zásada = sůl + voda."
+  },
+  {
+    "id": 412,
+    "subject": "Chemie",
+    "category": "Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty · str. 158, otázka 3",
+    "sourcePages": "158",
+    "sourceItem": "str. 158, otázka 3",
+    "question": "Jak se nazývá reakce karboxylové kyseliny s alkoholem?",
+    "options": [
+      "neutralizace",
+      "zmýdelnění",
+      "hydrolýza",
+      "esterifikace"
+    ],
+    "answer": 3,
+    "title": "esterifikace",
+    "paragraphs": [
+      "Kyselina a alkohol se za katalýzy silnou kyselinou spojují na ester a vodu. Reakce je vratná, opačný děj je hydrolýza esteru. Zmýdelnění je zásaditá hydrolýza tuků."
+    ],
+    "memory": "Kyselina + alkohol = ester + voda."
+  },
+  {
+    "id": 413,
+    "subject": "Chemie",
+    "category": "Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty · str. 158, otázka 4",
+    "sourcePages": "158",
+    "sourceItem": "str. 158, otázka 4",
+    "question": "Co vzniká kyselou hydrolýzou esterů?",
+    "options": [
+      "karboxylová kyselina a alkohol",
+      "sůl karboxylové kyseliny a voda",
+      "dvě karboxylové kyseliny",
+      "karboxylová kyselina a sůl"
+    ],
+    "answer": 0,
+    "title": "karboxylová kyselina a alkohol",
+    "paragraphs": [
+      "Hydrolýza je obrácená esterifikace: R−COO−R′ + H₂O ⇌ R−COOH + R′−OH. V zásaditém prostředí vzniká místo kyseliny její sůl."
+    ],
+    "memory": "Ester + voda = kyselina + alkohol."
+  },
+  {
+    "id": 414,
+    "subject": "Chemie",
+    "category": "Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty · str. 158, otázka 5",
+    "sourcePages": "158",
+    "sourceItem": "str. 158, otázka 5",
+    "question": "Co vznikne reakcí ethyl-acetátu (octanu ethylnatého) s hydroxidem sodným?",
+    "options": [
+      "kyselina octová a diethylether",
+      "octan sodný a ethanol",
+      "heptanová kyselina",
+      "ether a kyselina mléčná"
+    ],
+    "answer": 1,
+    "title": "octan sodný a ethanol",
+    "paragraphs": [
+      "Zásaditá hydrolýza esteru dává sůl kyseliny a alkohol: CH₃COOC₂H₅ + NaOH → CH₃COONa + C₂H₅OH. Na stejném principu je založeno zmýdelnění tuků."
+    ],
+    "memory": "Ester + NaOH = sůl + alkohol."
+  },
+  {
+    "id": 415,
+    "subject": "Chemie",
+    "category": "Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty · str. 158, otázka 6",
+    "sourcePages": "158",
+    "sourceItem": "str. 158, otázka 6",
+    "question": "Jak se nazývá sloučenina CH₃−O−CO−CH₃?",
+    "options": [
+      "dimethylketon",
+      "ethylester kyseliny mravenčí",
+      "methylester kyseliny octové",
+      "propanon"
+    ],
+    "answer": 2,
+    "title": "methylester kyseliny octové",
+    "paragraphs": [
+      "Acylová část CH₃−CO− pochází z kyseliny octové a skupina CH₃−O− z methanolu. Jde o methyl-acetát. Dimethylketon a propanon jsou názvy acetonu CH₃−CO−CH₃."
+    ],
+    "memory": "Methanol + kyselina octová = methyl-acetát."
+  },
+  {
+    "id": 416,
+    "subject": "Chemie",
+    "category": "Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty · str. 159, otázka 3",
+    "sourcePages": "159",
+    "sourceItem": "str. 159, otázka 3",
+    "question": "Na co lze oxidovat kyselinu mravenčí?",
+    "options": [
+      "na kyselinu octovou",
+      "na kyselinu šťavelovou",
+      "na kyselinu benzoovou",
+      "na kyselinu uhličitou"
+    ],
+    "answer": 3,
+    "title": "na kyselinu uhličitou",
+    "paragraphs": [
+      "Kyselina mravenčí HCOOH obsahuje i aldehydovou skupinu, proto má redukční účinky. Oxiduje se na kyselinu uhličitou, která se rozkládá na CO₂ a vodu."
+    ],
+    "memory": "HCOOH → H₂CO₃ → CO₂ + H₂O."
+  },
+  {
+    "id": 417,
+    "subject": "Chemie",
+    "category": "Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty · str. 159, otázka 4",
+    "sourcePages": "159",
+    "sourceItem": "str. 159, otázka 4",
+    "question": "Příkladem jaké reakce je vznik kyseliny trichloroctové z kyseliny octové?",
+    "options": [
+      "substituce",
+      "adice",
+      "eliminace",
+      "dehydrogenace"
+    ],
+    "answer": 0,
+    "title": "substituce",
+    "paragraphs": [
+      "Tři vodíky methylové skupiny jsou postupně nahrazeny atomy chloru: CH₃COOH → CCl₃COOH. Počet násobných vazeb se nemění, jde o substituci."
+    ],
+    "memory": "Nahrazení H za Cl = substituce."
+  },
+  {
+    "id": 418,
+    "subject": "Chemie",
+    "category": "Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty · str. 161, otázka 3",
+    "sourcePages": "161",
+    "sourceItem": "str. 161, otázka 3",
+    "question": "Co vzniká dekarboxylací kyseliny malonové?",
+    "options": [
+      "kyselina šťavelová",
+      "oxid uhličitý a kyselina octová",
+      "kyselina tereftalová",
+      "ester kyseliny malonové"
+    ],
+    "answer": 1,
+    "title": "oxid uhličitý a kyselina octová",
+    "paragraphs": [
+      "Kyselina malonová HOOC−CH₂−COOH při zahřívání snadno odštěpí CO₂ a zbude CH₃−COOH. Dekarboxylace znamená odštěpení CO₂ z karboxylové skupiny."
+    ],
+    "memory": "Malonová − CO₂ = octová."
+  },
+  {
+    "id": 419,
+    "subject": "Chemie",
+    "category": "Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty · str. 160, otázka 2",
+    "sourcePages": "160",
+    "sourceItem": "str. 160, otázka 2",
+    "question": "Která kyselina je kyselina 2-hydroxypropanová?",
+    "options": [
+      "kyselina jablečná",
+      "kyselina máselná",
+      "kyselina mléčná",
+      "kyselina vinná"
+    ],
+    "answer": 2,
+    "title": "kyselina mléčná",
+    "paragraphs": [
+      "Kyselina mléčná CH₃−CH(OH)−COOH má tři uhlíky a hydroxylovou skupinu na uhlíku 2 (α). Vzniká při anaerobní glykolýze ve svalech a mléčném kvašení."
+    ],
+    "memory": "Mléčná = α-hydroxypropionová."
+  },
+  {
+    "id": 420,
+    "subject": "Chemie",
+    "category": "Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty · str. 160, otázka 4",
+    "sourcePages": "160",
+    "sourceItem": "str. 160, otázka 4",
+    "question": "Mezi jaké kyseliny patří kyselina mléčná a kyselina salicylová?",
+    "options": [
+      "ketokyseliny",
+      "aminokyseliny",
+      "halogenkyseliny",
+      "hydroxykyseliny"
+    ],
+    "answer": 3,
+    "title": "hydroxykyseliny",
+    "paragraphs": [
+      "Obě kromě karboxylu nesou skupinu −OH. Kyselina mléčná je alifatická, kyselina salicylová (o-hydroxybenzoová) aromatická hydroxykyselina."
+    ],
+    "memory": "COOH + OH = hydroxykyselina."
+  },
+  {
+    "id": 421,
+    "subject": "Chemie",
+    "category": "Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty · str. 160, otázka 5",
+    "sourcePages": "160",
+    "sourceItem": "str. 160, otázka 5",
+    "question": "Jakou reakcí vzniká kyselina mléčná z kyseliny pyrohroznové?",
+    "options": [
+      "hydrogenací (redukcí)",
+      "dehydrogenací",
+      "dekarboxylací",
+      "hydratací"
+    ],
+    "answer": 0,
+    "title": "hydrogenací (redukcí)",
+    "paragraphs": [
+      "Keto skupina pyruvátu CH₃−CO−COOH se redukuje na hydroxylovou skupinu laktátu CH₃−CH(OH)−COOH. V buňce dodává vodík NADH + H⁺ a reakci katalyzuje laktátdehydrogenáza."
+    ],
+    "memory": "Pyruvát + 2 H = laktát."
+  },
+  {
+    "id": 422,
+    "subject": "Chemie",
+    "category": "Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty · str. 161, otázka 4",
+    "sourcePages": "161",
+    "sourceItem": "str. 161, otázka 4",
+    "question": "Pro kterou kyselinu je synonymem název kyselina α-hydroxyjantarová?",
+    "options": [
+      "kyselina mléčná",
+      "kyselina jablečná",
+      "kyselina citronová",
+      "kyselina vinná"
+    ],
+    "answer": 1,
+    "title": "kyselina jablečná",
+    "paragraphs": [
+      "Kyselina jablečná HOOC−CH(OH)−CH₂−COOH je kyselina jantarová s hydroxylovou skupinou v poloze α. Jako malát je meziproduktem Krebsova cyklu. Kyselina vinná je dihydroxyjantarová."
+    ],
+    "memory": "Jablečná = hydroxyjantarová."
+  },
+  {
+    "id": 423,
+    "subject": "Chemie",
+    "category": "Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty · str. 161, otázka 6",
+    "sourcePages": "161",
+    "sourceItem": "str. 161, otázka 6",
+    "question": "Jakou reakcí vzniká kyselina fumarová z kyseliny jantarové?",
+    "options": [
+      "dehydratací",
+      "dekarboxylací",
+      "dehydrogenací",
+      "hydrogenací"
+    ],
+    "answer": 2,
+    "title": "dehydrogenací",
+    "paragraphs": [
+      "Odebráním dvou vodíků ze sousedních uhlíků jantarové kyseliny vznikne dvojná vazba trans-butendiové kyseliny. V Krebsově cyklu to katalyzuje sukcinátdehydrogenáza s koenzymem FAD."
+    ],
+    "memory": "Sukcinát − 2 H = fumarát."
+  },
+  {
+    "id": 424,
+    "subject": "Chemie",
+    "category": "Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty · str. 162, otázka 1",
+    "sourcePages": "162",
+    "sourceItem": "str. 162, otázka 1",
+    "question": "Čím se liší kyselina maleinová a fumarová?",
+    "options": [
+      "počtem karboxylových skupin",
+      "počtem uhlíků v molekule",
+      "optickou aktivitou",
+      "prostorovým uspořádáním molekuly"
+    ],
+    "answer": 3,
+    "title": "prostorovým uspořádáním molekuly",
+    "paragraphs": [
+      "Obě jsou butendiové kyseliny HOOC−CH=CH−COOH. Maleinová je cis-izomer, fumarová trans-izomer. Jde o geometrickou izomerii na dvojné vazbě, opticky aktivní nejsou."
+    ],
+    "memory": "Maleinová cis, fumarová trans."
+  },
+  {
+    "id": 425,
+    "subject": "Chemie",
+    "category": "Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty · str. 162, otázka 3",
+    "sourcePages": "162",
+    "sourceItem": "str. 162, otázka 3",
+    "question": "Derivátem čeho je kyselina askorbová (vitamin C)?",
+    "options": [
+      "sacharidu",
+      "naftochinonu",
+      "kyseliny máselné",
+      "steranu"
+    ],
+    "answer": 0,
+    "title": "sacharidu",
+    "paragraphs": [
+      "Kyselina askorbová je lakton odvozený od monosacharidu (kyseliny gulonové). Většina živočichů ji syntetizuje z glukózy, člověk ne. Derivátem naftochinonu je vitamin K, steranu vitamin D."
+    ],
+    "memory": "Vitamin C = cukerný derivát."
+  },
+  {
+    "id": 426,
+    "subject": "Chemie",
+    "category": "Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty · str. 162, otázka 6",
+    "sourcePages": "162",
+    "sourceItem": "str. 162, otázka 6",
+    "question": "Co vzniká reakcí benzoylchloridu (chloridu kyseliny benzoové) s ethanolem?",
+    "options": [
+      "benzaldehyd",
+      "ethyl-benzoát",
+      "kyselina benzoová a ethen",
+      "benzylethylether"
+    ],
+    "answer": 1,
+    "title": "ethyl-benzoát",
+    "paragraphs": [
+      "Acylchlorid reaguje s alkoholem na ester a HCl: C₆H₅COCl + C₂H₅OH → C₆H₅COOC₂H₅ + HCl."
+    ],
+    "memory": "Acylchlorid + alkohol = ester."
+  },
+  {
+    "id": 427,
+    "subject": "Chemie",
+    "category": "Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty · str. 163, otázka 1",
+    "sourcePages": "163",
+    "sourceItem": "str. 163, otázka 1",
+    "question": "Co je kyselina salicylová?",
+    "options": [
+      "kyselina p-hydroxybenzoová",
+      "kyselina o-acetylbenzoová",
+      "kyselina o-hydroxybenzoová",
+      "kyselina p-aminobenzoová"
+    ],
+    "answer": 2,
+    "title": "kyselina o-hydroxybenzoová",
+    "paragraphs": [
+      "Kyselina salicylová má hydroxylovou skupinu v poloze ortho vedle karboxylu. Získávala se z vrbové kůry a je základem acetylsalicylové kyseliny."
+    ],
+    "memory": "Salicylová = o-hydroxybenzoová."
+  },
+  {
+    "id": 428,
+    "subject": "Chemie",
+    "category": "Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty · str. 163, otázka 4",
+    "sourcePages": "163",
+    "sourceItem": "str. 163, otázka 4",
+    "question": "Jakou látkou je aspirin (acylpyrin)?",
+    "options": [
+      "kyselina salicylová",
+      "sodná sůl kyseliny salicylové",
+      "kyselina p-aminosalicylová",
+      "kyselina acetylsalicylová"
+    ],
+    "answer": 3,
+    "title": "kyselina acetylsalicylová",
+    "paragraphs": [
+      "Aspirin vzniká acetylací hydroxylové skupiny kyseliny salicylové. Působí proti bolesti, horečce a zánětu a tlumí shlukování krevních destiček."
+    ],
+    "memory": "Aspirin = acetylovaná salicylová kyselina."
+  },
+  {
+    "id": 429,
+    "subject": "Chemie",
+    "category": "Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty · str. 163, otázka 5",
+    "sourcePages": "163",
+    "sourceItem": "str. 163, otázka 5",
+    "question": "Mezi jaké sloučeniny lze zařadit kyselinu acetylsalicylovou?",
+    "options": [
+      "estery",
+      "ethery",
+      "ketony",
+      "amidy"
+    ],
+    "answer": 0,
+    "title": "estery",
+    "paragraphs": [
+      "Acetylová skupina je na fenolový kyslík vázána esterovou vazbou −O−CO−CH₃. Proto se aspirin ve vlhku pomalu hydrolyzuje na kyselinu salicylovou a octovou (vůně octa ze starých tablet)."
+    ],
+    "memory": "Acetylace OH = ester."
+  },
+  {
+    "id": 430,
+    "subject": "Chemie",
+    "category": "Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty · str. 164, otázka 1",
+    "sourcePages": "164",
+    "sourceItem": "str. 164, otázka 1",
+    "question": "Co vzniká hydrolýzou ftalanhydridu?",
+    "options": [
+      "kyselina benzoová",
+      "kyselina ftalová",
+      "kyselina maleinová",
+      "kyselina malonová"
+    ],
+    "answer": 1,
+    "title": "kyselina ftalová",
+    "paragraphs": [
+      "Anhydrid vzniká odštěpením vody ze dvou karboxylů. Přidáním vody se vazba zase rozštěpí a vznikne benzen-1,2-dikarboxylová kyselina, kyselina ftalová."
+    ],
+    "memory": "Anhydrid + voda = kyselina."
+  },
+  {
+    "id": 431,
+    "subject": "Chemie",
+    "category": "Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.10 Karboxylové kyseliny, jejich reakce a deriváty · str. 164, otázka 2",
+    "sourcePages": "164",
+    "sourceItem": "str. 164, otázka 2",
+    "question": "Jak ovlivní kyselost karboxylové kyseliny náhrada vodíku na uhlíkatém řetězci atomem halogenu?",
+    "options": [
+      "sníží kyselost",
+      "neovlivní ji",
+      "zvýší kyselost",
+      "způsobí nerozpustnost kyseliny"
+    ],
+    "answer": 2,
+    "title": "zvýší kyselost",
+    "paragraphs": [
+      "Elektronegativní halogen odtahuje elektrony od karboxylu a stabilizuje vzniklý anion, proton se snáz odštěpí. Kyselina trichloroctová je proto mnohem silnější než octová."
+    ],
+    "memory": "Halogen přitahuje e⁻ = silnější kyselina."
+  },
+  {
+    "id": 432,
+    "subject": "Chemie",
+    "category": "Chemie · 4.11 Aminy, amidy, alkaloidy",
+    "bookRef": "UK · Chemie · 4.11 Aminy, amidy, alkaloidy · str. 166, otázka 3",
+    "sourcePages": "166",
+    "sourceItem": "str. 166, otázka 3",
+    "question": "Jak lze vyjádřit strukturu sekundárního aminu (R je uhlovodíkový zbytek)?",
+    "options": [
+      "RNH₂",
+      "R₃N",
+      "R₄N⁺",
+      "R₂NH"
+    ],
+    "answer": 3,
+    "title": "R₂NH",
+    "paragraphs": [
+      "U aminů rozhoduje počet uhlovodíkových zbytků na dusíku: primární RNH₂, sekundární R₂NH, terciární R₃N. R₄N⁺ je kvartérní amoniový kation."
+    ],
+    "memory": "Počet R na N = řád aminu."
+  },
+  {
+    "id": 433,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 540 · str. 122",
+    "sourcePages": "122",
+    "sourceItem": "540",
+    "question": "Která skupina nepatří ke korýšům?",
+    "options": [
+      "vířníci",
+      "perloočky",
+      "klanonožci",
+      "kapřivci"
+    ],
+    "answer": 0,
+    "title": "vířníci",
+    "paragraphs": [
+      "Vířníci jsou drobní mnohobuněční živočichové s obrveným věncem kolem úst, nejsou členovci. Perloočky (dafnie), klanonožci (buchanky) i kapřivci jsou korýši."
+    ],
+    "memory": "Vířník není korýš."
+  },
+  {
+    "id": 434,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 541 · str. 122",
+    "sourcePages": "122",
+    "sourceItem": "541",
+    "question": "V těle kterého živočicha probíhá část vývojového cyklu motolice jaterní?",
+    "options": [
+      "klanonožce",
+      "vodního plže",
+      "komára Anopheles",
+      "mouchy tse-tse"
+    ],
+    "answer": 1,
+    "title": "vodního plže",
+    "paragraphs": [
+      "Mezihostitelem motolice jaterní je plovatka malá. Z ní se uvolňují cerkárie, které se encystují na trávě, a s ní je pozře býložravec nebo člověk."
+    ],
+    "memory": "Motolice jaterní: plž, pak tráva."
+  },
+  {
+    "id": 435,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 543 · str. 123",
+    "sourcePages": "123",
+    "sourceItem": "543",
+    "question": "Co jsou ropalia?",
+    "options": [
+      "statokinetická ústrojí korýšů",
+      "smyslové orgány hmyzu",
+      "sídla smyslových orgánů medúz",
+      "zrakové orgány ploštěnců"
+    ],
+    "answer": 2,
+    "title": "sídla smyslových orgánů medúz",
+    "paragraphs": [
+      "Ropalia jsou drobná tělíska na okraji zvonu medúz se statocystou a světločivnými skvrnami, která pomáhají udržet polohu a reagovat na světlo."
+    ],
+    "memory": "Ropalium = smysly medúzy."
+  },
+  {
+    "id": 436,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 545 · str. 123",
+    "sourcePages": "123",
+    "sourceItem": "545",
+    "question": "Jakou nervovou a oběhovou soustavu mají měkkýši?",
+    "options": [
+      "gangliovou nervovou a uzavřenou oběhovou soustavu",
+      "žebříčkovou nervovou a otevřenou oběhovou soustavu",
+      "provazcovou nervovou a uzavřenou oběhovou soustavu",
+      "gangliovou nervovou a otevřenou oběhovou soustavu"
+    ],
+    "answer": 3,
+    "title": "gangliovou nervovou a otevřenou oběhovou soustavu",
+    "paragraphs": [
+      "Měkkýši mají několik párů ganglií spojených pruhy a hemolymfa se z cév rozlévá do dutin mezi orgány. Výjimkou jsou hlavonožci s téměř uzavřenou oběhovou soustavou."
+    ],
+    "memory": "Měkkýš: ganglia a otevřený oběh."
+  },
+  {
+    "id": 437,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 546 · str. 123",
+    "sourcePages": "123",
+    "sourceItem": "546",
+    "question": "Která skupina obsahuje jen orgány, které se mohou vyskytovat u měkkýšů?",
+    "options": [
+      "plicní vak, radula, statocysta",
+      "statocysta, radula, Malpighiho trubice",
+      "metanefridie, žábry, snovací žláza",
+      "pohárkové oči, metanefridie, tracheje"
+    ],
+    "answer": 0,
+    "title": "plicní vak, radula, statocysta",
+    "paragraphs": [
+      "Plicní vak mají suchozemští plži, radula (struhadlo) slouží k seškrabování potravy a statocysta k vnímání polohy. Malpighiho trubice a tracheje jsou orgány hmyzu, snovací žlázy pavouků."
+    ],
+    "memory": "Radula = jazyk plžů."
+  },
+  {
+    "id": 438,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 548 · str. 123",
+    "sourcePages": "123",
+    "sourceItem": "548",
+    "question": "U kterých savců se nevyvíjí typická placenta?",
+    "options": [
+      "u hmyzožravců",
+      "u vejcorodých",
+      "u hlodavců",
+      "placenta se vyvíjí u všech savců"
+    ],
+    "answer": 1,
+    "title": "u vejcorodých",
+    "paragraphs": [
+      "Vejcorodí savci (ptakopysk, ježura) kladou vejce a mláďata líhnou. Vačnatci mají placentu jen jednoduchou a krátkodobou, typickou placentu mají placentálové."
+    ],
+    "memory": "Ptakopysk klade vejce."
+  },
+  {
+    "id": 439,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 549 · str. 124",
+    "sourcePages": "124",
+    "sourceItem": "549",
+    "question": "Který z uvedených živočichů patří ke kytovcům?",
+    "options": [
+      "lachtan",
+      "mrož",
+      "vorvaň",
+      "tuleň"
+    ],
+    "answer": 2,
+    "title": "vorvaň",
+    "paragraphs": [
+      "Kytovci jsou plně vodní savci, kteří se rozmnožují ve vodě: velryby, vorvani a delfíni. Lachtani, mroži a tuleni jsou ploutvonožci a na souš chodí rodit."
+    ],
+    "memory": "Vorvaň a delfín = kytovci."
+  },
+  {
+    "id": 440,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 556 · str. 125",
+    "sourcePages": "125",
+    "sourceItem": "556",
+    "question": "Mezi které členovce řadíme klíšťata?",
+    "options": [
+      "hmyz",
+      "korýše",
+      "hrotnatce",
+      "pavoukovce"
+    ],
+    "answer": 3,
+    "title": "pavoukovce",
+    "paragraphs": [
+      "Klíšťata jsou roztoči, a tedy pavoukovci. Dospělci mají čtyři páry nohou a tělo bez tykadel. Přenášejí klíšťovou encefalitidu a boreliózu."
+    ],
+    "memory": "Osm nohou = pavoukovec."
+  },
+  {
+    "id": 441,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 557 · str. 125",
+    "sourcePages": "125",
+    "sourceItem": "557",
+    "question": "Kolik párů nohou má naprostá většina dospělého hmyzu a kde jsou?",
+    "options": [
+      "tři páry na hrudi",
+      "čtyři páry na hrudi",
+      "tři páry na hlavohrudi",
+      "čtyři páry na hlavohrudi"
+    ],
+    "answer": 0,
+    "title": "tři páry na hrudi",
+    "paragraphs": [
+      "Tělo hmyzu tvoří hlava s jedním párem tykadel, hruď se třemi páry nohou (a často křídly) a zadeček. Hlavohruď a čtyři páry nohou mají pavoukovci."
+    ],
+    "memory": "Hmyz = 6 nohou."
+  },
+  {
+    "id": 442,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 558 · str. 125",
+    "sourcePages": "125",
+    "sourceItem": "558",
+    "question": "Co platí o trilobitech?",
+    "options": [
+      "řadíme je mezi korýše",
+      "jsou vyhynulou vývojovou větví členovců",
+      "poprvé se objevují koncem prvohor",
+      "žijí dodnes v hlubokých mořích"
+    ],
+    "answer": 1,
+    "title": "jsou vyhynulou vývojovou větví členovců",
+    "paragraphs": [
+      "Trilobiti byli mořští členovci s tělem podélně rozděleným na tři laloky. Žili už od kambria, tedy ve starších prvohorách, a na konci prvohor vyhynuli."
+    ],
+    "memory": "Trilobit = prvohorní členovec."
+  },
+  {
+    "id": 443,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 562 · str. 126",
+    "sourcePages": "126",
+    "sourceItem": "562",
+    "question": "U kterého parazita najdeme hlavičku (skolex) s přísavkami a někdy i háčky?",
+    "options": [
+      "u škrkavky",
+      "u svalovce stočeného",
+      "u tasemnice",
+      "u roupa"
+    ],
+    "answer": 2,
+    "title": "u tasemnice",
+    "paragraphs": [
+      "Skolexem se tasemnice přichytí ke stěně střeva, za ním roste řetězec článků. Škrkavka, roup i svalovec jsou hlístice a hlavičku s přísavkami nemají."
+    ],
+    "memory": "Tasemnice: skolex a články."
+  },
+  {
+    "id": 444,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 568 · str. 127",
+    "sourcePages": "127",
+    "sourceItem": "568",
+    "question": "Která dvojice obsahuje pouze zástupce měkkozobých ptáků?",
+    "options": [
+      "holubi a křepelky",
+      "husy a jeřábi",
+      "hrdličky a křepelky",
+      "holubi a hrdličky"
+    ],
+    "answer": 3,
+    "title": "holubi a hrdličky",
+    "paragraphs": [
+      "Měkkozobí (Columbiformes) jsou holubi a hrdličky, kteří krmí mláďata „holubím mlékem“ z volete. Křepelky jsou hrabaví, husy vrubozobí a jeřábi krátkokřídlí."
+    ],
+    "memory": "Holub a hrdlička = měkkozobí."
+  },
+  {
+    "id": 445,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 572 · str. 128",
+    "sourcePages": "128",
+    "sourceItem": "572",
+    "question": "Která skupina obsahuje pouze ostnokožce?",
+    "options": [
+      "lilijice, hvězdice, sumýši",
+      "sumky, sumýši, kopinatci",
+      "hvězdice, ježovky, sumky",
+      "kopinatci, mnohoštětinatci, sumky"
+    ],
+    "answer": 0,
+    "title": "lilijice, hvězdice, sumýši",
+    "paragraphs": [
+      "Ostnokožci jsou mořští živočichové s paprsčitou souměrností a ambulakrální soustavou: lilijice, hvězdice, hadice, ježovky a sumýši. Sumky a kopinatci jsou strunatci, mnohoštětinatci kroužkovci."
+    ],
+    "memory": "Sumýš ano, sumka ne."
+  },
+  {
+    "id": 446,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 574 · str. 128",
+    "sourcePages": "128",
+    "sourceItem": "574",
+    "question": "Do které skupiny patří žraloci?",
+    "options": [
+      "kostnaté ryby",
+      "paryby",
+      "kruhoústí",
+      "blanatí obratlovci"
+    ],
+    "answer": 1,
+    "title": "paryby",
+    "paragraphs": [
+      "Žraloci a rejnoci mají chrupavčitou kostru a patří mezi paryby. Jako všichni vodní obratlovci jsou bezblanní, zárodečné obaly nemají."
+    ],
+    "memory": "Žralok = paryba s chrupavkou."
+  },
+  {
+    "id": 447,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 576 · str. 128",
+    "sourcePages": "128",
+    "sourceItem": "576",
+    "question": "Co platí o partenogenezi?",
+    "options": [
+      "rozmnožují se jen samci",
+      "každý jedinec má samčí i samičí orgány",
+      "vajíčko se vyvíjí bez oplození",
+      "jde o dělení dospělého jedince na dva"
+    ],
+    "answer": 2,
+    "title": "vajíčko se vyvíjí bez oplození",
+    "paragraphs": [
+      "Při partenogenezi (pannenském rozmnožování) vzniká nový jedinec z neoplozeného vajíčka, například u mšic, perlooček nebo trubců včely medonosné."
+    ],
+    "memory": "Partenogeneze = bez oplození."
+  },
+  {
+    "id": 448,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 578 · str. 129",
+    "sourcePages": "129",
+    "sourceItem": "578",
+    "question": "U které skupiny se poprvé vyvinuly zárodečné obaly a plodová voda?",
+    "options": [
+      "u obojživelníků",
+      "u ptáků",
+      "u savců",
+      "u plazů"
+    ],
+    "answer": 3,
+    "title": "u plazů",
+    "paragraphs": [
+      "Amnion s plodovou vodou umožnil vývoj vajec na souši a plazi se tak stali prvními plně suchozemskými obratlovci. Spolu s ptáky a savci tvoří blanaté obratlovce."
+    ],
+    "memory": "Plazi = první blanatí."
+  },
+  {
+    "id": 449,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 580 · str. 129",
+    "sourcePages": "129",
+    "sourceItem": "580",
+    "question": "U které skupiny najdeme srdce se dvěma síněmi a jednou komorou?",
+    "options": [
+      "u obojživelníků",
+      "u ryb",
+      "u ptáků",
+      "u savců"
+    ],
+    "answer": 0,
+    "title": "u obojživelníků",
+    "paragraphs": [
+      "Žáby i mloci mají dvě síně a jednu komoru, ve které se krev částečně mísí. Ryby mají jednu síň a jednu komoru, ptáci a savci dvě síně a dvě komory."
+    ],
+    "memory": "Obojživelník: 2 síně, 1 komora."
+  },
+  {
+    "id": 450,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 589 · str. 130",
+    "sourcePages": "130",
+    "sourceItem": "589",
+    "question": "Kteří ptáci patří do nadřádu běžců?",
+    "options": [
+      "sluky a kiviové",
+      "kiviové a pštrosi",
+      "pelikáni a pštrosi",
+      "pštrosi a čápi"
+    ],
+    "answer": 1,
+    "title": "kiviové a pštrosi",
+    "paragraphs": [
+      "Běžci jsou nelétaví ptáci s plochou hrudní kostí bez hřebene: pštrosi, nandu, emu, kasuáři a kiviové."
+    ],
+    "memory": "Běžci: pštros, emu, kivi."
+  }
+]
