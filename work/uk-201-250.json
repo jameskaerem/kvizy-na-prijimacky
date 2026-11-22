@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 201,
+    "subject": "Chemie",
+    "category": "Chemie · 2.3 Oxidační číslo; oxidace a redukce",
+    "bookRef": "UK · Chemie · 2.3 Oxidační číslo; oxidace a redukce · str. 77, otázka 3",
+    "sourcePages": "77",
+    "sourceItem": "str. 77, otázka 3",
+    "question": "Co působí v reakci Zn + 2 HCl → ZnCl₂ + H₂ jako oxidační činidlo?",
+    "options": [
+      "vodíkový kationt H⁺",
+      "zinek",
+      "chloridový anion Cl⁻",
+      "vznikající vodík H₂"
+    ],
+    "answer": 0,
+    "title": "vodíkový kationt H⁺",
+    "paragraphs": [
+      "Vodík se redukuje z +I na 0 a přijímá elektrony od zinku, který se oxiduje z 0 na +II. Látka, která se sama redukuje, je oxidační činidlo. Chlor své oxidační číslo −I nemění."
+    ],
+    "memory": "Oxidační činidlo se samo redukuje."
+  },
+  {
+    "id": 202,
+    "subject": "Chemie",
+    "category": "Chemie · 2.3 Oxidační číslo; oxidace a redukce",
+    "bookRef": "UK · Chemie · 2.3 Oxidační číslo; oxidace a redukce · str. 77, otázka 5",
+    "sourcePages": "77",
+    "sourceItem": "str. 77, otázka 5",
+    "question": "Kolik elektronů se vymění při přeměně S(−II) na S(VI)?",
+    "options": [
+      "2",
+      "8",
+      "4",
+      "6"
+    ],
+    "answer": 1,
+    "title": "8",
+    "paragraphs": [
+      "Oxidační číslo vzroste z −2 na +6, tedy o 8. Každá jednotka změny odpovídá jednomu odevzdanému elektronu."
+    ],
+    "memory": "Počet e⁻ = rozdíl oxidačních čísel."
+  },
+  {
+    "id": 203,
+    "subject": "Chemie",
+    "category": "Chemie · 2.3 Oxidační číslo; oxidace a redukce",
+    "bookRef": "UK · Chemie · 2.3 Oxidační číslo; oxidace a redukce · str. 77, otázka 6",
+    "sourcePages": "77",
+    "sourceItem": "str. 77, otázka 6",
+    "question": "Co je průvodním znakem oxidace atomu prvku?",
+    "options": [
+      "pokles jeho oxidačního čísla",
+      "neměnnost oxidačního čísla",
+      "vzrůst jeho oxidačního čísla",
+      "změna jeho protonového čísla"
+    ],
+    "answer": 2,
+    "title": "vzrůst jeho oxidačního čísla",
+    "paragraphs": [
+      "Při oxidaci atom ztrácí elektrony, a jeho oxidační číslo proto roste. Při redukci elektrony přijímá a oxidační číslo klesá. Protonové číslo se chemickou reakcí nemění."
+    ],
+    "memory": "Oxidace = ztráta e⁻ = oxidační číslo nahoru."
+  },
+  {
+    "id": 204,
+    "subject": "Chemie",
+    "category": "Chemie · 2.3 Oxidační číslo; oxidace a redukce",
+    "bookRef": "UK · Chemie · 2.3 Oxidační číslo; oxidace a redukce · str. 78, otázka 2",
+    "sourcePages": "78",
+    "sourceItem": "str. 78, otázka 2",
+    "question": "Kolik elektronů se vymění při přeměně As(−III) na As(III)?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 3,
+    "title": "6",
+    "paragraphs": [
+      "Oxidační číslo arsenu vzroste z −3 na +3, tedy o 6. Atom proto odevzdá 6 elektronů."
+    ],
+    "memory": "Z −3 na +3 je to 6 kroků."
+  },
+  {
+    "id": 205,
+    "subject": "Chemie",
+    "category": "Chemie · 2.3 Oxidační číslo; oxidace a redukce",
+    "bookRef": "UK · Chemie · 2.3 Oxidační číslo; oxidace a redukce · str. 78, otázka 6",
+    "sourcePages": "78",
+    "sourceItem": "str. 78, otázka 6",
+    "question": "Čím je charakterizována redoxní rovnováha?",
+    "options": [
+      "rovnovážnou konstantou",
+      "disociační konstantou",
+      "součinem rozpustnosti",
+      "iontovým součinem vody"
+    ],
+    "answer": 0,
+    "title": "rovnovážnou konstantou",
+    "paragraphs": [
+      "Redoxní děj je vratná reakce jako každá jiná a její rovnovážný stav popisuje rovnovážná konstanta. Disociační konstanta, součin rozpustnosti a iontový součin vody jsou zvláštní případy pro disociaci, srážení a autoprotolýzu vody."
+    ],
+    "memory": "Každá rovnováha má svou rovnovážnou konstantu K."
+  },
+  {
+    "id": 206,
+    "subject": "Chemie",
+    "category": "Chemie · 2.3 Oxidační číslo; oxidace a redukce",
+    "bookRef": "UK · Chemie · 2.3 Oxidační číslo; oxidace a redukce · str. 79, otázka 1",
+    "sourcePages": "79",
+    "sourceItem": "str. 79, otázka 1",
+    "question": "Jaké účinky má sulfan (H₂S) v oxidačně-redukčních reakcích?",
+    "options": [
+      "oxidační",
+      "redukční",
+      "neutralizační",
+      "inhibiční"
+    ],
+    "answer": 1,
+    "title": "redukční",
+    "paragraphs": [
+      "Síra má v H₂S nejnižší možné oxidační číslo −II. Může se tedy jen oxidovat a sama působí jako redukční činidlo."
+    ],
+    "memory": "Nejnižší oxidační číslo = jen redukční činidlo."
+  },
+  {
+    "id": 207,
+    "subject": "Chemie",
+    "category": "Chemie · 2.3 Oxidační číslo; oxidace a redukce",
+    "bookRef": "UK · Chemie · 2.3 Oxidační číslo; oxidace a redukce · str. 79, otázka 2",
+    "sourcePages": "79",
+    "sourceItem": "str. 79, otázka 2",
+    "question": "Jakým činidlem může být oxid siřičitý SO₂?",
+    "options": [
+      "pouze redukčním",
+      "pouze oxidačním",
+      "oxidačním i redukčním",
+      "zásadotvorným"
+    ],
+    "answer": 2,
+    "title": "oxidačním i redukčním",
+    "paragraphs": [
+      "Síra má v SO₂ oxidační číslo IV, tedy mezi −II a VI. Může se oxidovat (na SO₃ nebo sírany) i redukovat (například na síru při reakci s H₂S)."
+    ],
+    "memory": "Střední oxidační číslo = obojí."
+  },
+  {
+    "id": 208,
+    "subject": "Chemie",
+    "category": "Chemie · 2.3 Oxidační číslo; oxidace a redukce",
+    "bookRef": "UK · Chemie · 2.3 Oxidační číslo; oxidace a redukce · str. 79, otázka 3",
+    "sourcePages": "79",
+    "sourceItem": "str. 79, otázka 3",
+    "question": "Které vlastnosti má koncentrovaná kyselina sírová?",
+    "options": [
+      "má silné redukční účinky",
+      "mísí se s vodou jen omezeně",
+      "je slabá a těkavá kyselina",
+      "působí oxidačně a dehydratačně"
+    ],
+    "answer": 3,
+    "title": "působí oxidačně a dehydratačně",
+    "paragraphs": [
+      "Koncentrovaná H₂SO₄ oxiduje například měď a odnímá vodu organickým látkám, třeba cukr zuhelnatí. S vodou se mísí neomezeně za silného vývoje tepla."
+    ],
+    "memory": "Koncentrovaná H₂SO₄ oxiduje a odvodňuje."
+  },
+  {
+    "id": 209,
+    "subject": "Chemie",
+    "category": "Chemie · 2.3 Oxidační číslo; oxidace a redukce",
+    "bookRef": "UK · Chemie · 2.3 Oxidační číslo; oxidace a redukce · str. 79, otázka 4",
+    "sourcePages": "79",
+    "sourceItem": "str. 79, otázka 4",
+    "question": "Jaké účinky má většinou oxid uhelnatý?",
+    "options": [
+      "redukční",
+      "oxidační",
+      "hydrolytické",
+      "podle pH střídavě oxidační a redukční"
+    ],
+    "answer": 0,
+    "title": "redukční",
+    "paragraphs": [
+      "Uhlík v CO má oxidační číslo II a snadno se oxiduje na CO₂ (IV). Proto CO slouží jako redukční činidlo, například ve vysoké peci redukuje oxidy železa."
+    ],
+    "memory": "CO bere kyslík: redukuje rudy."
+  },
+  {
+    "id": 210,
+    "subject": "Chemie",
+    "category": "Chemie · 2.3 Oxidační číslo; oxidace a redukce",
+    "bookRef": "UK · Chemie · 2.3 Oxidační číslo; oxidace a redukce · str. 79, otázka 5",
+    "sourcePages": "79",
+    "sourceItem": "str. 79, otázka 5",
+    "question": "Co nepatří k charakteristikám oxidace?",
+    "options": [
+      "dehydrogenace (odnětí vodíku)",
+      "hydrogenace (přijetí vodíku)",
+      "slučování s kyslíkem",
+      "ztráta elektronů"
+    ],
+    "answer": 1,
+    "title": "hydrogenace (přijetí vodíku)",
+    "paragraphs": [
+      "Oxidací je ztráta elektronů, slučování s kyslíkem i odnětí vodíku. Hydrogenace, tedy adice vodíku, je naopak redukcí."
+    ],
+    "memory": "Hydrogenace = redukce, dehydrogenace = oxidace."
+  },
+  {
+    "id": 211,
+    "subject": "Chemie",
+    "category": "Chemie · 2.4 Elektrolýza",
+    "bookRef": "UK · Chemie · 2.4 Elektrolýza · str. 79, otázka 6",
+    "sourcePages": "79",
+    "sourceItem": "str. 79, otázka 6",
+    "question": "Co se vylučuje na katodě při elektrolýze taveniny KCl?",
+    "options": [
+      "chlor",
+      "kyslík",
+      "draslík",
+      "vodík"
+    ],
+    "answer": 2,
+    "title": "draslík",
+    "paragraphs": [
+      "V tavenině jsou jen ionty K⁺ a Cl⁻. Kationty K⁺ se na katodě redukují na kovový draslík, na anodě vzniká chlor."
+    ],
+    "memory": "Tavenina: na katodě kov."
+  },
+  {
+    "id": 212,
+    "subject": "Chemie",
+    "category": "Chemie · 2.4 Elektrolýza",
+    "bookRef": "UK · Chemie · 2.4 Elektrolýza · str. 80, otázka 4",
+    "sourcePages": "80",
+    "sourceItem": "str. 80, otázka 4",
+    "question": "Které látky vznikají při elektrolýze vodného roztoku KCl?",
+    "options": [
+      "na katodě draslík, na anodě chlor",
+      "na katodě chlor, na anodě draslík",
+      "na katodě chlor, na anodě vodík",
+      "na katodě vodík (v roztoku vzniká KOH), na anodě chlor"
+    ],
+    "answer": 3,
+    "title": "na katodě vodík (v roztoku vzniká KOH), na anodě chlor",
+    "paragraphs": [
+      "Ve vodném roztoku se na katodě snáz redukuje voda než K⁺, vzniká vodík a hydroxidové ionty (s K⁺ tvoří KOH). Na anodě se oxidují Cl⁻ na chlor. Draslík vzniká jen z taveniny."
+    ],
+    "memory": "Vodný roztok soli alkalického kovu: H₂ na katodě."
+  },
+  {
+    "id": 213,
+    "subject": "Chemie",
+    "category": "Chemie · 2.4 Elektrolýza",
+    "bookRef": "UK · Chemie · 2.4 Elektrolýza · str. 81, otázka 3",
+    "sourcePages": "81",
+    "sourceItem": "str. 81, otázka 3",
+    "question": "Jaký děj probíhá při elektrolýze na katodě?",
+    "options": [
+      "redukce",
+      "oxidace",
+      "neutralizace",
+      "disociace"
+    ],
+    "answer": 0,
+    "title": "redukce",
+    "paragraphs": [
+      "Katoda je záporná elektroda, která dodává elektrony. Částice je na ní přijímají a redukují se. Na kladné anodě probíhá oxidace."
+    ],
+    "memory": "Katoda = redukce, anoda = oxidace."
+  },
+  {
+    "id": 214,
+    "subject": "Chemie",
+    "category": "Chemie · 2.5 Úprava chemických rovnic",
+    "bookRef": "UK · Chemie · 2.5 Úprava chemických rovnic · str. 81, otázka 4",
+    "sourcePages": "81",
+    "sourceItem": "str. 81, otázka 4",
+    "question": "Jaké jsou koeficienty rovnice a Fe₂(SO₄)₃ + b NaOH → x Fe(OH)₃ + y Na₂SO₄?",
+    "options": [
+      "a = 1, b = 3, x = 2, y = 3",
+      "a = 1, b = 6, x = 2, y = 3",
+      "a = 1, b = 2, x = 1, y = 3",
+      "a = 2, b = 6, x = 2, y = 3"
+    ],
+    "answer": 1,
+    "title": "a = 1, b = 6, x = 2, y = 3",
+    "paragraphs": [
+      "Jeden Fe₂(SO₄)₃ dává 2 Fe(OH)₃ a 3 Na₂SO₄. Na to je potřeba 6 Na⁺ i 6 OH⁻, tedy 6 NaOH."
+    ],
+    "memory": "Nejdřív kovy, pak anionty, nakonec kontrola."
+  },
+  {
+    "id": 215,
+    "subject": "Chemie",
+    "category": "Chemie · 2.5 Úprava chemických rovnic",
+    "bookRef": "UK · Chemie · 2.5 Úprava chemických rovnic · str. 82, otázka 1",
+    "sourcePages": "82",
+    "sourceItem": "str. 82, otázka 1",
+    "question": "Jaké jsou koeficienty rovnice a Cl₂ + b NaOH → x NaClO₃ + y NaCl + z H₂O?",
+    "options": [
+      "a = 1, b = 1, x = 1, y = 1, z = 1",
+      "a = 4, b = 5, x = 3, y = 2, z = 2",
+      "a = 3, b = 6, x = 1, y = 5, z = 3",
+      "a = 2, b = 2, x = 1, y = 1, z = 2"
+    ],
+    "answer": 2,
+    "title": "a = 3, b = 6, x = 1, y = 5, z = 3",
+    "paragraphs": [
+      "Jde o disproporcionaci: jeden atom Cl se oxiduje z 0 na V (ztráta 5 e⁻) a pět atomů se redukuje na −I. Tak vznikne 1 NaClO₃ a 5 NaCl ze 3 Cl₂. Na sodík je potřeba 6 NaOH a vodík dává 3 H₂O."
+    ],
+    "memory": "Disproporcionace: 1 nahoru o 5, 5 dolů o 1."
+  },
+  {
+    "id": 216,
+    "subject": "Chemie",
+    "category": "Chemie · 2.5 Úprava chemických rovnic",
+    "bookRef": "UK · Chemie · 2.5 Úprava chemických rovnic · str. 82, otázka 2",
+    "sourcePages": "82",
+    "sourceItem": "str. 82, otázka 2",
+    "question": "Jaké jsou koeficienty rovnice a HBr + b H₂SO₄ → x Br₂ + y H₂S + z H₂O?",
+    "options": [
+      "a = 6, b = 2, x = 3, y = 2, z = 2",
+      "a = 4, b = 1, x = 2, y = 1, z = 1",
+      "a = 2, b = 2, x = 1, y = 1, z = 2",
+      "a = 8, b = 1, x = 4, y = 1, z = 4"
+    ],
+    "answer": 3,
+    "title": "a = 8, b = 1, x = 4, y = 1, z = 4",
+    "paragraphs": [
+      "Síra přijme 8 elektronů (z VI na −II), každý bromid odevzdá jeden. Na 1 H₂SO₄ tedy připadá 8 HBr, vznikají 4 Br₂, 1 H₂S a z vodíku a kyslíku 4 H₂O."
+    ],
+    "memory": "Bilance elektronů: 8 Br⁻ na 1 S(VI)."
+  },
+  {
+    "id": 217,
+    "subject": "Chemie",
+    "category": "Chemie · 2.5 Úprava chemických rovnic",
+    "bookRef": "UK · Chemie · 2.5 Úprava chemických rovnic · str. 82, otázka 3",
+    "sourcePages": "82",
+    "sourceItem": "str. 82, otázka 3",
+    "question": "Jaké jsou koeficienty rovnice a P + b HNO₃ + c H₂O → x H₃PO₄ + y NO?",
+    "options": [
+      "a = 3, b = 5, c = 2, x = 3, y = 5",
+      "a = 5, b = 1, c = 2, x = 5, y = 1",
+      "a = 4, b = 2, c = 1, x = 4, y = 2",
+      "a = 1, b = 3, c = 2, x = 1, y = 3"
+    ],
+    "answer": 0,
+    "title": "a = 3, b = 5, c = 2, x = 3, y = 5",
+    "paragraphs": [
+      "Fosfor odevzdá 5 e⁻ (0 → V) a dusík přijme 3 e⁻ (V → II). Nejmenší společný násobek je 15, tedy 3 P a 5 HNO₃. Vodík a kyslík vyrovnají 2 H₂O."
+    ],
+    "memory": "3 P × 5 e⁻ = 5 N × 3 e⁻."
+  },
+  {
+    "id": 218,
+    "subject": "Chemie",
+    "category": "Chemie · 2.5 Úprava chemických rovnic",
+    "bookRef": "UK · Chemie · 2.5 Úprava chemických rovnic · str. 83, otázka 1",
+    "sourcePages": "83",
+    "sourceItem": "str. 83, otázka 1",
+    "question": "Jaké jsou koeficienty rovnice a Ca(OH)₂ + b H₃PO₄ → x Ca₃(PO₄)₂ + y H₂O?",
+    "options": [
+      "a = 3, b = 2, x = 1, y = 3",
+      "a = 3, b = 2, x = 1, y = 6",
+      "a = 2, b = 3, x = 1, y = 6",
+      "a = 1, b = 2, x = 1, y = 2"
+    ],
+    "answer": 1,
+    "title": "a = 3, b = 2, x = 1, y = 6",
+    "paragraphs": [
+      "Ca₃(PO₄)₂ vyžaduje 3 Ca(OH)₂ a 2 H₃PO₄. Šest OH⁻ se šesti H⁺ dá 6 H₂O."
+    ],
+    "memory": "Neutralizace: počet H₂O = počet H⁺ = počet OH⁻."
+  },
+  {
+    "id": 219,
+    "subject": "Chemie",
+    "category": "Chemie · 2.5 Úprava chemických rovnic",
+    "bookRef": "UK · Chemie · 2.5 Úprava chemických rovnic · str. 83, otázka 3",
+    "sourcePages": "83",
+    "sourceItem": "str. 83, otázka 3",
+    "question": "Jaký je koeficient kyslíku v rovnici spalování propanu a C₃H₈ + b O₂ → x CO₂ + y H₂O?",
+    "options": [
+      "b = 3",
+      "b = 7",
+      "b = 5",
+      "b = 10"
+    ],
+    "answer": 2,
+    "title": "b = 5",
+    "paragraphs": [
+      "C₃H₈ + 5 O₂ → 3 CO₂ + 4 H₂O. Na pravé straně je 3 · 2 + 4 = 10 atomů kyslíku, tedy 5 molekul O₂."
+    ],
+    "memory": "Uhlík, vodík, nakonec kyslík."
+  },
+  {
+    "id": 220,
+    "subject": "Chemie",
+    "category": "Chemie · 3.1 Výpočty z chemických vzorců",
+    "bookRef": "UK · Chemie · 3.1 Výpočty z chemických vzorců · str. 84, otázka 1",
+    "sourcePages": "84",
+    "sourceItem": "str. 84, otázka 1",
+    "question": "Jaká hmotnost kyslíku připadá v uhličitanu sodném na 50 g sodíku? Ar(Na) = 23, Ar(O) = 16",
+    "options": [
+      "34,78 g",
+      "47,91 g",
+      "104,34 g",
+      "52,17 g"
+    ],
+    "answer": 3,
+    "title": "52,17 g",
+    "paragraphs": [
+      "V Na₂CO₃ připadají na 2 Na 3 O, tedy na 46 g sodíku 48 g kyslíku. Pro 50 g sodíku: 50 · 48/46 = 52,17 g."
+    ],
+    "memory": "Poměr hmotností prvků podle vzorce."
+  },
+  {
+    "id": 221,
+    "subject": "Chemie",
+    "category": "Chemie · 3.1 Výpočty z chemických vzorců",
+    "bookRef": "UK · Chemie · 3.1 Výpočty z chemických vzorců · str. 85, otázka 3",
+    "sourcePages": "85",
+    "sourceItem": "str. 85, otázka 3",
+    "question": "Kolik gramů dusíku obsahuje 100 g síranu amonného? Ar(N) = 14, Ar(S) = 32, Ar(O) = 16",
+    "options": [
+      "21,2 g",
+      "14,3 g",
+      "2,12 g",
+      "12,4 g"
+    ],
+    "answer": 0,
+    "title": "21,2 g",
+    "paragraphs": [
+      "M((NH₄)₂SO₄) = 132 g/mol a obsahuje 28 g dusíku. Hmotnostní zlomek dusíku je 28/132 = 0,212, ve 100 g je tedy 21,2 g."
+    ],
+    "memory": "w(prvku) = počet atomů · Ar / Mr."
+  },
+  {
+    "id": 222,
+    "subject": "Chemie",
+    "category": "Chemie · 3.1 Výpočty z chemických vzorců",
+    "bookRef": "UK · Chemie · 3.1 Výpočty z chemických vzorců · str. 85, otázka 5",
+    "sourcePages": "85",
+    "sourceItem": "str. 85, otázka 5",
+    "question": "Kolik gramů krystalové vody obsahuje 15 g modré skalice CuSO₄ · 5 H₂O? Ar(Cu) = 64, Ar(S) = 32, Ar(O) = 16",
+    "options": [
+      "6,7 g",
+      "asi 5,4 g",
+      "8,38 g",
+      "5,01 g"
+    ],
+    "answer": 1,
+    "title": "asi 5,4 g",
+    "paragraphs": [
+      "M(CuSO₄ · 5 H₂O) = 160 + 90 = 250 g/mol, voda tvoří 90/250 = 36 %. V 15 g je 15 · 0,36 = 5,4 g vody."
+    ],
+    "memory": "Krystalová voda jako podíl molární hmotnosti hydrátu."
+  },
+  {
+    "id": 223,
+    "subject": "Chemie",
+    "category": "Chemie · 3.1 Výpočty z chemických vzorců",
+    "bookRef": "UK · Chemie · 3.1 Výpočty z chemických vzorců · str. 86, otázka 3",
+    "sourcePages": "86",
+    "sourceItem": "str. 86, otázka 3",
+    "question": "Která sloučenina má nejvyšší procentový obsah dusíku?",
+    "options": [
+      "dusitan sodný",
+      "dusičnan sodný",
+      "chlorid amonný",
+      "síran amonný"
+    ],
+    "answer": 2,
+    "title": "chlorid amonný",
+    "paragraphs": [
+      "NH₄Cl: 14/53,5 = 26 %, (NH₄)₂SO₄: 28/132 = 21 %, NaNO₂: 14/69 = 20 %, NaNO₃: 14/85 = 16 %."
+    ],
+    "memory": "Malá molekula s dusíkem = vysoký podíl N."
+  },
+  {
+    "id": 224,
+    "subject": "Chemie",
+    "category": "Chemie · 3.2 Látkové množství a koncentrace",
+    "bookRef": "UK · Chemie · 3.2 Látkové množství a koncentrace · str. 87, otázka 2",
+    "sourcePages": "87",
+    "sourceItem": "str. 87, otázka 2",
+    "question": "Která veličina má jednotku kg·m⁻³?",
+    "options": [
+      "látková koncentrace",
+      "látkové množství",
+      "molární hmotnost",
+      "hustota"
+    ],
+    "answer": 3,
+    "title": "hustota",
+    "paragraphs": [
+      "Hustota je hmotnost dělená objemem. Látková koncentrace má jednotku mol·m⁻³, látkové množství mol a molární hmotnost kg·mol⁻¹."
+    ],
+    "memory": "kg na m³ = hustota."
+  },
+  {
+    "id": 225,
+    "subject": "Chemie",
+    "category": "Chemie · 3.2 Látkové množství a koncentrace",
+    "bookRef": "UK · Chemie · 3.2 Látkové množství a koncentrace · str. 88, otázka 1",
+    "sourcePages": "88",
+    "sourceItem": "str. 88, otázka 1",
+    "question": "Jak je definována atomová hmotnostní konstanta mᵤ?",
+    "options": [
+      "jako 1/12 hmotnosti atomu nuklidu ¹²C",
+      "jako 1/16 hmotnosti atomu nuklidu ¹⁶O",
+      "jako hmotnost atomu nuklidu ¹H",
+      "jako 1/14 hmotnosti atomu nuklidu ¹⁴N"
+    ],
+    "answer": 0,
+    "title": "jako 1/12 hmotnosti atomu nuklidu ¹²C",
+    "paragraphs": [
+      "Atomová hmotnostní konstanta je 1/12 hmotnosti atomu uhlíku ¹²C, přibližně 1,66 · 10⁻²⁷ kg. Relativní atomové hmotnosti se k ní vztahují."
+    ],
+    "memory": "mᵤ = 1/12 uhlíku 12."
+  },
+  {
+    "id": 226,
+    "subject": "Chemie",
+    "category": "Chemie · 3.2 Látkové množství a koncentrace",
+    "bookRef": "UK · Chemie · 3.2 Látkové množství a koncentrace · str. 88, otázka 2",
+    "sourcePages": "88",
+    "sourceItem": "str. 88, otázka 2",
+    "question": "Co vyjadřuje Avogadrova konstanta?",
+    "options": [
+      "počet částic v 1 gramu látky",
+      "počet částic v 1 molu látky",
+      "počet protonů v jádře",
+      "objem 1 molu plynu"
+    ],
+    "answer": 1,
+    "title": "počet částic v 1 molu látky",
+    "paragraphs": [
+      "N_A ≈ 6,022 · 10²³ mol⁻¹ udává počet částic v jednom molu. Objem 1 molu plynu je molární objem (22,4 dm³ za normálních podmínek)."
+    ],
+    "memory": "N_A = částice na mol."
+  },
+  {
+    "id": 227,
+    "subject": "Chemie",
+    "category": "Chemie · 3.2 Látkové množství a koncentrace",
+    "bookRef": "UK · Chemie · 3.2 Látkové množství a koncentrace · str. 89, otázka 4",
+    "sourcePages": "89",
+    "sourceItem": "str. 89, otázka 4",
+    "question": "Jakému látkovému množství odpovídá 10 g železa a kolik atomů obsahuje? Ar(Fe) = 56",
+    "options": [
+      "0,356 mol; 2,14 · 10²³ atomů",
+      "0,178 mol; 1,07 · 10⁻²³ atomů",
+      "0,178 mol; 1,07 · 10²³ atomů",
+      "0,356 mol; 2,14 · 10⁻²³ atomů"
+    ],
+    "answer": 2,
+    "title": "0,178 mol; 1,07 · 10²³ atomů",
+    "paragraphs": [
+      "n = m/M = 10/56 = 0,178 mol. N = n · N_A = 0,178 · 6,02 · 10²³ = 1,07 · 10²³ atomů. Záporný exponent by znamenal méně než jeden atom."
+    ],
+    "memory": "n = m/M, N = n · N_A."
+  },
+  {
+    "id": 228,
+    "subject": "Chemie",
+    "category": "Chemie · 3.2 Látkové množství a koncentrace",
+    "bookRef": "UK · Chemie · 3.2 Látkové množství a koncentrace · str. 92, otázka 2",
+    "sourcePages": "92",
+    "sourceItem": "str. 92, otázka 2",
+    "question": "Kolik atomů je obsaženo v 18 g vody?",
+    "options": [
+      "jedna Avogadrova konstanta",
+      "1,5násobek Avogadrovy konstanty",
+      "nelze vypočítat",
+      "trojnásobek Avogadrovy konstanty"
+    ],
+    "answer": 3,
+    "title": "trojnásobek Avogadrovy konstanty",
+    "paragraphs": [
+      "18 g vody je 1 mol molekul H₂O. Každá molekula má 3 atomy (2 H a 1 O), atomů je tedy 3 · N_A."
+    ],
+    "memory": "Molekuly × počet atomů v molekule."
+  },
+  {
+    "id": 229,
+    "subject": "Chemie",
+    "category": "Chemie · 3.2 Látkové množství a koncentrace",
+    "bookRef": "UK · Chemie · 3.2 Látkové množství a koncentrace · str. 92, otázka 5",
+    "sourcePages": "92",
+    "sourceItem": "str. 92, otázka 5",
+    "question": "Jaká je látková koncentrace KCl, obsahuje-li 0,400 dm³ roztoku 12 g KCl? Ar(K) = 39, Ar(Cl) = 35",
+    "options": [
+      "0,405 mol·dm⁻³",
+      "4,05 mol·dm⁻³",
+      "1,61 mol·dm⁻³",
+      "0,161 mol·dm⁻³"
+    ],
+    "answer": 0,
+    "title": "0,405 mol·dm⁻³",
+    "paragraphs": [
+      "M(KCl) = 74 g/mol, n = 12/74 = 0,162 mol. c = 0,162/0,400 = 0,405 mol·dm⁻³."
+    ],
+    "memory": "c = m / (M · V)."
+  },
+  {
+    "id": 230,
+    "subject": "Chemie",
+    "category": "Chemie · 3.2 Látkové množství a koncentrace",
+    "bookRef": "UK · Chemie · 3.2 Látkové množství a koncentrace · str. 95, otázka 3",
+    "sourcePages": "95",
+    "sourceItem": "str. 95, otázka 3",
+    "question": "Kolik gramů NaCl obsahuje 200 cm³ roztoku o koncentraci 0,171 mol·dm⁻³? Ar(Na) = 23, Ar(Cl) = 35",
+    "options": [
+      "0,2 g",
+      "2 g",
+      "0,4 g",
+      "4 g"
+    ],
+    "answer": 1,
+    "title": "2 g",
+    "paragraphs": [
+      "n = 0,171 · 0,200 = 0,0342 mol. m = 0,0342 · 58 = 1,98 g, tedy asi 2 g."
+    ],
+    "memory": "m = c · V · M."
+  },
+  {
+    "id": 231,
+    "subject": "Chemie",
+    "category": "Chemie · 3.2 Látkové množství a koncentrace",
+    "bookRef": "UK · Chemie · 3.2 Látkové množství a koncentrace · str. 96, otázka 3",
+    "sourcePages": "96",
+    "sourceItem": "str. 96, otázka 3",
+    "question": "Jaký je přibližný počet molekul v 88 g oxidu dusného N₂O? Ar(N) = 14, Ar(O) = 16",
+    "options": [
+      "6 · 10²³",
+      "1,8 · 10²⁴",
+      "1,2 · 10²⁴",
+      "2,4 · 10²⁴"
+    ],
+    "answer": 2,
+    "title": "1,2 · 10²⁴",
+    "paragraphs": [
+      "M(N₂O) = 44 g/mol, 88 g jsou tedy 2 mol. 2 · 6,02 · 10²³ = 1,2 · 10²⁴ molekul."
+    ],
+    "memory": "88/44 = 2 mol."
+  },
+  {
+    "id": 232,
+    "subject": "Chemie",
+    "category": "Chemie · 3.2 Látkové množství a koncentrace",
+    "bookRef": "UK · Chemie · 3.2 Látkové množství a koncentrace · str. 96, otázka 4",
+    "sourcePages": "96",
+    "sourceItem": "str. 96, otázka 4",
+    "question": "Kolik molů kyslíku je nejméně potřeba k úplné oxidaci 5 mol SO₂ na SO₃ (2 SO₂ + O₂ → 2 SO₃)?",
+    "options": [
+      "1 mol",
+      "5 mol",
+      "10 mol",
+      "2,5 mol"
+    ],
+    "answer": 3,
+    "title": "2,5 mol",
+    "paragraphs": [
+      "Podle rovnice připadá na 2 mol SO₂ 1 mol O₂. Na 5 mol SO₂ je tedy potřeba 5/2 = 2,5 mol O₂."
+    ],
+    "memory": "Poměr koeficientů = poměr molů."
+  },
+  {
+    "id": 233,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 367 · str. 84",
+    "sourcePages": "84",
+    "sourceItem": "367",
+    "question": "Čím je podmíněna matroklinní dědičnost, kdy se znak dědí jen po mateřské linii?",
+    "options": [
+      "lokalizací genů v mitochondriální DNA",
+      "lokalizací genů na chromozomu X",
+      "lokalizací genů na chromozomu Y",
+      "vlivem organismu matky na plod během těhotenství"
+    ],
+    "answer": 0,
+    "title": "lokalizací genů v mitochondriální DNA",
+    "paragraphs": [
+      "Mitochondrie zygota dostává prakticky jen z vajíčka. Geny mitochondriální DNA proto předávají jen ženy, a to všem svým dětem. Vliv matky během těhotenství není dědičnost."
+    ],
+    "memory": "mtDNA = jen od matky."
+  },
+  {
+    "id": 234,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 369 · str. 84",
+    "sourcePages": "84",
+    "sourceItem": "369",
+    "question": "Jak se nejčastěji dědí civilizační choroby?",
+    "options": [
+      "monogenně, bez vlivu prostředí",
+      "polygenně, s výrazným vlivem vnějšího prostředí",
+      "nejsou dědičné, jsou vyvolány jen prostředím",
+      "multifaktoriálně, ale prostředí se neuplatňuje"
+    ],
+    "answer": 1,
+    "title": "polygenně, s výrazným vlivem vnějšího prostředí",
+    "paragraphs": [
+      "Civilizační choroby, jako je vysoký krevní tlak, cukrovka 2. typu nebo ateroskleróza, vznikají souhrou mnoha genů s malým účinkem a vlivů prostředí, například stravy a pohybu. Multifaktoriální dědičnost zahrnuje právě vliv prostředí."
+    ],
+    "memory": "Civilizační choroby = geny + životní styl."
+  },
+  {
+    "id": 235,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 370 · str. 84",
+    "sourcePages": "84",
+    "sourceItem": "370",
+    "question": "Co rozumíme zpětným křížením (backcross)?",
+    "options": [
+      "křížení hybridů F1 s heterozygotem z generace P",
+      "vzájemné křížení heterozygotů F1",
+      "křížení hybridů F1 s recesivním homozygotem z generace P",
+      "křížení heterozygotů F1 s heterozygoty F2"
+    ],
+    "answer": 2,
+    "title": "křížení hybridů F1 s recesivním homozygotem z generace P",
+    "paragraphs": [
+      "Při zpětném křížení se hybrid (Aa) kříží s recesivně homozygotním rodičem (aa). Poměr fenotypů potomstva přímo ukazuje gamety hybrida."
+    ],
+    "memory": "Backcross: F1 × aa."
+  },
+  {
+    "id": 236,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 371 · str. 85",
+    "sourcePages": "85",
+    "sourceItem": "371",
+    "question": "Jaký koeficient příbuznosti mají rodič a dítě nebo dva vlastní sourozenci?",
+    "options": [
+      "1/4",
+      "1/8",
+      "1",
+      "1/2"
+    ],
+    "answer": 3,
+    "title": "1/2",
+    "paragraphs": [
+      "Dítě má polovinu genů od každého rodiče a sourozenci sdílejí v průměru polovinu genů. Koeficient 1/4 platí například pro prarodiče a vnuka, 1/8 pro bratrance."
+    ],
+    "memory": "Příbuzní 1. stupně sdílejí polovinu genů."
+  },
+  {
+    "id": 237,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 375 · str. 85",
+    "sourcePages": "85",
+    "sourceItem": "375",
+    "question": "Co znamená pleiotropní účinek genu?",
+    "options": [
+      "jeden gen ovlivňuje rozvoj více znaků",
+      "znak je podmíněn samostatným účinkem různých genů",
+      "znak se projevuje různým stupněm vyjádření",
+      "projev znaku může přeskakovat generace"
+    ],
+    "answer": 0,
+    "title": "jeden gen ovlivňuje rozvoj více znaků",
+    "paragraphs": [
+      "Pleiotropní gen má více fenotypových projevů, příkladem je Marfanův syndrom, který postihuje kostru, oči i cévy. Různý stupeň vyjádření je expresivita a přeskakování generací souvisí s neúplnou penetrancí."
+    ],
+    "memory": "Pleiotropie: jeden gen, více znaků."
+  },
+  {
+    "id": 238,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 376 · str. 85",
+    "sourcePages": "85",
+    "sourceItem": "376",
+    "question": "Který z uvedených znaků není u člověka vázaný na chromozom X?",
+    "options": [
+      "hemofilie A a B",
+      "krevní skupina Rh",
+      "barvoslepost",
+      "syndrom fragilního chromozomu X"
+    ],
+    "answer": 1,
+    "title": "krevní skupina Rh",
+    "paragraphs": [
+      "Geny pro hemofilii A a B, daltonismus i syndrom fragilního X leží na chromozomu X. Krevní skupina Rh je určena geny na autozomu (chromozomu 1)."
+    ],
+    "memory": "Rh = autozom, hemofilie a daltonismus = X."
+  },
+  {
+    "id": 239,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 383 · str. 87",
+    "sourcePages": "87",
+    "sourceItem": "383",
+    "question": "Co platí pro jednovaječná dvojčata?",
+    "options": [
+      "jsou většinou různého pohlaví",
+      "rodí se častěji než dvojvaječná dvojčata",
+      "mají v naprosté většině případů stejný genotyp",
+      "jsou si podobná méně než ostatní sourozenci"
+    ],
+    "answer": 2,
+    "title": "mají v naprosté většině případů stejný genotyp",
+    "paragraphs": [
+      "Jednovaječná dvojčata vznikají rozdělením jedné zygoty, proto mají stejné geny i pohlaví. Rodí se méně často než dvojvaječná a jsou si podobnější než ostatní sourozenci."
+    ],
+    "memory": "Jedno vajíčko = stejné geny."
+  },
+  {
+    "id": 240,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 391 · str. 89",
+    "sourcePages": "89",
+    "sourceItem": "391",
+    "question": "V panmiktické populaci v Hardyho–Weinbergově rovnováze je frekvence dominantních homozygotů 0,09. Jaká je frekvence heterozygotů?",
+    "options": [
+      "0,30",
+      "0,82",
+      "0,1638",
+      "0,42"
+    ],
+    "answer": 3,
+    "title": "0,42",
+    "paragraphs": [
+      "p² = 0,09, takže p = 0,3 a q = 0,7. Frekvence heterozygotů je 2pq = 2 · 0,3 · 0,7 = 0,42."
+    ],
+    "memory": "Z p² odmocnina, pak 2pq."
+  },
+  {
+    "id": 241,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 392 · str. 89",
+    "sourcePages": "89",
+    "sourceItem": "392",
+    "question": "Při křížení AaBb × AaBb vzniklo potomstvo jen s fenotypy A,B a a,b v poměru 3 : 1. Jak to vysvětlíte?",
+    "options": [
+      "geny A a B leží na stejném chromozomu v těsné vazbě",
+      "mezi geny je komplementarita",
+      "geny A a B jsou pleiotropní",
+      "mezi geny je recesivní epistaze"
+    ],
+    "answer": 0,
+    "title": "geny A a B leží na stejném chromozomu v těsné vazbě",
+    "paragraphs": [
+      "Když alely A a B leží na jednom chromozomu velmi blízko a crossing-over mezi nimi nenastává, dědí se jako jeden gen. Vznikají jen gamety AB a ab a poměr je 3 : 1 jako u monohybrida."
+    ],
+    "memory": "Úplná vazba = dihybrid se chová jako monohybrid."
+  },
+  {
+    "id": 242,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 399 · str. 90",
+    "sourcePages": "90",
+    "sourceItem": "399",
+    "question": "Jakého pohlaví z hlediska gamet jsou samice člověka a octomilky?",
+    "options": [
+      "heterogametického",
+      "homogametického",
+      "heterozygotního",
+      "autozomového"
+    ],
+    "answer": 1,
+    "title": "homogametického",
+    "paragraphs": [
+      "Samice mají dva chromozomy X a všechna vajíčka nesou X, jsou tedy homogametické. Samci XY tvoří dva typy spermií a jsou heterogametičtí."
+    ],
+    "memory": "XX = homogametní, XY = heterogametní."
+  },
+  {
+    "id": 243,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 402 · str. 91",
+    "sourcePages": "91",
+    "sourceItem": "402",
+    "question": "Co platí pro výběrová manželství (volbu partnera podle určitého znaku, např. výšky)?",
+    "options": [
+      "mění frekvenci alel v genofondu populace",
+      "jsou totéž co panmiktický výběr partnera",
+      "mění frekvenci genotypů v populaci, ne frekvenci alel",
+      "nemají žádný vliv na genetickou strukturu populace"
+    ],
+    "answer": 2,
+    "title": "mění frekvenci genotypů v populaci, ne frekvenci alel",
+    "paragraphs": [
+      "Výběrové párování zvyšuje podíl homozygotů pro sledovaný znak, a tím mění zastoupení genotypů. Samo o sobě ale alely nepřidává ani neodebírá, takže jejich frekvence zůstávají stejné."
+    ],
+    "memory": "Výběr partnera přeskupí genotypy, alely zůstanou."
+  },
+  {
+    "id": 244,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 403 · str. 91",
+    "sourcePages": "91",
+    "sourceItem": "403",
+    "question": "Jak se dědí znaky s holandrickou dědičností?",
+    "options": [
+      "z matek na všechny děti",
+      "z otců na dcery",
+      "jen u holandských rodin",
+      "z otců na syny, protože jejich geny leží na chromozomu Y"
+    ],
+    "answer": 3,
+    "title": "z otců na syny, protože jejich geny leží na chromozomu Y",
+    "paragraphs": [
+      "Holandrické geny leží na chromozomu Y mimo pseudoautozomovou oblast. Chromozom Y předává jen otec synům, proto se znak projevuje jen u mužů."
+    ],
+    "memory": "Holandrická = Y = otec → syn."
+  },
+  {
+    "id": 245,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 405 · str. 91",
+    "sourcePages": "91",
+    "sourceItem": "405",
+    "question": "Jaký karyotyp má většina pacientů s Klinefelterovým syndromem?",
+    "options": [
+      "47,XXY",
+      "45,X",
+      "47,XYY",
+      "47,XXX"
+    ],
+    "answer": 0,
+    "title": "47,XXY",
+    "paragraphs": [
+      "Klinefelterův syndrom má muž s nadpočetným chromozomem X. 45,X je Turnerův syndrom u žen."
+    ],
+    "memory": "Klinefelter = muž XXY."
+  },
+  {
+    "id": 246,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 406 · str. 92",
+    "sourcePages": "92",
+    "sourceItem": "406",
+    "question": "Co platí pro chromozomové určení pohlaví ptačího typu (typ Abraxas)?",
+    "options": [
+      "je typické pro všechny savce",
+      "samice jsou heterogametické a samci homogametičtí",
+      "samice i samci jsou homogametičtí",
+      "samci jsou heterogametičtí a samice homogametické"
+    ],
+    "answer": 1,
+    "title": "samice jsou heterogametické a samci homogametičtí",
+    "paragraphs": [
+      "U ptáků, motýlů a některých dalších živočichů mají samci dva stejné pohlavní chromozomy a samice dva odlišné. U savců a octomilky je to naopak (typ Drosophila)."
+    ],
+    "memory": "Ptáci: samice heterogametní."
+  },
+  {
+    "id": 247,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 410 · str. 92",
+    "sourcePages": "92",
+    "sourceItem": "410",
+    "question": "Co nepatří mezi Mendelovy zákony?",
+    "options": [
+      "zákon o uniformitě hybridů F1",
+      "zákon o segregaci alel v F2",
+      "zákon přírodního výběru",
+      "zákon o volné kombinovatelnosti alel"
+    ],
+    "answer": 2,
+    "title": "zákon přírodního výběru",
+    "paragraphs": [
+      "Mendelovy zákony popisují uniformitu F1, štěpení v F2 a nezávislou kombinaci alel. Přírodní výběr pochází od Darwina a vazbové skupiny genů popsal Morgan."
+    ],
+    "memory": "Mendel: uniformita, segregace, kombinovatelnost."
+  },
+  {
+    "id": 248,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 411 · str. 93",
+    "sourcePages": "93",
+    "sourceItem": "411",
+    "question": "Co znamená, že heritabilita (dědivost) znaku je rovna 0?",
+    "options": [
+      "veškerá proměnlivost znaku je způsobena geny",
+      "znak se vůbec nevyskytuje",
+      "znak je přesně z poloviny dědičný",
+      "veškerá proměnlivost znaku je způsobena prostředím"
+    ],
+    "answer": 3,
+    "title": "veškerá proměnlivost znaku je způsobena prostředím",
+    "paragraphs": [
+      "Heritabilita h² je podíl genetické složky na celkovém rozptylu fenotypu a nabývá hodnot 0 až 1. Při h² = 0 nevysvětlují rozdíly mezi jedinci geny, ale prostředí."
+    ],
+    "memory": "h² = 0: vše dělá prostředí."
+  },
+  {
+    "id": 249,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 413 · str. 93",
+    "sourcePages": "93",
+    "sourceItem": "413",
+    "question": "Co platí pro autogamickou (samooplozující se) populaci?",
+    "options": [
+      "z generace na generaci přibývá homozygotů",
+      "z generace na generaci přibývá heterozygotů",
+      "rozložení genotypů odpovídá Hardyho–Weinbergovu zákonu",
+      "tvoří ji jedinci s odděleným pohlavím"
+    ],
+    "answer": 0,
+    "title": "z generace na generaci přibývá homozygotů",
+    "paragraphs": [
+      "Při samooplození dává heterozygot polovinu homozygotních potomků, zatímco homozygoti zůstávají homozygoty. Podíl heterozygotů se tak každou generací zmenšuje na polovinu a populace není v H–W rovnováze. U člověka je analogií příbuzenský sňatek."
+    ],
+    "memory": "Samosprášení = přibývá homozygotů."
+  },
+  {
+    "id": 250,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 418 · str. 94",
+    "sourcePages": "94",
+    "sourceItem": "418",
+    "question": "Vzdálenost genů A a B je 10 centimorganů. Co to znamená?",
+    "options": [
+      "geny jsou od sebe vzdáleny 1000 párů bází",
+      "crossing-over mezi lokusy A a B nastává s pravděpodobností 10 %",
+      "geny nejsou ve vazbě",
+      "crossing-over mezi nimi je zcela vyloučen"
+    ],
+    "answer": 1,
+    "title": "crossing-over mezi lokusy A a B nastává s pravděpodobností 10 %",
+    "paragraphs": [
+      "1 cM odpovídá 1 % rekombinovaných gamet. Geny vzdálené 10 cM jsou ve vazbě, ale v 10 % gamet je crossing-over rozdělí. Centimorgan je jednotka genetické mapy, ne počet bází."
+    ],
+    "memory": "1 cM = 1 % rekombinace."
+  }
+]
