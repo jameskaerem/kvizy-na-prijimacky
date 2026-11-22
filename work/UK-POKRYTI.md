@@ -221,6 +221,22 @@ Nepřidané položky:
 - Chemie str. 180–190: 180/1 (varianta 501), 180/4 (varianta 503), 181/2, 181/3, 181/6 (složení laktózy a sacharózy, BIO 286–287), 182/2 (maltóza, v 507), 182/4–182/6 (varianty 510), 183/3–183/5 (varianty 511), 184/3 (glykogen u živočichů, BIO 298, ČB 16), 184/4, 184/6 (celulóza, BIO 265 a 516), 185/1 (Fehlingova reakce, BIO 869), 185/4, 185/5, 186/1 (varianty 518–519), 186/2, 186/5, 186/6 (varianty 520–521), 187/2, 187/4, 187/6, 188/3, 188/5 (varianty 523–527), 189/1 (esenciální kyselina linolová, BIO 322), 189/4, 189/6, 190/2, 190/3 (varianty 530–532), 190/4 (cholesterol jako sterol, ČB 280).
 - Biologie 626–665: 627 (kortikoidy kůry nadledvin, BIO 578), 628, 636 (imunoglobuliny a plazmatické buňky, BIO 107), 629 (menopauza, BIO 798), 630 (vitamin D, ČB 15), 637 (myofibrily, SOM 110), 639, 642 (triceps a biceps, BIO 61–62), 644, 645 (testosteron, ČB 329, SOM 543), 647, 649 (čípky a tyčinky, BIO 664, ČB 638), 648 (sluch, BIO 637), 650 (aldosteron, ČB 355), 652 (neuron, ČB 408), 653 (synapse, BIO 411–414), 655 (ADH, BIO 349), 657 (TSH, BIO 550), 659, 660 (dendrit a axon, SOM 68, BIO 394), 663 (inzulin, BIO 589), 664 (hladká svalovina střeva, BIO 70).
 
+## Dávka ID 551–600 (v2.65.0)
+
+Soubor `uk-551-600.json`, generátor `create_uk_551_600.py`. Chemie ověřena výkladem, biologie porovnána s klíčem. Otázky s více správnými možnostmi přeformulovány na jednu správnou.
+
+| Předmět | Kapitola | Použité úlohy | ID |
+|---|---|---|---|
+| Chemie | 5.4 Vitaminy (str. 191–193) | str. 191/2, 191/3, 191/4, 191/6, 192/1, 192/2, 192/4, 193/1 | 551–558 |
+| Chemie | 5.5 Hormony (str. 193) | str. 193/2 | 559 |
+| Chemie | 5.6 Aminokyseliny (str. 195–205) | str. 195/1, 195/3, 195/5, 195/6, 196/1, 197/3, 197/4, 197/5, 198/1, 198/3, 198/4, 198/6, 199/1, 202/1–202/5, 203/1–203/5, 204/3, 205/2 | 560–584 |
+| Chemie | 5.7 Bílkoviny, peptidy (str. 206) | str. 206/3 | 585 |
+| Biologie | Biologie člověka (str. 146–153) | 670, 671, 672, 674, 676, 677, 679, 680, 684, 688, 696, 703, 705, 710, 712 | 586–600 |
+
+Nepřidané položky:
+- Chemie str. 190–206: 190/5, 190/6, 191/1 (rozpustnost vitaminů, BIO 324), 191/5 (tokoferol, BIO 896), 192/3 (UK 471), 192/5 (varianta 557), 192/6 (fylochinony, varianta 554), 193/3, 193/4, 194/5 (steroidní hormony, UK 532), 193/5, 193/6 (hormony štítné žlázy, BIO 562), 194/1, 194/6 (inzulin a glukagon, BIO 589–592), 194/2 (glukagon, ČB 611), 194/3 (dřeň nadledvin, UK 546), 194/4 (parathormon, BIO 570–571), 195/2, 195/4 (varianty 561), 197/1 (esenciální aminokyseliny, BIO 304), 197/2, 197/6, 202/6, 204/2 (serin, varianta 565), 198/2, 199/3, 204/5 (aromatické aminokyseliny a tyrosin, varianty 569 a 582), 198/5 (varianta 570), 199/2 (varianta 571), 199/4–201/4, 205/1, 205/3, 206/1 (vzorce jen jako obrázek), 203/6, 204/1, 204/4 (varianty 573, 574 a 581), 206/2, 206/4 (varianty 585).
+- Biologie 666–712: 666 (křivice, BIO 895), 667 (vitamin C, BIO 894), 668 (obecná úloha vitaminů, BIO 325), 669 (poplicnice, BIO 202), 673, 675, 682, 685, 687, 693 (všechny možnosti správné, obecné výčty), 678 (vrátník, ČB 520), 681 (močová trubice, BIO 732), 683 (receptory synapse, BIO 413), 686 (obrana leukocytů, BIO 105), 689 (levá síň, ČB 25), 690 (dvě nesprávné možnosti), 691 (klíč chybí), 692 (komplement, BIO 103), 694 (B-lymfocyty, BIO 111), 695 (plazmatické buňky, BIO 107), 697 (pepsin, BIO 274), 698 (vrátnicová žíla, BIO 128), 699 (tlusté střevo, BIO 293), 700 (dýchací centrum, SOM 266), 701 (ADH, BIO 349), 702 (limbický systém, BIO 499), 704 (deltový sval, SOM 133), 706 (homeostáza, BIO 3), 707 (erytrocyty, BIO 84–86), 708 (BIO 87), 709 (hemolýza, BIO 89, SOM 152), 711 (srdeční automacie, odloženo do další dávky).
+
 ## Další dávky
 
-Pokračovat od ID 551. Fyzika čeká na plnou knihu. Chemie pokračuje kap. 5.4 Vitaminy od str. 190 (otázka 5), biologie od otázky 666 (biologie člověka, nutná pečlivá kontrola duplicit vůči SOM, BIO a ČB). Úplné pokrytí zatím nebylo dosaženo.
+Pokračovat od ID 601. Fyzika čeká na plnou knihu. Chemie pokračuje kap. 5.7 Bílkoviny od str. 206 (otázka 5), biologie od otázky 711 (biologie člověka, nutná pečlivá kontrola duplicit vůči SOM, BIO a ČB). Úplné pokrytí zatím nebylo dosaženo.

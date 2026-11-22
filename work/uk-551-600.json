@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 551,
+    "subject": "Chemie",
+    "category": "Chemie · 5.4 Vitaminy",
+    "bookRef": "UK · Chemie · 5.4 Vitaminy · str. 191, otázka 2",
+    "sourcePages": "191",
+    "sourceItem": "str. 191, otázka 2",
+    "question": "Z jaké látky se v organismu tvoří vitamin A?",
+    "options": [
+      "z kyseliny pantothenové",
+      "z flavinadenindinukleotidu",
+      "z β-karotenu",
+      "z kyseliny nikotinové"
+    ],
+    "answer": 2,
+    "title": "z β-karotenu",
+    "paragraphs": [
+      "β-Karoten (provitamin A) z mrkve nebo zeleniny se ve střevní sliznici a v játrech štěpí na dvě molekuly retinolu."
+    ],
+    "memory": "Mrkev → karoten → vitamin A."
+  },
+  {
+    "id": 552,
+    "subject": "Chemie",
+    "category": "Chemie · 5.4 Vitaminy",
+    "bookRef": "UK · Chemie · 5.4 Vitaminy · str. 191, otázka 3",
+    "sourcePages": "191",
+    "sourceItem": "str. 191, otázka 3",
+    "question": "Základem čeho je kyselina pantothenová (vitamin B5)?",
+    "options": [
+      "vitaminu C",
+      "vitaminu K",
+      "kyseliny nikotinové",
+      "koenzymu A"
+    ],
+    "answer": 3,
+    "title": "koenzymu A",
+    "paragraphs": [
+      "Kyselina pantothenová je součástí koenzymu A, který přenáší acyly, například acetyl v acetyl-CoA vstupujícím do citrátového cyklu."
+    ],
+    "memory": "Pantothenová → CoA."
+  },
+  {
+    "id": 553,
+    "subject": "Chemie",
+    "category": "Chemie · 5.4 Vitaminy",
+    "bookRef": "UK · Chemie · 5.4 Vitaminy · str. 191, otázka 4",
+    "sourcePages": "191",
+    "sourceItem": "str. 191, otázka 4",
+    "question": "Který vitamin patří do skupiny B?",
+    "options": [
+      "pyridoxin",
+      "tokoferol",
+      "kalciferol",
+      "fytosterol"
+    ],
+    "answer": 0,
+    "title": "pyridoxin",
+    "paragraphs": [
+      "Pyridoxin je vitamin B6 a jeho derivát pyridoxalfosfát je koenzymem transamináz. Tokoferol je vitamin E, kalciferol vitamin D, fytosteroly vitaminy nejsou."
+    ],
+    "memory": "B6 = pyridoxin."
+  },
+  {
+    "id": 554,
+    "subject": "Chemie",
+    "category": "Chemie · 5.4 Vitaminy",
+    "bookRef": "UK · Chemie · 5.4 Vitaminy · str. 191, otázka 6",
+    "sourcePages": "191",
+    "sourceItem": "str. 191, otázka 6",
+    "question": "Deriváty jaké látky jsou vitaminy K?",
+    "options": [
+      "thiazolu",
+      "naftochinonu",
+      "steranu",
+      "isoprenu"
+    ],
+    "answer": 1,
+    "title": "naftochinonu",
+    "paragraphs": [
+      "Vitaminy K (fylochinon K1 z rostlin, menachinony K2 z bakterií) mají jádro 2-methyl-1,4-naftochinonu s isoprenoidním postranním řetězcem."
+    ],
+    "memory": "K = naftochinon."
+  },
+  {
+    "id": 555,
+    "subject": "Chemie",
+    "category": "Chemie · 5.4 Vitaminy",
+    "bookRef": "UK · Chemie · 5.4 Vitaminy · str. 192, otázka 1",
+    "sourcePages": "192",
+    "sourceItem": "str. 192, otázka 1",
+    "question": "K čemu organismus člověka potřebuje vitamin K?",
+    "options": [
+      "k odvrácení šerosleposti",
+      "k ochraně před kurdějemi",
+      "k zajištění srážlivosti krve",
+      "k růstu kostí v dětství"
+    ],
+    "answer": 2,
+    "title": "k zajištění srážlivosti krve",
+    "paragraphs": [
+      "Vitamin K je nutný pro tvorbu aktivních srážecích faktorů v játrech, například protrombinu. Při jeho nedostatku hrozí krvácení. Šeroslepost souvisí s vitaminem A, kurděje s vitaminem C."
+    ],
+    "memory": "K = koagulace."
+  },
+  {
+    "id": 556,
+    "subject": "Chemie",
+    "category": "Chemie · 5.4 Vitaminy",
+    "bookRef": "UK · Chemie · 5.4 Vitaminy · str. 192, otázka 2",
+    "sourcePages": "192",
+    "sourceItem": "str. 192, otázka 2",
+    "question": "Od čeho je odvozen niacin (vitamin PP, B3)?",
+    "options": [
+      "od steroidů",
+      "od tokoferolu",
+      "od isoprenu",
+      "od kyseliny nikotinové"
+    ],
+    "answer": 3,
+    "title": "od kyseliny nikotinové",
+    "paragraphs": [
+      "Niacin zahrnuje kyselinu nikotinovou a nikotinamid. Nikotinamid je součástí koenzymů NAD⁺ a NADP⁺, které přenášejí vodík. Nedostatek vyvolává pelagru."
+    ],
+    "memory": "Niacin → NAD⁺."
+  },
+  {
+    "id": 557,
+    "subject": "Chemie",
+    "category": "Chemie · 5.4 Vitaminy",
+    "bookRef": "UK · Chemie · 5.4 Vitaminy · str. 192, otázka 4",
+    "sourcePages": "192",
+    "sourceItem": "str. 192, otázka 4",
+    "question": "Mezi jaké látky patří retinol (vitamin A)?",
+    "options": [
+      "terpenické alkoholy (diterpeny)",
+      "steroidy",
+      "deriváty naftochinonu",
+      "deriváty kyseliny máselné a β-alaninu"
+    ],
+    "answer": 0,
+    "title": "terpenické alkoholy (diterpeny)",
+    "paragraphs": [
+      "Retinol má 20 uhlíků ze čtyř isoprenových jednotek a koncovou skupinu −OH, je tedy diterpenický alkohol. Deriváty naftochinonu jsou vitaminy K."
+    ],
+    "memory": "Vitamin A = diterpen s OH."
+  },
+  {
+    "id": 558,
+    "subject": "Chemie",
+    "category": "Chemie · 5.4 Vitaminy",
+    "bookRef": "UK · Chemie · 5.4 Vitaminy · str. 193, otázka 1",
+    "sourcePages": "193",
+    "sourceItem": "str. 193, otázka 1",
+    "question": "Mezi jaké látky řadíme kalciferoly (vitaminy D)?",
+    "options": [
+      "mezi mastné kyseliny",
+      "mezi steroidy",
+      "mezi bílkoviny",
+      "mezi deriváty nikotinu"
+    ],
+    "answer": 1,
+    "title": "mezi steroidy",
+    "paragraphs": [
+      "Vitamin D vzniká v kůži působením UV záření z derivátu cholesterolu. Rozštěpením jednoho kruhu steranu jde přesněji o sekosteroid."
+    ],
+    "memory": "Vitamin D z cholesterolu a slunce."
+  },
+  {
+    "id": 559,
+    "subject": "Chemie",
+    "category": "Chemie · 5.5 Hormony",
+    "bookRef": "UK · Chemie · 5.5 Hormony · str. 193, otázka 2",
+    "sourcePages": "193",
+    "sourceItem": "str. 193, otázka 2",
+    "question": "Čím hormony chemicky nebývají?",
+    "options": [
+      "deriváty aminokyselin",
+      "steroidy",
+      "polysacharidy",
+      "bílkovinami a peptidy"
+    ],
+    "answer": 2,
+    "title": "polysacharidy",
+    "paragraphs": [
+      "Hormony jsou buď peptidy a bílkoviny (inzulin), deriváty aminokyselin (adrenalin, tyroxin), nebo steroidy (kortizol, testosteron). Mezi polysacharidy hormony nepatří."
+    ],
+    "memory": "Hormony: peptid, aminokyselina, steroid."
+  },
+  {
+    "id": 560,
+    "subject": "Chemie",
+    "category": "Chemie · 5.6 Aminokyseliny",
+    "bookRef": "UK · Chemie · 5.6 Aminokyseliny · str. 195, otázka 1",
+    "sourcePages": "195",
+    "sourceItem": "str. 195, otázka 1",
+    "question": "Které bílkoviny mají vyšší podíl bazických aminokyselin?",
+    "options": [
+      "glykoproteiny",
+      "lipoproteiny",
+      "metaloproteiny",
+      "histony"
+    ],
+    "answer": 3,
+    "title": "histony",
+    "paragraphs": [
+      "Histony jsou bohaté na lysin a arginin, takže nesou kladný náboj. Díky tomu se pevně vážou na záporně nabitou DNA a navíjejí ji do nukleozomů."
+    ],
+    "memory": "Histon + DNA = plus a minus."
+  },
+  {
+    "id": 561,
+    "subject": "Chemie",
+    "category": "Chemie · 5.6 Aminokyseliny",
+    "bookRef": "UK · Chemie · 5.6 Aminokyseliny · str. 195, otázka 3",
+    "sourcePages": "195",
+    "sourceItem": "str. 195, otázka 3",
+    "question": "Která z uvedených aminokyselin je bazická?",
+    "options": [
+      "lysin",
+      "methionin",
+      "glycin",
+      "alanin"
+    ],
+    "answer": 0,
+    "title": "lysin",
+    "paragraphs": [
+      "Lysin má v postranním řetězci další aminoskupinu, stejně jako arginin (guanidinová skupina) a histidin (imidazol). Methionin, glycin a alanin jsou neutrální."
+    ],
+    "memory": "Bazické: lysin, arginin, histidin."
+  },
+  {
+    "id": 562,
+    "subject": "Chemie",
+    "category": "Chemie · 5.6 Aminokyseliny",
+    "bookRef": "UK · Chemie · 5.6 Aminokyseliny · str. 195, otázka 5",
+    "sourcePages": "195",
+    "sourceItem": "str. 195, otázka 5",
+    "question": "Která z uvedených látek je kyselá aminokyselina?",
+    "options": [
+      "kyselina jantarová",
+      "kyselina glutamová",
+      "arginin",
+      "glycin"
+    ],
+    "answer": 1,
+    "title": "kyselina glutamová",
+    "paragraphs": [
+      "Kyselina glutamová a asparagová mají v postranním řetězci druhou karboxylovou skupinu. Kyselina jantarová je dikarboxylová kyselina bez aminoskupiny, arginin je bazický."
+    ],
+    "memory": "Kyselé: glutamová, asparagová."
+  },
+  {
+    "id": 563,
+    "subject": "Chemie",
+    "category": "Chemie · 5.6 Aminokyseliny",
+    "bookRef": "UK · Chemie · 5.6 Aminokyseliny · str. 195, otázka 6",
+    "sourcePages": "195",
+    "sourceItem": "str. 195, otázka 6",
+    "question": "Jak je definován izoelektrický bod pI aminokyseliny?",
+    "options": [
+      "jako pH, při kterém aminokyselina existuje jen jako kation",
+      "jako pH, při kterém aminokyselina existuje jen jako anion",
+      "jako pH, při kterém se aminokyselina nepohybuje v elektrickém poli",
+      "jako teplota tání aminokyseliny"
+    ],
+    "answer": 2,
+    "title": "jako pH, při kterém se aminokyselina nepohybuje v elektrickém poli",
+    "paragraphs": [
+      "Při pH rovném pI převažuje amfion s nulovým celkovým nábojem, proto při elektroforéze nemigruje. V kyselejším prostředí je aminokyselina kationem, v zásaditějším anionem."
+    ],
+    "memory": "pI = náboj nula."
+  },
+  {
+    "id": 564,
+    "subject": "Chemie",
+    "category": "Chemie · 5.6 Aminokyseliny",
+    "bookRef": "UK · Chemie · 5.6 Aminokyseliny · str. 196, otázka 1",
+    "sourcePages": "196",
+    "sourceItem": "str. 196, otázka 1",
+    "question": "Co označuje předpona L- u aminokyselin?",
+    "options": [
+      "konfiguraci na uhlíku karboxylové skupiny",
+      "otáčení roviny polarizovaného světla doleva",
+      "otáčení roviny polarizovaného světla doprava",
+      "konfiguraci na α-uhlíku"
+    ],
+    "answer": 3,
+    "title": "konfiguraci na α-uhlíku",
+    "paragraphs": [
+      "L a D popisují prostorové uspořádání skupin kolem chirálního α-uhlíku ve srovnání s glyceraldehydem. Bílkoviny obsahují L-aminokyseliny, směr otáčení se přitom u jednotlivých aminokyselin liší."
+    ],
+    "memory": "L = konfigurace na Cα."
+  },
+  {
+    "id": 565,
+    "subject": "Chemie",
+    "category": "Chemie · 5.6 Aminokyseliny",
+    "bookRef": "UK · Chemie · 5.6 Aminokyseliny · str. 197, otázka 3",
+    "sourcePages": "197",
+    "sourceItem": "str. 197, otázka 3",
+    "question": "Která aminokyselina je kyselina 2-amino-3-hydroxypropanová?",
+    "options": [
+      "serin",
+      "valin",
+      "asparagin",
+      "cystein"
+    ],
+    "answer": 0,
+    "title": "serin",
+    "paragraphs": [
+      "Serin má na uhlíku C3 skupinu −OH: HO−CH₂−CH(NH₂)−COOH. Cystein má na stejném místě skupinu −SH."
+    ],
+    "memory": "Serin = OH, cystein = SH."
+  },
+  {
+    "id": 566,
+    "subject": "Chemie",
+    "category": "Chemie · 5.6 Aminokyseliny",
+    "bookRef": "UK · Chemie · 5.6 Aminokyseliny · str. 197, otázka 4",
+    "sourcePages": "197",
+    "sourceItem": "str. 197, otázka 4",
+    "question": "Jaká aminokyselina je kyselina glutamová?",
+    "options": [
+      "diaminomonokarboxylová",
+      "monoaminodikarboxylová",
+      "monoaminomonokarboxylová",
+      "heterocyklická"
+    ],
+    "answer": 1,
+    "title": "monoaminodikarboxylová",
+    "paragraphs": [
+      "Kyselina glutamová má jednu aminoskupinu a dvě karboxylové skupiny. Diaminomonokarboxylová je například lysin."
+    ],
+    "memory": "Glutamová: 1 NH₂, 2 COOH."
+  },
+  {
+    "id": 567,
+    "subject": "Chemie",
+    "category": "Chemie · 5.6 Aminokyseliny",
+    "bookRef": "UK · Chemie · 5.6 Aminokyseliny · str. 197, otázka 5",
+    "sourcePages": "197",
+    "sourceItem": "str. 197, otázka 5",
+    "question": "Jaká aminokyselina je leucin?",
+    "options": [
+      "aromatická",
+      "heterocyklická",
+      "alifatická",
+      "monoaminodikarboxylová"
+    ],
+    "answer": 2,
+    "title": "alifatická",
+    "paragraphs": [
+      "Leucin má rozvětvený nasycený uhlovodíkový postranní řetězec, isobutyl. Spolu s valinem a isoleucinem patří k aminokyselinám s rozvětveným řetězcem."
+    ],
+    "memory": "Leucin = rozvětvený alifatický řetězec."
+  },
+  {
+    "id": 568,
+    "subject": "Chemie",
+    "category": "Chemie · 5.6 Aminokyseliny",
+    "bookRef": "UK · Chemie · 5.6 Aminokyseliny · str. 198, otázka 1",
+    "sourcePages": "198",
+    "sourceItem": "str. 198, otázka 1",
+    "question": "Která aminokyselina obsahuje ve své molekule skupinu −SH?",
+    "options": [
+      "histidin",
+      "valin",
+      "serin",
+      "cystein"
+    ],
+    "answer": 3,
+    "title": "cystein",
+    "paragraphs": [
+      "Sulfanylová skupina cysteinu může s jiným cysteinem vytvořit disulfidový můstek −S−S−, který zpevňuje terciární strukturu bílkovin."
+    ],
+    "memory": "Cystein = SH = můstky."
+  },
+  {
+    "id": 569,
+    "subject": "Chemie",
+    "category": "Chemie · 5.6 Aminokyseliny",
+    "bookRef": "UK · Chemie · 5.6 Aminokyseliny · str. 198, otázka 3",
+    "sourcePages": "198",
+    "sourceItem": "str. 198, otázka 3",
+    "question": "Která aminokyselina obsahuje ve své molekule benzenové jádro?",
+    "options": [
+      "fenylalanin",
+      "histidin",
+      "valin",
+      "prolin"
+    ],
+    "answer": 0,
+    "title": "fenylalanin",
+    "paragraphs": [
+      "Fenylalanin má postranní řetězec benzyl, tyrosin navíc hydroxyl na jádře. Histidin má heterocyklický imidazol, prolin pyrrolidinový kruh."
+    ],
+    "memory": "Fenylalanin = fenyl."
+  },
+  {
+    "id": 570,
+    "subject": "Chemie",
+    "category": "Chemie · 5.6 Aminokyseliny",
+    "bookRef": "UK · Chemie · 5.6 Aminokyseliny · str. 198, otázka 4",
+    "sourcePages": "198",
+    "sourceItem": "str. 198, otázka 4",
+    "question": "Která aminokyselina vedle cysteinu obsahuje ve své molekule síru?",
+    "options": [
+      "histidin",
+      "methionin",
+      "serin",
+      "tryptofan"
+    ],
+    "answer": 1,
+    "title": "methionin",
+    "paragraphs": [
+      "Methionin obsahuje thioetherovou skupinu −CH₂−CH₂−S−CH₃. Je esenciální a jeho kodon AUG zahajuje translaci."
+    ],
+    "memory": "Síra: cystein a methionin."
+  },
+  {
+    "id": 571,
+    "subject": "Chemie",
+    "category": "Chemie · 5.6 Aminokyseliny",
+    "bookRef": "UK · Chemie · 5.6 Aminokyseliny · str. 198, otázka 6",
+    "sourcePages": "198",
+    "sourceItem": "str. 198, otázka 6",
+    "question": "Která aminokyselina obsahuje heterocyklický zbytek indol?",
+    "options": [
+      "tyrosin",
+      "asparagin",
+      "tryptofan",
+      "methionin"
+    ],
+    "answer": 2,
+    "title": "tryptofan",
+    "paragraphs": [
+      "Indol je benzenový kruh spojený s pyrrolem. Z tryptofanu vzniká serotonin a melatonin."
+    ],
+    "memory": "Tryptofan → serotonin."
+  },
+  {
+    "id": 572,
+    "subject": "Chemie",
+    "category": "Chemie · 5.6 Aminokyseliny",
+    "bookRef": "UK · Chemie · 5.6 Aminokyseliny · str. 199, otázka 1",
+    "sourcePages": "199",
+    "sourceItem": "str. 199, otázka 1",
+    "question": "Která aminokyselina obsahuje heterocyklický zbytek imidazol?",
+    "options": [
+      "glutamin",
+      "tyrosin",
+      "valin",
+      "histidin"
+    ],
+    "answer": 3,
+    "title": "histidin",
+    "paragraphs": [
+      "Postranní řetězec histidinu nese imidazolový kruh se dvěma atomy dusíku. Dekarboxylací histidinu vzniká histamin."
+    ],
+    "memory": "Histidin → histamin."
+  },
+  {
+    "id": 573,
+    "subject": "Chemie",
+    "category": "Chemie · 5.6 Aminokyseliny",
+    "bookRef": "UK · Chemie · 5.6 Aminokyseliny · str. 202, otázka 1",
+    "sourcePages": "202",
+    "sourceItem": "str. 202, otázka 1",
+    "question": "Jaký systematický název má glycin?",
+    "options": [
+      "kyselina 2-aminoethanová",
+      "kyselina 2-aminomethanová",
+      "kyselina 2-aminopropanová",
+      "kyselina 2-amino-3-hydroxypropanová"
+    ],
+    "answer": 0,
+    "title": "kyselina 2-aminoethanová",
+    "paragraphs": [
+      "Glycin H₂N−CH₂−COOH je nejjednodušší aminokyselina s dvěma uhlíky. Nemá chirální uhlík, takže netvoří D a L formy."
+    ],
+    "memory": "Glycin = aminooctová."
+  },
+  {
+    "id": 574,
+    "subject": "Chemie",
+    "category": "Chemie · 5.6 Aminokyseliny",
+    "bookRef": "UK · Chemie · 5.6 Aminokyseliny · str. 202, otázka 2",
+    "sourcePages": "202",
+    "sourceItem": "str. 202, otázka 2",
+    "question": "Jaký systematický název má alanin?",
+    "options": [
+      "kyselina 2-aminoethanová",
+      "kyselina 2-aminopropanová",
+      "kyselina 2-amino-3-hydroxypropanová",
+      "kyselina 2-amino-3-methylbutanová"
+    ],
+    "answer": 1,
+    "title": "kyselina 2-aminopropanová",
+    "paragraphs": [
+      "Alanin CH₃−CH(NH₂)−COOH má postranní řetězec methyl. Kyselina 2-aminoethanová je glycin, 2-amino-3-hydroxypropanová serin."
+    ],
+    "memory": "Alanin = glycin + CH₃."
+  },
+  {
+    "id": 575,
+    "subject": "Chemie",
+    "category": "Chemie · 5.6 Aminokyseliny",
+    "bookRef": "UK · Chemie · 5.6 Aminokyseliny · str. 202, otázka 3",
+    "sourcePages": "202",
+    "sourceItem": "str. 202, otázka 3",
+    "question": "Jaký systematický název má valin?",
+    "options": [
+      "kyselina 2-amino-4-methylpentanová",
+      "kyselina 2-amino-3-methylpentanová",
+      "kyselina 2-amino-3-methylbutanová",
+      "kyselina 2-aminopropanová"
+    ],
+    "answer": 2,
+    "title": "kyselina 2-amino-3-methylbutanová",
+    "paragraphs": [
+      "Valin má postranní řetězec isopropyl, celkem pět uhlíků: (CH₃)₂CH−CH(NH₂)−COOH. Kyselina 2-amino-4-methylpentanová je leucin."
+    ],
+    "memory": "Valin = 5 C, butan + methyl."
+  },
+  {
+    "id": 576,
+    "subject": "Chemie",
+    "category": "Chemie · 5.6 Aminokyseliny",
+    "bookRef": "UK · Chemie · 5.6 Aminokyseliny · str. 202, otázka 4",
+    "sourcePages": "202",
+    "sourceItem": "str. 202, otázka 4",
+    "question": "Jaký systematický název má leucin?",
+    "options": [
+      "kyselina 2-amino-3-methylpentanová",
+      "kyselina 2-amino-3-methylbutanová",
+      "kyselina 2-amino-3-ethylpropanová",
+      "kyselina 2-amino-4-methylpentanová"
+    ],
+    "answer": 3,
+    "title": "kyselina 2-amino-4-methylpentanová",
+    "paragraphs": [
+      "Leucin má postranní řetězec isobutyl, methyl je na uhlíku C4. Isoleucin má methyl na C3. Název 3-ethylpropanová kyselina je chybný, protože by šlo o delší hlavní řetězec."
+    ],
+    "memory": "Leucin 4-methyl, isoleucin 3-methyl."
+  },
+  {
+    "id": 577,
+    "subject": "Chemie",
+    "category": "Chemie · 5.6 Aminokyseliny",
+    "bookRef": "UK · Chemie · 5.6 Aminokyseliny · str. 202, otázka 5",
+    "sourcePages": "202",
+    "sourceItem": "str. 202, otázka 5",
+    "question": "Jaký systematický název má isoleucin?",
+    "options": [
+      "kyselina 2-amino-3-methylpentanová",
+      "kyselina 2-amino-4-methylpentanová",
+      "kyselina 2-amino-3-methylbutanová",
+      "kyselina 2-aminoethanová"
+    ],
+    "answer": 0,
+    "title": "kyselina 2-amino-3-methylpentanová",
+    "paragraphs": [
+      "Isoleucin je izomer leucinu s methylem na uhlíku C3 hned vedle α-uhlíku. Má proto dva chirální uhlíky."
+    ],
+    "memory": "Iso-leucin = methyl blíž karboxylu."
+  },
+  {
+    "id": 578,
+    "subject": "Chemie",
+    "category": "Chemie · 5.6 Aminokyseliny",
+    "bookRef": "UK · Chemie · 5.6 Aminokyseliny · str. 203, otázka 1",
+    "sourcePages": "203",
+    "sourceItem": "str. 203, otázka 1",
+    "question": "Jaký systematický název má threonin?",
+    "options": [
+      "kyselina 2-amino-3-hydroxypropanová",
+      "kyselina 2-amino-3-hydroxybutanová",
+      "kyselina 2-amino-3-fenylpropanová",
+      "kyselina 2-amino-3-(4-hydroxyfenyl)propanová"
+    ],
+    "answer": 1,
+    "title": "kyselina 2-amino-3-hydroxybutanová",
+    "paragraphs": [
+      "Threonin CH₃−CH(OH)−CH(NH₂)−COOH má o jeden uhlík víc než serin a skupinu −OH na C3. Je esenciální."
+    ],
+    "memory": "Threonin = serin + CH₃."
+  },
+  {
+    "id": 579,
+    "subject": "Chemie",
+    "category": "Chemie · 5.6 Aminokyseliny",
+    "bookRef": "UK · Chemie · 5.6 Aminokyseliny · str. 203, otázka 2",
+    "sourcePages": "203",
+    "sourceItem": "str. 203, otázka 2",
+    "question": "Jaký systematický název má kyselina asparagová?",
+    "options": [
+      "kyselina 2-aminopropandiová",
+      "kyselina 2-aminopentandiová",
+      "kyselina 2-aminobutandiová",
+      "kyselina 2-aminoethandiová"
+    ],
+    "answer": 2,
+    "title": "kyselina 2-aminobutandiová",
+    "paragraphs": [
+      "Kyselina asparagová HOOC−CH₂−CH(NH₂)−COOH má čtyři uhlíky včetně obou karboxylů. Je to aminoderivát kyseliny jantarové (butandiové)."
+    ],
+    "memory": "Asparagová 4 C, glutamová 5 C."
+  },
+  {
+    "id": 580,
+    "subject": "Chemie",
+    "category": "Chemie · 5.6 Aminokyseliny",
+    "bookRef": "UK · Chemie · 5.6 Aminokyseliny · str. 203, otázka 3",
+    "sourcePages": "203",
+    "sourceItem": "str. 203, otázka 3",
+    "question": "Jaký systematický název má kyselina glutamová?",
+    "options": [
+      "kyselina 2-aminobutandiová",
+      "kyselina 2-aminopropandiová",
+      "kyselina 2-aminoethandiová",
+      "kyselina 2-aminopentandiová"
+    ],
+    "answer": 3,
+    "title": "kyselina 2-aminopentandiová",
+    "paragraphs": [
+      "Kyselina glutamová HOOC−CH₂−CH₂−CH(NH₂)−COOH má pět uhlíků a je odvozena od kyseliny glutarové (pentandiové). Její sodná sůl je známé ochucovadlo."
+    ],
+    "memory": "Glutamová = pentandiová."
+  },
+  {
+    "id": 581,
+    "subject": "Chemie",
+    "category": "Chemie · 5.6 Aminokyseliny",
+    "bookRef": "UK · Chemie · 5.6 Aminokyseliny · str. 203, otázka 4",
+    "sourcePages": "203",
+    "sourceItem": "str. 203, otázka 4",
+    "question": "Jaký systematický název má fenylalanin?",
+    "options": [
+      "kyselina 2-amino-3-fenylpropanová",
+      "kyselina 2-amino-3-fenylethanová",
+      "kyselina 2-amino-3-(4-hydroxyfenyl)propanová",
+      "kyselina 2-amino-4-methylpentanová"
+    ],
+    "answer": 0,
+    "title": "kyselina 2-amino-3-fenylpropanová",
+    "paragraphs": [
+      "Fenylalanin je alanin, jehož methyl nese fenyl: C₆H₅−CH₂−CH(NH₂)−COOH. Hydroxylací v poloze 4 jádra z něj vzniká tyrosin. Ethan má jen dva uhlíky, poloha 3 tedy nedává smysl."
+    ],
+    "memory": "Fenylalanin = fenyl + alanin."
+  },
+  {
+    "id": 582,
+    "subject": "Chemie",
+    "category": "Chemie · 5.6 Aminokyseliny",
+    "bookRef": "UK · Chemie · 5.6 Aminokyseliny · str. 203, otázka 5",
+    "sourcePages": "203",
+    "sourceItem": "str. 203, otázka 5",
+    "question": "Jaký systematický název má tyrosin?",
+    "options": [
+      "kyselina 2-amino-3-fenylpropanová",
+      "kyselina 2-amino-3-(4-hydroxyfenyl)propanová",
+      "kyselina 2-amino-3-(4-hydroxyfenyl)butanová",
+      "kyselina 2-amino-3-fenylbutanová"
+    ],
+    "answer": 1,
+    "title": "kyselina 2-amino-3-(4-hydroxyfenyl)propanová",
+    "paragraphs": [
+      "Tyrosin vzniká z fenylalaninu hydroxylací v poloze para. Je výchozí látkou pro katecholaminy, hormony štítné žlázy a melanin."
+    ],
+    "memory": "Tyrosin = fenylalanin + OH."
+  },
+  {
+    "id": 583,
+    "subject": "Chemie",
+    "category": "Chemie · 5.6 Aminokyseliny",
+    "bookRef": "UK · Chemie · 5.6 Aminokyseliny · str. 204, otázka 3",
+    "sourcePages": "204",
+    "sourceItem": "str. 204, otázka 3",
+    "question": "Která aminokyselina je kyselina α-amino-β-sulfanylpropanová?",
+    "options": [
+      "serin",
+      "leucin",
+      "cystein",
+      "glycin"
+    ],
+    "answer": 2,
+    "title": "cystein",
+    "paragraphs": [
+      "Cystein HS−CH₂−CH(NH₂)−COOH má na uhlíku β (C3) sulfanylovou skupinu −SH. Serin má na stejném místě −OH."
+    ],
+    "memory": "Sulfanyl = SH = cystein."
+  },
+  {
+    "id": 584,
+    "subject": "Chemie",
+    "category": "Chemie · 5.6 Aminokyseliny",
+    "bookRef": "UK · Chemie · 5.6 Aminokyseliny · str. 205, otázka 2",
+    "sourcePages": "205",
+    "sourceItem": "str. 205, otázka 2",
+    "question": "Jak se jinak nazývá aminokyselina prolin?",
+    "options": [
+      "kyselina pyridin-2-karboxylová",
+      "kyselina 2-amino-3-methylbutanová",
+      "kyselina imidazol-4-karboxylová",
+      "kyselina pyrrolidin-2-karboxylová"
+    ],
+    "answer": 3,
+    "title": "kyselina pyrrolidin-2-karboxylová",
+    "paragraphs": [
+      "Dusík prolinu je součástí pětičlenného nasyceného kruhu pyrrolidinu, proto je prolin sekundární amin (iminokyselina). V bílkovinách způsobuje ohyby řetězce, hojný je v kolagenu."
+    ],
+    "memory": "Prolin = uzavřený kruh s dusíkem."
+  },
+  {
+    "id": 585,
+    "subject": "Chemie",
+    "category": "Chemie · 5.7 Bílkoviny, peptidy",
+    "bookRef": "UK · Chemie · 5.7 Bílkoviny, peptidy · str. 206, otázka 3",
+    "sourcePages": "206",
+    "sourceItem": "str. 206, otázka 3",
+    "question": "Které aminokyseliny jsou stavebními jednotkami bílkovin?",
+    "options": [
+      "α-aminokyseliny",
+      "pouze β-aminokyseliny",
+      "pouze γ-aminokyseliny",
+      "aminokyseliny s aminoskupinou na uhlíku C1"
+    ],
+    "answer": 0,
+    "title": "α-aminokyseliny",
+    "paragraphs": [
+      "Aminoskupina proteinogenních aminokyselin je na uhlíku α, tedy C2 vedle karboxylu. Uhlík C1 je sám karboxyl, aminoskupinu nést nemůže."
+    ],
+    "memory": "Proteiny = α-aminokyseliny."
+  },
+  {
+    "id": 586,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 670 · str. 146",
+    "sourcePages": "146",
+    "sourceItem": "670",
+    "question": "Na co si musí dávat pozor pacient po chirurgickém odstranění žlučníku?",
+    "options": [
+      "na příjem bílkovin",
+      "na příjem tučných jídel",
+      "na příjem vlákniny",
+      "na příjem cukrů"
+    ],
+    "answer": 1,
+    "title": "na příjem tučných jídel",
+    "paragraphs": [
+      "Žluč se po odstranění žlučníku neukládá do zásoby a do dvanáctníku odtéká průběžně. Při tučném jídle chybí její nárazové uvolnění, tuky se hůře emulgují a tráví."
+    ],
+    "memory": "Žlučník = zásoba žluči na tuky."
+  },
+  {
+    "id": 587,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 671 · str. 146",
+    "sourcePages": "146",
+    "sourceItem": "671",
+    "question": "Která změna nutí k nadechnutí po zadržení dechu?",
+    "options": [
+      "zvýšení koncentrace O₂ v krvi",
+      "snížení koncentrace CO₂ v krvi",
+      "zvýšení koncentrace CO₂ v krvi",
+      "nadechnutí probíhá automaticky bez vlivu krevních plynů"
+    ],
+    "answer": 2,
+    "title": "zvýšení koncentrace CO₂ v krvi",
+    "paragraphs": [
+      "Hromadící se CO₂ okyseluje krev a mozkomíšní mok a dráždí chemoreceptory v prodloužené míše. Ty jsou hlavním podnětem dýchacího centra, pokles O₂ působí slaběji."
+    ],
+    "memory": "CO₂ = hlavní budík dýchání."
+  },
+  {
+    "id": 588,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 672 · str. 146",
+    "sourcePages": "146",
+    "sourceItem": "672",
+    "question": "Co platí pro člověka s krevní skupinou AB?",
+    "options": [
+      "je univerzálním dárcem krve",
+      "nemá na erytrocytech žádný antigen",
+      "má v plazmě protilátky anti-A i anti-B",
+      "má na erytrocytech antigeny A i B a v plazmě nemá protilátky anti-A ani anti-B"
+    ],
+    "answer": 3,
+    "title": "má na erytrocytech antigeny A i B a v plazmě nemá protilátky anti-A ani anti-B",
+    "paragraphs": [
+      "Skupina AB má oba antigeny, a proto proti nim netvoří protilátky. Je tedy univerzálním příjemcem. Univerzálním dárcem erytrocytů je skupina 0 Rh negativní."
+    ],
+    "memory": "AB příjemce, 0 dárce."
+  },
+  {
+    "id": 589,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 674 · str. 146",
+    "sourcePages": "146",
+    "sourceItem": "674",
+    "question": "Co jsou růstové faktory?",
+    "options": [
+      "bílkoviny či peptidy, které se vážou na buněčné receptory a lokálně stimulují dělení buněk",
+      "hormony tvořené výhradně předním lalokem hypofýzy",
+      "lipidy buněčné membrány řídící diferenciaci",
+      "enzymy štěpící bílkoviny mezibuněčné hmoty"
+    ],
+    "answer": 0,
+    "title": "bílkoviny či peptidy, které se vážou na buněčné receptory a lokálně stimulují dělení buněk",
+    "paragraphs": [
+      "Růstové faktory, například epidermální nebo krevní destičkový růstový faktor, působí většinou místně na okolní buňky. Jejich receptory spouštějí signální dráhy vedoucí k mitóze."
+    ],
+    "memory": "Růstový faktor = místní signál k dělení."
+  },
+  {
+    "id": 590,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 676 · str. 147",
+    "sourcePages": "147",
+    "sourceItem": "676",
+    "question": "Nedostatek kterého hormonu v dětství vede k hypofyzárnímu trpaslictví?",
+    "options": [
+      "adrenokortikotropního hormonu",
+      "růstového hormonu",
+      "antidiuretického hormonu",
+      "inzulinu"
+    ],
+    "answer": 1,
+    "title": "růstového hormonu",
+    "paragraphs": [
+      "Somatotropin z adenohypofýzy podporuje růst kostí do délky. Jeho nedostatek v dětství vede k trpaslictví při normálních tělesných proporcích, nadbytek k gigantismu, v dospělosti k akromegalii."
+    ],
+    "memory": "Málo STH = trpaslík."
+  },
+  {
+    "id": 591,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 677 · str. 147",
+    "sourcePages": "147",
+    "sourceItem": "677",
+    "question": "Která skupina obsahuje pouze žlázy trávicí soustavy?",
+    "options": [
+      "žlučník, slinivka břišní a slinné žlázy",
+      "slinné žlázy, žlučník a dvanáctník",
+      "játra, slinné žlázy a slinivka břišní",
+      "játra, žlučník a dvanáctník"
+    ],
+    "answer": 2,
+    "title": "játra, slinné žlázy a slinivka břišní",
+    "paragraphs": [
+      "Velké trávicí žlázy vylučují šťávy do trávicí trubice. Žlučník žluč jen skladuje a zahušťuje a dvanáctník je oddíl tenkého střeva, nejsou to žlázy."
+    ],
+    "memory": "Žlučník je zásobník, ne žláza."
+  },
+  {
+    "id": 592,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 679 · str. 147",
+    "sourcePages": "147",
+    "sourceItem": "679",
+    "question": "Kdy během těhotenství probíhá především organogeneze?",
+    "options": [
+      "ve druhém trimestru",
+      "ve třetím trimestru",
+      "ještě ve stadiu blastocysty",
+      "v prvním trimestru"
+    ],
+    "answer": 3,
+    "title": "v prvním trimestru",
+    "paragraphs": [
+      "Základy orgánů se zakládají zhruba od 3. do 8. týdne, proto je zárodek v prvním trimestru nejcitlivější na léky, alkohol a infekce. Později orgány hlavně rostou a dozrávají."
+    ],
+    "memory": "1. trimestr = zakládání orgánů."
+  },
+  {
+    "id": 593,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 680 · str. 147",
+    "sourcePages": "147",
+    "sourceItem": "680",
+    "question": "Kde nejčastěji dochází k oplození lidského vajíčka?",
+    "options": [
+      "ve vejcovodu",
+      "v děloze",
+      "ve vaječníku",
+      "v pochvě"
+    ],
+    "answer": 0,
+    "title": "ve vejcovodu",
+    "paragraphs": [
+      "Spermie putují dělohou do vejcovodu, kde se v jeho rozšířené části (ampule) setkají s vajíčkem. Rýhující se zárodek pak putuje do dělohy a uhnízdí se zhruba po týdnu."
+    ],
+    "memory": "Oplození ve vejcovodu, uhnízdění v děloze."
+  },
+  {
+    "id": 594,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 684 · str. 148",
+    "sourcePages": "148",
+    "sourceItem": "684",
+    "question": "Která tkáň nejčastěji tvoří vnitřní výstelku orgánů?",
+    "options": [
+      "pojivová",
+      "epiteliální",
+      "nervová",
+      "svalová"
+    ],
+    "answer": 1,
+    "title": "epiteliální",
+    "paragraphs": [
+      "Epitel pokrývá povrch těla a vystýlá dutiny a trubice orgánů, například trávicí trubici nebo cévy (endotel). Pod ním leží vazivo a svalovina."
+    ],
+    "memory": "Výstelka = epitel."
+  },
+  {
+    "id": 595,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 688 · str. 149",
+    "sourcePages": "149",
+    "sourceItem": "688",
+    "question": "Který faktor má nejmenší vliv na velikost průtoku krve tepnami?",
+    "options": [
+      "síla srdečního stahu",
+      "výše krevního tlaku",
+      "síla stahu kosterních svalů",
+      "průsvit tepen"
+    ],
+    "answer": 2,
+    "title": "síla stahu kosterních svalů",
+    "paragraphs": [
+      "Průtok tepnami závisí na srdečním výdeji, tlaku a odporu daném hlavně průsvitem tepének. Stahy kosterních svalů pomáhají hlavně návratu krve žilami (svalová pumpa)."
+    ],
+    "memory": "Svalová pumpa pomáhá žilám."
+  },
+  {
+    "id": 596,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 696 · str. 150",
+    "sourcePages": "150",
+    "sourceItem": "696",
+    "question": "Co jsou produkty trávení?",
+    "options": [
+      "velké makromolekuly potřebné pro organismus",
+      "trávicí enzymy",
+      "trávicí hormony",
+      "nízkomolekulární živiny, které mohou být vstřebány"
+    ],
+    "answer": 3,
+    "title": "nízkomolekulární živiny, které mohou být vstřebány",
+    "paragraphs": [
+      "Trávením se bílkoviny, sacharidy a tuky štěpí na aminokyseliny, monosacharidy, mastné kyseliny a monoacylglyceroly. Teprve tyto malé molekuly projdou střevní stěnou do krve a mízy."
+    ],
+    "memory": "Trávení = rozložit, aby šlo vstřebat."
+  },
+  {
+    "id": 597,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 703 · str. 151",
+    "sourcePages": "151",
+    "sourceItem": "703",
+    "question": "Co je typické pro Gravesovu-Basedowovu chorobu?",
+    "options": [
+      "zvýšená činnost štítné žlázy",
+      "snížená činnost štítné žlázy",
+      "zvýšená činnost příštítných tělísek",
+      "snížená činnost příštítných tělísek"
+    ],
+    "answer": 0,
+    "title": "zvýšená činnost štítné žlázy",
+    "paragraphs": [
+      "Autoprotilátky stimulují receptory pro TSH a štítná žláza nadměrně tvoří hormony. Typické jsou hubnutí, bušení srdce, neklid a vystouplé oči (exoftalmus)."
+    ],
+    "memory": "Basedow = hypertyreóza, vystouplé oči."
+  },
+  {
+    "id": 598,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 705 · str. 152",
+    "sourcePages": "152",
+    "sourceItem": "705",
+    "question": "Co je základní stavební jednotkou kosterního svalu?",
+    "options": [
+      "svalový snopec",
+      "svalové vlákno",
+      "svalový snopeček",
+      "komplex aktinu a myosinu"
+    ],
+    "answer": 1,
+    "title": "svalové vlákno",
+    "paragraphs": [
+      "Svalové vlákno je mnohojaderná buňka vzniklá splynutím myoblastů. Vlákna se sdružují do snopečků a snopců, aktin a myosin jsou bílkoviny uvnitř vláken."
+    ],
+    "memory": "Vlákno = svalová buňka."
+  },
+  {
+    "id": 599,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 710 · str. 152",
+    "sourcePages": "152",
+    "sourceItem": "710",
+    "question": "Co je aglutinace?",
+    "options": [
+      "srážení krve",
+      "pohlcování cizorodých látek",
+      "shlukování červených krvinek",
+      "vyšetřování krevních skupin"
+    ],
+    "answer": 2,
+    "title": "shlukování červených krvinek",
+    "paragraphs": [
+      "Aglutinace nastává, když se protilátky (aglutininy) navážou na antigeny (aglutinogeny) erytrocytů a propojí je do shluků. Na tom stojí určování krevních skupin. Srážení krve je děj vedoucí ke vzniku fibrinu."
+    ],
+    "memory": "Aglutinace = shlukování, koagulace = srážení."
+  },
+  {
+    "id": 600,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 712 · str. 153",
+    "sourcePages": "153",
+    "sourceItem": "712",
+    "question": "Kdy může dítě postihnout hemolytická nemoc novorozence z inkompatibility v systému Rh?",
+    "options": [
+      "když jsou otec i matka Rh negativní",
+      "když je matka Rh pozitivní a dítě Rh negativní",
+      "když je otec Rh negativní a matka Rh pozitivní",
+      "když je matka Rh negativní a dítě Rh pozitivní"
+    ],
+    "answer": 3,
+    "title": "když je matka Rh negativní a dítě Rh pozitivní",
+    "paragraphs": [
+      "Rh negativní matka může vytvořit protilátky proti erytrocytům Rh pozitivního plodu, obvykle po předchozím těhotenství nebo porodu. Protilátky procházejí placentou a rozkládají krvinky plodu. Předchází se tomu podáním anti-D imunoglobulinu."
+    ],
+    "memory": "Matka minus, dítě plus."
+  }
+]
