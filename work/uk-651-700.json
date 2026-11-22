@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 651,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 813 · str. 172",
+    "sourcePages": "172",
+    "sourceItem": "813",
+    "question": "Co je neodarwinismus?",
+    "options": [
+      "učení akademika Lysenka o dědičnosti získaných vlastností",
+      "kreacionistické učení o inteligentním designu",
+      "evoluční teorie spojující klasický darwinismus s mendelovskou a populační genetikou",
+      "teorie, podle níž nové druhy vznikají jen po velkých katastrofách"
+    ],
+    "answer": 2,
+    "title": "evoluční teorie spojující klasický darwinismus s mendelovskou a populační genetikou",
+    "paragraphs": [
+      "Neodarwinismus (syntetická teorie evoluce) vznikl ve 30. a 40. letech 20. století. Vysvětluje přírodní výběr pomocí genů, alel a jejich frekvencí v populacích. Lysenkova „mičurinská biologie“ byla naopak lamarckistická pavěda."
+    ],
+    "memory": "Neo-darwinismus = Darwin + genetika."
+  },
+  {
+    "id": 652,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 815 · str. 172",
+    "sourcePages": "172",
+    "sourceItem": "815",
+    "question": "Co platí o pravěkých krytolebcích?",
+    "options": [
+      "byli prvními plazy na Zemi",
+      "žili už v kambriu a ordoviku",
+      "vyvinuli se z malých druhohorních dinosaurů",
+      "jsou blízce příbuzní dnešním obojživelníkům"
+    ],
+    "answer": 3,
+    "title": "jsou blízce příbuzní dnešním obojživelníkům",
+    "paragraphs": [
+      "Krytolebci byli prvohorní a raně druhohorní obojživelníci, k nimž mají blízko dnešní obojživelníci. Objevili se v devonu, tedy dlouho po kambriu a ordoviku, a plazy nebyli."
+    ],
+    "memory": "Krytolebci = staří obojživelníci."
+  },
+  {
+    "id": 653,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 817 · str. 173",
+    "sourcePages": "173",
+    "sourceItem": "817",
+    "question": "Ve kterém období se podle fosilních dokladů objevily krytosemenné rostliny?",
+    "options": [
+      "v druhohorách",
+      "v kambriu",
+      "na počátku karbonu",
+      "ve čtvrtohorách"
+    ],
+    "answer": 0,
+    "title": "v druhohorách",
+    "paragraphs": [
+      "Nejstarší krytosemenné rostliny pocházejí z druhohor. Kniha uvádí střední juru, nejstarší nesporné zkameněliny jsou ze spodní křídy. Ve třetihorách se pak krytosemenné staly převládající skupinou rostlin."
+    ],
+    "memory": "Květy přišly s dinosaury v druhohorách."
+  },
+  {
+    "id": 654,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 818 · str. 173",
+    "sourcePages": "173",
+    "sourceItem": "818",
+    "question": "Co jsou kordaity?",
+    "options": [
+      "dodnes žijící cykasy z Madagaskaru",
+      "vymřelé nahosemenné rostliny z období karbonu a permu",
+      "vymřelé krytosemenné rostliny z jury a křídy",
+      "vymřelé kapradiny výhradně ze siluru"
+    ],
+    "answer": 1,
+    "title": "vymřelé nahosemenné rostliny z období karbonu a permu",
+    "paragraphs": [
+      "Kordaity byly stromovité nahosemenné rostliny s dlouhými páskovitými listy. Spolu s plavuněmi a přesličkami tvořily permokarbonské lesy, z nichž vzniklo černé uhlí."
+    ],
+    "memory": "Kordaity = nahosemenné z uhelných lesů."
+  },
+  {
+    "id": 655,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 819 · str. 173",
+    "sourcePages": "173",
+    "sourceItem": "819",
+    "question": "Co ukazuje studium mitochondriální DNA různých lidských populací (teorie mitochondriální Evy)?",
+    "options": [
+      "moderní člověk vznikl nezávisle na několika místech Země",
+      "moderní člověk vznikl v Austrálii z australopitéka",
+      "moderní člověk vznikl nejspíše v jednom centru v Africe",
+      "mitochondriální DNA se mezi populacemi vůbec neliší"
+    ],
+    "answer": 2,
+    "title": "moderní člověk vznikl nejspíše v jednom centru v Africe",
+    "paragraphs": [
+      "Mitochondriální DNA se dědí jen po matce a hromadí mutace přibližně stálou rychlostí. Největší rozmanitost mají africké populace, což podporuje monocentrickou teorii afrického původu Homo sapiens."
+    ],
+    "memory": "Mitochondriální Eva žila v Africe."
+  },
+  {
+    "id": 656,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 820 · str. 173",
+    "sourcePages": "173",
+    "sourceItem": "820",
+    "question": "V čem spočívá role přírodního výběru podle současných evolučních teorií?",
+    "options": [
+      "sám vyvolává příznivé mutace u některých jedinců",
+      "působí pouze v malých populacích a zvyšuje jejich početnost",
+      "zajišťuje, že všichni jedinci populace zanechají stejný počet potomků",
+      "zvýhodňuje při rozmnožování jedince, jejichž genetická výbava jim umožňuje přežít v daných podmínkách"
+    ],
+    "answer": 3,
+    "title": "zvýhodňuje při rozmnožování jedince, jejichž genetická výbava jim umožňuje přežít v daných podmínkách",
+    "paragraphs": [
+      "Přírodní výběr mutace nevytváří, jen třídí existující variabilitu. Jedinci s výhodnými vlastnostmi mají více potomků, a proto se jejich alely v populaci šíří."
+    ],
+    "memory": "Výběr třídí, mutace tvoří."
+  },
+  {
+    "id": 657,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 821 · str. 174",
+    "sourcePages": "174",
+    "sourceItem": "821",
+    "question": "Ze kterého období pocházejí fosilie prvních ptáků?",
+    "options": [
+      "z jury",
+      "z permu",
+      "ze siluru",
+      "z počátku třetihor"
+    ],
+    "answer": 0,
+    "title": "z jury",
+    "paragraphs": [
+      "Nejznámějším raným ptákem je archeopteryx z pozdní jury, nalezený v Solnhofenu v Bavorsku. Měl peří a křídla, ale také zuby a dlouhý ocas s obratli."
+    ],
+    "memory": "Archeopteryx = jura."
+  },
+  {
+    "id": 658,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 823 · str. 174",
+    "sourcePages": "174",
+    "sourceItem": "823",
+    "question": "Kdy vznikly první mnohobuněčné organismy?",
+    "options": [
+      "v prahorách (archaiku)",
+      "ve starohorách (proterozoiku)",
+      "v prvohorách",
+      "na přelomu prvohor a druhohor"
+    ],
+    "answer": 1,
+    "title": "ve starohorách (proterozoiku)",
+    "paragraphs": [
+      "Mnohobuněčné organismy se objevily v pozdních starohorách. Patří k nim například ediakarská fauna. V prvohorách pak přišel kambrický rozvoj živočichů s pevnými schránkami."
+    ],
+    "memory": "Mnohobuněční už před kambriem."
+  },
+  {
+    "id": 659,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 824 · str. 174",
+    "sourcePages": "174",
+    "sourceItem": "824",
+    "question": "Které tvrzení o reprodukčně izolačních mechanismech není správné?",
+    "options": [
+      "umožňují vznik nových druhů nebo poddruhů",
+      "mohou mít i geografický charakter",
+      "působí jako přírodní výběr a omezují rozmnožování všech hůře přizpůsobených jedinců",
+      "patří k nim i snížená životaschopnost většiny mezidruhových kříženců"
+    ],
+    "answer": 2,
+    "title": "působí jako přírodní výběr a omezují rozmnožování všech hůře přizpůsobených jedinců",
+    "paragraphs": [
+      "Izolační mechanismy brání toku genů mezi populacemi, a tím umožňují jejich oddělený vývoj. Mohou být prostorové, časové, etologické nebo postzygotické, například neplodní kříženci. S výběrem hůře přizpůsobených jedinců nesouvisejí."
+    ],
+    "memory": "Izolace = bariéra pro geny."
+  },
+  {
+    "id": 660,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 825 · str. 174",
+    "sourcePages": "174",
+    "sourceItem": "825",
+    "question": "Co prokázal pokus Millera a Ureyho?",
+    "options": [
+      "že z bílkovin mohou vzniknout celé buňky",
+      "platnost teorie RNA-světa",
+      "že život na Zemi přinesly meteority",
+      "že z jednoduchých anorganických molekul mohou vzniknout složitější biochemicky významné organické látky"
+    ],
+    "answer": 3,
+    "title": "že z jednoduchých anorganických molekul mohou vzniknout složitější biochemicky významné organické látky",
+    "paragraphs": [
+      "V roce 1953 vystavili Miller a Urey směs plynů rané atmosféry (methan, amoniak, vodík, vodní pára) elektrickým výbojům. Vznikly mimo jiné aminokyseliny."
+    ],
+    "memory": "Výboj + plyny = aminokyseliny."
+  },
+  {
+    "id": 661,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 826 · str. 174",
+    "sourcePages": "174",
+    "sourceItem": "826",
+    "question": "Co platí o prvních fotosyntetizujících prokaryotech?",
+    "options": [
+      "svou činností přispěla k vytvoření kyslíkové atmosféry",
+      "vznikla až po vytvoření kyslíkové atmosféry",
+      "produkovala pouze plynný dusík",
+      "produkovala pouze methan"
+    ],
+    "answer": 0,
+    "title": "svou činností přispěla k vytvoření kyslíkové atmosféry",
+    "paragraphs": [
+      "Sinice při fotosyntéze štěpí vodu a uvolňují kyslík. Jejich miliardy let trvající činnost změnila redukční atmosféru Země na oxidační."
+    ],
+    "memory": "Sinice nadýchaly kyslík."
+  },
+  {
+    "id": 662,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 827 · str. 175",
+    "sourcePages": "175",
+    "sourceItem": "827",
+    "question": "Jak vznikly stromatolity?",
+    "options": [
+      "činností korálnatců",
+      "činností autotrofních prokaryot, hlavně sinic",
+      "usazením schránek dírkovců a mřížovců",
+      "vysrážením hydroxidu železitého bez účasti organismů"
+    ],
+    "answer": 1,
+    "title": "činností autotrofních prokaryot, hlavně sinic",
+    "paragraphs": [
+      "Stromatolity jsou vrstevnaté útvary z povlaků sinic a bakterií, které zachytávají a vysrážejí uhličitan vápenatý. Patří k nejstarším dokladům života a dodnes rostou například v Žraločí zátoce v Austrálii."
+    ],
+    "memory": "Stromatolit = vrstvy po sinicích."
+  },
+  {
+    "id": 663,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 828 · str. 175",
+    "sourcePages": "175",
+    "sourceItem": "828",
+    "question": "Do které éry patří období zvané pleistocén?",
+    "options": [
+      "do mladších třetihor",
+      "do starších třetihor",
+      "do čtvrtohor",
+      "do mladších druhohor"
+    ],
+    "answer": 2,
+    "title": "do čtvrtohor",
+    "paragraphs": [
+      "Čtvrtohory se dělí na pleistocén se střídáním ledových a meziledových dob a na holocén, který trvá posledních zhruba 11 700 let."
+    ],
+    "memory": "Pleistocén = doba ledová ve čtvrtohorách."
+  },
+  {
+    "id": 664,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 829 · str. 175",
+    "sourcePages": "175",
+    "sourceItem": "829",
+    "question": "Ve které oblasti České republiky jsou proslulá naleziště prvohorních zkamenělin, například trilobitů?",
+    "options": [
+      "v hnědouhelných pánvích severozápadních Čech",
+      "v Pavlovských vrších na jižní Moravě",
+      "v Třeboňské pánvi",
+      "v Českém krasu a na Křivoklátsku západně od Prahy"
+    ],
+    "answer": 3,
+    "title": "v Českém krasu a na Křivoklátsku západně od Prahy",
+    "paragraphs": [
+      "Oblast zvanou Barrandien proslavil Joachim Barrande popisem stovek druhů trilobitů a dalších prvohorních živočichů. Prvohorní zkameněliny najdeme i v Moravském krasu. Hnědouhelné pánve jsou třetihorní."
+    ],
+    "memory": "Barrandien = trilobiti u Prahy."
+  },
+  {
+    "id": 665,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 830 · str. 175",
+    "sourcePages": "175",
+    "sourceItem": "830",
+    "question": "Kdy žila ediakarská (vendská) fauna?",
+    "options": [
+      "v pozdním prekambriu (starohorách)",
+      "na přelomu prvohor a druhohor",
+      "v siluru",
+      "na počátku třetihor"
+    ],
+    "answer": 0,
+    "title": "v pozdním prekambriu (starohorách)",
+    "paragraphs": [
+      "Ediakarská fauna jsou otisky měkkých mnohobuněčných organismů z doby před zhruba 575 až 540 miliony let. Je pojmenována podle pohoří Ediacara v Austrálii."
+    ],
+    "memory": "Ediakara = před kambriem."
+  },
+  {
+    "id": 666,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 831 · str. 175",
+    "sourcePages": "175",
+    "sourceItem": "831",
+    "question": "Co platí podle současných poznatků o neandrtálci?",
+    "options": [
+      "byl přímým předkem, z něhož se vyvinul Homo sapiens",
+      "byl dlouhou dobu současníkem člověka moudrého",
+      "byl lidoopem ze třetihorní Afriky",
+      "byl poddruhem Homo erectus"
+    ],
+    "answer": 1,
+    "title": "byl dlouhou dobu současníkem člověka moudrého",
+    "paragraphs": [
+      "Neandrtálci žili v Evropě a západní Asii zhruba před 400 000 až 40 000 lety. Moderní lidé s nimi desítky tisíc let sdíleli prostor. Jde o samostatnou vývojovou větev, ne o přímého předka."
+    ],
+    "memory": "Neandrtálec = bratranec, ne předek."
+  },
+  {
+    "id": 667,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 832 · str. 176",
+    "sourcePages": "176",
+    "sourceItem": "832",
+    "question": "Jaký přibližný objem mozkovny měli australopitéci?",
+    "options": [
+      "asi 1 000 cm³",
+      "asi 1 400 cm³",
+      "asi 500 cm³",
+      "asi 1 700 cm³"
+    ],
+    "answer": 2,
+    "title": "asi 500 cm³",
+    "paragraphs": [
+      "Australopitéci chodili vzpřímeně, ale měli mozek velký asi jako dnešní šimpanz, zhruba 400 až 550 cm³. Dnešní člověk má průměrně asi 1 350 až 1 400 cm³."
+    ],
+    "memory": "Vzpřímení, ale s mozkem šimpanze."
+  },
+  {
+    "id": 668,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 833 · str. 176",
+    "sourcePages": "176",
+    "sourceItem": "833",
+    "question": "Na čem jsou založeny přímé metody datování paleontologických nálezů?",
+    "options": [
+      "na sledování uložení vrstev (principu superpozice)",
+      "na stanovení fosforečnanového fosforu ve fosiliích",
+      "na míře otlaku a obroušení fosilií",
+      "na stanovení obsahu nestabilních radioaktivních izotopů"
+    ],
+    "answer": 3,
+    "title": "na stanovení obsahu nestabilních radioaktivních izotopů",
+    "paragraphs": [
+      "Radiometrické metody, například radiouhlíková nebo draslíko-argonová, určují stáří podle známého poločasu přeměny izotopů. Princip superpozice dává jen relativní pořadí vrstev."
+    ],
+    "memory": "Izotopy = absolutní stáří."
+  },
+  {
+    "id": 669,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 834 · str. 176",
+    "sourcePages": "176",
+    "sourceItem": "834",
+    "question": "Ke kterému druhu patří kromaňonský člověk?",
+    "options": [
+      "Homo sapiens",
+      "Homo erectus",
+      "Homo neanderthalensis",
+      "Homo habilis"
+    ],
+    "answer": 0,
+    "title": "Homo sapiens",
+    "paragraphs": [
+      "Kromaňonci byli lidé mladšího paleolitu v Evropě a v základních znacích se nelišili od dnešních lidí. Jejich pozůstatky známe i z Dolních Věstonic a z Předmostí u Přerova."
+    ],
+    "memory": "Kromaňonec = moderní člověk."
+  },
+  {
+    "id": 670,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 836 · str. 176",
+    "sourcePages": "176",
+    "sourceItem": "836",
+    "question": "Ve které z uvedených hornin fosilie zpravidla nenajdeme?",
+    "options": [
+      "v sedimentární břidlici",
+      "v čediči",
+      "v organogenním vápenci",
+      "v pískovci"
+    ],
+    "answer": 1,
+    "title": "v čediči",
+    "paragraphs": [
+      "Zkameněliny se zachovávají v usazených horninách. Čedič je vyvřelá hornina z utuhlé lávy, v níž se organismy nezachovají."
+    ],
+    "memory": "Fosilie jen v usazeninách."
+  },
+  {
+    "id": 671,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 837 · str. 177",
+    "sourcePages": "177",
+    "sourceItem": "837",
+    "question": "Jakým živočichem byl Orthoceras?",
+    "options": [
+      "kambrickým trilobitem",
+      "třetihorním sladkovodním mlžem",
+      "prvohorním hlavonožcem příbuzným dnešním loděnkám",
+      "druhohorním dinosaurem s rohem na hlavě"
+    ],
+    "answer": 2,
+    "title": "prvohorním hlavonožcem příbuzným dnešním loděnkám",
+    "paragraphs": [
+      "Orthoceras měl rovnou kuželovitou schránku rozdělenou přepážkami. Patřil k loděnkovitým hlavonožcům a jeho zkameněliny jsou hojné v prvohorních vápencích, také v Barrandienu."
+    ],
+    "memory": "Ortho = rovný, keras = roh."
+  },
+  {
+    "id": 672,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 838 · str. 177",
+    "sourcePages": "177",
+    "sourceItem": "838",
+    "question": "Kterou myšlenku zastával J. B. Lamarck?",
+    "options": [
+      "nové druhy vznikají působením přírodního výběru",
+      "druhy jsou neměnné a byly stvořeny najednou",
+      "hnacím motorem evoluce jsou genové mutace",
+      "organismy získávají během života nové vlastnosti a předávají je potomkům"
+    ],
+    "answer": 3,
+    "title": "organismy získávají během života nové vlastnosti a předávají je potomkům",
+    "paragraphs": [
+      "Lamarck v roce 1809 popsal evoluci jako výsledek používání a nepoužívání orgánů a dědičnosti získaných vlastností. Přírodní výběr je myšlenkou Darwina, mutace přinesla až genetika 20. století."
+    ],
+    "memory": "Lamarck = žirafa natahuje krk."
+  },
+  {
+    "id": 673,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 839 · str. 177",
+    "sourcePages": "177",
+    "sourceItem": "839",
+    "question": "Ve kterém z uvedených období už území České republiky nezalévalo moře?",
+    "options": [
+      "v holocénu",
+      "ve starohorách",
+      "v prvohorách",
+      "v druhohorách"
+    ],
+    "answer": 0,
+    "title": "v holocénu",
+    "paragraphs": [
+      "Moře zaplavovalo naše území opakovaně ve starohorách, prvohorách i v druhohorní křídě. Na Moravu zasahovalo ještě v třetihorách. Ve čtvrtohorách, a tedy ani v holocénu, už moře na naše území nedosahovalo."
+    ],
+    "memory": "Křídové pískovce = staré mořské dno."
+  },
+  {
+    "id": 674,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 840 · str. 177",
+    "sourcePages": "177",
+    "sourceItem": "840",
+    "question": "V čem spočívá evoluční význam mutací?",
+    "options": [
+      "mají pouze zápornou úlohu, protože zvyšují počet vrozených vad",
+      "přispívají ke vzniku a zachování genetické variability populací",
+      "jsou hlavním selekčním činitelem",
+      "snižují genetickou variabilitu populací"
+    ],
+    "answer": 1,
+    "title": "přispívají ke vzniku a zachování genetické variability populací",
+    "paragraphs": [
+      "Mutace jsou primárním zdrojem nových alel. Většina je neutrálních nebo škodlivých, ale některé jsou výhodné a přírodní výběr je může v populaci rozšířit."
+    ],
+    "memory": "Bez mutací by nebylo z čeho vybírat."
+  },
+  {
+    "id": 675,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 841 · str. 177",
+    "sourcePages": "177",
+    "sourceItem": "841",
+    "question": "Z čeho se vyvinuli krytolebci?",
+    "options": [
+      "z malých druhohorních dinosaurů",
+      "z prvohorních paryb",
+      "z prvohorních lalokoploutvých ryb",
+      "z druhohorních paryb"
+    ],
+    "answer": 2,
+    "title": "z prvohorních lalokoploutvých ryb",
+    "paragraphs": [
+      "Lalokoploutvé ryby měly svalnaté ploutve s kostrou podobnou končetině a někdy i plíce. Z nich se v devonu vyvinuli první čtyřnozí obratlovci, k nimž patřili krytolebci."
+    ],
+    "memory": "Laloky ploutví = základ končetin."
+  },
+  {
+    "id": 676,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 842 · str. 178",
+    "sourcePages": "178",
+    "sourceItem": "842",
+    "question": "Který z uvedených savců je člověku fylogeneticky nejblíže příbuzný?",
+    "options": [
+      "gorila",
+      "orangutan",
+      "makak",
+      "šimpanz"
+    ],
+    "answer": 3,
+    "title": "šimpanz",
+    "paragraphs": [
+      "Linie člověka a šimpanze se oddělila zhruba před 6 až 7 miliony let, dříve se odštěpila gorila a ještě dříve orangutan. Makak je opice Starého světa, mnohem vzdálenější."
+    ],
+    "memory": "Šimpanz = nejbližší příbuzný."
+  },
+  {
+    "id": 677,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 843 · str. 178",
+    "sourcePages": "178",
+    "sourceItem": "843",
+    "question": "Čeho je příkladem podobnost a stejná funkce ploutví ryb a kytovců?",
+    "options": [
+      "konvergence",
+      "divergence",
+      "adaptivní speciace",
+      "homologie"
+    ],
+    "answer": 0,
+    "title": "konvergence",
+    "paragraphs": [
+      "Kytovci jsou savci, jejichž předkové žili na souši. Ploutvovitý tvar končetin u nich vznikl nezávisle na rybách díky stejným nárokům vodního prostředí. Podobnost nepříbuzných skupin je konvergence."
+    ],
+    "memory": "Konvergence = sbíhání tvarů."
+  },
+  {
+    "id": 678,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 845 · str. 178",
+    "sourcePages": "178",
+    "sourceItem": "845",
+    "question": "Který proces je pro evoluci člověka podle většiny teorií považován za primární?",
+    "options": [
+      "zvětšení objemu mozkovny",
+      "vznik vzpřímené chůze po dvou končetinách",
+      "rozvoj ruky",
+      "prodloužení končetin"
+    ],
+    "answer": 1,
+    "title": "vznik vzpřímené chůze po dvou končetinách",
+    "paragraphs": [
+      "Bipedie se objevila jako první, už u nejstarších homininů. Výrazné zvětšení mozku přišlo až o miliony let později u rodu Homo."
+    ],
+    "memory": "Nejdřív nohy, pak hlava."
+  },
+  {
+    "id": 679,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 846 · str. 178",
+    "sourcePages": "178",
+    "sourceItem": "846",
+    "question": "Jak se nazývá celek tvořený obdobími trias, jura a křída?",
+    "options": [
+      "prvohory (paleozoikum)",
+      "třetihory",
+      "druhohory (mezozoikum)",
+      "čtvrtohory"
+    ],
+    "answer": 2,
+    "title": "druhohory (mezozoikum)",
+    "paragraphs": [
+      "Druhohory trvaly asi od 252 do 66 milionů let a končily vymíráním dinosaurů. Dělí se na trias, juru a křídu."
+    ],
+    "memory": "Trias, jura, křída = druhohory."
+  },
+  {
+    "id": 680,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 848 · str. 179",
+    "sourcePages": "179",
+    "sourceItem": "848",
+    "question": "Jakými orgány jsou vzdušnice hmyzu a plíce savců?",
+    "options": [
+      "homologickými",
+      "divergentními",
+      "orgány se stejným evolučním původem",
+      "analogickými"
+    ],
+    "answer": 3,
+    "title": "analogickými",
+    "paragraphs": [
+      "Vzdušnice i plíce slouží k dýchání vzduchu, ale vznikly z různých základů v nepříbuzných liniích. Orgány se stejnou funkcí a odlišným původem jsou analogické, orgány se společným původem homologické."
+    ],
+    "memory": "Analogie = funkce, homologie = původ."
+  },
+  {
+    "id": 681,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 850 · str. 179",
+    "sourcePages": "179",
+    "sourceItem": "850",
+    "question": "Který z uvedených fosilních homininů je fylogeneticky nejstarší?",
+    "options": [
+      "Sahelanthropus tchadensis",
+      "Australopithecus africanus",
+      "Homo habilis",
+      "Homo neanderthalensis"
+    ],
+    "answer": 0,
+    "title": "Sahelanthropus tchadensis",
+    "paragraphs": [
+      "Sahelanthropus z Čadu je starý asi 6 až 7 milionů let a patří k nejstarším známým homininům. Australopithecus africanus je asi 3 miliony let starý, Homo habilis kolem 2 milionů a neandrtálec jen statisíce let."
+    ],
+    "memory": "Sahel = nejstarší, u kořene."
+  },
+  {
+    "id": 682,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 852 · str. 179",
+    "sourcePages": "179",
+    "sourceItem": "852",
+    "question": "Co platí podle současných poznatků o vztahu člověka moudrého a neandrtálce?",
+    "options": [
+      "potkávali se, ale nemohli se křížit",
+      "mohli se spolu křížit",
+      "nikdy nežili ve stejném období",
+      "neandrtálec je přímým předkem člověka moudrého"
+    ],
+    "answer": 1,
+    "title": "mohli se spolu křížit",
+    "paragraphs": [
+      "Sekvenování neandrtálského genomu ukázalo, že lidé mimo Afriku mají v genomu asi 1 až 2 % neandrtálské DNA. Ke křížení tedy docházelo. V knize u této otázky klíč chybí, odpověď se opírá o současnou paleogenetiku."
+    ],
+    "memory": "Trochu neandrtálce je v nás."
+  },
+  {
+    "id": 683,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 854 · str. 180",
+    "sourcePages": "180",
+    "sourceItem": "854",
+    "question": "Jak se neandrtálci tělesně lišili od člověka moudrého?",
+    "options": [
+      "byli výrazně vyšší a robustnější",
+      "byli výrazně vyšší a měli subtilnější kostru",
+      "byli přibližně stejně vysocí, ale měli robustnější kostru",
+      "byli výrazně menší a měli subtilnější kostru"
+    ],
+    "answer": 2,
+    "title": "byli přibližně stejně vysocí, ale měli robustnější kostru",
+    "paragraphs": [
+      "Neandrtálci byli podsadití, svalnatí, s mohutnými kostmi a širokým hrudníkem, což odpovídá přizpůsobení chladnému klimatu. Výškou se od tehdejších moderních lidí výrazně nelišili."
+    ],
+    "memory": "Stejně vysoký, ale zavalitý."
+  },
+  {
+    "id": 684,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 855 · str. 180",
+    "sourcePages": "180",
+    "sourceItem": "855",
+    "question": "Které tvrzení o lidských plemenech není správné?",
+    "options": [
+      "plemena se liší například pigmentací kůže a tvarem vlasů",
+      "plemena se též nazývají rasy",
+      "lidská plemena se odedávna vzájemně mísí",
+      "jednotlivá lidská plemena jsou samostatné lidské druhy"
+    ],
+    "answer": 3,
+    "title": "jednotlivá lidská plemena jsou samostatné lidské druhy",
+    "paragraphs": [
+      "Všichni dnešní lidé patří k jednomu druhu Homo sapiens a mohou mít plodné potomstvo. Rozdíly mezi plemeny jsou malé a mezi nimi existují plynulé přechody."
+    ],
+    "memory": "Jeden druh, mnoho podob."
+  },
+  {
+    "id": 685,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 856 · str. 180",
+    "sourcePages": "180",
+    "sourceItem": "856",
+    "question": "Co označuje pojem metizace lidských plemen?",
+    "options": [
+      "vzájemné míšení lidských plemen",
+      "geografické oddělení populací vedoucí ke vzniku nových plemen",
+      "klasifikační systém plemen podle znaků",
+      "rasovou politiku španělských kolonizátorů"
+    ],
+    "answer": 0,
+    "title": "vzájemné míšení lidských plemen",
+    "paragraphs": [
+      "Metizace je míšení populací s různým původem. Jejím výsledkem jsou míšenci, například mestici v Latinské Americe."
+    ],
+    "memory": "Metizace = míšení."
+  },
+  {
+    "id": 686,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie",
+    "bookRef": "UK · Biologie · Ekologie · otázka 857 · str. 182",
+    "sourcePages": "182",
+    "sourceItem": "857",
+    "question": "Který z uvedených organismů patří mezi producenty?",
+    "options": [
+      "heterotrofní bakterie",
+      "sinice",
+      "houba",
+      "žížala"
+    ],
+    "answer": 1,
+    "title": "sinice",
+    "paragraphs": [
+      "Producenti vytvářejí organické látky z anorganických, většinou fotosyntézou. Kromě rostlin k nim patří sinice, řasy a autotrofní bakterie. Houby a heterotrofní bakterie jsou rozkladači."
+    ],
+    "memory": "Producent = autotrof."
+  },
+  {
+    "id": 687,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie",
+    "bookRef": "UK · Biologie · Ekologie · otázka 858 · str. 182",
+    "sourcePages": "182",
+    "sourceItem": "858",
+    "question": "Co je sukcese?",
+    "options": [
+      "proces, který začíná až po dosažení klimaxu",
+      "pravidelné sezónní střídání druhů během roku",
+      "dlouhodobý postupný vývoj společenstva směřující ke stavu klimaxu",
+      "náhlé zničení společenstva požárem nebo povodní"
+    ],
+    "answer": 2,
+    "title": "dlouhodobý postupný vývoj společenstva směřující ke stavu klimaxu",
+    "paragraphs": [
+      "Při sukcesi se na stanovišti postupně střídají společenstva, například na opuštěném poli od plevelů přes keře po les. Konečné relativně stabilní stadium je klimax. Sezónní změny sukcesí nejsou."
+    ],
+    "memory": "Sukcese = cesta ke klimaxu."
+  },
+  {
+    "id": 688,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie",
+    "bookRef": "UK · Biologie · Ekologie · otázka 859 · str. 182",
+    "sourcePages": "182",
+    "sourceItem": "859",
+    "question": "Jaká je u většiny ekosystémů biomasa producentů ve srovnání s biomasou konzumentů?",
+    "options": [
+      "nižší",
+      "stejná",
+      "nulová",
+      "vyšší"
+    ],
+    "answer": 3,
+    "title": "vyšší",
+    "paragraphs": [
+      "Při přechodu na každou vyšší trofickou úroveň se většina energie ztrácí dýcháním a teplem. Proto bývá biomasa producentů největší a biomasa konzumentů vyšších řádů postupně menší (ekologická pyramida)."
+    ],
+    "memory": "Pyramida se zužuje vzhůru."
+  },
+  {
+    "id": 689,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie",
+    "bookRef": "UK · Biologie · Ekologie · otázka 860 · str. 182",
+    "sourcePages": "182",
+    "sourceItem": "860",
+    "question": "Které organismy patří mezi endoparazity?",
+    "options": [
+      "někteří prvoci, hlístice a motolice",
+      "klíšťata a vši",
+      "blechy a komáři",
+      "jmelí a kokotice"
+    ],
+    "answer": 0,
+    "title": "někteří prvoci, hlístice a motolice",
+    "paragraphs": [
+      "Endoparaziti žijí uvnitř těla hostitele, například zimnička, škrkavka nebo motolice jaterní. Klíšťata, vši a blechy žijí na povrchu těla a jsou ektoparaziti. Jmelí a kokotice jsou parazitické rostliny na povrchu hostitele."
+    ],
+    "memory": "Endo = uvnitř."
+  },
+  {
+    "id": 690,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie",
+    "bookRef": "UK · Biologie · Ekologie · otázka 861 · str. 183",
+    "sourcePages": "183",
+    "sourceItem": "861",
+    "question": "Ve které skupině jsou uvedeny pouze abiotické podmínky?",
+    "options": [
+      "vlhkost, symbiotické bakterie, složení ovzduší",
+      "střídání světla a tmy, teplota, vlhkost",
+      "světlo, teplota, přítomnost parazitů",
+      "střídání světla a tmy, predátoři, teplota"
+    ],
+    "answer": 1,
+    "title": "střídání světla a tmy, teplota, vlhkost",
+    "paragraphs": [
+      "Abiotické podmínky jsou neživé faktory prostředí, například světlo, teplota, voda, půda a ovzduší. Paraziti, predátoři a symbiotické bakterie jsou biotické faktory."
+    ],
+    "memory": "Abiotický = neživý."
+  },
+  {
+    "id": 691,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie",
+    "bookRef": "UK · Biologie · Ekologie · otázka 862 · str. 183",
+    "sourcePages": "183",
+    "sourceItem": "862",
+    "question": "Co je konečným produktem rozkladu odumřelé organické hmoty?",
+    "options": [
+      "jednoduché organické látky",
+      "huminové kyseliny a voda",
+      "jednoduché anorganické látky",
+      "fulvokyseliny"
+    ],
+    "answer": 2,
+    "title": "jednoduché anorganické látky",
+    "paragraphs": [
+      "Rozkladači postupně rozloží organickou hmotu až na oxid uhličitý, vodu, amonné ionty, dusičnany a další minerální látky (mineralizace). Huminové látky jsou jen mezistupněm."
+    ],
+    "memory": "Rozklad končí minerály."
+  },
+  {
+    "id": 692,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie",
+    "bookRef": "UK · Biologie · Ekologie · otázka 863 · str. 183",
+    "sourcePages": "183",
+    "sourceItem": "863",
+    "question": "Čím je vyvoláno zmlazení ekosystému?",
+    "options": [
+      "vyzráváním ekosystému",
+      "dosažením klimaxu",
+      "trvale stálými podmínkami prostředí",
+      "zhroucením staršího ekosystému"
+    ],
+    "answer": 3,
+    "title": "zhroucením staršího ekosystému",
+    "paragraphs": [
+      "Když se zralý ekosystém zhroutí, například po vichřici, požáru nebo přemnožení škůdců, sukcese začíná znovu od mladších stadií. Vymírají přitom specializované druhy a šíří se pionýrské."
+    ],
+    "memory": "Po zhroucení začíná znovu."
+  },
+  {
+    "id": 693,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie",
+    "bookRef": "UK · Biologie · Ekologie · otázka 864 · str. 183",
+    "sourcePages": "183",
+    "sourceItem": "864",
+    "question": "Co je bentos?",
+    "options": [
+      "soubor organismů žijících na dně vod",
+      "soubor organismů ve volné vodě",
+      "soubor živočichů trvale žijících v půdě",
+      "soubor organismů obývajících koruny stromů"
+    ],
+    "answer": 0,
+    "title": "soubor organismů žijících na dně vod",
+    "paragraphs": [
+      "Bentos tvoří například larvy hmyzu, měkkýši, korýši, ploštěnky a řasy přisedlé ke dnu. Organismy volné vody jsou plankton a nekton."
+    ],
+    "memory": "Bentos = dno."
+  },
+  {
+    "id": 694,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie",
+    "bookRef": "UK · Biologie · Ekologie · otázka 865 · str. 183",
+    "sourcePages": "183",
+    "sourceItem": "865",
+    "question": "Který vztah je příkladem mutualismu?",
+    "options": [
+      "kompetice dvou druhů o stejnou potravu",
+      "mykorhiza hub a kořenů rostlin",
+      "vztah tasemnice a člověka",
+      "vztah lišky a zajíce"
+    ],
+    "answer": 1,
+    "title": "mykorhiza hub a kořenů rostlin",
+    "paragraphs": [
+      "Mutualismus je vzájemně výhodné soužití dvou druhů. Houba při mykorhize získává od rostliny cukry a rostlině dodává vodu a minerální látky. Tasemnice je parazit a liška predátor."
+    ],
+    "memory": "Mutualismus = oba získávají."
+  },
+  {
+    "id": 695,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie",
+    "bookRef": "UK · Biologie · Ekologie · otázka 867 · str. 184",
+    "sourcePages": "184",
+    "sourceItem": "867",
+    "question": "Co označuje pojem biom?",
+    "options": [
+      "soubor jedinců jednoho druhu se stejným genomem",
+      "souhrn všech organismů biosféry",
+      "soubor ekosystémů se společnými znaky, často geograficky vymezený",
+      "koloběh biogenních látek"
+    ],
+    "answer": 2,
+    "title": "soubor ekosystémů se společnými znaky, často geograficky vymezený",
+    "paragraphs": [
+      "Biomy jsou velké jednotky biosféry podmíněné hlavně podnebím, například tropický deštný les, savana, step, tajga nebo tundra."
+    ],
+    "memory": "Biom = velký typ krajiny."
+  },
+  {
+    "id": 696,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie",
+    "bookRef": "UK · Biologie · Ekologie · otázka 870 · str. 184",
+    "sourcePages": "184",
+    "sourceItem": "870",
+    "question": "Co jsou ekotony?",
+    "options": [
+      "druhově chudá společenstva",
+      "uzavřená přírodní společenstva",
+      "všechny organismy žijící na jednom místě",
+      "přechodná pásma mezi dvěma společenstvy"
+    ],
+    "answer": 3,
+    "title": "přechodná pásma mezi dvěma společenstvy",
+    "paragraphs": [
+      "Ekoton je například okraj lesa nebo břeh rybníka. Mísí se v něm druhy obou sousedních společenstev, a proto bývá druhově bohatý (okrajový efekt)."
+    ],
+    "memory": "Ekoton = okraj, přechod."
+  },
+  {
+    "id": 697,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie",
+    "bookRef": "UK · Biologie · Ekologie · otázka 871 · str. 184",
+    "sourcePages": "184",
+    "sourceItem": "871",
+    "question": "Čím je vyvolána eutrofizace vod?",
+    "options": [
+      "zvýšeným přísunem anorganických živin, například z hnojiv",
+      "toxickým působením oxidu siřičitého z kyselých dešťů",
+      "přísunem toxických kovů z rudných dolů",
+      "úbytkem živin při intenzivním chovu ryb"
+    ],
+    "answer": 0,
+    "title": "zvýšeným přísunem anorganických živin, například z hnojiv",
+    "paragraphs": [
+      "Nadbytek dusíku a fosforu z hnojiv a odpadních vod způsobí přemnožení řas a sinic (vodní květ). Při jejich rozkladu ubývá kyslíku a hynou ryby."
+    ],
+    "memory": "Eutrofní = dobře živený."
+  },
+  {
+    "id": 698,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie",
+    "bookRef": "UK · Biologie · Ekologie · otázka 872 · str. 184",
+    "sourcePages": "184",
+    "sourceItem": "872",
+    "question": "Co nepatří k následkům acidifikace prostředí?",
+    "options": [
+      "snížení pH povrchových vod",
+      "zvýšení pH půdy",
+      "uvolnění toxických kovů z horninového podkladu",
+      "odumírání lesních porostů"
+    ],
+    "answer": 1,
+    "title": "zvýšení pH půdy",
+    "paragraphs": [
+      "Acidifikace je okyselování prostředí hlavně kyselými dešti z oxidů síry a dusíku. Hodnota pH vod i půd klesá, uvolňuje se například toxický hliník a lesy odumírají."
+    ],
+    "memory": "Okyselení = pH dolů."
+  },
+  {
+    "id": 699,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie",
+    "bookRef": "UK · Biologie · Ekologie · otázka 873 · str. 185",
+    "sourcePages": "185",
+    "sourceItem": "873",
+    "question": "Které vodní organismy označujeme jako plankton?",
+    "options": [
+      "organismy žijící na dně vod",
+      "organismy žijící na povrchové blance vody",
+      "organismy volně se vznášející ve vodě bez výrazného aktivního pohybu",
+      "organismy aktivně plovoucí ve volné vodě, například ryby"
+    ],
+    "answer": 2,
+    "title": "organismy volně se vznášející ve vodě bez výrazného aktivního pohybu",
+    "paragraphs": [
+      "Plankton unášený proudy tvoří drobné řasy (fytoplankton) a drobní živočichové jako perloočky a buchanky (zooplankton). Aktivně plovoucí ryby patří k nektonu a obyvatelé povrchové blanky k neustonu."
+    ],
+    "memory": "Plankton = vznášení."
+  },
+  {
+    "id": 700,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie",
+    "bookRef": "UK · Biologie · Ekologie · otázka 874 · str. 185",
+    "sourcePages": "185",
+    "sourceItem": "874",
+    "question": "Co je hlavním rezervoárem dusíku v jeho biogeochemickém cyklu?",
+    "options": [
+      "guano a dusičnanové horniny",
+      "organické sedimenty",
+      "povrchové a podzemní vody",
+      "atmosféra"
+    ],
+    "answer": 3,
+    "title": "atmosféra",
+    "paragraphs": [
+      "Vzduch obsahuje asi 78 % molekulového dusíku. Organismy ho do koloběhu vnášejí hlavně prostřednictvím hlízkových a dalších dusík poutajících bakterií a sinic."
+    ],
+    "memory": "Vzduch = 78 % dusíku."
+  }
+]
