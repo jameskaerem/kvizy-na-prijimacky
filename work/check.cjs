@@ -226,12 +226,14 @@ assert.deepEqual(reload.storage,beforeInvalid);
 assert.equal(migrated.read('backupProgress().subjects.somatologie.turn'),1);
 result.progressBackupRoundTrip=true;
 // New LF MU bank: each subject has its own resumable round; statistics are shared in the bank.
+const muniFiles=fs.readdirSync('work').filter(f=>/^muni-\d{3}-\d{3}\.json$/.test(f)).sort();
+const muniFileBank=muniFiles.flatMap(f=>JSON.parse(fs.readFileSync('work/'+f,'utf8')));
 const muni=app(html);
 muni.run("switchSubject('muni');start('all');choose(byId.get(data.session.currentId).answer);nextQuestion()");
-assert.equal(muni.run('BANK_SIZE'),100);
+assert.equal(muni.run('BANK_SIZE'),muniFileBank.length);
 const muniAll=muni.read('data.session');
 const muniTopics=muni.read('MUNI_TOPICS');
-assert.deepEqual(Object.values(muniTopics).map(t=>t.ids.length),[34,34,32]);
+assert.deepEqual(Object.values(muniTopics).map(t=>t.ids.length),['Fyzika','Chemie','Biologie'].map(n=>muniFileBank.filter(q=>q.subject===n).length));
 for(const [key,topic] of Object.entries(muniTopics)){
  const picker=muni.ids.get('muniSection');picker.value=key;picker.events.change();
  muni.run("start('all')");
@@ -253,7 +255,8 @@ legacyBackup.subjects.budejovice.sections.physics.queue.pop();
 assert.ok(muniReload.run(`restoreProgress(${JSON.stringify(legacyBackup)})`));
 assert.deepEqual(muniReload.read('backupProgress().subjects.budejovice'),legacyBackup.subjects.budejovice);
 const muniBank=muni.read('MUNI_QUESTIONS');
-assert.equal(new Set(muniBank.map(q=>q.question)).size,100);
+assert.deepEqual(muniBank,muniFileBank);
+assert.equal(new Set(muniBank.map(q=>q.question)).size,muniBank.length);
 muniBank.forEach((q,i)=>{assert.equal(q.id,i+1);assert.equal(new Set(q.options).size,4);assert.equal(q.options[q.answer],q.title);assert.ok(q.subject&&q.sourceItem&&q.bookRef&&q.paragraphs[0]);});
 result.muniQuestions=muniBank.length;result.muniSectionsAndLegacyBackup=true;
 const pickMuni=(app,key)=>{const picker=app.ids.get('muniSection');picker.value=key;picker.events.change();};
@@ -269,7 +272,7 @@ assert.deepEqual(muniBank.slice(0,50),muni50Bank);
 const muni50Backup=muni50.read('backupProgress()');
 const muniUpgraded=app(html,muni50.storage);
 muniUpgraded.run("switchSubject('muni')");
-assert.equal(muniUpgraded.run('BANK_SIZE'),100);
+assert.equal(muniUpgraded.run('BANK_SIZE'),muniBank.length);
 assert.deepEqual(muniUpgraded.read('backupProgress().subjects.muni'),muni50Backup.subjects.muni);
 assert.equal(muni50Backup.subjects.muni.session.attempts.filter(a=>a.good===false).length,1);
 assert.equal(muni50Backup.subjects.muni.session.attempts.filter(a=>a.guessed).length,1);
@@ -281,7 +284,7 @@ assert.deepEqual(app(html,muniRestored.storage).read('backupProgress().subjects.
 result.muniUpgradeFrom50=true;
 
 // Univerzita Karlova: fifth subject with its own key, sections and backup; v2.43.0 progress and backups stay intact.
-const ukBank=['work/uk-001-050.json','work/uk-051-100.json'].flatMap(f=>JSON.parse(fs.readFileSync(f,'utf8')));
+const ukBank=fs.readdirSync('work').filter(f=>/^uk-\d{3}-\d{3}\.json$/.test(f)).sort().flatMap(f=>JSON.parse(fs.readFileSync('work/'+f,'utf8')));
 const ukApp=app(html);
 assert.deepEqual(ukApp.read('UK_QUESTIONS'),ukBank);
 assert.equal(new Set(ukBank.map(q=>q.question)).size,ukBank.length);
@@ -290,7 +293,7 @@ assert.deepEqual(ukApp.read('subjectIds'),['somatologie','biologie','budejovice'
 assert.equal(ukApp.run("SUBJECTS.uk.key"),'uk-learning-v2');
 assert.equal(new Set(ukApp.read('Object.values(SUBJECTS).map(s=>s.key)')).size,5);
 const ukTopicData=ukApp.read('UK_TOPICS');
-assert.deepEqual(Object.values(ukTopicData).map(t=>t.ids.length),[33,35,32]);
+assert.deepEqual(Object.values(ukTopicData).map(t=>t.ids.length),['Fyzika','Chemie','Biologie'].map(n=>ukBank.filter(q=>q.subject===n).length));
 const pickUk=(a,key)=>{const picker=a.ids.get('ukSection');picker.value=key;picker.events.change();};
 ukApp.run("switchSubject('uk');start('all');choose((byId.get(data.session.currentId).answer+1)%4);nextQuestion();$('guess').checked=true;choose(byId.get(data.session.currentId).answer);nextQuestion()");
 assert.equal(ukApp.run('BANK_SIZE'),ukBank.length);
@@ -354,7 +357,7 @@ assert.deepEqual(ukBank.slice(0,50),uk50Bank);
 const uk50Backup=uk50.read('backupProgress()');
 const ukUpgraded100=app(html,uk50.storage);
 assert.equal(ukUpgraded100.run('activeSubject'),'uk');
-assert.equal(ukUpgraded100.run('BANK_SIZE'),100);
+assert.equal(ukUpgraded100.run('BANK_SIZE'),ukBank.length);
 assert.deepEqual(ukUpgraded100.read('backupProgress().subjects'),uk50Backup.subjects);
 pickUk(ukUpgraded100,'chemistry');
 assert.deepEqual(ukUpgraded100.read('data.session'),uk50Backup.subjects.uk.sections.chemistry);
@@ -362,6 +365,31 @@ const uk50Restored=app(html);
 assert.ok(uk50Restored.run(`restoreProgress(${JSON.stringify(uk50Backup)})`));
 assert.deepEqual(app(html,uk50Restored.storage).read('backupProgress().subjects'),uk50Backup.subjects);
 result.ukUpgradeFrom50=true;
+// Upgrade from v2.46.0 (100 UK and 100 LF MU questions): IDs and option order of the first 100 stay, progress, tips and section rounds survive.
+const v246=app(historical('outputs/studijni-kvizy-v2.46.0/index.html','2.46.0'));
+for(const [id,pick] of [['uk',pickUk],['muni',pickMuni]]){
+ v246.run(`switchSubject('${id}');start('all');choose((byId.get(data.session.currentId).answer+1)%4);nextQuestion();$('guess').checked=true;choose(byId.get(data.session.currentId).answer);nextQuestion()`);
+ pick(v246,'biology');
+ v246.run("start('all');choose((byId.get(data.session.currentId).answer+1)%4);nextQuestion()");
+ pick(v246,'all');
+}
+assert.deepEqual(v246.read('UK_QUESTIONS'),ukBank.slice(0,100));
+assert.deepEqual(v246.read('MUNI_QUESTIONS'),muniBank.slice(0,100));
+const v246Backup=v246.read('backupProgress()');
+const up246=app(html,v246.storage);
+assert.equal(up246.run('activeSubject'),'muni');
+assert.equal(up246.run('BANK_SIZE'),muniBank.length);
+assert.deepEqual(up246.read('backupProgress().subjects'),v246Backup.subjects);
+for(const [id,pick] of [['uk',pickUk],['muni',pickMuni]]){
+ up246.run(`switchSubject('${id}')`);pick(up246,'biology');
+ assert.deepEqual(up246.read('data.session'),v246Backup.subjects[id].sections.biology);
+ assert.equal(v246Backup.subjects[id].session.attempts.filter(a=>a.good===false).length,1);
+ assert.equal(v246Backup.subjects[id].session.attempts.filter(a=>a.guessed).length,1);
+}
+const restored246=app(html);
+assert.ok(restored246.run(`restoreProgress(${JSON.stringify(v246Backup)})`));
+assert.deepEqual(app(html,restored246.storage).read('backupProgress().subjects'),v246Backup.subjects);
+result.upgradeFrom246=true;
 
 fs.mkdirSync('tmp',{recursive:true});
 fs.writeFileSync('tmp/check-results.json',JSON.stringify(result,null,2));console.log(JSON.stringify(result));
