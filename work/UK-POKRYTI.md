@@ -435,8 +435,22 @@ Soubor `uk-1151-1200.json`, generátor `create_uk_1151_1200.py`. Formát zkoušk
 Nepřidáno (stejný poznatek jako starší nebo nová otázka):
 - Akustika: 4.59 (jako 4.32), 4.68 (energie netlumeného oscilátoru, LF MU 151), 4.70, 4.71 a 4.73 (ultrazvuk proti zvuku, LF MU 161, 165 a 166), 4.72 (prostředí s nejrychlejším šířením, LF MU 174), 4.79 (tvar vlnoplochy, nová 1165), 4.80 (vlnová délka a fáze 2π, UK 1127), 4.82 (výška tónu, UK 1106), 4.84 (W·m⁻² jako intenzita, LF MU 162), 4.87 (výpočet hladiny intenzity, LF MU 169 a nová 1166), 4.88 (podélné vlnění ve vzduchu, nová 1169), 4.89 (jako 4.76).
 - Termika do úlohy 5.45: 5.03 (adiabatický děj bez výměny tepla, LF MU 210), 5.06 (tlak a hustota molekul, LF MU 218), 5.09 (izochorický děj, nová 1176), 5.10 (střední kinetická energie úměrná T, LF MU 219), 5.17–5.21 (jednotky energie, tepla, látkového množství a tepelných kapacit, LF MU 1 a 3, nové 1182–1184), 5.23 (jako 5.38), 5.30 (kruhový děj a vnitřní energie, LF MU 214), 5.31 (jako 5.12), 5.32 (adiabatická expanze, LF MU 206), 5.34 (jako 5.33), 5.41 (W = p·ΔV, LF MU 215), 5.43 (způsoby šíření tepla, LF MU 217).
-- Úlohy 5.46 a výš se posoudí v další dávce.
+- Úlohy 5.46 a výš jsou posouzené u dávky 1201–1250.
+
+## Dávka ID 1201–1250, fyzika: zbytek Termiky a Molekulová fyzika (v2.86.0)
+
+Soubor `uk-1201-1250.json`, generátor `create_uk_1201_1250.py`. Formát zkoušky, klíč porovnán s kap. 12 knihy, výpočty ověřeny.
+
+| Předmět | Kapitola | Úlohy | ID |
+|---|---|---|---|
+| Fyzika | 5. Termika (str. 70–74) | 5.47, 5.50, 5.52–5.57, 5.59, 5.61, 5.64, 5.66, 5.68, 5.69, 5.72–5.75 | 1201–1218 |
+| Fyzika | 6. Molekulová fyzika (str. 75–81) | 6.01–6.06, 6.08, 6.09, 6.12, 6.16, 6.17, 6.19, 6.22–6.25, 6.27–6.32, 6.34–6.36, 6.38–6.44 | 1219–1250 |
+
+Nepřidáno (stejný poznatek jako starší nebo nová otázka):
+- Termika: 5.46 (rovnice 1. termodynamického zákona, LF MU 207), 5.48 (izochorický děj bez práce, LF MU 209), 5.49 (izotermický děj, LF MU 204), 5.51 (jako 5.50), 5.58 (způsoby šíření tepla, LF MU 217), 5.60 a 5.62 (převod °C na K, nové 1202, 1203 a 1210), 5.63 (jako 5.64), 5.65 (jako 5.59), 5.67 (tlak a kvadratická rychlost molekul, LF MU 218), 5.70 (kruhový děj, LF MU 214), 5.71 (lednička v izolované místnosti, LF MU 216).
+- Molekulová fyzika do úlohy 6.44: 6.07 (desublimace, LF MU 220), 6.10 (jako 6.08), 6.11 (bezrozměrné relativní prodloužení, ve vysvětlení UK 1092), 6.13 (jako 6.12), 6.14 (jednotka molární hmotnosti, LF MU 201), 6.15 (povrchové napětí v základních jednotkách, LF MU 10 a nová 1228), 6.18 (výška sloupce v užší a širší kapiláře, LF MU 258), 6.20 (kapilární elevace a povrchové napětí, LF MU 252), 6.21 (jako 6.19), 6.26 (měrná tepelná kapacita, UK 1182), 6.33 (snaha kapaliny zmenšit povrch, LF MU 255), 6.37 (jako 6.36).
+- Úlohy 6.45 a výš se posoudí v další dávce.
 
 ## Stav pokrytí
 
-Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) je posouzená celá včetně úloh s více správnými odpověďmi (ID 738–1000). Fyzika (Amler, celá kniha 907 úloh) je posouzená v kap. 1–4 a v kap. 5 po úlohu 5.45. Další dávka začne od ID 1201 úlohou 5.46.
+Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) je posouzená celá včetně úloh s více správnými odpověďmi (ID 738–1000). Fyzika (Amler, celá kniha 907 úloh) je posouzená v kap. 1–5 a v kap. 6 po úlohu 6.44. Další dávka začne od ID 1251 úlohou 6.45.
