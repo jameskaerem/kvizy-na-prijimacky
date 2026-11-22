@@ -142,6 +142,22 @@ Nepřidané položky:
 - Kap. 4.2: 122/2, 122/3, 122/5, 123/1 (keto- a enolforma, varianty 275–276), 123/3, 123/4, 123/6 (chiralita, varianty 277–278), 124/2–124/4, 124/6 (konformace a cis-trans, varianty 279–281), 125/1 a 125/5 (vzorce jen jako obrázek), 125/4 (konstituční izomerie, varianta 282).
 - Biologie 421–472: 421, 423, 430–432, 454 (H–W a drift, UK 184–185, 240 a 249), 424, 443 (daltonismus, SOM 42 a UK 199), 425 (AR rodiče Aa × Aa, UK 190), 426 (otcovství, žádného z mužů nelze vyloučit, zadání nejednoznačné), 427 a 428 (A × B, LF MU 193), 429 (9 : 3 : 3 : 1, ČB 118), 435 (heritabilita 1, varianta 249 z dávky 233–250), 438, 462 (rodokmen a proband, ČB 568), 439, 440 (Morganovo číslo, UK 250), 441 a 447 (XD a AD dědičnost, UK 189 a 200), 442, 444, 446 (AR dědičnost, UK 190 a 194), 445 a 450 (hemofilie, ČB 203 a SOM 41), 449 (minorgeny, UK 197), 456 (Klinefelter, UK 245), 457 (organizace prenatální péče, časově citlivé), 464 (archea, nejednoznačné), 466, 467 (chromozom a stavba prokaryot, LF MU 139 a SOM 15), 468 (viry, SOM 12), 469 (bakteriofág, UK 88), 471 (prion, BIO 535).
 
+## Dávka ID 301–350 (v2.55.0)
+
+Soubor `uk-301-350.json`, generátor `create_uk_301_350.py`. Chemie ověřena výkladem a počítáním vazeb (textová kopie nemá vyznačený klíč), biologie porovnána s klíčem. Otázky s více správnými možnostmi přeformulovány na jednu správnou.
+
+| Předmět | Kapitola | Použité úlohy | ID |
+|---|---|---|---|
+| Chemie | 4.2 Izomerie (str. 126) | str. 126/3 | 301 |
+| Chemie | 4.3 Alifatické a alicyklické uhlovodíky (str. 127–135) | str. 127/1, 127/2, 127/4, 127/6, 128/1, 128/4, 129/2, 130/2, 130/3, 130/5, 131/4, 131/5, 131/6, 132/1, 132/3, 132/4, 132/6, 133/6, 134/2, 134/4, 134/5, 135/1, 135/4 | 302–324 |
+| Chemie | 4.4 Aromatické uhlovodíky (str. 136–139) | str. 136/3, 136/4, 137/1, 137/2, 137/5, 138/1, 138/3, 138/4, 138/6, 139/3 | 325–334 |
+| Biologie | Bakteriologie a virologie (str. 108–109) | 481, 482, 484, 486, 487, 488 | 335–340 |
+| Biologie | Biologie rostlin a hub (str. 112–116) | 491, 495, 497, 501, 505, 507, 508, 511, 512, 515 | 341–350 |
+
+Nepřidané položky:
+- Chemie str. 126–139: 126/1, 126/2, 128/6, 129/1, 129/3, 129/4, 134/3, 135/6, 136/1, 136/2 (vzorce jen jako obrázek), 126/4 (homologická řada, triviální), 126/5 a 131/3 (dva názvy CCl₄), 127/3 (formulace „téměř vždy“), 127/5 (varianta 304), 128/2 (vinyl, varianta 306), 128/3 (alkyly butanu, varianta 307), 128/5, 133/2, 133/4, 133/5 (adice bromu, UK 267 a 321), 130/1 (varianta 267), 130/4 (cyklohexan zařazen mezi alkany, sporné), 130/6 (freony, varianta 311), 131/1, 131/2 (nasycené vzorce, varianta 309; 131/2 má dvě stejné možnosti), 132/2 (nejjednodušší alken, triviální), 132/5 (CₙH₂ₙ, ve vysvětlení 309), 133/1, 133/3, 135/2 (hydrogenace na alkan, triviální), 134/1 (varianta 319), 135/3 („kolik vazeb“ nejednoznačné), 135/5 (klíč „vinylalkohol“ je jen nestálý meziprodukt, tautomerie v UK 276), 137/3 (acetofenon, žádná možnost nesedí), 137/4 (toluen aromatický, triviální), 138/2 (homologická řada benzenu, triviální), 138/5 (mononitrací toluenu nevzniká TNT, zadání nejednoznačné), 139/1 (o-xylen, varianta 333), 139/2 (výroba styrenu, ve vysvětlení 328 jen vzorec), 139/4–139/6 (kondenzované areny, varianty 334; 139/4 a 139/5 mají dvě správné možnosti).
+- Biologie 473–515: 473 (HIV a pomocné T lymfocyty, BIO 828), 474 (reverzní transkriptáza, LF MU 88), 475, 477, 490 (složení virionu, UK 300 a SOM 12), 476 (bakteriofág, UK 88), 478, 479 (viry a virová onemocnění, UK 299), 480 (prokaryota, UK 298), 483 (výživa bakterií, triviální), 485 (bakteriofág, UK 88), 489 (stafylokoky, ve vysvětlení 340), 492 (produkty fotosyntézy, voda jen v rozepsané rovnici, nejednoznačné), 493 (plazmolýza, LF MU 91), 494 (námel, dvě správné možnosti), 496, 498–500 (pigmenty a fáze fotosyntézy, více správných možností, pro další dávku), 502 (plastidy, UK 44), 503, 504, 506, 509, 510, 513, 514 (více správných možností, pro další dávku).
+
 ## Další dávky
 
-Pokračovat od ID 301. Fyzika čeká na plnou knihu. Chemie pokračuje kap. 4.3 od str. 126, biologie od otázky 473. Úplné pokrytí zatím nebylo dosaženo.
+Pokračovat od ID 351. Fyzika čeká na plnou knihu. Chemie pokračuje str. 140 (kap. 4.4), biologie od otázky 516 a vrátit se k víceodpovědním 496–514. Úplné pokrytí zatím nebylo dosaženo.

@@ -1,8 +1,8 @@
 # Studijní kvízy
 
-Verze 2.54.0 • 22. 11. 2026
+Verze 2.55.0 • 22. 11. 2026
 
-Somatologie (630), Biologie (900), České Budějovice (683), Modelové testové otázky k přijímacím zkouškám na LF MU (300) a Modelové otázky 2. LF UK – Univerzita Karlova (300). Samostatný soubor HTML funguje offline. Všechny předměty mají chytré procvičování, opakování chyb a tipů a test celé sady.
+Somatologie (630), Biologie (900), České Budějovice (683), Modelové testové otázky k přijímacím zkouškám na LF MU (300) a Modelové otázky 2. LF UK – Univerzita Karlova (350). Samostatný soubor HTML funguje offline. Všechny předměty mají chytré procvičování, opakování chyb a tipů a test celé sady.
 
 ## Vzhled
 
@@ -117,4 +117,4 @@ Nové otázky jsou založeny na učebnici. Sporné obecné údaje o antikoncepci
 
 ## Univerzita Karlova – modelové otázky 2. LF UK (fyzika, chemie, biologie)
 
-Pátá záložka (od verze 2.44.0) obsahuje 300 vlastních otázek podle modelových otázek 2. lékařské fakulty UK (Karolinum): 34 fyzika (Amler a kol., 2023, jen ukázka knihy, už vyčerpaná), 167 chemie (Blanický, Pelouch, 2019) a 99 biologie (Kočárek a kol., 2019). Dávky 51–100 až 251–300 přibyly ve verzích 2.46.0, 2.47.0, 2.49.0, 2.51.0 a 2.53.0. V rozbalovacím seznamu lze vybrat všechny otázky nebo jeden předmět, každý výběr má vlastní rozpracované kolo. Pokrok se ukládá pod novým klíčem `uk-learning-v2` a volba předmětu pod `uk-section`, stávající klíče se nemění. Záloha zahrnuje i tento kvíz a starší zálohy bez něj se dál načítají. Na širokém displeji je všech pět záložek v jedné řadě, na telefonu ve dvou řadách (3 + 2) se stejnou velikostí. Evidence zdrojů a další postup v [mapě UK](work/UK-POKRYTI.md).
+Pátá záložka (od verze 2.44.0) obsahuje 350 vlastních otázek podle modelových otázek 2. lékařské fakulty UK (Karolinum): 34 fyzika (Amler a kol., 2023, jen ukázka knihy, už vyčerpaná), 201 chemie (Blanický, Pelouch, 2019) a 115 biologie (Kočárek a kol., 2019). Dávky 51–100 až 301–350 přibyly ve verzích 2.46.0, 2.47.0, 2.49.0, 2.51.0, 2.53.0 a 2.55.0. V rozbalovacím seznamu lze vybrat všechny otázky nebo jeden předmět, každý výběr má vlastní rozpracované kolo. Pokrok se ukládá pod novým klíčem `uk-learning-v2` a volba předmětu pod `uk-section`, stávající klíče se nemění. Záloha zahrnuje i tento kvíz a starší zálohy bez něj se dál načítají. Na širokém displeji je všech pět záložek v jedné řadě, na telefonu ve dvou řadách (3 + 2) se stejnou velikostí. Evidence zdrojů a další postup v [mapě UK](work/UK-POKRYTI.md).
