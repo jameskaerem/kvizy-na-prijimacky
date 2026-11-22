@@ -302,6 +302,21 @@ Nepřidáno v rozsahu 1–84:
 - Sporný klíč: 53 (pinocytóza, klíč zahrnuje vstřebávání tukových kapének v tenkém střevě pinocytózou, což současný výklad trávení tuků nepodporuje).
 - Úlohy 85 a výš se doplní v další dávce.
 
+## Dávka ID 788–837 (v2.76.0)
+
+Soubor `uk-788-837.json`, generátor `create_uk_788_837.py`. Formát zkoušky s více správnými odpověďmi, znění a klíč podle knihy (str. 198–199).
+
+| Předmět | Kapitola | Úlohy | ID |
+|---|---|---|---|
+| Biologie | Úvod do biologie (str. 11) | 14 | 788 |
+| Biologie | Buněčná biologie (str. 18–38) | 43, 81, 82, 85, 86, 87, 90, 91, 93, 95, 96, 97, 98, 99, 101, 102, 104, 112, 113, 114, 116, 118, 119, 121, 122, 124, 126, 128, 129, 130, 131, 132, 134, 138, 140, 143, 144, 145, 146, 147, 149, 151, 152, 154 | 789–832 |
+| Biologie | Molekulární biologie (str. 40–41) | 155, 156, 157, 158, 160 | 833–837 |
+
+Nepřidáno v rozsahu 85–160:
+- Stejný poznatek jako starší nebo nová otázka: 24 (ATP z oxidativní fosforylace, nová 788), 89 (zygota 46 chromozomů, nová 787), 92 a 110 (složení biomembrán, nové 757 a 767), 94, 105, 106 a 120 (replikace v S fázi, nové 776 a 799), 100 (trizomie, BIO a ČB), 103 (mitochondrie jako energetické centrum, nová 758), 108 a 136 (Golgiho komplex, nová 781), 109 (lysozomy, nová 760), 111 (aktivní transport proteiny, nová 759), 117 (generační doba, nová 806), 127 (kontrolní bod v G1, UK 49), 133 (metafáze, nová 772), 142 (crossing-over v profázi I, UK 86), 107 (heterotrofie, ČB 260 a UK 41), 137 (pohlavní chromozom spermie, ČB 202), 150 (akrozom, BIO 709).
+- Už dříve vyřazeno (viz dávky 1–150): 115 (sporné), 123, 125, 139, 148, 153.
+- Úlohy 159 a výš se doplní v dalších dávkách.
+
 ## Stav pokrytí
 
-Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) má ověřené úlohy 85–290 jen částečně: nepoužité úlohy s více správnými odpověďmi se doplňují od ID 788 (viz oddíl výše). Fyzika (Amler) je pokrytá jen v rozsahu dodané ukázky (úlohy 1.01–1.64 a 2.01–2.05). Pro další fyziku je potřeba plná kniha. Další dávka začne od ID 788.
+Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) má ověřené úlohy 85–290 jen částečně: nepoužité úlohy s více správnými odpověďmi se doplňují od ID 788 (viz oddíly výše). Fyzika (Amler) je pokrytá jen v rozsahu dodané ukázky (úlohy 1.01–1.64 a 2.01–2.05). Pro další fyziku je potřeba plná kniha. Další dávka začne od ID 838.
