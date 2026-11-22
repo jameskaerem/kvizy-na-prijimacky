@@ -1,0 +1,391 @@
+[
+  {
+    "id": 1551,
+    "subject": "Fyzika",
+    "category": "Fyzika · Atomová fyzika",
+    "bookRef": "UK · Fyzika · Atomová fyzika · úloha 11.70 · str. 163",
+    "sourcePages": "163",
+    "sourceItem": "11.70",
+    "question": "Jak se mění vlnová délka, na které černé těleso vyzařuje nejvíc, když jeho teplota roste?",
+    "options": [
+      "nemění se",
+      "zvětšuje se",
+      "zmenšuje se",
+      "zvětšuje se a nad kritickou teplotou je světlo lineárně polarizované"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Podle Wienova posunovacího zákona λmax·T = konst. Teplejší těleso září na kratších vlnách: rozžhavené železo je nejdřív červené, pak žluté až bílé."
+    ],
+    "memory": "Wien: teplejší = modřejší."
+  },
+  {
+    "id": 1552,
+    "subject": "Fyzika",
+    "category": "Fyzika · Atomová fyzika",
+    "bookRef": "UK · Fyzika · Atomová fyzika · úloha 11.73 · str. 164",
+    "sourcePages": "164",
+    "sourceItem": "11.73",
+    "question": "Jakých hodnot nabývá spinové kvantové číslo elektronu?",
+    "options": [
+      "udává orientaci orbitalu v prostoru",
+      "jen +1 a −1",
+      "jen 0, 1, …, n − 1",
+      "jen +1/2 a −1/2"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Spin elektronu má jen dvě možné hodnoty, +1/2 a −1/2. Orientaci orbitalu udává magnetické číslo a hodnoty 0 až n − 1 má vedlejší číslo."
+    ],
+    "memory": "Spin ±1/2."
+  },
+  {
+    "id": 1553,
+    "subject": "Fyzika",
+    "category": "Fyzika · Atomová fyzika",
+    "bookRef": "UK · Fyzika · Atomová fyzika · úloha 11.74 · str. 164",
+    "sourcePages": "164",
+    "sourceItem": "11.74",
+    "question": "Čím je jednoznačně určen stav elektronu v atomu?",
+    "options": [
+      "energií atomu",
+      "souborem kvantových čísel",
+      "nábojem jádra",
+      "teplotou"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Stav elektronu popisují čtyři kvantová čísla n, l, m a s. Podle Pauliho principu nemají v jednom atomu dva elektrony všechna čtyři stejná."
+    ],
+    "memory": "Čtyři kvantová čísla."
+  },
+  {
+    "id": 1554,
+    "subject": "Fyzika",
+    "category": "Fyzika · Atomová fyzika",
+    "bookRef": "UK · Fyzika · Atomová fyzika · úloha 11.75 · str. 164",
+    "sourcePages": "164",
+    "sourceItem": "11.75",
+    "question": "Jak zatěžuje životní prostředí při běžném provozu tepelná elektrárna na hnědé uhlí?",
+    "options": [
+      "emisemi skleníkových plynů",
+      "emisemi sloučenin síry",
+      "emisemi radioaktivních příměsí obsažených v uhlí",
+      "nutností ukládat pevné zbytky spalování a produkty zachycené filtrací"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Spalováním vzniká CO₂ a oxidy síry, popílek a struska se musí ukládat. Hnědé uhlí obsahuje i stopy uranu a thoria, které se dostávají do popílku a ovzduší."
+    ],
+    "memory": "Uhlí zatěžuje všemi způsoby."
+  },
+  {
+    "id": 1555,
+    "subject": "Fyzika",
+    "category": "Fyzika · Atomová fyzika",
+    "bookRef": "UK · Fyzika · Atomová fyzika · úloha 11.76 · str. 164",
+    "sourcePages": "164",
+    "sourceItem": "11.76",
+    "question": "Na jakou typickou vzdálenost se uplatňuje silná interakce?",
+    "options": [
+      "asi 10⁻¹⁵ m",
+      "asi 10⁻⁵ m",
+      "na vzdálenost odpovídající rozměrům atomů",
+      "na vzdálenost odpovídající rozměrům krystalů"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Silná interakce působí jen uvnitř jádra, na vzdálenost řádově 1 fm = 10⁻¹⁵ m. Atom je asi stotisíckrát větší."
+    ],
+    "memory": "Silná interakce: 1 fm."
+  },
+  {
+    "id": 1556,
+    "subject": "Fyzika",
+    "category": "Fyzika · Atomová fyzika",
+    "bookRef": "UK · Fyzika · Atomová fyzika · úloha 11.77 · str. 164",
+    "sourcePages": "164",
+    "sourceItem": "11.77",
+    "question": "Jaký je typický rozměr atomu?",
+    "options": [
+      "10⁻¹⁵ m",
+      "10⁻¹⁰ m",
+      "10⁻¹⁰ nm",
+      "10⁻⁵ m"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Atom má průměr řádově 10⁻¹⁰ m = 0,1 nm = 100 pm. Jádro je asi 10⁻¹⁵ m, tedy stotisíckrát menší."
+    ],
+    "memory": "Atom 0,1 nm, jádro 1 fm."
+  },
+  {
+    "id": 1557,
+    "subject": "Fyzika",
+    "category": "Fyzika · Atomová fyzika",
+    "bookRef": "UK · Fyzika · Atomová fyzika · úloha 11.78 · str. 164",
+    "sourcePages": "164",
+    "sourceItem": "11.78",
+    "question": "Co znamená tzv. červená hranice vnějšího fotoelektrického jevu?",
+    "options": [
+      "jev nastane, až vlnová délka záření klesne pod určitou hodnotu",
+      "jev nastane až při dostatečné intenzitě záření",
+      "jev nastane, až frekvence záření klesne pod určitou hodnotu",
+      "jev nastane, až vlnová délka záření vzroste nad určitou hodnotu"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Foton musí mít energii h·f aspoň rovnou výstupní práci. Frekvence proto musí být nad mezní hodnotou, tedy vlnová délka pod mezní (červenou) hranicí. Sebevětší intenzita slabších fotonů elektrony nevyrazí."
+    ],
+    "memory": "Rozhoduje energie fotonu, ne intenzita."
+  },
+  {
+    "id": 1558,
+    "subject": "Fyzika",
+    "category": "Fyzika · Atomová fyzika",
+    "bookRef": "UK · Fyzika · Atomová fyzika · úloha 11.79 · str. 165",
+    "sourcePages": "165",
+    "sourceItem": "11.79",
+    "question": "Jaké protonové a nukleonové číslo má prvek, který vznikne rozpadem α radia ²²⁶₈₈Ra?",
+    "options": [
+      "²²⁶₈₈X",
+      "²²²₈₆X",
+      "²²⁷₈₄X",
+      "²²⁴₈₄X"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Částice alfa odnese 4 nukleony a 2 protony: A = 226 − 4 = 222, Z = 88 − 2 = 86. Vznikne radon ²²²₈₆Rn."
+    ],
+    "memory": "Alfa: A − 4, Z − 2."
+  },
+  {
+    "id": 1559,
+    "subject": "Fyzika",
+    "category": "Fyzika · Atomová fyzika",
+    "bookRef": "UK · Fyzika · Atomová fyzika · úloha 11.81 · str. 165",
+    "sourcePages": "165",
+    "sourceItem": "11.81",
+    "question": "V jakých jednotkách se udává Planckova konstanta h?",
+    "options": [
+      "J·m⁻¹",
+      "J",
+      "J·s⁻¹",
+      "J·s"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Z E = h·f plyne h = E/f, jednotka J/Hz = J·s. Hodnota je asi 6,63·10⁻³⁴ J·s."
+    ],
+    "memory": "h = E/f."
+  },
+  {
+    "id": 1560,
+    "subject": "Fyzika",
+    "category": "Fyzika · Atomová fyzika",
+    "bookRef": "UK · Fyzika · Atomová fyzika · úloha 11.82 · str. 165",
+    "sourcePages": "165",
+    "sourceItem": "11.82",
+    "question": "Jak závisí proud vzniklý při fotoelektrickém jevu na intenzitě dopadajícího záření?",
+    "options": [
+      "nezávisí na ní",
+      "je úměrný čtvrté mocnině intenzity",
+      "je intenzitě nepřímo úměrný",
+      "roste s rostoucí intenzitou"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Větší intenzita znamená víc fotonů, a tedy víc vyražených elektronů a větší proud. Energii jednotlivých elektronů ale intenzita nezvýší."
+    ],
+    "memory": "Intenzita = počet elektronů."
+  },
+  {
+    "id": 1561,
+    "subject": "Fyzika",
+    "category": "Fyzika · Atomová fyzika",
+    "bookRef": "UK · Fyzika · Atomová fyzika · úloha 11.83 · str. 165",
+    "sourcePages": "165",
+    "sourceItem": "11.83",
+    "question": "Na čem závisí rychlost elektronů vystupujících z látky při fotoelektrickém jevu?",
+    "options": [
+      "jen na vlnové délce záření",
+      "jen na materiálu",
+      "na materiálu i na vlnové délce záření",
+      "jen na intenzitě záření"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Podle Einsteinovy rovnice h·f = W + ½·m·v². Kinetická energie elektronu závisí na energii fotonu (vlnové délce) a na výstupní práci W daného materiálu, ne na intenzitě."
+    ],
+    "memory": "h·f = W + Ek."
+  },
+  {
+    "id": 1562,
+    "subject": "Fyzika",
+    "category": "Fyzika · Atomová fyzika",
+    "bookRef": "UK · Fyzika · Atomová fyzika · úloha 11.84 · str. 165",
+    "sourcePages": "165",
+    "sourceItem": "11.84",
+    "question": "Co platí o vnitřním fotoelektrickém jevu?",
+    "options": [
+      "je opačný k vnějšímu fotoelektrickému jevu",
+      "uvolňuje elektrony z atomů, které zůstávají v látce a umožní vodivost původně nevodivých materiálů",
+      "spočívá v přijímání volných elektronů do atomů",
+      "neumožňuje vznik elektrického proudu"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Při vnitřním fotoefektu elektrony z látky nevyletí, ale stanou se volnými nosiči uvnitř polovodiče. Na tom pracují fotorezistory, fotodiody a solární články."
+    ],
+    "memory": "Vnitřní fotoefekt = solární článek."
+  },
+  {
+    "id": 1563,
+    "subject": "Fyzika",
+    "category": "Fyzika · Atomová fyzika",
+    "bookRef": "UK · Fyzika · Atomová fyzika · úloha 11.85 · str. 165",
+    "sourcePages": "165",
+    "sourceItem": "11.85",
+    "question": "Který stav atomu nazýváme základním?",
+    "options": [
+      "stav, ve kterém atom nereaguje na žádné podněty",
+      "stav, kdy na sebe protony a elektrony nepůsobí",
+      "stav s nejvyšší celkovou energií",
+      "stav s nejnižší celkovou energií"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Základní stav má nejnižší možnou energii a je stabilní. Excitovaný atom se do něj vrací vyzářením fotonu."
+    ],
+    "memory": "Základní = nejnižší energie."
+  },
+  {
+    "id": 1564,
+    "subject": "Fyzika",
+    "category": "Fyzika · Atomová fyzika",
+    "bookRef": "UK · Fyzika · Atomová fyzika · úloha 11.86 · str. 166",
+    "sourcePages": "166",
+    "sourceItem": "11.86",
+    "question": "Co platí o záření alfa?",
+    "options": [
+      "tvoří ho jádra helia",
+      "je přitahováno k záporně nabité elektrodě",
+      "tvoří ho proud elektronů",
+      "je směsí volně letících protonů a neutronů"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Záření alfa jsou jádra ⁴He s kladným nábojem 2e, proto je přitahuje záporná elektroda. Proud elektronů je záření beta minus. Protony a neutrony v něm nejsou volné, ale vázané v jádře helia."
+    ],
+    "memory": "Alfa = ⁴He²⁺."
+  },
+  {
+    "id": 1565,
+    "subject": "Fyzika",
+    "category": "Fyzika · Atomová fyzika",
+    "bookRef": "UK · Fyzika · Atomová fyzika · úloha 11.89 · str. 166",
+    "sourcePages": "166",
+    "sourceItem": "11.89",
+    "question": "Odkud pocházejí elektrony záření β⁻?",
+    "options": [
+      "z elektronového obalu atomu",
+      "z nejvyšší energetické hladiny obalu",
+      "z jádra atomu, při přeměně neutronu na proton",
+      "z vnějšího fotoelektrického jevu"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Při přeměně β⁻ se v jádře neutron změní na proton, elektron a antineutrino. Elektron z jádra vyletí, protonové číslo se zvýší o 1."
+    ],
+    "memory": "β⁻: n → p + e⁻."
+  },
+  {
+    "id": 1566,
+    "subject": "Fyzika",
+    "category": "Fyzika · Atomová fyzika",
+    "bookRef": "UK · Fyzika · Atomová fyzika · úloha 11.90 · str. 166",
+    "sourcePages": "166",
+    "sourceItem": "11.90",
+    "question": "Co platí o záření β⁻?",
+    "options": [
+      "jsou to elektrony vznikající při procesech v jádře",
+      "v magnetickém poli se nevychyluje",
+      "v magnetickém poli se vychyluje",
+      "nemá elektrický náboj"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Záření β⁻ jsou rychlé elektrony z jádra. Jako nabité částice se v magnetickém poli vychylují, opačně než kladné záření alfa."
+    ],
+    "memory": "Nabité záření se vychyluje."
+  }
+]

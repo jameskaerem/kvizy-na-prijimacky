@@ -495,6 +495,14 @@ Použité úlohy (ID): 10.68–10.72 (1501–1505), 10.74 (1506), 10.77 (1507), 
 
 Vynechané: 10.73 (stejné zadání jako 10.72), 10.75 (LF MU 368), 10.76 (LF MU 353 a 360); 11.02 (jako 11.58), 11.07 (jako 11.08), 11.10 (LF MU 424), 11.12 (jako 11.11), 11.13 a 11.22 (LF MU 428), 11.18 (jako 11.19), 11.28, 11.29 a 11.63 (UK 21, 22 a LF MU 451), 11.30, 11.32 a 11.39 (jako 11.04 a 11.45), 11.37, 11.42 a 11.43 (LF MU 71 a 696), 11.47 (jako UK 1262), 11.49–11.51 (LF MU 430 a 453), 11.53 (jako 11.52), 11.55 (LF MU 502), 11.60 (jako 11.59), 11.62 (jako 11.03 a LF MU 503), 11.65 (LF MU 504), 11.68 (jako 11.77 v další dávce).
 
+## Dávka ID 1551–1566: Amler, zbytek kap. 11 Atomová fyzika (v2.93.0)
+
+Použité úlohy (ID): 11.70 (1551), 11.73–11.79 (1552–1558), 11.81–11.86 (1559–1564), 11.89, 11.90 (1565–1566). Klíč všech 16 otázek odpovídá klíči knihy, výpočet 11.79 je přepočítaný. Kapitola 11 a s ní celá kniha Amler je posouzená.
+
+Vynechané: 11.71 (jako 11.21 a 11.70), 11.72 (jako UK 1256 a 11.06), 11.80 (jako 11.36), 11.87 (jako 11.20), 11.88 (jako 11.89), 11.91 (jako 11.04).
+
+Souhrn fyziky Amler: kniha má 907 úloh v kap. 1–11. Sporné úlohy vyřazené kvůli klíči jsou tři (4.46, 7.31, 9.77), ostatní vynechané úlohy jsou duplicity s bankou SOM, BIO, ČB, LF MU nebo UK, triviální jednotky nebo úlohy poškozené v textovém exportu, vždy s důvodem v sekci dávky.
+
 ## Stav pokrytí
 
-Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) je posouzená celá včetně úloh s více správnými odpověďmi (ID 738–1000). Fyzika (Amler, celá kniha 907 úloh) je posouzená v kap. 1–10 a v kap. 11 po úlohu 11.69. Poslední dávka začne od ID 1551 úlohou 11.70.
+Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) je posouzená celá včetně úloh s více správnými odpověďmi (ID 738–1000). Fyzika (Amler, celá kniha 907 úloh) je posouzená celá. Další dávky UK by navázaly od ID 1567, například úlohami chemie s více správnými odpověďmi, až bude k dispozici PDF s tučným klíčem.
