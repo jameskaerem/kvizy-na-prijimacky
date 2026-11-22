@@ -97,4 +97,28 @@ Biologie člověka úlohy 1–100: většina je stejný poznatek jako otázky bi
 
 Dosud nepokryté oddíly: fyzika Povrchové jevy (str. 35+), Elektřina a magnetismus, Optika, Atomová a jaderná fyzika, zbylé úlohy prvních kapitol; chemie od kapitoly Periodický systém prvků (str. 83+) a zbylé úlohy prvních kapitol; biologie kandidáti výše, Životní funkce, Evoluce, Ekologie.
 
+## Šestá dávka ID 251–300 (v2.54.0)
+
+Soubor `muni-251-300.json`, generátor `create_muni_251_300.py`. Odpovědi ověřeny výpočtem nebo výkladem a porovnány s klíčem na str. 60, 120 a 154.
+
+| Předmět | Kapitola (tištěné strany) | Použité úlohy | ID |
+|---|---|---|---|
+| Fyzika | Povrchové jevy (36–37) | 72, 73, 75, 76, 77, 78, 79, 80 | 251–258 |
+| Fyzika | Elektřina a magnetismus (37–40) | 1, 3, 4, 7, 10, 14, 15, 16, 19, 22, 25, 27, 28, 29, 32, 33, 34, 35 | 259–276 |
+| Chemie | Periodický systém, vlastnosti prvků, redoxní děje (83–87) | 9, 12, 17, 24, 27, 30, 32, 34, 49, 51, 54, 56 | 277–288 |
+| Biologie | Biologie člověka (142–147) | 45, 52, 53, 58, 69, 73, 76, 91, 92 | 289–297 |
+| Biologie | Životní funkce, medicínsky významné organismy (148–149) | 5, 9, 19 | 298–300 |
+
+Klíč E převeden na explicitní správnou odpověď: fyzika elektřina 35 (dva paralelně a třetí sériově). Elektřina 25 převzata s µA a µF (v OCR „pA“ a „pF“); výsledek t = CU/I na předponě nezávisí.
+
+Termodynamika je tím posouzená celá (1–81). Nepřidáno z povrchových jevů: 71 a 81 (tlak v bublinách a kapkách, princip 252–253), 74 (kapilární tlak, princip 258).
+
+Elektřina úlohy 1–35: 2, 11, 12 (nepřímá úměrnost permitivitě, princip 260–261), 5 a 13 (klíč „žádná z uvedených“), 6 (εᵣ nemůže být 0,5, princip 261), 8 (vzorec síly jednotkových nábojů), 9 (Coulombův zákon, ČB 542), 17 (pole dvou nábojů, klíč „žádná“), 18 (klíč „žádná“, výsledek 33,3 nF), 20 (napětí po přiblížení desek), 21 (olej za vzduch, míra snížení podle oleje), 23 a 24 (kombinace kondenzátorů, klíč „žádná“ či „nelze rozhodnout“), 26 (klíč „závisí na polaritě“ je sporný, desky se vždy přitahují), 30 (předpona proudu v OCR nejistá), 31 (klíč „žádná“). Úlohy 36–89 čekají na další dávku.
+
+Chemie úlohy 1–56: 1, 2, 4–8, 10, 11, 13–16 (zařazení prvků, varianty 277–278 a LF MU 75), 3 (cín, LF MU 75), 18 a 19 (kyselinotvorné oxidy, UK 104), 20–22 (amfoterní oxidy a hydroxidy, UK 76), 23 (oxid alkalického kovu s vodou), 25 (obsah CO₂ ve vzduchu, časově citlivá hodnota), 26, 36–39 (klíč „žádný výrok není nesprávný“; u 36 je sporný, Na⁺ je menší než K⁺), 28 (sádra, UK 80), 29 (redukce O₂ v mitochondriích, LF MU 96), 31 (výsledek bez jednotek), 33 (varianta 283), 35 (CO a hemoglobin, BIO 249), 40–47 (pojmy oxidace a redukce, UK 201–210), 48 (klíč „žádná“), 50 (vodíkový ion se redukuje, UK 201), 52, 53, 55 (výběr redoxní reakce, princip 287). Úlohy 57 a dál čekají na další dávku.
+
+Biologie člověka je tím posouzená celá (1–100). Z kandidátů minulé dávky nepřidáno: 47 (minutový objem, LF MU 240), 56 (počet leukocytů, ve vysvětlení LF MU 239), 72 (uložení štítné žlázy, BIO 561), 78 (spála, LF MU 246), 82 (endokrinní žlázy, BIO 536), 83 (trojcípá chlopeň, BIO 140), 84 a 88 (klíč „žádná“), 90 (chrup, LF MU 242), 93 (žluté tělísko, BIO 738), 94 (kost klínová, ČB 86), 97 (lymfocyty jako agranulocyty, ČB 636). Životní funkce úlohy 1–25: zbytek čeká na další dávku.
+
+Dosud nepokryté oddíly: fyzika Elektřina 36–89, Optika, Atomová a jaderná fyzika, zbylé úlohy prvních kapitol; chemie Periodický systém od úlohy 57 a další kapitoly; biologie Životní funkce (kromě 5, 9, 19), Evoluce, Ekologie.
+
 Druhý soubor `877344967-LF-MU-Modelove-Otazky-New.pdf` je podle vlastníka (21. 11. 2026) stejná publikace jako hlavní soubor Mornstein a kol. Samostatně se nepokrývá; zdrojem kvízu LF MU je jen hlavní soubor.

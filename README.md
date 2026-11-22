@@ -1,8 +1,8 @@
 # Studijní kvízy
 
-Verze 2.53.0 • 22. 11. 2026
+Verze 2.54.0 • 22. 11. 2026
 
-Somatologie (630), Biologie (900), České Budějovice (683), Modelové testové otázky k přijímacím zkouškám na LF MU (250) a Modelové otázky 2. LF UK – Univerzita Karlova (300). Samostatný soubor HTML funguje offline. Všechny předměty mají chytré procvičování, opakování chyb a tipů a test celé sady.
+Somatologie (630), Biologie (900), České Budějovice (683), Modelové testové otázky k přijímacím zkouškám na LF MU (300) a Modelové otázky 2. LF UK – Univerzita Karlova (300). Samostatný soubor HTML funguje offline. Všechny předměty mají chytré procvičování, opakování chyb a tipů a test celé sady.
 
 ## Vzhled
 
