@@ -257,7 +257,7 @@ assert.deepEqual(muniReload.read('backupProgress().subjects.budejovice'),legacyB
 const muniBank=muni.read('MUNI_QUESTIONS');
 assert.deepEqual(muniBank,muniFileBank);
 assert.equal(new Set(muniBank.map(q=>q.question)).size,muniBank.length);
-muniBank.forEach((q,i)=>{assert.equal(q.id,i+1);assert.equal(new Set(q.options).size,4);assert.equal(q.options[q.answer],q.title);assert.ok(q.subject&&q.sourceItem&&q.bookRef&&q.paragraphs[0]);});
+muniBank.forEach((q,i)=>{assert.equal(q.id,i+1);assert.equal(new Set(q.options).size,4);assert.equal(q.answer===4?'Žádná odpověď není správná':q.options[q.answer],q.title);assert.ok(q.subject&&q.sourceItem&&q.bookRef&&q.paragraphs[0]);});
 result.muniQuestions=muniBank.length;result.muniSectionsAndLegacyBackup=true;
 const pickMuni=(app,key)=>{const picker=app.ids.get('muniSection');picker.value=key;picker.events.change();};
 // Upgrade from the 50-question LF MU release: same first 50 questions, saved answers, tips and open rounds survive.
@@ -288,7 +288,7 @@ const ukBank=fs.readdirSync('work').filter(f=>/^uk-\d{3}-\d{3}\.json$/.test(f)).
 const ukApp=app(html);
 assert.deepEqual(ukApp.read('UK_QUESTIONS'),ukBank);
 assert.equal(new Set(ukBank.map(q=>q.question)).size,ukBank.length);
-ukBank.forEach((q,i)=>{assert.equal(q.id,i+1);assert.equal(new Set(q.options).size,4);assert.equal(q.options[q.answer],q.title);assert.ok(q.subject&&q.sourceItem&&q.sourcePages&&q.bookRef&&q.paragraphs[0]&&q.memory);});
+ukBank.forEach((q,i)=>{assert.equal(q.id,i+1);assert.equal(new Set(q.options).size,4);if(q.answers){assert.ok(Array.isArray(q.answers)&&q.answers.every(x=>x>=0&&x<4)&&new Set(q.answers).size===q.answers.length&&q.answers.join()===[...q.answers].sort().join());}else assert.equal(q.options[q.answer],q.title);assert.ok(q.subject&&q.sourceItem&&q.sourcePages&&q.bookRef&&q.paragraphs[0]&&q.memory);});
 assert.deepEqual(ukApp.read('subjectIds'),['somatologie','biologie','budejovice','muni','uk']);
 assert.equal(ukApp.run("SUBJECTS.uk.key"),'uk-learning-v2');
 assert.equal(new Set(ukApp.read('Object.values(SUBJECTS).map(s=>s.key)')).size,5);
@@ -390,6 +390,73 @@ const restored246=app(html);
 assert.ok(restored246.run(`restoreProgress(${JSON.stringify(v246Backup)})`));
 assert.deepEqual(app(html,restored246.storage).read('backupProgress().subjects'),v246Backup.subjects);
 result.upgradeFrom246=true;
+
+// Answer formats (v2.74.0): LF MU has a fifth option E "none is correct", 2. LF UK lets the student pick
+// any number of options. Upgrade from v2.73.0 keeps saved single answers, tips and open rounds.
+const v273=app(historical('outputs/studijni-kvizy-v2.73.0/index.html','2.73.0'));
+for(const [id,pick] of [['uk',pickUk],['muni',pickMuni]]){
+ v273.run(`switchSubject('${id}');start('all');choose((byId.get(data.session.currentId).answer+1)%4);nextQuestion();$('guess').checked=true;choose(byId.get(data.session.currentId).answer);nextQuestion();choose(byId.get(data.session.currentId).answer)`);
+ pick(v273,'chemistry');
+ v273.run("start('all');choose((byId.get(data.session.currentId).answer+1)%4)");
+ pick(v273,'all');
+}
+const v273Backup=v273.read('backupProgress()');
+const up273=app(html,v273.storage);
+assert.deepEqual(up273.read('backupProgress().subjects'),v273Backup.subjects);
+for(const [id,pick] of [['uk',pickUk],['muni',pickMuni]]){
+ up273.run(`switchSubject('${id}')`);
+ const s=v273Backup.subjects[id].session;
+ assert.equal(s.attempts.length,3);assert.equal(s.attempts.filter(a=>!a.good).length,1);assert.equal(s.attempts.filter(a=>a.guessed).length,1);
+ assert.deepEqual(up273.read('data.session'),s);
+ pick(up273,'chemistry');assert.deepEqual(up273.read('data.session'),v273Backup.subjects[id].sections.chemistry);pick(up273,'all');
+}
+const restored273=app(html);
+assert.ok(restored273.run(`restoreProgress(${JSON.stringify(v273Backup)})`));
+assert.deepEqual(app(html,restored273.storage).read('backupProgress().subjects'),v273Backup.subjects);
+// LF MU: five options, E means none is correct; choosing E on a question with a correct A-D is a valid wrong answer.
+const fmt=app(html);
+fmt.run("switchSubject('muni');start('all')");
+assert.equal(fmt.run("$('answers').children.length"),5);
+assert.equal(fmt.run("choices(byId.get(data.session.currentId))[4]"),'Žádná odpověď není správná');
+const noneKey=muniBank.filter(q=>q.answer===4);
+noneKey.forEach(q=>assert.equal(q.title,'Žádná odpověď není správná'));
+fmt.run("choose(4)");
+assert.equal(fmt.run('data.session.attempts[0].good'),fmt.run('byId.get(data.session.currentId).answer===4'));
+assert.ok(fmt.run("$('answers').children[4].className.includes(byId.get(data.session.currentId).answer===4?'correct':'wrong')"));
+assert.ok(!fmt.run("validSelection(byId.get(1),5)")&&!fmt.run("validSelection(byId.get(1),16)"));
+// UK: toggling picks then evaluating; exact match is correct, a partial pick is wrong. Stored as 16 + mask.
+fmt.run("switchSubject('uk');start('all')");
+assert.equal(fmt.run("$('answers').children.length"),4);
+assert.equal(fmt.run("$('next').disabled"),false);
+assert.equal(fmt.run("$('nextText').textContent"),'Vyhodnotit odpověď');
+const multiId=fmt.run('data.session.currentId');
+const multiQ=fmt.read('byId.get(data.session.currentId)');
+const want=(multiQ.answers||[multiQ.answer]);
+for(const i of want)fmt.run(`togglePick(${i})`);
+assert.equal(fmt.run(`$('answers').children[${want[0]??0}].getAttribute?.('aria-pressed')??'true'`),'true');
+fmt.run("nextQuestion()");
+const a0=fmt.read('data.session.attempts[0]');
+assert.equal(a0.id,multiId);assert.equal(a0.selected,16+want.reduce((m,i)=>m|(1<<i),0));assert.equal(a0.good,true);
+fmt.run("nextQuestion()");
+const q2=fmt.read('byId.get(data.session.currentId)');const c2=q2.answers||[q2.answer];
+fmt.run(`togglePick(${c2[0]});togglePick(${(c2[0]+1)%4})`);
+fmt.run("nextQuestion()");
+assert.equal(fmt.read('data.session.attempts[1]').good,false);
+assert.ok(fmt.run("[...$('answers').children].some(b=>b.className.includes('wrong'))"));
+// Real multi-select attempts and the LF MU E answer survive export, import and reload.
+const fmtBackup=fmt.read('backupProgress()');
+const fmtRestored=app(html);
+assert.ok(fmtRestored.run(`restoreProgress(${JSON.stringify(fmtBackup)})`));
+assert.deepEqual(app(html,fmtRestored.storage).read('backupProgress().subjects'),fmtBackup.subjects);
+// A synthetic question with two correct options and one with none correct.
+fmt.run("nextQuestion();byId.get(data.session.currentId).answers=[0,2]");
+fmt.run("togglePick(0);togglePick(2);nextQuestion()");
+assert.equal(fmt.read('data.session.attempts[2]').selected,16+5);assert.equal(fmt.read('data.session.attempts[2]').good,true);
+fmt.run("nextQuestion();byId.get(data.session.currentId).answers=[]");
+fmt.run("nextQuestion()");
+assert.equal(fmt.read('data.session.attempts[3]').selected,16);assert.equal(fmt.read('data.session.attempts[3]').good,true);
+assert.equal(fmt.run('correctLetters(byId.get(data.session.currentId))'),'žádná z možností');
+result.answerFormatsAndUpgradeFrom273=true;
 
 fs.mkdirSync('tmp',{recursive:true});
 fs.writeFileSync('tmp/check-results.json',JSON.stringify(result,null,2));console.log(JSON.stringify(result));

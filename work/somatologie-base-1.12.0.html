@@ -14188,7 +14188,23 @@ QUESTIONS.push(...[
   }
 ]);
 const $ = id => document.getElementById(id);
-const LETTERS = ['A','B','C','D'];
+const LETTERS = ['A','B','C','D','E'];
+// Answer formats: single choice (default), LF MU with a fifth option E "none is correct",
+// and 2. LF UK where any number of options can be correct. A multi selection is saved
+// as 16 + bit mask, so older saved answers (plain index 0-3) stay valid.
+const NONE_TEXT='Žádná odpověď není správná';
+const NONE_SET=new WeakSet(typeof MUNI_QUESTIONS!=='undefined'?MUNI_QUESTIONS:[]);
+const MULTI_SET=new WeakSet(typeof UK_QUESTIONS!=='undefined'?UK_QUESTIONS:[]);
+let pendingSelection={id:null,mask:0};
+function choices(q){return NONE_SET.has(q)?[...q.options,NONE_TEXT]:q.options;}
+function isMulti(q){return MULTI_SET.has(q);}
+function correctSet(q){return isMulti(q)&&Array.isArray(q.answers)?q.answers:[q.answer];}
+function maskOf(list){return list.reduce((m,i)=>m|(1<<i),0);}
+function selectionList(sel){return sel>=16?[0,1,2,3].filter(i=>((sel-16)>>i)&1):[sel];}
+function validSelection(q,sel){if(!q||!Number.isSafeInteger(sel)||sel<0)return false;if(isMulti(q))return sel<=3||(sel>=16&&sel<=31);return sel<choices(q).length;}
+function isGood(q,sel){const c=correctSet(q);if(sel>=16)return isMulti(q)&&sel-16===maskOf(c);return c.length===1&&sel===c[0];}
+function correctLetters(q){const c=correctSet(q);return c.length?c.map(i=>LETTERS[i]).join(', '):'žádná z možností';}
+function correctLabel(q){const c=correctSet(q),o=choices(q);return c.length?c.map(i=>LETTERS[i]+' — '+o[i]).join('; '):'žádná z možností není správná';}
 const BANK_SIZE = QUESTIONS.length;
 const STORAGE_KEY = 'somatologie-learning-v2';
 const DAY = 86400000;
@@ -14208,8 +14224,8 @@ function validProgress(p){return p&&['seen','correct','wrong','guesses','level',
 function validSession(s){
   if(s===null)return true;
   if(!s||!['smart','all','weak'].includes(s.mode)||!whole(s.target)||s.target<1||s.target>BANK_SIZE||typeof s.completed!=='boolean'||!byId.has(s.currentId)||!Array.isArray(s.queue)||new Set(s.queue).size!==s.queue.length||!s.queue.every(id=>byId.has(id))||!Array.isArray(s.attempts)||s.attempts.length>s.target)return false;
-  if(!s.attempts.every(a=>a&&byId.has(a.id)&&whole(a.selected)&&a.selected<=3&&typeof a.guessed==='boolean'&&typeof a.good==='boolean'&&a.good===(a.selected===byId.get(a.id).answer)&&whole(a.at)))return false;
-  if(s.currentAnswer!==null&&(!whole(s.currentAnswer)||s.currentAnswer>3))return false;
+  if(!s.attempts.every(a=>a&&byId.has(a.id)&&validSelection(byId.get(a.id),a.selected)&&typeof a.guessed==='boolean'&&typeof a.good==='boolean'&&a.good===isGood(byId.get(a.id),a.selected)&&whole(a.at)))return false;
+  if(s.currentAnswer!==null&&!validSelection(byId.get(s.currentId),s.currentAnswer))return false;
   if(s.currentAnswer!==null){const last=s.attempts.at(-1);if(!last||last.id!==s.currentId||last.selected!==s.currentAnswer||last.guessed!==s.currentGuessed)return false;}
   return typeof s.currentGuessed==='boolean'&&(!s.completed||s.attempts.length>0);
 }
@@ -14285,7 +14301,7 @@ function renderLegend(q){
 }
 function scheduleText(id,guessed,good){const p=progress(id);if(!good||guessed)return 'Vrátí se brzy: v chytrém kole nejdřív po třech jiných odpovědích, jinak '+formatWhen(p.due)+'.';return 'Další plánované opakování '+formatWhen(p.due)+'. '+(p.level>=3?'Opakovaně zvládnutá otázka — vrátí se ke kontrole.':'Jedna správná odpověď nestačí. Ověříme ji znovu s odstupem.');}
 function renderFeedback(q,selected,guessed){
-  const good=selected===q.answer;const status=$('feedbackStatus');status.className='feedback-status '+(good?'good':'bad');status.textContent=good?(guessed?'✓ Správný tip. Ještě si ho ověříme.':'✓ Správně. Pojďme si říct proč.'):'✕ Tentokrát ne. Podle klíče je správně '+LETTERS[q.answer]+'.';$('explanationTitle').textContent=q.title;const explanation=$('explanation');explanation.replaceChildren();
+  const good=isGood(q,selected);const status=$('feedbackStatus');status.className='feedback-status '+(good?'good':'bad');status.textContent=good?(guessed?'✓ Správný tip. Ještě si ho ověříme.':'✓ Správně. Pojďme si říct proč.'):'✕ Tentokrát ne. Podle klíče je správně '+correctLetters(q)+'.';$('explanationTitle').textContent=q.title;const explanation=$('explanation');explanation.replaceChildren();
   q.paragraphs.forEach(p=>explanation.append(element('p','',p)));const memory=element('p','memory');memory.append(element('strong','','Jak si to zapamatovat: '),document.createTextNode(q.memory));explanation.append(memory);
   if(q.note){const note=element('p','note');note.append(element('strong','','Pro přesnost: '),document.createTextNode(q.note));explanation.append(note);}
   const sources=[...(q.source?[q.source]:[]),...(q.sources||[])];sources.forEach(source=>{const p=element('p','source-link');const a=element('a','',source.label);a.href=source.url;a.target='_blank';a.rel='noopener noreferrer';p.append(a);explanation.append(p);});explanation.append(element('p','schedule-note',scheduleText(q.id,guessed,good)));$('feedback').hidden=false;
@@ -14293,18 +14309,19 @@ function renderFeedback(q,selected,guessed){
 function reason(id){const p=progress(id);if(!p.seen)return 'Nová otázka';if(p.lastResult==='wrong')return 'Vrací se po chybě';if(p.lastResult==='guess')return 'Ověříme předchozí tip';if(p.due<=Date.now())return 'Čas na zopakování';return p.level>=3?'Kontrola zvládnuté otázky':'Další procvičení';}
 function renderQuestion(focus=false){
   const s=data.session;if(!s){renderHome();return;}if(s.completed){renderResults(focus);return;}setScreen('quiz');const q=byId.get(s.currentId);const hasAnswer=s.currentAnswer!==null;
-  $('modeLabel').textContent=modeLabel(s);$('category').textContent=q.category;$('bookNumber').textContent='Č. '+q.id+' / '+BANK_SIZE+' · '+(q.bookRef||'I · otázka '+q.id);$('question').textContent=q.question;$('reason').textContent=reason(q.id);$('hint').textContent=q.terms?'Vyber správnou kombinaci přiřazení.':q.statements?'Vyber hodnocení obou tvrzení.':'Vyber jednu odpověď.';renderLegend(q);
+  $('modeLabel').textContent=modeLabel(s);$('category').textContent=q.category;$('bookNumber').textContent='Č. '+q.id+' / '+BANK_SIZE+' · '+(q.bookRef||'I · otázka '+q.id);$('question').textContent=q.question;$('reason').textContent=reason(q.id);$('hint').textContent=isMulti(q)?'Vyber všechny správné odpovědi. Správná může být jedna, více, nebo žádná. Pak klikni na Vyhodnotit.':NONE_SET.has(q)?'Vyber jednu odpověď. Když neplatí žádná z A až D, zvol E.':q.terms?'Vyber správnou kombinaci přiřazení.':q.statements?'Vyber hodnocení obou tvrzení.':'Vyber jednu odpověď.';renderLegend(q);
   $('guess').checked=hasAnswer?s.currentGuessed:false;$('guess').disabled=hasAnswer;
-  const root=$('answers');root.replaceChildren();q.options.forEach((text,i)=>{const button=element('button','answer');button.type='button';button.dataset.option=String(i);button.disabled=hasAnswer;button.append(element('span','letter',LETTERS[i]),element('span','answer-text',text));const mark=element('span','answer-mark');mark.setAttribute('aria-hidden','true');button.append(mark);if(hasAnswer&&i===q.answer){button.classList.add('correct');mark.textContent='✓';button.setAttribute('aria-label',LETTERS[i]+': '+text+'. Správně podle klíče'+(i===s.currentAnswer?', tvoje volba.':'.'));}else if(hasAnswer&&i===s.currentAnswer){button.classList.add('wrong');mark.textContent='✕';button.setAttribute('aria-label',LETTERS[i]+': '+text+'. Tvoje odpověď, nesprávně podle klíče.');}button.addEventListener('click',()=>choose(i));root.append(button);});
-  $('feedback').hidden=true;if(hasAnswer)renderFeedback(q,s.currentAnswer,s.currentGuessed);$('next').disabled=!hasAnswer;$('nextText').textContent=s.attempts.length>=s.target?'Zobrazit výsledek':'Další otázka';$('underButton').textContent=hasAnswer?'Vysvětlení si můžeš přečíst v klidu.':'Nejdřív zkus odpovědět. Správný tip označ před volbou.';updateStats();if(focus)$('question').focus({preventScroll:true});
+  if(pendingSelection.id!==q.id)pendingSelection={id:q.id,mask:0};const multi=isMulti(q);const correct=correctSet(q);const picked=hasAnswer?selectionList(s.currentAnswer):[];const root=$('answers');root.replaceChildren();root.className='answers'+(multi?' multi':'');choices(q).forEach((text,i)=>{const button=element('button','answer');button.type='button';button.dataset.option=String(i);button.disabled=hasAnswer;button.append(element('span','letter',LETTERS[i]),element('span','answer-text',text));const mark=element('span','answer-mark');mark.setAttribute('aria-hidden','true');button.append(mark);if(multi){const on=hasAnswer?picked.includes(i):((pendingSelection.mask>>i)&1)===1;if(!hasAnswer){button.setAttribute('aria-pressed',String(on));if(on){button.className='answer picked';mark.textContent='✓';}button.addEventListener('click',()=>togglePick(i));}else{const ok=correct.includes(i);if(ok&&on){button.classList.add('correct');mark.textContent='✓';button.setAttribute('aria-label',LETTERS[i]+': '+text+'. Správná možnost, vybraná.');}else if(ok){button.classList.add('correct','missed');mark.textContent='✓';button.setAttribute('aria-label',LETTERS[i]+': '+text+'. Správná možnost, nebyla vybraná.');}else if(on){button.classList.add('wrong');mark.textContent='✕';button.setAttribute('aria-label',LETTERS[i]+': '+text+'. Vybraná, ale nesprávná.');}}root.append(button);return;}if(hasAnswer&&i===q.answer){button.classList.add('correct');mark.textContent='✓';button.setAttribute('aria-label',LETTERS[i]+': '+text+'. Správně podle klíče'+(i===s.currentAnswer?', tvoje volba.':'.'));}else if(hasAnswer&&i===s.currentAnswer){button.classList.add('wrong');mark.textContent='✕';button.setAttribute('aria-label',LETTERS[i]+': '+text+'. Tvoje odpověď, nesprávně podle klíče.');}button.addEventListener('click',()=>choose(i));root.append(button);});
+  $('feedback').hidden=true;if(hasAnswer)renderFeedback(q,s.currentAnswer,s.currentGuessed);$('next').disabled=!hasAnswer&&!multi;$('nextText').textContent=!hasAnswer&&multi?'Vyhodnotit odpověď':s.attempts.length>=s.target?'Zobrazit výsledek':'Další otázka';$('underButton').textContent=hasAnswer?'Vysvětlení si můžeš přečíst v klidu.':'Nejdřív zkus odpovědět. Správný tip označ před volbou.';updateStats();if(focus)$('question').focus({preventScroll:true});
 }
+function togglePick(i){const s=data.session;if(!s||s.completed||s.currentAnswer!==null)return;pendingSelection={id:s.currentId,mask:pendingSelection.id===s.currentId?pendingSelection.mask^(1<<i):1<<i};const button=$('answers').children[i];if(!button)return;const on=((pendingSelection.mask>>i)&1)===1;button.className='answer'+(on?' picked':'');button.setAttribute('aria-pressed',String(on));const mark=button.children[2];if(mark)mark.textContent=on?'✓':'';}
 function choose(selected){
-  const s=data.session;if(!s||s.completed||s.currentAnswer!==null||!whole(selected)||selected>3)return;const q=byId.get(s.currentId);const guessed=$('guess').checked;const good=selected===q.answer;const now=Date.now();
+  const s=data.session;if(!s||s.completed||s.currentAnswer!==null)return;const q=byId.get(s.currentId);if(!validSelection(q,selected))return;const guessed=$('guess').checked;const good=isGood(q,selected);const now=Date.now();
   s.currentAnswer=selected;s.currentGuessed=guessed;s.attempts.push({id:q.id,selected,guessed,good,at:now});applyReview(q.id,good,guessed,now);save();renderQuestion();
-  $('announcement').textContent=(good?(guessed?'Správný tip. Otázka se brzy zopakuje.':'Správně.'):'Nesprávně podle klíče. Správná odpověď je '+LETTERS[q.answer]+'.')+' Vysvětlení je pod možnostmi.';$('feedbackStatus').scrollIntoView({behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'nearest'});$('next').focus({preventScroll:true});
+  $('announcement').textContent=(good?(guessed?'Správný tip. Otázka se brzy zopakuje.':'Správně.'):'Nesprávně podle klíče. Správná odpověď je '+correctLetters(q)+'.')+' Vysvětlení je pod možnostmi.';$('feedbackStatus').scrollIntoView({behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'nearest'});$('next').focus({preventScroll:true});
 }
 function nextQuestion(){
-  const s=data.session;if(!s||s.completed||s.currentAnswer===null)return;
+  const s=data.session;if(s&&!s.completed&&s.currentAnswer===null&&isMulti(byId.get(s.currentId))){choose(16+(pendingSelection.id===s.currentId?pendingSelection.mask:0));return;}if(!s||s.completed||s.currentAnswer===null)return;
   let next=null;if(s.attempts.length<s.target){next=s.mode==='smart'?(smartCandidates()[0]?.id||null):(s.queue.shift()||null);}
   if(!next){s.completed=true;save();renderResults(true);}else{s.currentId=next;s.currentAnswer=null;s.currentGuessed=false;save();$('announcement').textContent='';renderQuestion(true);}scrollTop();
 }
@@ -14313,7 +14330,7 @@ function renderResults(focus=false){
   const guessed=s.attempts.filter(a=>a.good&&a.guessed).length;box.append(heading,element('p','',s.attempts.length<s.target?'Pro tuto chvíli už není vhodná další otázka. Chytré procvičování pokračuje při dalším termínu.':'Pokrok je uložený. Chyby a tipy se vrátí brzy, zvládnuté otázky dostanou delší odstup.'),element('div','result-score',result.rate+' %'),element('div','result-caption',result.correct+' z '+result.answered+' odpovědí správně'+(guessed?' · z toho '+guessed+' označených jako tip':'')));
   const overview=element('button','next','Zpět na přehled');overview.addEventListener('click',()=>{renderHome();scrollTop();});box.append(overview);
   const weakIds=[...new Set(s.attempts.filter(a=>!a.good||a.guessed).map(a=>a.id))];if(weakIds.length){const retry=element('button','next secondary','Procvičit chyby a tipy');retry.addEventListener('click',()=>start('weak'));box.append(retry);}root.append(box);
-  if(weakIds.length){const mistakes=element('div','mistakes');mistakes.append(element('h3','','K čemu se vrátit'));weakIds.forEach(id=>{const q=byId.get(id);const row=element('div','mistake');row.append(element('strong','','Č. '+id+' · '+q.question),element('span','','Podle klíče: '+LETTERS[q.answer]+' — '+q.options[q.answer]));mistakes.append(row);});root.append(mistakes);}if(focus)heading.focus({preventScroll:true});
+  if(weakIds.length){const mistakes=element('div','mistakes');mistakes.append(element('h3','','K čemu se vrátit'));weakIds.forEach(id=>{const q=byId.get(id);const row=element('div','mistake');row.append(element('strong','','Č. '+id+' · '+q.question),element('span','','Podle klíče: '+correctLabel(q)));mistakes.append(row);});root.append(mistakes);}if(focus)heading.focus({preventScroll:true});
 }
 function scrollTop(){window.scrollTo({top:0,behavior:'auto'});}
 function abandonToHome(){save();renderHome();scrollTop();}

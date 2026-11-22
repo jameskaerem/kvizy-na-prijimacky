@@ -13,14 +13,14 @@ def integrate(s, root):
         nonlocal s
         assert old in s,old
         s=s.replace(old,new,1)
-    replace('const SUBJECTS={', 'const MUNI_QUESTIONS='+json.dumps(bank,ensure_ascii=False)+';\nconst MUNI_TOPICS='+json.dumps(topics,ensure_ascii=False)+';\nconst SUBJECTS={\n muni:{name:'+json.dumps(TITLE,ensure_ascii=False)+',questions:MUNI_QUESTIONS,key:"muni-learning-v2",context:"Modelové úlohy LF MU, vydání 2018. Vyber všechny předměty nebo jeden z nich."},')
+    replace('const SUBJECTS={', 'const MUNI_QUESTIONS='+json.dumps(bank,ensure_ascii=False)+';\nconst MUNI_TOPICS='+json.dumps(topics,ensure_ascii=False)+';\nconst SUBJECTS={\n muni:{name:'+json.dumps(TITLE,ensure_ascii=False)+',questions:MUNI_QUESTIONS,key:"muni-learning-v2",context:"Modelové úlohy LF MU, vydání 2018. Jako u zkoušky: správná je jedna odpověď, nebo žádná (možnost E). Vyber všechny předměty nebo jeden z nich."},')
     replace('  </div>\n  <div id="subjectPanel"',f'    <button type="button" id="tab-muni" class="subject-tab muni-tab" role="tab" aria-selected="false" aria-controls="subjectPanel" tabindex="-1">{TITLE}<small>{len(bank)} otázek</small></button>\n  </div>\n  <div id="subjectPanel"')
     replace('</style>', '.muni-tab{grid-column:1/-1;overflow-wrap:anywhere}.muni-tab small{display:block}\n</style>')
     replace('  <section class="intro">',f'  <div id="muniPicker" class="school-picker" hidden><label for="muniSection">Předmět LF MU</label><select id="muniSection"><option value="all">Všechny otázky · {len(bank)}</option></select></div>\n  <section class="intro">')
     replace("const isSchool=activeSubject==='budejovice';", "const isSchool=activeSubject==='budejovice';\n const isMuni=activeSubject==='muni';")
     replace('const topic=isSchool&&schoolTopics.get(schoolSection);','const topic=isSchool?schoolTopics.get(schoolSection):isMuni?muniTopics.get(muniSection):null;')
     replace("$('schoolPicker').hidden=!isSchool;", "$('schoolPicker').hidden=!isSchool;\n $('muniPicker').hidden=!isMuni;")
-    replace("$('subjectSources').innerHTML=activeSubject===", "$('subjectSources').innerHTML=isMuni?'<summary>O otázkách a zdrojích</summary><p>"+TITLE+". Vojtěch Mornstein, Jiří Dostál, Iva Slaninová. Masarykova univerzita, 2018, ISBN 978-80-210-9045-3. Vlastní otázky podle modelových úloh, s referencí na kapitolu a číslo úlohy.</p>':activeSubject===")
+    replace("$('subjectSources').innerHTML=activeSubject===", "$('subjectSources').innerHTML=isMuni?'<summary>O otázkách a zdrojích</summary><p>"+TITLE+". Vojtěch Mornstein, Jiří Dostál, Iva Slaninová. Masarykova univerzita, 2018, ISBN 978-80-210-9045-3. Vlastní otázky podle modelových úloh, s referencí na kapitolu a číslo úlohy. Stejně jako u skutečné zkoušky je správná nejvýš jedna odpověď a pátá možnost E znamená, že žádná odpověď není správná.</p>':activeSubject===")
     replace("activeSubject==='budejovice'?schoolStorageData():data", "activeSubject==='budejovice'?schoolStorageData():activeSubject==='muni'?muniStorageData():data")
     replace("schoolSessions={};}data=freshData()", "schoolSessions={};}if(activeSubject==='muni'){if(muniSection!=='all')return;muniSessions={};}data=freshData()")
     replace("selectSchoolSection(savedSchoolSection());\n }", "selectSchoolSection(savedSchoolSection());\n }else if(id==='muni'){loadMuniSections();selectMuniSection(savedMuniSection());}")

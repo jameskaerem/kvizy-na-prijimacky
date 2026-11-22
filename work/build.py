@@ -111,7 +111,7 @@ s=s.replace("'✕ Tentokrát ne. Podle klíče je správně '","'✕ Tentokrát 
 s=s.replace("'. Správně podle klíče'","'. Správně'+(activeSubject!=='somatologie'?'':' podle klíče')")
 s=s.replace("'. Tvoje odpověď, nesprávně podle klíče.'","'. Tvoje odpověď, nesprávně'+(activeSubject!=='somatologie'?'.':' podle klíče.')")
 s=s.replace("'Nesprávně podle klíče. Správná odpověď je '","'Nesprávně. Správná odpověď je '")
-s=s.replace("'Podle klíče: '+LETTERS[q.answer]","(activeSubject!=='somatologie'?'Správná odpověď: ':'Podle klíče: ')+LETTERS[q.answer]")
+s=s.replace("'Podle klíče: '+correctLabel(q)","(activeSubject!=='somatologie'?'Správná odpověď: ':'Podle klíče: ')+correctLabel(q)")
 s=s.replace("'Opravdu vymazat celý uložený pokrok všech '+BANK_SIZE+' otázek? Tento krok nejde vrátit.'","'Opravdu vymazat pokrok předmětu '+SUBJECTS[activeSubject].name+' ('+BANK_SIZE+' otázek)? Tento krok nejde vrátit.'")
 # Startup and the source list are handled per subject below.
 s=s.replace('data=load();save();renderHome();','data=load();save();updateSubjectUI();renderHome();',1)
