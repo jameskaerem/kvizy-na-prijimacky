@@ -1,0 +1,1236 @@
+[
+  {
+    "id": 838,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 161 · str. 41",
+    "sourcePages": "41",
+    "sourceItem": "161",
+    "question": "Které tvrzení o translaci není správné?",
+    "options": [
+      "jedna molekula mRNA může být překládána najednou na více ribozomech",
+      "translace je přímá syntéza aminokyselin podle předlohy DNA",
+      "translace je syntéza polypeptidových řetězců podle předlohy mRNA",
+      "informace se v ribozomu čte po trojicích nukleotidů"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Hledá se nesprávné tvrzení. Předlohou translace je mRNA, ne DNA, a aminokyseliny se při ní nesyntetizují, ale spojují do řetězce. Ostatní tvrzení platí: mRNA čte současně více ribozomů (polyzom) a čte se po kodonech, tedy trojicích nukleotidů."
+    ],
+    "memory": "Translace čte mRNA, ne DNA."
+  },
+  {
+    "id": 839,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 164 · str. 42",
+    "sourcePages": "42",
+    "sourceItem": "164",
+    "question": "Co platí o molekulách RNA buněčných organismů?",
+    "options": [
+      "většinou je tvoří jeden polynukleotidový řetězec",
+      "obsahují ribonukleotidy",
+      "vždy je tvoří dva řetězce spojené do dvoušroubovice",
+      "na rozdíl od DNA nikdy neobsahují komplementární páry bází"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "RNA je obvykle jednořetězcová a skládá se z ribonukleotidů. Řetězec se ale může skládat sám na sebe a tvořit úseky s párovanými bázemi, typicky v tRNA (tvar jetelového listu) a rRNA."
+    ],
+    "memory": "RNA = jeden řetězec, který se umí složit."
+  },
+  {
+    "id": 840,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 166 · str. 42",
+    "sourcePages": "42",
+    "sourceItem": "166",
+    "question": "Které molekuly se přímo účastní translace?",
+    "options": [
+      "tRNA",
+      "hnRNA",
+      "mRNA",
+      "DNA-polymeráza"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Při translaci čte ribozom mRNA a tRNA přinášejí aminokyseliny. hnRNA je primární transkript v jádře, který se teprve upraví na mRNA. DNA-polymeráza patří k replikaci."
+    ],
+    "memory": "Translace: mRNA + tRNA + ribozom."
+  },
+  {
+    "id": 841,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 167 · str. 42",
+    "sourcePages": "42",
+    "sourceItem": "167",
+    "question": "Která tvrzení jsou nesprávná?",
+    "options": [
+      "mRNA je produktem translace",
+      "DNA kóduje mRNA, tRNA a rRNA",
+      "rRNA vzniká reverzní transkripcí jakékoli jiné RNA",
+      "ribozomy se účastní translace"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Hledají se nesprávná tvrzení. mRNA vzniká transkripcí, translace je její překlad na protein. rRNA se přepisuje z genů v DNA, ne reverzní transkripcí. Správně je, že DNA kóduje všechny tři typy RNA a že ribozomy translaci provádějí."
+    ],
+    "memory": "Pozor na zadání: označ chybná tvrzení."
+  },
+  {
+    "id": 842,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 168 · str. 43",
+    "sourcePages": "43",
+    "sourceItem": "168",
+    "question": "Co jsou exony?",
+    "options": [
+      "úseky genu, z nichž se při posttranskripčních úpravách skládá mRNA",
+      "úseky genu, které se nereplikují",
+      "úseky genu, které se neúčastní translace",
+      "nekódující sekvence bez významu genu"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Při sestřihu se z primárního transkriptu vystřihnou introny a exony se spojí do zralé mRNA. Replikuje se celá DNA včetně exonů i intronů."
+    ],
+    "memory": "Exony exportujeme z jádra, introny zůstanou uvnitř."
+  },
+  {
+    "id": 843,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 169 · str. 43",
+    "sourcePages": "43",
+    "sourceItem": "169",
+    "question": "Která tvrzení o párování komplementárních bází jsou správná?",
+    "options": [
+      "párování bází se uplatňuje při replikaci DNA",
+      "v DNA se páruje thymin s adeninem",
+      "v DNA se puriny vždy párují s puriny a pyrimidiny s pyrimidiny",
+      "v DNA se páruje guanin s cytosinem"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "title": "Správně: A, B a D",
+    "paragraphs": [
+      "Podle párování bází vzniká při replikaci nový řetězec. V DNA se páruje A s T a G s C, tedy vždy purin s pyrimidinem, díky čemuž má dvoušroubovice stálou šířku."
+    ],
+    "memory": "Purin + pyrimidin: A–T, G–C."
+  },
+  {
+    "id": 844,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 170 · str. 43",
+    "sourcePages": "43",
+    "sourceItem": "170",
+    "question": "Který úsek dvoušroubovice DNA je zapsán správně?",
+    "options": [
+      "5′-GGCTA-3′ a 3′-GGCTA-5′",
+      "5′-GGCTA-3′ a 3′-CCGAT-5′",
+      "5′-GGCUA-3′ a 3′-CCGAU-5′",
+      "5′-GGCTA-3′ a 5′-CCGAT-3′"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Druhý řetězec musí být komplementární (G–C, T–A) a antiparalelní: proti konci 5′ jednoho řetězce leží konec 3′ druhého. Uracil do DNA nepatří."
+    ],
+    "memory": "Komplementární a antiparalelní: 5′ proti 3′."
+  },
+  {
+    "id": 845,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 173 · str. 44",
+    "sourcePages": "44",
+    "sourceItem": "173",
+    "question": "Co může nastat při mutaci, kdy je jeden nukleotid v DNA zaměněn jiným?",
+    "options": [
+      "do polypeptidu může být zařazena jiná aminokyselina",
+      "syntéza polypeptidu může být předčasně ukončena",
+      "do polypeptidu může být zařazena stejná aminokyselina jako původně",
+      "téměř vždy se přeruší kontinuita DNA a dojde ke zlomu"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2
+    ],
+    "title": "Správně: A, B a C",
+    "paragraphs": [
+      "Záměna báze může vést ke změně aminokyseliny (missense), ke vzniku STOP kodonu (nonsense) nebo díky degeneraci kódu k žádné změně aminokyseliny (tichá mutace). Řetězec DNA přitom zůstává celistvý."
+    ],
+    "memory": "Bodová mutace: jiná, žádná, nebo STOP."
+  },
+  {
+    "id": 846,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 175 · str. 44",
+    "sourcePages": "44",
+    "sourceItem": "175",
+    "question": "Co slouží jako předloha při replikaci DNA?",
+    "options": [
+      "dva řetězce DNA, přičemž obě nové molekuly mají oba řetězce nové",
+      "mRNA, přičemž nová dvoušroubovice má jeden nový řetězec",
+      "jeden řetězec DNA, přičemž nová molekula má oba řetězce nové",
+      "dva řetězce DNA, přičemž každá nová molekula má jeden řetězec nový a druhý původní"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Replikace je semikonzervativní: oba řetězce mateřské DNA slouží jako předloha a každá dceřiná molekula obsahuje jeden původní a jeden nově syntetizovaný řetězec."
+    ],
+    "memory": "Semikonzervativní = půl staré, půl nové."
+  },
+  {
+    "id": 847,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 177 · str. 44",
+    "sourcePages": "44",
+    "sourceItem": "177",
+    "question": "Při kterém procesu vzniká v eukaryotní buňce hnRNA?",
+    "options": [
+      "při translaci",
+      "při replikaci",
+      "při transkripci",
+      "při reverzní transkripci"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "hnRNA (heterogenní jaderná RNA) je primární transkript, který RNA-polymeráza přepíše z DNA v jádře. Sestřihem a dalšími úpravami se z ní stane zralá mRNA."
+    ],
+    "memory": "hnRNA = pre-mRNA hned po transkripci."
+  },
+  {
+    "id": 848,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 178 · str. 45",
+    "sourcePages": "45",
+    "sourceItem": "178",
+    "question": "Na co jsou navázány aminokyseliny určené k syntéze polypeptidu?",
+    "options": [
+      "na tRNA, které podle svých antikodonů nasedají na mRNA v ribozomu",
+      "na tRNA, které komplementárně nasedají na kodony mRNA v ribozomu",
+      "na rRNA, které komplementárně nasedají na mRNA",
+      "na tRNA, které komplementárně nasedají na kodony rRNA"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Aminokyselinu nese tRNA, kterou ji naváže aminoacyl-tRNA-syntetáza. tRNA se svým antikodonem páruje s kodonem mRNA na ribozomu, obě formulace a i b popisují totéž. rRNA kodony nemá."
+    ],
+    "memory": "Antikodon tRNA + kodon mRNA."
+  },
+  {
+    "id": 849,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 179 · str. 45",
+    "sourcePages": "45",
+    "sourceItem": "179",
+    "question": "Co platí o restrikčních endonukleázách?",
+    "options": [
+      "štěpí kovalentní vazby v řetězci DNA",
+      "štěpí DNA jen v určitých sekvencích nukleotidů",
+      "štěpí vodíkové vazby mezi bázemi a vytvářejí dlouhé jednořetězce",
+      "štěpí DNA nespecificky v různých sekvencích"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Restrikční enzymy přerušují fosfodiesterové (kovalentní) vazby, a to jen v místech se specifickou, často palindromovou sekvencí. Proto se používají k cílenému stříhání DNA v genovém inženýrství."
+    ],
+    "memory": "Restriktáza = molekulární nůžky na určité sekvenci."
+  },
+  {
+    "id": 850,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 180 · str. 45",
+    "sourcePages": "45",
+    "sourceItem": "180",
+    "question": "Které molekuly se v genovém inženýrství často používají jako vektory?",
+    "options": [
+      "virová DNA",
+      "plazmidová DNA",
+      "mitochondriální DNA",
+      "bakteriofágová DNA"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "title": "Správně: A, B a D",
+    "paragraphs": [
+      "Vektor přenáší cizí gen do hostitelské buňky a musí se v ní umět udržet nebo replikovat. Používají se hlavně plazmidy, DNA bakteriofágů a virů. Mitochondriální DNA se jako vektor běžně nepoužívá."
+    ],
+    "memory": "Vektor = plazmid, fág, virus."
+  },
+  {
+    "id": 851,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 182 · str. 45",
+    "sourcePages": "45",
+    "sourceItem": "182",
+    "question": "Co je kodon?",
+    "options": [
+      "triplet nukleotidů v tRNA určující zařazení jedné aminokyseliny",
+      "triplet v rRNA vymezující místo připojení tRNA k ribozomu",
+      "triplet nukleotidů v mRNA určující zařazení jedné aminokyseliny",
+      "triplet nukleotidů v mRNA, na který antikodonem nasedá určitá tRNA"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Kodon je trojice nukleotidů mRNA. Určuje aminokyselinu (nebo konec syntézy) a páruje se s antikodonem tRNA. Triplet v tRNA je antikodon."
+    ],
+    "memory": "Kodon v mRNA, antikodon v tRNA."
+  },
+  {
+    "id": 852,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 184 · str. 46",
+    "sourcePages": "46",
+    "sourceItem": "184",
+    "question": "Která tvrzení o proteinech jsou správná?",
+    "options": [
+      "polypeptidový řetězec je složen z nukleotidů",
+      "primární struktura proteinů má podobu α-helixu nebo β-skládaného listu",
+      "při utváření sekundární struktury se uplatňují vodíkové můstky",
+      "primární struktura proteinů je dána sekvencí aminokyselin"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Primární struktura je pořadí aminokyselin. α-helix a β-skládaný list jsou sekundární struktura, kterou drží vodíkové můstky mezi peptidovými vazbami. Polypeptid je z aminokyselin, nukleotidy tvoří nukleové kyseliny."
+    ],
+    "memory": "Primární = pořadí, sekundární = helix a list."
+  },
+  {
+    "id": 853,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 186 · str. 46",
+    "sourcePages": "46",
+    "sourceItem": "186",
+    "question": "Která tvrzení o syntéze RNA jsou správná?",
+    "options": [
+      "odehrává se výhradně v cytoplazmě",
+      "odehrává se většinou v jádře, v menší míře v mitochondriích a plastidech",
+      "RNA-polymeráza spojuje nukleotidy s A, C, G a U podle předlohy jednoho vlákna DNA",
+      "RNA-polymeráza spojuje nukleotidy s A, C, G a T podle předlohy obou vláken DNA"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Transkripce probíhá tam, kde je DNA: v jádře a v semiautonomních organelách. RNA-polymeráza přepisuje jedno (templátové) vlákno a místo thyminu zařazuje uracil."
+    ],
+    "memory": "RNA: jedno vlákno předlohy a uracil místo thyminu."
+  },
+  {
+    "id": 854,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 190 · str. 47",
+    "sourcePages": "47",
+    "sourceItem": "190",
+    "question": "Co platí o molekulách DNA?",
+    "options": [
+      "většinou je tvoří jeden řetězec, který místy tvoří dvoušroubovici",
+      "většinou je tvoří dva řetězce spojené párováním bází",
+      "obsahují 2-deoxy-D-ribózu",
+      "obsahují jen purinové báze, pyrimidinové jsou v RNA"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "DNA je obvykle dvouřetězcová, řetězce drží párování bází. Cukrem je 2-deoxyribóza. Obsahuje puriny (A, G) i pyrimidiny (C, T)."
+    ],
+    "memory": "DNA = dva řetězce, deoxyribóza, puriny i pyrimidiny."
+  },
+  {
+    "id": 855,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 191 · str. 47",
+    "sourcePages": "47",
+    "sourceItem": "191",
+    "question": "Která tvrzení o bázích nukleových kyselin jsou správná?",
+    "options": [
+      "thymin a cytosin jsou pyrimidinové báze",
+      "uracil patří mezi purinové báze",
+      "v řetězci DNA jsou báze přímo vázány na fosfátové skupiny",
+      "uracil se páruje s adeninem"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Pyrimidiny jsou C, T a U, puriny A a G. Uracil se v RNA páruje s adeninem. Báze je vázána N-glykosidovou vazbou na cukr, který je teprve spojen s fosfátem."
+    ],
+    "memory": "Pyrimidiny: C, T, U (mají v názvu y)."
+  },
+  {
+    "id": 856,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 194 · str. 48",
+    "sourcePages": "48",
+    "sourceItem": "194",
+    "question": "Na čem závisejí vlastnosti určité bílkoviny?",
+    "options": [
+      "jen na počtu a pořadí esenciálních aminokyselin a na délce řetězce",
+      "na počtu a pořadí esenciálních aminokyselin a uspořádání fosfodiesterových vazeb",
+      "na počtu a pořadí všech aminokyselin a na prostorovém uspořádání řetězce",
+      "jen na počtu všech aminokyselin v řetězci"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Vlastnosti bílkoviny určuje pořadí všech aminokyselin a z něj vyplývající prostorové složení (sekundární až kvartérní struktura). Fosfodiesterové vazby jsou v nukleových kyselinách, bílkoviny mají peptidové."
+    ],
+    "memory": "Pořadí aminokyselin → tvar → funkce."
+  },
+  {
+    "id": 857,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 196 · str. 48",
+    "sourcePages": "48",
+    "sourceItem": "196",
+    "question": "Co platí o iniciačním (START) kodonu?",
+    "options": [
+      "je součástí promotoru a označuje začátek transkripce",
+      "nekóduje žádnou aminokyselinu",
+      "u eukaryot kóduje při translaci zařazení methioninu",
+      "označuje začátek replikace DNA"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "START kodon AUG v mRNA zahajuje translaci a kóduje methionin (u bakterií formylmethionin). Promotor je úsek DNA pro start transkripce, počátek replikace se nazývá ori."
+    ],
+    "memory": "AUG = start a methionin."
+  },
+  {
+    "id": 858,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 199 · str. 49",
+    "sourcePages": "49",
+    "sourceItem": "199",
+    "question": "Co slouží při syntéze bílkovin jako předloha?",
+    "options": [
+      "mRNA na ribozomu, na niž komplementárně nasedá tRNA s aminokyselinou",
+      "mRNA na ribozomu, na niž antikodonem nasedá tRNA s aminokyselinou",
+      "mRNA na ribozomu, na niž nasedá tRNA nesoucí aminokyselinu na aminoacylovém konci",
+      "mRNA připojená k ribozomu, podle jejíchž kodonů nasedají tRNA s aminokyselinami"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Všechny čtyři formulace popisují totéž: předlohou translace je mRNA na ribozomu, tRNA s navázanou aminokyselinou se na ni páruje antikodonem s kodonem. U zkoušky je proto potřeba posoudit každou možnost zvlášť, i když jsou si podobné."
+    ],
+    "memory": "Předloha = mRNA, adaptér = tRNA."
+  },
+  {
+    "id": 859,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 200 · str. 49",
+    "sourcePages": "49",
+    "sourceItem": "200",
+    "question": "Co obsahují nukleotidy RNA (bez tzv. minoritních bází)?",
+    "options": [
+      "báze T, G, U, C, ribózu a fosfát",
+      "báze U, C, G, A, ribózu a fosfát",
+      "báze G, A, C, T, ribózu a fosfát",
+      "báze G, A, U, T, deoxyribózu a fosfát"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "RNA obsahuje adenin, guanin, cytosin a uracil, cukr ribózu a fosfát. Thymin a deoxyribóza jsou typické pro DNA."
+    ],
+    "memory": "RNA: AGCU + ribóza."
+  },
+  {
+    "id": 860,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 203 · str. 50",
+    "sourcePages": "50",
+    "sourceItem": "203",
+    "question": "Které aminokyseliny obsahují ve své molekule síru?",
+    "options": [
+      "glycin",
+      "methionin",
+      "valin",
+      "cystein"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "Síru mají methionin (thioether) a cystein (thiolová skupina SH, tvoří disulfidové můstky). Glycin a valin síru nemají."
+    ],
+    "memory": "Síra: methionin a cystein."
+  },
+  {
+    "id": 861,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 204 · str. 50",
+    "sourcePages": "50",
+    "sourceItem": "204",
+    "question": "Co platí pro dvouřetězcovou DNA (dsDNA)?",
+    "options": [
+      "je jen u eukaryot, prokaryotům chybí",
+      "vyskytuje se jen po S fázi, při dělení se mění na jednořetězcovou",
+      "sekvenci druhého řetězce lze odvodit ze sekvence prvního",
+      "na jednom řetězci jsou jen puriny, na druhém jen pyrimidiny"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Díky komplementaritě určuje jeden řetězec sekvenci druhého. Dvouřetězcovou DNA mají eukaryota i prokaryota po celý buněčný cyklus. Puriny i pyrimidiny jsou na obou řetězcích."
+    ],
+    "memory": "Jeden řetězec = návod na druhý."
+  },
+  {
+    "id": 862,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 205 · str. 50",
+    "sourcePages": "50",
+    "sourceItem": "205",
+    "question": "Podíl guaninu mezi bázemi v bakteriálním plazmidu (kruhové dvouřetězcové DNA) je 20 %. Jaké jsou podíly ostatních bází?",
+    "options": [
+      "adenin 30 %, thymin 30 %, cytosin 20 %",
+      "adenin 20 %, thymin 30 %, cytosin 30 %",
+      "adenin 30 %, uracil 30 %, cytosin 20 %",
+      "podíl jednotlivých bází nelze z tohoto údaje stanovit"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "V dvouřetězcové DNA platí G = C, tedy cytosin 20 %. Na A a T zbývá 60 %, a protože A = T, má každý 30 %. Uracil v DNA není."
+    ],
+    "memory": "G = C, A = T, dohromady 100 %."
+  },
+  {
+    "id": 863,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 208 · str. 51",
+    "sourcePages": "51",
+    "sourceItem": "208",
+    "question": "Jaká minimální informace o prvním řetězci stačí k jednoznačnému odvození sekvence druhého řetězce DNA?",
+    "options": [
+      "délka řetězce a přesné pozice G a C",
+      "délka řetězce a přesné pozice G a A",
+      "délka řetězce a přesné pozice G, C a A",
+      "délka řetězce a přesné pozice všech čtyř bází"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Když známe délku a pozice tří bází, na zbylých pozicích musí být čtvrtá báze. Tím známe celý první řetězec a z něj podle párování i druhý. Ze dvou bází by na volných místech mohla být kterákoli ze dvou zbylých."
+    ],
+    "memory": "Tři báze + délka = čtvrtá dopočítaná."
+  },
+  {
+    "id": 864,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 210 · str. 51",
+    "sourcePages": "51",
+    "sourceItem": "210",
+    "question": "Které báze mají DNA a RNA společné (bez minoritních bází)?",
+    "options": [
+      "A, G, T, C a U",
+      "A, G, T a C",
+      "A, G, C a U",
+      "A, G a C"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "DNA obsahuje A, G, C a T, RNA A, G, C a U. Společné jsou jen adenin, guanin a cytosin."
+    ],
+    "memory": "Společné: A, G, C."
+  },
+  {
+    "id": 865,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 211 · str. 52",
+    "sourcePages": "52",
+    "sourceItem": "211",
+    "question": "Které vlastnosti mají DNA a proteiny společné?",
+    "options": [
+      "jsou vždy dvouřetězcové",
+      "jsou to lineární polymery",
+      "mohou se vyskytovat mimo buněčné jádro",
+      "mohou se vyskytovat v buněčném jádře"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: B, C a D",
+    "paragraphs": [
+      "DNA je řetězec nukleotidů, protein řetězec aminokyselin, oba jsou nevětvené (lineární) polymery. DNA je v jádře i v mitochondriích a plastidech, proteiny všude v buňce. Proteiny dvouřetězcové nejsou."
+    ],
+    "memory": "Oba jsou řetězce bez větvení."
+  },
+  {
+    "id": 866,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 212 · str. 52",
+    "sourcePages": "52",
+    "sourceItem": "212",
+    "question": "Jakou vlastnost mají DNA a proteiny vždy společnou?",
+    "options": [
+      "vždy mají spirálovou strukturu",
+      "vznikají v buněčném jádře",
+      "vážou se na ribozomy",
+      "obsahují dusík vázaný v organických molekulách"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Dusík je v bázích nukleotidů i v aminoskupinách aminokyselin. Spirálu nemají všechny proteiny, proteiny vznikají na ribozomech v cytoplazmě a DNA se na ribozomy neváže."
+    ],
+    "memory": "Dusík = báze i aminokyseliny."
+  },
+  {
+    "id": 867,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 213 · str. 52",
+    "sourcePages": "52",
+    "sourceItem": "213",
+    "question": "Které vlastnosti mají RNA a proteiny společné?",
+    "options": [
+      "vždy mají spirálovou strukturu",
+      "vznikají v buněčném jádře",
+      "mohou se vyskytovat mimo buněčné jádro",
+      "mohou se vyskytovat v buněčném jádře"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "RNA vzniká v jádře a odchází do cytoplazmy, proteiny vznikají v cytoplazmě a některé se do jádra vracejí (histony, polymerázy). Obě se tak vyskytují v jádře i mimo ně. Spirálovou strukturu vždy nemají a proteiny v jádře nevznikají."
+    ],
+    "memory": "RNA i proteiny putují mezi jádrem a cytoplazmou."
+  },
+  {
+    "id": 868,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 214 · str. 52",
+    "sourcePages": "52",
+    "sourceItem": "214",
+    "question": "Jakým směrem byl v živých organismech popsán tok genetické informace?",
+    "options": [
+      "sekvence DNA se syntetizuje podle sekvence proteinu",
+      "sekvence RNA se syntetizuje podle sekvence proteinu",
+      "sekvence proteinu se syntetizuje podle sekvence RNA",
+      "sekvence RNA se syntetizuje podle sekvence DNA"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Informace teče z DNA do RNA (transkripce) a z RNA do proteinu (translace). Z proteinu zpět do nukleových kyselin se informace přepsat nedá."
+    ],
+    "memory": "Z proteinu nevede cesta zpět."
+  },
+  {
+    "id": 869,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 218 · str. 53",
+    "sourcePages": "53",
+    "sourceItem": "218",
+    "question": "Co vyplývá z povahy genetického kódu?",
+    "options": [
+      "podle jedné mRNA se může syntetizovat mnoho různých proteinů s odlišnou sekvencí",
+      "sekvence mRNA jednoznačně určuje sekvenci proteinu",
+      "ze sekvence proteinu nelze jednoznačně určit sekvenci mRNA",
+      "tentýž protein by mohl být kódován více mRNA s různými sekvencemi"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: B, C a D",
+    "paragraphs": [
+      "Kód je jednoznačný: každý kodon určuje jednu aminokyselinu, takže mRNA určuje protein. Kód je ale degenerovaný: jednu aminokyselinu kóduje často více kodonů. Zpětně proto mRNA z proteinu jednoznačně odvodit nelze a stejný protein může kódovat více různých mRNA."
+    ],
+    "memory": "Kód je jednoznačný, ale degenerovaný."
+  },
+  {
+    "id": 870,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 219 · str. 53",
+    "sourcePages": "53",
+    "sourceItem": "219",
+    "question": "Které tvrzení o genetickém kódu je pravdivé?",
+    "options": [
+      "každý kodon kromě STOP kodonů kóduje zařazení právě jedné aminokyseliny",
+      "zařazení každé z 20 aminokyselin kóduje právě jeden kodon",
+      "některé kodony kódují více různých aminokyselin",
+      "zařazení poslední aminokyseliny, methioninu, kóduje STOP kodon"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Každý ze 61 smyslových kodonů určuje jednu aminokyselinu. Naopak jedna aminokyselina může mít více kodonů (leucin šest). Methionin kóduje AUG, tedy START kodon, STOP kodony aminokyselinu nekódují."
+    ],
+    "memory": "Kodon → 1 aminokyselina, aminokyselina → 1 až 6 kodonů."
+  },
+  {
+    "id": 871,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 220 · str. 53",
+    "sourcePages": "53",
+    "sourceItem": "220",
+    "question": "Genetický kód lze přirovnat k šifrovací tabulce, která určuje:",
+    "options": [
+      "která báze kóduje zařazení které aminokyseliny",
+      "který nukleotid kóduje zařazení které aminokyseliny",
+      "která kombinace tří bází kóduje zařazení které aminokyseliny",
+      "který kodon kóduje zařazení které aminokyseliny"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Jednotkou kódu je trojice bází, tedy kodon. Jedna báze nebo jeden nukleotid aminokyselinu nekóduje, čtyři báze by stačily jen na čtyři aminokyseliny."
+    ],
+    "memory": "Kód je tripletový."
+  },
+  {
+    "id": 872,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 221 · str. 53",
+    "sourcePages": "53",
+    "sourceItem": "221",
+    "question": "Co nám tabulka genetického kódu dovolí jednoznačně odvodit?",
+    "options": [
+      "sekvenci aminokyselin kódovanou danou posloupností kodonů",
+      "konkrétní sekvenci mRNA kódující daný protein",
+      "sekvence všech tRNA, které kódují daný protein",
+      "konkrétní sekvenci DNA kódující daný protein"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Z kodonů lze jednoznačně přečíst aminokyseliny. Opačně to nejde, protože kód je degenerovaný a jedné aminokyselině odpovídá často více kodonů. tRNA protein nekódují."
+    ],
+    "memory": "Tabulka funguje jen směrem kodon → aminokyselina."
+  },
+  {
+    "id": 873,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 222 · str. 54",
+    "sourcePages": "54",
+    "sourceItem": "222",
+    "question": "Stejný počet čeho obsahuje tabulka genetického kódu?",
+    "options": [
+      "kodonů jako je aminokyselin v proteinech (20)",
+      "kodonů jako je aminokyselin v proteinech (20) plus tři STOP kodony",
+      "aminokyselin jako je možných trojic bází",
+      "žádné z ostatních tvrzení není správné"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Tabulka má 64 kodonů (4³), z toho 61 kóduje aminokyseliny a 3 jsou STOP. Aminokyselin je ale jen 20, proto mají mnohé více kodonů. Žádná z rovností v a až c tedy neplatí."
+    ],
+    "memory": "64 kodonů, 20 aminokyselin."
+  },
+  {
+    "id": 874,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 223 · str. 54",
+    "sourcePages": "54",
+    "sourceItem": "223",
+    "question": "Co dokládá, že prokaryota i eukaryota používají téměř stejný genetický kód?",
+    "options": [
+      "společný evoluční původ obou skupin",
+      "že jde o jediný teoreticky možný způsob kódování 20 aminokyselin",
+      "nadbytečnost tRNA u současných forem života",
+      "vznik prokaryot z eukaryot ztrátou jaderné membrány"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Téměř univerzální kód sdílený všemi organismy svědčí o společném předku. Teoreticky by šlo přiřadit kodony aminokyselinám mnoha jinými způsoby. Prokaryota jsou evolučně starší než eukaryota."
+    ],
+    "memory": "Stejný kód = společný předek."
+  },
+  {
+    "id": 875,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 224 · str. 54",
+    "sourcePages": "54",
+    "sourceItem": "224",
+    "question": "Co platí o STOP kodonu?",
+    "options": [
+      "označuje místo, kde končí replikace DNA",
+      "je to trojice nukleotidů v DNA, kde končí transkripce",
+      "vzniká jen mutací a v normálních nukleových kyselinách není",
+      "žádné z výše uvedených tvrzení není správné"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "STOP kodon (UAA, UAG, UGA) je trojice v mRNA, na které končí translace. S koncem replikace ani transkripce nesouvisí a je běžnou součástí každého genu kódujícího protein."
+    ],
+    "memory": "STOP ukončuje translaci."
+  },
+  {
+    "id": 876,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 226 · str. 54",
+    "sourcePages": "54",
+    "sourceItem": "226",
+    "question": "Co může být u různých typů virů nositelem genetické informace?",
+    "options": [
+      "jednořetězcová RNA",
+      "dvouřetězcová RNA",
+      "lineární DNA",
+      "kruhová DNA"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Viry mají jen jeden typ nukleové kyseliny, ale u různých virů jsou zastoupeny všechny varianty: ssRNA (chřipka, HIV, koronaviry), dsRNA (rotaviry), lineární DNA (herpesviry) i kruhová DNA (papilomaviry)."
+    ],
+    "memory": "Viry vyzkoušely všechny varianty genomu."
+  },
+  {
+    "id": 877,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 227 · str. 55",
+    "sourcePages": "55",
+    "sourceItem": "227",
+    "question": "Co je gen?",
+    "options": [
+      "úsek rRNA, podle kterého se na ribozomu syntetizuje protein",
+      "úsek DNA, který kóduje syntézu určité RNA nebo proteinu",
+      "úsek tvořený jen exony, introny k němu nepatří",
+      "úsek DNA, který kóduje jen protein, ne funkční RNA"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Gen je úsek DNA nesoucí informaci pro protein nebo funkční RNA (tRNA, rRNA). U eukaryot k němu patří exony i introny. Výjimkou jsou RNA viry, jejichž geny jsou v RNA."
+    ],
+    "memory": "Gen = úsek DNA pro RNA nebo protein."
+  },
+  {
+    "id": 878,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 228 · str. 55",
+    "sourcePages": "55",
+    "sourceItem": "228",
+    "question": "Jaký je vztah mezi genem, alelou a sekvencí DNA?",
+    "options": [
+      "alela může mít více genů s různou sekvencí DNA",
+      "gen může mít více alel, které se zpravidla liší sekvencí DNA",
+      "gen může mít více alel, ale všechny musí mít stejnou sekvenci DNA",
+      "alela může mít více genů se stejnou sekvencí DNA"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Alela je konkrétní varianta genu. Alely se liší sekvencí DNA, proto mohou mít různý projev. Gen je nadřazený pojem, alela je jeho forma, ne obráceně."
+    ],
+    "memory": "Gen = místo a funkce, alela = jeho varianta."
+  },
+  {
+    "id": 879,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 229 · str. 55",
+    "sourcePages": "55",
+    "sourceItem": "229",
+    "question": "Jaký je vztah mezi chromatidou, genem a alelou?",
+    "options": [
+      "jedna chromatida nese dvě alely určitého genu",
+      "každá alela určitého genu se skládá ze dvou chromatid",
+      "chromatida nese jednu alelu určitého genu",
+      "chromatida nemůže nést současně gen i jeho alelu"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Chromatida je jedna molekula DNA, a ta nese na daném místě (lokusu) jednu alelu. Dvě alely má diploidní buňka na dvou homologních chromozomech."
+    ],
+    "memory": "Jedna chromatida = jedna alela na lokusu."
+  },
+  {
+    "id": 880,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 231 · str. 55",
+    "sourcePages": "55",
+    "sourceItem": "231",
+    "question": "Kde je variabilita sekvence DNA mezi různými lidmi relativně největší?",
+    "options": [
+      "v úsecích kódujících protein",
+      "v úsecích, které nekódují žádnou RNA ani protein",
+      "v úsecích DNA mezi geny",
+      "v úsecích kódujících rRNA"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Mutace v nekódující DNA, například mezi geny, většinou nemají vliv na zdatnost, proto se v populaci hromadí. Kódující úseky a geny pro rRNA podléhají přírodnímu výběru a jsou konzervativnější. Proto se v identifikaci osob využívá právě nekódující DNA."
+    ],
+    "memory": "Nekódující DNA je nejvíc variabilní (DNA profil)."
+  },
+  {
+    "id": 881,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 232 · str. 56",
+    "sourcePages": "56",
+    "sourceItem": "232",
+    "question": "Co zjistíme, když srovnáme aminokyselinovou sekvenci svalového myozinu člověka a myši?",
+    "options": [
+      "žádnou podobnost, protože jde o různé druhy",
+      "žádnou podobnost, protože člověk a myš mají odlišný genetický kód",
+      "určitou podobnost danou evoluční příbuzností obou druhů",
+      "určitou podobnost, která nesouvisí s evolucí"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Myozin člověka a myši pochází od společného předka savců a jeho sekvence se liší jen málo. Genetický kód mají oba druhy stejný. Podobnost sekvencí je jedním z nejsilnějších dokladů evoluční příbuznosti."
+    ],
+    "memory": "Podobné proteiny = společný předek."
+  },
+  {
+    "id": 882,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 233 · str. 56",
+    "sourcePages": "56",
+    "sourceItem": "233",
+    "question": "U kterého páru lze předpokládat největší podobnost aminokyselinové sekvence proteinů?",
+    "options": [
+      "člověk a klokan",
+      "člověk a pes",
+      "člověk a ptakopysk",
+      "člověk a pštros"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Čím bližší příbuzenství, tím podobnější sekvence. Člověk a pes jsou placentální savci, klokan je vačnatec, ptakopysk ptakořitný a pštros pták, jejich linie se od naší oddělily dříve."
+    ],
+    "memory": "Nejbližší příbuzný = nejpodobnější proteiny."
+  },
+  {
+    "id": 883,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 234 · str. 56",
+    "sourcePages": "56",
+    "sourceItem": "234",
+    "question": "Proč se populace mRNA v různých tkáních liší?",
+    "options": [
+      "v buňkách různých tkání se přepisují různé soubory genů",
+      "při diferenciaci mizí v každé tkáni jiné úseky DNA a tkáně se liší karyotypem",
+      "v různých tkáních jsou různé druhy ribozomů",
+      "každá tkáň má jiný genetický kód"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Všechny somatické buňky mají stejnou DNA, liší se tím, které geny jsou zapnuté (diferenciální genová exprese). Karyotyp, ribozomy i genetický kód jsou ve všech tkáních stejné."
+    ],
+    "memory": "Stejná DNA, jinak zapnuté geny."
+  },
+  {
+    "id": 884,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 235 · str. 56",
+    "sourcePages": "56",
+    "sourceItem": "235",
+    "question": "Která tvrzení o syntéze proteinů v lidských tkáních jsou správná?",
+    "options": [
+      "proteinové produkty genů nemusí vznikat ve všech tkáních ve stejném množství",
+      "produkty všech lidských genů vznikají ve všech tkáních bez rozdílu",
+      "určité proteiny vznikají jen v některých tkáních",
+      "k syntéze konkrétního proteinu dochází v různých tkáních v různém množství"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "title": "Správně: A, C a D",
+    "paragraphs": [
+      "Exprese genů je tkáňově specifická: hemoglobin tvoří prekurzory erytrocytů, inzulin jen β-buňky pankreatu. Mnoho proteinů vzniká v různých tkáních v různém množství a jen část genů (například pro základní metabolismus) je aktivní všude."
+    ],
+    "memory": "Každá tkáň má svůj soubor aktivních genů."
+  },
+  {
+    "id": 885,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 236 · str. 57",
+    "sourcePages": "57",
+    "sourceItem": "236",
+    "question": "Jak se přepisuje konkrétní gen z dvouřetězcové DNA do mRNA?",
+    "options": [
+      "přepisuje se vždy jen jeden řetězec DNA",
+      "je jedno, který řetězec se přepisuje, protože jsou komplementární",
+      "přepisují se současně oba řetězce",
+      "přepisuje se střídavě po jednom tripletu z obou řetězců"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "U daného genu slouží jako předloha vždy jen jeden řetězec (templátový). mRNA má pak sekvenci druhého, kódujícího řetězce (s U místo T). Kdyby se přepsal opačný řetězec, vznikla by úplně jiná informace."
+    ],
+    "memory": "Jeden gen = jeden templátový řetězec."
+  },
+  {
+    "id": 886,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 237 · str. 57",
+    "sourcePages": "57",
+    "sourceItem": "237",
+    "question": "Co je ribozom?",
+    "options": [
+      "nukleoproteinová struktura zajišťující syntézu proteinů",
+      "proteinová struktura v chromozomu obtáčená DNA",
+      "proteinová struktura zajišťující transkripci",
+      "eukaryotický chromozom z RNA, který v jadérku vyrábí proteiny"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Ribozom je složen z rRNA a proteinů a překládá mRNA na polypeptid. Proteinová struktura obtáčená DNA je nukleozom (histony), transkripci provádí RNA-polymeráza."
+    ],
+    "memory": "Ribozom = rRNA + proteiny = továrna na bílkoviny."
+  },
+  {
+    "id": 887,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 238 · str. 57",
+    "sourcePages": "57",
+    "sourceItem": "238",
+    "question": "Pro co je ribozom klíčovou strukturou?",
+    "options": [
+      "pro replikaci",
+      "pro transkripci",
+      "pro translaci",
+      "pro proteosyntézu"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Na ribozomu probíhá translace, tedy hlavní krok proteosyntézy. Replikace a transkripce probíhají na DNA bez ribozomů."
+    ],
+    "memory": "Ribozom = translace."
+  }
+]

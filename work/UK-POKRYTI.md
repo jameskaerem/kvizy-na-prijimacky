@@ -317,6 +317,19 @@ Nepřidáno v rozsahu 85–160:
 - Už dříve vyřazeno (viz dávky 1–150): 115 (sporné), 123, 125, 139, 148, 153.
 - Úlohy 159 a výš se doplní v dalších dávkách.
 
+## Dávka ID 838–887 (v2.77.0)
+
+Soubor `uk-838-887.json`, generátor `create_uk_838_887.py`. Formát zkoušky s více správnými odpověďmi, znění a klíč podle knihy (str. 199), klíč všech 50 úloh strojově porovnán s knihou.
+
+| Předmět | Kapitola | Úlohy | ID |
+|---|---|---|---|
+| Biologie | Molekulární biologie (str. 41–57) | 161, 164, 166, 167, 168, 169, 170, 173, 175, 177, 178, 179, 180, 182, 184, 186, 190, 191, 194, 196, 199, 200, 203, 204, 205, 208, 210, 211, 212, 213, 214, 218, 219, 220, 221, 222, 223, 224, 226, 227, 228, 229, 231, 232, 233, 234, 235, 236, 237, 238 | 838–887 |
+
+Nepřidáno v rozsahu 159–240 (stejný poznatek jako starší nebo nová otázka):
+- 165 (reverzní transkriptáza, LF MU 88), 171 (mimojaderná DNA, UK 305), 172 (ústřední dogma, nová 834), 174, 183 a 185 (páry bází, nové 843 a 855, LF MU 94), 176 (tRNA v translaci, SOM 23), 181 (Amesův test, LF MU 497), 187 (definice translace, nové 838 a 868), 188 a 215 (kodon, nová 851), 189 (rRNA v jadérku, SOM 27), 192 a 193 (tRNA a antikodon, nové 848 a 858), 195 a 209 (nukleotidy jako stavební jednotka, nové 859 a 864), 198 a 239 (semikonzervativní replikace, nová 846), 206 a 207 (Chargaffovo pravidlo, nové 862 a 863), 230 (introny, LF MU 47 a nová 842), 240 (definice transkripce, nové 853 a 868).
+- Úlohy 159, 160, 162, 163, 197, 201, 202, 216, 217 a 225 už byly použity dříve.
+- Úlohy 241 a výš se doplní v dalších dávkách.
+
 ## Stav pokrytí
 
-Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) má ověřené úlohy 85–290 jen částečně: nepoužité úlohy s více správnými odpověďmi se doplňují od ID 788 (viz oddíly výše). Fyzika (Amler) je pokrytá jen v rozsahu dodané ukázky (úlohy 1.01–1.64 a 2.01–2.05). Pro další fyziku je potřeba plná kniha. Další dávka začne od ID 838.
+Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) má ověřené úlohy 85–290 jen částečně: nepoužité úlohy s více správnými odpověďmi se doplňují od ID 788 (viz oddíly výše). Fyzika (Amler) je pokrytá jen v rozsahu dodané ukázky (úlohy 1.01–1.64 a 2.01–2.05). Pro další fyziku je potřeba plná kniha. Další dávka začne od ID 888.
