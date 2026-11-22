@@ -79,6 +79,25 @@ Chemie kap. 2.1 (str. 42–62) je tím celá posouzená. Nepřidané položky:
 
 Biologie 291–312: 291 (UK 100), 293 (cukr v nukleotidech, ČB 301), 297–298 (párování bází, LF MU 94), 299–300 (kodon a antikodon, UK 91 a 93), 303 (nukleotid jako stavební jednotka), 304 (promotor, UK 87) nebyly přidány jako stejný poznatek; 311 je varianta 309.
 
+## Dávka ID 151–200 (v2.49.0)
+
+Soubor `uk-151-200.json`, generátor `create_uk_151_200.py` (společná pomocná funkce `batch_tools.py`). Chemie ověřena výkladem, biologie porovnána s klíčem.
+
+| Předmět | Kapitola | Použité úlohy | ID |
+|---|---|---|---|
+| Chemie | 2.1 Anorganické sloučeniny (odložené) | str. 46/2, 56/2, 56/3 | 151–153 |
+| Chemie | 2.2.1 Kyseliny a zásady (str. 63–69) | str. 63/2, 64/1, 64/2, 66/2, 66/3, 66/5, 66/6, 67/3, 67/4, 67/5, 67/6, 68/2, 68/3, 68/4, 68/6, 69/1 | 154–169 |
+| Chemie | 2.2.2 Hydrolýza solí (str. 69–70) | str. 69/3, 70/1, 70/2 | 170–172 |
+| Chemie | 2.3 Oxidační číslo, oxidace a redukce (str. 70–76) | str. 70/4, 71/3, 72/1, 73/3, 73/6, 74/1, 74/5, 75/2, 75/3, 76/5 | 173–182 |
+| Biologie | Genetika (str. 73–83) | 313, 319, 323, 325, 327, 328, 337, 338, 339, 341, 342, 343, 344, 345, 353, 357, 361, 363 | 183–200 |
+
+Nepřidané položky:
+- Kap. 2.1, zbytek odložených: 55/6, 56/1, 56/4 (varianty 152–153 a vysvětlení UK 133), 60/5–60/6, 61/1 (jedovaté plyny a kyanidy: CO je v ČB 269 a BIO 249, fosgen v UK 132, kyanid v UK 133), 62/1 (sublimát, vysvětlení UK 82).
+- Kap. 2.2.1 (str. 62–69): 62/4–62/6, 63/1, 63/4–63/6 (názvosloví kyselin, varianty UK 135, 136, 154), 64/3–64/5 (elektrolyty, varianty 155–156), 65/1–65/6 a 66/1 (síla kyselin, UK 83 a 137), 66/4 (neutralizace jako protolýza, varianta 158), 67/1 (vysvětlení UK 137), 67/2 (varianta 159), 68/1 (UK 84), 68/5 (varianta 162).
+- Kap. 2.2.2: 69/2, 69/4, 69/5, 70/3 (hydrolýza, varianty 170–172).
+- Kap. 2.3 do str. 76: 70/5, 71/1, 71/2, 71/4–71/6, 72/2, 72/4, 72/5, 73/2, 73/4, 73/5, 74/2–74/4, 74/6, 75/1 (určení oxidačního čísla, varianty 173–180 a ČB 528, 530), 72/6 a 73/1 (fluor, ČB 528), 75/4–75/6, 76/1–76/4, 76/6 (oxidační a redukční činidla, varianty 181–182). Odloženo jako sporné: 72/3 (fosfor může mít oxidační číslo IV, např. v H₄P₂O₆).
+- Biologie 313–365: 314 (žádná možnost není správná, klíč d), 315–316 (polygenní systém, varianta 197), 317 (zdroje proměnlivosti, souhrnně pokryté UK 86 a ČB 206), 318 (varianta 200), 320, 332–334, 355, 356, 358, 359, 365 (základní pojmy alela, homozygot a dominance, LF MU 144–145 a UK 148), 321, 331, 349 (štěpné poměry, ČB 118 a LF MU 145, 148), 322 (definice populace), 324 (výpočty z q², LF MU 150), 326 a 330 (hemofilie, SOM 41 a ČB 203), 329 a 360 (daltonismus a X-recesivní dědičnost, SOM 42 a UK 191), 335 a 347 (vazba genů, LF MU 148), 336 (varianta 184), 340 a 348 (varianty 187 a 192), 346 (rodokmen hemofilie, varianta 183 a 194), 350–352 (varianty 191, 195, 200), 354 (genom, ČB 291), 362 (gamety dihybrida, ČB 206), 364 (monogenní znaky, varianta 199).
+
 ## Další dávky
 
-Pokračovat od ID 151. Fyzika čeká na plnou knihu. Chemie pokračuje odloženými položkami kap. 2.1 a kapitolou 2.2 (str. 62+), biologie genetikou od otázky 313 (str. 73+). Úplné pokrytí zatím nebylo dosaženo.
+Pokračovat od ID 201. Fyzika čeká na plnou knihu. Chemie pokračuje kap. 2.3 od str. 77, biologie genetikou od otázky 366. Úplné pokrytí zatím nebylo dosaženo.

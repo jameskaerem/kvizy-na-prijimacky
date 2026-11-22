@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 151,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 46, otázka 2",
+    "sourcePages": "46",
+    "sourceItem": "str. 46, otázka 2",
+    "question": "Jaké skupenství mají za normálních podmínek iontové hydridy, například NaH nebo CaH₂?",
+    "options": [
+      "plynné",
+      "kapalné",
+      "pevné",
+      "kapalné i plynné podle kovu"
+    ],
+    "answer": 2,
+    "title": "pevné",
+    "paragraphs": [
+      "Iontové hydridy tvoří s vodíkem nejvíce elektropozitivní kovy. Jsou to krystalické látky s iontovou mřížkou podobně jako soli, proto jsou pevné. Kovalentní hydridy nekovů (kromě vody) jsou naopak většinou plyny."
+    ],
+    "memory": "Iontová mřížka = pevná látka jako sůl."
+  },
+  {
+    "id": 152,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 56, otázka 2",
+    "sourcePages": "56",
+    "sourceItem": "str. 56, otázka 2",
+    "question": "Který z uhličitanů je ve vodě nejlépe rozpustný?",
+    "options": [
+      "CaCO₃",
+      "MgCO₃",
+      "PbCO₃",
+      "Na₂CO₃"
+    ],
+    "answer": 3,
+    "title": "Na₂CO₃",
+    "paragraphs": [
+      "Uhličitany alkalických kovů (kromě lithného) jsou dobře rozpustné. Uhličitany vápenatý, hořečnatý i olovnatý jsou málo rozpustné, CaCO₃ tvoří vápenec a vodní kámen."
+    ],
+    "memory": "Sodné soli se rozpouštějí skoro všechny."
+  },
+  {
+    "id": 153,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 56, otázka 3",
+    "sourcePages": "56",
+    "sourceItem": "str. 56, otázka 3",
+    "question": "Který ze síranů je ve vodě nejméně rozpustný?",
+    "options": [
+      "CaSO₄ · 2 H₂O (sádrovec)",
+      "Na₂SO₄ · 10 H₂O",
+      "CuSO₄ · 5 H₂O",
+      "(NH₄)₂SO₄"
+    ],
+    "answer": 0,
+    "title": "CaSO₄ · 2 H₂O (sádrovec)",
+    "paragraphs": [
+      "Síran vápenatý je málo rozpustný, proto se vyskytuje jako nerost sádrovec a způsobuje trvalou tvrdost vody. Sírany sodný, měďnatý i amonný se ve vodě rozpouštějí dobře."
+    ],
+    "memory": "Sádrovec leží v přírodě, sodné a amonné soli by voda rozpustila."
+  },
+  {
+    "id": 154,
+    "subject": "Chemie",
+    "category": "Chemie · 2.2.1 Kyseliny a zásady",
+    "bookRef": "UK · Chemie · 2.2.1 Kyseliny a zásady · str. 63, otázka 2",
+    "sourcePages": "63",
+    "sourceItem": "str. 63, otázka 2",
+    "question": "Jaký vzorec má kyselina pentahydrogenjodistá?",
+    "options": [
+      "H₅IO₅",
+      "H₅IO₆",
+      "H₅IO₄",
+      "HIO₅"
+    ],
+    "answer": 1,
+    "title": "H₅IO₆",
+    "paragraphs": [
+      "Jod má v jodistanech oxidační číslo VII. Pět vodíků (+5) a jod (+7) dávají +12, k vyrovnání je třeba šest kyslíků (−12): H₅IO₆."
+    ],
+    "memory": "Součet oxidačních čísel v molekule je nula."
+  },
+  {
+    "id": 155,
+    "subject": "Chemie",
+    "category": "Chemie · 2.2.1 Kyseliny a zásady",
+    "bookRef": "UK · Chemie · 2.2.1 Kyseliny a zásady · str. 64, otázka 1",
+    "sourcePages": "64",
+    "sourceItem": "str. 64, otázka 1",
+    "question": "Která z látek je slabým elektrolytem?",
+    "options": [
+      "uhličitan draselný",
+      "chlorid amonný",
+      "amoniak",
+      "chlorid sodný"
+    ],
+    "answer": 2,
+    "title": "amoniak",
+    "paragraphs": [
+      "Amoniak reaguje s vodou jen z malé části (NH₃ + H₂O ⇌ NH₄⁺ + OH⁻), je to slabá zásada a slabý elektrolyt. Rozpustné soli jako K₂CO₃, NH₄Cl a NaCl jsou ve vodě úplně disociované."
+    ],
+    "memory": "Soli jsou silné elektrolyty, amoniak slabý."
+  },
+  {
+    "id": 156,
+    "subject": "Chemie",
+    "category": "Chemie · 2.2.1 Kyseliny a zásady",
+    "bookRef": "UK · Chemie · 2.2.1 Kyseliny a zásady · str. 64, otázka 2",
+    "sourcePages": "64",
+    "sourceItem": "str. 64, otázka 2",
+    "question": "Která z látek je silným elektrolytem?",
+    "options": [
+      "amoniak",
+      "kyselina octová",
+      "kyselina uhličitá",
+      "chlorid amonný"
+    ],
+    "answer": 3,
+    "title": "chlorid amonný",
+    "paragraphs": [
+      "Chlorid amonný je sůl a ve vodném roztoku je prakticky úplně rozložen na ionty NH₄⁺ a Cl⁻. Amoniak, kyselina octová i kyselina uhličitá disociují jen částečně."
+    ],
+    "memory": "Rozpustná sůl se rozpadne na ionty celá."
+  },
+  {
+    "id": 157,
+    "subject": "Chemie",
+    "category": "Chemie · 2.2.1 Kyseliny a zásady",
+    "bookRef": "UK · Chemie · 2.2.1 Kyseliny a zásady · str. 66, otázka 2",
+    "sourcePages": "66",
+    "sourceItem": "str. 66, otázka 2",
+    "question": "Jak silnou kyselinu představuje kyselina s disociační konstantou Ka < 10⁻¹⁰?",
+    "options": [
+      "velmi slabou",
+      "slabou",
+      "středně silnou",
+      "silnou"
+    ],
+    "answer": 0,
+    "title": "velmi slabou",
+    "paragraphs": [
+      "Čím menší je disociační konstanta, tím méně kyselina odštěpuje protony. Silné kyseliny mají Ka > 10⁻², hodnoty pod 10⁻¹⁰ odpovídají velmi slabým kyselinám."
+    ],
+    "memory": "Malé Ka = malá ochota dát proton."
+  },
+  {
+    "id": 158,
+    "subject": "Chemie",
+    "category": "Chemie · 2.2.1 Kyseliny a zásady",
+    "bookRef": "UK · Chemie · 2.2.1 Kyseliny a zásady · str. 66, otázka 3",
+    "sourcePages": "66",
+    "sourceItem": "str. 66, otázka 3",
+    "question": "Jak se označují reakce, při nichž dochází k přenosu protonu H⁺?",
+    "options": [
+      "oxidačně-redukční",
+      "protolytické",
+      "proteolytické",
+      "rozkladné"
+    ],
+    "answer": 1,
+    "title": "protolytické",
+    "paragraphs": [
+      "Protolytické (acidobazické) reakce jsou přenosy protonu mezi kyselinou a zásadou, patří k nim i neutralizace. Při redoxních reakcích se přenášejí elektrony, proteolýza je štěpení bílkovin."
+    ],
+    "memory": "Proto-lýza = přenos protonu, proteo-lýza = štěpení bílkovin."
+  },
+  {
+    "id": 159,
+    "subject": "Chemie",
+    "category": "Chemie · 2.2.1 Kyseliny a zásady",
+    "bookRef": "UK · Chemie · 2.2.1 Kyseliny a zásady · str. 66, otázka 5",
+    "sourcePages": "66",
+    "sourceItem": "str. 66, otázka 5",
+    "question": "Která veličina udává sílu kyseliny?",
+    "options": [
+      "součin rozpustnosti",
+      "redoxní potenciál",
+      "disociační konstanta kyseliny",
+      "iontový součin vody"
+    ],
+    "answer": 2,
+    "title": "disociační konstanta kyseliny",
+    "paragraphs": [
+      "Disociační (acidobazická) konstanta Ka vyjadřuje rovnováhu odštěpení protonu: čím je větší, tím je kyselina silnější. Součin rozpustnosti popisuje málo rozpustné soli."
+    ],
+    "memory": "Ka = míra kyselosti samotné kyseliny."
+  },
+  {
+    "id": 160,
+    "subject": "Chemie",
+    "category": "Chemie · 2.2.1 Kyseliny a zásady",
+    "bookRef": "UK · Chemie · 2.2.1 Kyseliny a zásady · str. 66, otázka 6",
+    "sourcePages": "66",
+    "sourceItem": "str. 66, otázka 6",
+    "question": "Která kyselina vzniká reakcí P₄O₁₀ + 6 H₂O?",
+    "options": [
+      "kyselina trihydrogenfosforitá (H₃PO₃)",
+      "kyselina hydrogenfosforečná (HPO₃)",
+      "kyselina tetrahydrogenfosforečná",
+      "kyselina trihydrogenfosforečná (H₃PO₄)"
+    ],
+    "answer": 3,
+    "title": "kyselina trihydrogenfosforečná (H₃PO₄)",
+    "paragraphs": [
+      "P₄O₁₀ + 6 H₂O → 4 H₃PO₄. Fosfor si ponechává oxidační číslo V, proto vzniká kyselina fosforečná."
+    ],
+    "memory": "Oxid fosforečný dává kyselinu fosforečnou."
+  },
+  {
+    "id": 161,
+    "subject": "Chemie",
+    "category": "Chemie · 2.2.1 Kyseliny a zásady",
+    "bookRef": "UK · Chemie · 2.2.1 Kyseliny a zásady · str. 67, otázka 3",
+    "sourcePages": "67",
+    "sourceItem": "str. 67, otázka 3",
+    "question": "Co je mírou kyselosti vodných roztoků?",
+    "options": [
+      "koncentrace oxoniových kationtů H₃O⁺",
+      "celková koncentrace kyseliny v roztoku",
+      "množství kyseliny v roztoku",
+      "koncentrace hydroxidových aniontů OH⁻ sama o sobě"
+    ],
+    "answer": 0,
+    "title": "koncentrace oxoniových kationtů H₃O⁺",
+    "paragraphs": [
+      "Kyselost roztoku určují oxoniové kationty, pH je záporný dekadický logaritmus jejich koncentrace. Stejně koncentrované roztoky silné a slabé kyseliny mají různou kyselost."
+    ],
+    "memory": "pH počítáš z H₃O⁺."
+  },
+  {
+    "id": 162,
+    "subject": "Chemie",
+    "category": "Chemie · 2.2.1 Kyseliny a zásady",
+    "bookRef": "UK · Chemie · 2.2.1 Kyseliny a zásady · str. 67, otázka 4",
+    "sourcePages": "67",
+    "sourceItem": "str. 67, otázka 4",
+    "question": "Které vlastnosti má kyselina dusičná?",
+    "options": [
+      "je slabá kyselina s oxidačními účinky",
+      "je silná kyselina s oxidačními účinky",
+      "je silná kyselina se silnými redukčními účinky",
+      "je slabá kyselina bez oxidačních účinků"
+    ],
+    "answer": 1,
+    "title": "je silná kyselina s oxidačními účinky",
+    "paragraphs": [
+      "HNO₃ je silná kyselina a zároveň silné oxidační činidlo. Proto rozpouští i měď nebo stříbro, které s neoxidujícími kyselinami nereagují."
+    ],
+    "memory": "Dusičná rozpustí měď, solná ne."
+  },
+  {
+    "id": 163,
+    "subject": "Chemie",
+    "category": "Chemie · 2.2.1 Kyseliny a zásady",
+    "bookRef": "UK · Chemie · 2.2.1 Kyseliny a zásady · str. 67, otázka 5",
+    "sourcePages": "67",
+    "sourceItem": "str. 67, otázka 5",
+    "question": "Které tvrzení o kyselině dusité platí?",
+    "options": [
+      "je stálá a lze ji dlouhodobě skladovat",
+      "je silnější kyselinou než kyselina dusičná",
+      "je nestálá a snadno se rozkládá",
+      "rozkládá se na oxid dusitý a kyslík"
+    ],
+    "answer": 2,
+    "title": "je nestálá a snadno se rozkládá",
+    "paragraphs": [
+      "Kyselina dusitá HNO₂ existuje jen ve zředěných roztocích a rozkládá se, například 3 HNO₂ → HNO₃ + 2 NO + H₂O. Je to slabá kyselina. Stálé jsou její soli dusitany."
+    ],
+    "memory": "Dusitá se rozpadá, dusitany vydrží."
+  },
+  {
+    "id": 164,
+    "subject": "Chemie",
+    "category": "Chemie · 2.2.1 Kyseliny a zásady",
+    "bookRef": "UK · Chemie · 2.2.1 Kyseliny a zásady · str. 67, otázka 6",
+    "sourcePages": "67",
+    "sourceItem": "str. 67, otázka 6",
+    "question": "Jak se správně ředí koncentrovaná kyselina sírová vodou?",
+    "options": [
+      "přilévá se voda do kyseliny",
+      "na pořadí nezáleží",
+      "kyselinu sírovou nelze vodou ředit",
+      "přilévá se kyselina do vody"
+    ],
+    "answer": 3,
+    "title": "přilévá se kyselina do vody",
+    "paragraphs": [
+      "Ředění kyseliny sírové uvolňuje velké množství tepla. Kdyby se voda lila do kyseliny, mohla by se na hladině prudce odpařit a vystříknout s kyselinou. Proto se kyselina pomalu přilévá do vody za míchání."
+    ],
+    "memory": "Nejdřív voda, potom kyselina, jinak se stane veliká psina."
+  },
+  {
+    "id": 165,
+    "subject": "Chemie",
+    "category": "Chemie · 2.2.1 Kyseliny a zásady",
+    "bookRef": "UK · Chemie · 2.2.1 Kyseliny a zásady · str. 68, otázka 2",
+    "sourcePages": "68",
+    "sourceItem": "str. 68, otázka 2",
+    "question": "Co je nitrační směs?",
+    "options": [
+      "směs koncentrované kyseliny dusičné a sírové",
+      "směs koncentrované kyseliny dusičné a chlorovodíkové",
+      "směs kyseliny dusité a dusičné",
+      "směs kyseliny dusičné a fosforečné"
+    ],
+    "answer": 0,
+    "title": "směs koncentrované kyseliny dusičné a sírové",
+    "paragraphs": [
+      "Nitrační směs je směs koncentrované HNO₃ a H₂SO₄. Používá se k nitraci organických látek, například při výrobě nitroglycerinu. Směs HNO₃ a HCl je lučavka královská."
+    ],
+    "memory": "Nitrace = dusičná + sírová."
+  },
+  {
+    "id": 166,
+    "subject": "Chemie",
+    "category": "Chemie · 2.2.1 Kyseliny a zásady",
+    "bookRef": "UK · Chemie · 2.2.1 Kyseliny a zásady · str. 68, otázka 3",
+    "sourcePages": "68",
+    "sourceItem": "str. 68, otázka 3",
+    "question": "Co vzniká při reakci zředěné kyseliny sírové se zinkem?",
+    "options": [
+      "oxid sírový",
+      "vodík",
+      "kyslík",
+      "zinek se zředěnou kyselinou nereaguje"
+    ],
+    "answer": 1,
+    "title": "vodík",
+    "paragraphs": [
+      "Zinek je méně ušlechtilý než vodík a vytěsní ho z kyseliny: Zn + H₂SO₄ → ZnSO₄ + H₂."
+    ],
+    "memory": "Neušlechtilý kov + zředěná kyselina = vodík."
+  },
+  {
+    "id": 167,
+    "subject": "Chemie",
+    "category": "Chemie · 2.2.1 Kyseliny a zásady",
+    "bookRef": "UK · Chemie · 2.2.1 Kyseliny a zásady · str. 68, otázka 4",
+    "sourcePages": "68",
+    "sourceItem": "str. 68, otázka 4",
+    "question": "Co vzniká při reakci koncentrované kyseliny sírové s mědí?",
+    "options": [
+      "vodík",
+      "oxid sírový",
+      "oxid siřičitý",
+      "měď s koncentrovanou kyselinou sírovou nereaguje"
+    ],
+    "answer": 2,
+    "title": "oxid siřičitý",
+    "paragraphs": [
+      "Měď je ušlechtilý kov a vodík z kyseliny nevytěsní. Horká koncentrovaná H₂SO₄ ji ale oxiduje a sama se redukuje na SO₂: Cu + 2 H₂SO₄ → CuSO₄ + SO₂ + 2 H₂O."
+    ],
+    "memory": "Ušlechtilý kov: místo vodíku vzniká SO₂."
+  },
+  {
+    "id": 168,
+    "subject": "Chemie",
+    "category": "Chemie · 2.2.1 Kyseliny a zásady",
+    "bookRef": "UK · Chemie · 2.2.1 Kyseliny a zásady · str. 68, otázka 6",
+    "sourcePages": "68",
+    "sourceItem": "str. 68, otázka 6",
+    "question": "Kolik řad solí tvoří trojsytná kyselina fosforečná?",
+    "options": [
+      "jednu",
+      "dvě",
+      "čtyři",
+      "tři (dihydrogenfosforečnany, hydrogenfosforečnany, fosforečnany)"
+    ],
+    "answer": 3,
+    "title": "tři (dihydrogenfosforečnany, hydrogenfosforečnany, fosforečnany)",
+    "paragraphs": [
+      "Kyselina H₃PO₄ může postupně odštěpit tři protony, proto tvoří soli s anionty H₂PO₄⁻, HPO₄²⁻ a PO₄³⁻. Je to středně silná kyselina."
+    ],
+    "memory": "Tři vodíky = tři druhy solí."
+  },
+  {
+    "id": 169,
+    "subject": "Chemie",
+    "category": "Chemie · 2.2.1 Kyseliny a zásady",
+    "bookRef": "UK · Chemie · 2.2.1 Kyseliny a zásady · str. 69, otázka 1",
+    "sourcePages": "69",
+    "sourceItem": "str. 69, otázka 1",
+    "question": "Které tvrzení o amoniaku platí?",
+    "options": [
+      "jeho vodný roztok reaguje zásaditě a dusík má oxidační číslo −III",
+      "jeho vodný roztok reaguje kysele a dusík má oxidační číslo −III",
+      "jeho vodný roztok reaguje zásaditě a dusík má oxidační číslo III",
+      "jeho vodný roztok je neutrální"
+    ],
+    "answer": 0,
+    "title": "jeho vodný roztok reaguje zásaditě a dusík má oxidační číslo −III",
+    "paragraphs": [
+      "NH₃ přijímá proton od vody a vznikají ionty OH⁻, roztok je zásaditý. Vodík má oxidační číslo I, dusík tedy −III."
+    ],
+    "memory": "Tři vodíky po +1 vyrovná dusík −3."
+  },
+  {
+    "id": 170,
+    "subject": "Chemie",
+    "category": "Chemie · 2.2.2 Hydrolýza solí",
+    "bookRef": "UK · Chemie · 2.2.2 Hydrolýza solí · str. 69, otázka 3",
+    "sourcePages": "69",
+    "sourceItem": "str. 69, otázka 3",
+    "question": "Roztok které soli reaguje v důsledku hydrolýzy kysele?",
+    "options": [
+      "Na₂SO₄",
+      "NH₄Cl",
+      "CH₃COONa",
+      "KCN"
+    ],
+    "answer": 1,
+    "title": "NH₄Cl",
+    "paragraphs": [
+      "Chlorid amonný je sůl silné kyseliny a slabé zásady. Amonný kation odevzdává proton vodě a vznikají ionty H₃O⁺. Na₂SO₄ reaguje neutrálně, octan sodný a kyanid draselný zásaditě."
+    ],
+    "memory": "O reakci rozhoduje silnější „rodič“ soli."
+  },
+  {
+    "id": 171,
+    "subject": "Chemie",
+    "category": "Chemie · 2.2.2 Hydrolýza solí",
+    "bookRef": "UK · Chemie · 2.2.2 Hydrolýza solí · str. 70, otázka 1",
+    "sourcePages": "70",
+    "sourceItem": "str. 70, otázka 1",
+    "question": "Jak reaguje vodný roztok octanu amonného?",
+    "options": [
+      "kysele",
+      "zásaditě",
+      "přibližně neutrálně",
+      "silně zásaditě"
+    ],
+    "answer": 2,
+    "title": "přibližně neutrálně",
+    "paragraphs": [
+      "Octan amonný je sůl slabé kyseliny a slabé zásady. Kyselina octová a amoniak mají téměř stejnou sílu, proto se hydrolýza obou iontů vyrovná a roztok je přibližně neutrální."
+    ],
+    "memory": "Slabý s mírně slabým = remíza."
+  },
+  {
+    "id": 172,
+    "subject": "Chemie",
+    "category": "Chemie · 2.2.2 Hydrolýza solí",
+    "bookRef": "UK · Chemie · 2.2.2 Hydrolýza solí · str. 70, otázka 2",
+    "sourcePages": "70",
+    "sourceItem": "str. 70, otázka 2",
+    "question": "Jak reaguje vodný roztok uhličitanu sodného?",
+    "options": [
+      "neutrálně",
+      "slabě kysele",
+      "silně kysele",
+      "zásaditě"
+    ],
+    "answer": 3,
+    "title": "zásaditě",
+    "paragraphs": [
+      "Na₂CO₃ je sůl silné zásady a slabé kyseliny uhličité. Uhličitanový anion přijímá od vody proton a vznikají ionty OH⁻, proto je roztok sody zásaditý."
+    ],
+    "memory": "Soda je zásaditá, proto čistí."
+  },
+  {
+    "id": 173,
+    "subject": "Chemie",
+    "category": "Chemie · 2.3 Oxidační číslo; oxidace a redukce",
+    "bookRef": "UK · Chemie · 2.3 Oxidační číslo; oxidace a redukce · str. 70, otázka 4",
+    "sourcePages": "70",
+    "sourceItem": "str. 70, otázka 4",
+    "question": "Jaké oxidační číslo má kyslík v peroxidech?",
+    "options": [
+      "−I",
+      "−II",
+      "0",
+      "II"
+    ],
+    "answer": 0,
+    "title": "−I",
+    "paragraphs": [
+      "V peroxidech jsou dva kyslíky spojeny vazbou O–O (skupina O₂²⁻), na každý připadá −I. Například v H₂O₂ mají vodíky +I a kyslíky −I."
+    ],
+    "memory": "Peroxid = dva kyslíky se dělí o −2."
+  },
+  {
+    "id": 174,
+    "subject": "Chemie",
+    "category": "Chemie · 2.3 Oxidační číslo; oxidace a redukce",
+    "bookRef": "UK · Chemie · 2.3 Oxidační číslo; oxidace a redukce · str. 71, otázka 3",
+    "sourcePages": "71",
+    "sourceItem": "str. 71, otázka 3",
+    "question": "Jaká oxidační čísla mají atomy dusíku v oxidech dusíku?",
+    "options": [
+      "pouze I, III a V",
+      "I, II, III, IV a V",
+      "I až VI",
+      "−III až V"
+    ],
+    "answer": 1,
+    "title": "I, II, III, IV a V",
+    "paragraphs": [
+      "Dusík tvoří oxidy N₂O (I), NO (II), N₂O₃ (III), NO₂ (IV) a N₂O₅ (V). Záporná oxidační čísla má jen ve sloučeninách s méně elektronegativními prvky, například −III v amoniaku."
+    ],
+    "memory": "Od rajského plynu (I) po oxid dusičný (V)."
+  },
+  {
+    "id": 175,
+    "subject": "Chemie",
+    "category": "Chemie · 2.3 Oxidační číslo; oxidace a redukce",
+    "bookRef": "UK · Chemie · 2.3 Oxidační číslo; oxidace a redukce · str. 72, otázka 1",
+    "sourcePages": "72",
+    "sourceItem": "str. 72, otázka 1",
+    "question": "Jaké oxidační číslo má fosfor v molekule P₄?",
+    "options": [
+      "III",
+      "V",
+      "0",
+      "IV"
+    ],
+    "answer": 2,
+    "title": "0",
+    "paragraphs": [
+      "P₄ je molekula prvku. Atomy prvku vázané samy se sebou mají oxidační číslo nula bez ohledu na počet atomů v molekule (stejně O₂, O₃, S₈)."
+    ],
+    "memory": "Čistý prvek = nula."
+  },
+  {
+    "id": 176,
+    "subject": "Chemie",
+    "category": "Chemie · 2.3 Oxidační číslo; oxidace a redukce",
+    "bookRef": "UK · Chemie · 2.3 Oxidační číslo; oxidace a redukce · str. 73, otázka 3",
+    "sourcePages": "73",
+    "sourceItem": "str. 73, otázka 3",
+    "question": "Jaké nejvyšší oxidační číslo může mít atom chloru?",
+    "options": [
+      "V",
+      "VIII",
+      "−I",
+      "VII"
+    ],
+    "answer": 3,
+    "title": "VII",
+    "paragraphs": [
+      "Chlor má sedm valenčních elektronů a nejvyšší oxidační číslo VII, například v kyselině chloristé HClO₄ a v chloristanech."
+    ],
+    "memory": "Skupina 17, sedm valenčních elektronů, nejvýš VII."
+  },
+  {
+    "id": 177,
+    "subject": "Chemie",
+    "category": "Chemie · 2.3 Oxidační číslo; oxidace a redukce",
+    "bookRef": "UK · Chemie · 2.3 Oxidační číslo; oxidace a redukce · str. 73, otázka 6",
+    "sourcePages": "73",
+    "sourceItem": "str. 73, otázka 6",
+    "question": "Jaké oxidační číslo má chrom v dichromanu draselném K₂Cr₂O₇?",
+    "options": [
+      "VI",
+      "IV",
+      "V",
+      "−VI"
+    ],
+    "answer": 0,
+    "title": "VI",
+    "paragraphs": [
+      "2 · (+1) + 2x + 7 · (−2) = 0, tedy 2x = 12 a x = 6. Chrom má v chromanech i dichromanech oxidační číslo VI."
+    ],
+    "memory": "Dva draslíky, dva chromy, sedm kyslíků: součet nula."
+  },
+  {
+    "id": 178,
+    "subject": "Chemie",
+    "category": "Chemie · 2.3 Oxidační číslo; oxidace a redukce",
+    "bookRef": "UK · Chemie · 2.3 Oxidační číslo; oxidace a redukce · str. 74, otázka 1",
+    "sourcePages": "74",
+    "sourceItem": "str. 74, otázka 1",
+    "question": "Jaké oxidační číslo má železo ve sloučenině Fe(HSO₄)₂?",
+    "options": [
+      "III",
+      "II",
+      "IV",
+      "VI"
+    ],
+    "answer": 1,
+    "title": "II",
+    "paragraphs": [
+      "Hydrogensíranový anion HSO₄⁻ má náboj −1. Dva tyto anionty vyrovná železo s nábojem +2, jde tedy o hydrogensíran železnatý."
+    ],
+    "memory": "Spočítej náboje aniontů a dopočítej kov."
+  },
+  {
+    "id": 179,
+    "subject": "Chemie",
+    "category": "Chemie · 2.3 Oxidační číslo; oxidace a redukce",
+    "bookRef": "UK · Chemie · 2.3 Oxidační číslo; oxidace a redukce · str. 74, otázka 5",
+    "sourcePages": "74",
+    "sourceItem": "str. 74, otázka 5",
+    "question": "Jaké oxidační číslo má chlor v chlorečnanu draselném KClO₃?",
+    "options": [
+      "−I",
+      "+I",
+      "+V",
+      "+VII"
+    ],
+    "answer": 2,
+    "title": "+V",
+    "paragraphs": [
+      "+1 + x + 3 · (−2) = 0, x = +5. Koncovka -ečnan odpovídá oxidačnímu číslu V (chlornan I, chloritan III, chloristan VII)."
+    ],
+    "memory": "-nan I, -itan III, -ečnan V, -istan VII."
+  },
+  {
+    "id": 180,
+    "subject": "Chemie",
+    "category": "Chemie · 2.3 Oxidační číslo; oxidace a redukce",
+    "bookRef": "UK · Chemie · 2.3 Oxidační číslo; oxidace a redukce · str. 75, otázka 2",
+    "sourcePages": "75",
+    "sourceItem": "str. 75, otázka 2",
+    "question": "Čemu se rovná součet oxidačních čísel všech atomů v neutrální sloučenině?",
+    "options": [
+      "počtu protonů",
+      "počtu elementárních nábojů",
+      "1,602 · 10⁻¹⁹ C",
+      "nule"
+    ],
+    "answer": 3,
+    "title": "nule",
+    "paragraphs": [
+      "Molekula nebo vzorcová jednotka neutrální sloučeniny nenese náboj, proto se kladná a záporná oxidační čísla vyruší. U iontu je součet roven jeho náboji."
+    ],
+    "memory": "Neutrální = celkem nula."
+  },
+  {
+    "id": 181,
+    "subject": "Chemie",
+    "category": "Chemie · 2.3 Oxidační číslo; oxidace a redukce",
+    "bookRef": "UK · Chemie · 2.3 Oxidační číslo; oxidace a redukce · str. 75, otázka 3",
+    "sourcePages": "75",
+    "sourceItem": "str. 75, otázka 3",
+    "question": "Co dělá redukční činidlo v redoxní reakci?",
+    "options": [
+      "předává elektrony a samo zvyšuje své oxidační číslo",
+      "přijímá elektrony a snižuje své oxidační číslo",
+      "předává protony",
+      "přijímá protony"
+    ],
+    "answer": 0,
+    "title": "předává elektrony a samo zvyšuje své oxidační číslo",
+    "paragraphs": [
+      "Redukční činidlo jiné látky redukuje tím, že jim dodá elektrony. Samo se přitom oxiduje, takže jeho oxidační číslo roste. Typickým redukčním činidlem jsou alkalické kovy."
+    ],
+    "memory": "Redukovadlo dává elektrony a samo se oxiduje."
+  },
+  {
+    "id": 182,
+    "subject": "Chemie",
+    "category": "Chemie · 2.3 Oxidační číslo; oxidace a redukce",
+    "bookRef": "UK · Chemie · 2.3 Oxidační číslo; oxidace a redukce · str. 76, otázka 5",
+    "sourcePages": "76",
+    "sourceItem": "str. 76, otázka 5",
+    "question": "Jakým dějem je přeměna Mn(VII) + 5 e⁻ → Mn(II)?",
+    "options": [
+      "oxidací",
+      "redukcí",
+      "disociací",
+      "substitucí"
+    ],
+    "answer": 1,
+    "title": "redukcí",
+    "paragraphs": [
+      "Mangan přijímá elektrony a jeho oxidační číslo klesá ze VII na II, to je redukce. Tak se chová manganistan jako oxidační činidlo v kyselém prostředí."
+    ],
+    "memory": "Přijetí elektronů = redukce (oxidační číslo klesá)."
+  },
+  {
+    "id": 183,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 313 · str. 73",
+    "sourcePages": "73",
+    "sourceItem": "313",
+    "question": "Přenašečka hemofilie čeká dítě se zdravým mužem, pohlaví plodu není známo. Jaká je pravděpodobnost, že se narodí zdravý syn?",
+    "options": [
+      "50 %",
+      "12,5 %",
+      "25 %",
+      "0 %"
+    ],
+    "answer": 2,
+    "title": "25 %",
+    "paragraphs": [
+      "Pravděpodobnost syna je 1/2 a syn zdědí od matky zdravý chromozom X s pravděpodobností 1/2. Zdravý syn je tedy 1/2 · 1/2 = 1/4."
+    ],
+    "memory": "Násob: kluk (½) × zdravé X od matky (½)."
+  },
+  {
+    "id": 184,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 319 · str. 74",
+    "sourcePages": "74",
+    "sourceItem": "319",
+    "question": "Co je genetický drift?",
+    "options": [
+      "změna frekvence alely opakovanými mutacemi",
+      "tok genů mezi populacemi",
+      "rozdílná plodnost nositelů různých genotypů",
+      "náhodná změna frekvence alel mezi generacemi"
+    ],
+    "answer": 3,
+    "title": "náhodná změna frekvence alel mezi generacemi",
+    "paragraphs": [
+      "Drift je náhodné kolísání četnosti alel, nejvýraznější v malých populacích. Může vést k vymizení některých alel a k přibývání homozygotů. Rozdílná plodnost genotypů je přírodní výběr."
+    ],
+    "memory": "Drift = náhoda, výběr = zdatnost."
+  },
+  {
+    "id": 185,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 323 · str. 75",
+    "sourcePages": "75",
+    "sourceItem": "323",
+    "question": "Pro jakou populaci platí Hardyho–Weinbergův zákon?",
+    "options": [
+      "pro velkou panmiktickou populaci, v níž se četnost alel a genotypů v generacích nemění",
+      "pro malou autogamní populaci",
+      "pro každou populaci, v níž se četnost alel zákonitě mění",
+      "jen pro populace s odděleným pohlavím bez ohledu na velikost"
+    ],
+    "answer": 0,
+    "title": "pro velkou panmiktickou populaci, v níž se četnost alel a genotypů v generacích nemění",
+    "paragraphs": [
+      "Zákon popisuje ideální populaci: velkou, s náhodným párováním (panmixií), bez mutací, výběru a migrace. V ní se četnost alel i genotypů po generace udržuje stálá."
+    ],
+    "memory": "Velká, náhodně se pářící, nerušená populace je v rovnováze."
+  },
+  {
+    "id": 186,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 325 · str. 75",
+    "sourcePages": "75",
+    "sourceItem": "325",
+    "question": "Krátkoprstost (brachydaktylie) je autozomově dominantní znak s plnou penetrancí. Krátkoprstý muž má ženu s normálními prsty. Jaká je pravděpodobnost postiženého dítěte?",
+    "options": [
+      "50 %, protože oba rodiče jsou heterozygoti",
+      "50 %, je-li muž heterozygot",
+      "0 %, znak se projeví jen u dětí dvou postižených rodičů",
+      "25 %, protože muž je dominantní homozygot"
+    ],
+    "answer": 1,
+    "title": "50 %, je-li muž heterozygot",
+    "paragraphs": [
+      "Žena s normálními prsty je recesivní homozygot aa. Heterozygotní muž Aa předá dominantní alelu polovině dětí. Kdyby byl homozygot AA, byly by postižené všechny děti."
+    ],
+    "memory": "Aa × aa = půl na půl."
+  },
+  {
+    "id": 187,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 327 · str. 76",
+    "sourcePages": "76",
+    "sourceItem": "327",
+    "question": "Jaké štěpné poměry vzniknou křížením recesivního homozygota s heterozygotem (aa × Aa)?",
+    "options": [
+      "genotypový 1 : 2 : 1 a fenotypový 3 : 1",
+      "genotypový 1 : 2 : 1 a fenotypový 1 : 2 : 1",
+      "genotypový i fenotypový poměr 1 : 1",
+      "genotypový 1 : 1 a fenotypový 3 : 1"
+    ],
+    "answer": 2,
+    "title": "genotypový i fenotypový poměr 1 : 1",
+    "paragraphs": [
+      "Recesivní homozygot tvoří jen gamety a, heterozygot gamety A a a. Potomci jsou Aa a aa v poměru 1 : 1 a stejný je i fenotypový poměr. Takové zpětné křížení odhalí genotyp jedince s dominantním fenotypem."
+    ],
+    "memory": "Testovací křížení: 1 : 1."
+  },
+  {
+    "id": 188,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 328 · str. 76",
+    "sourcePages": "76",
+    "sourceItem": "328",
+    "question": "Kolik genotypů mohou u žen s normálním karyotypem tvořit alely A a a genu vázaného na chromozom X?",
+    "options": [
+      "dva: AA a aa",
+      "jeden: Aa",
+      "dva: Aa a aa",
+      "tři: AA, Aa a aa"
+    ],
+    "answer": 3,
+    "title": "tři: AA, Aa a aa",
+    "paragraphs": [
+      "Žena má dva chromozomy X, takže se alely genu vázaného na X chovají jako alely na autozomu a vznikají tři genotypy. Muž má jen jeden X a je hemizygotní."
+    ],
+    "memory": "Dvě X = tři možnosti, jedno X = dvě."
+  },
+  {
+    "id": 189,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 337 · str. 78",
+    "sourcePages": "78",
+    "sourceItem": "337",
+    "question": "Co platí pro autozomově dominantní choroby s plnou penetrancí?",
+    "options": [
+      "postižení jsou většinou heterozygoti a choroba se objevuje v po sobě jdoucích generacích",
+      "postižení jsou vždy dominantní homozygoti",
+      "nepostižení rodiče mají většinou postižené děti",
+      "výrazně častěji jsou postiženy ženy"
+    ],
+    "answer": 0,
+    "title": "postižení jsou většinou heterozygoti a choroba se objevuje v po sobě jdoucích generacích",
+    "paragraphs": [
+      "Postižený má obvykle jednoho postiženého rodiče, choroba prochází generacemi „vertikálně“ a obě pohlaví jsou postižena stejně. Dominantní homozygotní stav bývá u mnoha takových chorob letální."
+    ],
+    "memory": "Dominantní choroba se nepřeskakuje."
+  },
+  {
+    "id": 190,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 338 · str. 78",
+    "sourcePages": "78",
+    "sourceItem": "338",
+    "question": "Oba rodiče jsou heterozygoti pro autozomově recesivní chorobu. Jaká je pravděpodobnost, že jejich nepostižené dítě je přenašečem?",
+    "options": [
+      "1/2",
+      "2/3",
+      "1/4",
+      "3/4"
+    ],
+    "answer": 1,
+    "title": "2/3",
+    "paragraphs": [
+      "Potomci jsou AA : Aa : aa = 1 : 2 : 1. Pokud víme, že dítě není postižené (aa vylučujeme), zbývají tři stejně pravděpodobné možnosti a ve dvou z nich je přenašečem."
+    ],
+    "memory": "Vyřaď postižené, ze tří zbylých jsou dvě přenašeči."
+  },
+  {
+    "id": 191,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 339 · str. 79",
+    "sourcePages": "79",
+    "sourceItem": "339",
+    "question": "Co platí pro gonozomově recesivní choroby u člověka?",
+    "options": [
+      "přenašečka má se zdravým mužem polovinu postižených dcer",
+      "choroba je stejně častá u mužů a u žen",
+      "postižený muž nepředává mutovanou alelu svým synům",
+      "postižený muž má všechny syny postižené"
+    ],
+    "answer": 2,
+    "title": "postižený muž nepředává mutovanou alelu svým synům",
+    "paragraphs": [
+      "Syn dostává od otce chromozom Y, ne X. Mutovanou alelu na X proto postižený otec předá všem dcerám (budou přenašečky), ale žádnému synovi."
+    ],
+    "memory": "Od táty dostane syn Y, dcera X."
+  },
+  {
+    "id": 192,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 341 · str. 79",
+    "sourcePages": "79",
+    "sourceItem": "341",
+    "question": "Co je panmixie?",
+    "options": [
+      "párování mezi příbuznými jedinci",
+      "párování jedinců s podobnými vlastnostmi",
+      "rozmnožování samooplozením",
+      "náhodné párování, kdy se kterákoli gameta může setkat s kteroukoli gametou opačného pohlaví"
+    ],
+    "answer": 3,
+    "title": "náhodné párování, kdy se kterákoli gameta může setkat s kteroukoli gametou opačného pohlaví",
+    "paragraphs": [
+      "Panmixie znamená zcela náhodný výběr partnera v populaci. Je jedním z předpokladů Hardyho–Weinbergovy rovnováhy. Párování příbuzných je příbuzenské křížení (inbreeding)."
+    ],
+    "memory": "Pan = všichni, mixis = mísení."
+  },
+  {
+    "id": 193,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 342 · str. 79",
+    "sourcePages": "79",
+    "sourceItem": "342",
+    "question": "Oba rodiče jsou heterozygoti pro autozomově dominantní chorobu, u níž je genotyp AA prenatálně letální. Jaké je riziko postižení narozeného dítěte?",
+    "options": [
+      "asi 66,7 %",
+      "50 %",
+      "75 %",
+      "25 %"
+    ],
+    "answer": 0,
+    "title": "asi 66,7 %",
+    "paragraphs": [
+      "Ze čtyř stejně pravděpodobných kombinací (AA, Aa, Aa, aa) se AA nenarodí. Mezi narozenými dětmi jsou dvě třetiny Aa (postižené) a třetina aa (zdravé)."
+    ],
+    "memory": "Letální AA vyřadíš, zbudou 2 ze 3."
+  },
+  {
+    "id": 194,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 343 · str. 79",
+    "sourcePages": "79",
+    "sourceItem": "343",
+    "question": "Muž postižený autozomově recesivní chorobou má dítě se ženou, která je přenašečkou. Jaká je pravděpodobnost postižení dítěte?",
+    "options": [
+      "25 %",
+      "50 %",
+      "75 %",
+      "100 %"
+    ],
+    "answer": 1,
+    "title": "50 %",
+    "paragraphs": [
+      "Muž aa předává vždy alelu a, žena Aa předává alelu a s pravděpodobností 1/2. Dítě bude aa (postižené) v polovině případů."
+    ],
+    "memory": "aa × Aa = 1 : 1."
+  },
+  {
+    "id": 195,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 344 · str. 80",
+    "sourcePages": "80",
+    "sourceItem": "344",
+    "question": "Nepostižený syn přenašečky hemofilie a zdravého muže má děti se zdravou ženou. Může na ně hemofilii přenést?",
+    "options": [
+      "může ji přenést na polovinu dcer",
+      "může ji přenést na polovinu synů",
+      "nemůže ji přenést na dcery ani na syny",
+      "může ji přenést na polovinu dcer i synů"
+    ],
+    "answer": 2,
+    "title": "nemůže ji přenést na dcery ani na syny",
+    "paragraphs": [
+      "Zdravý syn zdědil od matky zdravý chromozom X, jinak by byl jako hemizygot postižen. Alelu pro hemofilii tedy nenese a nemůže ji předat."
+    ],
+    "memory": "Zdravý muž = zdravé X, nic nepředá."
+  },
+  {
+    "id": 196,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 345 · str. 80",
+    "sourcePages": "80",
+    "sourceItem": "345",
+    "question": "Jaký fenotypový štěpný poměr vznikne křížením dvojnásobného dominantního homozygota AABB s dvojnásobným heterozygotem AaBb (úplná dominance)?",
+    "options": [
+      "9 : 3 : 3 : 1",
+      "1 : 1 : 1 : 1",
+      "3 : 1",
+      "všichni potomci mají oba dominantní znaky"
+    ],
+    "answer": 3,
+    "title": "všichni potomci mají oba dominantní znaky",
+    "paragraphs": [
+      "Rodič AABB předá vždy alely A a B, takže každý potomek má alespoň jednu dominantní alelu obou genů a při úplné dominanci shodný fenotyp AB. Genotypy se liší (AABB, AABb, AaBB, AaBb)."
+    ],
+    "memory": "Jedna dominantní alela od každého genu stačí."
+  },
+  {
+    "id": 197,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 353 · str. 81",
+    "sourcePages": "81",
+    "sourceItem": "353",
+    "question": "Co platí pro geny malého účinku?",
+    "options": [
+      "podmiňují kvantitativní znaky, mají zpravidla aditivní účinek a jejich projev ovlivňuje prostředí",
+      "podmiňují kvalitativní znaky nezávislé na prostředí",
+      "mají vždy jen dominantní alely",
+      "působí každý samostatně bez polygenního systému"
+    ],
+    "answer": 0,
+    "title": "podmiňují kvantitativní znaky, mají zpravidla aditivní účinek a jejich projev ovlivňuje prostředí",
+    "paragraphs": [
+      "Geny malého účinku (minorgeny) tvoří polygenní systém. Jejich drobné účinky se sčítají a s vlivem prostředí určují například výšku postavy nebo hmotnost. Výsledkem je plynulá proměnlivost znaku."
+    ],
+    "memory": "Hodně malých genů + prostředí = plynulá škála."
+  },
+  {
+    "id": 198,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 357 · str. 82",
+    "sourcePages": "82",
+    "sourceItem": "357",
+    "question": "Jak se u dědičnosti vázané na chromozom X označují jedinci s konstitucí XY?",
+    "options": [
+      "heterozygoti",
+      "hemizygoti",
+      "dominantní homozygoti",
+      "recesivní homozygoti"
+    ],
+    "answer": 1,
+    "title": "hemizygoti",
+    "paragraphs": [
+      "Muž má jen jeden chromozom X, a tedy jen jednu alelu genů vázaných na X. Takový stav se nazývá hemizygotní, proto se u mužů projeví i recesivní alela."
+    ],
+    "memory": "Hemi = polovina: jen jedna alela."
+  },
+  {
+    "id": 199,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 361 · str. 83",
+    "sourcePages": "83",
+    "sourceItem": "361",
+    "question": "Jak se dědí krevní skupiny systému AB0?",
+    "options": [
+      "monogenně s významným podílem prostředí",
+      "polygenně bez podílu prostředí",
+      "monogenně, bez podílu vnějšího prostředí",
+      "multifaktoriálně"
+    ],
+    "answer": 2,
+    "title": "monogenně, bez podílu vnějšího prostředí",
+    "paragraphs": [
+      "Krevní skupinu AB0 určují alely jednoho genu a prostředí ji neovlivní, je to typický kvalitativní znak. Multifaktoriální znaky (výška, inteligence) závisejí na mnoha genech a prostředí."
+    ],
+    "memory": "Jeden gen, jasný výsledek."
+  },
+  {
+    "id": 200,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 363 · str. 83",
+    "sourcePages": "83",
+    "sourceItem": "363",
+    "question": "Co platí pro dominantně dědičné choroby vázané na chromozom X?",
+    "options": [
+      "obě pohlaví jsou postižena stejně často",
+      "častěji jsou postiženi muži",
+      "postižený muž má všechny dcery zdravé",
+      "ženy jsou postiženy přibližně dvakrát častěji než muži"
+    ],
+    "answer": 3,
+    "title": "ženy jsou postiženy přibližně dvakrát častěji než muži",
+    "paragraphs": [
+      "Žena má dva chromozomy X, má tedy dvojnásobnou šanci zdědit dominantní alelu. Postižený muž ji předá všem dcerám, ale žádnému synovi."
+    ],
+    "memory": "Dvě X = dvojnásobné riziko."
+  }
+]
