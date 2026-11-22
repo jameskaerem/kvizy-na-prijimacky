@@ -330,6 +330,20 @@ Nepřidáno v rozsahu 159–240 (stejný poznatek jako starší nebo nová otáz
 - Úlohy 159, 160, 162, 163, 197, 201, 202, 216, 217 a 225 už byly použity dříve.
 - Úlohy 241 a výš se doplní v dalších dávkách.
 
+## Dávka ID 888–937 (v2.78.0)
+
+Soubor `uk-888-937.json`, generátor `create_uk_888_937.py`. Formát zkoušky s více správnými odpověďmi, klíč všech 50 úloh strojově porovnán s knihou (str. 199).
+
+| Předmět | Kapitola | Úlohy | ID |
+|---|---|---|---|
+| Biologie | Molekulární biologie (str. 58–69) | 244, 245, 246, 247, 252, 256, 258, 259, 260, 263, 265, 268, 271, 275, 276, 278, 279, 282, 283, 285, 286, 289, 290, 304 | 888–911 |
+| Biologie | Genetika (str. 73–89) | 311, 314, 315, 317, 320, 321, 322, 324, 329, 332, 333, 335, 336, 340, 347, 351, 355, 359, 362, 368, 373, 382, 384, 386, 393, 395 | 912–937 |
+
+Nepřidáno v rozsahu 241–400 (stejný poznatek jako starší nebo nová otázka):
+- Molekulární biologie: 241 a 274 (translace, nové 838 a 840), 242, 243 a 281 (tichá a záměnová mutace, nová 845), 248, 293 a 303 (stavba nukleotidu, nová 859), 249 (hnRNA, UK 140 a nová 847), 250 (sekvence genu určuje protein, nová 856), 253 (proteiny jádra z cytoplazmy, nová 867), 254, 297 a 298 (komplementarita bází, nová 843), 257 (RNA-polymeráza, nová 853), 261, 262 a 300 (předloha translace, nová 858), 264, 288 a 299 (kodon, nové 851 a 870), 266 (plazmidy, UK 143), 267 (mimojaderná DNA, UK 144), 269 (telomery, UK 47), 270 (nukleozom, UK 85), 272 (rRNA v jadérku, SOM 27), 273 (tRNA, nová 848), 277 (degenerace kódu, nové 869 a 870), 280 (delece a posun rámce, UK 141).
+- Genetika: 316 a 381 (geny malého účinku, UK 197), 318 a 352 (X-vázaná dominance, UK 200), 326 (hemofilik a zdravá žena, ČB 117), 330 (přenašečka hemofilie, UK 183), 331, 378 a 400 (štěpné poměry dihybrida, ČB 118 a LF MU 148), 334 a 366 (alely, nová 922), 346 (rodina s hemofilií, UK 286), 348 (brachydaktylie, UK 186), 349, 356 a 377 (uniformita a 1:2:1, nová 932), 350 (AD choroba Aa × Aa, UK 193 a nová 932), 354 (genom, nová 908), 358 (neúplná dominance, nová 912), 360 a 374 (X-vázaná recesivita, nové 920 a 927), 364 (krevní skupiny jako monogenní znak, UK 146 a 199), 365 (AA × aa, nová 929), 372 (genotyp, BIO 705), 379 (vazba genů, nové 926 a 930), 380 (centimorgan, UK 250), 387–389 (výpočty Hardyho–Weinbergova zákona, UK 240 a nová 919), 390 (drift, UK 184), 394 a 396 (albinismus, UK 190 a nová 925), 397 (trizomie, BIO a ČB), 398 (zpětné křížení, UK 235).
+- Úlohy 401 a výš se doplní v dalších dávkách.
+
 ## Stav pokrytí
 
-Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) má ověřené úlohy 85–290 jen částečně: nepoužité úlohy s více správnými odpověďmi se doplňují od ID 788 (viz oddíly výše). Fyzika (Amler) je pokrytá jen v rozsahu dodané ukázky (úlohy 1.01–1.64 a 2.01–2.05). Pro další fyziku je potřeba plná kniha. Další dávka začne od ID 888.
+Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) má ověřené úlohy 85–290 jen částečně: nepoužité úlohy s více správnými odpověďmi se doplňují od ID 788 (viz oddíly výše). Fyzika (Amler) je pokrytá jen v rozsahu dodané ukázky (úlohy 1.01–1.64 a 2.01–2.05). Pro další fyziku je potřeba plná kniha. Další dávka začne od ID 938.

@@ -1,0 +1,1276 @@
+[
+  {
+    "id": 888,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 244 · str. 58",
+    "sourcePages": "58",
+    "sourceItem": "244",
+    "question": "Které mutace v mRNA se mohou projevit syntézou chybného proteinu?",
+    "options": [
+      "záměna jedné báze v jednom kodonu za jinou bázi",
+      "vynechání (delece) jedné báze v jednom kodonu",
+      "vložení (inzerce) jedné báze v jednom kodonu",
+      "záměna dvou bází ve dvou sousedních kodonech"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Všechny uvedené změny mohou vést k chybnému proteinu. Záměna báze může změnit aminokyselinu nebo vytvořit STOP kodon. Delece a inzerce jedné báze posunou čtecí rámec, takže se změní všechny následující kodony. Slovo „mohou“ je důležité: záměna může být i tichá."
+    ],
+    "memory": "Otázka „může se projevit?“ = stačí jedna možnost."
+  },
+  {
+    "id": 889,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 245 · str. 58",
+    "sourcePages": "58",
+    "sourceItem": "245",
+    "question": "Které záměny bází v mRNA se mohou projevit syntézou chybného proteinu?",
+    "options": [
+      "záměna jedné báze v jednom kodonu",
+      "záměna dvou bází v jednom kodonu",
+      "záměna tří bází v jednom kodonu",
+      "záměna dvou bází ve dvou sousedních kodonech"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Každá záměna může změnit kodon na kodon jiné aminokyseliny nebo na STOP kodon, ať jde o jednu, dvě nebo tři báze v jednom kodonu, nebo o změnu ve dvou kodonech. Degenerace kódu zachrání jen část případů."
+    ],
+    "memory": "Každá záměna může změnit aminokyselinu."
+  },
+  {
+    "id": 890,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 246 · str. 59",
+    "sourcePages": "59",
+    "sourceItem": "246",
+    "question": "Které delece v mRNA se mohou projevit syntézou chybného proteinu?",
+    "options": [
+      "delece jedné báze v jednom kodonu",
+      "delece dvou bází v jednom kodonu",
+      "delece tří bází v jednom kodonu",
+      "delece dvou bází ve dvou sousedních kodonech"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Delece jedné nebo dvou bází posune čtecí rámec. Delece tří bází rámec neposune, ale z proteinu zmizí jedna aminokyselina (a pokud zasáhne dva kodony, může se změnit i sousední aminokyselina). Ve všech případech tedy může vzniknout chybný protein."
+    ],
+    "memory": "Ztráta tří bází = chybí aminokyselina."
+  },
+  {
+    "id": 891,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 247 · str. 59",
+    "sourcePages": "59",
+    "sourceItem": "247",
+    "question": "Které buněčné struktury obsahují nukleovou kyselinu?",
+    "options": [
+      "jadérko",
+      "ribozom",
+      "mitochondrie",
+      "jádro"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Jádro obsahuje DNA i RNA, jadérko rRNA a geny pro ni, ribozom je z rRNA a proteinů a mitochondrie mají vlastní DNA a ribozomy."
+    ],
+    "memory": "Nukleové kyseliny: jádro, jadérko, ribozom, mitochondrie."
+  },
+  {
+    "id": 892,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 252 · str. 60",
+    "sourcePages": "60",
+    "sourceItem": "252",
+    "question": "Které znaky proteosyntézy jsou jedinečné pro prokaryota?",
+    "options": [
+      "jedna mRNA může nést sekvence několika různých genů",
+      "jedna mRNA může být překládána více ribozomy současně",
+      "translace může začít na mRNA, jejíž přepis ještě neskončil",
+      "proteosyntéza probíhá v cytoplazmě"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Prokaryotní mRNA bývá polycistronní (operon) a protože prokaryota nemají jádro, ribozomy nasedají na mRNA už během transkripce. Polyzomy i translace v cytoplazmě se vyskytují i u eukaryot."
+    ],
+    "memory": "Bez jádra: přepis a překlad současně."
+  },
+  {
+    "id": 893,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 256 · str. 60",
+    "sourcePages": "60",
+    "sourceItem": "256",
+    "question": "Co platí o metodě označované zkratkou PCR?",
+    "options": [
+      "slouží k rozštěpení DNA restrikčními endonukleázami",
+      "nazývá se polymerázová řetězová reakce",
+      "umožňuje zmnožit zkoumaný úsek DNA",
+      "zpravidla využívá termostabilní DNA-polymerázu"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: B, C a D",
+    "paragraphs": [
+      "PCR (polymerase chain reaction) opakovanými cykly denaturace, nasednutí primerů a syntézy zmnoží vybraný úsek DNA. Kvůli vysokým teplotám se používá termostabilní polymeráza (Taq). Štěpení restriktázami je jiná metoda."
+    ],
+    "memory": "PCR = kopírka na úsek DNA."
+  },
+  {
+    "id": 894,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 258 · str. 61",
+    "sourcePages": "61",
+    "sourceItem": "258",
+    "question": "Co je u retrovirů předlohou pro syntézu provirové DNA?",
+    "options": [
+      "prion",
+      "DNA",
+      "specifický retroprotein",
+      "RNA"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Retroviry (například HIV) mají genom z RNA. Reverzní transkriptáza podle něj syntetizuje DNA, která se jako provirus začlení do DNA hostitele."
+    ],
+    "memory": "Retro = zpět z RNA do DNA."
+  },
+  {
+    "id": 895,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 259 · str. 61",
+    "sourcePages": "61",
+    "sourceItem": "259",
+    "question": "Která tvrzení o hybridizaci (jako molekulárně genetické technice) jsou správná?",
+    "options": [
+      "principem hybridizace je zmnožení zkoumané DNA",
+      "hybridizací lze zjistit přítomnost hledané sekvence ve vzorku DNA",
+      "ke každé hybridizaci je potřeba dvojice primerů a termostabilní DNA-polymeráza",
+      "před hybridizací je potřeba DNA denaturovat"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "Při hybridizaci se značená sonda komplementárně spáruje s hledanou sekvencí, proto musí být DNA nejprve denaturována na jednotlivé řetězce. Zmnožení DNA, primery a termostabilní polymeráza patří k PCR."
+    ],
+    "memory": "Hybridizace = hledání sondou, PCR = zmnožení."
+  },
+  {
+    "id": 896,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 260 · str. 61",
+    "sourcePages": "61",
+    "sourceItem": "260",
+    "question": "Které sekvence nejsou typické pro standardní molekulu mRNA?",
+    "options": [
+      "CCCGGTAUGG",
+      "CCCGGTATGG",
+      "CCCGGUAUGG",
+      "CCCGGUATGG"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "title": "Správně: A, B a D",
+    "paragraphs": [
+      "RNA obsahuje uracil, ne thymin. Typická je jen sekvence c, která obsahuje U a žádné T. Sekvence a, b a d obsahují thymin, a proto do mRNA nepatří."
+    ],
+    "memory": "V RNA nesmí být T."
+  },
+  {
+    "id": 897,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 263 · str. 62",
+    "sourcePages": "62",
+    "sourceItem": "263",
+    "question": "Která tvrzení o ribozomech a translaci jsou správná?",
+    "options": [
+      "mitochondrie a chloroplasty neobsahují ribozomy",
+      "ribozom je membránová organela krytá lipidovou dvojvrstvou",
+      "translace probíhá v cytoplazmě na ribozomech",
+      "prokaryotický ribozom obsahuje méně molekul rRNA než cytoplazmatický ribozom eukaryot"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Translace probíhá na ribozomech v cytoplazmě. Prokaryotický ribozom (70S) má 3 molekuly rRNA, eukaryotický (80S) 4. Mitochondrie a chloroplasty mají vlastní ribozomy a ribozom membránu nemá."
+    ],
+    "memory": "Ribozom je bez membrány, i v mitochondriích."
+  },
+  {
+    "id": 898,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 265 · str. 62",
+    "sourcePages": "62",
+    "sourceItem": "265",
+    "question": "Co platí o expresi genu?",
+    "options": [
+      "je to převod genetické informace z DNA do fenotypového znaku",
+      "je to laboratorní metoda ke stanovení sekvence nukleotidů genu",
+      "zahrnuje transkripci a translaci genu",
+      "je to synonymum pro replikaci DNA"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Exprese genu je jeho projev: informace se přepíše do RNA a u genů pro protein přeloží na protein, který se podílí na znaku. Stanovení sekvence je sekvenování."
+    ],
+    "memory": "Exprese = gen se projeví."
+  },
+  {
+    "id": 899,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 268 · str. 63",
+    "sourcePages": "63",
+    "sourceItem": "268",
+    "question": "Co platí o molekule DNA, která tvoří eukaryotní jaderný chromozom?",
+    "options": [
+      "má větší počet počátků replikace",
+      "je lineární",
+      "je kruhová",
+      "na obou koncích má stejné sekvence, které tvoří telomery"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "title": "Správně: A, B a D",
+    "paragraphs": [
+      "Jaderné chromozomy eukaryot jsou lineární molekuly DNA s mnoha počátky replikace, aby se dlouhá DNA stihla zkopírovat. Na koncích mají telomery z opakované krátké sekvence. Kruhovou DNA mají bakterie, mitochondrie a plastidy."
+    ],
+    "memory": "Eukaryotní chromozom: lineární, telomery, mnoho ori."
+  },
+  {
+    "id": 900,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 271 · str. 63",
+    "sourcePages": "63",
+    "sourceItem": "271",
+    "question": "Co platí o mRNA eukaryot?",
+    "options": [
+      "nese informaci o pořadí aminokyselin v bílkovině",
+      "vzniká transkripcí genu a sestřihem primárního transkriptu",
+      "vzniká transkripcí katalyzovanou DNA-polymerázou",
+      "obsahuje kodony v pořadí odpovídajícím pořadí aminokyselin v proteinu"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "title": "Správně: A, B a D",
+    "paragraphs": [
+      "Eukaryotní mRNA vzniká z primárního transkriptu sestřihem, nese kodony v pořadí, které odpovídá pořadí aminokyselin. Transkripci katalyzuje RNA-polymeráza, DNA-polymeráza patří k replikaci."
+    ],
+    "memory": "Transkripce = RNA-polymeráza."
+  },
+  {
+    "id": 901,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 275 · str. 64",
+    "sourcePages": "64",
+    "sourceItem": "275",
+    "question": "Jaké vazby se tvoří mezi komplementárními bázemi v normální dvoušroubovici DNA?",
+    "options": [
+      "kovalentní",
+      "iontové",
+      "vodíkové",
+      "N-glykosidové"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Komplementární báze drží vodíkové můstky (A–T dva, G–C tři). Kovalentní vazby jsou uvnitř řetězce, N-glykosidová vazba spojuje bázi s cukrem."
+    ],
+    "memory": "Mezi řetězci jen vodíkové můstky."
+  },
+  {
+    "id": 902,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 276 · str. 64",
+    "sourcePages": "64",
+    "sourceItem": "276",
+    "question": "Jaké vazby se tvoří v molekule DNA mezi deoxyribózou a fosfátovými skupinami?",
+    "options": [
+      "kovalentní",
+      "vodíkové",
+      "fosfodiesterové",
+      "peptidové"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Cukr a fosfát spojují fosfodiesterové vazby, které jsou kovalentní a tvoří páteř řetězce. Vodíkové vazby jsou mezi bázemi a peptidové v bílkovinách."
+    ],
+    "memory": "Páteř DNA = fosfodiesterové (kovalentní) vazby."
+  },
+  {
+    "id": 903,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 278 · str. 64",
+    "sourcePages": "64",
+    "sourceItem": "278",
+    "question": "Kde probíhá proteosyntéza?",
+    "options": [
+      "ve vakuolách rostlin",
+      "v mitochondriích",
+      "v chloroplastech",
+      "v lysozomech"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Mitochondrie a chloroplasty mají vlastní DNA a ribozomy a syntetizují část svých proteinů. Vakuoly a lysozomy ribozomy nemají."
+    ],
+    "memory": "Vlastní ribozomy: mitochondrie a chloroplasty."
+  },
+  {
+    "id": 904,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 279 · str. 65",
+    "sourcePages": "65",
+    "sourceItem": "279",
+    "question": "Co platí o inzerci nukleotidu do kódující sekvence DNA?",
+    "options": [
+      "způsobí posun čtecího rámce",
+      "má obvykle větší mutační účinek než záměna nukleotidu",
+      "má obvykle zanedbatelný účinek",
+      "má obvykle menší mutační účinek než záměna nukleotidu"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Vložený nukleotid posune čtení všech následujících kodonů, takže se změní celý zbytek proteinu nebo brzy vznikne STOP kodon. Záměna nukleotidu změní nanejvýš jeden kodon, proto má obvykle menší účinek."
+    ],
+    "memory": "Inzerce a delece posouvají rámec."
+  },
+  {
+    "id": 905,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 282 · str. 65",
+    "sourcePages": "65",
+    "sourceItem": "282",
+    "question": "Jak se nazývá úsek DNA, kde probíhá replikace z jednoho počátku?",
+    "options": [
+      "replisom",
+      "replikon",
+      "semireplikon",
+      "transkriptom"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Replikon je úsek DNA replikovaný z jednoho počátku replikace. Bakteriální chromozom tvoří jeden replikon, eukaryotní chromozom jich má mnoho. Transkriptom je soubor RNA v buňce."
+    ],
+    "memory": "Replikon = jednotka replikace."
+  },
+  {
+    "id": 906,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 283 · str. 65",
+    "sourcePages": "65",
+    "sourceItem": "283",
+    "question": "Jak se nazývá řetězec DNA, podle něhož se syntetizuje nová DNA?",
+    "options": [
+      "transkriptom",
+      "matrice",
+      "templát",
+      "prion"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Předloze se říká matrice nebo templát, oba výrazy znamenají totéž. Prion je infekční bílkovina."
+    ],
+    "memory": "Matrice = templát = předloha."
+  },
+  {
+    "id": 907,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 285 · str. 66",
+    "sourcePages": "66",
+    "sourceItem": "285",
+    "question": "Která tvrzení o replikaci DNA jsou pravdivá?",
+    "options": [
+      "replikace DNA probíhá za účasti DNA-polymeráz",
+      "jako předlohy slouží oba řetězce DNA",
+      "jeden řetězec se syntetizuje kontinuálně a druhý diskontinuálně",
+      "kontinuálně syntetizovaný řetězec je tvořen Okazakiho fragmenty"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2
+    ],
+    "title": "Správně: A, B a C",
+    "paragraphs": [
+      "DNA-polymeráza prodlužuje řetězec jen ve směru 5′→3′, proto vedoucí řetězec vzniká souvisle a opožďující se řetězec po částech. Okazakiho fragmenty tvoří diskontinuálně syntetizovaný (opožďující se) řetězec."
+    ],
+    "memory": "Okazakiho fragmenty = opožďující se řetězec."
+  },
+  {
+    "id": 908,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 286 · str. 66",
+    "sourcePages": "66",
+    "sourceItem": "286",
+    "question": "Která definice genomu je nejpřesnější?",
+    "options": [
+      "soubor genů v buňce či organismu",
+      "soubor alel v buňce či organismu",
+      "soubor všech molekul DNA v buňce či organismu",
+      "soubor genů v dané populaci"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Genom zahrnuje veškerou DNA buňky, tedy geny i nekódující sekvence, u eukaryot i mitochondriální DNA. Soubor genů populace je genofond, soubor alel jedince genotyp."
+    ],
+    "memory": "Genom = veškerá DNA."
+  },
+  {
+    "id": 909,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 289 · str. 66",
+    "sourcePages": "66",
+    "sourceItem": "289",
+    "question": "Co platí o metodě DNA fingerprinting?",
+    "options": [
+      "slouží hlavně k přímé diagnostice mutací u monogenních chorob",
+      "je to technika izolace DNA z otisků prstů",
+      "umožňuje identifikaci osob v soudním lékařství",
+      "využívá se při sporech o otcovství"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "DNA fingerprinting porovnává vysoce variabilní nekódující úseky DNA, které jsou pro každého člověka jedinečné. Proto slouží k identifikaci osob a určení otcovství. S otisky prstů souvisí jen názvem."
+    ],
+    "memory": "Genetický otisk = identifikace a otcovství."
+  },
+  {
+    "id": 910,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 290 · str. 66",
+    "sourcePages": "66",
+    "sourceItem": "290",
+    "question": "Čím vznikají posunové mutace?",
+    "options": [
+      "inzercí nukleotidu",
+      "delecí nukleotidu",
+      "záměnou nukleotidu za jiný",
+      "delecí dvou po sobě následujících nukleotidů"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "title": "Správně: A, B a D",
+    "paragraphs": [
+      "Čtecí rámec posune vložení nebo ztráta počtu nukleotidů, který není násobkem tří: jednoho i dvou. Záměna počet nukleotidů nemění, proto rámec neposune."
+    ],
+    "memory": "Posun rámce: ± 1 nebo 2 nukleotidy."
+  },
+  {
+    "id": 911,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 304 · str. 69",
+    "sourcePages": "69",
+    "sourceItem": "304",
+    "question": "Která tvrzení o transkripci jsou správná?",
+    "options": [
+      "RNA-polymeráza na začátku transkripce rozeznává úsek zvaný promotor",
+      "přepisují se jen exony, introny se netranskribují",
+      "u bakterií se transkripcí tvoří mRNA",
+      "transkripce končí v oblasti DNA zvané dominátor"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Transkripce začíná na promotoru a u bakterií vzniká přímo mRNA. Introny se přepisují do primárního transkriptu a vystřihnou se až potom. Konec transkripce určuje terminátor."
+    ],
+    "memory": "Promotor začíná, terminátor končí."
+  },
+  {
+    "id": 912,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 311 · str. 73",
+    "sourcePages": "73",
+    "sourceItem": "311",
+    "question": "Co platí u neúplné dominance?",
+    "options": [
+      "lze odlišit fenotyp heterozygota a recesivního homozygota",
+      "příkladem je krevní skupina AB",
+      "ve fenotypu se projevují obě alely nezávisle na sobě",
+      "lze odlišit fenotyp heterozygota a dominantního homozygota"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Při neúplné dominanci má heterozygot přechodný fenotyp, takže se liší od obou homozygotů. Krevní skupina AB je příklad kodominance, kdy se obě alely projeví nezávisle a plně."
+    ],
+    "memory": "Neúplná dominance = přechod, kodominance = obojí."
+  },
+  {
+    "id": 913,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 314 · str. 73",
+    "sourcePages": "73",
+    "sourceItem": "314",
+    "question": "Co platí pro autozomově recesivní dědičnou chorobu?",
+    "options": [
+      "rodiče postiženého nenesou mutovanou recesivní alelu",
+      "recesivní alela se nepřenáší na další generace",
+      "převažuje postižení jednoho pohlaví",
+      "žádné z ostatních tvrzení není správné"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Postižený má genotyp aa, takže každý z rodičů nese alespoň jednu alelu a (obvykle jsou to zdraví přenašeči). Alela se dál přenáší a protože gen leží na autozomu, jsou obě pohlaví postižena stejně často."
+    ],
+    "memory": "AR: zdraví přenašeči, obě pohlaví stejně."
+  },
+  {
+    "id": 914,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 315 · str. 73",
+    "sourcePages": "73",
+    "sourceItem": "315",
+    "question": "Co platí o polygenním systému?",
+    "options": [
+      "tvoří ho alely mnoha genů a podmiňuje proměnlivost kvantitativních znaků",
+      "tvoří ho alely mnoha genů malého účinku",
+      "může podmiňovat vznik vývojových vad",
+      "je podkladem dědičné dispozice řady populačně závažných chorob"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Polygenní systém je soubor mnoha genů malého účinku, jejichž účinky se sčítají. Určuje kvantitativní znaky (výška, hmotnost) a spolu s prostředím i dispozici k vývojovým vadám a civilizačním chorobám."
+    ],
+    "memory": "Mnoho malých genů = kvantitativní znaky."
+  },
+  {
+    "id": 915,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 317 · str. 74",
+    "sourcePages": "74",
+    "sourceItem": "317",
+    "question": "Čím je dána fenotypová odlišnost jedince vzniklého pohlavním rozmnožováním od jeho rodičů?",
+    "options": [
+      "výměnou genetického materiálu mezi homologními chromozomy v meióze",
+      "volnou segregací a kombinací chromozomů v meióze",
+      "mutabilitou DNA",
+      "novými kombinacemi alel vzniklými spojením pohlavních buněk"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "K variabilitě potomstva přispívá crossing-over, náhodné rozdělení homologních chromozomů do gamet, splynutí dvou různých gamet i nové mutace."
+    ],
+    "memory": "Variabilita: crossing-over, segregace, oplození, mutace."
+  },
+  {
+    "id": 916,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 320 · str. 74",
+    "sourcePages": "74",
+    "sourceItem": "320",
+    "question": "Která tvrzení o heterozygozitě jsou správná?",
+    "options": [
+      "je dána přítomností shodných alel",
+      "lze ji ukázat na osobě s krevní skupinou AB",
+      "je dána přítomností odlišných alel",
+      "je podmíněna párovým založením alel"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: B, C a D",
+    "paragraphs": [
+      "Heterozygot má na daném lokusu dvě různé alely, což je možné jen díky tomu, že diploidní organismus má alely v páru. Osoba s krevní skupinou AB má alely A a B, je tedy heterozygot."
+    ],
+    "memory": "Hetero = různé."
+  },
+  {
+    "id": 917,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 321 · str. 75",
+    "sourcePages": "75",
+    "sourceItem": "321",
+    "question": "Co platí při dihybridismu AABB × aabb, pokud geny nejsou ve vazbě?",
+    "options": [
+      "v F2 generaci jsou hybridi uniformní",
+      "v F2 generaci je 9/16 dominantních homozygotů",
+      "v F2 generaci vznikají jen heterozygoti",
+      "v F2 generaci jsou 4 různé genotypy dvojnásobných homozygotů"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "V F2 vzniká 16 kombinací a 9 genotypů. Dvojnásobní homozygoti jsou AABB, AAbb, aaBB a aabb, tedy 4 genotypy. Uniformní je F1. 9/16 je podíl fenotypu s oběma dominantními znaky, dominantních homozygotů AABB je jen 1/16."
+    ],
+    "memory": "F2 dihybrida: 4 dvojnásobní homozygoti."
+  },
+  {
+    "id": 918,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 322 · str. 75",
+    "sourcePages": "75",
+    "sourceItem": "322",
+    "question": "Čím je tvořena populace?",
+    "options": [
+      "jen jedinci stejného druhu se zcela identickým genotypem",
+      "všemi jedinci stejného druhu, kteří žijí na určitém stanovišti a mohou se vzájemně křížit",
+      "organismy různých druhů na stejném stanovišti, které tvoří ekosystém",
+      "všemi jedinci jednoho druhu na různých, i značně vzdálených stanovištích"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Populace je soubor jedinců jednoho druhu na určitém místě, kteří se mezi sebou mohou křížit a sdílejí genofond. Různé druhy na jednom místě tvoří společenstvo."
+    ],
+    "memory": "Populace = jeden druh, jedno místo, křížení."
+  },
+  {
+    "id": 919,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 324 · str. 75",
+    "sourcePages": "75",
+    "sourceItem": "324",
+    "question": "Co lze podle Hardyho–Weinbergova zákona vypočítat, známe-li ve velké panmiktické populaci frekvenci recesivních homozygotů q²?",
+    "options": [
+      "frekvenci dominantní alely p",
+      "frekvenci heterozygotů",
+      "frekvenci recesivní alely q",
+      "frekvenci dominantních homozygotů"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Odmocninou q² získáme q, dále p = 1 − q. Z nich už vypočítáme dominantní homozygoty p² i heterozygoty 2pq."
+    ],
+    "memory": "Z q² se dá dopočítat vše."
+  },
+  {
+    "id": 920,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 329 · str. 76",
+    "sourcePages": "76",
+    "sourceItem": "329",
+    "question": "Čeho je daltonismus příkladem?",
+    "options": [
+      "recesivní dědičnosti vázané na chromozom X",
+      "dominantní dědičnosti vázané na chromozom X",
+      "dědičnosti, kdy se recesivní alela projeví u mužů vždy, u žen jen v homozygotním stavu",
+      "dědičnosti, kdy se jedna recesivní alela u žen neprojeví, ale u mužů ano, protože jsou hemizygoti"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "title": "Správně: A, C a D",
+    "paragraphs": [
+      "Daltonismus je X-vázaný recesivní znak. Muž má jen jeden chromozom X (je hemizygot), proto se u něj recesivní alela projeví vždy. Žena musí mít recesivní alelu na obou X."
+    ],
+    "memory": "Muži jsou hemizygoti pro X."
+  },
+  {
+    "id": 921,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 332 · str. 77",
+    "sourcePages": "77",
+    "sourceItem": "332",
+    "question": "Která tvrzení o alelách jsou správná?",
+    "options": [
+      "v lidských somatických buňkách i gametách se vyskytují v alelových párech",
+      "jsou-li obě alely v páru identické, je jedinec homozygot",
+      "jsou-li obě alely v páru identické, je jedinec heterozygot",
+      "v lidských somatických buňkách se vyskytují v alelových párech"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "Diploidní somatické buňky mají alely v páru, haploidní gamety nesou od každého genu jen jednu alelu. Dvě stejné alely znamenají homozygota."
+    ],
+    "memory": "Gameta má jen jednu alelu."
+  },
+  {
+    "id": 922,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 333 · str. 77",
+    "sourcePages": "77",
+    "sourceItem": "333",
+    "question": "Co platí o alelách jednoho genu?",
+    "options": [
+      "mohou se lišit fenotypovým projevem",
+      "vyskytují se na stejném lokusu",
+      "nemusí být stejné",
+      "odpovídají za vznik určitého znaku"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Alely jsou varianty téhož genu na stejném místě homologních chromozomů. Mohou být stejné i různé, liší se projevem a společně určují příslušný znak."
+    ],
+    "memory": "Alely = varianty jednoho genu na jednom lokusu."
+  },
+  {
+    "id": 923,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 335 · str. 78",
+    "sourcePages": "78",
+    "sourceItem": "335",
+    "question": "Co je vazbová skupina genů?",
+    "options": [
+      "skupina genů na jednom chromozomu, které se při silné vazbě dědí společně",
+      "skupina genů na dvou nehomologních chromozomech, které se při silné vazbě dědí společně",
+      "skupina genů na jednom chromozomu, které se při silné vazbě dědí nezávisle",
+      "skupina genů na více různých chromozomech v rámci jedné buňky"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Geny na jednom chromozomu tvoří vazbovou skupinu a čím jsou blíž, tím častěji se dědí spolu. Počet vazbových skupin odpovídá počtu párů chromozomů. Nezávisle se dědí geny na různých chromozomech."
+    ],
+    "memory": "Jeden chromozom = jedna vazbová skupina."
+  },
+  {
+    "id": 924,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 336 · str. 78",
+    "sourcePages": "78",
+    "sourceItem": "336",
+    "question": "Jak se může genetickým driftem měnit genofond malé populace po několika generacích (bez jiných vlivů)?",
+    "options": [
+      "přibývá homozygotů",
+      "některé alely mohou z populace vymizet",
+      "stále přibývají nové indukované mutace",
+      "u všech populací se zvyšuje podíl heterozygotů"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Náhodné výkyvy frekvencí alel v malé populaci vedou ke ztrátě některých alel a fixaci jiných, proto heterozygotů ubývá a homozygotů přibývá. Drift sám mutace nevytváří."
+    ],
+    "memory": "Drift = ztráta alel, více homozygotů."
+  },
+  {
+    "id": 925,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 340 · str. 79",
+    "sourcePages": "79",
+    "sourceItem": "340",
+    "question": "Žena s albinismem (autozomově recesivní znak) má děti s nepostiženým mužem. Jaké je riziko postižení každého dítěte?",
+    "options": [
+      "nezvýšené, je-li otec homozygot",
+      "50 %, je-li otec heterozygot",
+      "75 %, je-li otec heterozygot",
+      "25 %, jsou-li oba rodiče heterozygoti"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Matka má genotyp aa a předá vždy alelu a. Otec AA předá A, děti jsou zdraví přenašeči. Otec Aa předá a s pravděpodobností 1/2, riziko je tedy 50 %. Postižená matka heterozygotkou být nemůže."
+    ],
+    "memory": "aa × Aa = 50 %."
+  },
+  {
+    "id": 926,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 347 · str. 80",
+    "sourcePages": "80",
+    "sourceItem": "347",
+    "question": "Výjimky ze kterých pravidel způsobuje vazba genů?",
+    "options": [
+      "z Mendelova zákona o uniformitě hybridů v F1",
+      "z prvního a druhého Morganova zákona",
+      "z Mendelova zákona o segregaci alel v F2",
+      "z Mendelova zákona o nezávislé kombinaci alel"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Geny ve vazbě se nedědí nezávisle, proto se štěpné poměry v F2 odchylují od očekávaných. Uniformitu F1 vazba neovlivní. Morganovy zákony vazbu přímo popisují, nejsou tedy výjimkou."
+    ],
+    "memory": "Vazba porušuje nezávislou kombinaci."
+  },
+  {
+    "id": 927,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 351 · str. 81",
+    "sourcePages": "81",
+    "sourceItem": "351",
+    "question": "Co platí pro recesivní dědičnost vázanou na chromozom X u člověka?",
+    "options": [
+      "častěji je postiženo jedno pohlaví",
+      "postižené ženě může chybět jeden chromozom X",
+      "nepostižené ženě (přenašečce) se se zdravým mužem rodí vždy zdravé děti",
+      "postižený muž má nepostižené syny, nenese-li žena mutovanou alelu"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "title": "Správně: A, B a D",
+    "paragraphs": [
+      "Postiženi jsou častěji muži. Žena s jedním chromozomem X (Turnerův syndrom) se chová jako hemizygot. Synové dostávají od otce chromozom Y, takže postižený otec nemoc synům nepředá, pokud matka alelu nenese. Přenašečka může mít postiženého syna."
+    ],
+    "memory": "Otec nepředává X synovi."
+  },
+  {
+    "id": 928,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 355 · str. 82",
+    "sourcePages": "82",
+    "sourceItem": "355",
+    "question": "Co platí při úplné dominanci alely A nad alelou a?",
+    "options": [
+      "heterozygot Aa je fenotypově shodný s jedincem aa",
+      "heterozygot Aa se fenotypově liší od AA i aa",
+      "heterozygot Aa je fenotypově shodný s jedincem AA",
+      "heterozygot Aa nese dominantní znak"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Při úplné dominanci recesivní alelu v heterozygotovi nepoznáme, takže Aa vypadá stejně jako AA a projeví dominantní znak. Fenotyp odlišný od obou homozygotů má heterozygot při neúplné dominanci."
+    ],
+    "memory": "Úplná dominance: Aa vypadá jako AA."
+  },
+  {
+    "id": 929,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 359 · str. 82",
+    "sourcePages": "82",
+    "sourceItem": "359",
+    "question": "Křížením kterých genotypů může vzniknout heterozygotní potomstvo?",
+    "options": [
+      "AA × AA",
+      "AA × aa",
+      "Aa × Aa",
+      "aa × aa"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "AA × aa dává jen Aa. Aa × Aa dává 1 AA : 2 Aa : 1 aa. Homozygoti stejného typu mají jen homozygotní potomstvo."
+    ],
+    "memory": "Heterozygot potřebuje A i a od rodičů."
+  },
+  {
+    "id": 930,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 362 · str. 83",
+    "sourcePages": "83",
+    "sourceItem": "362",
+    "question": "Jaké gamety tvoří dvojnásobný heterozygot AaBb?",
+    "options": [
+      "čtyři typy gamet v poměru asi 1:1:1:1, jsou-li geny ve vazbě",
+      "čtyři typy gamet v poměru asi 1:1:1:1, jsou-li geny na různých chromozomech",
+      "čtyři typy gamet, nejsou-li geny v těsné vazbě",
+      "jen jeden typ gamet, jsou-li geny ve vazbě"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Geny na různých chromozomech se kombinují nezávisle, proto vznikají AB, Ab, aB a ab rovnoměrně. Ve vazbě vznikají rekombinantní gamety méně často (díky crossing-overu jich ale vzniká víc než jeden typ)."
+    ],
+    "memory": "Volná kombinace = 1:1:1:1."
+  },
+  {
+    "id": 931,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 368 · str. 84",
+    "sourcePages": "84",
+    "sourceItem": "368",
+    "question": "Co platí o dominantní dědičnosti znaku?",
+    "options": [
+      "popsal ji již G. J. Mendel",
+      "projevuje se vertikální dědičností",
+      "znak je zpravidla přítomen v každé generaci",
+      "znak se vždy projeví po narození dříve než recesivní vloha"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2
+    ],
+    "title": "Správně: A, B a C",
+    "paragraphs": [
+      "Dominantní znak se projevuje u každého nositele alely, proto se v rodokmenu objevuje v každé generaci (vertikálně). Popsal ho Mendel na hrachu. Doba projevu s dominancí nesouvisí, některé dominantní choroby se projevují až v dospělosti."
+    ],
+    "memory": "Dominance: každá generace."
+  },
+  {
+    "id": 932,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 373 · str. 85",
+    "sourcePages": "85",
+    "sourceItem": "373",
+    "question": "Co platí podle Mendelových zákonů při úplné dominanci a generaci P: AA × aa?",
+    "options": [
+      "v F1 je fenotypový štěpný poměr 3:1",
+      "F1 je fenotypově uniformní",
+      "v F2 je fenotypový štěpný poměr 3:1",
+      "v F2 je genotypový štěpný poměr 1:2:1"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: B, C a D",
+    "paragraphs": [
+      "F1 jsou samí heterozygoti Aa, tedy uniformní. V F2 vznikne AA : Aa : aa = 1 : 2 : 1, fenotypově 3 dominantní : 1 recesivní."
+    ],
+    "memory": "F1 stejní, F2 3:1 a 1:2:1."
+  },
+  {
+    "id": 933,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 382 · str. 87",
+    "sourcePages": "87",
+    "sourceItem": "382",
+    "question": "Čím jsou ovlivněny znaky s multifaktoriální dědičností?",
+    "options": [
+      "aditivním účinkem alel",
+      "interakcí genotypu a prostředí",
+      "interakcí většího počtu genů",
+      "vlivy prostředí"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Multifaktoriální znaky určuje mnoho genů, jejichž účinky se sčítají, a k tomu prostředí i vzájemné působení genotypu a prostředí. Patří sem například výška, krevní tlak nebo rozštěp rtu."
+    ],
+    "memory": "Multifaktoriální = geny + prostředí."
+  },
+  {
+    "id": 934,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 384 · str. 87",
+    "sourcePages": "87",
+    "sourceItem": "384",
+    "question": "U kterého typu chorob jsou nejčastěji postižena obě dvojvaječná dvojčata (největší konkordance)?",
+    "options": [
+      "u autozomově dominantních chorob, je-li postižen alespoň jeden rodič",
+      "u autozomově recesivních chorob, jsou-li oba rodiče zdraví přenašeči",
+      "u vzácných multifaktoriálních chorob",
+      "u chorob podmíněných hlavně vnějším prostředím"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Dvojvaječná dvojčata jsou geneticky sourozenci. U AD choroby má každé riziko až 50 % (u homozygotního rodiče 100 %), u AR jen 25 %, takže shoda je nejvyšší u AD. U vzácných multifaktoriálních chorob je riziko sourozence nízké."
+    ],
+    "memory": "Sourozenecké riziko AD 50 %, AR 25 %."
+  },
+  {
+    "id": 935,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 386 · str. 87",
+    "sourcePages": "87",
+    "sourceItem": "386",
+    "question": "Čím může být ovlivněno poměrné zastoupení alel v populaci?",
+    "options": [
+      "selekcí",
+      "mutacemi",
+      "genetickým driftem",
+      "migrací"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Frekvence alel mění všechny evoluční síly: přírodní výběr, nové mutace, náhodný drift a tok genů migrací. Hardyho–Weinbergova rovnováha platí jen bez nich."
+    ],
+    "memory": "Selekce, mutace, drift, migrace."
+  },
+  {
+    "id": 936,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 393 · str. 89",
+    "sourcePages": "89",
+    "sourceItem": "393",
+    "question": "Muž je postižen geneticky podmíněnou chorobou. Která situace není typická pro recesivní dědičnost vázanou na chromozom X?",
+    "options": [
+      "oba rodiče pacienta jsou zdraví",
+      "v rodokmenu jsou postiženi jen muži",
+      "v předchozích generacích jsou postiženy jen ženy",
+      "poměr postižených mužů a žen je 1 : 1"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Hledá se netypická situace. U X-vázané recesivní choroby jsou postiženi převážně muži a rodiče bývají zdraví (matka přenašečka). Postižení jen žen nebo stejný počet mužů a žen tomu neodpovídá."
+    ],
+    "memory": "Pozor na zadání: označ netypické."
+  },
+  {
+    "id": 937,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 395 · str. 89",
+    "sourcePages": "89",
+    "sourceItem": "395",
+    "question": "Co platí o mutacích?",
+    "options": [
+      "jsou zpravidla náhodné",
+      "mohou být spontánní i indukované",
+      "mohou být pro své nositele škodlivé",
+      "mohou být významné při evoluci"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Mutace vznikají náhodně, samovolně nebo působením mutagenů. Mohou poškodit nositele, ale jsou také zdrojem nové variability, na kterou působí přírodní výběr."
+    ],
+    "memory": "Mutace = náhodný zdroj variability."
+  }
+]
