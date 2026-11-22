@@ -1177,7 +1177,7 @@
     "bookRef": "UK · Biologie · Genetika · otázka 384 · str. 87",
     "sourcePages": "87",
     "sourceItem": "384",
-    "question": "U kterého typu chorob jsou nejčastěji postižena obě dvojvaječná dvojčata (největší konkordance)?",
+    "question": "U kterého typu chorob lze z genetického hlediska čekat, že budou nejčastěji postižena obě dvojvaječná dvojčata (největší konkordance)?",
     "options": [
       "u autozomově dominantních chorob, je-li postižen alespoň jeden rodič",
       "u autozomově recesivních chorob, jsou-li oba rodiče zdraví přenašeči",
@@ -1190,7 +1190,7 @@
     ],
     "title": "Správně: A",
     "paragraphs": [
-      "Dvojvaječná dvojčata jsou geneticky sourozenci. U AD choroby má každé riziko až 50 % (u homozygotního rodiče 100 %), u AR jen 25 %, takže shoda je nejvyšší u AD. U vzácných multifaktoriálních chorob je riziko sourozence nízké."
+      "Dvojvaječná dvojčata jsou geneticky sourozenci. U AD choroby má každé riziko až 50 % (u homozygotního rodiče 100 %), u AR jen 25 %, takže shoda je nejvyšší u AD. U vzácných multifaktoriálních chorob je riziko sourozence nízké a choroby dané hlavně prostředím genetické riziko nezvyšují."
     ],
     "memory": "Sourozenecké riziko AD 50 %, AR 25 %."
   },

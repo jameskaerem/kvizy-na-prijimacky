@@ -362,6 +362,25 @@ Nepřidáno v rozsahu 401–604 (stejný poznatek jako starší nebo nová otáz
 - Rostliny a živočichové: 493 (plazmolýza, LF MU 91), 518 (močovina v játrech, BIO 299), 520 (nervová trubice, BIO 453), 533, 559, 563 a 571 (hlísti a ploštěnci, LF MU 396, nové 970 a 971), 535 (nehty z pokožky, SOM), 536 a 555 (zárodečné obaly, UK 399 a 448), 547 (trichomoniáza, BIO 826), 554 (ježura, UK 438), 560 a 585 (přenašeči spavé nemoci a malárie, LF MU 399 a 400), 564 (původce malárie, nová 973), 565 (lamblie, LF MU 299), 575 (gonochorismus, LF MU 391 a 476), 590 a 595 (oddělený krevní oběh, nové 975 a 983), 597 (vzdušnice, nová 966), 599 a 604 (komorové oko, UK 390), 602 (teplokrevní živočichové, UK 491).
 - Úlohy 605 a výš (kromě již použitých 609, 615, 628 a 630) se doplní v dalších dávkách.
 
+## Dávka ID 988–1000 a oprava znění (v2.80.0)
+
+Soubor `uk-988-1000.json`, generátor `create_uk_988_1000.py`. Posledních 13 úloh biologie, které starší dávky odložily jen kvůli formátu s jednou správnou odpovědí (všechny nebo více správných možností). Klíč porovnán s knihou (str. 200). Úloha 691 (závěrečná fáze srážení) vynechána: klíč knihy je jen c, ale možnost a (vápenaté ionty) je sporná, protože Ca²⁺ potřebuje i stabilizace fibrinu faktorem XIII. V textové kopii klíče je u ní chybně vytištěno číslo 681, proto ji dřívější mapa vedla jako úlohu bez klíče.
+
+| Předmět | Kapitola | Úlohy | ID |
+|---|---|---|---|
+| Biologie | Biologie člověka (str. 146–167) | 673, 675, 682, 685, 687, 690, 693, 711, 790, 792, 796 | 988–998 |
+| Biologie | Evoluční biologie (str. 170–171) | 803, 810 | 999–1000 |
+
+Oprava znění bez změny ID, klíče a pořadí možností (sporná místa, která starší dávky uváděly jako důvod vyřazení):
+- 934 (úloha 384): otázka nově výslovně „z genetického hlediska“, protože choroby dané prostředím mohou mít u dvojčat vysokou shodu ze sdíleného prostředí.
+- 948 (úloha 464): možnost d zní „extrémně halofilní „halobakterie““, aby bylo jasné, že jde o archea, ne o solnomilné bakterie.
+- 957 (úloha 492): otázka uvádí úplnou rovnici fotosyntézy, ve které voda vzniká jako produkt.
+- 965 (úloha 530): otázka se ptá na krev, která vstupuje ze srdce do aorty, takže u ryb jde jednoznačně o odkysličenou krev v břišní aortě.
+
+Překryv s dřívějším vyřazením: dávky 888–937 a 938–987 použily i úlohy 291–630, které mapa u dávek 151–600 vyřadila jako variantu jiné otázky (například 321, 373 a 420 vedle ČB 118, 439 a 440 vedle UK 250, 475 a 477 vedle UK 300). Ve formátu zkoušky testují více tvrzení najednou a klíč odpovídá knize. Zda je ponechat, rozhoduje správce, odstranění by vyžadovalo migrační test uloženého pokroku.
+
+Biologie (Kočárek) je tím posouzená celá. Nepoužité zůstávají jen úlohy se stejným poznatkem jako jiná otázka, úloha 897 (klíč chybí a obhajitelných je více možností) a úloha 691 (sporná možnost a).
+
 ## Stav pokrytí
 
-Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) má ověřené úlohy 85–290 jen částečně: nepoužité úlohy s více správnými odpověďmi se doplňují od ID 788 (viz oddíly výše). Fyzika (Amler) je pokrytá jen v rozsahu dodané ukázky (úlohy 1.01–1.64 a 2.01–2.05). Pro další fyziku je potřeba plná kniha. Další dávka začne od ID 988.
+Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) je posouzená celá včetně úloh s více správnými odpověďmi (ID 738–1000). Fyzika (Amler) je pokrytá jen v rozsahu dodané ukázky (úlohy 1.01–1.64 a 2.01–2.05). Pro další fyziku je potřeba plná kniha. Další dávka začne od ID 1001.

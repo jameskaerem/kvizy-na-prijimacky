@@ -284,7 +284,7 @@ assert.deepEqual(app(html,muniRestored.storage).read('backupProgress().subjects.
 result.muniUpgradeFrom50=true;
 
 // Univerzita Karlova: fifth subject with its own key, sections and backup; v2.43.0 progress and backups stay intact.
-const ukBank=fs.readdirSync('work').filter(f=>/^uk-\d{3}-\d{3}\.json$/.test(f)).sort().flatMap(f=>JSON.parse(fs.readFileSync('work/'+f,'utf8')));
+const ukBank=fs.readdirSync('work').filter(f=>/^uk-\d{3,4}-\d{3,4}\.json$/.test(f)).sort((a,b)=>parseInt(a.slice(3))-parseInt(b.slice(3))).flatMap(f=>JSON.parse(fs.readFileSync('work/'+f,'utf8')));
 const ukApp=app(html);
 assert.deepEqual(ukApp.read('UK_QUESTIONS'),ukBank);
 assert.equal(new Set(ukBank.map(q=>q.question)).size,ukBank.length);

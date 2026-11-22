@@ -12,7 +12,7 @@ SOURCES=('<summary>O otázkách a zdrojích</summary>'
 
 def integrate(s, root):
     bank=[]
-    for batch in sorted((root/'work').glob('uk-*.json')):
+    for batch in sorted((root/'work').glob('uk-*.json'),key=lambda f:int(f.name.split('-')[1])):
         bank.extend(json.loads(batch.read_text(encoding='utf-8')))
     assert [q['id'] for q in bank]==list(range(1,len(bank)+1))
     topics={key:{'name':name,'ids':[q['id'] for q in bank if q['subject']==name]} for key,name in [('physics','Fyzika'),('chemistry','Chemie'),('biology','Biologie')]}
