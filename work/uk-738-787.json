@@ -1,0 +1,1274 @@
+[
+  {
+    "id": 738,
+    "subject": "Biologie",
+    "category": "Biologie · Úvod do biologie",
+    "bookRef": "UK · Biologie · Úvod do biologie · otázka 1 · str. 9",
+    "sourcePages": "9",
+    "sourceItem": "1",
+    "question": "Co patří k základním charakteristikám živých systémů?",
+    "options": [
+      "dráždivost",
+      "reprodukce",
+      "uzavřenost vůči okolí",
+      "vytváření nových forem během evoluce"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "title": "Správně: A, B a D",
+    "paragraphs": [
+      "Živé soustavy reagují na podněty (dráždivost), rozmnožují se a v průběhu evoluce z nich vznikají nové formy. Uzavřené vůči okolí nejsou: jsou to otevřené systémy, které s okolím neustále vyměňují látky, energii i informace."
+    ],
+    "memory": "Život = otevřený systém, který dráždí, množí se a vyvíjí."
+  },
+  {
+    "id": 739,
+    "subject": "Biologie",
+    "category": "Biologie · Úvod do biologie",
+    "bookRef": "UK · Biologie · Úvod do biologie · otázka 2 · str. 9",
+    "sourcePages": "9",
+    "sourceItem": "2",
+    "question": "Které prvky patří k šesti hlavním biogenním prvkům?",
+    "options": [
+      "železo",
+      "kyslík",
+      "selen",
+      "fosfor"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "Šest hlavních biogenních prvků je C, H, O, N, P a S, tvoří převážnou část hmoty organismů. Železo a selen jsou také nezbytné, ale řadí se mezi stopové prvky."
+    ],
+    "memory": "CHONPS: uhlík, vodík, kyslík, dusík, fosfor, síra."
+  },
+  {
+    "id": 740,
+    "subject": "Biologie",
+    "category": "Biologie · Úvod do biologie",
+    "bookRef": "UK · Biologie · Úvod do biologie · otázka 3 · str. 9",
+    "sourcePages": "9",
+    "sourceItem": "3",
+    "question": "Čeho stavební součástí jsou molekuly bílkovin?",
+    "options": [
+      "všech protilátek",
+      "enzymů katalyzujících pochody buněčného metabolismu",
+      "některých hormonů",
+      "všech buněčných struktur"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Protilátky jsou imunoglobuliny, tedy bílkoviny. Naprostá většina enzymů jsou bílkoviny. Bílkovinnou povahu mají jen některé hormony (například inzulin), jiné jsou steroidy nebo deriváty aminokyselin. Bílkoviny obsahují všechny buněčné struktury: membrány, ribozomy, chromozomy i cytoskelet."
+    ],
+    "memory": "Bílkoviny jsou všude ve stavbě buňky, ale jen u části hormonů."
+  },
+  {
+    "id": 741,
+    "subject": "Biologie",
+    "category": "Biologie · Úvod do biologie",
+    "bookRef": "UK · Biologie · Úvod do biologie · otázka 5 · str. 9",
+    "sourcePages": "9",
+    "sourceItem": "5",
+    "question": "Co je příkladem nepohlavního rozmnožování?",
+    "options": [
+      "mitotické dělení u jednobuněčných organismů",
+      "pučení u nezmara",
+      "množení rostlin řízkováním",
+      "strobilace u medúz"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Při nepohlavním rozmnožování vzniká potomek z buněk jediného rodiče bez splývání gamet. Patří sem dělení jednobuněčných, pučení nezmara, vegetativní množení rostlin řízky i strobilace, při níž se z polypa odškrcují mladé medúzky."
+    ],
+    "memory": "Bez gamet = nepohlavně: dělení, pučení, řízky, strobilace."
+  },
+  {
+    "id": 742,
+    "subject": "Biologie",
+    "category": "Biologie · Úvod do biologie",
+    "bookRef": "UK · Biologie · Úvod do biologie · otázka 6 · str. 10",
+    "sourcePages": "10",
+    "sourceItem": "6",
+    "question": "Co platí při pohlavním rozmnožování?",
+    "options": [
+      "nový jedinec vzniká ze zygoty, která vznikla splynutím dvou pohlavních buněk",
+      "nový jedinec může získat dědičné vlohy od obou rodičů",
+      "všichni potomci jednoho rodičovského páru mají vždy zcela shodné vlastnosti s rodiči",
+      "potomci jednoho rodičovského páru se od sebe zpravidla liší, protože se rodičovské vlohy dědí v různých kombinacích"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "title": "Správně: A, B a D",
+    "paragraphs": [
+      "Zygota vzniká splynutím dvou gamet a nese vlohy obou rodičů. Díky segregaci chromozomů, crossing-overu a náhodnému oplození jsou kombinace u sourozenců různé, takže shodnost všech potomků s rodiči neplatí."
+    ],
+    "memory": "Pohlavně = zygota z dvou gamet a nové kombinace vloh."
+  },
+  {
+    "id": 743,
+    "subject": "Biologie",
+    "category": "Biologie · Úvod do biologie",
+    "bookRef": "UK · Biologie · Úvod do biologie · otázka 7 · str. 10",
+    "sourcePages": "10",
+    "sourceItem": "7",
+    "question": "Která tvrzení o lékařských oborech jsou správná?",
+    "options": [
+      "Kardiologie se zabývá diagnostikou a léčbou srdečních onemocnění.",
+      "Onkologie se zabývá diagnostikou a léčbou nádorových onemocnění.",
+      "Zubní lékařství se též nazývá somatologie.",
+      "Zkratkou ORL se označuje jednotka intenzivní péče."
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Kardiologie se věnuje srdci a onkologie nádorům. Zubní lékařství je stomatologie, somatologie je nauka o lidském těle. ORL je otorinolaryngologie (ušní, nosní a krční), jednotka intenzivní péče je JIP."
+    ],
+    "memory": "Stoma = ústa, soma = tělo; ORL = ucho, nos, krk."
+  },
+  {
+    "id": 744,
+    "subject": "Biologie",
+    "category": "Biologie · Úvod do biologie",
+    "bookRef": "UK · Biologie · Úvod do biologie · otázka 8 · str. 10",
+    "sourcePages": "10",
+    "sourceItem": "8",
+    "question": "Které obory jsou správně spárovány s hlavním okruhem svého zájmu?",
+    "options": [
+      "interní lékařství – léčba úrazů a operativní ošetření",
+      "gynekologie – porodnictví a péče o těhotné ženy",
+      "antropologie – studium evoluce člověka a lidských ras",
+      "pediatrie – léčba nemocí dolních končetin, zejména chodidel"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Gynekologie a porodnictví tvoří jeden obor a antropologie studuje člověka včetně jeho evoluce a variability. Úrazy a operace patří chirurgii, interna léčí nemoci vnitřních orgánů bez operace. Pediatrie je dětské lékařství, chodidly se zabývá podiatrie."
+    ],
+    "memory": "Pediatrie = děti (pais), podiatrie = nohy (pús)."
+  },
+  {
+    "id": 745,
+    "subject": "Biologie",
+    "category": "Biologie · Úvod do biologie",
+    "bookRef": "UK · Biologie · Úvod do biologie · otázka 9 · str. 10",
+    "sourcePages": "10",
+    "sourceItem": "9",
+    "question": "Čím se zabývá bionika?",
+    "options": [
+      "především počítačovou simulací procesů v živých organismech",
+      "aplikací biologických poznatků v technických a technologických oborech",
+      "aplikací matematických a fyzikálních poznatků ve fyziologii a biochemii",
+      "zejména využitím elektroniky při výzkumu dějů v buňkách a orgánech"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Bionika přenáší řešení z živé přírody do techniky, například tvar křídel, suchý zip podle plodů lopuchu nebo materiály podle stavby kostí. Opačný směr, tedy fyzika a matematika v biologii, je biofyzika a biomatematika."
+    ],
+    "memory": "Bionika = biologie pro techniku."
+  },
+  {
+    "id": 746,
+    "subject": "Biologie",
+    "category": "Biologie · Úvod do biologie",
+    "bookRef": "UK · Biologie · Úvod do biologie · otázka 11 · str. 11",
+    "sourcePages": "11",
+    "sourceItem": "11",
+    "question": "Co studuje zoogeografie?",
+    "options": [
+      "rozšíření živočichů na Zemi",
+      "rozšíření rostlinstva na Zemi",
+      "šíření hospodářských zvířat mezi kulturami v průběhu historie",
+      "šíření nákaz přenosných živočichy (zoonóz) v různých oblastech světa"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Zoogeografie je biogeografie živočichů: zkoumá, kde a proč se jednotlivé skupiny vyskytují. Rozšíření rostlin studuje fytogeografie, zoonózy patří epidemiologii."
+    ],
+    "memory": "Zoo = živočich, geografie = rozšíření."
+  },
+  {
+    "id": 747,
+    "subject": "Biologie",
+    "category": "Biologie · Úvod do biologie",
+    "bookRef": "UK · Biologie · Úvod do biologie · otázka 13 · str. 11",
+    "sourcePages": "11",
+    "sourceItem": "13",
+    "question": "Které vazby patří mezi kovalentní?",
+    "options": [
+      "peptidové vazby",
+      "vodíkové vazby mezi bázemi protilehlých řetězců DNA",
+      "fosfodiesterové vazby",
+      "disulfidové vazby v proteinech"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "title": "Správně: A, C a D",
+    "paragraphs": [
+      "Peptidová vazba spojuje aminokyseliny, fosfodiesterová nukleotidy v řetězci a disulfidový můstek dva cysteiny. Všechny tři jsou kovalentní. Vodíkové vazby mezi bázemi jsou slabé nekovalentní interakce, proto lze dvoušroubovici snadno rozvolnit."
+    ],
+    "memory": "Páteř řetězců drží kovalentně, oba řetězce DNA k sobě vodíkově."
+  },
+  {
+    "id": 748,
+    "subject": "Biologie",
+    "category": "Biologie · Úvod do biologie",
+    "bookRef": "UK · Biologie · Úvod do biologie · otázka 16 · str. 12",
+    "sourcePages": "12",
+    "sourceItem": "16",
+    "question": "Co platí o anaerobní glykolýze?",
+    "options": [
+      "jedna molekula glukózy se štěpí na tři molekuly jednoduchých cukrů, které se dále oxidují na CO₂ a H₂O",
+      "během rozpadu jedné molekuly glukózy se spotřebují 4 ATP a nové ATP nevzniknou",
+      "jedna molekula glukózy se štěpí na dvě triózy, které se dále mění na pyruvát",
+      "při štěpení jedné molekuly glukózy se uvolní energie na syntézu dvou molekul ATP"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Glukóza (6 C) se v glykolýze rozdělí na dvě triózy (3 C), z nichž vzniknou dvě molekuly pyruvátu. Spotřebují se 2 ATP a vytvoří 4, čistý zisk jsou 2 ATP. Úplná oxidace na CO₂ a H₂O vyžaduje kyslík a mitochondrie."
+    ],
+    "memory": "6 C → 2 × 3 C, čistě 2 ATP."
+  },
+  {
+    "id": 749,
+    "subject": "Biologie",
+    "category": "Biologie · Úvod do biologie",
+    "bookRef": "UK · Biologie · Úvod do biologie · otázka 19 · str. 12",
+    "sourcePages": "12",
+    "sourceItem": "19",
+    "question": "Která tvrzení o metabolismu mikroorganismů jsou správná?",
+    "options": [
+      "U vinných kvasinek je konečným produktem fermentace ethanol.",
+      "Výchozím substrátem glykolýzy je CO₂.",
+      "Obligátně anaerobní prokaryota mohou dlouho přežívat za přítomnosti kyslíku.",
+      "Biologická denitrifikace probíhá zpravidla v anaerobním prostředí a jejím produktem je molekulární dusík N₂."
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Kvasinky při alkoholovém kvašení tvoří ethanol a CO₂. Denitrifikační bakterie bez kyslíku redukují dusičnany až na N₂. Glykolýza začíná glukózou, ne CO₂. Pro obligátní anaeroby je kyslík jedovatý, takže v jeho přítomnosti dlouho nepřežijí."
+    ],
+    "memory": "Kvasinky dělají víno, denitrifikace vrací dusík do vzduchu."
+  },
+  {
+    "id": 750,
+    "subject": "Biologie",
+    "category": "Biologie · Úvod do biologie",
+    "bookRef": "UK · Biologie · Úvod do biologie · otázka 20 · str. 12",
+    "sourcePages": "12",
+    "sourceItem": "20",
+    "question": "Které děje patří mezi anabolické?",
+    "options": [
+      "vznik glukózy v temné fázi fotosyntézy z CO₂ a H₂O",
+      "oxidace glukózy na H₂O a CO₂",
+      "oxidace mastných kyselin",
+      "biosyntéza porfyrinů"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Anabolické děje skládají ze sloučenin jednodušších složitější a spotřebovávají energii. Patří sem syntéza glukózy v Calvinově cyklu i tvorba porfyrinů (hem, chlorofyl). Oxidace glukózy a mastných kyselin jsou katabolické, energii uvolňují."
+    ],
+    "memory": "Ana = staví, kata = rozkládá."
+  },
+  {
+    "id": 751,
+    "subject": "Biologie",
+    "category": "Biologie · Úvod do biologie",
+    "bookRef": "UK · Biologie · Úvod do biologie · otázka 23 · str. 13",
+    "sourcePages": "13",
+    "sourceItem": "23",
+    "question": "Co vzniká při glykolýze?",
+    "options": [
+      "pyruvát (kyselina pyrohroznová)",
+      "oxalát",
+      "ATP",
+      "NADPH"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Produktem glykolýzy je pyruvát, ATP a redukovaný koenzym NADH. NADPH vzniká ve světelné fázi fotosyntézy a v pentózovém cyklu, oxalát není meziproduktem glykolýzy."
+    ],
+    "memory": "Glykolýza: pyruvát + ATP + NADH (ne NADPH)."
+  },
+  {
+    "id": 752,
+    "subject": "Biologie",
+    "category": "Biologie · Úvod do biologie",
+    "bookRef": "UK · Biologie · Úvod do biologie · otázka 25 · str. 13",
+    "sourcePages": "13",
+    "sourceItem": "25",
+    "question": "Co platí o triacylglycerolech?",
+    "options": [
+      "řadíme je mezi sacharidy",
+      "patří mezi lipidy",
+      "lze je označit jako tuky",
+      "z chemického hlediska jsou to estery"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: B, C a D",
+    "paragraphs": [
+      "Triacylglyceroly vznikají esterifikací glycerolu třemi mastnými kyselinami. Jsou to estery, patří mezi lipidy a běžně se jim říká tuky (případně oleje). Se sacharidy nemají nic společného."
+    ],
+    "memory": "Glycerol + 3 mastné kyseliny = ester = tuk."
+  },
+  {
+    "id": 753,
+    "subject": "Biologie",
+    "category": "Biologie · Úvod do biologie",
+    "bookRef": "UK · Biologie · Úvod do biologie · otázka 27 · str. 14",
+    "sourcePages": "14",
+    "sourceItem": "27",
+    "question": "Co platí o chlorofylu?",
+    "options": [
+      "je obsažen výhradně v rostlinných mitochondriích",
+      "je volně rozpuštěn v cytoplazmě rostlinných buněk",
+      "je obsažen v chloroplastech",
+      "ve své molekule obsahuje atom hořčíku"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Chlorofyl je vázán v membránách tylakoidů chloroplastů, u sinic přímo v tylakoidech v cytoplazmě. V mitochondriích ani volně v cytoplazmě rostlinných buněk není. Uprostřed jeho porfyrinového kruhu je hořčík, kdežto hem obsahuje železo."
+    ],
+    "memory": "Chlorofyl = hořčík, hem = železo."
+  },
+  {
+    "id": 754,
+    "subject": "Biologie",
+    "category": "Biologie · Úvod do biologie",
+    "bookRef": "UK · Biologie · Úvod do biologie · otázka 29 · str. 14",
+    "sourcePages": "14",
+    "sourceItem": "29",
+    "question": "Která tvrzení o aminokyselinách jsou správná?",
+    "options": [
+      "Bílkoviny lidského těla jsou tvořeny 20 běžnými (proteinogenními) α-aminokyselinami.",
+      "Esenciální aminokyseliny není lidské tělo schopno samo syntetizovat.",
+      "Neesenciální aminokyseliny si lidské tělo samo vytváří z běžných metabolitů.",
+      "Esenciální aminokyseliny je třeba přijímat v potravě."
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Bílkoviny se při translaci skládají z 20 standardních α-aminokyselin. Esenciální si tělo vyrobit nedokáže, proto musí být v potravě. Neesenciální si syntetizuje z meziproduktů metabolismu."
+    ],
+    "memory": "Esenciální = nezbytné z potravy."
+  },
+  {
+    "id": 755,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 31 · str. 16",
+    "sourcePages": "16",
+    "sourceItem": "31",
+    "question": "Kdo má prokaryotický typ buňky?",
+    "options": [
+      "protista",
+      "archea",
+      "eubakterie",
+      "sinice"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: B, C a D",
+    "paragraphs": [
+      "Prokaryota nemají jádro ohraničené membránou ani membránové organely. Patří k nim archea a bakterie včetně sinic. Protista (prvoci, řasy) jsou eukaryota."
+    ],
+    "memory": "Prokaryota = archea + bakterie (i sinice)."
+  },
+  {
+    "id": 756,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 32 · str. 16",
+    "sourcePages": "16",
+    "sourceItem": "32",
+    "question": "Která skupina obsahuje výhradně jednobuněčné organismy?",
+    "options": [
+      "měňavky, nálevníci, stafylokoky, bakteriofágy",
+      "viry, bakterie, nálevníci, měňavky, krvinkovky",
+      "láčkovci, měňavky, bakterie, nálevníci, krvinkovky",
+      "měňavky, krvinkovky, mřížovci, bičíkovci, kořenonožci"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Měňavky, krvinkovky (například původce malárie), mřížovci, bičíkovci i kořenonožci jsou jednobuněční prvoci. Bakteriofágy a viry jsou nebuněčné, láčkovci (nezmar, medúzy) jsou mnohobuněční živočichové."
+    ],
+    "memory": "Viry a fágy nemají buňku, láčkovci jich mají mnoho."
+  },
+  {
+    "id": 757,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 34 · str. 17",
+    "sourcePages": "17",
+    "sourceItem": "34",
+    "question": "Co platí o plazmatické membráně?",
+    "options": [
+      "je to jednoduchá vrstva molekul fosfolipidů",
+      "je to dvojitá vrstva molekul fosfolipidů",
+      "obsahuje transportní proteiny",
+      "zajišťuje endocytózu"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: B, C a D",
+    "paragraphs": [
+      "Základem membrány je fosfolipidová dvojvrstva, ve které jsou zanořeny proteiny, mimo jiné přenašeče a kanály. Vchlipováním membrány buňka pohlcuje látky endocytózou. Jednoduchá vrstva fosfolipidů tvoří jen povrch tukových kapének a micel."
+    ],
+    "memory": "Membrána = lipidová dvojvrstva + proteiny."
+  },
+  {
+    "id": 758,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 35 · str. 17",
+    "sourcePages": "17",
+    "sourceItem": "35",
+    "question": "Co platí o mitochondriích?",
+    "options": [
+      "probíhá v nich světelná fáze fotosyntézy",
+      "skládají se ze dvou biomembrán, což je vidět elektronovým mikroskopem",
+      "obsahují enzymy oxidativní fosforylace",
+      "neobsahují DNA"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Mitochondrie mají vnější a vnitřní membránu, na vnitřní (kristách) leží dýchací řetězec a ATP-syntáza. Mají vlastní kruhovou DNA. Světelná fáze fotosyntézy probíhá v tylakoidech chloroplastů."
+    ],
+    "memory": "Mitochondrie = dvě membrány, vlastní DNA, tvorba ATP."
+  },
+  {
+    "id": 759,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 37 · str. 17",
+    "sourcePages": "17",
+    "sourceItem": "37",
+    "question": "Co platí o transportních proteinech plazmatické membrány?",
+    "options": [
+      "jsou funkčně nezávislé na energetické výbavě buňky",
+      "jsou univerzálními přenašeči všech molekul a iontů z okolí buňky",
+      "transportují ionty sodíku a draslíku",
+      "specificky přenášejí určité ionty nebo molekuly"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Přenašeče jsou specifické, každý převádí jen určité látky. Typickým příkladem je sodno-draselná pumpa. Aktivní transport spotřebovává ATP, proto na energetice buňky závisí, a univerzální přenašeč pro všechno neexistuje."
+    ],
+    "memory": "Přenašeč je specialista, pumpa Na⁺/K⁺ potřebuje ATP."
+  },
+  {
+    "id": 760,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 38 · str. 18",
+    "sourcePages": "18",
+    "sourceItem": "38",
+    "question": "Co je lysozom?",
+    "options": [
+      "buněčná organela v cytoplazmě ohraničená membránou",
+      "typ chromozomu s hladkým povrchem v mikroskopu",
+      "poslední degradační stadium savčího chromozomu",
+      "místo výskytu hydrolytických enzymů v buňce"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Lysozom je váček ohraničený jednou membránou, uvnitř s kyselým pH a hydrolázami, které štěpí pohlcený materiál a opotřebované součásti buňky. S chromozomy nemá nic společného."
+    ],
+    "memory": "Lysis = rozklad: lysozom je trávicí váček."
+  },
+  {
+    "id": 761,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 39 · str. 18",
+    "sourcePages": "18",
+    "sourceItem": "39",
+    "question": "Co platí o endoplazmatickém retikulu?",
+    "options": [
+      "stejně jako lysozomy je to membránová organela",
+      "není tvořeno membránami, ale mikrotubuly a mikrofilamenty",
+      "je pozorovatelné elektronovým mikroskopem",
+      "je vždy spojeno s ribozomy"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "ER je soustava membránových cisteren a kanálků, jeho stavbu ukázal až elektronový mikroskop. Ribozomy nese jen drsné ER, hladké ER je nemá. Mikrotubuly a mikrofilamenta patří k cytoskeletu."
+    ],
+    "memory": "Drsné ER má ribozomy, hladké ne."
+  },
+  {
+    "id": 762,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 44 · str. 19",
+    "sourcePages": "19",
+    "sourceItem": "44",
+    "question": "Co je centriol (centriola)?",
+    "options": [
+      "buněčná struktura složená z mikrotubulů",
+      "centrální oblast chromozomu, kde se stýkají sesterské chromatidy",
+      "buněčná struktura mající význam pro mitózu",
+      "centrální vakuola typická pro rostlinné buňky"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Centriol je válec z devíti trojic mikrotubulů. Dvojice centriolů v centrozomu organizuje dělicí vřeténko. Místo spojení chromatid je centromera, centrální vakuola je jiná organela rostlinné buňky."
+    ],
+    "memory": "Centriol × centromera: první organizuje vřeténko, druhá je na chromozomu."
+  },
+  {
+    "id": 763,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 45 · str. 19",
+    "sourcePages": "19",
+    "sourceItem": "45",
+    "question": "Co platí o celulóze?",
+    "options": [
+      "je to polysacharid tvořící hlavní součást buněčné stěny rostlin",
+      "je to fosforylovaný polysacharid, součást buněčných membrán",
+      "v žaludku primátů se přeměňuje na jednoduché sacharidy",
+      "je štěpena při trávení v žaludku přežvýkavců"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Celulóza je lineární polysacharid z glukózy a hlavní složka rostlinné stěny. Primáti ji štěpit neumějí. Přežvýkavci ji tráví díky mikroorganismům v předžaludcích (bachoru), které tvoří celulázy."
+    ],
+    "memory": "Celulózu tráví bachor přežvýkavce, ne člověk."
+  },
+  {
+    "id": 764,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 49 · str. 19",
+    "sourcePages": "19",
+    "sourceItem": "49",
+    "question": "Co platí o vakuole?",
+    "options": [
+      "je v ní značný podtlak, až vakuum",
+      "často zabírá podstatnou část rostlinné buňky",
+      "může obsahovat řadu pro buňku důležitých látek",
+      "může sloužit k ukládání odpadních látek"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: B, C a D",
+    "paragraphs": [
+      "Centrální vakuola dospělé rostlinné buňky může vyplňovat většinu jejího objemu. Obsahuje buněčnou šťávu se zásobními látkami, barvivy i odpady. Je v ní naopak přetlak (turgor), ne podtlak."
+    ],
+    "memory": "Vakuola = sklad a odpadkový koš, drží turgor."
+  },
+  {
+    "id": 765,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 50 · str. 20",
+    "sourcePages": "20",
+    "sourceItem": "50",
+    "question": "Která tvrzení o eukaryotních buňkách jsou pravdivá?",
+    "options": [
+      "k eukaryotním buňkám patří buňky hub a živočichů",
+      "rostlinná buňka obsahuje mitochondrie, endoplazmatické retikulum, Golgiho komplex, plastidy a vakuoly",
+      "eukaryotní buňky obsahují velké množství biomembránových organel",
+      "pro eukaryotní buňky je typický nízký počet membránových organel a nukleoid s jediným kruhovým chromozomem v cytoplazmě"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2
+    ],
+    "title": "Správně: A, B a C",
+    "paragraphs": [
+      "Eukaryotní jsou buňky protist, hub, rostlin i živočichů. Mají jádro a mnoho membránových organel, rostlinná buňka navíc plastidy a velkou vakuolu. Nukleoid s jedním kruhovým chromozomem je znak prokaryot."
+    ],
+    "memory": "Nukleoid = prokaryota, jádro a organely = eukaryota."
+  },
+  {
+    "id": 766,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 51 · str. 20",
+    "sourcePages": "20",
+    "sourceItem": "51",
+    "question": "Co platí o cytoskeletu eukaryotní buňky?",
+    "options": [
+      "je tvořen mikrofilamenty, intermediárními filamenty a mikrotubuly",
+      "je to proteinový aparát",
+      "je tvořen výhradně fosfolipidy",
+      "vytváří dynamickou kostru buňky"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "title": "Správně: A, B a D",
+    "paragraphs": [
+      "Cytoskelet tvoří tři typy proteinových vláken: aktinová mikrofilamenta, intermediární filamenta a tubulinové mikrotubuly. Neustále se přestavuje, drží tvar buňky a umožňuje pohyb. Fosfolipidy tvoří membrány."
+    ],
+    "memory": "Kostra buňky je z bílkovin a stále se přestavuje."
+  },
+  {
+    "id": 767,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 52 · str. 20",
+    "sourcePages": "20",
+    "sourceItem": "52",
+    "question": "Z čeho je složena plazmatická membrána?",
+    "options": [
+      "z fosfolipidů",
+      "z glykoproteinů",
+      "z glykolipidů",
+      "z chitinu"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2
+    ],
+    "title": "Správně: A, B a C",
+    "paragraphs": [
+      "Membránu tvoří fosfolipidy, cholesterol a proteiny. Na vnější straně jsou glykoproteiny a glykolipidy tvořící glykokalyx. Chitin je polysacharid buněčné stěny hub a kutikuly členovců."
+    ],
+    "memory": "Chitin patří do stěny hub, ne do membrány."
+  },
+  {
+    "id": 768,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 55 · str. 20",
+    "sourcePages": "20",
+    "sourceItem": "55",
+    "question": "Co platí o buněčném jádře?",
+    "options": [
+      "obsahuje chromozomy",
+      "je ohraničeno jaderným obalem s jadernými póry",
+      "obsahuje jedno nebo několik jadérek",
+      "jadérko obsahuje jen tehdy, má-li aspoň dva chromozomy X"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2
+    ],
+    "title": "Správně: A, B a C",
+    "paragraphs": [
+      "Jádro uchovává DNA v chromozomech, odděluje ho dvojitý jaderný obal s póry. Jadérek bývá jedno až několik, vznikají kolem genů pro rRNA na akrocentrických chromozomech, takže jadérko mají i buňky mužů."
+    ],
+    "memory": "Jadérko dělá ribozomy u každého, nezávisle na pohlaví."
+  },
+  {
+    "id": 769,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 56 · str. 21",
+    "sourcePages": "21",
+    "sourceItem": "56",
+    "question": "Co platí o zygotě?",
+    "options": [
+      "je to samčí nebo samičí pohlavní buňka",
+      "vzniká spojením pohlavních buněk",
+      "je to oplozené vajíčko",
+      "je to osmibuněčné stadium rýhujícího se embrya"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Zygota je diploidní buňka vzniklá splynutím vajíčka a spermie, tedy oplozené vajíčko. Pohlavní buňky jsou gamety, osmibuněčné stadium vzniká až rýhováním zygoty."
+    ],
+    "memory": "Gamety se spojí → zygota → rýhování."
+  },
+  {
+    "id": 770,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 57 · str. 21",
+    "sourcePages": "21",
+    "sourceItem": "57",
+    "question": "Co je součástí mitotického aparátu?",
+    "options": [
+      "centrioly",
+      "mitochondrie",
+      "vakuoly",
+      "mikrotubuly dělicího vřeténka"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Mitotický aparát tvoří dělicí vřeténko z mikrotubulů a u živočišných buněk centrozomy s centrioly na pólech. Mitochondrie dodávají energii, ale součástí aparátu nejsou."
+    ],
+    "memory": "Mitotický aparát = centrioly + vřeténko."
+  },
+  {
+    "id": 771,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 58 · str. 21",
+    "sourcePages": "21",
+    "sourceItem": "58",
+    "question": "Co probíhá v profázi mitózy?",
+    "options": [
+      "chromozomy se zkracují a kondenzují",
+      "jeden centriol se rozdělí na čtyři nové centrioly",
+      "jaderný obal se rozpadá",
+      "mikrotubuly dělicího vřeténka se připojují k centromerám chromozomů"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "title": "Správně: A, C a D",
+    "paragraphs": [
+      "V profázi (v užším členění v prometafázi) chromozomy kondenzují, rozpadá se jaderný obal a mikrotubuly se upínají ke kinetochorům v oblasti centromer. Centrioly se zdvojují už v interfázi, každý vytvoří jeden nový, na čtyři se nedělí."
+    ],
+    "memory": "Profáze: kondenzace, rozpad obalu, připojení vřeténka."
+  },
+  {
+    "id": 772,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 59 · str. 21",
+    "sourcePages": "21",
+    "sourceItem": "59",
+    "question": "Co platí v metafázi mitózy?",
+    "options": [
+      "chromozomy se řadí v centrální (ekvatoriální) rovině",
+      "každá ze dvou sesterských chromatid je připojena k opačnému pólu vřeténka",
+      "chromozomy jsou maximálně kondenzované a dobře barvitelné",
+      "mikrotubuly se zkracují a jednochromatidové chromozomy se přesouvají k pólům"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2
+    ],
+    "title": "Správně: A, B a C",
+    "paragraphs": [
+      "V metafázi leží chromozomy v ekvatoriální rovině, sesterské chromatidy jsou upnuty k opačným pólům a kondenzace je největší, proto se karyotyp hodnotí právě v metafázi. Zkracování mikrotubulů a pohyb chromatid k pólům patří do anafáze."
+    ],
+    "memory": "Metafáze = řada uprostřed, anafáze = rozchod k pólům."
+  },
+  {
+    "id": 773,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 60 · str. 21",
+    "sourcePages": "21",
+    "sourceItem": "60",
+    "question": "Co platí v anafázi mitózy?",
+    "options": [
+      "mikrotubuly vřeténka se zkracují a přitahují chromozomy k pólům",
+      "mikrotubuly vřeténka se prodlužují a oddalují chromozomy od pólů",
+      "každý chromozom je tvořen jednou chromatidou",
+      "vřeténko se rozpadá a vzniká jaderný obal"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "V anafázi se oddělí sesterské chromatidy a zkracující se kinetochorové mikrotubuly je táhnou k opačným pólům. Každý chromozom má pak jedinou chromatidu. Rozpad vřeténka a obnova jaderného obalu patří do telofáze."
+    ],
+    "memory": "Anafáze: chromatidy odcházejí, každý chromozom má jednu."
+  },
+  {
+    "id": 774,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 61 · str. 21",
+    "sourcePages": "21",
+    "sourceItem": "61",
+    "question": "Co se děje v telofázi mitózy?",
+    "options": [
+      "dělicí vřeténko se rozpadá",
+      "chromozomy se dekondenzují",
+      "kolem obou skupin chromozomů se obnoví jaderný obal",
+      "může proběhnout cytokineze, která rozdělí mateřskou buňku na dvě dceřiné"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Telofáze je obrácená profáze: vřeténko zaniká, chromozomy se rozvolňují a kolem každé sady vzniká nový jaderný obal s jadérkem. Současně obvykle probíhá cytokineze, tedy rozdělení cytoplazmy."
+    ],
+    "memory": "Telofáze = profáze pozpátku + cytokineze."
+  },
+  {
+    "id": 775,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 62 · str. 22",
+    "sourcePages": "22",
+    "sourceItem": "62",
+    "question": "Co platí o cytokinezi?",
+    "options": [
+      "buňka se rozdělí na dvě dceřiné buňky",
+      "u živočichů vznikají dceřiné buňky tvorbou přepážky uvnitř mateřské buňky",
+      "u rostlin vznikají dceřiné buňky zaškrcením mateřské buňky uprostřed",
+      "u živočichů vzniknou dceřiné buňky zaškrcením mateřské buňky uprostřed"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Cytokineze rozdělí cytoplazmu na dvě buňky. Živočišná buňka se zaškrtí kontraktilním prstencem z aktinu a myozinu. Rostlinná buňka s pevnou stěnou se zaškrtit nemůže, tvoří uprostřed přepážku (buněčnou destičku) z váčků Golgiho komplexu."
+    ],
+    "memory": "Živočich se zaškrtí, rostlina staví přepážku."
+  },
+  {
+    "id": 776,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 63 · str. 22",
+    "sourcePages": "22",
+    "sourceItem": "63",
+    "question": "Co platí o fázi buněčného cyklu, kdy se replikuje jaderná DNA?",
+    "options": [
+      "označuje se S fáze a následuje po fázi G1",
+      "označuje se S fáze a předchází fázi G2",
+      "označuje se R fáze a předchází fázi G1",
+      "je totožná s mitózou a replikace probíhá v metafázi"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Pořadí fází je G1, S, G2 a M. V S fázi (syntéza) se replikuje DNA, takže následuje po G1 a předchází G2. R fáze v cyklu není a v mitóze se DNA nereplikuje."
+    ],
+    "memory": "G1 → S (kopírování DNA) → G2 → M."
+  },
+  {
+    "id": 777,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 68 · str. 23",
+    "sourcePages": "23",
+    "sourceItem": "68",
+    "question": "Co platí pro interfázi a následující meiózu?",
+    "options": [
+      "DNA se replikuje jen jednou, ale telofáze proběhne dvakrát",
+      "chromozomy se zdvojí jen jednou, ale telofáze proběhne dvakrát",
+      "na rozdíl od mitózy neprobíhá replikace DNA, proto vznikají haploidní buňky",
+      "proběhne jen jedna interfáze, ale DNA se při ní replikuje dvakrát"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Před meiózou se DNA zreplikuje jednou, pak následují dvě dělení, každé s vlastní telofází. Tím vzniknou ze zdvojené sady čtyři haploidní buňky. DNA se tedy replikuje, ale jen jednou."
+    ],
+    "memory": "Jedna replikace, dvě dělení."
+  },
+  {
+    "id": 778,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 69 · str. 23",
+    "sourcePages": "23",
+    "sourceItem": "69",
+    "question": "K čemu dochází v průběhu meiózy?",
+    "options": [
+      "ke snížení počtu chromozomů v jádrech",
+      "ke zvýšení počtu chromozomů v jádrech",
+      "k segregaci chromozomů do gamet",
+      "ke crossing-overu"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "title": "Správně: A, C a D",
+    "paragraphs": [
+      "Meióza je redukční dělení: počet chromozomů klesá na polovinu, homologické chromozomy se rozcházejí (segregují) do různých buněk a v profázi I dochází ke crossing-overu. Počet chromozomů se obnoví až oplozením."
+    ],
+    "memory": "Meióza = redukce, segregace, crossing-over."
+  },
+  {
+    "id": 779,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 72 · str. 23",
+    "sourcePages": "23",
+    "sourceItem": "72",
+    "question": "Které organely obsahují membránové struktury?",
+    "options": [
+      "ribozomy",
+      "chromozomy",
+      "Golgiho komplex",
+      "mitochondrie"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Golgiho komplex je soustava membránových cisteren a mitochondrie mají dvě membrány. Ribozomy jsou z rRNA a proteinů a chromozomy z DNA a proteinů, membránu nemají."
+    ],
+    "memory": "Ribozom a chromozom jsou bez membrány."
+  },
+  {
+    "id": 780,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 74 · str. 24",
+    "sourcePages": "24",
+    "sourceItem": "74",
+    "question": "Která skupina obsahuje výhradně organely a struktury zdravých (neinfikovaných) eukaryotních buněk?",
+    "options": [
+      "ribozom, Golgiho komplex, plastid, chloroplast",
+      "centromera, plazmid, kapsida, mitochondrie",
+      "endoplazmatické retikulum, tylakoid, ribozom, chromozom",
+      "lysozom, chloroplast, jadérko, mitochondrie"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "title": "Správně: A, C a D",
+    "paragraphs": [
+      "Ribozomy, Golgiho komplex, plastidy (včetně chloroplastů s tylakoidy), ER, chromozomy, lysozomy, jadérko i mitochondrie najdeme v eukaryotních buňkách (plastidy u rostlin a řas). Kapsida je bílkovinný obal viru, takže skupina b do zdravé buňky nepatří."
+    ],
+    "memory": "Kapsida = virus, zbytek patří eukaryotům."
+  },
+  {
+    "id": 781,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 76 · str. 24",
+    "sourcePages": "24",
+    "sourceItem": "76",
+    "question": "Co platí o Golgiho komplexu?",
+    "options": [
+      "obsahuje velké množství ribozomů",
+      "tvoří ho paralelně uspořádané membránové cisterny",
+      "slouží k chemickým úpravám a sekreci proteinů",
+      "dodává do endoplazmatického retikula proteiny k dalším úpravám"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Golgiho komplex jsou naskládané membránové cisterny. Přijímá proteiny z ER, upravuje je (například glykosyluje), třídí a balí do váčků k sekreci. Ribozomy nemá a tok jde z ER do Golgiho komplexu, ne obráceně."
+    ],
+    "memory": "ER vyrobí, Golgi upraví a odešle."
+  },
+  {
+    "id": 782,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 77 · str. 24",
+    "sourcePages": "24",
+    "sourceItem": "77",
+    "question": "Co platí o cytoskeletu?",
+    "options": [
+      "jsou to proteinová vlákna na povrchu buňky tvořící buněčnou stěnu",
+      "vyskytuje se jen u rostlin, hub a bakterií, živočichům chybí",
+      "jsou to proteinová vlákna uložená uvnitř buňky",
+      "má význam jako opěrná a pohybová struktura buňky"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Cytoskelet je síť proteinových vláken uvnitř buňky, typická pro eukaryota včetně živočichů. Zpevňuje buňku, umožňuje pohyb buňky i organel a dělení. Buněčná stěna je mimo plazmatickou membránu a je z polysacharidů."
+    ],
+    "memory": "Cytoskelet je uvnitř, stěna venku."
+  },
+  {
+    "id": 783,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 78 · str. 24",
+    "sourcePages": "24",
+    "sourceItem": "78",
+    "question": "Co platí o mikrofilamentech?",
+    "options": [
+      "jsou tvořena aktinem",
+      "jsou tvořena tubulinem",
+      "hrají významnou roli při svalové kontrakci",
+      "mají často pohybovou funkci"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "title": "Správně: A, C a D",
+    "paragraphs": [
+      "Mikrofilamenta jsou vlákna z aktinu. Ve svalu se po nich posouvá myozin, mimo sval umožňují pohyb buňky (panožky) a cytokinezi. Z tubulinu jsou mikrotubuly."
+    ],
+    "memory": "Aktin = mikrofilamenta, tubulin = mikrotubuly."
+  },
+  {
+    "id": 784,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 79 · str. 25",
+    "sourcePages": "25",
+    "sourceItem": "79",
+    "question": "Co platí o bičících eukaryotních buněk?",
+    "options": [
+      "stavbou jsou velmi podobné bičíkům prokaryot",
+      "obsahují mikrotubuly",
+      "na povrchu je kryje membrána",
+      "mají značně rozdílnou stavbu podle fylogenetického původu organismu"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Bičík eukaryot je výběžek buňky krytý plazmatickou membránou, uvnitř s mikrotubuly v uspořádání 9 + 2. Tato stavba je u eukaryot jednotná. Bakteriální bičík je jen bílkovinné vlákno z flagelinu poháněné rotačním motorem."
+    ],
+    "memory": "Eukaryotní bičík 9 + 2 v membráně, bakteriální je vlákno."
+  },
+  {
+    "id": 785,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 80 · str. 25",
+    "sourcePages": "25",
+    "sourceItem": "80",
+    "question": "Jak se liší bičíky bakterií, prvoků (protistů) a savčích buněk?",
+    "options": [
+      "bičíky prvoků a savčích buněk jsou si stavbou velmi podobné",
+      "bičíky prvoků a savčích buněk mají výrazně odlišnou stavbu",
+      "bičíky prvoků a savčích buněk se výrazně liší od bičíků bakterií",
+      "savčí buňky bičíky nikdy nemají a bičíky prvoků a bakterií jsou téměř shodné"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Prvoci i savčí buňky jsou eukaryota, jejich bičíky mají stejnou stavbu 9 + 2. Savčí bičík má například spermie. Bakteriální bičík je stavbou úplně jiný, nemá mikrotubuly ani membránový obal."
+    ],
+    "memory": "Spermie i bičíkovec mají stejný bičík 9 + 2."
+  },
+  {
+    "id": 786,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 83 · str. 25",
+    "sourcePages": "25",
+    "sourceItem": "83",
+    "question": "Co platí o pohlavních chromozomech X a Y u člověka?",
+    "options": [
+      "jsou geneticky zcela odlišné a nemají žádný homologický úsek",
+      "kromě nehomologických úseků mají kratší vzájemně homologické segmenty",
+      "obsahují zcela shodné geny, X je delší jen kvůli nekódujícím sekvencím",
+      "morfologicky se výrazně liší"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "X je velký chromozom s mnoha geny, Y malý s několika desítkami genů. Shodné jsou jen krátké pseudoautozomální oblasti na koncích, díky nimž se X a Y v meióze párují. Geny jinak shodné nejsou."
+    ],
+    "memory": "X a Y se liší, spojují je jen pseudoautozomální konce."
+  },
+  {
+    "id": 787,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 84 · str. 26",
+    "sourcePages": "26",
+    "sourceItem": "84",
+    "question": "Co platí o lidské somatické buňce, která vstupuje do mitózy?",
+    "options": [
+      "obsahuje 46 chromozomů",
+      "je tetraploidní",
+      "je diploidní",
+      "obsahuje 22 párů autozomů a 2 pohlavní chromozomy"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "title": "Správně: A, C a D",
+    "paragraphs": [
+      "Somatická buňka člověka je diploidní: 46 chromozomů, tedy 22 párů autozomů a dva pohlavní chromozomy. Před mitózou má po replikaci každý chromozom dvě chromatidy, ale počet chromozomů ani ploidie se nemění, tetraploidní tedy není."
+    ],
+    "memory": "Zdvojené chromatidy nejsou zdvojená sada."
+  }
+]
