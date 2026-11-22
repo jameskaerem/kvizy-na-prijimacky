@@ -264,7 +264,7 @@
       "sinice",
       "grampozitivní bakterie",
       "mykobakterie",
-      "halofilní bakterie"
+      "extrémně halofilní „halobakterie“"
     ],
     "answer": 0,
     "answers": [
@@ -274,7 +274,7 @@
     ],
     "title": "Správně: A, B a C",
     "paragraphs": [
-      "Hledá se, kdo archeem není. Sinice, grampozitivní bakterie i mykobakterie patří mezi bakterie (eubakterie). Mezi archea patří extrémofilové jako halofilní (solnomilné) „bakterie“, například halobakterie."
+      "Hledá se, kdo archeem není. Sinice, grampozitivní bakterie i mykobakterie patří mezi bakterie (eubakterie). Extrémně solnomilné „halobakterie“ (například Halobacterium) jsou přes svůj název archea."
     ],
     "memory": "Archea = extrémofilové."
   },
@@ -484,7 +484,7 @@
     "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 492 · str. 112",
     "sourcePages": "112",
     "sourceItem": "492",
-    "question": "Co se tvoří při fotosyntéze?",
+    "question": "Co vzniká při fotosyntéze podle její úplné rovnice 6 CO₂ + 12 H₂O → C₆H₁₂O₆ + 6 O₂ + 6 H₂O?",
     "options": [
       "sacharidy, kyslík a oxid uhličitý",
       "oxid uhličitý a voda",
@@ -685,7 +685,7 @@
     "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 530 · str. 120",
     "sourcePages": "120",
     "sourceItem": "530",
-    "question": "U kterých živočichů je krev vstupující do aorty nekompletně okysličená?",
+    "question": "U kterých živočichů vstupuje ze srdce do aorty krev, která není plně okysličená?",
     "options": [
       "u obojživelníků",
       "u ptáků",
@@ -699,7 +699,7 @@
     ],
     "title": "Správně: A a C",
     "paragraphs": [
-      "Ryby mají jen jeden oběh a srdce čerpá odkysličenou krev do žaber. Obojživelníci mají jednu komoru, kde se krev z plic a z těla částečně mísí. Ptáci a savci mají oběhy zcela oddělené a do aorty jde plně okysličená krev."
+      "Ryby mají jen jeden oběh a srdce čerpá odkysličenou krev do břišní aorty a odtud do žaber. Obojživelníci mají jednu komoru, kde se krev z plic a z těla částečně mísí. Ptáci a savci mají oběhy zcela oddělené a do aorty jde plně okysličená krev."
     ],
     "memory": "Plně okysličená aorta: ptáci a savci."
   },

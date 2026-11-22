@@ -1,0 +1,343 @@
+[
+  {
+    "id": 988,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 673 · str. 146",
+    "sourcePages": "146",
+    "sourceItem": "673",
+    "question": "Pro které procesy mají játra význam?",
+    "options": [
+      "tvorba žluči",
+      "detoxikace cizorodých látek",
+      "ukládání glykogenu",
+      "tvorba dusíkatých odpadních látek"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Játra tvoří žluč, odbourávají a zneškodňují léky, alkohol a jiné cizorodé látky, ukládají glukózu jako glykogen a přeměňují amoniak z aminokyselin na močovinu."
+    ],
+    "memory": "Játra = chemická továrna těla."
+  },
+  {
+    "id": 989,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 675 · str. 147",
+    "sourcePages": "147",
+    "sourceItem": "675",
+    "question": "Které dvojice správně spojují hormon a jeho funkci?",
+    "options": [
+      "oxytocin – stimuluje děložní stahy při porodu",
+      "tyroxin – stimuluje metabolické procesy",
+      "adrenokortikotropní hormon – stimuluje vylučování glukokortikoidů z nadledvin",
+      "melatonin – ovlivňuje biologické rytmy"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Všechny dvojice jsou správné. Oxytocin z neurohypofýzy vyvolává stahy dělohy, tyroxin štítné žlázy zvyšuje intenzitu metabolismu, ACTH z adenohypofýzy řídí kůru nadledvin a melatonin z epifýzy řídí cirkadiánní rytmus."
+    ],
+    "memory": "Melatonin = hormon tmy a spánku."
+  },
+  {
+    "id": 990,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 682 · str. 148",
+    "sourcePages": "148",
+    "sourceItem": "682",
+    "question": "Které dvojice správně spojují strukturu mozku a její funkci?",
+    "options": [
+      "prodloužená mícha – řízení dýchání",
+      "mozeček – koordinace pohybu a rovnováhy",
+      "corpus callosum – spojení levé a pravé hemisféry",
+      "hypotalamus – tvorba hormonů a regulace teploty, hladu a žízně"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Všechny dvojice jsou správné. Prodloužená mícha obsahuje dýchací a oběhové centrum, mozeček koordinuje pohyby, mozkový trámec propojuje hemisféry a hypotalamus tvoří liberiny, ADH a oxytocin a řídí teplotu, hlad a žízeň."
+    ],
+    "memory": "Hypotalamus řídí vnitřní prostředí."
+  },
+  {
+    "id": 991,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 685 · str. 148",
+    "sourcePages": "148",
+    "sourceItem": "685",
+    "question": "Co platí o šlachách a vazech (ligamentech)?",
+    "options": [
+      "jsou tvořeny pojivovou tkání",
+      "jsou spojeny s kostmi",
+      "vyskytují se u obratlovců",
+      "jsou součástí pohybového aparátu"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Šlachy a vazy jsou z husté vazivové (pojivové) tkáně. Šlacha spojuje sval s kostí, vaz spojuje kosti navzájem, například v kloubu. Obojí patří k pohybovému aparátu obratlovců."
+    ],
+    "memory": "Šlacha: sval–kost, vaz: kost–kost."
+  },
+  {
+    "id": 992,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 687 · str. 149",
+    "sourcePages": "149",
+    "sourceItem": "687",
+    "question": "Které soustavy se podílejí na udržení homeostázy?",
+    "options": [
+      "trávicí a vylučovací",
+      "dýchací a nervová",
+      "nervová a hormonální",
+      "imunitní a krevní"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Stálost vnitřního prostředí udržuje spolupráce všech soustav: trávicí přijímá živiny, vylučovací odstraňuje odpad a řídí vodu a ionty, dýchací výměnu plynů, krev rozvádí látky, imunitní chrání organismus a nervová s hormonální vše řídí."
+    ],
+    "memory": "Homeostázu drží všechny soustavy."
+  },
+  {
+    "id": 993,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 690 · str. 149",
+    "sourcePages": "149",
+    "sourceItem": "690",
+    "question": "Která spojení jsou nesprávná?",
+    "options": [
+      "bílé krvinky – obrana proti infekci",
+      "červené krvinky – srážení krve",
+      "krevní plazma – voda, živiny a odpadní látky",
+      "krevní destičky – imunitní reakce"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "Hledají se chybná spojení. Červené krvinky přenášejí kyslík, srážení krve zajišťují krevní destičky a koagulační faktory plazmy. Destičky tedy patří ke srážení, ne k imunitě. Bílé krvinky chrání před infekcí a plazma obsahuje vodu, živiny i odpadní látky."
+    ],
+    "memory": "Pozor na zadání: označ chybná spojení."
+  },
+  {
+    "id": 994,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 693 · str. 150",
+    "sourcePages": "150",
+    "sourceItem": "693",
+    "question": "Která tvrzení o T lymfocytech jsou správná?",
+    "options": [
+      "mají specifické receptory",
+      "podílejí se na buňkami zprostředkované imunitě",
+      "podílejí se na protilátkami zprostředkované imunitě",
+      "podílejí se na ničení cizorodých buněk"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "T lymfocyty rozpoznávají antigen specifickým receptorem (TCR). Cytotoxické T lymfocyty ničí infikované a cizí buňky, pomocné T lymfocyty aktivují B lymfocyty, a podílejí se tak i na tvorbě protilátek."
+    ],
+    "memory": "Pomocné T pomáhají i B lymfocytům."
+  },
+  {
+    "id": 995,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 711 · str. 153",
+    "sourcePages": "153",
+    "sourceItem": "711",
+    "question": "Co platí o srdeční automacii?",
+    "options": [
+      "je řízena ústředím v mozečku",
+      "je řízena periferními nervy",
+      "je ovlivňována adrenalinem",
+      "je zajišťována centrem v samotném srdečním svalu"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Srdce se stahuje samo díky převodnímu systému, jehož hlavním udavatelem rytmu je sinoatriální uzel. Nervy a hormony (adrenalin) frekvenci jen upravují, automacii nevytvářejí. Mozeček srdce neřídí."
+    ],
+    "memory": "Rytmus udává SA uzel v srdci."
+  },
+  {
+    "id": 996,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 790 · str. 166",
+    "sourcePages": "166",
+    "sourceItem": "790",
+    "question": "Které dvojice správně spojují fyziologický proces a jeho průměrnou délku?",
+    "options": [
+      "život erytrocytu – 120 dní",
+      "menstruační cyklus – 28 dní",
+      "těhotenství – 40 týdnů",
+      "vývin spermie (spermatogeneze) – 272 dní"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2
+    ],
+    "title": "Správně: A, B a C",
+    "paragraphs": [
+      "Erytrocyt žije asi 120 dní, menstruační cyklus trvá průměrně 28 dní a těhotenství 40 týdnů od prvního dne poslední menstruace. Spermatogeneze trvá zhruba 64 až 74 dní, ne 272."
+    ],
+    "memory": "120 dní, 28 dní, 40 týdnů."
+  },
+  {
+    "id": 997,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 792 · str. 166",
+    "sourcePages": "166",
+    "sourceItem": "792",
+    "question": "Jaká je normální tepová frekvence lidského plodu?",
+    "options": [
+      "vyšší než klidová tepová frekvence zdravého dospělého",
+      "vyšší než klidová tepová frekvence sedmiletého dítěte",
+      "zhruba stejná jako klidová tepová frekvence dospělého",
+      "téměř nulová, protože krevní oběh plodu řídí matčino srdce"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Srdce plodu bije asi 110 až 160krát za minutu, tedy rychleji než u dítěte (asi 80–100) i dospělého (asi 70). Plod má vlastní srdce a oběh, s matkou si vyměňuje látky jen přes placentu."
+    ],
+    "memory": "Plod: asi 140 tepů za minutu."
+  },
+  {
+    "id": 998,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 796 · str. 167",
+    "sourcePages": "167",
+    "sourceItem": "796",
+    "question": "Které choroby řadíme mezi nádorová onemocnění?",
+    "options": [
+      "leukémie",
+      "lymfomy",
+      "karcinomy",
+      "sarkomy"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Všechny jsou zhoubné nádory: leukémie z krvetvorných buněk, lymfomy z lymfatické tkáně, karcinomy z epitelů a sarkomy z mezenchymových tkání (kost, sval, vazivo)."
+    ],
+    "memory": "Karcinom = epitel, sarkom = pojivo."
+  },
+  {
+    "id": 999,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 803 · str. 170",
+    "sourcePages": "170",
+    "sourceItem": "803",
+    "question": "Co platí o reprodukčně izolačních mechanismech?",
+    "options": [
+      "vedou k oddělení dvou populací",
+      "vedou ke speciaci",
+      "jsou geografické a biologické",
+      "jsou změny vedoucí k přeměně gonochoristy na hermafrodita v malých populacích"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2
+    ],
+    "title": "Správně: A, B a C",
+    "paragraphs": [
+      "Izolační mechanismy brání toku genů mezi populacemi, a tak umožňují vznik nových druhů. Mohou být geografické (bariéra v prostoru) i biologické (jiná doba rozmnožování, chování, neplodnost kříženců). S přeměnou pohlaví nesouvisejí."
+    ],
+    "memory": "Izolace → speciace."
+  },
+  {
+    "id": 1000,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 810 · str. 171",
+    "sourcePages": "171",
+    "sourceItem": "810",
+    "question": "Výskyt kterých skupin je typický pro prvohory?",
+    "options": [
+      "plazů, ptakoještěrů a prvních savců",
+      "ostnokožců, primitivních žraloků a obojživelníků",
+      "ostnokožců, trilobitů a primitivních žraloků",
+      "plazů, ptakoještěrů a belemnitů"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "V prvohorách žili trilobiti, ostnokožci, první paryby a v devonu a karbonu se rozšířili obojživelníci. Ptakoještěři, belemniti a první savci jsou typičtí pro druhohory."
+    ],
+    "memory": "Trilobiti = prvohory, ptakoještěři = druhohory."
+  }
+]
