@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 451,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 26 · str. 55",
+    "sourcePages": "55",
+    "sourceItem": "26",
+    "question": "Z atomového jádra vyletěla částice alfa. Co se přitom muselo stát?",
+    "options": [
+      "počet nukleonů v jádře klesl o dva",
+      "počet protonů v jádře klesl o jeden",
+      "počet nukleonů v jádře klesl o čtyři",
+      "počet neutronů v jádře vzrostl o dva"
+    ],
+    "answer": 2,
+    "title": "počet nukleonů v jádře klesl o čtyři",
+    "paragraphs": [
+      "Částice alfa je jádro helia se dvěma protony a dvěma neutrony. Nukleonové číslo proto klesne o 4 a protonové o 2."
+    ],
+    "memory": "Alfa: A − 4, Z − 2."
+  },
+  {
+    "id": 452,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 27 · str. 55",
+    "sourcePages": "55",
+    "sourceItem": "27",
+    "question": "Z atomového jádra vyletěla částice beta minus (elektron). Co se přitom muselo stát?",
+    "options": [
+      "počet neutronů v jádře vzrostl o jeden",
+      "počet nukleonů vzrostl o jeden",
+      "počet nukleonů klesl o jeden",
+      "počet protonů v jádře vzrostl o jeden"
+    ],
+    "answer": 3,
+    "title": "počet protonů v jádře vzrostl o jeden",
+    "paragraphs": [
+      "Při přeměně β⁻ se neutron v jádře změní na proton, elektron a antineutrino. Počet nukleonů se nemění, protonů přibude jeden."
+    ],
+    "memory": "β⁻: Z + 1, A stejné."
+  },
+  {
+    "id": 453,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 29 · str. 55",
+    "sourcePages": "55",
+    "sourceItem": "29",
+    "question": "Po uplynutí tří poločasů přeměny zůstalo ve vzorku 10⁶ atomů radionuklidu. Kolik jich bylo na počátku?",
+    "options": [
+      "8 · 10⁶",
+      "3 · 10⁶",
+      "10⁹",
+      "1,25 · 10⁵"
+    ],
+    "answer": 0,
+    "title": "8 · 10⁶",
+    "paragraphs": [
+      "Za každý poločas klesne počet jader na polovinu, za tři poločasy na 1/8. Na počátku jich tedy bylo 8 · 10⁶."
+    ],
+    "memory": "Tři poločasy = osmina."
+  },
+  {
+    "id": 454,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 30 · str. 55",
+    "sourcePages": "55",
+    "sourceItem": "30",
+    "question": "Které z uvedených záření nevzniká v jádře atomu?",
+    "options": [
+      "alfa",
+      "rentgenové",
+      "beta",
+      "gama"
+    ],
+    "answer": 1,
+    "title": "rentgenové",
+    "paragraphs": [
+      "Rentgenové záření vzniká v elektronovém obalu (charakteristické) nebo při brzdění elektronů (brzdné). Záření alfa, beta a gama vychází z jádra."
+    ],
+    "memory": "RTG z obalu, gama z jádra."
+  },
+  {
+    "id": 455,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 31 · str. 55",
+    "sourcePages": "55",
+    "sourceItem": "31",
+    "question": "Radionuklid má poločas přeměny 4 dny. Kdy jeho aktivita klesne na nulu?",
+    "options": [
+      "po čtyřech dnech",
+      "po osmi dnech",
+      "teoreticky až po nekonečně dlouhé době",
+      "po dvou dnech"
+    ],
+    "answer": 2,
+    "title": "teoreticky až po nekonečně dlouhé době",
+    "paragraphs": [
+      "Aktivita klesá exponenciálně, za každý poločas na polovinu. Matematicky se nuly nikdy nedosáhne, prakticky se po zhruba deseti poločasech stane nepatrnou."
+    ],
+    "memory": "Exponenciála nikdy nedojde k nule."
+  },
+  {
+    "id": 456,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 34 · str. 55",
+    "sourcePages": "55",
+    "sourceItem": "34",
+    "question": "Proč lze získat energii syntézou jader helia z lehkých jader (těžkého vodíku, lithia)?",
+    "options": [
+      "vzniklá jádra mají menší hmotnostní schodek na nukleon",
+      "vznikající helium je radioaktivní",
+      "vznikají částice o vysoké energii",
+      "vzniklá jádra helia mají větší hmotnostní schodek na nukleon než výchozí jádra"
+    ],
+    "answer": 3,
+    "title": "vzniklá jádra helia mají větší hmotnostní schodek na nukleon než výchozí jádra",
+    "paragraphs": [
+      "Helium-4 je velmi pevně vázané jádro. Rozdíl vazebných energií (hmotnostních schodků) se při syntéze uvolní, jak se to děje ve hvězdách."
+    ],
+    "memory": "Pevněji vázaný produkt = uvolněná energie."
+  },
+  {
+    "id": 457,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 35 · str. 55",
+    "sourcePages": "55",
+    "sourceItem": "35",
+    "question": "Které zařízení je vhodné k detekci jaderného záření?",
+    "options": [
+      "bublinková komora",
+      "fotometr",
+      "Dewarova nádoba",
+      "cyklotron"
+    ],
+    "answer": 0,
+    "title": "bublinková komora",
+    "paragraphs": [
+      "V přehřáté kapalině bublinkové komory vznikají podél dráhy ionizující částice bublinky, takže je dráha vidět. Cyklotron částice urychluje, Dewarova nádoba je termoska."
+    ],
+    "memory": "Bublinková komora zviditelní dráhu."
+  },
+  {
+    "id": 458,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 37 · str. 56",
+    "sourcePages": "56",
+    "sourceItem": "37",
+    "question": "Proč nelze získat energii rozštěpením jádra železa 56?",
+    "options": [
+      "lehčí nuklidy mají větší schodek na nukleon",
+      "jakýkoli jiný nuklid má menší hmotnostní schodek na nukleon",
+      "železo není radioaktivní",
+      "toto jádro rozštěpit nelze"
+    ],
+    "answer": 1,
+    "title": "jakýkoli jiný nuklid má menší hmotnostní schodek na nukleon",
+    "paragraphs": [
+      "Železo a nikl leží na vrcholu křivky vazebné energie na nukleon. Ze železa nelze energii získat štěpením ani syntézou, obojí by ji spotřebovalo."
+    ],
+    "memory": "Železo = vrchol vazebné energie."
+  },
+  {
+    "id": 459,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 38 · str. 56",
+    "sourcePages": "56",
+    "sourceItem": "38",
+    "question": "Proč lze získat energii rozštěpením uranu 235?",
+    "options": [
+      "jakýkoli jiný nuklid má menší schodek na nukleon",
+      "uran není radioaktivní",
+      "lehčí štěpné produkty mají větší hmotnostní schodek na nukleon",
+      "uran nelze rozštěpit"
+    ],
+    "answer": 2,
+    "title": "lehčí štěpné produkty mají větší hmotnostní schodek na nukleon",
+    "paragraphs": [
+      "Těžká jádra mají vazebnou energii na nukleon nižší než jádra uprostřed periodické soustavy. Štěpné produkty jsou pevněji vázané a rozdíl se uvolní jako energie."
+    ],
+    "memory": "Štěpení těžkých jader → pevnější produkty."
+  },
+  {
+    "id": 460,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 40 · str. 56",
+    "sourcePages": "56",
+    "sourceItem": "40",
+    "question": "Co znamená symbol λ ve vzorci zákona radioaktivní přeměny N = N₀ · e^(−λt)?",
+    "options": [
+      "poločas přeměny",
+      "vlnovou délku emitovaného záření",
+      "de Broglieovu vlnovou délku",
+      "přeměnovou konstantu"
+    ],
+    "answer": 3,
+    "title": "přeměnovou konstantu",
+    "paragraphs": [
+      "λ udává pravděpodobnost přeměny jádra za jednotku času. S poločasem souvisí vztahem T = ln 2/λ."
+    ],
+    "memory": "λ = přeměnová konstanta, T = 0,693/λ."
+  },
+  {
+    "id": 461,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 42 · str. 56",
+    "sourcePages": "56",
+    "sourceItem": "42",
+    "question": "K čemu slouží moderátor v jaderném reaktoru?",
+    "options": [
+      "ke zpomalování neutronů",
+      "ke zvyšování počtu neutronů",
+      "k pohlcování přebytečných neutronů",
+      "k chlazení reaktoru"
+    ],
+    "answer": 0,
+    "title": "ke zpomalování neutronů",
+    "paragraphs": [
+      "Uran 235 se nejlépe štěpí pomalými (tepelnými) neutrony, proto se rychlé neutrony zpomalují srážkami v moderátoru, například ve vodě nebo grafitu. Pohlcování neutronů zajišťují regulační tyče."
+    ],
+    "memory": "Moderátor brzdí, tyče pohlcují."
+  },
+  {
+    "id": 462,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 44 · str. 56",
+    "sourcePages": "56",
+    "sourceItem": "44",
+    "question": "Aktivita radionuklidu klesla za šest dní na osminu. Jaký je jeho poločas přeměny?",
+    "options": [
+      "6 dní",
+      "2 dny",
+      "8 dní",
+      "6/8 dne"
+    ],
+    "answer": 1,
+    "title": "2 dny",
+    "paragraphs": [
+      "Osmina odpovídá třem poločasům (1/2)³. Šest dní děleno třemi dává poločas 2 dny."
+    ],
+    "memory": "1/8 = 3 poločasy."
+  },
+  {
+    "id": 463,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 45 · str. 56",
+    "sourcePages": "56",
+    "sourceItem": "45",
+    "question": "Co je aktivita radioaktivního zářiče?",
+    "options": [
+      "přeměnová konstanta",
+      "poločas přeměny",
+      "úbytek jader zářiče za jednotku času",
+      "množství jader, která se ještě mohou přeměnit"
+    ],
+    "answer": 2,
+    "title": "úbytek jader zářiče za jednotku času",
+    "paragraphs": [
+      "A = −dN/dt = λ · N, tedy počet přeměn za sekundu. Jednotkou je becquerel (1 Bq = 1 přeměna za sekundu)."
+    ],
+    "memory": "Aktivita = přeměny za sekundu."
+  },
+  {
+    "id": 464,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 46 · str. 56",
+    "sourcePages": "56",
+    "sourceItem": "46",
+    "question": "Čeho je jednotkou becquerel (Bq)?",
+    "options": [
+      "poločasu přeměny",
+      "dávky záření",
+      "energie částic",
+      "aktivity zářiče"
+    ],
+    "answer": 3,
+    "title": "aktivity zářiče",
+    "paragraphs": [
+      "1 Bq odpovídá jedné radioaktivní přeměně za sekundu, rozměrově s⁻¹. Dávka záření se měří v grayích, dávkový ekvivalent v sievertech."
+    ],
+    "memory": "Bq = přeměna za sekundu."
+  },
+  {
+    "id": 465,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 49 · str. 57",
+    "sourcePages": "57",
+    "sourceItem": "49",
+    "question": "Jaká vlnová délka přísluší tvrdému záření gama?",
+    "options": [
+      "1 pm",
+      "100 nm",
+      "1 mm",
+      "10 mm"
+    ],
+    "answer": 0,
+    "title": "1 pm",
+    "paragraphs": [
+      "Tvrdé záření gama má vlnovou délku řádově pikometry a menší. 100 nm je ultrafialové záření, milimetry jsou mikrovlny."
+    ],
+    "memory": "Gama: pikometry."
+  },
+  {
+    "id": 466,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 50 · str. 57",
+    "sourcePages": "57",
+    "sourceItem": "50",
+    "question": "Jak nejčastěji vzniká rentgenové záření?",
+    "options": [
+      "v jádře atomu",
+      "prudkým zpomalením elektronů v látce",
+      "nárazy elektronů na katodu rentgenky",
+      "pouhým urychlením nabitých částic"
+    ],
+    "answer": 1,
+    "title": "prudkým zpomalením elektronů v látce",
+    "paragraphs": [
+      "V rentgence dopadají elektrony urychlené vysokým napětím na anodu a prudce se zabrzdí. Část jejich energie se vyzáří jako brzdné rentgenové záření."
+    ],
+    "memory": "Brzdění elektronů na anodě."
+  },
+  {
+    "id": 467,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 51 · str. 57",
+    "sourcePages": "57",
+    "sourceItem": "51",
+    "question": "Čím se charakteristické rentgenové záření vždy liší od brzdného?",
+    "options": [
+      "vlnovou délkou",
+      "energií fotonů",
+      "charakterem energetického spektra",
+      "pronikavostí"
+    ],
+    "answer": 2,
+    "title": "charakterem energetického spektra",
+    "paragraphs": [
+      "Brzdné záření má spojité spektrum. Charakteristické záření má čárové spektrum dané přechody elektronů ve vnitřních slupkách materiálu anody. Vlnové délky se mohou překrývat."
+    ],
+    "memory": "Brzdné spojité, charakteristické čárové."
+  },
+  {
+    "id": 468,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 52 · str. 57",
+    "sourcePages": "57",
+    "sourceItem": "52",
+    "question": "Kde musí být při rentgenovém snímkování umístěn detektor obrazu (film)?",
+    "options": [
+      "mezi rentgenkou a pacientem",
+      "mimo spojnici rentgenka–pacient",
+      "tak, aby byla rentgenka mezi filmem a pacientem",
+      "tak, aby byl pacient mezi rentgenkou a filmem"
+    ],
+    "answer": 3,
+    "title": "tak, aby byl pacient mezi rentgenkou a filmem",
+    "paragraphs": [
+      "Snímek je stín, který tkáně vrhají v prošlém záření. Detektor proto musí ležet za pacientem ve směru svazku."
+    ],
+    "memory": "Rentgenka → pacient → detektor."
+  },
+  {
+    "id": 469,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 53 · str. 57",
+    "sourcePages": "57",
+    "sourceItem": "53",
+    "question": "Co je vlastně rentgenový snímek?",
+    "options": [
+      "zobrazení rentgenového stínu tkání s vyšším obsahem těžších atomů",
+      "fotografie záření odraženého od kostí",
+      "zčernání filmu elektrony prošlými tělem",
+      "záznam fluorescence tkání"
+    ],
+    "answer": 0,
+    "title": "zobrazení rentgenového stínu tkání s vyšším obsahem těžších atomů",
+    "paragraphs": [
+      "Tkáně s těžšími atomy, hlavně vápníkem v kostech, pohlcují záření víc. Za nimi dopadne na film méně záření a místa zůstanou světlá."
+    ],
+    "memory": "Kost pohltí → světlý stín."
+  },
+  {
+    "id": 470,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 55 · str. 57",
+    "sourcePages": "57",
+    "sourceItem": "55",
+    "question": "Jaké spektrum má brzdné rentgenové záření?",
+    "options": [
+      "čárové",
+      "spojité",
+      "monofrekvenční",
+      "vždy s vyšší energií než charakteristické"
+    ],
+    "answer": 1,
+    "title": "spojité",
+    "paragraphs": [
+      "Elektrony se v látce brzdí různě silně a ztrácejí libovolnou část energie, proto vznikají fotony všech energií až do maxima dané napětím rentgenky."
+    ],
+    "memory": "Brzdné = spojité."
+  },
+  {
+    "id": 471,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 57 · str. 57",
+    "sourcePages": "57",
+    "sourceItem": "57",
+    "question": "Co je charakteristické rentgenové záření?",
+    "options": [
+      "druh jaderného záření",
+      "záření typické pro daný radionuklid",
+      "rentgenové záření s čárovým spektrem závislým na materiálu anody",
+      "zvláštní druh záření beta"
+    ],
+    "answer": 2,
+    "title": "rentgenové záření s čárovým spektrem závislým na materiálu anody",
+    "paragraphs": [
+      "Dopadající elektron vyrazí elektron z vnitřní slupky atomu anody a uvolněné místo zaplní elektron z vyšší slupky. Rozdíl energií hladin, typický pro daný prvek, se vyzáří jako foton."
+    ],
+    "memory": "Čáry = otisk prvku anody."
+  },
+  {
+    "id": 472,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 58 · str. 57",
+    "sourcePages": "57",
+    "sourceItem": "58",
+    "question": "Kde dochází k významnému ohybu rentgenového záření?",
+    "options": [
+      "v magnetickém poli",
+      "v elektrickém poli",
+      "na rozhraní dvou prostředí s různým indexem lomu",
+      "v krystalové mřížce"
+    ],
+    "answer": 3,
+    "title": "v krystalové mřížce",
+    "paragraphs": [
+      "Vlnová délka rentgenového záření je srovnatelná se vzdálenostmi atomů v krystalu, takže krystal působí jako ohybová mřížka. Na tom stojí rentgenová strukturní analýza, například DNA."
+    ],
+    "memory": "Krystal = mřížka pro RTG."
+  },
+  {
+    "id": 473,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 60 · str. 58",
+    "sourcePages": "58",
+    "sourceItem": "60",
+    "question": "Světlo vyvolává fotoelektrický jev. Jak se změní děj, zkrátíme-li vlnovou délku fotonů při zachování jejich počtu?",
+    "options": [
+      "zvýší se energie uvolňovaných elektronů",
+      "sníží se energie uvolňovaných elektronů",
+      "zvýší se počet uvolňovaných elektronů",
+      "sníží se počet uvolňovaných elektronů"
+    ],
+    "answer": 0,
+    "title": "zvýší se energie uvolňovaných elektronů",
+    "paragraphs": [
+      "Kratší vlnová délka znamená větší energii fotonu E = h · c/λ. Po odečtení výstupní práce zbude elektronům víc kinetické energie. Počet elektronů závisí na počtu fotonů, ten se nemění."
+    ],
+    "memory": "Kratší λ = rychlejší elektrony."
+  },
+  {
+    "id": 474,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 61 · str. 58",
+    "sourcePages": "58",
+    "sourceItem": "61",
+    "question": "Čím se Comptonův jev liší od fotoelektrického jevu?",
+    "options": [
+      "foton po interakci zkrátí vlnovou délku",
+      "foton po interakci nezaniká, ale prodlouží se jeho vlnová délka",
+      "dopadající elektrony vybuzují rentgenové záření",
+      "vyraženým elektronům lze přiřadit de Broglieovu vlnovou délku"
+    ],
+    "answer": 1,
+    "title": "foton po interakci nezaniká, ale prodlouží se jeho vlnová délka",
+    "paragraphs": [
+      "Při fotoefektu foton předá elektronu veškerou energii a zanikne. Při Comptonově rozptylu předá jen část energie a pokračuje s nižší energií, tedy delší vlnovou délkou."
+    ],
+    "memory": "Compton: rozptýlený foton je delší vlny."
+  },
+  {
+    "id": 475,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 68 · str. 58",
+    "sourcePages": "58",
+    "sourceItem": "68",
+    "question": "Na jakém principu pracuje laser?",
+    "options": [
+      "na spontánní emisi světla",
+      "na usměrnění světla jediným směrem",
+      "na stimulované emisi světla",
+      "na fotoelektrickém jevu"
+    ],
+    "answer": 2,
+    "title": "na stimulované emisi světla",
+    "paragraphs": [
+      "Foton vyvolá v excitovaném atomu vyzáření dalšího fotonu se stejnou energií, fází i směrem. Název LASER zkracuje Light Amplification by Stimulated Emission of Radiation."
+    ],
+    "memory": "Laser = stimulovaná emise."
+  },
+  {
+    "id": 476,
+    "subject": "Biologie",
+    "category": "Biologie · Životní funkce organismů",
+    "bookRef": "LF MU · Biologie · Životní funkce organismů 14 · str. 149",
+    "sourcePages": "149",
+    "sourceItem": "14",
+    "question": "Který z uvedených příkladů je příkladem gonochorismu?",
+    "options": [
+      "hermafrodité",
+      "jednodomé rostliny",
+      "nepohlavně se rozmnožující hmyz",
+      "dvoudomé rostliny"
+    ],
+    "answer": 3,
+    "title": "dvoudomé rostliny",
+    "paragraphs": [
+      "Gonochorismus znamená oddělené pohlaví, každý jedinec je buď samčí, nebo samičí. U rostlin tomu odpovídá dvoudomost."
+    ],
+    "memory": "Gonochorista = jedinec jednoho pohlaví."
+  },
+  {
+    "id": 477,
+    "subject": "Biologie",
+    "category": "Biologie · Životní funkce organismů",
+    "bookRef": "LF MU · Biologie · Životní funkce organismů 15 · str. 149",
+    "sourcePages": "149",
+    "sourceItem": "15",
+    "question": "Jaký zrakový orgán mají členovci?",
+    "options": [
+      "složené oči",
+      "komorové oči",
+      "miskovité oči",
+      "jen světločivné skvrny"
+    ],
+    "answer": 0,
+    "title": "složené oči",
+    "paragraphs": [
+      "Složené (facetové) oko je tvořeno mnoha omatidii, z nichž každé zachytí malou část obrazu. Komorové oko mají hlavonožci a obratlovci."
+    ],
+    "memory": "Členovec = složené oko."
+  },
+  {
+    "id": 478,
+    "subject": "Biologie",
+    "category": "Biologie · Životní funkce organismů",
+    "bookRef": "LF MU · Biologie · Životní funkce organismů 18 · str. 149",
+    "sourcePages": "149",
+    "sourceItem": "18",
+    "question": "Co je pohlavní dimorfismus?",
+    "options": [
+      "odlišnost pohlavních buněk různého pohlaví",
+      "vzhledová odlišnost jedinců různého pohlaví",
+      "odlišnost haploidních a diploidních jedinců",
+      "dvě stadia růstu patogenních hub"
+    ],
+    "answer": 1,
+    "title": "vzhledová odlišnost jedinců různého pohlaví",
+    "paragraphs": [
+      "Pohlavní dimorfismus jsou rozdíly mezi samci a samicemi ve velikosti, zbarvení nebo tvaru těla, například paroží jelena nebo pestré peří kohoutů."
+    ],
+    "memory": "Páv a pávice = dimorfismus."
+  },
+  {
+    "id": 479,
+    "subject": "Biologie",
+    "category": "Biologie · Životní funkce organismů",
+    "bookRef": "LF MU · Biologie · Životní funkce organismů 24 · str. 149",
+    "sourcePages": "149",
+    "sourceItem": "24",
+    "question": "Co platí o nepohlavním rozmnožování rostlin?",
+    "options": [
+      "zvyšuje frekvenci genových rekombinací",
+      "zabraňuje vzniku mutací",
+      "stabilizuje získané vlastnosti",
+      "je typické jen pro jednodomé rostliny"
+    ],
+    "answer": 2,
+    "title": "stabilizuje získané vlastnosti",
+    "paragraphs": [
+      "Potomci vznikají mitózou a jsou geneticky shodní s rodičem (klon), proto se v zahradnictví množí řízky odrůdy se žádanými vlastnostmi. Mutace mohou vznikat i tak, rekombinace ne."
+    ],
+    "memory": "Řízek = klon rodiče."
+  },
+  {
+    "id": 480,
+    "subject": "Biologie",
+    "category": "Biologie · Životní funkce organismů",
+    "bookRef": "LF MU · Biologie · Životní funkce organismů 25 · str. 150",
+    "sourcePages": "150",
+    "sourceItem": "25",
+    "question": "Které tvrzení o onemocněních je nesprávné?",
+    "options": [
+      "arterioskleróza vzniká ukládáním cholesterolových plátů ve stěnách tepen",
+      "srdeční infarkt vzniká uzávěrem větve věnčité tepny",
+      "embolie je náhlý uzávěr cévy, například utrženým trombem",
+      "borelióza je virové onemocnění přenášené klíšťaty"
+    ],
+    "answer": 3,
+    "title": "borelióza je virové onemocnění přenášené klíšťaty",
+    "paragraphs": [
+      "Lymskou boreliózu způsobují bakterie (spirochety) rodu Borrelia, proto se léčí antibiotiky. Virová je klíšťová encefalitida."
+    ],
+    "memory": "Borelióza bakterie, encefalitida virus."
+  },
+  {
+    "id": 481,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "LF MU · Biologie · Evoluční biologie 4 · str. 150",
+    "sourcePages": "150",
+    "sourceItem": "4",
+    "question": "Z čeho vyplývá závěr, že první eukaryotní buňky vznikly zhruba před 1,5 miliardy let?",
+    "options": [
+      "ze stáří sedimentů s mikroskopicky prokazatelnými zkamenělinami buněk řas",
+      "z měření radioaktivity ¹⁴C ve zkamenělinách fytoplanktonu",
+      "z odhadu rychlosti evoluce mnohobuněčných organismů",
+      "z frekvence záměn bází v DNA fosilií"
+    ],
+    "answer": 0,
+    "title": "ze stáří sedimentů s mikroskopicky prokazatelnými zkamenělinami buněk řas",
+    "paragraphs": [
+      "Radiouhlíková metoda je použitelná jen asi do 50 000 let a DNA se ve fosiliích tak starých nezachová. Stáří se určuje podle datování hornin, ve kterých se nacházejí mikrofosilie eukaryotních buněk."
+    ],
+    "memory": "Staré fosilie = datování hornin."
+  },
+  {
+    "id": 482,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "LF MU · Biologie · Evoluční biologie 7 · str. 150",
+    "sourcePages": "150",
+    "sourceItem": "7",
+    "question": "Které tvrzení o vývoji člověka je správné?",
+    "options": [
+      "nejstarším zástupcem hominidů je Aegyptopithecus",
+      "nálezy Homo habilis pocházejí z Afriky",
+      "hominizací vznikla řeč",
+      "australopitéci byli nalezeni v Austrálii"
+    ],
+    "answer": 1,
+    "title": "nálezy Homo habilis pocházejí z Afriky",
+    "paragraphs": [
+      "Homo habilis je znám z východní Afriky (například Olduvai). Australopitéci jsou „jižní opi“ také z Afriky, s Austrálií název nesouvisí. Aegyptopithecus je mnohem starší primát."
+    ],
+    "memory": "Habilis = Afrika."
+  },
+  {
+    "id": 483,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "LF MU · Biologie · Evoluční biologie 8 · str. 150",
+    "sourcePages": "150",
+    "sourceItem": "8",
+    "question": "Co je charakteristické pro sapientaci?",
+    "options": [
+      "změna polohy týlního otvoru",
+      "vývoj mozkového kmene",
+      "vývoj čelních mozkových laloků",
+      "bipedální chůze umožňující práci rukou"
+    ],
+    "answer": 2,
+    "title": "vývoj čelních mozkových laloků",
+    "paragraphs": [
+      "Sapientace je vývoj psychiky, myšlení a řeči spojený s růstem mozku, hlavně čelních laloků. Vzpřímená chůze a posun týlního otvoru patří k hominizaci."
+    ],
+    "memory": "Hominizace tělo, sapientace mysl."
+  },
+  {
+    "id": 484,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "LF MU · Biologie · Evoluční biologie 9 · str. 151",
+    "sourcePages": "151",
+    "sourceItem": "9",
+    "question": "Ve které odpovědi jsou vývojové stupně člověka seřazeny od nejstaršího?",
+    "options": [
+      "Ramapithecus, Proconsul, Homo habilis, Homo erectus",
+      "Ramapithecus, Proconsul, Homo erectus, Homo habilis",
+      "Proconsul, Ramapithecus, Homo erectus, Homo habilis",
+      "Proconsul, Ramapithecus, Homo habilis, Homo erectus"
+    ],
+    "answer": 3,
+    "title": "Proconsul, Ramapithecus, Homo habilis, Homo erectus",
+    "paragraphs": [
+      "Proconsul žil asi před 20 miliony let, Ramapithecus asi před 12 miliony let. Homo habilis (asi 2 miliony let) předchází Homo erectus."
+    ],
+    "memory": "Proconsul → Rama → habilis → erectus."
+  },
+  {
+    "id": 485,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "LF MU · Biologie · Evoluční biologie 11 · str. 151",
+    "sourcePages": "151",
+    "sourceItem": "11",
+    "question": "Kdo opustil Afriku, žil v Evropě a Asii, ovládl oheň a dorozumíval se primitivní řečí?",
+    "options": [
+      "Homo erectus",
+      "Homo habilis",
+      "australopiték",
+      "Homo sapiens"
+    ],
+    "answer": 0,
+    "title": "Homo erectus",
+    "paragraphs": [
+      "Homo erectus se před 1,8 milionu let rozšířil z Afriky do Asie a Evropy (například pekingský člověk) a jako první systematicky používal oheň."
+    ],
+    "memory": "Erectus: oheň a cesta z Afriky."
+  },
+  {
+    "id": 486,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "LF MU · Biologie · Evoluční biologie 12 · str. 151",
+    "sourcePages": "151",
+    "sourceItem": "12",
+    "question": "Které tvrzení o hominizaci není správné?",
+    "options": [
+      "zahrnuje vývojové změny tělesné stavby",
+      "je to proces psychických a sociálních změn",
+      "zahrnuje napřimování postavy",
+      "souvisí se vznikem bipedie"
+    ],
+    "answer": 1,
+    "title": "je to proces psychických a sociálních změn",
+    "paragraphs": [
+      "Hominizace označuje tělesné změny vedoucí k člověku, hlavně vzpřímený postoj a bipedii. Psychický a sociální vývoj se označuje jako sapientace."
+    ],
+    "memory": "Hominizace = tělo."
+  },
+  {
+    "id": 487,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie, všeobecný přehled",
+    "bookRef": "LF MU · Biologie · Ekologie, všeobecný přehled 15 · str. 153",
+    "sourcePages": "153",
+    "sourceItem": "15",
+    "question": "Které tvrzení o vzniku života a buněčných organel není správné?",
+    "options": [
+      "organické sloučeniny vznikaly v bezkyslíkaté atmosféře pravěké Země",
+      "teorii samoplození vyvrátil L. Pasteur",
+      "mitochondrie rostlinných buněk vznikly ze sinic",
+      "J. B. Lamarck podal první ucelený názor na vývoj přírody"
+    ],
+    "answer": 2,
+    "title": "mitochondrie rostlinných buněk vznikly ze sinic",
+    "paragraphs": [
+      "Mitochondrie rostlin i živočichů vznikly z aerobních bakterií (α-proteobakterií). Ze sinic vznikly chloroplasty."
+    ],
+    "memory": "Mitochondrie z bakterií, chloroplasty ze sinic."
+  },
+  {
+    "id": 488,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie, všeobecný přehled",
+    "bookRef": "LF MU · Biologie · Ekologie, všeobecný přehled 1 · str. 151",
+    "sourcePages": "151",
+    "sourceItem": "1",
+    "question": "Co je ekologická nika druhu?",
+    "options": [
+      "jen postavení druhu vůči jiným organismům",
+      "jen soubor abiotických podmínek prostředí",
+      "soubor všech organismů na daném území",
+      "prostor, který druh zaujímá v ekosystému, včetně jeho funkce"
+    ],
+    "answer": 3,
+    "title": "prostor, který druh zaujímá v ekosystému, včetně jeho funkce",
+    "paragraphs": [
+      "Nika zahrnuje všechny podmínky a zdroje, které druh potřebuje, i jeho roli v ekosystému. Dva druhy se stejnou nikou nemohou dlouhodobě koexistovat."
+    ],
+    "memory": "Nika = adresa i povolání druhu."
+  },
+  {
+    "id": 489,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie, všeobecný přehled",
+    "bookRef": "LF MU · Biologie · Ekologie, všeobecný přehled 2 · str. 151",
+    "sourcePages": "151",
+    "sourceItem": "2",
+    "question": "Jak se nazývají všechny organismy, které žijí společně na určitém území?",
+    "options": [
+      "biocenóza",
+      "zoocenóza",
+      "fytocenóza",
+      "ekosystém"
+    ],
+    "answer": 0,
+    "title": "biocenóza",
+    "paragraphs": [
+      "Biocenóza (společenstvo) zahrnuje rostliny (fytocenózu), živočichy (zoocenózu) i mikroorganismy. Ekosystém tvoří biocenóza spolu s neživým prostředím."
+    ],
+    "memory": "Bio = vše živé."
+  },
+  {
+    "id": 490,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie, všeobecný přehled",
+    "bookRef": "LF MU · Biologie · Ekologie, všeobecný přehled 4 · str. 151",
+    "sourcePages": "151",
+    "sourceItem": "4",
+    "question": "Jaké záření rostliny využívají k fotosyntéze?",
+    "options": [
+      "ultrafialové záření",
+      "viditelné světlo",
+      "infračervené záření",
+      "záření všech vlnových délek"
+    ],
+    "answer": 1,
+    "title": "viditelné světlo",
+    "paragraphs": [
+      "Chlorofyly pohlcují hlavně modrou a červenou část viditelného spektra (asi 400–700 nm, fotosynteticky aktivní záření). Zelenou odrážejí."
+    ],
+    "memory": "Fotosyntéza: 400–700 nm."
+  },
+  {
+    "id": 491,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie, všeobecný přehled",
+    "bookRef": "LF MU · Biologie · Ekologie, všeobecný přehled 5 · str. 151",
+    "sourcePages": "151",
+    "sourceItem": "5",
+    "question": "Jak se změní intenzita fotosyntézy při malém zvýšení koncentrace CO₂ v atmosféře?",
+    "options": [
+      "sníží se",
+      "nezmění se",
+      "zvýší se",
+      "začne kolísat"
+    ],
+    "answer": 2,
+    "title": "zvýší se",
+    "paragraphs": [
+      "CO₂ je substrátem Calvinova cyklu a jeho běžná koncentrace fotosyntézu omezuje. Mírné zvýšení ji proto urychlí, toho se využívá i ve sklenících."
+    ],
+    "memory": "Více CO₂ = rychlejší fotosyntéza."
+  },
+  {
+    "id": 492,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie, všeobecný přehled",
+    "bookRef": "LF MU · Biologie · Ekologie, všeobecný přehled 7 · str. 152",
+    "sourcePages": "152",
+    "sourceItem": "7",
+    "question": "Jak je definován ekosystém?",
+    "options": [
+      "jako systém vztahů jen mezi živými organismy",
+      "jako systém tvořený jen abiotickými složkami",
+      "jako systém zahrnující několik biomů",
+      "jako otevřený dynamický systém vztahů organismů a abiotických složek prostředí"
+    ],
+    "answer": 3,
+    "title": "jako otevřený dynamický systém vztahů organismů a abiotických složek prostředí",
+    "paragraphs": [
+      "Ekosystém je funkční celek biocenózy a jejího neživého prostředí, kterým protéká energie a kolují látky. Je otevřený, přijímá sluneční energii."
+    ],
+    "memory": "Ekosystém = živé + neživé."
+  },
+  {
+    "id": 493,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie, všeobecný přehled",
+    "bookRef": "LF MU · Biologie · Ekologie, všeobecný přehled 8 · str. 152",
+    "sourcePages": "152",
+    "sourceItem": "8",
+    "question": "Které tvrzení o způsobech výživy není správné?",
+    "options": [
+      "fotosyntéza je příkladem heterotrofie",
+      "saprofyti se živí odumřelými těly organismů",
+      "paraziti odnímají živiny živým organismům",
+      "mixotrofií se živí například masožravé rostliny"
+    ],
+    "answer": 0,
+    "title": "fotosyntéza je příkladem heterotrofie",
+    "paragraphs": [
+      "Fotosyntéza je autotrofie, organismus si vytváří organické látky z CO₂ a vody. Masožravé rostliny fotosyntetizují a navíc trávením kořisti získávají dusík, proto jsou mixotrofní."
+    ],
+    "memory": "Fotosyntéza = autotrofie."
+  },
+  {
+    "id": 494,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie, všeobecný přehled",
+    "bookRef": "LF MU · Biologie · Ekologie, všeobecný přehled 9 · str. 152",
+    "sourcePages": "152",
+    "sourceItem": "9",
+    "question": "Který plyn vyvolává při zvýšení koncentrace v atmosféře zesílení skleníkového efektu?",
+    "options": [
+      "SO₂",
+      "CO₂",
+      "O₂",
+      "amoniak"
+    ],
+    "answer": 1,
+    "title": "CO₂",
+    "paragraphs": [
+      "Oxid uhličitý propouští sluneční světlo, ale pohlcuje infračervené záření vyzařované zemským povrchem. Dalšími skleníkovými plyny jsou metan, oxid dusný a vodní pára. SO₂ způsobuje kyselé deště."
+    ],
+    "memory": "CO₂ = skleník, SO₂ = kyselé deště."
+  },
+  {
+    "id": 495,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie, všeobecný přehled",
+    "bookRef": "LF MU · Biologie · Ekologie, všeobecný přehled 10 · str. 152",
+    "sourcePages": "152",
+    "sourceItem": "10",
+    "question": "Které tvrzení o znečištění prostředí není správné?",
+    "options": [
+      "kyselé deště způsobuje hlavně vymývání oxidu siřičitého ze vzduchu",
+      "eutrofizaci vody způsobuje vysoký obsah dusíku a fosforu",
+      "plasty lze úspěšně likvidovat jen pomocí denitrifikačních bakterií",
+      "z radioaktivního zamoření patří k nejnebezpečnějším izotopy stroncia"
+    ],
+    "answer": 2,
+    "title": "plasty lze úspěšně likvidovat jen pomocí denitrifikačních bakterií",
+    "paragraphs": [
+      "Denitrifikační bakterie přeměňují dusičnany na dusík a s rozkladem plastů nesouvisejí. Plasty se v přírodě rozkládají jen velmi pomalu, recyklují se nebo spalují."
+    ],
+    "memory": "Denitrifikace = dusičnany na N₂."
+  },
+  {
+    "id": 496,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie, všeobecný přehled",
+    "bookRef": "LF MU · Biologie · Ekologie, všeobecný přehled 12 · str. 152",
+    "sourcePages": "152",
+    "sourceItem": "12",
+    "question": "Která moderní technologie je největším příslibem pro léčbu degenerativních chorob, jako jsou Parkinsonova choroba, cukrovka nebo artróza?",
+    "options": [
+      "techniky rekombinantní DNA",
+      "transplantace orgánů",
+      "klonování",
+      "buněčné technologie, například kmenové buňky"
+    ],
+    "answer": 3,
+    "title": "buněčné technologie, například kmenové buňky",
+    "paragraphs": [
+      "U degenerativních chorob odumírají konkrétní buňky (dopaminergní neurony, β-buňky, chondrocyty). Kmenové buňky by je mohly nahradit, protože se umějí diferencovat v různé typy buněk."
+    ],
+    "memory": "Ztracené buňky → kmenové buňky."
+  },
+  {
+    "id": 497,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie, všeobecný přehled",
+    "bookRef": "LF MU · Biologie · Ekologie, všeobecný přehled 13 · str. 152",
+    "sourcePages": "152",
+    "sourceItem": "13",
+    "question": "K čemu se používá Amesův test?",
+    "options": [
+      "k testování mutagenity látek",
+      "k testování toxicity látek",
+      "k detekci chromozomových přestaveb",
+      "k testování síly genové vazby"
+    ],
+    "answer": 0,
+    "title": "k testování mutagenity látek",
+    "paragraphs": [
+      "Amesův test sleduje, zda látka vyvolá zpětné mutace u kmenů bakterie Salmonella, které nedokážou syntetizovat histidin. Mutagenní látky jsou často i karcinogenní."
+    ],
+    "memory": "Ames = mutace u salmonel."
+  },
+  {
+    "id": 498,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie, všeobecný přehled",
+    "bookRef": "LF MU · Biologie · Ekologie, všeobecný přehled 14 · str. 152",
+    "sourcePages": "152",
+    "sourceItem": "14",
+    "question": "Které tvrzení z ekologie není správné?",
+    "options": [
+      "ekosystémy jsou základní jednotky biosféry",
+      "populace je soubor jedinců různých druhů, kteří se mohou křížit",
+      "biom je velký celek ekosystémů se společnými znaky",
+      "tok energie vyjadřují potravní řetězce pastevní, rozkladné a parazitické"
+    ],
+    "answer": 1,
+    "title": "populace je soubor jedinců různých druhů, kteří se mohou křížit",
+    "paragraphs": [
+      "Populace je soubor jedinců téhož druhu na určitém území, kteří se mohou křížit. Jedinci různých druhů tvoří společenstvo."
+    ],
+    "memory": "Populace = jeden druh."
+  },
+  {
+    "id": 499,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie, všeobecný přehled",
+    "bookRef": "LF MU · Biologie · Ekologie, všeobecný přehled 16 · str. 153",
+    "sourcePages": "153",
+    "sourceItem": "16",
+    "question": "Jak doplnit zprávu: „Během … eboly v západní Africe se … onemocněním způsobujícím … nakazilo přes 24 000 lidí“?",
+    "options": [
+      "pandemie, virovým, encefalitidu",
+      "epidemie, bakteriálním, zánět jater",
+      "epidemie, virovým, krvácivou horečku",
+      "pandemie, bakteriálním, meningitidu"
+    ],
+    "answer": 2,
+    "title": "epidemie, virovým, krvácivou horečku",
+    "paragraphs": [
+      "Ebola je virové onemocnění vyvolávající hemoragickou (krvácivou) horečku. Šlo o epidemii omezenou na region západní Afriky, pandemie by zasáhla více kontinentů."
+    ],
+    "memory": "Ebola = virus, krvácivá horečka."
+  },
+  {
+    "id": 500,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie, všeobecný přehled",
+    "bookRef": "LF MU · Biologie · Ekologie, všeobecný přehled 17 · str. 153",
+    "sourcePages": "153",
+    "sourceItem": "17",
+    "question": "Genom kterého primáta byl jako první zmapován v roce 2005?",
+    "options": [
+      "gorily",
+      "orangutana",
+      "gibona",
+      "šimpanze"
+    ],
+    "answer": 3,
+    "title": "šimpanze",
+    "paragraphs": [
+      "Genom šimpanze, nejbližšího žijícího příbuzného člověka, byl publikován v roce 2005. Shoduje se s lidským zhruba v 98–99 % sekvence."
+    ],
+    "memory": "Šimpanz 2005, asi 99 % shody."
+  }
+]

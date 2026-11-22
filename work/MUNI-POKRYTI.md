@@ -167,6 +167,15 @@ Elementární částice 1–25: 4 (klíč „žádná“, varianta 416), 10 (var
 
 Organická chemie úlohy 1–46: 1–5, 13, 15, 17, 48, 49 (vzorce jen jako obrázek), 6 (název dvojvazného zbytku, „ethylen“ i „dimethylen“ se používají), 7, 8, 10–12 (vinyl, fenyl, benzyl, UK 306, 325–326), 23 (klíč „žádná“, všechny možnosti jsou izomery), 24 (název 3-methylbut-2-en je chybný), 26 (klíč „žádná“), 32 (ether a alkohol, UK 282), 34, 35, 37 (varianty 446–447), 39 a 42 (tautomerie vinylalkoholu a cis-trans izomerie, UK 276 a 424). Úlohy 40, 41, 43, 44, 47 a dál čekají na další dávku.
 
-Dosud nepokryté oddíly: fyzika jaderná a kvantová 26–71, zbylé úlohy prvních kapitol; chemie Organická chemie od úlohy 40, Biochemie a zbylé úlohy prvních kapitol; biologie Životní funkce 10, 14, 15, 18, 24, 25, Evoluce, Ekologie.
+## Dávka 451–500 (verze 2.62.0)
+
+Fyzika, Elementární částice, jaderná a kvantová fyzika (str. 55–58), ID 451–475: úlohy 26, 27, 29, 30, 31, 34, 35, 37, 38, 40, 42, 44, 45, 46, 49, 50, 51, 52, 53, 55, 57, 58, 60, 61, 68. Klíč k úlohám 26–71 v publikaci chybí, odpovědi jsou ověřené výpočtem a výkladem (alfa A − 4, β⁻ Z + 1, poločasy, vazebná energie na nukleon, rentgenové a fotoelektrické jevy). Úloha 31 je přeformulovaná na „teoreticky nikdy“.
+
+Biologie, ID 476–500:
+- Životní funkce (str. 149–150): 14, 15, 18, 24, 25 (25 s klíčem „není správné“: borelióza je bakteriální).
+- Evoluční biologie (str. 150–151): 4, 7, 8, 9, 11, 12. Vynecháno: 1 (3,5 mld. let, SOM 3), 2 (sapientace, pokrývá úloha 8), 3 a 5 (Darwin, přírodní výběr a vznik druhů, ČB 131), 6 (klíč „žádná“, stejná znalost jako Ekologie 15), 10 (zařazení neandertálce je sporné, Homo sapiens neanderthalensis i samostatný druh H. neanderthalensis).
+- Ekologie (str. 151–153): 1, 2, 4, 5, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17. Vynecháno: 3 (sporný klíč c „soubor populací“, odporuje úloze 14c, podle níž je biom celek ekosystémů se společnými znaky), 6 (zoocenóza, pojem vysvětlen v úloze 2), 11 (priony jsou bílkoviny, ne RNA, BIO 535).
+
+Dosud nepokryté oddíly: fyzika jaderná a kvantová 28, 32, 33, 36, 39, 41, 43, 47, 48, 54, 56, 59, 62–67, 69–71 (bez klíče), zbylé úlohy prvních kapitol; chemie Organická chemie od úlohy 40, Biochemie a zbylé úlohy prvních kapitol; biologie Životní funkce 10.
 
 Druhý soubor `877344967-LF-MU-Modelove-Otazky-New.pdf` je podle vlastníka (21. 11. 2026) stejná publikace jako hlavní soubor Mornstein a kol. Samostatně se nepokrývá; zdrojem kvízu LF MU je jen hlavní soubor.
