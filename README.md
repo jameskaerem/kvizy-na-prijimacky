@@ -1,8 +1,8 @@
 # Studijní kvízy
 
-Verze 2.55.0 • 22. 11. 2026
+Verze 2.56.0 • 22. 11. 2026
 
-Somatologie (630), Biologie (900), České Budějovice (683), Modelové testové otázky k přijímacím zkouškám na LF MU (300) a Modelové otázky 2. LF UK – Univerzita Karlova (350). Samostatný soubor HTML funguje offline. Všechny předměty mají chytré procvičování, opakování chyb a tipů a test celé sady.
+Somatologie (630), Biologie (900), České Budějovice (683), Modelové testové otázky k přijímacím zkouškám na LF MU (350) a Modelové otázky 2. LF UK – Univerzita Karlova (350). Samostatný soubor HTML funguje offline. Všechny předměty mají chytré procvičování, opakování chyb a tipů a test celé sady.
 
 ## Vzhled
 
@@ -113,7 +113,7 @@ Testy vykonávají skutečný JavaScript aplikace s minimálním adaptérem DOM.
 Nové otázky jsou založeny na učebnici. Sporné obecné údaje o antikoncepci a přenosu HIV byly porovnány s primárními zdroji; zastaralé dávky, léčebné postupy a právní informace se netestují. Doplňkové ověření: [WHO – antikoncepce](https://www.who.int/health-topics/contraception/), [WHO – HIV/AIDS](https://www.who.int/news-room/fact-sheets/detail/hiv-aids/), [NHGRI – chromozomové odchylky](https://www.genome.gov/about-genomics/fact-sheets/Chromosome-Abnormalities-Fact-Sheet).
 ## Modelové testové otázky k přijímacím zkouškám na LF MU (fyzika, chemie, biologie)
 
-Čtvrtá záložka obsahuje 300 vlastních otázek podle publikace Mornstein, Dostál, Slaninová (Masarykova univerzita, 2018, ISBN 978-80-210-9045-3): 137 fyzika, 83 chemie, 80 biologie. Dávky 101–150 až 251–300 přibyly ve verzích 2.48.0, 2.50.0, 2.52.0 a 2.54.0. Výběr všech otázek nebo jednotlivého předmětu, vlastní uložený pokrok a rozpracovaná kola podle sekcí. Starší zálohy tří předchozích sad zůstávají kompatibilní. Evidence zdrojů a další postup v [mapě LF MU](work/MUNI-POKRYTI.md).
+Čtvrtá záložka obsahuje 350 vlastních otázek podle publikace Mornstein, Dostál, Slaninová (Masarykova univerzita, 2018, ISBN 978-80-210-9045-3): 177 fyzika, 93 chemie, 80 biologie. Dávky 101–150 až 301–350 přibyly ve verzích 2.48.0, 2.50.0, 2.52.0, 2.54.0 a 2.56.0. Výběr všech otázek nebo jednotlivého předmětu, vlastní uložený pokrok a rozpracovaná kola podle sekcí. Starší zálohy tří předchozích sad zůstávají kompatibilní. Evidence zdrojů a další postup v [mapě LF MU](work/MUNI-POKRYTI.md).
 
 ## Univerzita Karlova – modelové otázky 2. LF UK (fyzika, chemie, biologie)
 
