@@ -467,6 +467,14 @@ Vynechané: 7.55 (jako 7.54), 7.56 (jako 7.35), 7.60 (LF MU 12), 7.66 (jako 7.44
 
 Test `work/check.cjs` u kontroly částečné odpovědi nově volí jistě chybnou možnost. Dřív náhodně selhal, když druhá vylosovaná otázka měla správné obě zaškrtnuté možnosti.
 
+## Dávka ID 1351–1400: Amler, zbytek kap. 8 a začátek kap. 9 (v2.89.0)
+
+Použité úlohy (ID): 8.39–8.46 (1351–1358), 8.48–8.50 (1359–1361), 8.52, 8.53 (1362–1363), 8.56–8.61 (1364–1369), 8.65 (1370), 8.70 (1371), 8.72–8.77 (1372–1377), 8.79–8.92 (1378–1391), 8.94, 8.95 (1392–1393), 8.97, 8.98 (1394–1395), kap. 9 „Elektromagnetické vlnění“: 9.01, 9.02, 9.04, 9.06, 9.11 (1396–1400). Klíč všech 50 otázek odpovídá klíči knihy, výpočty (8.42, 8.43, 8.91, 9.06) jsou přepočítané. U 8.42 a 8.43 export ztratil odmocniny, možnosti jsou doplněné podle významu (A √3 a D √2 u 8.42, D √3 u 8.43) a odpovídají klíči.
+
+Vynechané: 8.47 (LF MU 334), 8.51 (jako 8.09), 8.54 (jako 8.53), 8.55 (jako 7.04), 8.62 (jako 7.16), 8.63 (jako 8.05), 8.64 (LF MU 316), 8.66–8.68 (LF MU 335–337), 8.69 a 8.78 (jako 8.74 a LF MU 327), 8.71 (jako 8.70 a 8.72), 8.93 (jako 7.08), 8.96 (jako 8.36), 8.99 (možnosti v exportu patří k jiné úloze), 9.03 (zrcadlová k 9.02), 9.05 (jako 8.06), 9.07 (exponenty v exportu nerozlišitelné), 9.08 (jako 9.06). Úlohy 9.09 a 9.10 přejdou do další dávky.
+
+Test `work/check.cjs`: zjednodušený model DOM teď přidá všechny třídy z `classList.add(...)`. Dřív se u správné nevybrané možnosti zapsala jen třída `correct` bez `missed`.
+
 ## Stav pokrytí
 
-Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) je posouzená celá včetně úloh s více správnými odpověďmi (ID 738–1000). Fyzika (Amler, celá kniha 907 úloh) je posouzená v kap. 1–7 a v kap. 8 po úlohu 8.38. Další dávka začne od ID 1351 úlohou 8.39.
+Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) je posouzená celá včetně úloh s více správnými odpověďmi (ID 738–1000). Fyzika (Amler, celá kniha 907 úloh) je posouzená v kap. 1–8 a v kap. 9 po úlohu 9.11 (bez 9.09 a 9.10). Další dávka začne od ID 1401 úlohami 9.09 a 9.10.
