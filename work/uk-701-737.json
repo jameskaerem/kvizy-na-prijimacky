@@ -1,0 +1,779 @@
+[
+  {
+    "id": 701,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie",
+    "bookRef": "UK · Biologie · Ekologie · otázka 876 · str. 185",
+    "sourcePages": "185",
+    "sourceItem": "876",
+    "question": "Které chráněné území patří mezi maloplošná zvláště chráněná území?",
+    "options": [
+      "národní přírodní rezervace",
+      "chráněná krajinná oblast",
+      "národní park",
+      "přírodní park"
+    ],
+    "answer": 0,
+    "title": "národní přírodní rezervace",
+    "paragraphs": [
+      "Maloplošná zvláště chráněná území jsou národní přírodní rezervace, přírodní rezervace, národní přírodní památky a přírodní památky. Národní parky a chráněné krajinné oblasti jsou velkoplošná území, přírodní park není zvláště chráněným územím."
+    ],
+    "memory": "NPR = malá plocha, nejpřísnější ochrana."
+  },
+  {
+    "id": 702,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie",
+    "bookRef": "UK · Biologie · Ekologie · otázka 877 · str. 185",
+    "sourcePages": "185",
+    "sourceItem": "877",
+    "question": "Které z uvedených chráněných území není národním parkem?",
+    "options": [
+      "Šumava",
+      "Český ráj",
+      "Krkonoše",
+      "Podyjí"
+    ],
+    "answer": 1,
+    "title": "Český ráj",
+    "paragraphs": [
+      "Českou republiku chrání čtyři národní parky: Krkonoše, Šumava, Podyjí a České Švýcarsko. Český ráj je chráněná krajinná oblast."
+    ],
+    "memory": "Čtyři NP: Krkonoše, Šumava, Podyjí, České Švýcarsko."
+  },
+  {
+    "id": 703,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie",
+    "bookRef": "UK · Biologie · Ekologie · otázka 878 · str. 185",
+    "sourcePages": "185",
+    "sourceItem": "878",
+    "question": "Které organismy jsou nejvýznamnějšími producenty v oceánském biomu?",
+    "options": [
+      "chaluhy",
+      "ruduchy",
+      "planktonní řasy",
+      "mořské krytosemenné rostliny"
+    ],
+    "answer": 2,
+    "title": "planktonní řasy",
+    "paragraphs": [
+      "Fytoplankton (rozsivky, obrněnky, sinice) vytváří většinu primární produkce oceánů a velkou část kyslíku na Zemi. Chaluhy a ruduchy rostou jen v pobřežních mělčinách."
+    ],
+    "memory": "Moře živí drobný fytoplankton."
+  },
+  {
+    "id": 704,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie",
+    "bookRef": "UK · Biologie · Ekologie · otázka 879 · str. 186",
+    "sourcePages": "186",
+    "sourceItem": "879",
+    "question": "Který přímý účinek ionizujícího (radioaktivního) záření je nejvýznamnější?",
+    "options": [
+      "vznik alergických onemocnění",
+      "vznik kardiovaskulárních onemocnění",
+      "zvýšení pH tělních tekutin",
+      "poškození DNA a chromozomů vedoucí ke vzniku mutací"
+    ],
+    "answer": 3,
+    "title": "poškození DNA a chromozomů vedoucí ke vzniku mutací",
+    "paragraphs": [
+      "Záření ionizuje molekuly a vytváří volné radikály, které štěpí řetězce DNA a lámou chromozomy. Důsledkem jsou mutace, smrt buněk a později i nádory."
+    ],
+    "memory": "Záření míří na DNA."
+  },
+  {
+    "id": 705,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie",
+    "bookRef": "UK · Biologie · Ekologie · otázka 880 · str. 186",
+    "sourcePages": "186",
+    "sourceItem": "880",
+    "question": "Který zdroj energie patří mezi neobnovitelné?",
+    "options": [
+      "zemní plyn",
+      "vodní energie",
+      "větrná energie",
+      "sluneční energie"
+    ],
+    "answer": 0,
+    "title": "zemní plyn",
+    "paragraphs": [
+      "Fosilní paliva, tedy uhlí, ropa a zemní plyn, vznikala miliony let a jejich zásoby se vyčerpávají. Energie vody, větru a slunce se neustále obnovuje."
+    ],
+    "memory": "Fosilní = neobnovitelné."
+  },
+  {
+    "id": 706,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie",
+    "bookRef": "UK · Biologie · Ekologie · otázka 881 · str. 186",
+    "sourcePages": "186",
+    "sourceItem": "881",
+    "question": "Co zahrnuje palearktická zoogeografická oblast?",
+    "options": [
+      "Severní Ameriku",
+      "Evropu",
+      "Jižní Ameriku",
+      "jižní Afriku"
+    ],
+    "answer": 1,
+    "title": "Evropu",
+    "paragraphs": [
+      "Palearktida zahrnuje Evropu, severní Afriku a mimotropickou Asii. Severní Amerika tvoří Nearktidu, Jižní Amerika Neotropickou oblast a subsaharská Afrika Etiopskou (Afrotropickou) oblast."
+    ],
+    "memory": "Pale = starý svět, sever."
+  },
+  {
+    "id": 707,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie",
+    "bookRef": "UK · Biologie · Ekologie · otázka 883 · str. 186",
+    "sourcePages": "186",
+    "sourceItem": "883",
+    "question": "Co je typické pro většinu parazitů?",
+    "options": [
+      "zpravidla způsobí okamžitou smrt hostitele",
+      "mají vždy vyvinuty všechny orgánové soustavy",
+      "využívají hostitele tak, aby nezpůsobili jeho rychlou smrt",
+      "žijí vždy uvnitř těla hostitele"
+    ],
+    "answer": 2,
+    "title": "využívají hostitele tak, aby nezpůsobili jeho rychlou smrt",
+    "paragraphs": [
+      "Parazit je na hostiteli závislý, a jeho rychlá smrt by byla nevýhodná i pro něj. Přizpůsobení parazitismu často vede k zakrnění orgánů, například trávicí soustavy u tasemnic. Ektoparaziti žijí na povrchu těla."
+    ],
+    "memory": "Dobrý parazit hostitele nezabije."
+  },
+  {
+    "id": 708,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie",
+    "bookRef": "UK · Biologie · Ekologie · otázka 884 · str. 187",
+    "sourcePages": "187",
+    "sourceItem": "884",
+    "question": "Co platí při komensalismu?",
+    "options": [
+      "oba organismy jsou poškozeny kompeticí",
+      "jeden organismus je výrazně poškozen a druhý prospívá",
+      "oba organismy mají ze soužití prospěch",
+      "jeden organismus ze soužití prospívá a druhý není výrazně ovlivněn"
+    ],
+    "answer": 3,
+    "title": "jeden organismus ze soužití prospívá a druhý není výrazně ovlivněn",
+    "paragraphs": [
+      "Komensál využívá zbytky potravy nebo úkryt jiného druhu, aniž by mu škodil. Příkladem jsou střevní bakterie bez vlivu na hostitele nebo ryby doprovázející žraloky. Poškození jednoho z partnerů znamená parazitismus, oboustranný prospěch mutualismus."
+    ],
+    "memory": "Komensál = spolustolovník."
+  },
+  {
+    "id": 709,
+    "subject": "Biologie",
+    "category": "Biologie · Ekologie",
+    "bookRef": "UK · Biologie · Ekologie · otázka 885 · str. 187",
+    "sourcePages": "187",
+    "sourceItem": "885",
+    "question": "Mezi kým může dojít ke kompetici o potravní zdroje?",
+    "options": [
+      "mezi jedinci téhož druhu i mezi populacemi různých druhů se stejnými nároky",
+      "jen mezi predátorem a jeho kořistí",
+      "jen mezi druhy s úplně odlišnými potravními nároky",
+      "jen mezi rostlinami"
+    ],
+    "answer": 0,
+    "title": "mezi jedinci téhož druhu i mezi populacemi různých druhů se stejnými nároky",
+    "paragraphs": [
+      "Kompetice (konkurence) je soupeření o omezený zdroj. Vnitrodruhová probíhá mezi jedinci jednoho druhu, mezidruhová mezi druhy, jejichž ekologické niky se překrývají. Vztah predátora a kořisti je predace."
+    ],
+    "memory": "Stejná potrava = soupeření."
+  },
+  {
+    "id": 710,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 886 · str. 189",
+    "sourcePages": "189",
+    "sourceItem": "886",
+    "question": "Kdo a kdy poprvé zformuloval buněčnou teorii?",
+    "options": [
+      "Leeuwenhoek v polovině 17. století",
+      "Schleiden a Schwann v první polovině 19. století",
+      "Pasteur ve druhé polovině 19. století",
+      "Morgan na počátku 20. století"
+    ],
+    "answer": 1,
+    "title": "Schleiden a Schwann v první polovině 19. století",
+    "paragraphs": [
+      "Botanik Matthias Schleiden (1838) a zoolog Theodor Schwann (1839) dospěli k závěru, že rostliny i živočichové jsou složeni z buněk. Rudolf Virchow později doplnil, že každá buňka vzniká z buňky."
+    ],
+    "memory": "1838 až 1839, Schleiden a Schwann."
+  },
+  {
+    "id": 711,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 887 · str. 189",
+    "sourcePages": "189",
+    "sourceItem": "887",
+    "question": "Kdo poprvé prokázal, že geny jsou na chromozomu uspořádány lineárně za sebou?",
+    "options": [
+      "Gregor Johann Mendel",
+      "Johann Friedrich Miescher",
+      "Thomas Hunt Morgan",
+      "J. D. Watson"
+    ],
+    "answer": 2,
+    "title": "Thomas Hunt Morgan",
+    "paragraphs": [
+      "Morgan a jeho žáci na počátku 20. století křížili octomilky a z frekvencí crossing-overu sestavili první genové mapy. Po Morganovi je pojmenována jednotka vzdálenosti genů centimorgan."
+    ],
+    "memory": "Morgan, octomilka, centimorgan."
+  },
+  {
+    "id": 712,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 888 · str. 189",
+    "sourcePages": "189",
+    "sourceItem": "888",
+    "question": "Kdo zformuloval základy eugeniky?",
+    "options": [
+      "Trofim Lysenko",
+      "Charles Darwin",
+      "Gregor Johann Mendel",
+      "Francis Galton"
+    ],
+    "answer": 3,
+    "title": "Francis Galton",
+    "paragraphs": [
+      "Galton, Darwinův bratranec, zavedl v roce 1883 pojem eugenika pro snahu zlepšit dědičné vlastnosti lidstva. Její principy byly později zneužity k nucené sterilizaci a rasové politice nacistického Německa."
+    ],
+    "memory": "Galton = eugenika."
+  },
+  {
+    "id": 713,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 890 · str. 190",
+    "sourcePages": "190",
+    "sourceItem": "890",
+    "question": "Co tvrdí biogenetický zákon, který roku 1866 zformuloval Ernst Haeckel?",
+    "options": [
+      "ontogeneze je stručnou rekapitulací fylogeneze",
+      "o evoluci rozhodují hlavně mutace",
+      "organismy předávají potomstvu znaky získané během života",
+      "v evoluci se uplatňuje hlavně genetický drift"
+    ],
+    "answer": 0,
+    "title": "ontogeneze je stručnou rekapitulací fylogeneze",
+    "paragraphs": [
+      "Haeckel si všiml, že zárodky obratlovců procházejí podobnými stadii, například se u nich zakládají žaberní oblouky. Zákon dnes platí jen v omezené míře, ale vývoj biologie silně ovlivnil."
+    ],
+    "memory": "Vývoj jedince opakuje vývoj druhu."
+  },
+  {
+    "id": 714,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 891 · str. 190",
+    "sourcePages": "190",
+    "sourceItem": "891",
+    "question": "Kdo je popularizátorem teorie sobeckého genu?",
+    "options": [
+      "Francis Galton",
+      "Richard Dawkins",
+      "Craig Venter",
+      "Frederick Griffith"
+    ],
+    "answer": 1,
+    "title": "Richard Dawkins",
+    "paragraphs": [
+      "Britský biolog Richard Dawkins vydal roku 1976 knihu Sobecký gen. Vysvětluje v ní evoluci z pohledu genů, pro něž jsou organismy jen nosiči. Craig Venter se proslavil sekvenováním genomu, Griffith pokusem s transformací pneumokoků."
+    ],
+    "memory": "Dawkins = Sobecký gen."
+  },
+  {
+    "id": 715,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 892 · str. 190",
+    "sourcePages": "190",
+    "sourceItem": "892",
+    "question": "Kdo poprvé izoloval DNA jako takzvaný nuklein?",
+    "options": [
+      "J. D. Watson",
+      "Frederick Banting",
+      "Johann Friedrich Miescher",
+      "Oswald Avery"
+    ],
+    "answer": 2,
+    "title": "Johann Friedrich Miescher",
+    "paragraphs": [
+      "Švýcarský lékař Miescher izoloval roku 1869 z jader bílých krvinek z hnisu látku bohatou na fosfor a nazval ji nuklein. Avery v roce 1944 prokázal, že DNA nese dědičnou informaci."
+    ],
+    "memory": "1869, Miescher, hnis."
+  },
+  {
+    "id": 716,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 893 · str. 190",
+    "sourcePages": "190",
+    "sourceItem": "893",
+    "question": "Kdy byl oficiálně zahájen projekt lidského genomu (HGP)?",
+    "options": [
+      "na počátku 20. století po znovuobjevení Mendelových zákonů",
+      "v roce 1953 po objevení struktury DNA",
+      "ve 40. letech 20. století",
+      "na počátku 90. let 20. století"
+    ],
+    "answer": 3,
+    "title": "na počátku 90. let 20. století",
+    "paragraphs": [
+      "Projekt Human Genome Project začal roku 1990. Pracovní verze genomu byla oznámena v roce 2001 a dokončení v roce 2003."
+    ],
+    "memory": "1990 start, 2003 cíl."
+  },
+  {
+    "id": 717,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 894 · str. 191",
+    "sourcePages": "191",
+    "sourceItem": "894",
+    "question": "Co byl takzvaný piltdownský člověk?",
+    "options": [
+      "podvrh vydávaný na počátku 20. století za doklad raného osídlení Británie předky člověka",
+      "zvláštní varianta neandrtálce z Velké Británie",
+      "nález Raymonda Darta z jižní Afriky",
+      "nález z indonéského ostrova Flores z konce 20. století"
+    ],
+    "answer": 0,
+    "title": "podvrh vydávaný na počátku 20. století za doklad raného osídlení Británie předky člověka",
+    "paragraphs": [
+      "Lebka „nalezená“ roku 1912 v Piltdownu spojovala lidskou mozkovnu s čelistí orangutana. Podvrh byl definitivně odhalen až v roce 1953 díky datování obsahu fluoru v kostech."
+    ],
+    "memory": "Piltdown = vědecký podvod."
+  },
+  {
+    "id": 718,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 898 · str. 192",
+    "sourcePages": "192",
+    "sourceItem": "898",
+    "question": "Co je panspermie?",
+    "options": [
+      "nacistické učení o preferovaném rozmnožování vybraných osob",
+      "teorie, že se život dostal na Zemi ve formě mikroorganismů z vesmíru",
+      "hypotetická první pohyblivá pohlavní buňka ediakarské fauny",
+      "teorie vzniku člověka křížením různých druhů rodu Homo"
+    ],
+    "answer": 1,
+    "title": "teorie, že se život dostal na Zemi ve formě mikroorganismů z vesmíru",
+    "paragraphs": [
+      "Panspermie (řecky „semena všude“) předpokládá, že zárodky života putují vesmírem, například v meteoritech. Neřeší ale, jak život vznikl původně."
+    ],
+    "memory": "Pan = všude, sperma = semeno."
+  },
+  {
+    "id": 719,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 899 · str. 192",
+    "sourcePages": "192",
+    "sourceItem": "899",
+    "question": "Kdo jako první pozoroval primitivním mikroskopem kvasinky, prvoky a spermie?",
+    "options": [
+      "Carl Zeiss",
+      "Julius Richard Petri",
+      "Antoni van Leeuwenhoek",
+      "Robert Koch"
+    ],
+    "answer": 2,
+    "title": "Antoni van Leeuwenhoek",
+    "paragraphs": [
+      "Nizozemský obchodník s látkami Leeuwenhoek si v 17. století brousil čočky se zvětšením až kolem 270krát. Jako první popsal bakterie, prvoky, spermie i krvinky."
+    ],
+    "memory": "Leeuwenhoek = první „zvířátka“ pod čočkou."
+  },
+  {
+    "id": 720,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 900 · str. 192",
+    "sourcePages": "192",
+    "sourceItem": "900",
+    "question": "Kdo z uvedených získal Nobelovu cenu za fyziologii a lékařství?",
+    "options": [
+      "Antoni van Leeuwenhoek",
+      "Charles Darwin",
+      "Gregor Johann Mendel",
+      "Robert Koch"
+    ],
+    "answer": 3,
+    "title": "Robert Koch",
+    "paragraphs": [
+      "Koch obdržel Nobelovu cenu roku 1905 za výzkum tuberkulózy. Nobelovy ceny se udělují od roku 1901, takže Leeuwenhoek, Darwin ani Mendel je získat nemohli. Laureátem byl i J. D. Watson (1962)."
+    ],
+    "memory": "Ceny až od roku 1901."
+  },
+  {
+    "id": 721,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 901 · str. 192",
+    "sourcePages": "192",
+    "sourceItem": "901",
+    "question": "Kdo jako první úspěšně transplantoval lidské srdce?",
+    "options": [
+      "Christiaan Barnard",
+      "Eduard Konrad Zirm",
+      "Frederick Banting",
+      "William Morton"
+    ],
+    "answer": 0,
+    "title": "Christiaan Barnard",
+    "paragraphs": [
+      "Jihoafrický chirurg Barnard provedl první transplantaci srdce v prosinci 1967 v Kapském Městě. Zirm provedl roku 1905 v Olomouci první úspěšnou transplantaci rohovky a Morton předvedl éterovou narkózu."
+    ],
+    "memory": "1967, Kapské Město."
+  },
+  {
+    "id": 722,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 902 · str. 192",
+    "sourcePages": "192",
+    "sourceItem": "902",
+    "question": "Kdo patřil mezi objevitele léčebných účinků inzulinu?",
+    "options": [
+      "Alexander Fleming",
+      "Frederick Banting",
+      "Louis Pasteur",
+      "Ignác Semmelweis"
+    ],
+    "answer": 1,
+    "title": "Frederick Banting",
+    "paragraphs": [
+      "Banting a Best v Torontu izolovali roku 1921 inzulin ze slinivky psů a krátce poté jím zachránili první diabetiky. Fleming objevil penicilin a Semmelweis zavedl mytí rukou proti horečce omladnic."
+    ],
+    "memory": "Banting a Best, 1921."
+  },
+  {
+    "id": 723,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 904 · str. 193",
+    "sourcePages": "193",
+    "sourceItem": "904",
+    "question": "Kdo je zakladatelem českého botanického názvosloví?",
+    "options": [
+      "Jan Evangelista Purkyně",
+      "Joachim Barrande",
+      "Jan Svatopluk Presl",
+      "Zdeněk Veselovský"
+    ],
+    "answer": 2,
+    "title": "Jan Svatopluk Presl",
+    "paragraphs": [
+      "Presl vytvořil v první polovině 19. století česká jména rostlin a s bratrem Karlem napsal Flora čechica. Barrande proslul paleontologií, Veselovský jako zoolog a ředitel pražské zoo."
+    ],
+    "memory": "Presl = česká jména rostlin."
+  },
+  {
+    "id": 724,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 905 · str. 193",
+    "sourcePages": "193",
+    "sourceItem": "905",
+    "question": "Proti které nemoci provedl Louis Pasteur poprvé očkování člověka?",
+    "options": [
+      "proti pravým neštovicím",
+      "proti tuberkulóze",
+      "proti záškrtu",
+      "proti vzteklině"
+    ],
+    "answer": 3,
+    "title": "proti vzteklině",
+    "paragraphs": [
+      "Roku 1885 Pasteur očkoval oslabeným virem vztekliny chlapce Josepha Meistera pokousaného vzteklým psem. Pasteur také vyvinul vakcínu proti anthraxu a vyvrátil teorii samoplození. Očkování proti neštovicím zavedl Jenner."
+    ],
+    "memory": "1885, Meister, vzteklina."
+  },
+  {
+    "id": 725,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 906 · str. 193",
+    "sourcePages": "193",
+    "sourceItem": "906",
+    "question": "Který český lékař významně přispěl k objevu krevních skupin systému AB0?",
+    "options": [
+      "Jan Janský",
+      "Josef Thomayer",
+      "Jan Evangelista Purkyně",
+      "Jan Jesenius"
+    ],
+    "answer": 0,
+    "title": "Jan Janský",
+    "paragraphs": [
+      "Karl Landsteiner popsal roku 1901 tři krevní skupiny. Jan Janský roku 1907 nezávisle zařadil lidskou krev do čtyř skupin a zavedl jejich označení I až IV."
+    ],
+    "memory": "Janský = čtyři skupiny."
+  },
+  {
+    "id": 726,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 908 · str. 193",
+    "sourcePages": "193",
+    "sourceItem": "908",
+    "question": "Čím se proslavil William Harvey?",
+    "options": [
+      "zavedl očkování proti neštovicím",
+      "správně popsal krevní oběh",
+      "potvrdil Galénovy představy o krvi",
+      "provedl první transfuzi krve u člověka"
+    ],
+    "answer": 1,
+    "title": "správně popsal krevní oběh",
+    "paragraphs": [
+      "Harvey v roce 1628 v díle De motu cordis ukázal, že srdce pumpuje krev v uzavřeném okruhu tepnami a žilami. Tím vyvrátil Galénovu představu, že se krev v těle neustále tvoří a spotřebovává."
+    ],
+    "memory": "1628, krev obíhá."
+  },
+  {
+    "id": 727,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 909 · str. 194",
+    "sourcePages": "194",
+    "sourceItem": "909",
+    "question": "Kdo byl v 16. století zakladatelem moderní anatomie člověka?",
+    "options": [
+      "Claudius Galénos",
+      "Rudolf Virchow",
+      "Andreas Vesalius",
+      "Paracelsus"
+    ],
+    "answer": 2,
+    "title": "Andreas Vesalius",
+    "paragraphs": [
+      "Vesalius vydal roku 1543 dílo De humani corporis fabrica založené na vlastních pitvách lidských těl. Galénos žil ve 2. století a pitval hlavně zvířata, Virchow založil v 19. století buněčnou patologii."
+    ],
+    "memory": "1543, Fabrica."
+  },
+  {
+    "id": 728,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 910 · str. 194",
+    "sourcePages": "194",
+    "sourceItem": "910",
+    "question": "Kdo založil v roce 1863 Červený kříž?",
+    "options": [
+      "Albert Schweitzer",
+      "Pierre de Coubertin",
+      "Jean-Jacques Rousseau",
+      "Henri Dunant"
+    ],
+    "answer": 3,
+    "title": "Henri Dunant",
+    "paragraphs": [
+      "Švýcarský obchodník Dunant byl otřesen utrpením raněných po bitvě u Solferina (1859). Iniciativa vedla k založení Mezinárodního výboru Červeného kříže a k Ženevské úmluvě. Dunant získal první Nobelovu cenu míru (1901)."
+    ],
+    "memory": "Solferino, Dunant."
+  },
+  {
+    "id": 729,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 912 · str. 194",
+    "sourcePages": "194",
+    "sourceItem": "912",
+    "question": "Kdy byly bojové chemické látky poprvé použity v rozsáhlé míře?",
+    "options": [
+      "za první světové války",
+      "za napoleonských válek",
+      "za prusko-rakouské války",
+      "za druhé světové války"
+    ],
+    "answer": 0,
+    "title": "za první světové války",
+    "paragraphs": [
+      "První masivní útok chlórem proběhl roku 1915 u belgického Ypru. Později byl použit i fosgen a yperit, pojmenovaný právě podle Ypru."
+    ],
+    "memory": "Ypry, 1915, yperit."
+  },
+  {
+    "id": 730,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 913 · str. 194",
+    "sourcePages": "194",
+    "sourceItem": "913",
+    "question": "Které lázně jsou nejstaršími lázněmi na území České republiky?",
+    "options": [
+      "Karlovy Vary",
+      "Teplice v Čechách",
+      "Poděbrady",
+      "Luhačovice"
+    ],
+    "answer": 1,
+    "title": "Teplice v Čechách",
+    "paragraphs": [
+      "Teplické termální prameny byly podle archeologických nálezů využívány již v pravěku a doloženy jsou od raného středověku. Karlovy Vary se podle tradice datují až do doby Karla IV."
+    ],
+    "memory": "Teplice = nejstarší lázně."
+  },
+  {
+    "id": 731,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 914 · str. 195",
+    "sourcePages": "195",
+    "sourceItem": "914",
+    "question": "Které lázně jsou spjaty se jménem léčitele Vinzenze Priessnitze?",
+    "options": [
+      "Karlova Studánka",
+      "Lázně Darkov",
+      "Lázně Jeseník",
+      "Konstantinovy Lázně"
+    ],
+    "answer": 2,
+    "title": "Lázně Jeseník",
+    "paragraphs": [
+      "Priessnitz založil v Gräfenbergu, dnešním Jeseníku, vodoléčebné lázně. Z jeho metod pochází pojem Priessnitzův zábal, tedy studený obklad překrytý suchou vrstvou."
+    ],
+    "memory": "Priessnitz = Jeseník, voda."
+  },
+  {
+    "id": 732,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 915 · str. 195",
+    "sourcePages": "195",
+    "sourceItem": "915",
+    "question": "Které z uvedených lázní byly založeny u pramenů teplých vod?",
+    "options": [
+      "Mariánské Lázně",
+      "Třeboň",
+      "Luhačovice",
+      "Karlovy Vary"
+    ],
+    "answer": 3,
+    "title": "Karlovy Vary",
+    "paragraphs": [
+      "Karlovarské vřídlo má teplotu kolem 73 °C. Mariánské Lázně a Luhačovice využívají studené minerální prameny a Třeboň slatinu. Termální prameny mají i Jánské Lázně a Teplice."
+    ],
+    "memory": "Vřídlo = horký pramen."
+  },
+  {
+    "id": 733,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 916 · str. 195",
+    "sourcePages": "195",
+    "sourceItem": "916",
+    "question": "Kde se narodil Sigmund Freud?",
+    "options": [
+      "v Příboře na Moravě",
+      "ve Vídni",
+      "v Brně",
+      "v Praze"
+    ],
+    "answer": 0,
+    "title": "v Příboře na Moravě",
+    "paragraphs": [
+      "Zakladatel psychoanalýzy se narodil roku 1856 v Příboře. Většinu života pak prožil ve Vídni, odkud po anexi Rakouska roku 1938 emigroval do Londýna."
+    ],
+    "memory": "Freud, Příbor."
+  },
+  {
+    "id": 734,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 917 · str. 195",
+    "sourcePages": "195",
+    "sourceItem": "917",
+    "question": "Kde působil Gregor Johann Mendel?",
+    "options": [
+      "na univerzitě v Praze",
+      "v augustiniánském klášteře v Brně",
+      "v klášteře ve Znojmě",
+      "na univerzitě ve Vídni"
+    ],
+    "answer": 1,
+    "title": "v augustiniánském klášteře v Brně",
+    "paragraphs": [
+      "Mendel prováděl své pokusy s křížením hrachu na klášterní zahradě augustiniánů na Starém Brně, kde byl později opatem. Narodil se v Hynčicích u Vražného, ne ve Znojmě."
+    ],
+    "memory": "Mendel = Staré Brno."
+  },
+  {
+    "id": 735,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 918 · str. 195",
+    "sourcePages": "195",
+    "sourceItem": "918",
+    "question": "Proti které nemoci zavedl Edward Jenner preventivní očkování?",
+    "options": [
+      "proti vzteklině",
+      "proti černému kašli",
+      "proti pravým neštovicím",
+      "proti malárii"
+    ],
+    "answer": 2,
+    "title": "proti pravým neštovicím",
+    "paragraphs": [
+      "Jenner si všiml, že dojičky po prodělání kravských neštovic neonemocní pravými. Roku 1796 očkoval chlapce kravskými neštovicemi. Odtud pochází slovo vakcína z latinského vacca, kráva."
+    ],
+    "memory": "Vacca = kráva."
+  },
+  {
+    "id": 736,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 919 · str. 196",
+    "sourcePages": "196",
+    "sourceItem": "919",
+    "question": "Čím proslul Josef Mengele?",
+    "options": [
+      "jako první použil výraz eugenika",
+      "podával psychotropní látky vězňům tajné policie NDR",
+      "navrhl konstrukci německé vodíkové bomby",
+      "jako lékař SS prováděl pokusy na vězních koncentračního tábora"
+    ],
+    "answer": 3,
+    "title": "jako lékař SS prováděl pokusy na vězních koncentračního tábora",
+    "paragraphs": [
+      "Mengele působil v Osvětimi, kde vybíral vězně k usmrcení a prováděl kruté pokusy, hlavně na dvojčatech. Po válce uprchl do Jižní Ameriky. Jeho případ je jedním z důvodů vzniku zásad lékařské etiky výzkumu."
+    ],
+    "memory": "Mengele, Osvětim."
+  },
+  {
+    "id": 737,
+    "subject": "Biologie",
+    "category": "Biologie · Historie biologie a medicíny",
+    "bookRef": "UK · Biologie · Historie biologie a medicíny · otázka 920 · str. 196",
+    "sourcePages": "196",
+    "sourceItem": "920",
+    "question": "Kde sídlí ústředí Světové zdravotnické organizace (WHO)?",
+    "options": [
+      "v Ženevě",
+      "v New Yorku",
+      "v Paříži",
+      "ve Vídni"
+    ],
+    "answer": 0,
+    "title": "v Ženevě",
+    "paragraphs": [
+      "WHO je specializovanou organizací OSN pro zdraví a sdružuje téměř všechny státy světa, nejen ty s vážnými zdravotními problémy. V New Yorku sídlí ústředí OSN, v Paříži UNESCO."
+    ],
+    "memory": "WHO = Ženeva."
+  }
+]

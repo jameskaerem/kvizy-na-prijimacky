@@ -267,6 +267,20 @@ Soubor `uk-651-700.json`, generátor `create_uk_651_700.py`. Biologie porovnána
 Nepřidané položky:
 - Biologie 811–874: 811 (všechny možnosti správné, hominizace LF MU 486), 812 (Darwinův přírodní výběr, ČB 131), 814, 853 (pořadí druhů Homo, LF MU 484), 816 (sporné, nejstarší jisté fosilie křídlatého hmyzu jsou až z karbonu), 822 (vznik mitochondrií, LF MU 487), 835, 844 (progenoti, UK 650), 847 (varianta 679), 849 (varianta 677), 851 (africký původ, varianta 655), 866 (varianta 694), 868 (ekosystém, LF MU 492), 869 (populace, LF MU 498).
 
-## Další dávky
+## Dávka ID 701–737 (v2.71.0)
 
-Pokračovat od ID 701. Fyzika čeká na plnou knihu. Chemie je uzavřená. Biologie pokračuje otázkou 875 (ekologie) a kapitolou Historie biologie a medicíny (886–920); po ní bude kniha biologie pokrytá.
+Soubor `uk-701-737.json`, generátor `create_uk_701_737.py` (`batch_tools.build` nově přijímá kratší závěrečnou dávku). Biologie porovnána s klíčem. Otázky s více správnými možnostmi přeformulovány na jednu správnou.
+
+| Předmět | Kapitola | Použité úlohy | ID |
+|---|---|---|---|
+| Biologie | Ekologie (str. 185–187) | 876, 877, 878, 879, 880, 881, 883, 884, 885 | 701–709 |
+| Biologie | Historie biologie a medicíny (str. 189–196) | 886, 887, 888, 890, 891, 892, 893, 894, 898, 899, 900, 901, 902, 904, 905, 906, 908, 909, 910, 912, 913, 914, 915, 916, 917, 918, 919, 920 | 710–737 |
+
+Úpravy: 877 (všechny čtyři možnosti jsou národní parky, otázka se ptá na CHKO Český ráj), 900 (správný je i Watson, proto jsou distraktory jen badatelé před rokem 1901), 905, 906, 915, 916, 917 a 920 zúženy na jeden poznatek z výčtu správných možností.
+
+Nepřidané položky:
+- Biologie 875–920: 875 (skleníkový efekt, LF MU 494), 882 (parazité, varianta 689), 889 (Darwin a přírodní výběr, ČB 131), 895 (dvoušroubovice DNA, LF MU 36), 896 (buněčná teorie, ČB 377), 897 (klíč chybí a obhajitelných je více možností), 903 (Purkyně a buněčná teorie, LF MU 37), 907 (Jesenius, ČB 411), 911 (Nightingalová, ČB 467).
+
+## Stav pokrytí
+
+Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) a biologie (Kočárek, 920 otázek) jsou posouzené celé: každá úloha je použitá nebo vyřazená s důvodem v této mapě. Fyzika (Amler) je pokrytá jen v rozsahu dodané ukázky (úlohy 1.01–1.64 a 2.01–2.05). Pro další fyziku je potřeba plná kniha. Další dávka začne od ID 738.
