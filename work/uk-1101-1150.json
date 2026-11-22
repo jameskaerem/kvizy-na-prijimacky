@@ -1,0 +1,1217 @@
+[
+  {
+    "id": 1101,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.13 · str. 33",
+    "sourcePages": "33",
+    "sourceItem": "3.13",
+    "question": "Gravitační konstanta má v SI číselnou hodnotu 6,67·10⁻¹¹. Jaká je podle gravitačního zákona její jednotka?",
+    "options": [
+      "N",
+      "N·kg²/m²",
+      "N·m²/kg²",
+      "m³/(s²·kg)"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Z F = κ·m₁·m₂/r² plyne κ = F·r²/(m₁·m₂), tedy N·m²·kg⁻². Po dosazení N = kg·m·s⁻² vyjde m³·s⁻²·kg⁻¹, což je totéž v základních jednotkách."
+    ],
+    "memory": "κ = F·r²/(m₁m₂)."
+  },
+  {
+    "id": 1102,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.55 · str. 40",
+    "sourcePages": "40",
+    "sourceItem": "3.55",
+    "question": "Která přibližná zeměpisná data jsou správná?",
+    "options": [
+      "zemský kvadrant (čtvrtina poledníku) je dlouhý asi 10 000 km",
+      "obvod rovníku je asi 4·10⁷ m",
+      "Mount Everest je vysoký asi 8848 m",
+      "největší naměřená hloubka oceánu v Mariánském příkopu je asi 11 km"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Všechna data platí. Metr byl původně definován jako desetimiliontina zemského kvadrantu, proto má kvadrant 10 000 km a obvod Země asi 40 000 km. Everest má 8848 m a Mariánský příkop asi 11 km."
+    ],
+    "memory": "Obvod Země ≈ 40 000 km."
+  },
+  {
+    "id": 1103,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.59 · str. 40",
+    "sourcePages": "40",
+    "sourceItem": "3.59",
+    "question": "Co označuje pojem tekutina?",
+    "options": [
+      "kapaliny a plyny",
+      "kapaliny s vysokou viskozitou",
+      "kapaliny s nízkou viskozitou",
+      "totéž co kapalina"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Tekutiny jsou látky, které tečou a nemají stálý tvar, tedy kapaliny i plyny. Proto se mluví o mechanice tekutin, která zahrnuje hydromechaniku i aeromechaniku."
+    ],
+    "memory": "Tekutina = kapalina nebo plyn."
+  },
+  {
+    "id": 1104,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.71 · str. 42",
+    "sourcePages": "42",
+    "sourceItem": "3.71",
+    "question": "Těleso o hmotnosti 10 kg se pohybuje stálou rychlostí 36 km/h. Jakou má kinetickou energii?",
+    "options": [
+      "360 J",
+      "1000 J",
+      "500 J",
+      "přibližně 6,5 kJ"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "36 km/h = 10 m/s. Ek = ½·m·v² = ½ · 10 · 100 = 500 J. Výsledek 6,5 kJ by vyšel bez převodu na m/s."
+    ],
+    "memory": "36 km/h = 10 m/s."
+  },
+  {
+    "id": 1105,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika II",
+    "bookRef": "UK · Fyzika · Mechanika II · úloha 3.78 · str. 43",
+    "sourcePages": "43",
+    "sourceItem": "3.78",
+    "question": "Jak vyjádříme tlak 10 N/cm² v pascalech?",
+    "options": [
+      "100 000 Pa",
+      "10 000 Pa",
+      "10⁷ Pa",
+      "10⁻³ Pa"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "1 cm² = 10⁻⁴ m², takže 10 N/cm² = 10 N / 10⁻⁴ m² = 10⁵ Pa = 100 kPa, což je přibližně atmosférický tlak."
+    ],
+    "memory": "1 m² = 10 000 cm²."
+  },
+  {
+    "id": 1106,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.01 · str. 47",
+    "sourcePages": "47",
+    "sourceItem": "4.01",
+    "question": "Čím je určena absolutní výška tónu?",
+    "options": [
+      "amplitudou kmitů",
+      "rezonanční skříní zdroje",
+      "frekvencí kmitů",
+      "obsahem vyšších harmonických frekvencí"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Výška tónu odpovídá frekvenci, čím vyšší frekvence, tím vyšší tón. Amplituda určuje sílu zvuku a vyšší harmonické frekvence spolu s rezonátorem určují barvu tónu."
+    ],
+    "memory": "Výška = frekvence, barva = harmonické."
+  },
+  {
+    "id": 1107,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.02 · str. 47",
+    "sourcePages": "47",
+    "sourceItem": "4.02",
+    "question": "Zvuk se ve vzduchu za normálních podmínek šíří s vlnovou délkou 3,3 m. Co platí?",
+    "options": [
+      "má frekvenci 100 Hz a je to ultrazvuk",
+      "má frekvenci 0,01 Hz a je to ultrazvuk",
+      "má frekvenci 100 Hz a je slyšitelný",
+      "má frekvenci 0,01 Hz a je to infrazvuk"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Rychlost zvuku ve vzduchu je asi 330 až 340 m/s. f = v/λ = 330/3,3 = 100 Hz, což leží v slyšitelném pásmu 16 Hz až 20 kHz."
+    ],
+    "memory": "f = v/λ."
+  },
+  {
+    "id": 1108,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.04 · str. 47",
+    "sourcePages": "47",
+    "sourceItem": "4.04",
+    "question": "Čeho je decibel (dB) jednotkou?",
+    "options": [
+      "rychlosti šíření zvuku",
+      "hladiny intenzity zvuku",
+      "výšky tónu",
+      "akustického výkonu"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Decibel je desetina belu, logaritmické jednotky hladiny intenzity L = 10·log(I/I₀). Výška tónu se udává frekvencí v Hz a výkon ve wattech."
+    ],
+    "memory": "dB = hladina intenzity."
+  },
+  {
+    "id": 1109,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.05 · str. 47",
+    "sourcePages": "47",
+    "sourceItem": "4.05",
+    "question": "Co je frekvence kmitavého pohybu?",
+    "options": [
+      "převrácená hodnota amplitudy",
+      "veličina udávaná v decibelech",
+      "počet kmitů za jednotku času",
+      "doba mezi dvěma po sobě jdoucími stejnými fázemi kmitu"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Frekvence je počet kmitů za sekundu, f = 1/T, a měří se v hertzích. Doba mezi dvěma stejnými fázemi je perioda."
+    ],
+    "memory": "f = 1/T."
+  },
+  {
+    "id": 1110,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.07 · str. 48",
+    "sourcePages": "48",
+    "sourceItem": "4.07",
+    "question": "Harmonický oscilátor s periodou 2 s vychýlíme vnější silou, která na konci dosáhne Fmax = 3·10⁻³ N, a vykonáme přitom práci 3·10⁻⁵ J. Jaká je maximální výchylka?",
+    "options": [
+      "2 cm",
+      "1 cm",
+      "0,5 cm",
+      "4 cm"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Síla pružiny roste s výchylkou lineárně od nuly do Fmax, práce je tedy W = ½·Fmax·ymax. Odtud ymax = 2W/Fmax = 6·10⁻⁵ / 3·10⁻³ = 0,02 m. Perioda k výpočtu potřeba není."
+    ],
+    "memory": "Práce = plocha pod přímkou F(y)."
+  },
+  {
+    "id": 1111,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.08 · str. 48",
+    "sourcePages": "48",
+    "sourceItem": "4.08",
+    "question": "Jakým vztahem se počítá hladina intenzity zvuku L v decibelech (I intenzita zvuku, I₀ intenzita prahu slyšení při 1 kHz)?",
+    "options": [
+      "L = log(I − I₀)",
+      "L = 10·ln(I/I₀)",
+      "L = ln(I − I₀)",
+      "L = 10·log(I/I₀)"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Hladina intenzity je desetinásobek dekadického logaritmu poměru intenzit. Desetinásobná intenzita zvýší hladinu o 10 dB."
+    ],
+    "memory": "10× intenzita = +10 dB."
+  },
+  {
+    "id": 1112,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.09 · str. 48",
+    "sourcePages": "48",
+    "sourceItem": "4.09",
+    "question": "Jakou nejvyšší hladinu intenzity zvuku snese zdravé ucho krátkodobě bez nebezpečí poškození?",
+    "options": [
+      "80 dB",
+      "120 dB",
+      "100 dB",
+      "160 dB"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Asi 120 dB odpovídá prahu bolesti (intenzita kolem 1 W·m⁻²). Dlouhodobé působení hluku nad 85 dB už ucho poškozuje."
+    ],
+    "memory": "Práh bolesti ≈ 120 dB."
+  },
+  {
+    "id": 1113,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.10 · str. 48",
+    "sourcePages": "48",
+    "sourceItem": "4.10",
+    "question": "Co říká Huygensův princip?",
+    "options": [
+      "další průběh vlnění lze sestrojit tak, že každý bod vlnoplochy považujeme za samostatný zdroj vlnění",
+      "výška tónu závisí na rychlosti zdroje a pozorovatele",
+      "rychlost zvuku závisí na těsnosti vazby částic prostředí",
+      "v blízkosti zdroje se vlnění nešíří ve vlnoplochách"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Podle Huygensova principu je každý bod vlnoplochy zdrojem elementárního vlnění a nová vlnoplocha je jejich obálkou. Vysvětluje odraz, lom i ohyb. Možnost b popisuje Dopplerův jev."
+    ],
+    "memory": "Každý bod vlnoplochy je nový zdroj."
+  },
+  {
+    "id": 1114,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.11 · str. 48",
+    "sourcePages": "48",
+    "sourceItem": "4.11",
+    "question": "Co charakterizuje postupné podélné vlnění?",
+    "options": [
+      "body kmitají ve směru šíření, všechny se stejnou fází",
+      "body kmitají ve směru šíření a fáze se mění s polohou a časem",
+      "body kmitají kolmo ke směru šíření",
+      "body kmitají kolmo i ve směru šíření"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "U podélného vlnění kmitají částice ve směru šíření a vznikají zhuštění a zředění. U postupného vlnění se kmit předává dál se zpožděním, fáze bodu tedy závisí na jeho poloze i čase."
+    ],
+    "memory": "Podélné = zhuštění a zředění."
+  },
+  {
+    "id": 1115,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.12 · str. 48",
+    "sourcePages": "48",
+    "sourceItem": "4.12",
+    "question": "Co charakterizuje postupné příčné vlnění?",
+    "options": [
+      "body kmitají kolmo ke směru šíření, všechny se stejnou fází",
+      "body kmitají ve směru šíření",
+      "body kmitají kolmo ke směru šíření a fáze se mění s polohou a časem",
+      "body kmitají kolmo i ve směru šíření"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "U příčného vlnění kmitají body kolmo ke směru šíření (vlna na laně). Jako u každého postupného vlnění se fáze mění s polohou bodu i s časem."
+    ],
+    "memory": "Příčné = kolmo, jako vlna na laně."
+  },
+  {
+    "id": 1116,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.13 · str. 49",
+    "sourcePages": "49",
+    "sourceItem": "4.13",
+    "question": "Rychlost zvuku je v prvním prostředí v a ve druhém u. Jaký vztah platí pro úhel dopadu α a úhel lomu β měřené od kolmice?",
+    "options": [
+      "v/u = sin α / sin β",
+      "v/u = cos α / cos β",
+      "v/u = sin α · sin β",
+      "v/u = sin β / sin α"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Zákon lomu (Snellův zákon) říká, že poměr sinů úhlu dopadu a lomu se rovná poměru rychlostí v obou prostředích: sin α / sin β = v/u. Platí pro zvuk i světlo."
+    ],
+    "memory": "Snellův zákon: sin α / sin β = v₁/v₂."
+  },
+  {
+    "id": 1117,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.14 · str. 49",
+    "sourcePages": "49",
+    "sourceItem": "4.14",
+    "question": "Jaký je jednoduchý kmitavý pohyb?",
+    "options": [
+      "neperiodický a nerovnoměrný",
+      "neperiodický a rovnoměrný",
+      "periodický a rovnoměrný",
+      "periodický a nerovnoměrný"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Kmitavý pohyb se po periodě opakuje, je tedy periodický. Rychlost se během kmitu mění (v rovnovážné poloze je největší, v krajních polohách nulová), takže pohyb je nerovnoměrný."
+    ],
+    "memory": "Kmit se opakuje, ale nemá stálou rychlost."
+  },
+  {
+    "id": 1118,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.18 · str. 49",
+    "sourcePages": "49",
+    "sourceItem": "4.18",
+    "question": "Krytá varhanní píšťala je čtvrtvlnný rezonátor. Jak dlouhá je píšťala, která zní tónem subkontra C o frekvenci asi 16 Hz?",
+    "options": [
+      "20 m",
+      "10 m",
+      "5 m",
+      "2,5 m"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Vlnová délka je λ = v/f = 340/16 ≈ 21 m. Krytá píšťala má délku čtvrtiny vlnové délky, tedy asi 5 m."
+    ],
+    "memory": "Krytá píšťala = λ/4."
+  },
+  {
+    "id": 1119,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.19 · str. 50",
+    "sourcePages": "50",
+    "sourceItem": "4.19",
+    "question": "Infuzní roztok ukápne jednou za 5 sekund. Jaká je frekvence kapání?",
+    "options": [
+      "20 Hz",
+      "0,05 Hz",
+      "12 Hz",
+      "0,2 s⁻¹"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Frekvence je převrácená hodnota periody: f = 1/5 s = 0,2 s⁻¹ = 0,2 Hz. To je 12 kapek za minutu, ne 12 Hz."
+    ],
+    "memory": "f = 1/T."
+  },
+  {
+    "id": 1120,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.20 · str. 50",
+    "sourcePages": "50",
+    "sourceItem": "4.20",
+    "question": "Co je Machovo číslo?",
+    "options": [
+      "poměr rychlosti zvuku a rychlosti světla",
+      "poměr rychlostí zvuku v daném prostředí a ve vakuu",
+      "poměr rychlosti tělesa a rychlosti zvuku",
+      "poměr rychlosti zvuku a rychlosti tělesa"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Machovo číslo udává, kolikrát je těleso rychlejší než zvuk v daném prostředí. Mach 1 je rychlost zvuku, nadzvukové letadlo má Mach větší než 1. Ve vakuu se zvuk nešíří."
+    ],
+    "memory": "Mach 2 = dvojnásobek rychlosti zvuku."
+  },
+  {
+    "id": 1121,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.24 · str. 50",
+    "sourcePages": "50",
+    "sourceItem": "4.24",
+    "question": "Nejhlubší slyšitelný tón má frekvenci asi 16 Hz. Jaká je přibližně jeho perioda?",
+    "options": [
+      "0,6 s",
+      "6 s",
+      "0,06 s",
+      "0,16 s"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "T = 1/f = 1/16 s ≈ 0,06 s."
+    ],
+    "memory": "T = 1/f."
+  },
+  {
+    "id": 1122,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.25 · str. 51",
+    "sourcePages": "51",
+    "sourceItem": "4.25",
+    "question": "Nejhlubší slyšitelný tón má frekvenci asi 16 Hz. Jaká je přibližně jeho vlnová délka ve vzduchu?",
+    "options": [
+      "20 m",
+      "10 m",
+      "5 m",
+      "2 m"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "λ = v/f = 340/16 ≈ 21 m, tedy přibližně 20 m."
+    ],
+    "memory": "λ = v/f."
+  },
+  {
+    "id": 1123,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.26 · str. 51",
+    "sourcePages": "51",
+    "sourceItem": "4.26",
+    "question": "Které tvrzení o infrazvuku je nesprávné?",
+    "options": [
+      "má větší vlnovou délku než slyšitelný zvuk",
+      "je neslyšitelný",
+      "má frekvenci nižší než 16 Hz",
+      "špatně se šíří ve vodě"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Infrazvuk má frekvenci pod 16 Hz, a proto větší vlnovou délku, a ucho ho neslyší. Ve vodě se naopak šíří velmi dobře a na velké vzdálenosti, využívají ho například velryby."
+    ],
+    "memory": "Pozor, hledá se nesprávné tvrzení."
+  },
+  {
+    "id": 1124,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.27 · str. 51",
+    "sourcePages": "51",
+    "sourceItem": "4.27",
+    "question": "Které tvrzení o šíření vlnění je nesprávné?",
+    "options": [
+      "směr šíření v izotropním prostředí je určen tečnou k vlnoploše",
+      "v izotropním prostředí je fázová rychlost ve všech směrech stejná",
+      "v izotropním prostředí se vlnění z bodového zdroje šíří v kulových vlnoplochách",
+      "v anizotropním prostředí může být rychlost v různých směrech různá"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "V izotropním prostředí je směr šíření (paprsek) kolmý k vlnoploše, ne tečný. Ostatní tvrzení platí."
+    ],
+    "memory": "Paprsek ⟂ vlnoplocha."
+  },
+  {
+    "id": 1125,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.28 · str. 51",
+    "sourcePages": "51",
+    "sourceItem": "4.28",
+    "question": "Co platí o hladině intenzity zvuku?",
+    "options": [
+      "prahu slyšení odpovídá hladina 1 B = 10 dB",
+      "prahu slyšení odpovídá hladina 0 B = 0 dB",
+      "prahu bolesti odpovídá hladina 12 B",
+      "prahu bolesti odpovídá hladina 12 dB"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Na prahu slyšení je I = I₀, a tedy L = log 1 = 0 B = 0 dB. Práh bolesti má intenzitu 10¹² krát větší, tedy 12 B = 120 dB."
+    ],
+    "memory": "Práh slyšení 0 dB, bolesti 120 dB."
+  },
+  {
+    "id": 1126,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.29 · str. 51",
+    "sourcePages": "51",
+    "sourceItem": "4.29",
+    "question": "Co platí o kmitavém pohybu?",
+    "options": [
+      "perioda je doba, po které těleso přestane kmitat",
+      "perioda je doba mezi dvěma nejbližšími průchody rovnovážnou polohou",
+      "amplituda je největší hodnota výchylky",
+      "amplituda je doba mezi dvěma stejnými fázemi kmitu"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Amplituda je největší výchylka. Perioda je doba jednoho celého kmitu, tedy mezi dvěma stejnými fázemi. Mezi dvěma nejbližšími průchody rovnovážnou polohou uplyne jen polovina periody."
+    ],
+    "memory": "Rovnovážnou polohou projde těleso 2× za periodu."
+  },
+  {
+    "id": 1127,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.30 · str. 51",
+    "sourcePages": "51",
+    "sourceItem": "4.30",
+    "question": "Co platí o mechanickém vlnění?",
+    "options": [
+      "stojaté vlnění přenáší mechanickou energii",
+      "vlnová délka je vzdálenost nejbližších bodů s fázovým rozdílem 2π",
+      "postupné vlnění přenáší mechanickou energii",
+      "při stojatém vlnění kmitají všechny body se stejnou amplitudou"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Energii přenáší postupné vlnění. Stojaté vlnění energii nepřenáší, jen ji přelévá mezi uzly a kmitnami, a amplituda jeho bodů se mění od nuly v uzlu po maximum v kmitně. Vlnová délka odpovídá fázovému rozdílu 2π."
+    ],
+    "memory": "Stojaté vlnění: uzly a kmitny."
+  },
+  {
+    "id": 1128,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.31 · str. 51",
+    "sourcePages": "51",
+    "sourceItem": "4.31",
+    "question": "Jakou frekvenci má tón o oktávu vyšší než původní tón?",
+    "options": [
+      "dvojnásobnou",
+      "jedenapůlnásobnou",
+      "trojnásobnou",
+      "polovinu"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Oktáva je interval s poměrem frekvencí 2 : 1. Tón o oktávu vyšší má dvojnásobnou frekvenci, o oktávu nižší poloviční."
+    ],
+    "memory": "Oktáva = dvojnásobek frekvence."
+  },
+  {
+    "id": 1129,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.32 · str. 52",
+    "sourcePages": "52",
+    "sourceItem": "4.32",
+    "question": "Co platí o rychlosti zvuku?",
+    "options": [
+      "ve vakuu je vyšší než v pevných látkách",
+      "ve vzduchu je nižší než ve vodě",
+      "ve vzduchu je stejná jako ve vodě",
+      "ve vzduchu nezávisí na teplotě"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Zvuk se šíří ve vzduchu asi 340 m/s, ve vodě asi 1500 m/s a v pevných látkách ještě rychleji. Ve vakuu se nešíří. Ve vzduchu rychlost s teplotou roste."
+    ],
+    "memory": "Vzduch 340, voda 1500 m/s."
+  },
+  {
+    "id": 1130,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.33 · str. 52",
+    "sourcePages": "52",
+    "sourceItem": "4.33",
+    "question": "Co platí o stojatém vlnění vzniklém odrazem?",
+    "options": [
+      "na pevném konci vzniká uzel",
+      "na volném konci vzniká uzel",
+      "na volném konci vzniká kmitna",
+      "na pevném konci vzniká kmitna"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Pevný konec se nemůže pohybovat, proto je v něm uzel. Volný konec kmitá s největší amplitudou, je v něm kmitna."
+    ],
+    "memory": "Pevný konec = uzel."
+  },
+  {
+    "id": 1131,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.34 · str. 52",
+    "sourcePages": "52",
+    "sourceItem": "4.34",
+    "question": "Co platí o frekvenčních pásmech mechanického vlnění?",
+    "options": [
+      "vlnění s frekvencí pod 16 Hz je infrazvuk",
+      "vlnění s frekvencí pod 20 kHz je ultrazvuk",
+      "slyšitelný zvuk má frekvence přibližně 16 Hz až 20 kHz",
+      "skutečný rozsah slyšení je individuální a závisí například na věku"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "title": "Správně: A, C a D",
+    "paragraphs": [
+      "Infrazvuk je pod 16 Hz, slyšitelné pásmo asi 16 Hz až 20 kHz a ultrazvuk nad 20 kHz, ne pod. S věkem se horní hranice slyšení snižuje."
+    ],
+    "memory": "16 Hz – 20 kHz."
+  },
+  {
+    "id": 1132,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.35 · str. 52",
+    "sourcePages": "52",
+    "sourceItem": "4.35",
+    "question": "Pacient se nadechuje 20krát za minutu. Jaká je frekvence dýchání?",
+    "options": [
+      "0,05 Hz",
+      "3 Hz",
+      "0,33 Hz",
+      "1200 Hz"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "f = 20 / 60 s ≈ 0,33 Hz. Perioda jednoho dechu jsou 3 s."
+    ],
+    "memory": "Za minutu → děl 60."
+  },
+  {
+    "id": 1133,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.37 · str. 52",
+    "sourcePages": "52",
+    "sourceItem": "4.37",
+    "question": "Co platí o periodě matematického kyvadla?",
+    "options": [
+      "závisí na jeho hmotnosti a délce",
+      "je přímo úměrná tíhovému zrychlení",
+      "na hmotnosti nezávisí",
+      "je na zemském povrchu všude stejná"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "T = 2π·√(l/g). Perioda závisí na délce závěsu a tíhovém zrychlení (nepřímo úměrně jeho odmocnině), ale ne na hmotnosti. Tíhové zrychlení se se zeměpisnou šířkou a výškou mění."
+    ],
+    "memory": "T = 2π√(l/g)."
+  },
+  {
+    "id": 1134,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.38 · str. 52",
+    "sourcePages": "52",
+    "sourceItem": "4.38",
+    "question": "Na čem závisí perioda netlumeného oscilátoru tvořeného ideální pružinou a závažím?",
+    "options": [
+      "na hmotnosti závaží a tuhosti pružiny",
+      "na hmotnosti, tuhosti pružiny a tíhovém zrychlení",
+      "na tuhosti pružiny a tíhovém zrychlení",
+      "na hmotnosti a tíhovém zrychlení"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "T = 2π·√(m/k). Tíhové zrychlení jen posune rovnovážnou polohu, periodu neovlivní. Proto by pružinový oscilátor kmital stejně i na Měsíci."
+    ],
+    "memory": "Pružina: T = 2π√(m/k)."
+  },
+  {
+    "id": 1135,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.39 · str. 53",
+    "sourcePages": "53",
+    "sourceItem": "4.39",
+    "question": "Jak dlouhá je píšťala stejné konstrukce, která zní o dvě oktávy výš?",
+    "options": [
+      "2krát delší",
+      "2krát kratší",
+      "3krát kratší",
+      "4krát kratší"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Dvě oktávy znamenají čtyřnásobnou frekvenci, tedy čtvrtinovou vlnovou délku. Délka píšťaly je úměrná vlnové délce, proto musí být 4krát kratší."
+    ],
+    "memory": "Kratší píšťala = vyšší tón."
+  },
+  {
+    "id": 1136,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.40 · str. 53",
+    "sourcePages": "53",
+    "sourceItem": "4.40",
+    "question": "Po zátěžovém vyšetření se pacientův puls dvakrát zrychlil. Co platí?",
+    "options": [
+      "perioda srdeční činnosti byla dvojnásobná",
+      "perioda srdeční činnosti byla poloviční",
+      "frekvence srdeční činnosti byla dvojnásobná",
+      "frekvence srdeční činnosti byla poloviční"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Rychlejší puls je vyšší frekvence. Dvojnásobná frekvence znamená poloviční periodu, protože T = 1/f."
+    ],
+    "memory": "Frekvence a perioda jsou převrácené."
+  },
+  {
+    "id": 1137,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.41 · str. 53",
+    "sourcePages": "53",
+    "sourceItem": "4.41",
+    "question": "V jakém skupenství může vzniknout podélné mechanické vlnění?",
+    "options": [
+      "jen v pevném",
+      "jen v plynném a kapalném",
+      "ve všech skupenstvích",
+      "jen v kapalném a pevném"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Podélné vlnění (zhušťování a zřeďování) potřebuje jen pružnost vůči stlačení, kterou mají všechny látky. Příčné vlnění vzniká hlavně v pevných látkách a na povrchu kapalin."
+    ],
+    "memory": "Zvuk se šíří plynem, kapalinou i pevnou látkou."
+  },
+  {
+    "id": 1138,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.42 · str. 53",
+    "sourcePages": "53",
+    "sourceItem": "4.42",
+    "question": "Jaká intenzita zvuku přibližně odpovídá prahu bolesti?",
+    "options": [
+      "1 W·m⁻²",
+      "10¹² W·m⁻²",
+      "10⁻⁶ W·m⁻²",
+      "10⁶ W·m⁻²"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Práh slyšení je 10⁻¹² W·m⁻². Práh bolesti má 10¹² krát větší intenzitu, tedy asi 1 W·m⁻², což odpovídá 120 dB."
+    ],
+    "memory": "10⁻¹² × 10¹² = 1."
+  },
+  {
+    "id": 1139,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.44 · str. 53",
+    "sourcePages": "53",
+    "sourceItem": "4.44",
+    "question": "Co platí pro postupné netlumené vlnění?",
+    "options": [
+      "všechny body kmitají se stejnou amplitudou",
+      "všechny body kmitají se stejnou fází",
+      "v daném okamžiku mají všechny body stejnou výchylku",
+      "všechny body kmitají se stejnou frekvencí"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Netlumená postupná vlna se neztrácí, takže všechny body kmitají se stejnou amplitudou i frekvencí zdroje. Fáze se ale bod od bodu liší, a proto mají body v daném okamžiku různé výchylky."
+    ],
+    "memory": "Postupná vlna: stejná amplituda, různá fáze."
+  },
+  {
+    "id": 1140,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.45 · str. 53",
+    "sourcePages": "53",
+    "sourceItem": "4.45",
+    "question": "Které tvrzení o stojatém vlnění neplatí?",
+    "options": [
+      "vzdálenost sousedních kmiten je λ/2",
+      "vzdálenost sousedních uzlů je λ/2",
+      "kmitna a sousední uzel jsou od sebe posunuté o λ/2",
+      "kmitna a sousední uzel jsou od sebe posunuté o λ/4"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Uzly i kmitny se opakují po půl vlnové délce a kmitna leží uprostřed mezi dvěma uzly, tedy λ/4 od nich. Tvrzení o vzdálenosti λ/2 mezi kmitnou a uzlem neplatí."
+    ],
+    "memory": "Uzel – kmitna = λ/4."
+  },
+  {
+    "id": 1141,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.47 · str. 54",
+    "sourcePages": "54",
+    "sourceItem": "4.47",
+    "question": "Při ultrazvukovém vyšetření použijeme sondu 4 MHz. Jaká je vlnová délka ultrazvuku v krvi, kde se šíří rychlostí asi 1600 m/s?",
+    "options": [
+      "400 mm",
+      "400 µm",
+      "6,4 mm",
+      "0,64 mm"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "λ = v/f = 1600 / 4·10⁶ = 4·10⁻⁴ m = 0,4 mm = 400 µm. Krátká vlnová délka dovoluje rozlišit drobné struktury."
+    ],
+    "memory": "Vyšší frekvence = jemnější rozlišení."
+  },
+  {
+    "id": 1142,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.48 · str. 54",
+    "sourcePages": "54",
+    "sourceItem": "4.48",
+    "question": "Proč většina hmyzu vydává zvuk jen za letu a proč mají různé druhy různě vysoký tón?",
+    "options": [
+      "zdrojem zvuku jsou kmitající křídla a výška tónu závisí na frekvenci jejich kmitání",
+      "zdrojem zvuku je tření vzduchu o tělo a výška závisí na rychlosti letu a tvaru těla",
+      "zdrojem je rezonanční dutinka v přední části těla, která potřebuje stále nový vzduch",
+      "zdrojem je hlasový orgán, který nepracuje při jídle, a výška závisí na jeho stavbě"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Bzučení vytvářejí křídla, která kmitají stovkykrát za sekundu. Výška tónu odpovídá frekvenci kmitání: komár kmitá křídly rychleji a piští výš, čmelák pomaleji a bzučí hlouběji."
+    ],
+    "memory": "Bzučení = frekvence křídel."
+  },
+  {
+    "id": 1143,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.49 · str. 54",
+    "sourcePages": "54",
+    "sourceItem": "4.49",
+    "question": "Při audiometrii bylo ucho nejcitlivější při 3,2 kHz. Dolní hranice slyšení ležela o 7 oktáv níž a horní o 2 oktávy výš. Jaký je rozsah slyšení?",
+    "options": [
+      "16 Hz – 20 kHz",
+      "25 Hz – 12,8 kHz",
+      "160 Hz – 16 kHz",
+      "457 Hz – 6,4 kHz"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Každá oktáva znamená dvojnásobek nebo polovinu frekvence. Dolní hranice je 3200 / 2⁷ = 3200 / 128 = 25 Hz, horní 3200 · 2² = 12,8 kHz."
+    ],
+    "memory": "7 oktáv = 2⁷ = 128×."
+  },
+  {
+    "id": 1144,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.50 · str. 54",
+    "sourcePages": "54",
+    "sourceItem": "4.50",
+    "question": "Jaká síla působí na hmotný bod při harmonickém pohybu mechanického oscilátoru?",
+    "options": [
+      "síla nepřímo úměrná okamžité výchylce",
+      "síla směřující z rovnovážné polohy",
+      "síla směřující do rovnovážné polohy",
+      "síla s velikostí přímo úměrnou výchylce"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Harmonický pohyb vzniká působením vratné síly F = −k·y. Ta je přímo úměrná výchylce a míří vždy zpět do rovnovážné polohy."
+    ],
+    "memory": "F = −k·y."
+  },
+  {
+    "id": 1145,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.51 · str. 55",
+    "sourcePages": "55",
+    "sourceItem": "4.51",
+    "question": "Zvuk z jednoho zdroje se odráží od dvou stejných předmětů. Kde vzniká při interferenci největší intenzita zvuku?",
+    "options": [
+      "jen tam, kde je dráhový rozdíl sudým násobkem vlnové délky",
+      "kde je dráhový rozdíl lichým násobkem třetiny vlnové délky",
+      "kde je dráhový rozdíl lichým násobkem poloviny vlnové délky",
+      "kde je dráhový rozdíl celočíselným násobkem vlnové délky"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Vlny se zesilují, když se setkají ve stejné fázi, tedy při dráhovém rozdílu k·λ pro jakékoli celé k. Při lichém násobku λ/2 se ruší."
+    ],
+    "memory": "Zesílení k·λ, zeslabení (2k+1)·λ/2."
+  },
+  {
+    "id": 1146,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.52 · str. 55",
+    "sourcePages": "55",
+    "sourceItem": "4.52",
+    "question": "Co platí při šíření netlumené rovinné postupné vlny?",
+    "options": [
+      "nepřenáší se mechanická energie",
+      "všechny body kmitají se stejnou amplitudou",
+      "směr šíření je určen tečnou k vlnoploše",
+      "v izotropním prostředí je fázová rychlost v různých směrech různá"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Netlumená vlna neztrácí energii, všechny body proto kmitají se stejnou amplitudou. Postupná vlna energii přenáší, šíří se kolmo k vlnoploše a v izotropním prostředí má ve všech směrech stejnou rychlost."
+    ],
+    "memory": "Netlumená = stálá amplituda."
+  },
+  {
+    "id": 1147,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.53 · str. 55",
+    "sourcePages": "55",
+    "sourceItem": "4.53",
+    "question": "Pozorovatel se přibližuje k nepohyblivému zdroji zvuku rychlostí rovnou dvojnásobku rychlosti zvuku. Jakou frekvenci vnímá oproti frekvenci zdroje?",
+    "options": [
+      "dvojnásobnou",
+      "trojnásobnou",
+      "poloviční",
+      "třetinovou"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Pro pozorovatele pohybujícího se ke zdroji platí f' = f·(c + v)/c. Při v = 2c je f' = f·3c/c = 3f."
+    ],
+    "memory": "Doppler: ke zdroji vyšší frekvence."
+  },
+  {
+    "id": 1148,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.54 · str. 55",
+    "sourcePages": "55",
+    "sourceItem": "4.54",
+    "question": "Okamžitá výchylka harmonického pohybu je v jednotkách SI y(t) = 0,01·sin(3,14·t + 1,57). Jaké jsou přibližně amplituda, perioda a počáteční fáze?",
+    "options": [
+      "Ym = 0,01 m, T = 0,5 s, φ₀ = 1,57 cm",
+      "Ym = 0,01 cm, T = 0,5 s, φ₀ = 1,57 s",
+      "Ym = 0,01 m, T = 2 s, φ₀ = π/2 rad",
+      "Ym = 1 cm, T = 2 s, φ₀ = 90°"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Amplituda je 0,01 m = 1 cm. Úhlová frekvence ω = 3,14 = π s⁻¹, takže T = 2π/ω = 2 s. Počáteční fáze 1,57 rad = π/2 = 90°. Fáze nemá jednotku délky ani času."
+    ],
+    "memory": "ω = π → T = 2 s."
+  },
+  {
+    "id": 1149,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.55 · str. 55",
+    "sourcePages": "55",
+    "sourceItem": "4.55",
+    "question": "Jakou rovnici může mít okamžitá výchylka oscilátoru s amplitudou A a periodou T = 2 s?",
+    "options": [
+      "y(t) = −A·sin(π·t + 3π/2)",
+      "y(t) = A·sin(π·t − π/2)",
+      "y(t) = A·sin(2π·t)",
+      "y(t) = −A·cos(π·t)"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "title": "Správně: A, B a D",
+    "paragraphs": [
+      "Pro T = 2 s je ω = 2π/T = π s⁻¹. Rovnice a, b a d mají ω = π a liší se jen počáteční fází (a je totéž co A·cos(πt), b a d totéž co −A·cos(πt)). Rovnice c má ω = 2π, tedy periodu 1 s."
+    ],
+    "memory": "Rozhoduje ω = 2π/T."
+  },
+  {
+    "id": 1150,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.57 · str. 56",
+    "sourcePages": "56",
+    "sourceItem": "4.57",
+    "question": "Jaká je rychlost závaží kmitajícího na ideální pružině ve vakuu?",
+    "options": [
+      "harmonická funkce času",
+      "nezávislá na úhlové frekvenci",
+      "stálá",
+      "lineárně rostoucí s časem"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Je-li výchylka y = Ym·sin(ωt), je rychlost v = ω·Ym·cos(ωt). Je to tedy harmonická funkce času a její amplituda ω·Ym závisí na úhlové frekvenci."
+    ],
+    "memory": "Výchylka, rychlost i zrychlení jsou harmonické."
+  }
+]

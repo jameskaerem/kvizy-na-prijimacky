@@ -406,8 +406,23 @@ Soubor `uk-1051-1100.json`, generátor `create_uk_1051_1100.py`. Formát zkoušk
 
 Nepřidáno (stejný poznatek jako starší nebo nová otázka):
 - 3.03 (jako 3.02), 3.07 (Bernoulli jako zákon zachování energie, nová 1087), 3.10 (jako 3.09), 3.14 a 3.18 (v exportu ztracené horní indexy, poznatek Ep = m·g·h a p = h·ρ·g už v UK 1027 a 1060), 3.15, 3.48 a 3.81 (tlak 10 m pod vodou a atmosférický tlak, LF MU 104 a 111, nová 1082), 3.17 a 3.82 (Hookův zákon a jednotka E, LF MU 124 a nová 1092), 3.24, 3.26, 3.29, 3.31, 3.33 a 3.34 (joule, pascal a watt, LF MU 5 a 6, nové 1016, 1059 a 1072), 3.32 (účinnost bez jednotky, LF MU 7), 3.36, 3.39 a 3.66 (rovnice spojitosti a poměr rychlostí, LF MU 120, nové 1074 a 1100), 3.37 (kWh jako jednotka energie, nová 1075), 3.42 (jako 3.11), 3.45 (jako 3.44), 3.65 (jako UK 1035), 3.68 (rovnice spojitosti a zachování hmoty, LF MU 116), 3.73 a 3.74 (v = g·t a h = ½·g·t², UK 1030), 3.79, 3.83 a 3.85 (tlak jako skalár, nová 1069), 3.80 (opak laminárního proudění, nová 1076), 3.84 (pád ve vakuu, UK 1032), 3.87 (vztlaková síla, LF MU 102), 3.88 (práce, UK 1040), 3.89 (pascal).
-- Úlohy 3.13, 3.20, 3.23, 3.25, 3.27, 3.53, 3.55, 3.57, 3.59, 3.63, 3.70, 3.71 a 3.78 se posoudí v další dávce.
+- Úlohy 3.13, 3.20, 3.23, 3.25, 3.27, 3.53, 3.55, 3.57, 3.59, 3.63, 3.70, 3.71 a 3.78 jsou posouzené u dávky 1101–1150.
+
+## Dávka ID 1101–1150, fyzika: zbytek Mechaniky II a Kmitání, vlnění a akustika (v2.84.0)
+
+Soubor `uk-1101-1150.json`, generátor `create_uk_1101_1150.py`. Formát zkoušky, klíč porovnán s kap. 12 knihy, výpočty ověřeny.
+
+| Předmět | Kapitola | Úlohy | ID |
+|---|---|---|---|
+| Fyzika | 3. Mechanika II (str. 33–43) | 3.13, 3.55, 3.59, 3.71, 3.78 | 1101–1105 |
+| Fyzika | 4. Kmitání, vlnění a akustika (str. 47–56) | 4.01, 4.02, 4.04, 4.05, 4.07–4.14, 4.18–4.20, 4.24–4.35, 4.37–4.42, 4.44, 4.45, 4.47–4.55, 4.57 | 1106–1150 |
+
+Nepřidáno (stejný poznatek jako starší nebo nová otázka):
+- Mechanika II: 3.20 (hydrostatický tlak úměrný hloubce, UK 1060), 3.23, 3.25 a 3.27 (joule, pascal a watt jinými jednotkami, UK 1059, 1072 a 1085), 3.53, 3.57, 3.63 a 3.70 (skalár a vektor, ČB 534, UK 1028 a 1069).
+- Kmitání a akustika: 4.03 (jako 4.02), 4.06 a 4.21 (slyšitelné pásmo a infrazvuk, nová 1131), 4.15 (rovnice harmonického kmitání, LF MU 154), 4.16 (rychlost oscilátoru, LF MU 152), 4.17 (hertz jako s⁻¹, nová 1109), 4.22 a 4.23 (fázový rozdíl π a 2π, LF MU 155 a 160), 4.36 (jako 4.35), 4.43 (práh slyšení, LF MU 168), 4.56 (vlnová délka tónu, nová 1122).
+- Odloženo jako sporné: 4.46. Klíč knihy uvádí jako správné, že při stojatém vlnění kmitají všechny body se stejnou fází. Body za sousedním uzlem však kmitají s opačnou fází, takže tvrzení platí jen mezi dvěma uzly.
+- Úlohy 4.58 a výš se posoudí v další dávce.
 
 ## Stav pokrytí
 
-Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) je posouzená celá včetně úloh s více správnými odpověďmi (ID 738–1000). Fyzika (Amler, celá kniha 907 úloh) je posouzená v kap. 1 a 2 a v hlavní části kap. 3. Další dávka začne od ID 1101 zbytkem kap. 3 a kap. 4.
+Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) je posouzená celá včetně úloh s více správnými odpověďmi (ID 738–1000). Fyzika (Amler, celá kniha 907 úloh) je posouzená v kap. 1–3 a v kap. 4 po úlohu 4.57. Další dávka začne od ID 1151 úlohou 4.58.
