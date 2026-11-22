@@ -207,6 +207,20 @@ Nepřidané položky:
 - Chemie str. 166–179: 166/2–166/4 (zápis aminů, UK 432), 167/2 (varianta 452), 168/2, 168/3, 177/2–179/2 (vzorce jen jako obrázek), 169/1, 169/4 (varianty 454 a 457), 170/1 (varianta 460), 172/2, 172/3, 173/1, 175/1 (dvě správné možnosti), 173/2–173/5 (pyrrol a porfyrin v hemu a chlorofylu, UK 42), 174/4 (varianta 469), 175/5 (varianta 474), 176/5 (varianta 479).
 - Biologie 542–625: 550, 553, 570 (více správných možností, trypanozoma a toxoplazma v LF MU 399 a UK 522), 591 (žebříčková nervová soustava, SOM 66), 592 (struna hřbetní, UK 397), 594, 595, 602–604 (plíce, oběh, teplokrevnost a komorové oko, UK 449, 491 a 390), 597 (vzdušnice, SOM 239), 599, 600 (komorové a složené oko, UK 390), 601 (kostra žraloka, UK 446), 606–619, 621, 622, 624, 625 (biologie člověka pokrytá bankami SOM, BIO a ČB, například obratle BIO 31–32, nefron BIO 336–339, oko BIO 651–678, Langerhansovy ostrůvky BIO 588, vestibulární ústrojí BIO 616–630).
 
+## Dávka ID 501–550 (v2.63.0)
+
+Soubor `uk-501-550.json`, generátor `create_uk_501_550.py`. Chemie ověřena výkladem, biologie porovnána s klíčem. Otázky s více správnými možnostmi přeformulovány na jednu správnou.
+
+| Předmět | Kapitola | Použité úlohy | ID |
+|---|---|---|---|
+| Chemie | 5.2 Monosacharidy, disacharidy, polysacharidy (str. 179–185) | str. 179/4, 180/2, 180/3, 180/5, 180/6, 181/1, 181/4, 181/5, 182/1, 182/3, 183/1, 183/6, 183/2, 184/1, 184/2, 184/5, 185/2 | 501–517 |
+| Chemie | 5.3 Lipidy (str. 185–190) | str. 185/3, 185/6, 186/3, 186/4, 187/1, 187/3, 187/5, 188/1, 188/2, 188/4, 188/6, 189/2, 189/3, 189/5, 190/1 | 518–532 |
+| Biologie | Biologie člověka (str. 138–145) | 626, 631, 632, 633, 634, 635, 638, 640, 641, 643, 646, 651, 654, 656, 658, 661, 662, 665 | 533–550 |
+
+Nepřidané položky:
+- Chemie str. 180–190: 180/1 (varianta 501), 180/4 (varianta 503), 181/2, 181/3, 181/6 (složení laktózy a sacharózy, BIO 286–287), 182/2 (maltóza, v 507), 182/4–182/6 (varianty 510), 183/3–183/5 (varianty 511), 184/3 (glykogen u živočichů, BIO 298, ČB 16), 184/4, 184/6 (celulóza, BIO 265 a 516), 185/1 (Fehlingova reakce, BIO 869), 185/4, 185/5, 186/1 (varianty 518–519), 186/2, 186/5, 186/6 (varianty 520–521), 187/2, 187/4, 187/6, 188/3, 188/5 (varianty 523–527), 189/1 (esenciální kyselina linolová, BIO 322), 189/4, 189/6, 190/2, 190/3 (varianty 530–532), 190/4 (cholesterol jako sterol, ČB 280).
+- Biologie 626–665: 627 (kortikoidy kůry nadledvin, BIO 578), 628, 636 (imunoglobuliny a plazmatické buňky, BIO 107), 629 (menopauza, BIO 798), 630 (vitamin D, ČB 15), 637 (myofibrily, SOM 110), 639, 642 (triceps a biceps, BIO 61–62), 644, 645 (testosteron, ČB 329, SOM 543), 647, 649 (čípky a tyčinky, BIO 664, ČB 638), 648 (sluch, BIO 637), 650 (aldosteron, ČB 355), 652 (neuron, ČB 408), 653 (synapse, BIO 411–414), 655 (ADH, BIO 349), 657 (TSH, BIO 550), 659, 660 (dendrit a axon, SOM 68, BIO 394), 663 (inzulin, BIO 589), 664 (hladká svalovina střeva, BIO 70).
+
 ## Další dávky
 
-Pokračovat od ID 501. Fyzika čeká na plnou knihu. Chemie pokračuje kap. 5.2 od str. 179 (otázka 4), biologie od otázky 626 (biologie člověka, nutná pečlivá kontrola duplicit vůči SOM, BIO a ČB). Úplné pokrytí zatím nebylo dosaženo.
+Pokračovat od ID 551. Fyzika čeká na plnou knihu. Chemie pokračuje kap. 5.4 Vitaminy od str. 190 (otázka 5), biologie od otázky 666 (biologie člověka, nutná pečlivá kontrola duplicit vůči SOM, BIO a ČB). Úplné pokrytí zatím nebylo dosaženo.
