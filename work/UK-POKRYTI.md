@@ -98,6 +98,27 @@ Nepřidané položky:
 - Kap. 2.3 do str. 76: 70/5, 71/1, 71/2, 71/4–71/6, 72/2, 72/4, 72/5, 73/2, 73/4, 73/5, 74/2–74/4, 74/6, 75/1 (určení oxidačního čísla, varianty 173–180 a ČB 528, 530), 72/6 a 73/1 (fluor, ČB 528), 75/4–75/6, 76/1–76/4, 76/6 (oxidační a redukční činidla, varianty 181–182). Odloženo jako sporné: 72/3 (fosfor může mít oxidační číslo IV, např. v H₄P₂O₆).
 - Biologie 313–365: 314 (žádná možnost není správná, klíč d), 315–316 (polygenní systém, varianta 197), 317 (zdroje proměnlivosti, souhrnně pokryté UK 86 a ČB 206), 318 (varianta 200), 320, 332–334, 355, 356, 358, 359, 365 (základní pojmy alela, homozygot a dominance, LF MU 144–145 a UK 148), 321, 331, 349 (štěpné poměry, ČB 118 a LF MU 145, 148), 322 (definice populace), 324 (výpočty z q², LF MU 150), 326 a 330 (hemofilie, SOM 41 a ČB 203), 329 a 360 (daltonismus a X-recesivní dědičnost, SOM 42 a UK 191), 335 a 347 (vazba genů, LF MU 148), 336 (varianta 184), 340 a 348 (varianty 187 a 192), 346 (rodokmen hemofilie, varianta 183 a 194), 350–352 (varianty 191, 195, 200), 354 (genom, ČB 291), 362 (gamety dihybrida, ČB 206), 364 (monogenní znaky, varianta 199).
 
+## Dávka ID 201–250 (v2.51.0)
+
+Soubor `uk-201-250.json`, generátor `create_uk_201_250.py` (sdílený `batch_tools.py`). Chemie ověřena výpočtem a výkladem (textová kopie nemá vyznačený klíč), biologie porovnána s klíčem. Otázky s více správnými možnostmi přeformulovány na jednu správnou.
+
+| Předmět | Kapitola | Použité úlohy | ID |
+|---|---|---|---|
+| Chemie | 2.3 Oxidace a redukce (str. 77–79) | str. 77/3, 77/5, 77/6, 78/2, 78/6, 79/1, 79/2, 79/3, 79/4, 79/5 | 201–210 |
+| Chemie | 2.4 Elektrolýza (str. 79–81) | str. 79/6, 80/4, 81/3 | 211–213 |
+| Chemie | 2.5 Úprava chemických rovnic (str. 81–83) | str. 81/4, 82/1, 82/2, 82/3, 83/1, 83/3 | 214–219 |
+| Chemie | 3.1 Výpočty z chemických vzorců (str. 84–86) | str. 84/1, 85/3, 85/5, 86/3 | 220–223 |
+| Chemie | 3.2 Látkové množství a koncentrace (str. 87–96) | str. 87/2, 88/1, 88/2, 89/4, 92/2, 92/5, 95/3, 96/3, 96/4 | 224–232 |
+| Biologie | Genetika (str. 84–94) | 367, 369, 370, 371, 375, 376, 383, 391, 392, 399, 402, 403, 405, 406, 410, 411, 413, 418 | 233–250 |
+
+Nepřidané položky:
+- Kap. 2.3 str. 77–79: 77/1, 77/2, 78/1, 78/3–78/5 (definice oxidace a redukce, varianty 203, 210 a UK 181–182), 77/4 (CuSO₄ + Fe, UK 73).
+- Kap. 2.4: 80/1–80/3, 80/5, 81/1, 81/2 (produkty elektrolýzy NaCl a KCl, varianty 211–212).
+- Kap. 2.5: 82/4 (nabídka v textové kopii neúplná), 83/2 a 83/4 (stejný postup jako 214 a 219).
+- Kap. 3.1: 84/2, 84/3, 85/1, 85/2 (hmotnost prvku ve sloučenině, varianta 220), 85/4 (varianta 221), 86/1 (Glauberova sůl, varianta 222), 86/2 (varianta 223).
+- Kap. 3.2 str. 86–96: 86/4, 86/5, 87/1, 87/3–87/6 (jednotky veličin, varianta 224 a ČB 543, LF MU 14), 88/3 (hodnota N_A, ve vysvětlení 226), 88/4–88/6, 89/1 (počet atomů ve vzorci, triviální), 89/2, 89/3, 89/5, 90/1–90/5, 91/1–91/5, 92/3, 92/4 (n = m/M a počet částic, varianty 227 a 231), 92/1 (varianta 228), 93/1–93/5, 94/1–94/5 (c = m/(M·V), varianta 229; 94/4 a 94/5 mají v zadání chybné Ar), 95/1, 95/2, 95/4, 95/5, 96/1, 96/2 (m = c·V·M, varianta 230), 96/5 (varianta 232).
+- Biologie 366–420: 366, 372 (alela a genotyp, ČB 407 a LF MU 140), 368 a 374 (dominantní a X-vázaná dědičnost, UK 189 a 191), 373, 377, 378, 419, 420 (Mendelovy štěpné poměry, ČB 118, UK 148, 196), 379 (vazba genů, LF MU 147), 380 (centimorgan, ve vysvětlení 250), 381 a 382 (polygenní a multifaktoriální znaky, LF MU 200 a varianta 234), 384 (konkordance dvojčat, sporné zadání), 385, 386, 390, 414, 415 (panmixie, faktory frekvence alel a drift, UK 184, 185, 192), 387–389, 401 (výpočty H–W, varianta 240 a LF MU 150), 393 a 407–409 (X-recesivní dědičnost a hemofilie, UK 191, SOM 38–41), 394 a 396 (autozomově recesivní dědičnost, UK 190), 395 (vlastnosti mutací, obecné), 397 (trizomie, BIO 837 a LF MU 149), 398 a 400 (zpětné křížení a 1/16, varianty 235 a ČB 118), 404 (pojmy křížení, triviální), 412 (alogamická populace, opak 249), 416 (proband, ČB 568), 417 (organizace prenatální diagnostiky v ČR, časově citlivé).
+
 ## Další dávky
 
-Pokračovat od ID 201. Fyzika čeká na plnou knihu. Chemie pokračuje kap. 2.3 od str. 77, biologie genetikou od otázky 366. Úplné pokrytí zatím nebylo dosaženo.
+Pokračovat od ID 251. Fyzika čeká na plnou knihu. Chemie pokračuje kap. 3.2 od str. 97, biologie od otázky 421. Úplné pokrytí zatím nebylo dosaženo.
