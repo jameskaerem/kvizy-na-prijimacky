@@ -489,6 +489,12 @@ Použité úlohy (ID): 10.01–10.08 (1451–1458), 10.10–10.14 (1459–1463),
 
 Vynechané: 10.09 (stejné zadání jako 10.08, výsledek je ve vysvětlení), 10.15 a 10.16 (triviální hodnoty indexu lomu), 10.20 (jako 10.19), 10.22 (jako 10.21), 10.24 (jako 10.23), 10.30 (LF MU 353), 10.34 (LF MU 378), 10.37 a 10.42 (jako 10.39 a LF MU 358), 10.40 (jako 10.41), 10.43 (LF MU 379), 10.47 (jako UK 1116), 10.54 (jako 10.53), 10.58 (jako 9.63), 10.60 (LF MU 356), 10.63 (jako 9.62). Úlohy 10.68–10.77 přejdou do další dávky.
 
+## Dávka ID 1501–1550: Amler, konec kap. 10 a kap. 11 Atomová fyzika po úlohu 11.69 (v2.92.0)
+
+Použité úlohy (ID): 10.68–10.72 (1501–1505), 10.74 (1506), 10.77 (1507), kap. 11: 11.01 (1508), 11.03–11.06 (1509–1512), 11.08, 11.09 (1513–1514), 11.11 (1515), 11.14–11.17 (1516–1519), 11.19–11.21 (1520–1522), 11.23–11.27 (1523–1527), 11.31 (1528), 11.33–11.36 (1529–1532), 11.38 (1533), 11.40, 11.41 (1534–1535), 11.44–11.46 (1536–1538), 11.48 (1539), 11.52 (1540), 11.54 (1541), 11.56–11.59 (1542–1545), 11.61 (1546), 11.64 (1547), 11.66, 11.67 (1548–1549), 11.69 (1550). Klíč všech 50 otázek odpovídá klíči knihy, výpočty (10.72, 11.04, 11.31, 11.36, 11.52) jsou přepočítané. Kapitola 10 je tím posouzená celá.
+
+Vynechané: 10.73 (stejné zadání jako 10.72), 10.75 (LF MU 368), 10.76 (LF MU 353 a 360); 11.02 (jako 11.58), 11.07 (jako 11.08), 11.10 (LF MU 424), 11.12 (jako 11.11), 11.13 a 11.22 (LF MU 428), 11.18 (jako 11.19), 11.28, 11.29 a 11.63 (UK 21, 22 a LF MU 451), 11.30, 11.32 a 11.39 (jako 11.04 a 11.45), 11.37, 11.42 a 11.43 (LF MU 71 a 696), 11.47 (jako UK 1262), 11.49–11.51 (LF MU 430 a 453), 11.53 (jako 11.52), 11.55 (LF MU 502), 11.60 (jako 11.59), 11.62 (jako 11.03 a LF MU 503), 11.65 (LF MU 504), 11.68 (jako 11.77 v další dávce).
+
 ## Stav pokrytí
 
-Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) je posouzená celá včetně úloh s více správnými odpověďmi (ID 738–1000). Fyzika (Amler, celá kniha 907 úloh) je posouzená v kap. 1–9 a v kap. 10 po úlohu 10.67. Další dávka začne od ID 1501 úlohou 10.68.
+Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) je posouzená celá včetně úloh s více správnými odpověďmi (ID 738–1000). Fyzika (Amler, celá kniha 907 úloh) je posouzená v kap. 1–10 a v kap. 11 po úlohu 11.69. Poslední dávka začne od ID 1551 úlohou 11.70.
