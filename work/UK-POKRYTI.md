@@ -421,8 +421,22 @@ Nepřidáno (stejný poznatek jako starší nebo nová otázka):
 - Mechanika II: 3.20 (hydrostatický tlak úměrný hloubce, UK 1060), 3.23, 3.25 a 3.27 (joule, pascal a watt jinými jednotkami, UK 1059, 1072 a 1085), 3.53, 3.57, 3.63 a 3.70 (skalár a vektor, ČB 534, UK 1028 a 1069).
 - Kmitání a akustika: 4.03 (jako 4.02), 4.06 a 4.21 (slyšitelné pásmo a infrazvuk, nová 1131), 4.15 (rovnice harmonického kmitání, LF MU 154), 4.16 (rychlost oscilátoru, LF MU 152), 4.17 (hertz jako s⁻¹, nová 1109), 4.22 a 4.23 (fázový rozdíl π a 2π, LF MU 155 a 160), 4.36 (jako 4.35), 4.43 (práh slyšení, LF MU 168), 4.56 (vlnová délka tónu, nová 1122).
 - Odloženo jako sporné: 4.46. Klíč knihy uvádí jako správné, že při stojatém vlnění kmitají všechny body se stejnou fází. Body za sousedním uzlem však kmitají s opačnou fází, takže tvrzení platí jen mezi dvěma uzly.
-- Úlohy 4.58 a výš se posoudí v další dávce.
+- Úlohy 4.58 a výš jsou posouzené u dávky 1151–1200.
+
+## Dávka ID 1151–1200, fyzika: zbytek akustiky a Termika (v2.85.0)
+
+Soubor `uk-1151-1200.json`, generátor `create_uk_1151_1200.py`. Formát zkoušky, klíč porovnán s kap. 12 knihy, výpočty ověřeny. V úloze 4.65 export ztratil druhou mocninu π, vztahy jsou zapsané s π² podle výpočtu.
+
+| Předmět | Kapitola | Úlohy | ID |
+|---|---|---|---|
+| Fyzika | 4. Kmitání, vlnění a akustika (str. 56–61) | 4.58, 4.60–4.67, 4.69, 4.74–4.78, 4.81, 4.83, 4.85, 4.86, 4.90, 4.91 | 1151–1171 |
+| Fyzika | 5. Termika (str. 63–69) | 5.01, 5.02, 5.04, 5.05, 5.07, 5.08, 5.11–5.16, 5.22, 5.24–5.29, 5.33, 5.35–5.40, 5.42, 5.44, 5.45 | 1172–1200 |
+
+Nepřidáno (stejný poznatek jako starší nebo nová otázka):
+- Akustika: 4.59 (jako 4.32), 4.68 (energie netlumeného oscilátoru, LF MU 151), 4.70, 4.71 a 4.73 (ultrazvuk proti zvuku, LF MU 161, 165 a 166), 4.72 (prostředí s nejrychlejším šířením, LF MU 174), 4.79 (tvar vlnoplochy, nová 1165), 4.80 (vlnová délka a fáze 2π, UK 1127), 4.82 (výška tónu, UK 1106), 4.84 (W·m⁻² jako intenzita, LF MU 162), 4.87 (výpočet hladiny intenzity, LF MU 169 a nová 1166), 4.88 (podélné vlnění ve vzduchu, nová 1169), 4.89 (jako 4.76).
+- Termika do úlohy 5.45: 5.03 (adiabatický děj bez výměny tepla, LF MU 210), 5.06 (tlak a hustota molekul, LF MU 218), 5.09 (izochorický děj, nová 1176), 5.10 (střední kinetická energie úměrná T, LF MU 219), 5.17–5.21 (jednotky energie, tepla, látkového množství a tepelných kapacit, LF MU 1 a 3, nové 1182–1184), 5.23 (jako 5.38), 5.30 (kruhový děj a vnitřní energie, LF MU 214), 5.31 (jako 5.12), 5.32 (adiabatická expanze, LF MU 206), 5.34 (jako 5.33), 5.41 (W = p·ΔV, LF MU 215), 5.43 (způsoby šíření tepla, LF MU 217).
+- Úlohy 5.46 a výš se posoudí v další dávce.
 
 ## Stav pokrytí
 
-Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) je posouzená celá včetně úloh s více správnými odpověďmi (ID 738–1000). Fyzika (Amler, celá kniha 907 úloh) je posouzená v kap. 1–3 a v kap. 4 po úlohu 4.57. Další dávka začne od ID 1151 úlohou 4.58.
+Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) je posouzená celá včetně úloh s více správnými odpověďmi (ID 738–1000). Fyzika (Amler, celá kniha 907 úloh) je posouzená v kap. 1–4 a v kap. 5 po úlohu 5.45. Další dávka začne od ID 1201 úlohou 5.46.

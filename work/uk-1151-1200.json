@@ -1,0 +1,1227 @@
+[
+  {
+    "id": 1151,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.58 · str. 56",
+    "sourcePages": "56",
+    "sourceItem": "4.58",
+    "question": "Jak se vypočítá rychlost šíření vlnění v z vlnové délky λ a frekvence f?",
+    "options": [
+      "v = λ/f",
+      "v = λ·f",
+      "v = 1/(λ·f)",
+      "v = f/λ"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Za jednu periodu postoupí vlna o jednu vlnovou délku, tedy v = λ/T = λ·f. Z toho plyne i λ = v/f."
+    ],
+    "memory": "v = λ·f."
+  },
+  {
+    "id": 1152,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.60 · str. 56",
+    "sourcePages": "56",
+    "sourceItem": "4.60",
+    "question": "Jaká je přibližně rychlost zvuku ve vzduchu?",
+    "options": [
+      "340 m·s⁻¹",
+      "3,4 km·s⁻¹",
+      "3400 km·s⁻¹",
+      "340 km·h⁻¹"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Ve vzduchu při pokojové teplotě se zvuk šíří asi 340 m/s, tedy zhruba 1200 km/h. Proto blesk vzdálený 1 km uslyšíme asi za 3 s."
+    ],
+    "memory": "Zvuk urazí 1 km za 3 s."
+  },
+  {
+    "id": 1153,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.61 · str. 56",
+    "sourcePages": "56",
+    "sourceItem": "4.61",
+    "question": "Ultrazvuk se v kostech šíří rychlostí asi 3360 m/s. Který postup vede k vyjádření této rychlosti v km/h?",
+    "options": [
+      "3360 · 3,6 km/h = 12 096 km/h",
+      "3360 / 3,6 km/h = 933 km/h",
+      "3360 · 60 km/h = 201 600 km/h",
+      "3360 / 60 km/h = 56 km/h"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "1 m/s = 3600 m/h = 3,6 km/h. Rychlost v m/s se proto násobí 3,6."
+    ],
+    "memory": "m/s × 3,6 = km/h."
+  },
+  {
+    "id": 1154,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.62 · str. 56",
+    "sourcePages": "56",
+    "sourceItem": "4.62",
+    "question": "Sborový soprán zpívá tón c³ o frekvenci asi 1 kHz. Jaká je jeho vlnová délka ve vzduchu?",
+    "options": [
+      "340 cm",
+      "340 mm",
+      "170 mm",
+      "3,4 m"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "λ = v/f = 340 / 1000 = 0,34 m = 340 mm."
+    ],
+    "memory": "λ = v/f."
+  },
+  {
+    "id": 1155,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.63 · str. 56",
+    "sourcePages": "56",
+    "sourceItem": "4.63",
+    "question": "Na zvuk jakých frekvencí je ucho průměrného člověka nejcitlivější?",
+    "options": [
+      "16 – 50 Hz",
+      "700 – 6000 Hz",
+      "7 – 20 kHz",
+      "700 – 6000 kHz"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Ucho je nejcitlivější zhruba mezi 1 a 5 kHz, v pásmu důležitém pro řeč. Na okrajích slyšitelného pásma potřebuje mnohem větší intenzitu. Kilohertzy v řádu stovek jsou ultrazvuk."
+    ],
+    "memory": "Nejcitlivější kolem 1–5 kHz."
+  },
+  {
+    "id": 1156,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.64 · str. 57",
+    "sourcePages": "57",
+    "sourceItem": "4.64",
+    "question": "Těleso kmitá harmonicky s periodou 0,5 s a amplitudou 10 cm, v čase t = 0 má nulovou výchylku. Jakou rovnici má výchylka v centimetrech (t v sekundách)?",
+    "options": [
+      "y(t) = 10·sin(4π·t)",
+      "y(t) = 10·sin(4π·t + π/2)",
+      "y(t) = 10·sin(π·t)",
+      "y(t) = 10·cos(π·t + π/2)"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "ω = 2π/T = 2π/0,5 = 4π s⁻¹. Nulová výchylka v čase 0 znamená nulovou počáteční fázi u sinu. Možnost b začíná v amplitudě, c a d mají špatnou úhlovou frekvenci."
+    ],
+    "memory": "ω = 2π/T."
+  },
+  {
+    "id": 1157,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.65 · str. 57",
+    "sourcePages": "57",
+    "sourceItem": "4.65",
+    "question": "Těleso vykoná harmonicky 5 kmitů za 4 s s amplitudou 4 cm, v čase 0 má nulovou výchylku. Jaký vztah platí pro okamžité zrychlení a (m·s⁻², t v s)?",
+    "options": [
+      "a(t) = −0,25·π²·sin(5π·t/3)",
+      "a(t) = −0,04·π²·sin(5π·t/2)",
+      "a(t) = −0,25·π²·sin(5π·t/2)",
+      "a(t) = −0,04·π²·sin(5π·t/3)"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "f = 5/4 Hz, ω = 2πf = 5π/2 s⁻¹. Zrychlení je a = −ω²·Ym·sin(ωt) a jeho amplituda ω²·Ym = (25π²/4) · 0,04 = 0,25·π² m·s⁻²."
+    ],
+    "memory": "a = −ω²·y."
+  },
+  {
+    "id": 1158,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.66 · str. 57",
+    "sourcePages": "57",
+    "sourceItem": "4.66",
+    "question": "Těleso vykoná harmonicky 5 kmitů za 4 s s amplitudou 4 cm, v čase 0 má nulovou výchylku. Které vztahy pro úhlovou frekvenci ω (rad·s⁻¹) a výchylku y (m) platí?",
+    "options": [
+      "ω = 5π/2",
+      "ω = 1,6π",
+      "y(t) = 0,04·sin(5π·t/2)",
+      "y(t) = 4·sin(1,6π·t)"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Frekvence je 5 kmitů / 4 s = 1,25 Hz a ω = 2π · 1,25 = 2,5π = 5π/2. Amplituda v metrech je 0,04. Hodnota 1,6π by vyšla z obrácené frekvence 4/5."
+    ],
+    "memory": "f = počet kmitů / čas."
+  },
+  {
+    "id": 1159,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.67 · str. 57",
+    "sourcePages": "57",
+    "sourceItem": "4.67",
+    "question": "Komorní a má frekvenci 440 Hz. Jakou frekvenci má tón o dvě oktávy vyšší?",
+    "options": [
+      "1320 Hz",
+      "880 Hz",
+      "1760 Hz",
+      "110 Hz"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Každá oktáva zdvojnásobí frekvenci: 440 → 880 → 1760 Hz. 110 Hz je o dvě oktávy níž."
+    ],
+    "memory": "Dvě oktávy = 4× frekvence."
+  },
+  {
+    "id": 1160,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.69 · str. 57",
+    "sourcePages": "57",
+    "sourceItem": "4.69",
+    "question": "Na čem závisí úhlová frekvence fyzikálního kyvadla?",
+    "options": [
+      "je převrácenou hodnotou doby kmitu",
+      "jen na hmotnosti a tíhovém zrychlení",
+      "je přímo úměrná hmotnosti a nepřímo úměrná délce",
+      "na momentu setrvačnosti vzhledem k ose kývání"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Pro fyzikální kyvadlo platí ω = √(m·g·d/J), kde d je vzdálenost těžiště od osy a J moment setrvačnosti. Převrácenou hodnotou doby kmitu je frekvence, ne úhlová frekvence."
+    ],
+    "memory": "Fyzikální kyvadlo: rozhoduje J."
+  },
+  {
+    "id": 1161,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.74 · str. 58",
+    "sourcePages": "58",
+    "sourceItem": "4.74",
+    "question": "Jakou vlnovou délku mají ultrazvukové vlny ve vzduchu?",
+    "options": [
+      "větší než 21 m",
+      "menší než 21 m a větší než 17 mm",
+      "větší než 17 mm",
+      "menší než 17 mm"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Ultrazvuk má frekvenci nad 20 kHz, ve vzduchu tedy λ < 340 / 20 000 m = 17 mm. Rozmezí 17 mm až 21 m odpovídá slyšitelnému zvuku a nad 21 m je infrazvuk."
+    ],
+    "memory": "Slyšitelný zvuk: 17 mm až 21 m."
+  },
+  {
+    "id": 1162,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.75 · str. 58",
+    "sourcePages": "58",
+    "sourceItem": "4.75",
+    "question": "Kdy je vlivem Dopplerova jevu přijímaná frekvence ultrazvuku vyšší?",
+    "options": [
+      "když se detektor pohybuje ke zdroji",
+      "když se zdroj a detektor vzdalují",
+      "když se zdroj a detektor pohybují stejným směrem stejnou rychlostí",
+      "když se zdroj pohybuje k detektoru"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Frekvence roste, když se zdroj a detektor přibližují, ať se pohybuje kterýkoli z nich. Při vzdalování klesá a při stejném pohybu obou se nemění."
+    ],
+    "memory": "Přibližování = vyšší tón."
+  },
+  {
+    "id": 1163,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.76 · str. 58",
+    "sourcePages": "58",
+    "sourceItem": "4.76",
+    "question": "Co platí o šíření zvuku vakuem?",
+    "options": [
+      "šíří se pomaleji než ve vzduchu",
+      "šíří se rychleji než ve vzduchu",
+      "zvuk se vakuem nešíří",
+      "ultrazvuk se šíří snáze než infrazvuk"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Zvuk je mechanické vlnění a potřebuje látkové prostředí, jehož částice kmitají. Ve vakuu se nešíří žádný zvuk, infrazvuk ani ultrazvuk."
+    ],
+    "memory": "Ve vesmíru je ticho."
+  },
+  {
+    "id": 1164,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.77 · str. 59",
+    "sourcePages": "59",
+    "sourceItem": "4.77",
+    "question": "Kde se dvě vlnění o stejné frekvenci a amplitudě interferencí ruší?",
+    "options": [
+      "kde je fázový rozdíl lichým násobkem π",
+      "kde je fázový rozdíl sudým násobkem π",
+      "kde je fázový rozdíl lichým násobkem 2π",
+      "kde je fázový rozdíl sudým násobkem 2π"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Vlny se ruší, když se setkají v opačné fázi, tedy při fázovém rozdílu (2k + 1)·π. Každý násobek 2π znamená stejnou fázi a zesílení."
+    ],
+    "memory": "Opačná fáze = vyrušení."
+  },
+  {
+    "id": 1165,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.78 · str. 59",
+    "sourcePages": "59",
+    "sourceItem": "4.78",
+    "question": "Jak je definována vlnoplocha?",
+    "options": [
+      "jako kulovitý útvar",
+      "jako rovina kmitání příčného nebo podélného vlnění",
+      "jako plocha, jejíž body kmitají se stejnou fází",
+      "jako plocha, jejíž body mají stále nulovou výchylku"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Vlnoplocha spojuje body, do kterých vlnění dospělo současně, a které proto kmitají se stejnou fází. Z bodového zdroje v izotropním prostředí je to kulová plocha, daleko od zdroje přibližně rovina."
+    ],
+    "memory": "Vlnoplocha = stejná fáze."
+  },
+  {
+    "id": 1166,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.81 · str. 59",
+    "sourcePages": "59",
+    "sourceItem": "4.81",
+    "question": "Vyšetřované ucho má při 2 kHz práh slyšení 20 dB. Co to znamená?",
+    "options": [
+      "nejslabší zvuk, který slyší, má stokrát vyšší intenzitu než u zdravého ucha",
+      "intenzita nejslabšího slyšeného zvuku je 10⁻¹⁰ W·m⁻²",
+      "ucho slyší lépe než zdravé ucho",
+      "ucho slyší hůř než zdravé ucho"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "title": "Správně: A, B a D",
+    "paragraphs": [
+      "20 dB = 2 B znamená intenzitu 10² krát vyšší než normální práh 10⁻¹² W·m⁻², tedy 10⁻¹⁰ W·m⁻². Ucho potřebuje silnější zvuk, slyší tedy hůř."
+    ],
+    "memory": "+20 dB = 100× intenzita."
+  },
+  {
+    "id": 1167,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.83 · str. 59",
+    "sourcePages": "59",
+    "sourceItem": "4.83",
+    "question": "Co jsou vyšší harmonické frekvence?",
+    "options": [
+      "celočíselné podíly základní frekvence",
+      "celočíselné násobky komorního a",
+      "celočíselné násobky základní frekvence",
+      "celočíselné násobky frekvence 1000 Hz"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Vyšší harmonické mají frekvence 2f, 3f, 4f… základního tónu f. Jejich zastoupení určuje barvu tónu."
+    ],
+    "memory": "Harmonické = n·f."
+  },
+  {
+    "id": 1168,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.85 · str. 60",
+    "sourcePages": "60",
+    "sourceItem": "4.85",
+    "question": "Co platí o zrychlení harmonického kmitavého pohybu?",
+    "options": [
+      "je nepřímo úměrné výchylce a má stejný směr jako výchylka",
+      "je přímo úměrné výchylce a má stejný směr jako výchylka",
+      "je nepřímo úměrné výchylce a má opačný směr než výchylka",
+      "je přímo úměrné výchylce a má opačný směr než výchylka"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Pro harmonický pohyb platí a = −ω²·y. Zrychlení je úměrné výchylce a míří vždy proti ní, tedy do rovnovážné polohy."
+    ],
+    "memory": "a = −ω²·y."
+  },
+  {
+    "id": 1169,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.86 · str. 60",
+    "sourcePages": "60",
+    "sourceItem": "4.86",
+    "question": "Co je zvuk?",
+    "options": [
+      "vždy příčné mechanické vlnění",
+      "podélné elektromagnetické vlnění",
+      "přesun částic látky od zdroje k uchu",
+      "mechanické vlnění v plynné, kapalné nebo pevné látce"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Zvuk je mechanické vlnění látkového prostředí. Částice jen kmitají kolem svých poloh a látka se nepřesouvá. V plynech a kapalinách je zvuk podélný, v pevných látkách může být i příčný."
+    ],
+    "memory": "Zvuk přenáší energii, ne látku."
+  },
+  {
+    "id": 1170,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.90 · str. 60",
+    "sourcePages": "60",
+    "sourceItem": "4.90",
+    "question": "Čím se liší tóny stejné výšky, ale různé barvy?",
+    "options": [
+      "frekvencí tónu",
+      "zastoupením dalších harmonických frekvencí",
+      "hladinou hlasitosti",
+      "intenzitou"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Stejná výška znamená stejnou základní frekvenci. Barvu (proč housle a flétna znějí jinak) určuje podíl vyšších harmonických frekvencí. Hlasitost a intenzita určují sílu zvuku."
+    ],
+    "memory": "Barva = vyšší harmonické."
+  },
+  {
+    "id": 1171,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kmitání, vlnění a akustika",
+    "bookRef": "UK · Fyzika · Kmitání, vlnění a akustika · úloha 4.91 · str. 61",
+    "sourcePages": "61",
+    "sourceItem": "4.91",
+    "question": "Zvuk z majáku o frekvenci f dopadne na vodní hladinu a část pokračuje vodou, kde je rychlost zvuku asi 4,5krát větší než ve vzduchu. Co platí?",
+    "options": [
+      "frekvence se nezmění a vlnová délka bude 4,5krát větší",
+      "frekvence se nezmění a vlnová délka bude 4,5krát menší",
+      "frekvence bude 4,5krát větší a vlnová délka se nezmění",
+      "frekvence i vlnová délka budou 4,5krát větší"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Frekvenci určuje zdroj a při přechodu do jiného prostředí se nemění. Z λ = v/f plyne, že vlnová délka roste stejně jako rychlost, tedy 4,5krát."
+    ],
+    "memory": "Při lomu se nemění frekvence."
+  },
+  {
+    "id": 1172,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.01 · str. 63",
+    "sourcePages": "63",
+    "sourceItem": "5.01",
+    "question": "Ohřátí 1 kg vody o 1 °C vyžaduje 1 kcal = 4,185 kJ. Kolik energie potřebujeme na ohřátí 2 hl vody ke koupeli z 10 °C na 40 °C?",
+    "options": [
+      "asi 7 kWh",
+      "asi 25 MJ",
+      "asi 6000 kcal",
+      "asi 6000 kJ"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2
+    ],
+    "title": "Správně: A, B a C",
+    "paragraphs": [
+      "2 hl = 200 kg vody, ohřátí o 30 °C: Q = 200 · 30 = 6000 kcal = 6000 · 4,185 kJ ≈ 25 MJ. Po dělení 3,6 MJ/kWh to je asi 7 kWh. 6000 kJ je čtyřikrát méně."
+    ],
+    "memory": "1 kcal ≈ 4,2 kJ."
+  },
+  {
+    "id": 1173,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.02 · str. 63",
+    "sourcePages": "63",
+    "sourceItem": "5.02",
+    "question": "Co platí o prvním termodynamickém zákonu?",
+    "options": [
+      "platí jen pro neživé soustavy",
+      "je zákonem zachování energie",
+      "říká, že entropie stále roste",
+      "platí pro živé i neživé soustavy"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "První zákon ΔU = Q + W je zákon zachování energie a platí pro všechny soustavy včetně organismů. O růstu entropie mluví druhý termodynamický zákon."
+    ],
+    "memory": "1. zákon = zachování energie."
+  },
+  {
+    "id": 1174,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.04 · str. 63",
+    "sourcePages": "63",
+    "sourceItem": "5.04",
+    "question": "Co platí během jednoho cyklu kruhového děje (Q₁ teplo přijaté od ohřívače, Q₂ teplo odevzdané chladiči)?",
+    "options": [
+      "celkové přijaté teplo Q₁ − Q₂ je vždy nulové",
+      "celková práce pracovní látky je vždy nulová",
+      "celková práce pracovní látky je W = Q₁ − Q₂",
+      "celková práce pracovní látky je W = Q₂ − Q₁"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Po celém cyklu se pracovní látka vrátí do původního stavu a její vnitřní energie se nezmění. Rozdíl přijatého a odevzdaného tepla se proto přemění na práci: W = Q₁ − Q₂."
+    ],
+    "memory": "Práce cyklu = Q₁ − Q₂."
+  },
+  {
+    "id": 1175,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.05 · str. 63",
+    "sourcePages": "63",
+    "sourceItem": "5.05",
+    "question": "Co říká druhý termodynamický zákon (Q₁ teplo přijaté od ohřívače, Q₂ teplo odevzdané chladiči)?",
+    "options": [
+      "veškeré přijaté teplo lze využít ke konání práce",
+      "účinnost tepelného stroje je nejvýš 1 − Q₂/Q₁",
+      "účinnost tepelného stroje je Q₂/Q₁",
+      "nelze sestrojit stroj, který by trvale konal práci bez spotřeby jiné energie"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Podle druhého zákona musí stroj část tepla Q₂ odevzdat chladiči, a účinnost je proto nejvýš (Q₁ − Q₂)/Q₁ = 1 − Q₂/Q₁. Možnost d popisuje perpetuum mobile prvního druhu, které vylučuje první zákon."
+    ],
+    "memory": "Bez chladiče to nejde."
+  },
+  {
+    "id": 1176,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.07 · str. 64",
+    "sourcePages": "64",
+    "sourceItem": "5.07",
+    "question": "Co popisuje Charlesův zákon?",
+    "options": [
+      "děj, při kterém je objem stálý",
+      "děj, při kterém se nekoná práce",
+      "vztah p/T = konst.",
+      "vztah p₂ = (p₁/T₁)·T₂"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Charlesův zákon popisuje izochorický děj: při stálém objemu je tlak přímo úměrný termodynamické teplotě, p/T = konst., z čehož plyne p₂ = p₁·T₂/T₁. Plyn přitom nemění objem, a nekoná tedy práci."
+    ],
+    "memory": "Izochora: p/T = konst."
+  },
+  {
+    "id": 1177,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.08 · str. 64",
+    "sourcePages": "64",
+    "sourceItem": "5.08",
+    "question": "Co platí o ideálním plynu?",
+    "options": [
+      "teplo jen přijímá",
+      "při rozpínání nekoná práci",
+      "je nestlačitelný",
+      "je dokonale stlačitelný a bez vnitřního tření"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Ideální plyn je model: molekuly jsou bodové, působí na sebe jen při srážkách, plyn nemá vnitřní tření a je dokonale stlačitelný. Při rozpínání koná práci a teplo může přijímat i odevzdávat."
+    ],
+    "memory": "Ideální plyn = bodové molekuly, bez tření."
+  },
+  {
+    "id": 1178,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.11 · str. 64",
+    "sourcePages": "64",
+    "sourceItem": "5.11",
+    "question": "Který příklad přibližně odpovídá uvedenému pojmu?",
+    "options": [
+      "izolovaná soustava – kapalina v termosce",
+      "rovnovážný děj – průchod plynu turbínou",
+      "rovnovážný stav – plyn v uzavřené nádobě při stálé teplotě",
+      "rovnovážný stav – plyn v uzavřené nádobě, kterému se dodává teplo"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Termoska téměř brání výměně tepla i látky, obsah je tedy přibližně izolovaná soustava. Plyn v uzavřené nádobě při stálé teplotě je v rovnováze. Průchod turbínou je rychlý nevratný děj a plyn, kterému se dodává teplo, se teprve mění."
+    ],
+    "memory": "Rovnováha = nic se nemění."
+  },
+  {
+    "id": 1179,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.12 · str. 64",
+    "sourcePages": "64",
+    "sourceItem": "5.12",
+    "question": "Je možné, aby plyn předal chladnějšímu tělesu teplo 200 J a přitom vykonal práci 300 J?",
+    "options": [
+      "ne",
+      "ano",
+      "jen mezi pevnými látkami",
+      "jen za normálních podmínek"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Podle prvního zákona to možné je: energii na teplo i práci, celkem 500 J, plyn vezme ze své vnitřní energie, a jeho teplota proto klesne."
+    ],
+    "memory": "Práce i teplo mohou jít z vnitřní energie."
+  },
+  {
+    "id": 1180,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.13 · str. 65",
+    "sourcePages": "65",
+    "sourceItem": "5.13",
+    "question": "T₁ je teplota horké páry a T₂ teplota ochlazené páry v cyklicky pracujícím tepelném stroji. Jaká je ideální účinnost stroje?",
+    "options": [
+      "η = (T₂ − T₁)/T₁",
+      "η = (T₂ − T₁)/T₂",
+      "η = T₂/T₁",
+      "η = (T₁ − T₂)/T₁"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Účinnost Carnotova cyklu je η = (T₁ − T₂)/T₁ = 1 − T₂/T₁, kde teploty jsou termodynamické. Žádný stroj mezi stejnými teplotami nemůže mít účinnost vyšší."
+    ],
+    "memory": "Carnot: 1 − T₂/T₁."
+  },
+  {
+    "id": 1181,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.14 · str. 65",
+    "sourcePages": "65",
+    "sourceItem": "5.14",
+    "question": "Dva ideální plyny mají stejnou teplotu. Co z toho plyne?",
+    "options": [
+      "molekuly obou plynů mají stejnou střední kvadratickou rychlost",
+      "oba plyny mají molekuly stejné hmotnosti",
+      "molekuly obou plynů mají stejnou střední kinetickou energii",
+      "oba plyny mají stejný počet molekul"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Teplota určuje střední kinetickou energii molekuly, 3/2·k·T. Rychlost závisí i na hmotnosti molekul, lehčí molekuly (vodík) jsou rychlejší než těžší (kyslík)."
+    ],
+    "memory": "Stejná teplota = stejná střední Ek."
+  },
+  {
+    "id": 1182,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.15 · str. 65",
+    "sourcePages": "65",
+    "sourceItem": "5.15",
+    "question": "Které veličině přísluší jednotka J·K⁻¹?",
+    "options": [
+      "měrné tepelné kapacitě",
+      "výhřevnosti",
+      "tepelné kapacitě",
+      "molární tepelné kapacitě"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Tepelná kapacita C = Q/ΔT udává teplo potřebné k ohřátí celého tělesa o 1 K, J·K⁻¹. Měrná tepelná kapacita je navíc na kilogram (J·kg⁻¹·K⁻¹), molární na mol a výhřevnost je teplo na kilogram paliva (J·kg⁻¹)."
+    ],
+    "memory": "Měrná = na kilogram."
+  },
+  {
+    "id": 1183,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.16 · str. 65",
+    "sourcePages": "65",
+    "sourceItem": "5.16",
+    "question": "Které veličině přísluší jednotka J·kg⁻¹?",
+    "options": [
+      "měrné tepelné kapacitě",
+      "výhřevnosti",
+      "tepelné kapacitě",
+      "molární tepelné kapacitě"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Výhřevnost udává teplo uvolněné spálením 1 kg paliva, má tedy jednotku J·kg⁻¹. Tepelné kapacity obsahují ve jmenovateli i kelvin."
+    ],
+    "memory": "Výhřevnost = teplo z 1 kg paliva."
+  },
+  {
+    "id": 1184,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.22 · str. 66",
+    "sourcePages": "66",
+    "sourceItem": "5.22",
+    "question": "Jak se vyjádří jednotka měrné tepelné kapacity v základních jednotkách SI?",
+    "options": [
+      "m²·K⁻²·s⁻²",
+      "m²·K⁻¹·s⁻²",
+      "m²·kg·K⁻¹·s⁻²",
+      "m·K⁻¹·s⁻¹"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "J·kg⁻¹·K⁻¹ = kg·m²·s⁻²·kg⁻¹·K⁻¹ = m²·s⁻²·K⁻¹. Kilogram se vykrátí."
+    ],
+    "memory": "J/kg = m²/s²."
+  },
+  {
+    "id": 1185,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.24 · str. 66",
+    "sourcePages": "66",
+    "sourceItem": "5.24",
+    "question": "Jak se může měnit vnitřní energie ideálního plynu?",
+    "options": [
+      "konáním práce nebo tepelnou výměnou",
+      "jen při změně teploty",
+      "jen tepelnou výměnou",
+      "jen konáním práce"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Podle prvního zákona se vnitřní energie mění prací i teplem. Vnitřní energie ideálního plynu závisí jen na teplotě, takže se mění pouze tehdy, když se mění teplota."
+    ],
+    "memory": "Ideální plyn: U jen z T."
+  },
+  {
+    "id": 1186,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.25 · str. 66",
+    "sourcePages": "66",
+    "sourceItem": "5.25",
+    "question": "Kdy můžeme stlačení plynu označit za adiabatické?",
+    "options": [
+      "když je teplota stálá",
+      "když neprobíhá výměna tepla s okolím",
+      "když se objem plynu zmenší",
+      "když proběhne velmi rychle"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "Adiabatický děj probíhá bez výměny tepla. Prakticky toho dosáhneme tepelnou izolací nebo rychlým průběhem, kdy teplo nestihne uniknout (stlačení v pumpičce plyn zahřeje)."
+    ],
+    "memory": "Rychlé stlačení = adiabatické."
+  },
+  {
+    "id": 1187,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.26 · str. 66",
+    "sourcePages": "66",
+    "sourceItem": "5.26",
+    "question": "Jak se nazývají přístroje, kterými určujeme množství tepla?",
+    "options": [
+      "kalorimetry",
+      "teploměry",
+      "akumulátory",
+      "termistory"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Teplo se měří kalorimetrem, ve kterém se z naměřené změny teploty látky se známou tepelnou kapacitou určí přijaté nebo odevzdané teplo. Teploměr měří teplotu, ne teplo. Termistor je polovodičový teplotní senzor."
+    ],
+    "memory": "Kalorimetr měří teplo."
+  },
+  {
+    "id": 1188,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.27 · str. 67",
+    "sourcePages": "67",
+    "sourceItem": "5.27",
+    "question": "Co platí o hybnosti molekul dané látky?",
+    "options": [
+      "molekuly mají stejnou hybnost jen za normálních podmínek",
+      "molekuly mají stejnou hybnost jen v tepelné rovnováze",
+      "molekuly mají vždy stejnou hybnost",
+      "molekuly mají různou hybnost, statisticky rozloženou kolem střední hodnoty odpovídající teplotě"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Molekuly se neustále srážejí a jejich rychlosti a hybnosti se liší podle Maxwellova rozdělení. Teplota určuje jen střední hodnotu, jednotlivé molekuly mohou být mnohem pomalejší i rychlejší."
+    ],
+    "memory": "Rychlosti molekul jsou rozdělené."
+  },
+  {
+    "id": 1189,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.28 · str. 67",
+    "sourcePages": "67",
+    "sourceItem": "5.28",
+    "question": "Z čeho vyplývá nemožnost sestrojit perpetuum mobile druhého druhu?",
+    "options": [
+      "z prvního termodynamického zákona",
+      "z druhého termodynamického zákona",
+      "ze zákona zachování energie",
+      "ze zákona zachování hybnosti"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Perpetuum mobile druhého druhu by veškeré teplo z jednoho zdroje měnilo v práci bez chladiče. Zákon zachování energie by neporušilo, vylučuje ho druhý termodynamický zákon."
+    ],
+    "memory": "1. druh vylučuje 1. zákon, 2. druh 2. zákon."
+  },
+  {
+    "id": 1190,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.29 · str. 67",
+    "sourcePages": "67",
+    "sourceItem": "5.29",
+    "question": "Co platí o druhém termodynamickém zákonu?",
+    "options": [
+      "plyne z něj, že entropie izolované soustavy nemůže růst",
+      "plyne z něj, že entropie izolované soustavy nemůže klesat",
+      "živé soustavy ho neporušují, protože jejich entropie neklesá",
+      "živé soustavy ho neporušují, protože jsou to otevřené soustavy"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "Entropie izolované soustavy nemůže klesat, při nevratných dějích roste. Organismy si udržují uspořádanost a jejich entropie klesat může, ale jsou to otevřené soustavy, které entropii odevzdávají do okolí."
+    ],
+    "memory": "Organismus vyváží entropii do okolí."
+  },
+  {
+    "id": 1191,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.33 · str. 68",
+    "sourcePages": "68",
+    "sourceItem": "5.33",
+    "question": "Ideálně se chovající jednoatomové plyny mají stejný objem, teplotu i tlak. Co mají také stejné?",
+    "options": [
+      "přibližně stejný počet molekul",
+      "stejnou hmotnost",
+      "stejnou střední kinetickou energii atomů",
+      "stejnou teplotu tání"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Podle stavové rovnice p·V = N·k·T mají při stejném p, V a T stejný počet částic (Avogadrův zákon). Stejná teplota znamená stejnou střední kinetickou energii. Hmotnost a teplota tání závisí na druhu plynu."
+    ],
+    "memory": "Avogadro: stejné p, V, T = stejně částic."
+  },
+  {
+    "id": 1192,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.35 · str. 68",
+    "sourcePages": "68",
+    "sourceItem": "5.35",
+    "question": "Jakou hodnotu má Poissonova konstanta κ = cp/cV u plynů?",
+    "options": [
+      "v intervalu ⟨0, 1⟩",
+      "v intervalu (0, 1⟩",
+      "vždy větší než 1",
+      "vždy menší než 1"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Při stálém tlaku se část dodaného tepla spotřebuje na práci při rozpínání, proto cp > cV a κ > 1. Pro jednoatomový plyn je κ = 5/3, pro dvouatomový asi 1,4."
+    ],
+    "memory": "cp > cV."
+  },
+  {
+    "id": 1193,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.36 · str. 68",
+    "sourcePages": "68",
+    "sourceItem": "5.36",
+    "question": "Ideální plyn se izobaricky rozepne při tlaku 0,1 MPa z objemu 7 l na 8 l. Jakou vykoná práci?",
+    "options": [
+      "1000 J",
+      "100 J",
+      "75 J",
+      "jinou, než je uvedeno"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Při stálém tlaku W = p·ΔV = 10⁵ Pa · 10⁻³ m³ = 100 J."
+    ],
+    "memory": "1 l = 10⁻³ m³."
+  },
+  {
+    "id": 1194,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.37 · str. 68",
+    "sourcePages": "68",
+    "sourceItem": "5.37",
+    "question": "Jaký rozměr má Poissonova konstanta v Poissonově zákonu pro adiabatický děj?",
+    "options": [
+      "Pa",
+      "J·kg⁻¹·K⁻¹",
+      "J·mol⁻¹·K⁻¹",
+      "1 (je bezrozměrná)"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Poissonova konstanta je poměr dvou tepelných kapacit se stejnou jednotkou, cp/cV, a je proto bezrozměrná. Vystupuje jako exponent v rovnici p·V^κ = konst."
+    ],
+    "memory": "Poměr stejných jednotek = bezrozměrné."
+  },
+  {
+    "id": 1195,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.38 · str. 68",
+    "sourcePages": "68",
+    "sourceItem": "5.38",
+    "question": "Co platí pro cyklicky pracující tepelný stroj?",
+    "options": [
+      "k chodu je nutná soustava ohřívač–stroj–chladič",
+      "k chodu stačí soustava ohřívač–stroj",
+      "účinnost ideálního Carnotova stroje závisí jen na teplotách ohřívače a chladiče",
+      "reálné stroje mají nižší účinnost než Carnotův stroj, protože v nich probíhají nevratné děje"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "title": "Správně: A, C a D",
+    "paragraphs": [
+      "Podle druhého zákona musí stroj část tepla odevzdat chladiči, ohřívač sám nestačí. Carnotova účinnost 1 − T₂/T₁ závisí jen na teplotách. Tření a další nevratné děje snižují účinnost reálných strojů."
+    ],
+    "memory": "Bez chladiče žádný tepelný stroj."
+  },
+  {
+    "id": 1196,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.39 · str. 69",
+    "sourcePages": "69",
+    "sourceItem": "5.39",
+    "question": "Co platí pro děje v ideálním plynu?",
+    "options": [
+      "izochorický děj – změna vnitřní energie se rovná přijatému teplu",
+      "adiabatický děj – vnitřní energie se nemění",
+      "izobarický děj – přijaté teplo se rovná přírůstku vnitřní energie a vykonané práci",
+      "izotermický děj – práce plynu se rovná přijatému teplu"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "title": "Správně: A, C a D",
+    "paragraphs": [
+      "Při izochorickém ději plyn nekoná práci, teplo zvyšuje jen vnitřní energii. Při izotermickém ději se vnitřní energie nemění a všechno teplo jde na práci. Při izobarickém jde teplo na obojí. Adiabatický děj probíhá bez tepla a vnitřní energie se mění prací."
+    ],
+    "memory": "První zákon pro každý děj zvlášť."
+  },
+  {
+    "id": 1197,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.40 · str. 69",
+    "sourcePages": "69",
+    "sourceItem": "5.40",
+    "question": "Co platí pro ideální plyn?",
+    "options": [
+      "je zjednodušeným modelem reálného plynu",
+      "jeho molekuly na sebe působí přitažlivými a odpudivými silami",
+      "velikost jeho částic je proti jejich vzdálenostem zanedbatelná",
+      "za žádných podmínek nepodléhá fázovým změnám"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "title": "Správně: A, C a D",
+    "paragraphs": [
+      "Ideální plyn je model: částice jsou bodové a kromě srážek na sebe nepůsobí. Bez přitažlivých sil nemůže zkapalnět, žádné fázové změny tedy nemá. Reálné plyny se mu blíží při nízkém tlaku a vysoké teplotě."
+    ],
+    "memory": "Ideální plyn nezkapalní."
+  },
+  {
+    "id": 1198,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.42 · str. 69",
+    "sourcePages": "69",
+    "sourceItem": "5.42",
+    "question": "Co platí pro soustavu ve stavu termodynamické rovnováhy?",
+    "options": [
+      "její vnitřní energie se nemění",
+      "kinetická energie každé jednotlivé částice je stálá",
+      "teplota soustavy je stálá",
+      "střední kinetická energie částic je nulová"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "V rovnovážném stavu se makroskopické veličiny, jako teplota a vnitřní energie, nemění. Jednotlivé částice se ale dál srážejí a jejich energie se mění. Střední kinetická energie je nenulová, úměrná teplotě."
+    ],
+    "memory": "Rovnováha je makroskopická."
+  },
+  {
+    "id": 1199,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.44 · str. 69",
+    "sourcePages": "69",
+    "sourceItem": "5.44",
+    "question": "Co platí pro teploměry?",
+    "options": [
+      "teploměry měří přímo množství tepla",
+      "rtuťový teploměr pracuje s rtutí v pevném skupenství",
+      "rtuťový teploměr využívá závislost objemu rtuti na teplotě",
+      "rtuťový teploměr nelze použít při teplotách, kdy rtuť v kapiláře už není kapalná"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Teploměr měří teplotu, ne teplo. Rtuťový teploměr využívá teplotní roztažnost kapalné rtuti. Rtuť tuhne při −39 °C, pod touto teplotou se používá například lihový teploměr."
+    ],
+    "memory": "Rtuť tuhne při −39 °C."
+  },
+  {
+    "id": 1200,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termika",
+    "bookRef": "UK · Fyzika · Termika · úloha 5.45 · str. 69",
+    "sourcePages": "69",
+    "sourceItem": "5.45",
+    "question": "Co platí o vnitřní energii tělesa?",
+    "options": [
+      "je dána součtem kinetické a potenciální energie jeho částic",
+      "může se měnit konáním práce",
+      "její změna je při adiabatickém ději nulová",
+      "u ideálního jednoatomového plynu je lineární funkcí teploty, U = 3/2·N·k·T"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "title": "Správně: A, B a D",
+    "paragraphs": [
+      "Vnitřní energie je součet energií neuspořádaného pohybu a vzájemné polohy částic. Mění se prací i teplem. Při adiabatickém ději se mění právě prací. U ideálního jednoatomového plynu má každá částice střední energii 3/2·k·T."
+    ],
+    "memory": "Adiabaticky: ΔU = W."
+  }
+]
