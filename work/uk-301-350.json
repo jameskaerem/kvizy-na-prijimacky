@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 301,
+    "subject": "Chemie",
+    "category": "Chemie · 4.2 Izomerie, konformace, konfigurace",
+    "bookRef": "UK · Chemie · 4.2 Izomerie, konformace, konfigurace · str. 126, otázka 3",
+    "sourcePages": "126",
+    "sourceItem": "str. 126, otázka 3",
+    "question": "V jakém vztahu jsou butan a 2-methylpropan?",
+    "options": [
+      "mají stejný sumární vzorec, ale různou konstituci",
+      "jsou to dva názvy téže sloučeniny",
+      "jsou to cis-trans izomery",
+      "jsou to členy téže homologické řady lišící se o CH₂"
+    ],
+    "answer": 0,
+    "title": "mají stejný sumární vzorec, ale různou konstituci",
+    "paragraphs": [
+      "Obě látky mají vzorec C₄H₁₀. Butan má nerozvětvený řetězec, 2-methylpropan (isobutan) rozvětvený, jde tedy o konstituční (řetězové) izomery s odlišnými vlastnostmi."
+    ],
+    "memory": "Stejný vzorec, jiné pospojování = konstituční izomerie."
+  },
+  {
+    "id": 302,
+    "subject": "Chemie",
+    "category": "Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty",
+    "bookRef": "UK · Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty · str. 127, otázka 1",
+    "sourcePages": "127",
+    "sourceItem": "str. 127, otázka 1",
+    "question": "Z jakých vazeb je tvořena trojná vazba mezi dvěma atomy uhlíku?",
+    "options": [
+      "z jedné vazby π a dvou vazeb σ",
+      "z jedné vazby σ a dvou vazeb π",
+      "ze tří vazeb π",
+      "ze tří vazeb σ"
+    ],
+    "answer": 1,
+    "title": "z jedné vazby σ a dvou vazeb π",
+    "paragraphs": [
+      "Mezi dvěma atomy může být jen jedna vazba σ (překryv v ose spojnice jader). Další dvě vazby trojné vazby vznikají bočním překryvem orbitalů p, jsou to vazby π."
+    ],
+    "memory": "Násobná vazba: vždy 1 σ, zbytek π."
+  },
+  {
+    "id": 303,
+    "subject": "Chemie",
+    "category": "Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty",
+    "bookRef": "UK · Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty · str. 127, otázka 2",
+    "sourcePages": "127",
+    "sourceItem": "str. 127, otázka 2",
+    "question": "Která z uvedených látek obsahuje konjugovaný systém dvojných vazeb?",
+    "options": [
+      "but-1-en",
+      "cyklohexen",
+      "isopren",
+      "ethen"
+    ],
+    "answer": 2,
+    "title": "isopren",
+    "paragraphs": [
+      "Konjugované dvojné vazby se střídají s jednoduchou vazbou (C=C−C=C). Isopren, 2-methylbuta-1,3-dien, má takové uspořádání. Ostatní látky mají jen jednu dvojnou vazbu."
+    ],
+    "memory": "Konjugace: dvojná, jednoduchá, dvojná."
+  },
+  {
+    "id": 304,
+    "subject": "Chemie",
+    "category": "Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty",
+    "bookRef": "UK · Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty · str. 127, otázka 4",
+    "sourcePages": "127",
+    "sourceItem": "str. 127, otázka 4",
+    "question": "Která molekula obsahuje právě sedm vazeb σ?",
+    "options": [
+      "aceton",
+      "ethanol",
+      "acetaldehyd",
+      "kyselina octová"
+    ],
+    "answer": 3,
+    "title": "kyselina octová",
+    "paragraphs": [
+      "CH₃COOH: tři vazby C−H, jedna C−C, jedna σ ve vazbě C=O, jedna C−O a jedna O−H, celkem 7. Acetaldehyd jich má 6, ethanol 8 a aceton 9."
+    ],
+    "memory": "Každá vazba má jednu σ, i dvojná."
+  },
+  {
+    "id": 305,
+    "subject": "Chemie",
+    "category": "Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty",
+    "bookRef": "UK · Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty · str. 127, otázka 6",
+    "sourcePages": "127",
+    "sourceItem": "str. 127, otázka 6",
+    "question": "Jak se mění pevnost vazby mezi dvěma uhlíky od vazby jednoduché k vazbě trojné?",
+    "options": [
+      "stoupá",
+      "klesá",
+      "nemění se",
+      "nelze posoudit"
+    ],
+    "answer": 0,
+    "title": "stoupá",
+    "paragraphs": [
+      "S rostoucí násobností se zvyšuje počet sdílených elektronových párů, vazba se zkracuje a zpevňuje. Trojná vazba C≡C je nejkratší a nejpevnější, i když vazby π jsou jednotlivě slabší než σ."
+    ],
+    "memory": "Víc párů = kratší a pevnější vazba."
+  },
+  {
+    "id": 306,
+    "subject": "Chemie",
+    "category": "Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty",
+    "bookRef": "UK · Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty · str. 128, otázka 1",
+    "sourcePages": "128",
+    "sourceItem": "str. 128, otázka 1",
+    "question": "Jak se nazývá uhlovodíkový zbytek CH₂=CH−?",
+    "options": [
+      "ethyl",
+      "vinyl",
+      "ethylen",
+      "ethyn"
+    ],
+    "answer": 1,
+    "title": "vinyl",
+    "paragraphs": [
+      "Zbytek odvozený od ethenu odtržením jednoho vodíku se nazývá vinyl (ethenyl). Ethyl je CH₃−CH₂−, odvozený od ethanu."
+    ],
+    "memory": "Vinyl = ethen bez jednoho H."
+  },
+  {
+    "id": 307,
+    "subject": "Chemie",
+    "category": "Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty",
+    "bookRef": "UK · Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty · str. 128, otázka 4",
+    "sourcePages": "128",
+    "sourceItem": "str. 128, otázka 4",
+    "question": "Kolik různých alkylů lze odvodit od nerozvětveného pentanu?",
+    "options": [
+      "jeden",
+      "dva",
+      "tři",
+      "čtyři"
+    ],
+    "answer": 2,
+    "title": "tři",
+    "paragraphs": [
+      "Odtržením vodíku z uhlíku 1, 2 nebo 3 vzniknou tři různé zbytky: pentyl, pentan-2-yl a pentan-3-yl. Uhlíky 4 a 5 jsou se 2 a 1 symetricky rovnocenné."
+    ],
+    "memory": "Počítej jen nesymetrické polohy."
+  },
+  {
+    "id": 308,
+    "subject": "Chemie",
+    "category": "Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty",
+    "bookRef": "UK · Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty · str. 129, otázka 2",
+    "sourcePages": "129",
+    "sourceItem": "str. 129, otázka 2",
+    "question": "Jaký systematický název má isopren?",
+    "options": [
+      "2-methylbuta-1,2-dien",
+      "penta-1,3-dien",
+      "3-methylbuta-1,2-dien",
+      "2-methylbuta-1,3-dien"
+    ],
+    "answer": 3,
+    "title": "2-methylbuta-1,3-dien",
+    "paragraphs": [
+      "Isopren CH₂=C(CH₃)−CH=CH₂ má čtyřuhlíkatý řetězec se dvěma dvojnými vazbami v polohách 1 a 3 a methylovou skupinu na uhlíku 2. Je stavební jednotkou terpenů a kaučuku."
+    ],
+    "memory": "Isopren = 2-methylbuta-1,3-dien."
+  },
+  {
+    "id": 309,
+    "subject": "Chemie",
+    "category": "Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty",
+    "bookRef": "UK · Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty · str. 130, otázka 2",
+    "sourcePages": "130",
+    "sourceItem": "str. 130, otázka 2",
+    "question": "Pro které uhlovodíky platí obecný vzorec CₙH₂ₙ₊₂?",
+    "options": [
+      "alkany",
+      "alkeny",
+      "alkyny",
+      "areny"
+    ],
+    "answer": 0,
+    "title": "alkany",
+    "paragraphs": [
+      "Nasycené acyklické uhlovodíky mají na každý uhlík maximální počet vodíků, například CH₄, C₂H₆, C₃H₈. Alkeny a cykloalkany mají vzorec CₙH₂ₙ, alkyny CₙH₂ₙ₋₂."
+    ],
+    "memory": "Alkany 2n+2, alkeny 2n, alkyny 2n−2."
+  },
+  {
+    "id": 310,
+    "subject": "Chemie",
+    "category": "Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty",
+    "bookRef": "UK · Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty · str. 130, otázka 3",
+    "sourcePages": "130",
+    "sourceItem": "str. 130, otázka 3",
+    "question": "Kolik vazeb σ obsahuje molekula ethanu?",
+    "options": [
+      "šest",
+      "sedm",
+      "tři",
+      "žádnou"
+    ],
+    "answer": 1,
+    "title": "sedm",
+    "paragraphs": [
+      "C₂H₆ má šest vazeb C−H a jednu vazbu C−C. Všechny jsou jednoduché, tedy σ, celkem 7."
+    ],
+    "memory": "Ethan: 6 × C−H + 1 × C−C."
+  },
+  {
+    "id": 311,
+    "subject": "Chemie",
+    "category": "Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty",
+    "bookRef": "UK · Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty · str. 130, otázka 5",
+    "sourcePages": "130",
+    "sourceItem": "str. 130, otázka 5",
+    "question": "Která z uvedených látek patří mezi freony?",
+    "options": [
+      "CF₂=CF₂",
+      "CH₂=CHCl",
+      "CCl₂F₂",
+      "CHCl=CCl₂"
+    ],
+    "answer": 2,
+    "title": "CCl₂F₂",
+    "paragraphs": [
+      "Freony jsou chlorfluorované deriváty nasycených uhlovodíků, typicky methanu a ethanu. CCl₂F₂ je dichlor(difluor)methan, freon 12. Ostatní látky jsou nenasycené (tetrafluorethen, vinylchlorid, trichlorethylen)."
+    ],
+    "memory": "Freon = chlorfluoralkan."
+  },
+  {
+    "id": 312,
+    "subject": "Chemie",
+    "category": "Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty",
+    "bookRef": "UK · Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty · str. 131, otázka 4",
+    "sourcePages": "131",
+    "sourceItem": "str. 131, otázka 4",
+    "question": "Co vzniká úplnou oxidací (dokonalým spálením) alkanů?",
+    "options": [
+      "karboxylová kyselina",
+      "keton",
+      "alkohol",
+      "oxid uhličitý a voda"
+    ],
+    "answer": 3,
+    "title": "oxid uhličitý a voda",
+    "paragraphs": [
+      "Při dokonalém hoření se všechen uhlík oxiduje na CO₂ a vodík na H₂O, například CH₄ + 2 O₂ → CO₂ + 2 H₂O. Alkoholy, ketony a kyseliny jsou produkty jen částečné oxidace."
+    ],
+    "memory": "Úplné spálení = CO₂ + H₂O."
+  },
+  {
+    "id": 313,
+    "subject": "Chemie",
+    "category": "Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty",
+    "bookRef": "UK · Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty · str. 131, otázka 5",
+    "sourcePages": "131",
+    "sourceItem": "str. 131, otázka 5",
+    "question": "Jakým mechanismem probíhá halogenace alkanů?",
+    "options": [
+      "radikálovou substitucí",
+      "nukleofilní adicí",
+      "elektrofilní substitucí",
+      "elektrofilní adicí"
+    ],
+    "answer": 0,
+    "title": "radikálovou substitucí",
+    "paragraphs": [
+      "Světlo nebo teplo rozštěpí molekulu halogenu homolyticky na radikály, které pak řetězově nahrazují vodíky alkanu. Alkany nemají násobné vazby pro adici a elektrofilní substituce je typická pro areny."
+    ],
+    "memory": "Alkan + halogen + světlo = SR."
+  },
+  {
+    "id": 314,
+    "subject": "Chemie",
+    "category": "Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty",
+    "bookRef": "UK · Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty · str. 131, otázka 6",
+    "sourcePages": "131",
+    "sourceItem": "str. 131, otázka 6",
+    "question": "Co charakterizuje organokovové sloučeniny?",
+    "options": [
+      "kov je vázán na hydroxylovou skupinu",
+      "kov je vázán přímo na atom uhlíku",
+      "kov je vázán na karboxylovou skupinu",
+      "halogen je vázán na benzenové jádro"
+    ],
+    "answer": 1,
+    "title": "kov je vázán přímo na atom uhlíku",
+    "paragraphs": [
+      "V organokovových sloučeninách existuje přímá vazba uhlík–kov, například v CH₃MgBr nebo tetraethylolovu. Soli karboxylových kyselin či alkoxidy mají kov vázaný přes kyslík."
+    ],
+    "memory": "Organokov = vazba C–kov."
+  },
+  {
+    "id": 315,
+    "subject": "Chemie",
+    "category": "Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty",
+    "bookRef": "UK · Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty · str. 132, otázka 1",
+    "sourcePages": "132",
+    "sourceItem": "str. 132, otázka 1",
+    "question": "S jakým kovem reagují alkyl- a arylhalogenidy při přípravě Grignardových sloučenin?",
+    "options": [
+      "se sodíkem",
+      "s křemíkem",
+      "s hořčíkem",
+      "s jodem"
+    ],
+    "answer": 2,
+    "title": "s hořčíkem",
+    "paragraphs": [
+      "Grignardova činidla R−MgX vznikají reakcí halogenderivátu s hořčíkem v bezvodém etheru. Jsou to významné organokovové sloučeniny pro tvorbu vazeb C−C."
+    ],
+    "memory": "Grignard = R−Mg−X."
+  },
+  {
+    "id": 316,
+    "subject": "Chemie",
+    "category": "Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty",
+    "bookRef": "UK · Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty · str. 132, otázka 3",
+    "sourcePages": "132",
+    "sourceItem": "str. 132, otázka 3",
+    "question": "K důkazu čeho se užívá odbarvení roztoku manganistanu draselného organickou látkou?",
+    "options": [
+      "vodíkových vazeb",
+      "koordinačních vazeb",
+      "jednoduchých vazeb",
+      "násobných vazeb"
+    ],
+    "answer": 3,
+    "title": "násobných vazeb",
+    "paragraphs": [
+      "Fialový manganistan oxiduje alkeny a alkyny na násobné vazbě a sám se redukuje (barva mizí, případně vzniká hnědý MnO₂). Nasycené uhlovodíky s ním za běžných podmínek nereagují."
+    ],
+    "memory": "KMnO₄ se odbarví = násobná vazba."
+  },
+  {
+    "id": 317,
+    "subject": "Chemie",
+    "category": "Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty",
+    "bookRef": "UK · Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty · str. 132, otázka 4",
+    "sourcePages": "132",
+    "sourceItem": "str. 132, otázka 4",
+    "question": "Která látka se nazývá chloroform?",
+    "options": [
+      "trichlormethan",
+      "dichlormethan",
+      "tetrachlormethan",
+      "chlormethan"
+    ],
+    "answer": 0,
+    "title": "trichlormethan",
+    "paragraphs": [
+      "Chloroform je CHCl₃, trichlormethan. Dříve se používal k narkóze, dnes jako rozpouštědlo. CCl₄ je tetrachlormethan, CH₂Cl₂ dichlormethan."
+    ],
+    "memory": "Chloroform = CHCl₃."
+  },
+  {
+    "id": 318,
+    "subject": "Chemie",
+    "category": "Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty",
+    "bookRef": "UK · Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty · str. 132, otázka 6",
+    "sourcePages": "132",
+    "sourceItem": "str. 132, otázka 6",
+    "question": "Kolik vazeb σ obsahuje molekula ethenu?",
+    "options": [
+      "čtyři",
+      "pět",
+      "tři",
+      "dvě"
+    ],
+    "answer": 1,
+    "title": "pět",
+    "paragraphs": [
+      "C₂H₄ má čtyři vazby C−H a dvojnou vazbu C=C, ve které je jedna vazba σ a jedna π. Vazeb σ je tedy 5."
+    ],
+    "memory": "Ethen: 4 × C−H + 1 σ v C=C."
+  },
+  {
+    "id": 319,
+    "subject": "Chemie",
+    "category": "Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty",
+    "bookRef": "UK · Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty · str. 133, otázka 6",
+    "sourcePages": "133",
+    "sourceItem": "str. 133, otázka 6",
+    "question": "Co vzniká reakcí propenu s chlorovodíkem?",
+    "options": [
+      "1-chlorpropan",
+      "1,2-dichlorpropan",
+      "2-chlorpropan",
+      "chlorethan"
+    ],
+    "answer": 2,
+    "title": "2-chlorpropan",
+    "paragraphs": [
+      "Podle Markovnikovova pravidla se vodík aduje na uhlík dvojné vazby, který už nese více vodíků (C1), a chlor na druhý uhlík (C2). Hlavním produktem je proto 2-chlorpropan."
+    ],
+    "memory": "Markovnikov: H tam, kde už H je."
+  },
+  {
+    "id": 320,
+    "subject": "Chemie",
+    "category": "Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty",
+    "bookRef": "UK · Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty · str. 134, otázka 2",
+    "sourcePages": "134",
+    "sourceItem": "str. 134, otázka 2",
+    "question": "Co se děje při reakci vodného roztoku manganistanu draselného s alkenem?",
+    "options": [
+      "alken se redukuje a manganistan se oxiduje",
+      "obě látky se oxidují",
+      "obě látky se redukují",
+      "alken se oxiduje a manganistan se redukuje"
+    ],
+    "answer": 3,
+    "title": "alken se oxiduje a manganistan se redukuje",
+    "paragraphs": [
+      "Manganistan je oxidační činidlo. Alken oxiduje na diol a mangan v něm sníží oxidační číslo z VII (například na IV v MnO₂), tedy se redukuje."
+    ],
+    "memory": "Oxidovadlo samo se redukuje."
+  },
+  {
+    "id": 321,
+    "subject": "Chemie",
+    "category": "Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty",
+    "bookRef": "UK · Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty · str. 134, otázka 4",
+    "sourcePages": "134",
+    "sourceItem": "str. 134, otázka 4",
+    "question": "Co vzniká adicí bromu na propen?",
+    "options": [
+      "1,2-dibrompropan",
+      "2-brompropan",
+      "1,3-dibrompropan",
+      "1,1-dibrompropan"
+    ],
+    "answer": 0,
+    "title": "1,2-dibrompropan",
+    "paragraphs": [
+      "Molekula Br₂ se aduje na oba uhlíky dvojné vazby CH₂=CH−CH₃, takže bromy jsou na uhlících 1 a 2. Monobromderivát vzniká až adicí HBr."
+    ],
+    "memory": "Br₂ na dvojnou vazbu = sousední dibromderivát."
+  },
+  {
+    "id": 322,
+    "subject": "Chemie",
+    "category": "Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty",
+    "bookRef": "UK · Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty · str. 134, otázka 5",
+    "sourcePages": "134",
+    "sourceItem": "str. 134, otázka 5",
+    "question": "Pro které uhlovodíky z uvedených platí obecný vzorec CₙH₂ₙ₋₂?",
+    "options": [
+      "alkeny",
+      "alkyny",
+      "alkany",
+      "cykloalkany"
+    ],
+    "answer": 1,
+    "title": "alkyny",
+    "paragraphs": [
+      "Trojná vazba ubírá oproti alkanu čtyři vodíky, například ethyn C₂H₂ nebo propyn C₃H₄. Stejný vzorec mají i alkadieny. Alkeny a cykloalkany mají CₙH₂ₙ."
+    ],
+    "memory": "Alkyny 2n−2."
+  },
+  {
+    "id": 323,
+    "subject": "Chemie",
+    "category": "Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty",
+    "bookRef": "UK · Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty · str. 135, otázka 1",
+    "sourcePages": "135",
+    "sourceItem": "str. 135, otázka 1",
+    "question": "Jaký souhrnný vzorec má pentyn?",
+    "options": [
+      "C₅H₁₀",
+      "C₅H₁₂",
+      "C₅H₈",
+      "C₅H₆"
+    ],
+    "answer": 2,
+    "title": "C₅H₈",
+    "paragraphs": [
+      "Alkyny mají vzorec CₙH₂ₙ₋₂, pro n = 5 tedy C₅H₈. C₅H₁₀ je penten a C₅H₁₂ pentan."
+    ],
+    "memory": "n = 5: 2 · 5 − 2 = 8."
+  },
+  {
+    "id": 324,
+    "subject": "Chemie",
+    "category": "Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty",
+    "bookRef": "UK · Chemie · 4.3 Alifatické a alicyklické uhlovodíky a jejich deriváty · str. 135, otázka 4",
+    "sourcePages": "135",
+    "sourceItem": "str. 135, otázka 4",
+    "question": "Jaký vzorec má acetylen?",
+    "options": [
+      "CH₂=CH₂",
+      "CH₃−CHO",
+      "CH₃−CO−CH₃",
+      "CH≡CH"
+    ],
+    "answer": 3,
+    "title": "CH≡CH",
+    "paragraphs": [
+      "Acetylen (ethyn) je nejjednodušší alkyn s trojnou vazbou. CH₂=CH₂ je ethylen, CH₃CHO acetaldehyd a CH₃COCH₃ aceton."
+    ],
+    "memory": "Acetylen = ethyn, trojná vazba."
+  },
+  {
+    "id": 325,
+    "subject": "Chemie",
+    "category": "Chemie · 4.4 Aromatické uhlovodíky, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.4 Aromatické uhlovodíky, jejich reakce a deriváty · str. 136, otázka 3",
+    "sourcePages": "136",
+    "sourceItem": "str. 136, otázka 3",
+    "question": "Jaký vzorec má benzyl?",
+    "options": [
+      "C₆H₅−CH₂−",
+      "C₆H₅−",
+      "C₆H₅−CO−",
+      "C₆H₁₁−"
+    ],
+    "answer": 0,
+    "title": "C₆H₅−CH₂−",
+    "paragraphs": [
+      "Benzyl je zbytek odvozený od toluenu odtržením vodíku z methylové skupiny. C₆H₅− je fenyl, C₆H₅−CO− benzoyl a C₆H₁₁− cyklohexyl."
+    ],
+    "memory": "Benzyl = fenyl + CH₂."
+  },
+  {
+    "id": 326,
+    "subject": "Chemie",
+    "category": "Chemie · 4.4 Aromatické uhlovodíky, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.4 Aromatické uhlovodíky, jejich reakce a deriváty · str. 136, otázka 4",
+    "sourcePages": "136",
+    "sourceItem": "str. 136, otázka 4",
+    "question": "Jak se systematicky nazývá uhlovodíkový zbytek C₆H₅−?",
+    "options": [
+      "benzyl",
+      "fenyl",
+      "cyklohexyl",
+      "fenol"
+    ],
+    "answer": 1,
+    "title": "fenyl",
+    "paragraphs": [
+      "Fenyl je benzenové jádro bez jednoho vodíku. Benzyl má navíc skupinu CH₂, cyklohexyl je nasycený C₆H₁₁− a fenol je sloučenina C₆H₅OH, ne zbytek."
+    ],
+    "memory": "Fenyl = C₆H₅−."
+  },
+  {
+    "id": 327,
+    "subject": "Chemie",
+    "category": "Chemie · 4.4 Aromatické uhlovodíky, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.4 Aromatické uhlovodíky, jejich reakce a deriváty · str. 137, otázka 1",
+    "sourcePages": "137",
+    "sourceItem": "str. 137, otázka 1",
+    "question": "Jaký vzorec má benzoyl?",
+    "options": [
+      "C₆H₅−",
+      "C₆H₅−CH₂−",
+      "C₆H₅−CO−",
+      "C₆H₅−O−"
+    ],
+    "answer": 2,
+    "title": "C₆H₅−CO−",
+    "paragraphs": [
+      "Benzoyl je acyl odvozený od kyseliny benzoové odtržením skupiny OH. C₆H₅− je fenyl, C₆H₅−CH₂− benzyl a C₆H₅−O− fenoxy skupina."
+    ],
+    "memory": "Benzoyl = fenyl + CO."
+  },
+  {
+    "id": 328,
+    "subject": "Chemie",
+    "category": "Chemie · 4.4 Aromatické uhlovodíky, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.4 Aromatické uhlovodíky, jejich reakce a deriváty · str. 137, otázka 2",
+    "sourcePages": "137",
+    "sourceItem": "str. 137, otázka 2",
+    "question": "Polymerací které látky vzniká polystyren?",
+    "options": [
+      "isopropylbenzenu",
+      "methylbenzenu",
+      "1,4-dimethylbenzenu",
+      "vinylbenzenu"
+    ],
+    "answer": 3,
+    "title": "vinylbenzenu",
+    "paragraphs": [
+      "Styren C₆H₅−CH=CH₂ (vinylbenzen) má na postranním řetězci dvojnou vazbu, která umožňuje adiční polymeraci. Kumen, toluen ani xylen takovou vazbu nemají."
+    ],
+    "memory": "Styren = vinylbenzen."
+  },
+  {
+    "id": 329,
+    "subject": "Chemie",
+    "category": "Chemie · 4.4 Aromatické uhlovodíky, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.4 Aromatické uhlovodíky, jejich reakce a deriváty · str. 137, otázka 5",
+    "sourcePages": "137",
+    "sourceItem": "str. 137, otázka 5",
+    "question": "V jakém hybridním stavu jsou atomy uhlíku v benzenu?",
+    "options": [
+      "sp²",
+      "sp",
+      "sp³",
+      "sp³d"
+    ],
+    "answer": 0,
+    "title": "sp²",
+    "paragraphs": [
+      "Každý uhlík benzenu je vázán ke třem atomům v rovině pod úhlem 120°, molekula je proto planární. Nehybridizované orbitaly p vytvářejí delokalizovaný systém π nad a pod rovinou kruhu."
+    ],
+    "memory": "Benzen: plochý, sp², delokalizace."
+  },
+  {
+    "id": 330,
+    "subject": "Chemie",
+    "category": "Chemie · 4.4 Aromatické uhlovodíky, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.4 Aromatické uhlovodíky, jejich reakce a deriváty · str. 138, otázka 1",
+    "sourcePages": "138",
+    "sourceItem": "str. 138, otázka 1",
+    "question": "Jakou reakcí lze přeměnit cyklohexan na benzen?",
+    "options": [
+      "halogenací",
+      "dehydrogenací",
+      "dehydratací",
+      "hydrogenací"
+    ],
+    "answer": 1,
+    "title": "dehydrogenací",
+    "paragraphs": [
+      "Odštěpením šesti atomů vodíku (C₆H₁₂ → C₆H₆ + 3 H₂) vznikne aromatický kruh. Probíhá to katalyticky, například při reformování benzinu."
+    ],
+    "memory": "Odebrat vodíky = dehydrogenace."
+  },
+  {
+    "id": 331,
+    "subject": "Chemie",
+    "category": "Chemie · 4.4 Aromatické uhlovodíky, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.4 Aromatické uhlovodíky, jejich reakce a deriváty · str. 138, otázka 3",
+    "sourcePages": "138",
+    "sourceItem": "str. 138, otázka 3",
+    "question": "Substitučním derivátem které látky je benzylchlorid C₆H₅−CH₂Cl?",
+    "options": [
+      "benzenu",
+      "anilinu",
+      "toluenu",
+      "cyklohexanu"
+    ],
+    "answer": 2,
+    "title": "toluenu",
+    "paragraphs": [
+      "Benzylchlorid vzniká nahrazením vodíku na methylové skupině toluenu (C₆H₅−CH₃) atomem chloru, například radikálovou chlorací na světle."
+    ],
+    "memory": "Benzyl- = od toluenu."
+  },
+  {
+    "id": 332,
+    "subject": "Chemie",
+    "category": "Chemie · 4.4 Aromatické uhlovodíky, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.4 Aromatické uhlovodíky, jejich reakce a deriváty · str. 138, otázka 4",
+    "sourcePages": "138",
+    "sourceItem": "str. 138, otázka 4",
+    "question": "Co vzniká oxidací postranního řetězce toluenu?",
+    "options": [
+      "kyselina ftalová",
+      "o-xylen",
+      "fenol",
+      "kyselina benzoová"
+    ],
+    "answer": 3,
+    "title": "kyselina benzoová",
+    "paragraphs": [
+      "Methylová skupina toluenu se silnými oxidovadly oxiduje až na karboxyl: C₆H₅−CH₃ → C₆H₅−COOH. Kyselina ftalová vzniká oxidací xylenu nebo naftalenu."
+    ],
+    "memory": "Toluen + oxidace = kyselina benzoová."
+  },
+  {
+    "id": 333,
+    "subject": "Chemie",
+    "category": "Chemie · 4.4 Aromatické uhlovodíky, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.4 Aromatické uhlovodíky, jejich reakce a deriváty · str. 138, otázka 6",
+    "sourcePages": "138",
+    "sourceItem": "str. 138, otázka 6",
+    "question": "Která látka je p-xylen?",
+    "options": [
+      "1,4-dimethylbenzen",
+      "1,2-dimethylbenzen",
+      "1,3-dimethylbenzen",
+      "ethylbenzen"
+    ],
+    "answer": 0,
+    "title": "1,4-dimethylbenzen",
+    "paragraphs": [
+      "Předpona para označuje polohu 1,4, tedy substituenty naproti sobě. Ortho je 1,2 a meta 1,3. Ethylbenzen je izomer xylenů, ne xylen."
+    ],
+    "memory": "o 1,2 · m 1,3 · p 1,4."
+  },
+  {
+    "id": 334,
+    "subject": "Chemie",
+    "category": "Chemie · 4.4 Aromatické uhlovodíky, jejich reakce a deriváty",
+    "bookRef": "UK · Chemie · 4.4 Aromatické uhlovodíky, jejich reakce a deriváty · str. 139, otázka 3",
+    "sourcePages": "139",
+    "sourceItem": "str. 139, otázka 3",
+    "question": "Která z uvedených látek patří mezi kondenzované aromatické uhlovodíky?",
+    "options": [
+      "xylen",
+      "anthracen",
+      "kumen",
+      "pyridin"
+    ],
+    "answer": 1,
+    "title": "anthracen",
+    "paragraphs": [
+      "Anthracen má tři benzenová jádra spojená tak, že sousední sdílejí dva uhlíky. Xylen a kumen mají jediné jádro a pyridin je heterocyklus s dusíkem."
+    ],
+    "memory": "Kondenzované = jádra sdílí hranu."
+  },
+  {
+    "id": 335,
+    "subject": "Biologie",
+    "category": "Biologie · Bakteriologie a virologie",
+    "bookRef": "UK · Biologie · Bakteriologie a virologie · otázka 481 · str. 108",
+    "sourcePages": "108",
+    "sourceItem": "481",
+    "question": "Co rozumíme pod pojmem konjugace u bakterií?",
+    "options": [
+      "spojení dvou buněk a obousměrnou výměnu celých chromozomů",
+      "úplné splynutí dvou buněk a jejich chromozomů",
+      "spojení dvou buněk, při kterém z jedné do druhé přechází část genetické informace",
+      "splynutí dvou buněk, jejichž chromozomy vytvoří homologní pár"
+    ],
+    "answer": 2,
+    "title": "spojení dvou buněk, při kterém z jedné do druhé přechází část genetické informace",
+    "paragraphs": [
+      "Při konjugaci vytvoří dárcovská buňka spojovací můstek (pilus) a předá příjemci kopii plazmidu nebo části chromozomu. Přenos je jednosměrný a buňky nesplývají."
+    ],
+    "memory": "Konjugace = jednosměrný přenos DNA můstkem."
+  },
+  {
+    "id": 336,
+    "subject": "Biologie",
+    "category": "Biologie · Bakteriologie a virologie",
+    "bookRef": "UK · Biologie · Bakteriologie a virologie · otázka 482 · str. 108",
+    "sourcePages": "108",
+    "sourceItem": "482",
+    "question": "Kde probíhá fixace vzdušného dusíku u některých sinic?",
+    "options": [
+      "v hormogoniích",
+      "ve fykobilizomech",
+      "v karboxyzomech",
+      "v heterocystách"
+    ],
+    "answer": 3,
+    "title": "v heterocystách",
+    "paragraphs": [
+      "Heterocysty jsou specializované buňky se silnou stěnou bez fotosystému II, takže v nich nevzniká kyslík, který by poškodil enzym nitrogenázu."
+    ],
+    "memory": "Heterocysta = dílna na N₂."
+  },
+  {
+    "id": 337,
+    "subject": "Biologie",
+    "category": "Biologie · Bakteriologie a virologie",
+    "bookRef": "UK · Biologie · Bakteriologie a virologie · otázka 484 · str. 109",
+    "sourcePages": "109",
+    "sourceItem": "484",
+    "question": "Co lze pozorovat v bakteriální buňce elektronovým mikroskopem?",
+    "options": [
+      "nukleoid s cirkulární DNA",
+      "jádro s jaderným obalem",
+      "Golgiho komplex a lysozomy",
+      "chromozomy s centromerami a chromatidami"
+    ],
+    "answer": 0,
+    "title": "nukleoid s cirkulární DNA",
+    "paragraphs": [
+      "Bakterie nemají jaderný obal ani membránové organely. Jejich kruhová molekula DNA je volně uložena v cytoplazmě v oblasti zvané nukleoid."
+    ],
+    "memory": "Bakterie: nukleoid, ne jádro."
+  },
+  {
+    "id": 338,
+    "subject": "Biologie",
+    "category": "Biologie · Bakteriologie a virologie",
+    "bookRef": "UK · Biologie · Bakteriologie a virologie · otázka 486 · str. 109",
+    "sourcePages": "109",
+    "sourceItem": "486",
+    "question": "Co je peptidoglykan?",
+    "options": [
+      "glykoprotein membrán prokaryot i eukaryot",
+      "základní složka buněčné stěny většiny bakterií",
+      "barvivo k identifikaci glykoproteinů",
+      "základní složka živných půd pro kultivaci bakterií"
+    ],
+    "answer": 1,
+    "title": "základní složka buněčné stěny většiny bakterií",
+    "paragraphs": [
+      "Peptidoglykan (murein) je síť polysacharidových řetězců propojených krátkými peptidy, která dává bakteriální stěně pevnost. Archea ho nemají a jeho syntézu blokuje například penicilin."
+    ],
+    "memory": "Murein = bakteriální stěna."
+  },
+  {
+    "id": 339,
+    "subject": "Biologie",
+    "category": "Biologie · Bakteriologie a virologie",
+    "bookRef": "UK · Biologie · Bakteriologie a virologie · otázka 487 · str. 109",
+    "sourcePages": "109",
+    "sourceItem": "487",
+    "question": "Proč je likvidace virů imunitou nebo léky často obtížná?",
+    "options": [
+      "viry tvoří jen nukleová kyselina, proti které imunitní reakce není možná",
+      "viry jsou tak malé, že imunitním mechanismům vždy uniknou",
+      "časté mutace vedou k velké variabilitě virů a vzniku rezistentních forem",
+      "viry se rychle aktivně pohybují a utečou fagocytům"
+    ],
+    "answer": 2,
+    "title": "časté mutace vedou k velké variabilitě virů a vzniku rezistentních forem",
+    "paragraphs": [
+      "Viry, zvlášť RNA viry, mutují rychle, takže mění antigeny a mohou se stát odolnými vůči lékům. Mají bílkovinný kapsid, proti kterému imunita reagovat umí, a aktivně se nepohybují."
+    ],
+    "memory": "Rychlé mutace = únik imunitě i lékům."
+  },
+  {
+    "id": 340,
+    "subject": "Biologie",
+    "category": "Biologie · Bakteriologie a virologie",
+    "bookRef": "UK · Biologie · Bakteriologie a virologie · otázka 488 · str. 109",
+    "sourcePages": "109",
+    "sourceItem": "488",
+    "question": "Jaké útvary tvoří buňky streptokoků?",
+    "options": [
+      "hroznovité shluky",
+      "čtveřice",
+      "dvojice obalené pouzdrem",
+      "řetízky"
+    ],
+    "answer": 3,
+    "title": "řetízky",
+    "paragraphs": [
+      "Streptokoky se dělí v jedné rovině a zůstávají spojené do řetízků (řecky streptos = řetěz). Hroznovité shluky jsou typické pro stafylokoky."
+    ],
+    "memory": "Strepto = řetízek, stafylo = hrozen."
+  },
+  {
+    "id": 341,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie rostlin a hub",
+    "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 491 · str. 112",
+    "sourcePages": "112",
+    "sourceItem": "491",
+    "question": "U které skupiny organismů se vyskytují plastidy?",
+    "options": [
+      "u rostlin",
+      "u živočichů",
+      "u hub",
+      "u sinic"
+    ],
+    "answer": 0,
+    "title": "u rostlin",
+    "paragraphs": [
+      "Plastidy (chloroplasty, chromoplasty, leukoplasty) mají rostliny a řasy. Sinice jsou prokaryota a plastidy nemají, ale podle endosymbiotické teorie z nich plastidy vznikly."
+    ],
+    "memory": "Plastidy = rostliny."
+  },
+  {
+    "id": 342,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie rostlin a hub",
+    "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 495 · str. 113",
+    "sourcePages": "113",
+    "sourceItem": "495",
+    "question": "Co vytvářejí stupňovitě na sebe uložené tylakoidy v chloroplastu?",
+    "options": [
+      "stroma",
+      "grana",
+      "vakuolu",
+      "kristy"
+    ],
+    "answer": 1,
+    "title": "grana",
+    "paragraphs": [
+      "Naskládané tylakoidy tvoří grana, kde jsou chlorofyl a probíhá světelná fáze fotosyntézy. Stroma je bezbarvá hmota mezi nimi, kde probíhá Calvinův cyklus."
+    ],
+    "memory": "Tylakoidy na sobě = granum."
+  },
+  {
+    "id": 343,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie rostlin a hub",
+    "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 497 · str. 113",
+    "sourcePages": "113",
+    "sourceItem": "497",
+    "question": "Co se působením světelné energie rozkládá ve světelné fázi fotosyntézy?",
+    "options": [
+      "kyslík",
+      "oxid uhličitý",
+      "voda",
+      "glukóza"
+    ],
+    "answer": 2,
+    "title": "voda",
+    "paragraphs": [
+      "Při fotolýze vody se H₂O rozkládá na protony, elektrony a kyslík, který se uvolňuje do ovzduší. CO₂ se váže až v temnostní fázi."
+    ],
+    "memory": "Kyslík z fotosyntézy pochází z vody."
+  },
+  {
+    "id": 344,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie rostlin a hub",
+    "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 501 · str. 114",
+    "sourcePages": "114",
+    "sourceItem": "501",
+    "question": "Která z uvedených látek je fytohormon?",
+    "options": [
+      "fykocyan",
+      "fykoerytrin",
+      "chlorofyl",
+      "auxin"
+    ],
+    "answer": 3,
+    "title": "auxin",
+    "paragraphs": [
+      "Auxiny (například kyselina indolyloctová) řídí prodlužování buněk a tropismy. Fytohormonem je i kyselina abscisová. Fykocyan, fykoerytrin a chlorofyl jsou fotosyntetická barviva."
+    ],
+    "memory": "Auxin = růstový hormon rostlin."
+  },
+  {
+    "id": 345,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie rostlin a hub",
+    "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 505 · str. 114",
+    "sourcePages": "114",
+    "sourceItem": "505",
+    "question": "Kdy došlo k výraznému přechodu rostlin na souš?",
+    "options": [
+      "koncem starších prvohor",
+      "ve starohorách",
+      "koncem mladších prvohor",
+      "počátkem druhohor"
+    ],
+    "answer": 0,
+    "title": "koncem starších prvohor",
+    "paragraphs": [
+      "První cévnaté suchozemské rostliny (psilofyty) se šířily v siluru a devonu, tedy koncem starších prvohor. V karbonu už souš pokrývaly lesy plavuní, přesliček a kapradin."
+    ],
+    "memory": "Silur a devon = rostliny na souši."
+  },
+  {
+    "id": 346,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie rostlin a hub",
+    "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 507 · str. 115",
+    "sourcePages": "115",
+    "sourceItem": "507",
+    "question": "Který fakt nejvíc podporuje názor, že kapraďorosty jsou nejméně přizpůsobené životu na souši?",
+    "options": [
+      "mají převahu sporofytu nad gametofytem",
+      "mají bičíkaté spermie",
+      "mají převahu gametofytu nad sporofytem",
+      "jejich prokel přežije jen v bahnitých půdách"
+    ],
+    "answer": 1,
+    "title": "mají bičíkaté spermie",
+    "paragraphs": [
+      "Spermatozoidy kapraďorostů potřebují k doplavání k vajíčku vodu, takže oplození závisí na vlhku. Semenné rostliny přenášejí samčí gamety pylem. Převaha sporofytu je naopak znakem pokročilosti."
+    ],
+    "memory": "Plavající spermie = závislost na vodě."
+  },
+  {
+    "id": 347,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie rostlin a hub",
+    "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 508 · str. 115",
+    "sourcePages": "115",
+    "sourceItem": "508",
+    "question": "Kde se vyskytují ruderální rostliny?",
+    "options": [
+      "v územích, kde se těžily kovové rudy",
+      "na velmi suchých stanovištích",
+      "na skládkách, rumištích a podél cest",
+      "na zamokřených půdách a březích rybníků"
+    ],
+    "answer": 2,
+    "title": "na skládkách, rumištích a podél cest",
+    "paragraphs": [
+      "Ruderální rostliny (z latinského rudus, suť) osidlují člověkem narušená místa bohatá na dusík, například kopřiva dvoudomá nebo merlík."
+    ],
+    "memory": "Rumiště = ruderál."
+  },
+  {
+    "id": 348,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie rostlin a hub",
+    "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 511 · str. 115",
+    "sourcePages": "115",
+    "sourceItem": "511",
+    "question": "Co platí o dvoudomých rostlinách?",
+    "options": [
+      "samčí a samičí květy mají na téže rostlině",
+      "dokážou žít na dvou různých stanovištích",
+      "mají jen tvarově odlišné samčí a samičí květy",
+      "samčí a samičí květy mají na samostatných rostlinách"
+    ],
+    "answer": 3,
+    "title": "samčí a samičí květy mají na samostatných rostlinách",
+    "paragraphs": [
+      "U dvoudomých rostlin je jedinec buď samčí, nebo samičí, například vrba, kopřiva dvoudomá nebo jalovec. Jednodomé rostliny, třeba líska nebo kukuřice, mají oba typy květů na jedné rostlině."
+    ],
+    "memory": "Dvoudomá = dva domy, dvě rostliny."
+  },
+  {
+    "id": 349,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie rostlin a hub",
+    "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 512 · str. 115",
+    "sourcePages": "115",
+    "sourceItem": "512",
+    "question": "Co jsou fytoncidy?",
+    "options": [
+      "látky produkované rostlinami, které tlumí mikroorganismy",
+      "toxické látky produkované plísněmi",
+      "umělé pesticidy na hubení plevelů",
+      "bojové látky k ničení lesních porostů"
+    ],
+    "answer": 0,
+    "title": "látky produkované rostlinami, které tlumí mikroorganismy",
+    "paragraphs": [
+      "Fytoncidy jsou těkavé nebo rozpustné látky rostlin s antimikrobním účinkem, známé například z česneku, cibule nebo jehličnanů. Látky z plísní s podobným účinkem se nazývají antibiotika."
+    ],
+    "memory": "Fyto = rostlina, -cid = hubí."
+  },
+  {
+    "id": 350,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie rostlin a hub",
+    "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 515 · str. 116",
+    "sourcePages": "116",
+    "sourceItem": "515",
+    "question": "Pro které rostliny je typické květenství úbor?",
+    "options": [
+      "bobovité",
+      "hvězdnicovité",
+      "růžovité",
+      "mrkvovité"
+    ],
+    "answer": 1,
+    "title": "hvězdnicovité",
+    "paragraphs": [
+      "Úbor je hustý soubor drobných přisedlých květů na rozšířeném lůžku, který působí jako jediný květ, například u slunečnice nebo sedmikrásky. Mrkvovité mají okolík, bobovité hrozen."
+    ],
+    "memory": "Slunečnice = úbor."
+  }
+]
