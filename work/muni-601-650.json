@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 601,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 46 · str. 107",
+    "sourcePages": "107",
+    "sourceItem": "46",
+    "question": "Která skupina přírodních látek velmi často obsahuje v molekule cholin?",
+    "options": [
+      "fosfolipidy",
+      "žlučové kyseliny",
+      "estery cholesterolu",
+      "vosky"
+    ],
+    "answer": 0,
+    "title": "fosfolipidy",
+    "paragraphs": [
+      "Fosfatidylcholin (lecitin) je hlavní fosfolipid biomembrán. Cholin je na fosfát vázán esterovou vazbou a tvoří polární hlavičku molekuly."
+    ],
+    "memory": "Lecitin = fosfolipid s cholinem."
+  },
+  {
+    "id": 602,
+    "subject": "Chemie",
+    "category": "Chemie · Nukleové kyseliny",
+    "bookRef": "LF MU · Chemie · Nukleové kyseliny 50 · str. 108",
+    "sourcePages": "108",
+    "sourceItem": "50",
+    "question": "Které tvrzení o cytosinu je správné?",
+    "options": [
+      "patří mezi pyridinové báze",
+      "má ve své molekule tři atomy dusíku",
+      "je to methylderivát uracilu",
+      "je to nukleosid obsažený ve všech nukleových kyselinách"
+    ],
+    "answer": 1,
+    "title": "má ve své molekule tři atomy dusíku",
+    "paragraphs": [
+      "Cytosin C₄H₅N₃O je pyrimidinová báze se dvěma dusíky v kruhu a aminoskupinou. Methylderivátem uracilu je thymin a nukleosidem cytosinu je cytidin."
+    ],
+    "memory": "Cytosin: 2 N v kruhu + NH₂."
+  },
+  {
+    "id": 603,
+    "subject": "Chemie",
+    "category": "Chemie · Nukleové kyseliny",
+    "bookRef": "LF MU · Chemie · Nukleové kyseliny 52 · str. 108",
+    "sourcePages": "108",
+    "sourceItem": "52",
+    "question": "Jaká vazba se nachází v molekule nukleosidů?",
+    "options": [
+      "esterová",
+      "makroergní",
+      "glykosidová (N-glykosidová)",
+      "vazba mezi bází a fosfátem"
+    ],
+    "answer": 2,
+    "title": "glykosidová (N-glykosidová)",
+    "paragraphs": [
+      "Báze je k uhlíku C1′ ribózy nebo deoxyribózy připojena přes atom dusíku. Fosfát s esterovou vazbou mají teprve nukleotidy."
+    ],
+    "memory": "Báze–cukr = N-glykosid."
+  },
+  {
+    "id": 604,
+    "subject": "Chemie",
+    "category": "Chemie · Nukleové kyseliny",
+    "bookRef": "LF MU · Chemie · Nukleové kyseliny 53 · str. 108",
+    "sourcePages": "108",
+    "sourceItem": "53",
+    "question": "Která z uvedených sloučenin není nukleosidem?",
+    "options": [
+      "guanosin",
+      "uridin",
+      "adenosin",
+      "cytosin"
+    ],
+    "answer": 3,
+    "title": "cytosin",
+    "paragraphs": [
+      "Cytosin je samotná báze. Nukleosidy mají koncovku -osin nebo -idin: adenosin, guanosin, cytidin, uridin, thymidin."
+    ],
+    "memory": "Báze -in, nukleosid -osin či -idin."
+  },
+  {
+    "id": 605,
+    "subject": "Chemie",
+    "category": "Chemie · Nukleové kyseliny",
+    "bookRef": "LF MU · Chemie · Nukleové kyseliny 58 · str. 108",
+    "sourcePages": "108",
+    "sourceItem": "58",
+    "question": "Jakou vazbou jsou spojeny nukleotidy v jednořetězcové nukleové kyselině?",
+    "options": [
+      "esterovou (fosfodiesterovou)",
+      "glykosidovou",
+      "vodíkovou",
+      "amidovou"
+    ],
+    "answer": 0,
+    "title": "esterovou (fosfodiesterovou)",
+    "paragraphs": [
+      "Fosfát jednoho nukleotidu je esterově vázán na hydroxyl C3′ cukru a zároveň na C5′ dalšího nukleotidu. Vodíkové vazby spojují až dva řetězce dvoušroubovice."
+    ],
+    "memory": "Řetězec drží fosfodiestery."
+  },
+  {
+    "id": 606,
+    "subject": "Chemie",
+    "category": "Chemie · Nukleové kyseliny",
+    "bookRef": "LF MU · Chemie · Nukleové kyseliny 59 · str. 108",
+    "sourcePages": "108",
+    "sourceItem": "59",
+    "question": "Které tvrzení o guaninu je správné?",
+    "options": [
+      "je to derivát pyrimidinu",
+      "obsahuje pět atomů dusíku",
+      "je to purinový nukleosid",
+      "je to methylderivát hypoxanthinu"
+    ],
+    "answer": 1,
+    "title": "obsahuje pět atomů dusíku",
+    "paragraphs": [
+      "Guanin C₅H₅N₅O je purinová báze se čtyřmi dusíky v kruzích a aminoskupinou. Nukleosidem je guanosin. Od hypoxanthinu se liší aminoskupinou, ne methylem."
+    ],
+    "memory": "Guanin = purin + NH₂ + O."
+  },
+  {
+    "id": 607,
+    "subject": "Chemie",
+    "category": "Chemie · Nukleové kyseliny",
+    "bookRef": "LF MU · Chemie · Nukleové kyseliny 62 · str. 109",
+    "sourcePages": "109",
+    "sourceItem": "62",
+    "question": "Které tvrzení o jednořetězcové nukleové kyselině není správné?",
+    "options": [
+      "stavební jednotky spojují fosfodiesterové vazby",
+      "nukleotidy jsou fosfátové estery nukleosidů",
+      "stavební složky jednotlivých nukleotidů se vážou vodíkovými vazbami",
+      "ribóza nebo deoxyribóza se na bázi váže glykosidovou vazbou"
+    ],
+    "answer": 2,
+    "title": "stavební složky jednotlivých nukleotidů se vážou vodíkovými vazbami",
+    "paragraphs": [
+      "Uvnitř nukleotidu jsou báze, cukr a fosfát spojeny kovalentně: N-glykosidovou a esterovou vazbou. Vodíkové vazby se uplatňují až při párování bází dvou řetězců."
+    ],
+    "memory": "Uvnitř nukleotidu kovalentní vazby."
+  },
+  {
+    "id": 608,
+    "subject": "Chemie",
+    "category": "Chemie · Nukleové kyseliny",
+    "bookRef": "LF MU · Chemie · Nukleové kyseliny 63 · str. 109",
+    "sourcePages": "109",
+    "sourceItem": "63",
+    "question": "Čím se molekuly tRNA odlišují od molekul mRNA?",
+    "options": [
+      "jsou strukturní součástí ribozomů",
+      "existuje jich více typů než molekul mRNA",
+      "tvoří trojvláknovou šroubovici",
+      "mají menší molekulovou hmotnost"
+    ],
+    "answer": 3,
+    "title": "mají menší molekulovou hmotnost",
+    "paragraphs": [
+      "tRNA má jen asi 75–90 nukleotidů, mRNA podle délky genu stovky až tisíce. Součástí ribozomů je rRNA."
+    ],
+    "memory": "tRNA = malý adaptér."
+  },
+  {
+    "id": 609,
+    "subject": "Chemie",
+    "category": "Chemie · Nukleové kyseliny",
+    "bookRef": "LF MU · Chemie · Nukleové kyseliny 64 · str. 109",
+    "sourcePages": "109",
+    "sourceItem": "64",
+    "question": "Co je transkripce?",
+    "options": [
+      "převod informace ze sekvence nukleotidů DNA do sekvence nukleotidů RNA",
+      "převod informace z mRNA do primární struktury bílkoviny",
+      "převod informace z RNA do sekvence DNA",
+      "převod informace z mRNA do sekvence antikodonu tRNA"
+    ],
+    "answer": 0,
+    "title": "převod informace ze sekvence nukleotidů DNA do sekvence nukleotidů RNA",
+    "paragraphs": [
+      "Při transkripci RNA-polymeráza podle jednoho řetězce DNA sestaví komplementární řetězec RNA. Přepis z RNA do DNA je reverzní transkripce, převod do bílkoviny translace."
+    ],
+    "memory": "Transkripce = přepis DNA → RNA."
+  },
+  {
+    "id": 610,
+    "subject": "Chemie",
+    "category": "Chemie · Nukleové kyseliny",
+    "bookRef": "LF MU · Chemie · Nukleové kyseliny 65 · str. 109",
+    "sourcePages": "109",
+    "sourceItem": "65",
+    "question": "Co je translace?",
+    "options": [
+      "převod informace z DNA do dceřiné DNA",
+      "převod informace ze sekvence mRNA do primární struktury proteinu na ribozomech",
+      "převod informace z mRNA do sekvence DNA",
+      "převod informace z DNA do sekvence mRNA"
+    ],
+    "answer": 1,
+    "title": "převod informace ze sekvence mRNA do primární struktury proteinu na ribozomech",
+    "paragraphs": [
+      "Ribozom čte kodony mRNA a tRNA s odpovídajícími antikodony přinášejí aminokyseliny, které se spojují peptidovou vazbou."
+    ],
+    "memory": "Translace = překlad do bílkoviny."
+  },
+  {
+    "id": 611,
+    "subject": "Chemie",
+    "category": "Chemie · Nukleové kyseliny",
+    "bookRef": "LF MU · Chemie · Nukleové kyseliny 67 · str. 109",
+    "sourcePages": "109",
+    "sourceItem": "67",
+    "question": "Které tvrzení o transkripci a translaci je správné?",
+    "options": [
+      "během transkripce určují triplety bází pořadí aminokyselin v polypeptidu",
+      "transkripce probíhá na ribozomech",
+      "během translace se aminokyseliny navázané na tRNA spojují peptidovou vazbou",
+      "na triplety bází rRNA se navazují antikodony"
+    ],
+    "answer": 2,
+    "title": "během translace se aminokyseliny navázané na tRNA spojují peptidovou vazbou",
+    "paragraphs": [
+      "Na ribozomu se aminokyselina z tRNA v místě P přenese na aminoskupinu aminokyseliny v místě A. Antikodony se párují s kodony mRNA a transkripce probíhá hlavně v jádře."
+    ],
+    "memory": "Translace na ribozomu, transkripce v jádře."
+  },
+  {
+    "id": 612,
+    "subject": "Chemie",
+    "category": "Chemie · Nukleové kyseliny",
+    "bookRef": "LF MU · Chemie · Nukleové kyseliny 68 · str. 109",
+    "sourcePages": "109",
+    "sourceItem": "68",
+    "question": "Které tvrzení o transkripci a translaci není správné?",
+    "options": [
+      "při translaci se aminokyseliny pomocí tRNA spojují peptidovou vazbou",
+      "při transkripci vznikají řetězce prekurzorových RNA",
+      "transkripce i translace probíhají také v mitochondriích",
+      "oba procesy probíhají v jádře buňky"
+    ],
+    "answer": 3,
+    "title": "oba procesy probíhají v jádře buňky",
+    "paragraphs": [
+      "U eukaryot probíhá transkripce v jádře, translace na ribozomech v cytoplazmě a na drsném endoplazmatickém retikulu. Mitochondrie mají vlastní DNA i ribozomy."
+    ],
+    "memory": "Jádro přepisuje, cytoplazma překládá."
+  },
+  {
+    "id": 613,
+    "subject": "Chemie",
+    "category": "Chemie · Nukleové kyseliny",
+    "bookRef": "LF MU · Chemie · Nukleové kyseliny 69 · str. 109",
+    "sourcePages": "109",
+    "sourceItem": "69",
+    "question": "Jakou vazbou se aminokyselina váže na tRNA?",
+    "options": [
+      "esterovou",
+      "peptidovou",
+      "přes antikodon",
+      "svou aminoskupinou"
+    ],
+    "answer": 0,
+    "title": "esterovou",
+    "paragraphs": [
+      "Karboxyl aminokyseliny se esterifikuje hydroxylem ribózy na konci 3′ (sekvence CCA) tRNA. Reakci katalyzuje aminoacyl-tRNA-syntetáza za spotřeby ATP."
+    ],
+    "memory": "Aminokyselina visí na tRNA esterem."
+  },
+  {
+    "id": 614,
+    "subject": "Chemie",
+    "category": "Chemie · Aminokyseliny a bílkoviny",
+    "bookRef": "LF MU · Chemie · Aminokyseliny a bílkoviny 71 · str. 110",
+    "sourcePages": "110",
+    "sourceItem": "71",
+    "question": "Kolik center chirality je v molekule serinu?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "title": "1",
+    "paragraphs": [
+      "Chirální je jen α-uhlík serinu HO−CH₂−CH(NH₂)−COOH. Uhlík CH₂OH má dva vodíky a chirální není. Dvě centra mají threonin a isoleucin."
+    ],
+    "memory": "Serin: jediné centrum Cα."
+  },
+  {
+    "id": 615,
+    "subject": "Chemie",
+    "category": "Chemie · Aminokyseliny a bílkoviny",
+    "bookRef": "LF MU · Chemie · Aminokyseliny a bílkoviny 74 · str. 110",
+    "sourcePages": "110",
+    "sourceItem": "74",
+    "question": "Jak se nazývá aminokyselina CH₃−S−CH₂−CH₂−CH(NH₂)−COOH?",
+    "options": [
+      "S-methylcystein",
+      "4-(methylsulfanyl)alanin",
+      "methionin",
+      "4-(methylsulfo)serin"
+    ],
+    "answer": 2,
+    "title": "methionin",
+    "paragraphs": [
+      "Methionin má v postranním řetězci dvě skupiny CH₂ a thioether S−CH₃. S-methylcystein by měl mezi α-uhlíkem a sírou jen jednu skupinu CH₂."
+    ],
+    "memory": "Methionin: CH₂−CH₂−S−CH₃."
+  },
+  {
+    "id": 616,
+    "subject": "Chemie",
+    "category": "Chemie · Aminokyseliny a bílkoviny",
+    "bookRef": "LF MU · Chemie · Aminokyseliny a bílkoviny 76 · str. 110",
+    "sourcePages": "110",
+    "sourceItem": "76",
+    "question": "Jak se nazývá aminokyselina H₂N−CO−CH₂−CH₂−CH(NH₂)−COOH?",
+    "options": [
+      "lysin",
+      "leucin",
+      "kyselina asparagová",
+      "glutamin"
+    ],
+    "answer": 3,
+    "title": "glutamin",
+    "paragraphs": [
+      "Glutamin je amid kyseliny glutamové: druhý karboxyl postranního řetězce je nahrazen skupinou −CO−NH₂. Je hlavním přenašečem dusíku v krvi."
+    ],
+    "memory": "Glutamin = amid glutamové kyseliny."
+  },
+  {
+    "id": 617,
+    "subject": "Chemie",
+    "category": "Chemie · Aminokyseliny a bílkoviny",
+    "bookRef": "LF MU · Chemie · Aminokyseliny a bílkoviny 77 · str. 110",
+    "sourcePages": "110",
+    "sourceItem": "77",
+    "question": "Jaký běžný název má kyselina 2,6-diaminohexanová?",
+    "options": [
+      "lysin",
+      "arginin",
+      "glutamin",
+      "kyselina asparagová"
+    ],
+    "answer": 0,
+    "title": "lysin",
+    "paragraphs": [
+      "Lysin má šestiuhlíkatý řetězec s aminoskupinami na uhlíku α (C2) a na konci postranního řetězce (C6). Druhá aminoskupina mu dává bazický charakter."
+    ],
+    "memory": "Lysin = 6 C, 2 NH₂."
+  },
+  {
+    "id": 618,
+    "subject": "Chemie",
+    "category": "Chemie · Aminokyseliny a bílkoviny",
+    "bookRef": "LF MU · Chemie · Aminokyseliny a bílkoviny 82 · str. 111",
+    "sourcePages": "111",
+    "sourceItem": "82",
+    "question": "Která z uvedených aminokyselin nemá ve své molekule aromatický kruh?",
+    "options": [
+      "tyrosin",
+      "prolin",
+      "fenylalanin",
+      "tryptofan"
+    ],
+    "answer": 1,
+    "title": "prolin",
+    "paragraphs": [
+      "Prolin má nasycený pyrrolidinový kruh, který aromatický není. Tyrosin a fenylalanin mají benzenové jádro, tryptofan aromatický indol."
+    ],
+    "memory": "Prolin = kruh, ale ne aromatický."
+  },
+  {
+    "id": 619,
+    "subject": "Chemie",
+    "category": "Chemie · Aminokyseliny a bílkoviny",
+    "bookRef": "LF MU · Chemie · Aminokyseliny a bílkoviny 83 · str. 111",
+    "sourcePages": "111",
+    "sourceItem": "83",
+    "question": "Která proteinogenní aminokyselina má ve své molekule fenolový hydroxyl?",
+    "options": [
+      "fenylalanin",
+      "histidin",
+      "tyrosin",
+      "hydroxyprolin"
+    ],
+    "answer": 2,
+    "title": "tyrosin",
+    "paragraphs": [
+      "Tyrosin nese skupinu −OH přímo na benzenovém jádře, tedy fenolovou. Hydroxyprolin má hydroxyl na nasyceném kruhu (alkoholový) a vzniká až úpravou bílkovin, například kolagenu."
+    ],
+    "memory": "Tyrosin = fenol."
+  },
+  {
+    "id": 620,
+    "subject": "Chemie",
+    "category": "Chemie · Aminokyseliny a bílkoviny",
+    "bookRef": "LF MU · Chemie · Aminokyseliny a bílkoviny 86 · str. 111",
+    "sourcePages": "111",
+    "sourceItem": "86",
+    "question": "Jakou společnou vlastnost má postranní řetězec leucinu a prolinu?",
+    "options": [
+      "je aromatický",
+      "je zásaditý",
+      "je heterocyklický",
+      "je nepolární"
+    ],
+    "answer": 3,
+    "title": "je nepolární",
+    "paragraphs": [
+      "Leucin má rozvětvený uhlovodíkový zbytek a prolin nasycený kruh z CH₂ skupin. Ani jeden řetězec nemá polární skupinu, proto se v bílkovinách ukrývají hlavně uvnitř molekuly."
+    ],
+    "memory": "Uhlovodíkový řetězec = nepolární."
+  },
+  {
+    "id": 621,
+    "subject": "Chemie",
+    "category": "Chemie · Aminokyseliny a bílkoviny",
+    "bookRef": "LF MU · Chemie · Aminokyseliny a bílkoviny 87 · str. 111",
+    "sourcePages": "111",
+    "sourceItem": "87",
+    "question": "Která proteinogenní aminokyselina obsahuje guanidinovou skupinu?",
+    "options": [
+      "arginin",
+      "lysin",
+      "histidin",
+      "glutamin"
+    ],
+    "answer": 0,
+    "title": "arginin",
+    "paragraphs": [
+      "Postranní řetězec argininu končí skupinou −NH−C(=NH)−NH₂, která je silně zásaditá. Lysin má jen aminoskupinu, histidin imidazol a glutamin amidovou skupinu."
+    ],
+    "memory": "Arginin = guanidin."
+  },
+  {
+    "id": 622,
+    "subject": "Chemie",
+    "category": "Chemie · Aminokyseliny a bílkoviny",
+    "bookRef": "LF MU · Chemie · Aminokyseliny a bílkoviny 91 · str. 111",
+    "sourcePages": "111",
+    "sourceItem": "91",
+    "question": "Která vazba je rozhodující pro vytvoření primární struktury proteinů?",
+    "options": [
+      "esterová",
+      "amidová (peptidová)",
+      "disulfidová",
+      "glykosidová"
+    ],
+    "answer": 1,
+    "title": "amidová (peptidová)",
+    "paragraphs": [
+      "Peptidová vazba −CO−NH− je amidová vazba mezi karboxylem jedné a aminoskupinou další aminokyseliny. Určuje pořadí aminokyselin v řetězci. Disulfidové můstky stabilizují až prostorové uspořádání."
+    ],
+    "memory": "Peptidová vazba = amid."
+  },
+  {
+    "id": 623,
+    "subject": "Chemie",
+    "category": "Chemie · Aminokyseliny a bílkoviny",
+    "bookRef": "LF MU · Chemie · Aminokyseliny a bílkoviny 92 · str. 111",
+    "sourcePages": "111",
+    "sourceItem": "92",
+    "question": "Která vazba vytváří sekundární struktury bílkovin?",
+    "options": [
+      "peptidová",
+      "disulfidová",
+      "vodíková",
+      "iontová"
+    ],
+    "answer": 2,
+    "title": "vodíková",
+    "paragraphs": [
+      "α-Helix i β-skládaný list jsou drženy vodíkovými vazbami mezi skupinami C=O a N−H peptidových vazeb páteře. Postranní řetězce se jich přímo neúčastní."
+    ],
+    "memory": "Helix drží vodíkové můstky."
+  },
+  {
+    "id": 624,
+    "subject": "Chemie",
+    "category": "Chemie · Aminokyseliny a bílkoviny",
+    "bookRef": "LF MU · Chemie · Aminokyseliny a bílkoviny 98 · str. 112",
+    "sourcePages": "112",
+    "sourceItem": "98",
+    "question": "Která látka je typickým zástupcem fibrilárních proteinů?",
+    "options": [
+      "chitin",
+      "lignin",
+      "cytosin",
+      "keratin"
+    ],
+    "answer": 3,
+    "title": "keratin",
+    "paragraphs": [
+      "Keratin tvoří vlasy, nehty a rohovou vrstvu kůže. Chitin je polysacharid, lignin polymer fenolových látek ve dřevě a cytosin dusíkatá báze."
+    ],
+    "memory": "Keratin = vlasy a nehty."
+  },
+  {
+    "id": 625,
+    "subject": "Chemie",
+    "category": "Chemie · Aminokyseliny a bílkoviny",
+    "bookRef": "LF MU · Chemie · Aminokyseliny a bílkoviny 99 · str. 112",
+    "sourcePages": "112",
+    "sourceItem": "99",
+    "question": "Co je kasein?",
+    "options": [
+      "hlavní bílkovina kravského mléka",
+      "enzym štěpící bílkoviny",
+      "enzym používaný při výrobě sýrů",
+      "stavební složka těla hmyzu"
+    ],
+    "answer": 0,
+    "title": "hlavní bílkovina kravského mléka",
+    "paragraphs": [
+      "Kasein tvoří asi 80 % bílkovin mléka. Při výrobě sýrů ho sráží enzym chymozin (syřidlo), chitin je složkou kutikuly hmyzu."
+    ],
+    "memory": "Kasein = mléko a sýr."
+  },
+  {
+    "id": 626,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 100 · str. 112",
+    "sourcePages": "112",
+    "sourceItem": "100",
+    "question": "Který faktor neovlivňuje rychlost enzymově katalyzované reakce?",
+    "options": [
+      "koncentrace reagujících látek",
+      "hodnota rovnovážné konstanty reakce",
+      "teplota prostředí",
+      "koncentrace enzymu"
+    ],
+    "answer": 1,
+    "title": "hodnota rovnovážné konstanty reakce",
+    "paragraphs": [
+      "Rovnovážná konstanta určuje, kam reakce nakonec dospěje, nikoli jak rychle. Rychlost závisí na koncentracích substrátu a enzymu, teplotě, pH a inhibitorech."
+    ],
+    "memory": "K = cíl, ne rychlost."
+  },
+  {
+    "id": 627,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 105 · str. 112",
+    "sourcePages": "112",
+    "sourceItem": "105",
+    "question": "Které vazby štěpí α-amyláza a do které třídy enzymů patří?",
+    "options": [
+      "vazby β(1→4)-glykosidové, třída hydroláz",
+      "vazby α(1→6)-glykosidové, třída lyáz",
+      "vazby α(1→4)-glykosidové, třída hydroláz",
+      "vazby α(1→4)-glykosidové, třída lyáz"
+    ],
+    "answer": 2,
+    "title": "vazby α(1→4)-glykosidové, třída hydroláz",
+    "paragraphs": [
+      "Slinná i pankreatická amyláza štěpí vnitřní vazby α(1→4) škrobu a glykogenu za účasti vody. Místa větvení α(1→6) štěpí jiné enzymy a vazby β(1→4) celulózy lidská amyláza neštěpí."
+    ],
+    "memory": "Amyláza = hydroláza α(1→4)."
+  },
+  {
+    "id": 628,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 106 · str. 113",
+    "sourcePages": "113",
+    "sourceItem": "106",
+    "question": "Který enzym katalyzuje hydrolytické štěpení esterových vazeb v tucích?",
+    "options": [
+      "amyláza",
+      "trypsin",
+      "aldoláza",
+      "lipáza"
+    ],
+    "answer": 3,
+    "title": "lipáza",
+    "paragraphs": [
+      "Lipáza štěpí esterové vazby triacylglycerolů na mastné kyseliny a glycerol (monoacylglyceroly). Amyláza štěpí glykosidové vazby, trypsin peptidové a aldoláza je lyáza glykolýzy."
+    ],
+    "memory": "Lipáza = tuky, amyláza = škrob."
+  },
+  {
+    "id": 629,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 108 · str. 113",
+    "sourcePages": "113",
+    "sourceItem": "108",
+    "question": "Co může vzniknout karboxylací kyseliny pyrohroznové (sloučením s CO₂)?",
+    "options": [
+      "kyselina oxaloctová",
+      "kyselina citronová",
+      "kyselina mléčná",
+      "kyselina vinná"
+    ],
+    "answer": 0,
+    "title": "kyselina oxaloctová",
+    "paragraphs": [
+      "Pyruvátkarboxyláza připojí CO₂ k pyruvátu (3 C) a vznikne oxalacetát (4 C). Tato reakce doplňuje citrátový cyklus a zahajuje glukoneogenezi."
+    ],
+    "memory": "Pyruvát + CO₂ = oxalacetát."
+  },
+  {
+    "id": 630,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 109 · str. 113",
+    "sourcePages": "113",
+    "sourceItem": "109",
+    "question": "Co vzniká prostou dekarboxylací kyseliny pyrohroznové?",
+    "options": [
+      "kyselina octová",
+      "ethanal (acetaldehyd)",
+      "kyselina acetoctová",
+      "aceton"
+    ],
+    "answer": 1,
+    "title": "ethanal (acetaldehyd)",
+    "paragraphs": [
+      "Odštěpením CO₂ z CH₃−CO−COOH zbude CH₃−CHO. Tuto reakci provádějí kvasinky při alkoholovém kvašení a acetaldehyd pak redukují na ethanol."
+    ],
+    "memory": "Pyruvát − CO₂ = acetaldehyd."
+  },
+  {
+    "id": 631,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 110 · str. 113",
+    "sourcePages": "113",
+    "sourceItem": "110",
+    "question": "Kolik molekul acetyl-CoA může v živočišných buňkách vzniknout aerobním odbouráním dvou molekul glukózy?",
+    "options": [
+      "dvě",
+      "tři",
+      "čtyři",
+      "šest"
+    ],
+    "answer": 2,
+    "title": "čtyři",
+    "paragraphs": [
+      "Glykolýzou vzniknou z každé glukózy dvě molekuly pyruvátu a z každého pyruvátu oxidační dekarboxylací jedna molekula acetyl-CoA. Ze dvou glukóz tedy 4."
+    ],
+    "memory": "1 glukóza → 2 acetyl-CoA."
+  },
+  {
+    "id": 632,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 111 · str. 113",
+    "sourcePages": "113",
+    "sourceItem": "111",
+    "question": "Součástí které látky se při aerobním odbourání glukózy stávají atomy kyslíku z vdechnutého O₂?",
+    "options": [
+      "oxidu uhličitého",
+      "ATP",
+      "fosfátu",
+      "vody"
+    ],
+    "answer": 3,
+    "title": "vody",
+    "paragraphs": [
+      "Kyslík je konečným příjemcem elektronů v dýchacím řetězci a redukuje se na vodu. Kyslík v CO₂ pochází z glukózy a vody, CO₂ vzniká dekarboxylacemi."
+    ],
+    "memory": "O₂ → H₂O, CO₂ z dekarboxylací."
+  },
+  {
+    "id": 633,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 114 · str. 113",
+    "sourcePages": "113",
+    "sourceItem": "114",
+    "question": "Co nastává v citrátovém cyklu?",
+    "options": [
+      "oxidace acetylové skupiny na oxid uhličitý",
+      "syntéza acetyl-CoA",
+      "syntéza mastných kyselin",
+      "glykolýza"
+    ],
+    "answer": 0,
+    "title": "oxidace acetylové skupiny na oxid uhličitý",
+    "paragraphs": [
+      "Acetyl z acetyl-CoA se v cyklu postupně oxiduje na dvě molekuly CO₂ a uvolněné elektrony se ukládají do NADH a FADH₂. Cyklus probíhá v matrix mitochondrií."
+    ],
+    "memory": "Krebsův cyklus pálí acetyl."
+  },
+  {
+    "id": 634,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 116 · str. 113",
+    "sourcePages": "113",
+    "sourceItem": "116",
+    "question": "Které tvrzení o citrátovém cyklu je správné?",
+    "options": [
+      "syntéza kyseliny citronové na vstupu je endergonní děj",
+      "součástí cyklu jsou dvě dekarboxylační reakce",
+      "probíhá za anaerobních podmínek",
+      "probíhá na membránách endoplazmatického retikula"
+    ],
+    "answer": 1,
+    "title": "součástí cyklu jsou dvě dekarboxylační reakce",
+    "paragraphs": [
+      "CO₂ se uvolní při přeměně isocitrátu na 2-oxoglutarát a 2-oxoglutarátu na sukcinyl-CoA. Cyklus potřebuje regeneraci NAD⁺ dýchacím řetězcem, proto je vázán na aerobní podmínky."
+    ],
+    "memory": "Dvě dekarboxylace = dva CO₂."
+  },
+  {
+    "id": 635,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 118 · str. 114",
+    "sourcePages": "114",
+    "sourceItem": "118",
+    "question": "Které tvrzení o citrátovém cyklu není správné?",
+    "options": [
+      "ačkoli je cyklus oxidační, kyslík se jeho reakcí přímo neúčastní",
+      "jedním z meziproduktů je kyselina 2-oxoglutarová",
+      "k produktům čtyř reakcí cyklu patří větší počet nově vzniklých molekul ATP",
+      "k reakcím cyklu patří dvě dekarboxylace"
+    ],
+    "answer": 2,
+    "title": "k produktům čtyř reakcí cyklu patří větší počet nově vzniklých molekul ATP",
+    "paragraphs": [
+      "Přímo v cyklu vzniká jen jedna molekula GTP (ATP) na jednu otočku. Většina ATP vzniká až v dýchacím řetězci reoxidací NADH a FADH₂."
+    ],
+    "memory": "Cyklus dává NADH, ne ATP."
+  },
+  {
+    "id": 636,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 119 · str. 114",
+    "sourcePages": "114",
+    "sourceItem": "119",
+    "question": "S jakou sloučeninou kondenzuje acetyl-CoA ve vstupní reakci citrátového cyklu?",
+    "options": [
+      "s kyselinou pyrohroznovou",
+      "s kyselinou 2-oxoglutarovou",
+      "s kyselinou acetoctovou",
+      "s kyselinou oxaloctovou"
+    ],
+    "answer": 3,
+    "title": "s kyselinou oxaloctovou",
+    "paragraphs": [
+      "Acetyl (2 C) se spojí s oxalacetátem (4 C) a vznikne citrát (6 C). Na konci cyklu se oxalacetát obnoví, a proto je cyklus kruhový."
+    ],
+    "memory": "2 + 4 = 6 C (citrát)."
+  },
+  {
+    "id": 637,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 120 · str. 114",
+    "sourcePages": "114",
+    "sourceItem": "120",
+    "question": "Která sloučenina je meziproduktem přeměny kyseliny citronové v citrátovém cyklu?",
+    "options": [
+      "kyselina 2-oxoglutarová",
+      "kyselina šťavelová",
+      "kyselina pyrohroznová",
+      "kyselina acetoctová"
+    ],
+    "answer": 0,
+    "title": "kyselina 2-oxoglutarová",
+    "paragraphs": [
+      "Citrát se izomeruje na isocitrát a jeho oxidační dekarboxylací vznikne 2-oxoglutarát (5 C). Ten je zároveň spojkou s metabolismem aminokyselin (glutamát)."
+    ],
+    "memory": "Citrát → isocitrát → 2-oxoglutarát."
+  },
+  {
+    "id": 638,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 122 · str. 114",
+    "sourcePages": "114",
+    "sourceItem": "122",
+    "question": "Které tvrzení o dýchacím řetězci ve vnitřní membráně mitochondrií je správné?",
+    "options": [
+      "oxiduje acetyl na dvě molekuly CO₂",
+      "reoxiduje redukované koenzymy a získané elektrony přenáší na kyslík",
+      "využívá energii makroergních sloučenin k tvorbě kyslíkových radikálů",
+      "propouští vodíkové ionty jen zvenku do nitra mitochondrií"
+    ],
+    "answer": 1,
+    "title": "reoxiduje redukované koenzymy a získané elektrony přenáší na kyslík",
+    "paragraphs": [
+      "NADH a FADH₂ předají elektrony přes řadu přenašečů až na O₂. Uvolněná energie se využije k čerpání H⁺ z matrix do mezimembránového prostoru a zpětný tok H⁺ pohání ATP-syntázu."
+    ],
+    "memory": "Elektrony z NADH končí na O₂."
+  },
+  {
+    "id": 639,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 124 · str. 114",
+    "sourcePages": "114",
+    "sourceItem": "124",
+    "question": "Která látka nepatří mezi makroergní sloučeniny?",
+    "options": [
+      "acetyl-koenzym A",
+      "adenosintrifosfát",
+      "GMP",
+      "uridindifosfát"
+    ],
+    "answer": 2,
+    "title": "GMP",
+    "paragraphs": [
+      "Makroergní jsou fosfoanhydridové vazby v ATP, UDP či GTP a thioesterová vazba acetyl-CoA. Nukleosidmonofosfát GMP má jen esterovou vazbu fosfátu s ribózou, která makroergní není."
+    ],
+    "memory": "Monofosfát = bez makroergní vazby."
+  },
+  {
+    "id": 640,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 125 · str. 114",
+    "sourcePages": "114",
+    "sourceItem": "125",
+    "question": "Která složka potravy uvolní při stejné hmotnosti v lidském těle nejvíce využitelné energie?",
+    "options": [
+      "sacharidy",
+      "proteiny",
+      "nukleové kyseliny",
+      "lipidy"
+    ],
+    "answer": 3,
+    "title": "lipidy",
+    "paragraphs": [
+      "Tuky poskytují asi 38 kJ/g, sacharidy a bílkoviny asi 17 kJ/g. Mastné kyseliny jsou silně redukované a mají málo kyslíku, takže jejich oxidací se uvolní víc energie."
+    ],
+    "memory": "Tuk ≈ 38 kJ/g, cukr ≈ 17 kJ/g."
+  },
+  {
+    "id": 641,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 127 · str. 114",
+    "sourcePages": "114",
+    "sourceItem": "127",
+    "question": "Které tvrzení o kyselině močové je správné?",
+    "options": [
+      "vzniká v lidském těle odbouráním adeninových a guaninových nukleotidů",
+      "je u člověka konečným dusíkatým produktem odbourání bílkovin",
+      "má v molekule jednu karboxylovou skupinu",
+      "je ve vodě dobře rozpustná"
+    ],
+    "answer": 0,
+    "title": "vzniká v lidském těle odbouráním adeninových a guaninových nukleotidů",
+    "paragraphs": [
+      "Kyselina močová je konečným produktem odbourání purinů u člověka. Dusík z bílkovin se vylučuje jako močovina. Kyselina močová nemá karboxyl a je málo rozpustná, při nadbytku krystalizuje v kloubech při dně."
+    ],
+    "memory": "Puriny → kyselina močová → dna."
+  },
+  {
+    "id": 642,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 130 · str. 115",
+    "sourcePages": "115",
+    "sourceItem": "130",
+    "question": "Jak se uplatní kyselina askorbová při přeměně na kyselinu dehydroaskorbovou?",
+    "options": [
+      "je redukována",
+      "uplatní svůj redukční účinek",
+      "podléhá deprotonizaci",
+      "samovolně dehydratuje"
+    ],
+    "answer": 1,
+    "title": "uplatní svůj redukční účinek",
+    "paragraphs": [
+      "Kyselina askorbová odevzdá dva atomy vodíku (elektrony) a sama se oxiduje. Proto působí jako antioxidant a chrání jiné látky před oxidací."
+    ],
+    "memory": "Vitamin C se oxiduje, jiné chrání."
+  },
+  {
+    "id": 643,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 132 · str. 115",
+    "sourcePages": "115",
+    "sourceItem": "132",
+    "question": "Který hormon podporuje syntézu bílkovin, a má tedy anabolický účinek?",
+    "options": [
+      "adrenalin",
+      "kortizol",
+      "testosteron",
+      "antidiuretický hormon"
+    ],
+    "answer": 2,
+    "title": "testosteron",
+    "paragraphs": [
+      "Testosteron a jeho deriváty (anabolické steroidy) zvyšují tvorbu svalových bílkovin. Kortizol naopak bílkoviny odbourává a adrenalin mobilizuje energetické zásoby."
+    ],
+    "memory": "Testosteron staví svaly."
+  },
+  {
+    "id": 644,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 136 · str. 115",
+    "sourcePages": "115",
+    "sourceItem": "136",
+    "question": "Která dvojice vitamin a typická vlastnost je nesprávná?",
+    "options": [
+      "tokoferol, rozpustný v olejích",
+      "riboflavin, intenzivně žlutý a fluoreskující",
+      "kyselina askorbová, antioxidant",
+      "fylochinon, rozpustný ve vodě"
+    ],
+    "answer": 3,
+    "title": "fylochinon, rozpustný ve vodě",
+    "paragraphs": [
+      "Fylochinon (vitamin K1) je nepolární naftochinon s dlouhým isoprenoidním řetězcem, a proto patří k vitaminům rozpustným v tucích."
+    ],
+    "memory": "K patří k A, D, E, K."
+  },
+  {
+    "id": 645,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 137 · str. 115",
+    "sourcePages": "115",
+    "sourceItem": "137",
+    "question": "Které látky jsou substráty transaminace?",
+    "options": [
+      "aminokyselina a 2-oxoglutarát",
+      "oxokyselina a amoniak",
+      "dvě různé aminokyseliny",
+      "aminokyselina a NAD⁺"
+    ],
+    "answer": 0,
+    "title": "aminokyselina a 2-oxoglutarát",
+    "paragraphs": [
+      "Aminotransferáza přenese aminoskupinu z aminokyseliny na 2-oxoglutarát. Vznikne glutamát a z původní aminokyseliny oxokyselina. Koenzymem je pyridoxalfosfát (vitamin B6)."
+    ],
+    "memory": "Transaminace: NH₂ na 2-oxoglutarát."
+  },
+  {
+    "id": 646,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 139 · str. 115",
+    "sourcePages": "115",
+    "sourceItem": "139",
+    "question": "Která reakce citrátového cyklu poskytuje redukovaný flavinový kofaktor FADH₂?",
+    "options": [
+      "pyruvát → acetyl-CoA",
+      "sukcinát → fumarát",
+      "isocitrát → 2-oxoglutarát",
+      "malát → oxalacetát"
+    ],
+    "answer": 1,
+    "title": "sukcinát → fumarát",
+    "paragraphs": [
+      "Sukcinátdehydrogenáza odnímá dva vodíky z −CH₂−CH₂− a vytváří dvojnou vazbu fumarátu. Je pevně vázána na vnitřní membránu mitochondrií a jako jediná v cyklu používá FAD. Ostatní dehydrogenace dávají NADH."
+    ],
+    "memory": "Sukcinát → fumarát = FAD."
+  },
+  {
+    "id": 647,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 140 · str. 116",
+    "sourcePages": "116",
+    "sourceItem": "140",
+    "question": "Který meziprodukt glykolýzy má vysoký obsah energie dostatečný k syntéze ATP?",
+    "options": [
+      "glukóza-6-fosfát",
+      "dihydroxyacetonfosfát",
+      "fosfoenolpyruvát",
+      "glyceraldehyd-3-fosfát"
+    ],
+    "answer": 2,
+    "title": "fosfoenolpyruvát",
+    "paragraphs": [
+      "Fosfoenolpyruvát předá svůj fosfát na ADP v reakci katalyzované pyruvátkinázou a vznikne ATP a pyruvát. Jde o substrátovou fosforylaci."
+    ],
+    "memory": "PEP → ATP + pyruvát."
+  },
+  {
+    "id": 648,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 142 · str. 116",
+    "sourcePages": "116",
+    "sourceItem": "142",
+    "question": "Které tvrzení o přeměnách aminokyselin je správné?",
+    "options": [
+      "dekarboxylací glutamátu vzniká aspartát",
+      "při dehydrogenaci aminokyseliny se mění její konfigurace",
+      "oxidací cysteinu vznikne methionin",
+      "v silně zásaditém prostředí existuje kyselina glutamová jako dianion"
+    ],
+    "answer": 3,
+    "title": "v silně zásaditém prostředí existuje kyselina glutamová jako dianion",
+    "paragraphs": [
+      "V silně zásaditém roztoku jsou oba karboxyly ionizované a aminoskupina neutrální, celkový náboj je −2. Dekarboxylací glutamátu vzniká GABA, oxidací cysteinu cystin."
+    ],
+    "memory": "Zásada odebere všechny protony."
+  },
+  {
+    "id": 649,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 143 · str. 116",
+    "sourcePages": "116",
+    "sourceItem": "143",
+    "question": "Kterou reakci katalyzuje transferáza?",
+    "options": [
+      "přeměnu glukózy na glukóza-6-fosfát",
+      "přeměnu triacylglycerolu na glycerol a mastné kyseliny",
+      "přeměnu acetaldehydu na kyselinu octovou",
+      "přeměnu glyceraldehydfosfátu na dihydroxyacetonfosfát"
+    ],
+    "answer": 0,
+    "title": "přeměnu glukózy na glukóza-6-fosfát",
+    "paragraphs": [
+      "Hexokináza přenáší fosfátovou skupinu z ATP na glukózu. Štěpení tuků provádí hydroláza (lipáza), oxidaci acetaldehydu oxidoreduktáza a přeměnu triózafosfátů izomeráza."
+    ],
+    "memory": "Kináza = transferáza fosfátu."
+  },
+  {
+    "id": 650,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 145 · str. 116",
+    "sourcePages": "116",
+    "sourceItem": "145",
+    "question": "Které tvrzení o reakcích aminokyselin je správné?",
+    "options": [
+      "dehydrogenací cystinu vzniká cystein",
+      "v silně kyselém roztoku existuje lysin jako dikation",
+      "dekarboxylací alaninu vzniká pyruvát",
+      "transaminací glutamátu vznikne oxalacetát"
+    ],
+    "answer": 1,
+    "title": "v silně kyselém roztoku existuje lysin jako dikation",
+    "paragraphs": [
+      "V kyselém prostředí jsou obě aminoskupiny lysinu protonované (−NH₃⁺) a karboxyl neionizovaný, náboj je +2. Cystein se oxiduje na cystin, transaminací glutamátu vzniká 2-oxoglutarát."
+    ],
+    "memory": "Kyselina dodá protony oběma NH₂."
+  }
+]

@@ -196,6 +196,12 @@ Vynecháno z organické chemie 119–185: 119 (benzoyl, UK 327), 120 (UK 409), 1
 
 Vynecháno z úloh 1–44 o sacharidech a lipidech: 8 (varianta 582), 13–15 (vzorce jen jako obrázek), 17, 19 (glykosidová vazba, UK 506), 21, 22 (laktóza a sacharóza, BIO 286–287), 26 (varianta 593–594), 27, 29, 39 (klíč „žádná“), 30, 31, 33 (palmitová, olejová a linolová kyselina, UK 518–521), 36–38, 41, 42 (mýdla a ztužování, UK 524–529), 44 (žluknutí, UK 528).
 
-Dosud nepokryté oddíly: chemie Biochemie od úlohy 45 (aminokyseliny, bílkoviny, nukleové kyseliny, enzymy, metabolismus) a zbylé úlohy prvních kapitol; biologie Životní funkce 10 (trypanozoma a tse-tse, LF MU 399, nejspíš vyřadit); zbylé úlohy prvních kapitol fyziky.
+## Dávka 601–650 (verze 2.68.0)
+
+Chemie, oddíl Sacharidy, lipidy, aminokyseliny, nukleové kyseliny, enzymy, metabolismus (str. 107–116), ID 601–650: úlohy 46, 50, 52, 53, 58, 59, 62, 63, 64, 65, 67, 68, 69, 71, 74, 76, 77, 82, 83, 86, 87, 91, 92, 98, 99, 100, 105, 106, 108, 109, 110, 111, 114, 116, 118, 119, 120, 122, 124, 125, 127, 130, 132, 136, 137, 139, 140, 142, 143, 145. Úlohy 64, 87, 105 a 106 s klíčem „žádná“ mají doplněnou správnou odpověď (transkripce DNA → RNA, guanidinová skupina argininu, amyláza jako hydroláza vazeb α(1→4), lipáza).
+
+Vynecháno z úloh 45–145: 45 (žluknutí, UK 528), 47–49 (purinové a pyrimidinové báze, UK 475–476), 51 (UK 629), 54, 57, 61 (glykosidová vazba, varianty 603), 55 (klíč „žádná“), 56 (varianta 604), 60 (varianta 605), 66 (antikodon, UK 93), 70, 72, 73, 75 (serin, valin, leucin, asparagová kyselina, UK 565–579), 78–81, 89, 90 (vzorce jen jako obrázek nebo varianta 617), 84, 85 (UK 561, 571–572), 88 (izoelektrický bod, UK 563), 93 (varianta 623), 94 (cystein a disulfidy, UK 568), 95 (klíč „žádná“), 96 (UK 608), 97 (sporný klíč, disulfidové můstky spojují podjednotky například u inzulinu a protilátek), 101, 104 (hydrolázy, UK 620), 102, 103 (pepsin a trypsin, BIO 274), 107 (laktát, LF MU 243), 112, 113 (β-oxidace, UK 624), 115, 117, 121 (varianty 633 a 636), 123 (varianta 638), 126 (močovina, BIO 299), 128 (varianta 641), 129 (varianta 619), 131 (adrenalin, UK 546), 133 (prolaktin, SOM 414), 134 (křivice, BIO 895), 135 (hořčík v chlorofylu, UK 27), 138, 141, 144 (klíč „žádná“).
+
+Dosud nepokryté oddíly: chemie úlohy 146–171 posledního oddílu a zbylé úlohy prvních kapitol; biologie Životní funkce 10 (trypanozoma a tse-tse, LF MU 399, nejspíš vyřadit); zbylé úlohy prvních kapitol fyziky.
 
 Druhý soubor `877344967-LF-MU-Modelove-Otazky-New.pdf` je podle vlastníka (21. 11. 2026) stejná publikace jako hlavní soubor Mornstein a kol. Samostatně se nepokrývá; zdrojem kvízu LF MU je jen hlavní soubor.
