@@ -475,6 +475,14 @@ Vynechané: 8.47 (LF MU 334), 8.51 (jako 8.09), 8.54 (jako 8.53), 8.55 (jako 7.0
 
 Test `work/check.cjs`: zjednodušený model DOM teď přidá všechny třídy z `classList.add(...)`. Dřív se u správné nevybrané možnosti zapsala jen třída `correct` bez `missed`.
 
+## Dávka ID 1401–1450: Amler, kap. 9 Elektromagnetické vlnění (v2.90.0)
+
+Použité úlohy (ID): 9.09 (1401), 9.12, 9.13 (1402–1403), 9.17, 9.18 (1404–1405), 9.21–9.24 (1406–1409), 9.27–9.32 (1410–1415), 9.34–9.38 (1416–1420), 9.40 (1421), 9.42 (1422), 9.44–9.48 (1423–1427), 9.50–9.54 (1428–1432), 9.56–9.60 (1433–1437), 9.62–9.68 (1438–1444), 9.70, 9.71 (1445–1446), 9.73, 9.74 (1447–1448), 9.78 (1449), 9.80 (1450). Klíč všech 50 otázek odpovídá klíči knihy, výpočty (9.46, 9.70, 9.78) jsou přepočítané. Kapitola 9 je tím posouzená celá.
+
+Vynechané: 9.10 (jako 9.09), 9.14 a 9.15 (čípky a tyčinky, ČB 26 a biologie), 9.16 (jako 9.40), 9.19 a 9.20 (LF MU 410), 9.25 (zrcadlová k 9.24), 9.26 (žertovná úloha), 9.33 (jako 9.32), 9.39, 9.43 a 9.61 (jako 9.02 a 9.13), 9.41 (LF MU 405), 9.49 (jako 9.50 a ČB 541), 9.55 (jako 9.54), 9.69 (LF MU 388), 9.72 (LF MU 385), 9.75 (jako 9.73), 9.76 (jako 8.06), 9.79 (jako UK 1116).
+
+Sporné: 9.77 – klíč B uvádí „0,000 39 nm – 0,000 79 nm“, správně je 390–790 nm (možnost A). V exportu se zřejmě ztratila jednotka (mm), klíč tak nelze ověřit. Úloha je vyřazená.
+
 ## Stav pokrytí
 
-Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) je posouzená celá včetně úloh s více správnými odpověďmi (ID 738–1000). Fyzika (Amler, celá kniha 907 úloh) je posouzená v kap. 1–8 a v kap. 9 po úlohu 9.11 (bez 9.09 a 9.10). Další dávka začne od ID 1401 úlohami 9.09 a 9.10.
+Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) je posouzená celá včetně úloh s více správnými odpověďmi (ID 738–1000). Fyzika (Amler, celá kniha 907 úloh) je posouzená v kap. 1–9. Další dávka začne od ID 1451 kapitolou 10 Optika.
