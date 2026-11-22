@@ -70,7 +70,7 @@ assert.equal(deliveredEarlierUpgrade.run(`JSON.stringify(BIOLOGY_QUESTIONS.slice
 const oldRoundIds=new Set(upgraded.read('data.session.attempts').map(a=>a.id));
 while(upgraded.run('!data.session.completed')){
  const id=upgraded.run('data.session.currentId');assert.ok(id<=850);
- if(upgraded.run('data.session.currentAnswer===null')){assert.ok(!oldRoundIds.has(id));oldRoundIds.add(id);upgraded.run('choose(byId.get(data.session.currentId).answer)');}
+ if(upgraded.run('data.session.currentAnswer===null')){assert.ok(!oldRoundIds.has(id));oldRoundIds.add(id);upgraded.run('choose((q=>Array.isArray(q.answers)?16+maskOf(q.answers):q.answer)(byId.get(data.session.currentId)))');}
  upgraded.run('nextQuestion()');
 }
 assert.equal(oldRoundIds.size,850);
@@ -85,7 +85,7 @@ a.run("switchSubject('biologie');start('all')");
 assert.equal(a.run('BANK_SIZE'),900);assert.equal(a.run('STORAGE_KEY'),'biologie-learning-v2');
 assert.equal(a.run('summary().seen'),0);assert.equal(a.run('data.session.target'),900);
 const firstBio=a.run('data.session.currentId');
-a.run("$('guess').checked=true;choose(byId.get(data.session.currentId).answer)");
+a.run("$('guess').checked=true;choose((q=>Array.isArray(q.answers)?16+maskOf(q.answers):q.answer)(byId.get(data.session.currentId)))");
 assert.equal(a.run('progress(data.session.currentId).lastResult'),'guess');
 const bioSaved=a.read('data');a.run("switchSubject('somatologie')");assert.deepEqual(a.read('data'),somato);
 a.run("switchSubject('biologie')");assert.deepEqual(a.read('data'),bioSaved);
@@ -120,7 +120,7 @@ const unavailable=app(html,new Map(),true);unavailable.run("switchSubject('biolo
 // Subject tabs support left/right and preserve independent state.
 const keyboard=app(html);keyboard.ids.get('tab-somatologie').events.keydown({key:'ArrowRight',preventDefault(){}});assert.equal(keyboard.run('activeSubject'),'biologie');
 const full=app(html);full.run("start('all')");const originalVisited=new Set();
-while(full.run('!data.session.completed')){const id=full.run('data.session.currentId');assert.ok(!originalVisited.has(id));originalVisited.add(id);full.run('choose(byId.get(data.session.currentId).answer);nextQuestion()');}
+while(full.run('!data.session.completed')){const id=full.run('data.session.currentId');assert.ok(!originalVisited.has(id));originalVisited.add(id);full.run('choose((q=>Array.isArray(q.answers)?16+maskOf(q.answers):q.answer)(byId.get(data.session.currentId)));nextQuestion()');}
 assert.equal(originalVisited.size,630);assert.equal(full.run('score().correct'),630);
 const smart=app(html);smart.run("switchSubject('biologie');start('smart');choose((byId.get(data.session.currentId).answer+1)%4)");
 const failed=smart.run('data.session.currentId');assert.equal(smart.run('summary().weak'),1);
@@ -170,7 +170,7 @@ school.run("switchSubject('biologie');switchSubject('budejovice')");
 assert.deepEqual(school.read('data.session'),savedRound);
 const resumed=app(html,school.storage);
 assert.deepEqual(resumed.read('data.session'),savedRound);
-while(!resumed.run('data.session.completed'))resumed.run('choose(byId.get(data.session.currentId).answer);nextQuestion()');
+while(!resumed.run('data.session.completed'))resumed.run('choose((q=>Array.isArray(q.answers)?16+maskOf(q.answers):q.answer)(byId.get(data.session.currentId)));nextQuestion()');
 assert.equal(resumed.run('score().correct'),bank.length-1);
 resumed.run("start('weak')");assert.equal(resumed.run('data.session.target'),1);
 resumed.ids.get('reset').events.click();
@@ -192,7 +192,7 @@ for(const [key,topic] of Object.entries(topics)){
  assert.deepEqual(topical.read('[data.session.currentId,...data.session.queue]').sort((a,b)=>a-b),topic.ids);
 }
 pickTopic(topical,'physics');
-topical.run('choose(byId.get(data.session.currentId).answer);nextQuestion()');
+topical.run('choose((q=>Array.isArray(q.answers)?16+maskOf(q.answers):q.answer)(byId.get(data.session.currentId)));nextQuestion()');
 const physicsRound=topical.read('data.session');
 const reloadedTopic=app(html,topical.storage);
 assert.equal(reloadedTopic.run('schoolSection'),'physics');
@@ -207,9 +207,9 @@ assert.equal(reloadedTopic.run('data.session'),null);
 assert.equal(reloadedTopic.run('summary().seen'),0);
 const result={status:'PASS',unchangedSomatology:630,unchangedOriginalBiology:900,school:bank.length,schoolTopics:Object.fromEntries(Object.values(topics).map(topic=>[topic.name,topic.ids.length])),biology:900,personalNameRemoved:true,somatologyQuestionsExercised:originalVisited.size,biologyQuestionsExercised:visited.size,oldBiologyProgressExactMatch:true,oldProgressExactMatch:true,independentSessions:true,reload:true,isolatedReset:true,legacyMigration:true,corruptStorage:true,blockedStorage:true,keyboardTabs:true,smartReview:true,invalidSubjectRecovery:true,method:'Actual application JavaScript with minimal DOM adapter; no browser visual verification'};
 const sourceDevice=app(historical('outputs/studijni-kvizy-v2.38.0/index.html','2.38.0'));
-sourceDevice.run("start('all');choose((byId.get(data.session.currentId).answer+1)%4);nextQuestion();switchSubject('biologie');start('smart');choose(byId.get(data.session.currentId).answer);switchSubject('budejovice');start('all');choose(byId.get(data.session.currentId).answer)");
+sourceDevice.run("start('all');choose((byId.get(data.session.currentId).answer+1)%4);nextQuestion();switchSubject('biologie');start('smart');choose((q=>Array.isArray(q.answers)?16+maskOf(q.answers):q.answer)(byId.get(data.session.currentId)));switchSubject('budejovice');start('all');choose((q=>Array.isArray(q.answers)?16+maskOf(q.answers):q.answer)(byId.get(data.session.currentId)))");
 pickTopic(sourceDevice,'physics');
-sourceDevice.run("start('all');$('guess').checked=true;choose(byId.get(data.session.currentId).answer)");
+sourceDevice.run("start('all');$('guess').checked=true;choose((q=>Array.isArray(q.answers)?16+maskOf(q.answers):q.answer)(byId.get(data.session.currentId)))");
 const exported=app(html,sourceDevice.storage).read('backupProgress()');
 assert.equal(exported.subjects.somatologie.session.attempts[0].good,false);
 assert.equal(exported.subjects.budejovice.sections.physics.attempts[0].guessed,true);
@@ -229,7 +229,7 @@ result.progressBackupRoundTrip=true;
 const muniFiles=fs.readdirSync('work').filter(f=>/^muni-\d{3}-\d{3}\.json$/.test(f)).sort();
 const muniFileBank=muniFiles.flatMap(f=>JSON.parse(fs.readFileSync('work/'+f,'utf8')));
 const muni=app(html);
-muni.run("switchSubject('muni');start('all');choose(byId.get(data.session.currentId).answer);nextQuestion()");
+muni.run("switchSubject('muni');start('all');choose((q=>Array.isArray(q.answers)?16+maskOf(q.answers):q.answer)(byId.get(data.session.currentId)));nextQuestion()");
 assert.equal(muni.run('BANK_SIZE'),muniFileBank.length);
 const muniAll=muni.read('data.session');
 const muniTopics=muni.read('MUNI_TOPICS');
@@ -238,7 +238,7 @@ for(const [key,topic] of Object.entries(muniTopics)){
  const picker=muni.ids.get('muniSection');picker.value=key;picker.events.change();
  muni.run("start('all')");
  assert.deepEqual(muni.read('[data.session.currentId,...data.session.queue]').sort((a,b)=>a-b),topic.ids);
- muni.run('choose(byId.get(data.session.currentId).answer);nextQuestion()');
+ muni.run('choose((q=>Array.isArray(q.answers)?16+maskOf(q.answers):q.answer)(byId.get(data.session.currentId)));nextQuestion()');
 }
 const muniBackup=muni.read('backupProgress()');
 const muniReload=app(html,muni.storage);
@@ -262,9 +262,9 @@ result.muniQuestions=muniBank.length;result.muniSectionsAndLegacyBackup=true;
 const pickMuni=(app,key)=>{const picker=app.ids.get('muniSection');picker.value=key;picker.events.change();};
 // Upgrade from the 50-question LF MU release: same first 50 questions, saved answers, tips and open rounds survive.
 const muni50=app(historical('outputs/studijni-kvizy-v2.40.0/index.html','2.40.0'));
-muni50.run("switchSubject('muni');start('all');choose((byId.get(data.session.currentId).answer+1)%4);nextQuestion();$('guess').checked=true;choose(byId.get(data.session.currentId).answer);nextQuestion()");
+muni50.run("switchSubject('muni');start('all');choose((byId.get(data.session.currentId).answer+1)%4);nextQuestion();$('guess').checked=true;choose((q=>Array.isArray(q.answers)?16+maskOf(q.answers):q.answer)(byId.get(data.session.currentId)));nextQuestion()");
 pickMuni(muni50,'physics');
-muni50.run("start('all');choose(byId.get(data.session.currentId).answer);nextQuestion()");
+muni50.run("start('all');choose((q=>Array.isArray(q.answers)?16+maskOf(q.answers):q.answer)(byId.get(data.session.currentId)));nextQuestion()");
 pickMuni(muni50,'all');
 const muni50Bank=muni50.read('MUNI_QUESTIONS');
 assert.equal(muni50Bank.length,50);
@@ -295,13 +295,13 @@ assert.equal(new Set(ukApp.read('Object.values(SUBJECTS).map(s=>s.key)')).size,5
 const ukTopicData=ukApp.read('UK_TOPICS');
 assert.deepEqual(Object.values(ukTopicData).map(t=>t.ids.length),['Fyzika','Chemie','Biologie'].map(n=>ukBank.filter(q=>q.subject===n).length));
 const pickUk=(a,key)=>{const picker=a.ids.get('ukSection');picker.value=key;picker.events.change();};
-ukApp.run("switchSubject('uk');start('all');choose((byId.get(data.session.currentId).answer+1)%4);nextQuestion();$('guess').checked=true;choose(byId.get(data.session.currentId).answer);nextQuestion()");
+ukApp.run("switchSubject('uk');start('all');choose((byId.get(data.session.currentId).answer+1)%4);nextQuestion();$('guess').checked=true;choose((q=>Array.isArray(q.answers)?16+maskOf(q.answers):q.answer)(byId.get(data.session.currentId)));nextQuestion()");
 assert.equal(ukApp.run('BANK_SIZE'),ukBank.length);
 const ukAll=ukApp.read('data.session');
 for(const [key,topic] of Object.entries(ukTopicData)){
  pickUk(ukApp,key);ukApp.run("start('all')");
  assert.deepEqual(ukApp.read('[data.session.currentId,...data.session.queue]').sort((a,b)=>a-b),topic.ids);
- ukApp.run('choose(byId.get(data.session.currentId).answer);nextQuestion()');
+ ukApp.run('choose((q=>Array.isArray(q.answers)?16+maskOf(q.answers):q.answer)(byId.get(data.session.currentId)));nextQuestion()');
 }
 assert.ok(ukApp.storage.has('uk-learning-v2'));
 assert.equal(ukApp.storage.get('uk-section'),'biology');
@@ -330,7 +330,7 @@ assert.equal(ukReload.read('data.session'),null);
 // Upgrade from v2.43.0 (four subjects): stored progress and an old backup still work, UK starts empty.
 const v243=app(historical('outputs/studijni-kvizy-v2.43.0/index.html','2.43.0'));
 assert.throws(()=>v243.run('UK_QUESTIONS'));
-v243.run("switchSubject('budejovice');start('all');choose(byId.get(data.session.currentId).answer);nextQuestion();switchSubject('muni');start('all');choose((byId.get(data.session.currentId).answer+1)%4);nextQuestion();switchSubject('somatologie');start('all');choose(0);nextQuestion();switchSubject('muni')");
+v243.run("switchSubject('budejovice');start('all');choose((q=>Array.isArray(q.answers)?16+maskOf(q.answers):q.answer)(byId.get(data.session.currentId)));nextQuestion();switchSubject('muni');start('all');choose((byId.get(data.session.currentId).answer+1)%4);nextQuestion();switchSubject('somatologie');start('all');choose(0);nextQuestion();switchSubject('muni')");
 const v243Backup=v243.read('backupProgress()');
 assert.equal(v243Backup.subjects.uk,undefined);
 const v243Before=new Map(v243.storage);
@@ -347,9 +347,9 @@ for(const id of ['somatologie','biologie','budejovice','muni'])assert.deepEqual(
 result.ukQuestions=ukBank.length;result.ukSectionsBackupAndUpgradeFrom243=true;
 // Upgrade from v2.45.0 (50 UK questions): same first 50 questions; answers, tips and open section rounds survive.
 const uk50=app(historical('outputs/studijni-kvizy-v2.45.0/index.html','2.45.0'));
-uk50.run("switchSubject('uk');start('all');choose((byId.get(data.session.currentId).answer+1)%4);nextQuestion();$('guess').checked=true;choose(byId.get(data.session.currentId).answer);nextQuestion()");
+uk50.run("switchSubject('uk');start('all');choose((byId.get(data.session.currentId).answer+1)%4);nextQuestion();$('guess').checked=true;choose((q=>Array.isArray(q.answers)?16+maskOf(q.answers):q.answer)(byId.get(data.session.currentId)));nextQuestion()");
 pickUk(uk50,'chemistry');
-uk50.run("start('all');choose(byId.get(data.session.currentId).answer);nextQuestion()");
+uk50.run("start('all');choose((q=>Array.isArray(q.answers)?16+maskOf(q.answers):q.answer)(byId.get(data.session.currentId)));nextQuestion()");
 pickUk(uk50,'all');
 const uk50Bank=uk50.read('UK_QUESTIONS');
 assert.equal(uk50Bank.length,50);
@@ -368,7 +368,7 @@ result.ukUpgradeFrom50=true;
 // Upgrade from v2.46.0 (100 UK and 100 LF MU questions): IDs and option order of the first 100 stay, progress, tips and section rounds survive.
 const v246=app(historical('outputs/studijni-kvizy-v2.46.0/index.html','2.46.0'));
 for(const [id,pick] of [['uk',pickUk],['muni',pickMuni]]){
- v246.run(`switchSubject('${id}');start('all');choose((byId.get(data.session.currentId).answer+1)%4);nextQuestion();$('guess').checked=true;choose(byId.get(data.session.currentId).answer);nextQuestion()`);
+ v246.run(`switchSubject('${id}');start('all');choose((byId.get(data.session.currentId).answer+1)%4);nextQuestion();$('guess').checked=true;choose((q=>Array.isArray(q.answers)?16+maskOf(q.answers):q.answer)(byId.get(data.session.currentId)));nextQuestion()`);
  pick(v246,'biology');
  v246.run("start('all');choose((byId.get(data.session.currentId).answer+1)%4);nextQuestion()");
  pick(v246,'all');
@@ -395,7 +395,7 @@ result.upgradeFrom246=true;
 // any number of options. Upgrade from v2.73.0 keeps saved single answers, tips and open rounds.
 const v273=app(historical('outputs/studijni-kvizy-v2.73.0/index.html','2.73.0'));
 for(const [id,pick] of [['uk',pickUk],['muni',pickMuni]]){
- v273.run(`switchSubject('${id}');start('all');choose((byId.get(data.session.currentId).answer+1)%4);nextQuestion();$('guess').checked=true;choose(byId.get(data.session.currentId).answer);nextQuestion();choose(byId.get(data.session.currentId).answer)`);
+ v273.run(`switchSubject('${id}');start('all');choose((byId.get(data.session.currentId).answer+1)%4);nextQuestion();$('guess').checked=true;choose((q=>Array.isArray(q.answers)?16+maskOf(q.answers):q.answer)(byId.get(data.session.currentId)));nextQuestion();choose((q=>Array.isArray(q.answers)?16+maskOf(q.answers):q.answer)(byId.get(data.session.currentId)))`);
  pick(v273,'chemistry');
  v273.run("start('all');choose((byId.get(data.session.currentId).answer+1)%4)");
  pick(v273,'all');
