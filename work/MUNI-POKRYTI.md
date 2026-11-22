@@ -202,6 +202,22 @@ Chemie, oddíl Sacharidy, lipidy, aminokyseliny, nukleové kyseliny, enzymy, met
 
 Vynecháno z úloh 45–145: 45 (žluknutí, UK 528), 47–49 (purinové a pyrimidinové báze, UK 475–476), 51 (UK 629), 54, 57, 61 (glykosidová vazba, varianty 603), 55 (klíč „žádná“), 56 (varianta 604), 60 (varianta 605), 66 (antikodon, UK 93), 70, 72, 73, 75 (serin, valin, leucin, asparagová kyselina, UK 565–579), 78–81, 89, 90 (vzorce jen jako obrázek nebo varianta 617), 84, 85 (UK 561, 571–572), 88 (izoelektrický bod, UK 563), 93 (varianta 623), 94 (cystein a disulfidy, UK 568), 95 (klíč „žádná“), 96 (UK 608), 97 (sporný klíč, disulfidové můstky spojují podjednotky například u inzulinu a protilátek), 101, 104 (hydrolázy, UK 620), 102, 103 (pepsin a trypsin, BIO 274), 107 (laktát, LF MU 243), 112, 113 (β-oxidace, UK 624), 115, 117, 121 (varianty 633 a 636), 123 (varianta 638), 126 (močovina, BIO 299), 128 (varianta 641), 129 (varianta 619), 131 (adrenalin, UK 546), 133 (prolaktin, SOM 414), 134 (křivice, BIO 895), 135 (hořčík v chlorofylu, UK 27), 138, 141, 144 (klíč „žádná“).
 
-Dosud nepokryté oddíly: chemie úlohy 146–171 posledního oddílu a zbylé úlohy prvních kapitol; biologie Životní funkce 10 (trypanozoma a tse-tse, LF MU 399, nejspíš vyřadit); zbylé úlohy prvních kapitol fyziky.
+Dosud nepokryté oddíly: chemie úlohy 146–171 posledního oddílu a zbylé úlohy prvních kapitol; biologie Životní funkce 10; zbylé úlohy prvních kapitol fyziky.
+
+## Dávka 651–700 (verze 2.70.0)
+
+Soubor `muni-651-700.json`, generátor `create_muni_651_700.py`. Odpovědi ověřeny výpočtem nebo výkladem a porovnány s klíčem na str. 120.
+
+- Chemie, Enzymy, metabolismus a biomolekuly (str. 116–119), ID 651–666: úlohy 146, 148, 150, 151, 153, 154, 155, 157, 158, 159, 163, 164, 165, 167, 168, 170. Úlohy 150 a 151 s klíčem „žádná“ mají doplněnou správnou odpověď (glyceraldehyd-3-fosfátdehydrogenáza; vitamin C si člověk nesyntetizuje). V 164 nahrazeny distraktory s nejednoznačnou „dehydrogenací alaninu“ a „hydroxylací glycinu“.
+- Chemie, Vzorce a výpočty (str. 62–67), ID 667–694: úlohy 14, 20, 22, 23, 26, 27 (názvosloví) a 32, 34, 35, 39, 42, 43, 44, 45, 47, 48, 52, 57, 60, 61, 62, 63, 66, 67, 69, 70, 71, 75 (výpočty). Úlohy 14, 45 a 75 s klíčem „žádná“ mají doplněnou správnou odpověď.
+- Chemie, Stavba atomu (str. 67–69), ID 695–700: úlohy 3, 6, 11, 13, 19, 33.
+
+Vynecháno z biochemie 146–171: 147 (transaminace aspartátu, varianta 652), 149 (malát → oxalacetát, LF MU 557), 152 (dikation argininu, varianta LF MU 650), 156 (vitamin K, UK 555 a LF MU 644, klíč „žádná“), 160 (transaminace, varianta 652), 161 (substrátová fosforylace z fosfoenolpyruvátu, LF MU 647), 162 (glyceraldehyd-3-fosfátdehydrogenáza, varianta 653), 166 (FADH₂, LF MU 646), 169 (provitamin A, UK 551), 171 (ligáza, varianta 655). Biochemie (1–171) je tím posouzená celá.
+
+Vynecháno ze Vzorců 1–75: 17 (chlorečnan, LF MU 22), 18 (Mn₂(PO₃)₆ je metafosforečnan, nabídnuté názvy nejsou jednoznačné), 19 a 25 (manganan, LF MU 20), 21 (fosforečnan, LF MU 24), 24 (dichroman, LF MU 28), 30, 31, 33 (hmotnostní zlomek prvku, varianty 673 a LF MU 33–34), 36–38 (hmotnost prvku ve sloučenině, varianty 676), 40, 41 (obrácený výpočet, varianty 677), 46 (Avogadrova konstanta, UK 226), 49 (varianta 682), 50, 51 (počet atomů z látkového množství, varianty 683, klíč „žádná“), 53 (atomy vodíku ve vodě, UK 228), 54, 55 (varianty 679 a 683), 56, 58, 59 (hmotnost plynu z objemu, varianty 684), 64, 74 (spalování ethynu, varianty 688), 65 (spalování propanu, UK 219), 68 (výtěžek, varianta 690), 72, 73 (elektrolýza vody, varianty 693). Kapitola Vzorce (1–75) je tím posouzená celá.
+
+Biologie Životní funkce 10 (trypanozoma a moucha tse-tse) vyřazena jako varianta LF MU 399.
+
+Dosud nepokryté oddíly: chemie Stavba atomu a chemická vazba (zbylé úlohy 1–74 mimo použité); fyzika Jednotky (1–63) a Kinematika a dynamika (1–64) mimo použité úlohy; biologie Historie (1–11) a Biologie buňky (1–88) mimo použité úlohy.
 
 Druhý soubor `877344967-LF-MU-Modelove-Otazky-New.pdf` je podle vlastníka (21. 11. 2026) stejná publikace jako hlavní soubor Mornstein a kol. Samostatně se nepokrývá; zdrojem kvízu LF MU je jen hlavní soubor.
