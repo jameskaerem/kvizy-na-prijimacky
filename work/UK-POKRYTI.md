@@ -451,6 +451,14 @@ Nepřidáno (stejný poznatek jako starší nebo nová otázka):
 - Molekulová fyzika do úlohy 6.44: 6.07 (desublimace, LF MU 220), 6.10 (jako 6.08), 6.11 (bezrozměrné relativní prodloužení, ve vysvětlení UK 1092), 6.13 (jako 6.12), 6.14 (jednotka molární hmotnosti, LF MU 201), 6.15 (povrchové napětí v základních jednotkách, LF MU 10 a nová 1228), 6.18 (výška sloupce v užší a širší kapiláře, LF MU 258), 6.20 (kapilární elevace a povrchové napětí, LF MU 252), 6.21 (jako 6.19), 6.26 (měrná tepelná kapacita, UK 1182), 6.33 (snaha kapaliny zmenšit povrch, LF MU 255), 6.37 (jako 6.36).
 - Úlohy 6.45 a výš se posoudí v další dávce.
 
+## Dávka ID 1251–1300: Amler, konec kap. 6 a kap. 7 po úlohu 7.52 (v2.87.0)
+
+Použité úlohy (ID): 6.45–6.50 (1251–1256), 6.52–6.54 (1257–1259), 6.56–6.58 (1260–1262), 6.63, 6.64, 6.69, 6.71–6.73 (1263–1268), kap. 7 „Elektřina a magnetismus I“: 7.02, 7.04–7.10, 7.12, 7.14–7.18, 7.23, 7.26–7.28, 7.32–7.36, 7.39, 7.41, 7.44, 7.45, 7.47, 7.48, 7.50–7.52 (1269–1300). Klíč všech 50 otázek odpovídá klíči knihy, výpočty (6.56, 7.07, 7.17, 7.26, 7.27, 7.28, 7.35, 7.36, 7.51) jsou přepočítané.
+
+Vynechané: 6.51 (jako 6.09), 6.55 (jako 6.31), 6.59 (jako 6.58), 6.60 (LF MU 220), 6.61 a 6.65 (definice skupenských přeměn už v bance), 6.62 (UK 1182), 6.66 a 6.67 (jako 6.02 a 6.54), 6.68 (LF MU 10), 6.70 (jako 6.41), 6.74 (UK 1183), 6.75 (jako 6.38); 7.01, 7.20, 7.21, 7.24, 7.37 a 7.38 (triviální jednotky), 7.03 (jako 7.04), 7.11 a 7.19 (vzorce poškozené v textovém exportu), 7.13 (jako 7.12), 7.22 a 7.42 (LF MU 11), 7.25 (LF MU 267), 7.29 a 7.30 (jako 7.27 a 7.28, LF MU 275), 7.40 (jako 7.39), 7.43 (skalár a vektor už v kap. 1), 7.49 (jako 7.33). Úloha 7.46 (permitivita) přejde do další dávky.
+
+Sporné: 7.31 – klíč ABCD zahrnuje možnost „111 kΩ“, která neodpovídá vodivosti 0,111 S (správně asi 9 Ω). Úloha je vyřazená.
+
 ## Stav pokrytí
 
-Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) je posouzená celá včetně úloh s více správnými odpověďmi (ID 738–1000). Fyzika (Amler, celá kniha 907 úloh) je posouzená v kap. 1–5 a v kap. 6 po úlohu 6.44. Další dávka začne od ID 1251 úlohou 6.45.
+Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) je posouzená celá včetně úloh s více správnými odpověďmi (ID 738–1000). Fyzika (Amler, celá kniha 907 úloh) je posouzená v kap. 1–6 a v kap. 7 po úlohu 7.52. Další dávka začne od ID 1301 úlohami 7.46 a 7.53.

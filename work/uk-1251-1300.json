@@ -1,0 +1,1240 @@
+[
+  {
+    "id": 1251,
+    "subject": "Fyzika",
+    "category": "Fyzika · Molekulová fyzika",
+    "bookRef": "UK · Fyzika · Molekulová fyzika · úloha 6.45 · str. 81",
+    "sourcePages": "81",
+    "sourceItem": "6.45",
+    "question": "Jaký je přibližný vztah mezi součinitelem délkové teplotní roztažnosti α a součinitelem objemové roztažnosti β pevných látek?",
+    "options": [
+      "β ≈ α",
+      "β ≈ α/3",
+      "β ≈ 3/α",
+      "β ≈ 3·α"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Při ohřátí se těleso prodlouží ve všech třech rozměrech. Pro malé změny je relativní změna objemu součtem relativních změn délek, proto β ≈ 3α."
+    ],
+    "memory": "Tři rozměry = 3α."
+  },
+  {
+    "id": 1252,
+    "subject": "Fyzika",
+    "category": "Fyzika · Molekulová fyzika",
+    "bookRef": "UK · Fyzika · Molekulová fyzika · úloha 6.46 · str. 82",
+    "sourcePages": "82",
+    "sourceItem": "6.46",
+    "question": "Co platí o tepelné kapacitě C a měrné tepelné kapacitě c (ΔT rozdíl termodynamických teplot, Δt rozdíl teplot ve °C, Q teplo, m hmotnost)?",
+    "options": [
+      "jednotkou tepelné kapacity je J·K⁻¹",
+      "C = Q/ΔT = Q/Δt",
+      "jednotkou měrné tepelné kapacity je J·kg⁻¹·K⁻¹",
+      "c = Q/(m·ΔT) = Q/(m·Δt)"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Všechna tvrzení platí. Kelvin a stupeň Celsia mají stejnou velikost, takže rozdíl teplot je v obou stupnicích stejný a ve vzorcích lze použít ΔT i Δt."
+    ],
+    "memory": "Rozdíl 1 K = rozdíl 1 °C."
+  },
+  {
+    "id": 1253,
+    "subject": "Fyzika",
+    "category": "Fyzika · Molekulová fyzika",
+    "bookRef": "UK · Fyzika · Molekulová fyzika · úloha 6.47 · str. 82",
+    "sourcePages": "82",
+    "sourceItem": "6.47",
+    "question": "Při kterých skupenských přechodech látka energii uvolňuje a při kterých ji musí přijmout?",
+    "options": [
+      "tání – tající látka energii uvolňuje",
+      "tuhnutí – tuhnoucí látce musíme energii dodat",
+      "kapalnění – látka energii uvolňuje",
+      "vypařování – vypařované látce musíme energii dodat"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Přechody do uspořádanějšího stavu (tuhnutí, kapalnění) energii uvolňují, přechody opačné (tání, vypařování) ji spotřebovávají. U tání a tuhnutí jsou tedy tvrzení obrácená."
+    ],
+    "memory": "Tání a var berou, tuhnutí a kondenzace dávají."
+  },
+  {
+    "id": 1254,
+    "subject": "Fyzika",
+    "category": "Fyzika · Molekulová fyzika",
+    "bookRef": "UK · Fyzika · Molekulová fyzika · úloha 6.48 · str. 82",
+    "sourcePages": "82",
+    "sourceItem": "6.48",
+    "question": "Které tvrzení o amorfních látkách a plazmatu platí?",
+    "options": [
+      "amorfní látkou je monokrystal",
+      "amorfní jsou pevné látky, jejichž částice netvoří souvislou krystalovou strukturu",
+      "v plazmatu jsou všechny atomy elektricky neutrální",
+      "v plazmatu mohou být jen kladně nabité ionty"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Amorfní látky nemají pravidelnou mřížku, monokrystal je jejich opak. Plazma je ionizovaný plyn, obsahuje kladné ionty, elektrony i neutrální částice a navenek je přibližně neutrální."
+    ],
+    "memory": "Plazma = ionty + elektrony."
+  },
+  {
+    "id": 1255,
+    "subject": "Fyzika",
+    "category": "Fyzika · Molekulová fyzika",
+    "bookRef": "UK · Fyzika · Molekulová fyzika · úloha 6.49 · str. 82",
+    "sourcePages": "82",
+    "sourceItem": "6.49",
+    "question": "Co platí o povrchovém napětí kapaliny?",
+    "options": [
+      "závisí na velikosti povrchu kapaliny",
+      "závisí na prostředí nad kapalinou",
+      "jeho jednotkou je N/m",
+      "odpovídá povrchové energii vztažené na jednotku plochy"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: B, C a D",
+    "paragraphs": [
+      "Povrchové napětí je vlastnost rozhraní kapaliny a prostředí nad ní, na velikosti povrchu nezávisí. Udává se v N/m, což je totéž co J/m², tedy povrchová energie na jednotku plochy."
+    ],
+    "memory": "σ v N/m = J/m²."
+  },
+  {
+    "id": 1256,
+    "subject": "Fyzika",
+    "category": "Fyzika · Molekulová fyzika",
+    "bookRef": "UK · Fyzika · Molekulová fyzika · úloha 6.50 · str. 82",
+    "sourcePages": "82",
+    "sourceItem": "6.50",
+    "question": "Jaká výsledná síla působí mezi dvěma atomy ve vzdálenosti r₀, která odpovídá jejich rovnovážné poloze?",
+    "options": [
+      "přitažlivá",
+      "odpudivá",
+      "nulová",
+      "charakter síly nelze jednoznačně určit"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "V rovnovážné vzdálenosti se přitažlivé a odpudivé síly vyrovnají a výslednice je nulová. Při menší vzdálenosti převládá odpuzování, při větší přitahování."
+    ],
+    "memory": "Rovnováha = nulová výslednice."
+  },
+  {
+    "id": 1257,
+    "subject": "Fyzika",
+    "category": "Fyzika · Molekulová fyzika",
+    "bookRef": "UK · Fyzika · Molekulová fyzika · úloha 6.52 · str. 83",
+    "sourcePages": "83",
+    "sourceItem": "6.52",
+    "question": "Proč se kapalina při vypařování ochlazuje?",
+    "options": [
+      "vypařující se část odebírá zbytku kapaliny energii",
+      "část energie kapaliny se spotřebuje jako skupenské teplo výparné",
+      "část energie kapaliny se spotřebuje jako skupenské teplo tání",
+      "část energie se předá částicím k překonání povrchové vrstvy"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "title": "Správně: A, B a D",
+    "paragraphs": [
+      "Kapalinu opouštějí nejrychlejší molekuly, které musí překonat přitažlivost povrchové vrstvy. Tuto energii, skupenské teplo výparné, odebírají zbytku kapaliny, jehož střední energie a teplota proto klesá. S táním vypařování nesouvisí."
+    ],
+    "memory": "Pot chladí odpařováním."
+  },
+  {
+    "id": 1258,
+    "subject": "Fyzika",
+    "category": "Fyzika · Molekulová fyzika",
+    "bookRef": "UK · Fyzika · Molekulová fyzika · úloha 6.53 · str. 83",
+    "sourcePages": "83",
+    "sourceItem": "6.53",
+    "question": "Jakou jednotku má relativní molekulová hmotnost?",
+    "options": [
+      "kg·mol⁻¹",
+      "m³·mol⁻¹",
+      "mol",
+      "je bezrozměrná"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Relativní molekulová hmotnost je poměr hmotnosti molekuly a atomové hmotnostní jednotky, je proto bezrozměrná. Jednotku kg·mol⁻¹ (g/mol) má molární hmotnost."
+    ],
+    "memory": "Relativní = bez jednotky."
+  },
+  {
+    "id": 1259,
+    "subject": "Fyzika",
+    "category": "Fyzika · Molekulová fyzika",
+    "bookRef": "UK · Fyzika · Molekulová fyzika · úloha 6.54 · str. 83",
+    "sourcePages": "83",
+    "sourceItem": "6.54",
+    "question": "Co je relativní vlhkost vzduchu?",
+    "options": [
+      "hmotnost vodní páry v jednotce objemu",
+      "poměr teploty vzduchu a maximální možné vlhkosti při této teplotě",
+      "poměr skutečné absolutní vlhkosti a maximální možné absolutní vlhkosti při téže teplotě",
+      "veličina udávaná v kg·m³·K"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Relativní vlhkost udává, jak blízko je vzduch nasycení: φ = Φ/Φmax, obvykle v procentech. Hmotnost páry v jednotce objemu je absolutní vlhkost."
+    ],
+    "memory": "100 % = nasycený vzduch."
+  },
+  {
+    "id": 1260,
+    "subject": "Fyzika",
+    "category": "Fyzika · Molekulová fyzika",
+    "bookRef": "UK · Fyzika · Molekulová fyzika · úloha 6.56 · str. 83",
+    "sourcePages": "83",
+    "sourceItem": "6.56",
+    "question": "Měděná tyč dlouhá 2 m se ohřeje o 100 °C (α ≈ 1,7·10⁻⁵ K⁻¹). O kolik se prodlouží?",
+    "options": [
+      "1,7·10⁻³ m",
+      "3,4 cm",
+      "1,7 cm",
+      "3,4 mm"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Δl = α·l·Δt = 1,7·10⁻⁵ · 2 m · 100 K = 3,4·10⁻³ m = 3,4 mm."
+    ],
+    "memory": "Δl = α·l·Δt."
+  },
+  {
+    "id": 1261,
+    "subject": "Fyzika",
+    "category": "Fyzika · Molekulová fyzika",
+    "bookRef": "UK · Fyzika · Molekulová fyzika · úloha 6.57 · str. 83",
+    "sourcePages": "83",
+    "sourceItem": "6.57",
+    "question": "Ve kterém teplotním intervalu má součinitel objemové roztažnosti vody záporné hodnoty?",
+    "options": [
+      "0 °C až 10 °C",
+      "0 °C až 8 °C",
+      "−3,98 °C až 0 °C",
+      "0 °C až 3,98 °C"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Mezi 0 °C a 3,98 °C se voda při ohřívání smršťuje (anomálie vody), její objem klesá a součinitel roztažnosti je záporný. Nad 4 °C se roztahuje jako jiné kapaliny."
+    ],
+    "memory": "Anomálie vody: 0–4 °C."
+  },
+  {
+    "id": 1262,
+    "subject": "Fyzika",
+    "category": "Fyzika · Molekulová fyzika",
+    "bookRef": "UK · Fyzika · Molekulová fyzika · úloha 6.58 · str. 83",
+    "sourcePages": "83",
+    "sourceItem": "6.58",
+    "question": "V jakých jednotkách se udává součinitel délkové teplotní roztažnosti α?",
+    "options": [
+      "K⁻¹",
+      "K·m⁻¹",
+      "m·K⁻¹",
+      "m·K"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Z Δl/l = α·Δt plyne, že α je relativní prodloužení na kelvin, jednotka K⁻¹. Stejnou jednotku má i součinitel objemové roztažnosti."
+    ],
+    "memory": "α = (Δl/l)/Δt."
+  },
+  {
+    "id": 1263,
+    "subject": "Fyzika",
+    "category": "Fyzika · Molekulová fyzika",
+    "bookRef": "UK · Fyzika · Molekulová fyzika · úloha 6.63 · str. 84",
+    "sourcePages": "84",
+    "sourceItem": "6.63",
+    "question": "Co platí o tlaku syté páry v uzavřeném prostoru nad kapalinou?",
+    "options": [
+      "s rostoucí teplotou roste",
+      "s rostoucí teplotou klesá",
+      "po zvětšení objemu nad kapalinou se ustálí na stejné hodnotě jako před tím",
+      "závisí na povrchovém napětí kapaliny"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Sytá pára je v rovnováze s kapalinou. Při zvětšení objemu se další kapalina vypaří a tlak se vrátí na stejnou hodnotu, závisí tedy jen na teplotě, s níž prudce roste. Kapalina vře, když se tlak syté páry vyrovná vnějšímu tlaku."
+    ],
+    "memory": "Tlak syté páry závisí jen na teplotě."
+  },
+  {
+    "id": 1264,
+    "subject": "Fyzika",
+    "category": "Fyzika · Molekulová fyzika",
+    "bookRef": "UK · Fyzika · Molekulová fyzika · úloha 6.64 · str. 84",
+    "sourcePages": "84",
+    "sourceItem": "6.64",
+    "question": "Co platí o trojném bodu vody?",
+    "options": [
+      "je počátkem termodynamické teplotní stupnice",
+      "vystihuje rovnovážný stav vody, ledu a syté páry",
+      "je společným bodem křivky tání, křivky syté páry a křivky sublimace",
+      "označuje stav, kdy jsou voda, led a pára v jedné nádobě"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "V trojném bodě (273,16 K, asi 611 Pa) mohou vedle sebe v rovnováze existovat všechna tři skupenství a ve fázovém diagramu se v něm protínají tři křivky. Počátkem termodynamické stupnice je absolutní nula. Pouhá přítomnost tří skupenství v nádobě ještě není rovnováha."
+    ],
+    "memory": "Trojný bod = rovnováha tří fází."
+  },
+  {
+    "id": 1265,
+    "subject": "Fyzika",
+    "category": "Fyzika · Molekulová fyzika",
+    "bookRef": "UK · Fyzika · Molekulová fyzika · úloha 6.69 · str. 85",
+    "sourcePages": "85",
+    "sourceItem": "6.69",
+    "question": "V parní lázni je relativní vlhkost vzduchu 100 %. Co to znamená?",
+    "options": [
+      "vlhkost je při dané teplotě maximální",
+      "teplota odpovídá rosnému bodu",
+      "pot se z těla nemůže odpařovat",
+      "na každém předmětu chladnějším než okolní vzduch kondenzuje pára"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Vzduch je párou nasycený, je tedy v rosném bodě a víc páry nepřijme. Pot se neodpařuje a tělo se nemůže ochlazovat, a na chladnějších předmětech se pára sráží."
+    ],
+    "memory": "Nasycený vzduch nepřijme další páru."
+  },
+  {
+    "id": 1266,
+    "subject": "Fyzika",
+    "category": "Fyzika · Molekulová fyzika",
+    "bookRef": "UK · Fyzika · Molekulová fyzika · úloha 6.71 · str. 85",
+    "sourcePages": "85",
+    "sourceItem": "6.71",
+    "question": "V sauně je velmi nízká vlhkost vzduchu. Co z toho plyne ve srovnání s parní lázní?",
+    "options": [
+      "tělo snese vyšší teplotu, protože suchý vzduch má nižší tepelnou vodivost",
+      "tělo snese vyšší teplotu, protože suchý vzduch má vyšší tepelnou vodivost",
+      "tělo snese vyšší teplotu, protože se víc ochlazuje pocením",
+      "tělo nesnese tak vysokou teplotu jako v parní lázni"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "V suchém vzduchu se pot rychle odpařuje a tělo ochlazuje. Suchý vzduch navíc vede teplo hůř než vlhký, a pára na kůži nekondenzuje. Proto lze v sauně vydržet kolem 90 °C, v parní lázni jen asi 45 °C."
+    ],
+    "memory": "Sauna je suchá, proto snesitelná."
+  },
+  {
+    "id": 1267,
+    "subject": "Fyzika",
+    "category": "Fyzika · Molekulová fyzika",
+    "bookRef": "UK · Fyzika · Molekulová fyzika · úloha 6.72 · str. 86",
+    "sourcePages": "86",
+    "sourceItem": "6.72",
+    "question": "Ve vodě se vznáší těleso, jehož součinitel objemové roztažnosti je větší než u vody. Co se stane, ohřejeme-li těleso i vodu o stejný teplotní rozdíl?",
+    "options": [
+      "těleso se částečně vynoří",
+      "těleso se bude dál vznášet",
+      "těleso klesne ke dnu",
+      "poloha tělesa se nezmění"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Těleso se roztáhne víc než voda, jeho hustota klesne víc než hustota vody. Bude tedy lehčí než voda a začne stoupat, až se částečně vynoří."
+    ],
+    "memory": "Víc se roztáhne = menší hustota."
+  },
+  {
+    "id": 1268,
+    "subject": "Fyzika",
+    "category": "Fyzika · Molekulová fyzika",
+    "bookRef": "UK · Fyzika · Molekulová fyzika · úloha 6.73 · str. 86",
+    "sourcePages": "86",
+    "sourceItem": "6.73",
+    "question": "Dokonale smáčivá kapalina o hustotě ρ vystoupí v kapiláře do výšky h a její hladina tvoří kulový vrchlík o poloměru r. Jaký vztah platí (σ povrchové napětí)?",
+    "options": [
+      "h·ρ·g = 2σ·r",
+      "h·ρ·g = 2σ/r",
+      "h·ρ·g = σ",
+      "h·ρ·g = σ/r"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Kapalina vystoupí tak vysoko, aby hydrostatický tlak h·ρ·g vyrovnal kapilární tlak 2σ/r. Čím užší kapilára, tím výš kapalina vystoupí."
+    ],
+    "memory": "Kapilára: h·ρ·g = 2σ/r."
+  },
+  {
+    "id": 1269,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.02 · str. 87",
+    "sourcePages": "87",
+    "sourceItem": "7.02",
+    "question": "Čeho je ampérhodina jednotkou?",
+    "options": [
+      "proudu",
+      "proudového výkonu",
+      "náboje",
+      "energie"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Ampérhodina je náboj přenesený proudem 1 A za 1 hodinu: 1 Ah = 3600 C. Udává se jí kapacita baterií."
+    ],
+    "memory": "Q = I·t."
+  },
+  {
+    "id": 1270,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.04 · str. 87",
+    "sourcePages": "87",
+    "sourceItem": "7.04",
+    "question": "Jak zní Ampérovo pravidlo pravé ruky?",
+    "options": [
+      "uchopíme-li vodič do pravé ruky tak, že palec ukazuje směr proudu, prsty ukazují orientaci magnetických indukčních čar",
+      "velikost proudu ve vodiči je přímo úměrná jeho délce",
+      "směr magnetické síly mezi dvěma rovnoběžnými vodiči závisí na směru proudu v druhém vodiči",
+      "uchopíme-li vodič do pravé ruky tak, že palec ukazuje proti proudu, prsty ukazují orientaci elektrického pole"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Pravidlo pravé ruky určuje orientaci magnetických indukčních čar kolem vodiče s proudem: palec ve směru proudu, zahnuté prsty ukazují směr čar. Velikost pole jím neurčíme."
+    ],
+    "memory": "Palec = proud, prsty = pole."
+  },
+  {
+    "id": 1271,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.05 · str. 87",
+    "sourcePages": "87",
+    "sourceItem": "7.05",
+    "question": "Jakou sílu vyjadřuje Coulombův zákon?",
+    "options": [
+      "magnetickou",
+      "sílu nepřímo úměrnou druhé mocnině vzdálenosti mezi náboji",
+      "gravitační",
+      "elektrostatickou"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "Coulombův zákon F = k·Q₁·Q₂/r² popisuje elektrostatickou sílu mezi bodovými náboji. Stejně jako gravitační síla klesá s druhou mocninou vzdálenosti, ale gravitaci nepopisuje."
+    ],
+    "memory": "F = k·Q₁Q₂/r²."
+  },
+  {
+    "id": 1272,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.06 · str. 88",
+    "sourcePages": "88",
+    "sourceItem": "7.06",
+    "question": "Jakému odporu odpovídají čtyři stejné paralelně zapojené rezistory R?",
+    "options": [
+      "R/4",
+      "R/2",
+      "4R",
+      "R¹ᐟ⁴"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Při paralelním zapojení se sčítají vodivosti: 1/R_c = 4/R, tedy R_c = R/4."
+    ],
+    "memory": "n stejných paralelně = R/n."
+  },
+  {
+    "id": 1273,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.07 · str. 88",
+    "sourcePages": "88",
+    "sourceItem": "7.07",
+    "question": "Defibrilátor obnovuje srdeční rytmus výbojem kondenzátoru. Na jaké napětí musí být nabit kondenzátor 2 mF, aby výboj měl energii 250 J?",
+    "options": [
+      "125 V",
+      "250 V",
+      "500 V",
+      "1 kV"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Energie kondenzátoru je E = ½·C·U². Odtud U = √(2E/C) = √(500 / 0,002) = √250 000 = 500 V."
+    ],
+    "memory": "E = ½·C·U²."
+  },
+  {
+    "id": 1274,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.08 · str. 88",
+    "sourcePages": "88",
+    "sourceItem": "7.08",
+    "question": "Dvoupólový rotor alternátoru se otáčí 3000 otáček za minutu. Jaké frekvenci to odpovídá?",
+    "options": [
+      "100 Hz",
+      "30 Hz",
+      "300 Hz",
+      "50 Hz"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "3000 otáček za 60 s je 50 otáček za sekundu. Dvoupólový rotor vytvoří za otáčku jednu periodu, frekvence je tedy 50 Hz jako v síti."
+    ],
+    "memory": "Za minutu → děl 60."
+  },
+  {
+    "id": 1275,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.09 · str. 88",
+    "sourcePages": "88",
+    "sourceItem": "7.09",
+    "question": "Co je ekvipotenciální hladina?",
+    "options": [
+      "nejvyšší energie nabitého kondenzátoru",
+      "prostor mezi jádrem a obalem atomu",
+      "množina všech bodů pole se stejným elektrickým potenciálem",
+      "velikost náboje na povrchu nabitého tělesa"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Ekvipotenciální hladina spojuje body se stejným potenciálem. Přesun náboje po ní nevyžaduje práci a siločáry jsou k ní kolmé."
+    ],
+    "memory": "Po ekvipotenciále bez práce."
+  },
+  {
+    "id": 1276,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.10 · str. 88",
+    "sourcePages": "88",
+    "sourceItem": "7.10",
+    "question": "Proud prochází elektrolytem mezi dvěma elektrodami. Oddálíme-li elektrody nebo snížíme hladinu pod horní okraj elektrod, proud klesne. Jaký vztah platí pro odpor (ρ měrný odpor, d vzdálenost elektrod, S plocha)?",
+    "options": [
+      "R = 1/(ρ·S)",
+      "R = ρ·d·S",
+      "R = ρ·d/S",
+      "R = 1/(ρ·d·S)"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Odpor vodiče roste s délkou a klesá s průřezem: R = ρ·d/S. Oddálení elektrod zvětší d, snížení hladiny zmenší ponořenou plochu S, a v obou případech odpor roste a proud klesá."
+    ],
+    "memory": "R = ρ·l/S."
+  },
+  {
+    "id": 1277,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.12 · str. 89",
+    "sourcePages": "89",
+    "sourceItem": "7.12",
+    "question": "Jak se nazývá elektroda spojená s kladným pólem zdroje?",
+    "options": [
+      "anion",
+      "anoda",
+      "katoda",
+      "záporný pól"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Anoda je připojena ke kladnému pólu a přitahuje anionty, katoda je na záporném pólu a přitahuje kationty. Anion je záporný iont, ne elektroda."
+    ],
+    "memory": "Anoda +, katoda −."
+  },
+  {
+    "id": 1278,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.14 · str. 89",
+    "sourcePages": "89",
+    "sourceItem": "7.14",
+    "question": "Čeho je elektronvolt jednotkou?",
+    "options": [
+      "napětí",
+      "náboje",
+      "energie",
+      "frekvence"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Elektronvolt je energie, kterou získá elektron urychlený napětím 1 V: 1 eV = 1,6·10⁻¹⁹ J. Používá se v atomové a jaderné fyzice."
+    ],
+    "memory": "1 eV = 1,6·10⁻¹⁹ J."
+  },
+  {
+    "id": 1279,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.15 · str. 89",
+    "sourcePages": "89",
+    "sourceItem": "7.15",
+    "question": "Faradayův zákon elektrolýzy má tvar m = A·Q (A elektrochemický ekvivalent). Jaký je rozměr A v SI?",
+    "options": [
+      "kg·A⁻¹·s⁻¹",
+      "kg·A⁻¹·m·s⁻²",
+      "kg·A⁻¹·m·s",
+      "kg·A·s"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "A = m/Q má jednotku kg/C a coulomb je A·s. Proto A má rozměr kg·A⁻¹·s⁻¹."
+    ],
+    "memory": "C = A·s."
+  },
+  {
+    "id": 1280,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.16 · str. 89",
+    "sourcePages": "89",
+    "sourceItem": "7.16",
+    "question": "Co říká Faradayův zákon o hmotnosti látky vyloučené při elektrolýze?",
+    "options": [
+      "nezávisí na náboji, který prošel elektrolytem",
+      "je přímo úměrná náboji, který prošel elektrolytem",
+      "je nepřímo úměrná prošlému náboji",
+      "je přímo úměrná množství elektrolytu"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Podle prvního Faradayova zákona m = A·Q = A·I·t. Vyloučená hmotnost roste přímo úměrně proudu a době elektrolýzy."
+    ],
+    "memory": "m = A·I·t."
+  },
+  {
+    "id": 1281,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.17 · str. 89",
+    "sourcePages": "89",
+    "sourceItem": "7.17",
+    "question": "Infrazářič o příkonu 800 W byl zapnutý 150 minut. Kolik elektrické energie spotřeboval?",
+    "options": [
+      "7,2 MJ",
+      "120 W·h",
+      "2 kWh",
+      "72·10⁵ W·s"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "title": "Správně: A, C a D",
+    "paragraphs": [
+      "E = P·t = 800 W · 2,5 h = 2000 Wh = 2 kWh. V joulech 800 · 9000 s = 7,2·10⁶ J = 72·10⁵ W·s. 120 Wh by vyšlo ze 150 minut bez převodu na hodiny."
+    ],
+    "memory": "150 min = 2,5 h."
+  },
+  {
+    "id": 1282,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.18 · str. 90",
+    "sourcePages": "90",
+    "sourceItem": "7.18",
+    "question": "Jak nejlépe odstíníme deskový kondenzátor od vnějšího elektrického pole?",
+    "options": [
+      "vakuem",
+      "dielektrikem",
+      "uzemněným krytem z vodivého materiálu",
+      "izolační kapalinou, například olejem"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Uvnitř uzavřeného vodivého obalu je elektrické pole nulové (Faradayova klec). Dielektrikum vnější pole jen zeslabí, vakuum nestíní vůbec."
+    ],
+    "memory": "Faradayova klec."
+  },
+  {
+    "id": 1283,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.23 · str. 90",
+    "sourcePages": "90",
+    "sourceItem": "7.23",
+    "question": "Jaká je jednotka magnetického indukčního toku Φ?",
+    "options": [
+      "farad",
+      "tesla",
+      "henry",
+      "weber"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Magnetický indukční tok Φ = B·S se měří ve weberech, Wb = T·m². Tesla je jednotka magnetické indukce, henry indukčnosti a farad kapacity."
+    ],
+    "memory": "Wb = T·m²."
+  },
+  {
+    "id": 1284,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.26 · str. 91",
+    "sourcePages": "91",
+    "sourceItem": "7.26",
+    "question": "Kondenzátor defibrilátoru o kapacitě 5 mF je nabit na 400 V. Co platí?",
+    "options": [
+      "jeho energie je 400 J",
+      "jeho náboj je 2 C",
+      "jeho energie je 800 J",
+      "jeho náboj je nepřímo úměrný napětí"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Q = C·U = 0,005 · 400 = 2 C a E = ½·C·U² = ½ · 0,005 · 160 000 = 400 J. Náboj je napětí přímo úměrný. 800 J by vyšlo bez polovičky."
+    ],
+    "memory": "Q = C·U, E = ½·C·U²."
+  },
+  {
+    "id": 1285,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.27 · str. 91",
+    "sourcePages": "91",
+    "sourceItem": "7.27",
+    "question": "Dva rezistory 1 kΩ a jeden 500 Ω zapojíme paralelně. Co platí o výsledné vodivosti?",
+    "options": [
+      "je 4 mS",
+      "je 2,5 mS",
+      "rovná se převrácené hodnotě součtu odporů",
+      "rovná se součtu převrácených hodnot odporů"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Při paralelním zapojení se sčítají vodivosti: 1 mS + 1 mS + 2 mS = 4 mS. Výsledný odpor je tedy 250 Ω."
+    ],
+    "memory": "Paralelně se sčítají vodivosti."
+  },
+  {
+    "id": 1286,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.28 · str. 91",
+    "sourcePages": "91",
+    "sourceItem": "7.28",
+    "question": "Dva rezistory 1 kΩ a jeden 500 Ω zapojíme do série. Co platí o výsledné vodivosti?",
+    "options": [
+      "je 400 µS",
+      "je 2,5 mS",
+      "rovná se převrácené hodnotě součtu odporů",
+      "rovná se součtu převrácených hodnot odporů"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "V sérii se sčítají odpory: 2,5 kΩ. Vodivost je převrácená hodnota, 1/2500 Ω = 0,4 mS = 400 µS."
+    ],
+    "memory": "Sériově se sčítají odpory."
+  },
+  {
+    "id": 1287,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.32 · str. 92",
+    "sourcePages": "92",
+    "sourceItem": "7.32",
+    "question": "Rezistorem o stálém odporu R prochází proud I, vzniká na něm napětí U a příkon P se mění v teplo. Které vztahy platí?",
+    "options": [
+      "U = I·R",
+      "P = I²·R",
+      "P = U²/R",
+      "I = U/R"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Ohmův zákon dává U = R·I a I = U/R. Příkon P = U·I, po dosazení P = I²·R = U²/R."
+    ],
+    "memory": "P = UI = I²R = U²/R."
+  },
+  {
+    "id": 1288,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.33 · str. 92",
+    "sourcePages": "92",
+    "sourceItem": "7.33",
+    "question": "Rezistorem o stálém odporu R prochází proud I, vzniká na něm napětí U a příkon P se mění v teplo. Co platí?",
+    "options": [
+      "vztah proudu a napětí určuje Ohmův zákon",
+      "příkon je kvadratickou funkcí napětí",
+      "příkon je kvadratickou funkcí proudu",
+      "proud je lineární funkcí napětí"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Podle Ohmova zákona I = U/R je proud lineární funkcí napětí. Protože P = U²/R = I²·R, roste příkon s druhou mocninou napětí i proudu."
+    ],
+    "memory": "Dvojnásobné napětí = čtyřnásobný příkon."
+  },
+  {
+    "id": 1289,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.34 · str. 92",
+    "sourcePages": "92",
+    "sourceItem": "7.34",
+    "question": "Na rezistoru o stálém odporu R s proudem I a napětím U se za čas t přemění příkon v Joulovo teplo Q. Které vztahy platí?",
+    "options": [
+      "Q = U·I·t",
+      "Q = I²·R·t",
+      "Q = t·U²/R",
+      "I = √(Q/(R·t))"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Joulovo teplo je Q = P·t = U·I·t a po dosazení Ohmova zákona I²·R·t = U²·t/R. Vyjádřením proudu z Q = I²·R·t dostaneme I = √(Q/(R·t))."
+    ],
+    "memory": "Q = I²·R·t."
+  },
+  {
+    "id": 1290,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.35 · str. 92",
+    "sourcePages": "92",
+    "sourceItem": "7.35",
+    "question": "Na žárovičce je napsáno 2,4 V a 0,6 A. Jaký má odpor, když svítí?",
+    "options": [
+      "4 Ω",
+      "40 Ω",
+      "1,4 Ω",
+      "0,25 Ω"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "R = U/I = 2,4 / 0,6 = 4 Ω."
+    ],
+    "memory": "R = U/I."
+  },
+  {
+    "id": 1291,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.36 · str. 92",
+    "sourcePages": "92",
+    "sourceItem": "7.36",
+    "question": "Obvod má dvě paralelní větve a v každé jsou do série zapojené dva odpory 2 kΩ. Jaký je celkový odpor?",
+    "options": [
+      "1 kΩ",
+      "2 kΩ",
+      "4 kΩ",
+      "0,2 MΩ"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Každá větev má 4 kΩ. Dvě stejné větve paralelně dávají polovinu, tedy 2 kΩ."
+    ],
+    "memory": "Dvě stejné větve = polovina."
+  },
+  {
+    "id": 1292,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.39 · str. 93",
+    "sourcePages": "93",
+    "sourceItem": "7.39",
+    "question": "Které tvrzení o jednotkách je nesprávné?",
+    "options": [
+      "ampérhodina je jednotkou elektrického náboje",
+      "henry je jednotkou indukčnosti",
+      "ohm je jednotkou reaktance",
+      "ohm je jednotkou měrného odporu"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Měrný odpor má jednotku Ω·m, protože R = ρ·l/S. Ostatní přiřazení platí: Ah je náboj, henry indukčnost a reaktance se měří v ohmech."
+    ],
+    "memory": "Měrný odpor v Ω·m."
+  },
+  {
+    "id": 1293,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.41 · str. 93",
+    "sourcePages": "93",
+    "sourceItem": "7.41",
+    "question": "Které přiřazení jednotky k veličině je nesprávné?",
+    "options": [
+      "henry je jednotkou induktance",
+      "volt na metr je jednotkou intenzity elektrického pole",
+      "hertz je jednotkou frekvence",
+      "kilowatthodina je jednotkou energie"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Induktance je induktivní reaktance cívky, X_L = ω·L, a měří se v ohmech. Henry je jednotka indukčnosti L. Ostatní přiřazení platí."
+    ],
+    "memory": "Indukčnost v H, induktance v Ω."
+  },
+  {
+    "id": 1294,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.44 · str. 94",
+    "sourcePages": "94",
+    "sourceItem": "7.44",
+    "question": "Co platí o elektrickém poli, proudu a kondenzátoru?",
+    "options": [
+      "intenzita pole bodového náboje klesá s druhou mocninou vzdálenosti",
+      "intenzita pole bodového náboje na vzdálenosti nezávisí",
+      "při stálém proudu je náboj, který projde vodičem, přímo úměrný času",
+      "náboj kondenzátoru je přímo úměrný napětí mezi deskami"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "title": "Správně: A, C a D",
+    "paragraphs": [
+      "E = k·Q/r² klesá s druhou mocninou vzdálenosti. Při stálém proudu Q = I·t roste s časem lineárně. Pro kondenzátor platí Q = C·U."
+    ],
+    "memory": "Q = I·t, Q = C·U."
+  },
+  {
+    "id": 1295,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.45 · str. 94",
+    "sourcePages": "94",
+    "sourceItem": "7.45",
+    "question": "Které tvrzení o jednotkách je správné?",
+    "options": [
+      "voltampér je jednotkou zdánlivého výkonu",
+      "kelvin je jednotkou tepla",
+      "volt je jednotkou mechanického napětí",
+      "weber je jednotkou magnetické indukce"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Zdánlivý výkon střídavého proudu se udává ve voltampérech. Kelvin je jednotka teploty, mechanické napětí se měří v pascalech a magnetická indukce v teslách."
+    ],
+    "memory": "Zdánlivý výkon ve VA."
+  },
+  {
+    "id": 1296,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.47 · str. 94",
+    "sourcePages": "94",
+    "sourceItem": "7.47",
+    "question": "Co platí pro zapojení kondenzátorů?",
+    "options": [
+      "dva stejné kondenzátory C paralelně mají kapacitu 2C",
+      "dva stejné kondenzátory C v sérii mají kapacitu C",
+      "při paralelním zapojení se kapacity sčítají",
+      "při sériovém zapojení je převrácená hodnota výsledné kapacity součtem převrácených hodnot"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "title": "Správně: A, C a D",
+    "paragraphs": [
+      "Kondenzátory se skládají opačně než rezistory: paralelně se kapacity sčítají, v sérii se sčítají převrácené hodnoty. Dva stejné v sérii mají C/2."
+    ],
+    "memory": "Kondenzátory opačně než odpory."
+  },
+  {
+    "id": 1297,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.48 · str. 94",
+    "sourcePages": "94",
+    "sourceItem": "7.48",
+    "question": "Co platí při elektrolýze?",
+    "options": [
+      "anionty putují od anody ke katodě",
+      "anionty putují od katody k anodě",
+      "anoda je připojena na kladný pól",
+      "anoda je připojena na záporný pól"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Anoda je kladná elektroda a přitahuje záporné anionty, které se pohybují k ní. Kladné kationty putují ke katodě."
+    ],
+    "memory": "Anionty k anodě."
+  },
+  {
+    "id": 1298,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.50 · str. 95",
+    "sourcePages": "95",
+    "sourceItem": "7.50",
+    "question": "U umělých náhrad z různých kovů může v těle vznikat nežádoucí galvanické napětí. Jaké kovy volíme, abychom ho snížili?",
+    "options": [
+      "s co nejmenším součtem elektrochemických potenciálů",
+      "s co nejmenším součinem elektrochemických potenciálů",
+      "s co nejmenším rozdílem elektrochemických potenciálů",
+      "s elektrochemickými potenciály opačných znamének"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Napětí galvanického článku se rovná rozdílu elektrodových potenciálů obou kovů. Kovy blízko sebe v elektrochemické řadě tvoří jen malé napětí. Opačná znaménka by rozdíl naopak zvětšila."
+    ],
+    "memory": "Napětí článku = rozdíl potenciálů."
+  },
+  {
+    "id": 1299,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.51 · str. 95",
+    "sourcePages": "95",
+    "sourceItem": "7.51",
+    "question": "Při úrazu napětím 600 V trvajícím 0,5 s se stálým odporem těla 3 kΩ:",
+    "options": [
+      "procházel proud 200 mA",
+      "vzniklo teplo 60 J",
+      "procházel proud 2,5 A",
+      "byl proud přímo úměrný odporu"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "I = U/R = 600/3000 = 0,2 A = 200 mA. Teplo Q = U·I·t = 600 · 0,2 · 0,5 = 60 J. Proud je odporu nepřímo úměrný."
+    ],
+    "memory": "I = U/R, Q = U·I·t."
+  },
+  {
+    "id": 1300,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.52 · str. 95",
+    "sourcePages": "95",
+    "sourceItem": "7.52",
+    "question": "Vzdálenost desek odpojeného nabitého ideálního kondenzátoru zvětšíme na dvojnásobek. Co platí?",
+    "options": [
+      "napětí se také zvětší na dvojnásobek",
+      "kapacita klesne na polovinu",
+      "náboj se nezmění",
+      "intenzita pole mezi deskami se nezmění"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Odpojený kondenzátor si náboj podrží. Kapacita C = ε·S/d klesne na polovinu, a napětí U = Q/C se proto zdvojnásobí. Intenzita E = U/d zůstane stejná, protože závisí jen na plošné hustotě náboje."
+    ],
+    "memory": "Odpojený kondenzátor: Q = konst."
+  }
+]
