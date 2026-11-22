@@ -9,7 +9,7 @@ const old=fs.readFileSync('work/somatologie-base-1.12.0.html','utf8');
 const script=h=>h.match(/<script>([\s\S]*?)<\/script>/)[1];
 // Minimal DOM adapter runs the actual application/controller without a browser.
 class Element{
- constructor(tag='div'){this.tagName=tag;this.hidden=false;this.disabled=false;this.checked=false;this.children=[];this.style={};this.dataset={};this.attributes={};this.events={};this.textContent='';this._html='';this.className='';this.classList={add:(c)=>{this.className+=' '+c}};}
+ constructor(tag='div'){this.tagName=tag;this.hidden=false;this.disabled=false;this.checked=false;this.children=[];this.style={};this.dataset={};this.attributes={};this.events={};this.textContent='';this._html='';this.className='';this.classList={add:(...c)=>{this.className+=' '+c.join(' ')}};}
  set innerHTML(v){this._html=v;this.children=[];}get innerHTML(){return this._html;}
  setAttribute(k,v){this.attributes[k]=String(v);}getAttribute(k){return this.attributes[k]??null;}
  addEventListener(k,fn){this.events[k]=fn;}append(...children){this.children.push(...children);}replaceChildren(...children){this.children=children;}
