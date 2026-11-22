@@ -281,6 +281,27 @@ Soubor `uk-701-737.json`, generátor `create_uk_701_737.py` (`batch_tools.build`
 Nepřidané položky:
 - Biologie 875–920: 875 (skleníkový efekt, LF MU 494), 882 (parazité, varianta 689), 889 (Darwin a přírodní výběr, ČB 131), 895 (dvoušroubovice DNA, LF MU 36), 896 (buněčná teorie, ČB 377), 897 (klíč chybí a obhajitelných je více možností), 903 (Purkyně a buněčná teorie, LF MU 37), 907 (Jesenius, ČB 411), 911 (Nightingalová, ČB 467).
 
+## Formát zkoušky a dávka ID 738–787 (v2.75.0)
+
+Od verze 2.74.0 kvíz Univerzity Karlovy používá formát přijímací zkoušky 2. LF UK: možnosti se zaškrtávají a správných může být více, jedna, nebo žádná. Nové otázky proto přebírají úlohy knihy v původním znění a pořadí možností a–d i s úplným klíčem (pole `answers`). Starší otázky 1–737 zůstávají beze změny, kvůli uloženému pokroku.
+
+Kontrola pokrytí 22. 11. 2026 ukázala, že u biologie 1–290 mapa neuvádí, proč nebyla použita asi stovka úloh. Šlo hlavně o úlohy s více správnými odpověďmi. Doplňují se postupně v tomto formátu.
+
+Soubor `uk-738-787.json`, generátor `create_uk_738_787.py` (`batch_tools.build_multi`). Klíč podle knihy (str. 198–199). Úloha 31 nemá v textové kopii klíč, odpověď b, c, d je ověřená výkladem (prokaryota = archea a bakterie včetně sinic).
+
+| Předmět | Kapitola | Úlohy | ID |
+|---|---|---|---|
+| Biologie | Úvod do biologie (str. 9–14) | 1, 2, 3, 5, 6, 7, 8, 9, 11, 13, 16, 19, 20, 23, 25, 27, 29 | 738–754 |
+| Biologie | Buněčná biologie (str. 16–26) | 31, 32, 34, 35, 37, 38, 39, 44, 45, 49, 50, 51, 52, 55, 56, 57, 58, 59, 60, 61, 62, 63, 68, 69, 72, 74, 76, 77, 78, 79, 80, 83, 84 | 755–787 |
+
+Úpravy znění: 51 „intermediární filamenta“ místo tiskové chyby „intermediální mikrofilamenta“, 39 oprava překlepu „steně“. Otázky mají úplnou větu, aby se nezaměňovaly se staršími otázkami se stejným začátkem.
+
+Nepřidáno v rozsahu 1–84:
+- Stejný poznatek jako starší otázka: 4 (gameta, BIO 697), 28 (kobalt v B12, BIO 892), 30 (katabolismus, UK 40), 42 (bílkoviny a ribozomy mitochondrií, UK 46), 46 (jadérko a ribozomy, SOM 27), 47 (meióza, ČB 115), 64, 65 a 70 (haploidní gameta a výsledek meiózy, ČB 577 a LF MU 766), 67 (cytokineze a telofáze, nová 774), 71 (barvení v metafázi, nová 772), 73 (mitochondrie, nová 758), 75 (semiautonomní organely, UK 44 a LF MU 42).
+- Pro další dávku: 14, 24 (ATP), 43 (funkce ER), 81, 82 (typy určení pohlaví).
+- Sporný klíč: 53 (pinocytóza, klíč zahrnuje vstřebávání tukových kapének v tenkém střevě pinocytózou, což současný výklad trávení tuků nepodporuje).
+- Úlohy 85 a výš se doplní v další dávce.
+
 ## Stav pokrytí
 
-Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) a biologie (Kočárek, 920 otázek) jsou posouzené celé: každá úloha je použitá nebo vyřazená s důvodem v této mapě. Fyzika (Amler) je pokrytá jen v rozsahu dodané ukázky (úlohy 1.01–1.64 a 2.01–2.05). Pro další fyziku je potřeba plná kniha. Další dávka začne od ID 738.
+Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) má ověřené úlohy 85–290 jen částečně: nepoužité úlohy s více správnými odpověďmi se doplňují od ID 788 (viz oddíl výše). Fyzika (Amler) je pokrytá jen v rozsahu dodané ukázky (úlohy 1.01–1.64 a 2.01–2.05). Pro další fyziku je potřeba plná kniha. Další dávka začne od ID 788.
