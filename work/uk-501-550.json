@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 501,
+    "subject": "Chemie",
+    "category": "Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy",
+    "bookRef": "UK · Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy · str. 179, otázka 4",
+    "sourcePages": "179",
+    "sourceItem": "str. 179, otázka 4",
+    "question": "K čemu se vztahuje předpona D- u sacharidů?",
+    "options": [
+      "k prostorové konfiguraci odvozené od D-glyceraldehydu",
+      "k přítomnosti deuteria v molekule",
+      "k otáčení roviny polarizovaného světla doprava",
+      "k otáčení roviny polarizovaného světla doleva"
+    ],
+    "answer": 0,
+    "title": "k prostorové konfiguraci odvozené od D-glyceraldehydu",
+    "paragraphs": [
+      "D a L popisují polohu skupiny −OH na posledním chirálním uhlíku ve srovnání s D-glyceraldehydem. Směr otáčení se značí (+) a (−) a s řadou D/L nemusí souhlasit, například D-fruktóza otáčí doleva."
+    ],
+    "memory": "D/L = konfigurace, (+)/(−) = otáčení."
+  },
+  {
+    "id": 502,
+    "subject": "Chemie",
+    "category": "Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy",
+    "bookRef": "UK · Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy · str. 180, otázka 2",
+    "sourcePages": "180",
+    "sourceItem": "str. 180, otázka 2",
+    "question": "Co platí o racemické směsi cukru ve vodném roztoku?",
+    "options": [
+      "otáčí rovinu polarizovaného světla doleva",
+      "neotáčí rovinu polarizovaného světla",
+      "otáčí rovinu polarizovaného světla doprava",
+      "směr otáčení závisí na příslušnosti k řadě D nebo L"
+    ],
+    "answer": 1,
+    "title": "neotáčí rovinu polarizovaného světla",
+    "paragraphs": [
+      "Racemát obsahuje oba enantiomery ve stejném množství. Jejich otáčení je stejně velké a opačné, takže se navzájem vyruší."
+    ],
+    "memory": "Racemát = 50 : 50, otáčení nula."
+  },
+  {
+    "id": 503,
+    "subject": "Chemie",
+    "category": "Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy",
+    "bookRef": "UK · Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy · str. 180, otázka 3",
+    "sourcePages": "180",
+    "sourceItem": "str. 180, otázka 3",
+    "question": "Jaká je fyziologická koncentrace D-glukózy v krvi člověka (nalačno)?",
+    "options": [
+      "3,3–5,6 µmol·dm⁻³",
+      "3,3–5,6 mol·dm⁻³",
+      "3,3–5,6 mmol·dm⁻³",
+      "3,3–5,6 mg·dm⁻³"
+    ],
+    "answer": 2,
+    "title": "3,3–5,6 mmol·dm⁻³",
+    "paragraphs": [
+      "Glykemie nalačno se u zdravého člověka pohybuje zhruba mezi 3,3 a 5,6 milimoly na litr. Mikromoly jsou o tři řády méně, celé moly by odpovídaly sirupu."
+    ],
+    "memory": "Glykemie kolem 5 mmol/l."
+  },
+  {
+    "id": 504,
+    "subject": "Chemie",
+    "category": "Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy",
+    "bookRef": "UK · Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy · str. 180, otázka 5",
+    "sourcePages": "180",
+    "sourceItem": "str. 180, otázka 5",
+    "question": "Co vzniká mírnou oxidací aldehydové skupiny D-glukózy?",
+    "options": [
+      "D-glucitol",
+      "D-mannóza",
+      "D-fruktóza",
+      "kyselina D-glukonová"
+    ],
+    "answer": 3,
+    "title": "kyselina D-glukonová",
+    "paragraphs": [
+      "Aldehydová skupina na uhlíku C1 se oxiduje na karboxylovou skupinu a vznikne aldonová kyselina, kyselina D-glukonová. Redukcí by naopak vznikl alkohol D-glucitol."
+    ],
+    "memory": "Oxidace −CHO → −COOH."
+  },
+  {
+    "id": 505,
+    "subject": "Chemie",
+    "category": "Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy",
+    "bookRef": "UK · Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy · str. 180, otázka 6",
+    "sourcePages": "180",
+    "sourceItem": "str. 180, otázka 6",
+    "question": "Co vzniká redukcí D-glukózy?",
+    "options": [
+      "D-glucitol (sorbitol)",
+      "kyselina D-glukonová",
+      "D-mannóza",
+      "D-galaktóza"
+    ],
+    "answer": 0,
+    "title": "D-glucitol (sorbitol)",
+    "paragraphs": [
+      "Redukcí aldehydové skupiny na skupinu −CH₂OH vznikne vícesytný alkohol D-glucitol, známý jako sorbitol. Používá se jako sladidlo."
+    ],
+    "memory": "Redukce cukru = cukerný alkohol."
+  },
+  {
+    "id": 506,
+    "subject": "Chemie",
+    "category": "Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy",
+    "bookRef": "UK · Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy · str. 181, otázka 1",
+    "sourcePages": "181",
+    "sourceItem": "str. 181, otázka 1",
+    "question": "Reakcí alkoholu s jakou látkou vzniká glykosidová vazba?",
+    "options": [
+      "s mastnou kyselinou",
+      "s monosacharidem",
+      "s aminokyselinou",
+      "s bílkovinou"
+    ],
+    "answer": 1,
+    "title": "s monosacharidem",
+    "paragraphs": [
+      "Glykosidová vazba vzniká mezi poloacetalovým hydroxylem monosacharidu a skupinou −OH alkoholu (nebo jiného cukru) za odštěpení vody. Reakcí alkoholu s kyselinou vzniká ester."
+    ],
+    "memory": "Cukr + alkohol = glykosid."
+  },
+  {
+    "id": 507,
+    "subject": "Chemie",
+    "category": "Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy",
+    "bookRef": "UK · Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy · str. 181, otázka 4",
+    "sourcePages": "181",
+    "sourceItem": "str. 181, otázka 4",
+    "question": "Jakou glykosidovou vazbou jsou spojeny dvě molekuly glukózy v maltóze?",
+    "options": [
+      "β(1→4)",
+      "α(1→6)",
+      "α(1→4)",
+      "β(1→2)"
+    ],
+    "answer": 2,
+    "title": "α(1→4)",
+    "paragraphs": [
+      "V maltóze je uhlík C1 jedné α-D-glukopyranózy spojen s C4 druhé. Stejnou vazbu mají lineární úseky škrobu, ze kterého maltóza vzniká štěpením amylázou."
+    ],
+    "memory": "Maltóza α(1→4)."
+  },
+  {
+    "id": 508,
+    "subject": "Chemie",
+    "category": "Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy",
+    "bookRef": "UK · Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy · str. 181, otázka 5",
+    "sourcePages": "181",
+    "sourceItem": "str. 181, otázka 5",
+    "question": "Ve kterých cyklických formách jsou v sacharóze vázány její stavební jednotky?",
+    "options": [
+      "dvě molekuly α-D-glukopyranózy",
+      "β-D-galaktopyranóza a α-D-glukopyranóza",
+      "β-D-fruktofuranóza a α-D-galaktopyranóza",
+      "α-D-glukopyranóza a β-D-fruktofuranóza"
+    ],
+    "answer": 3,
+    "title": "α-D-glukopyranóza a β-D-fruktofuranóza",
+    "paragraphs": [
+      "Glukóza je v sacharóze šestičlenným (pyranózovým) kruhem, fruktóza pětičlenným (furanózovým). Spojují je oba poloacetalové hydroxyly, proto sacharóza nemá redukční vlastnosti."
+    ],
+    "memory": "Sacharóza: glukopyranóza + fruktofuranóza."
+  },
+  {
+    "id": 509,
+    "subject": "Chemie",
+    "category": "Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy",
+    "bookRef": "UK · Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy · str. 182, otázka 1",
+    "sourcePages": "182",
+    "sourceItem": "str. 182, otázka 1",
+    "question": "Který sacharid obvykle kupujeme v obchodě pod názvem cukr?",
+    "options": [
+      "sacharózu",
+      "fruktózu",
+      "glukózu",
+      "laktózu"
+    ],
+    "answer": 0,
+    "title": "sacharózu",
+    "paragraphs": [
+      "Běžný krystalový cukr je sacharóza získávaná z cukrové řepy nebo třtiny. Glukóza se prodává jako hroznový cukr, laktóza je mléčný cukr."
+    ],
+    "memory": "Cukr = řepná sacharóza."
+  },
+  {
+    "id": 510,
+    "subject": "Chemie",
+    "category": "Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy",
+    "bookRef": "UK · Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy · str. 182, otázka 3",
+    "sourcePages": "182",
+    "sourceItem": "str. 182, otázka 3",
+    "question": "Která dvojice obsahuje jen polysacharidy?",
+    "options": [
+      "laktóza a glykogen",
+      "chitin a celulóza",
+      "amyláza a škrob",
+      "glukagon a amylopektin"
+    ],
+    "answer": 1,
+    "title": "chitin a celulóza",
+    "paragraphs": [
+      "Chitin, celulóza, škrob, amylopektin i glykogen jsou polysacharidy. Laktóza je disacharid, amyláza enzym (bílkovina) a glukagon peptidový hormon."
+    ],
+    "memory": "Amyláza a glukagon nejsou cukry."
+  },
+  {
+    "id": 511,
+    "subject": "Chemie",
+    "category": "Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy",
+    "bookRef": "UK · Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy · str. 183, otázka 1",
+    "sourcePages": "183",
+    "sourceItem": "str. 183, otázka 1",
+    "question": "Ze kterých dvou složek se skládá škrob?",
+    "options": [
+      "z celulózy a glykogenu",
+      "z glukózy a fruktózy",
+      "z amylózy a amylopektinu",
+      "z amylázy a maltázy"
+    ],
+    "answer": 2,
+    "title": "z amylózy a amylopektinu",
+    "paragraphs": [
+      "Amylóza tvoří nevětvené řetězce s vazbami α(1→4), amylopektin je navíc větvený vazbami α(1→6). Amyláza a maltáza jsou enzymy, které škrob a maltózu štěpí."
+    ],
+    "memory": "Amylóza + amylopektin = škrob."
+  },
+  {
+    "id": 512,
+    "subject": "Chemie",
+    "category": "Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy",
+    "bookRef": "UK · Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy · str. 183, otázka 6",
+    "sourcePages": "183",
+    "sourceItem": "str. 183, otázka 6",
+    "question": "Co je základní stavební jednotkou škrobu (amylózy i amylopektinu)?",
+    "options": [
+      "β-D-glukopyranóza",
+      "β-D-galaktopyranóza",
+      "α-D-fruktofuranóza",
+      "α-D-glukopyranóza"
+    ],
+    "answer": 3,
+    "title": "α-D-glukopyranóza",
+    "paragraphs": [
+      "Škrob i glykogen jsou tvořeny α-D-glukózou. β-D-glukopyranóza je jednotkou celulózy."
+    ],
+    "memory": "Škrob α, celulóza β."
+  },
+  {
+    "id": 513,
+    "subject": "Chemie",
+    "category": "Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy",
+    "bookRef": "UK · Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy · str. 183, otázka 2",
+    "sourcePages": "183",
+    "sourceItem": "str. 183, otázka 2",
+    "question": "Která látka je zásobní látkou v rostlinných buňkách?",
+    "options": [
+      "škrob",
+      "glykogen",
+      "ribóza",
+      "celulóza"
+    ],
+    "answer": 0,
+    "title": "škrob",
+    "paragraphs": [
+      "Rostliny ukládají glukózu jako škrob v plastidech, například v hlízách brambor. Glykogen je zásobním polysacharidem živočichů a hub, celulóza je stavební."
+    ],
+    "memory": "Rostlina škrob, živočich glykogen."
+  },
+  {
+    "id": 514,
+    "subject": "Chemie",
+    "category": "Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy",
+    "bookRef": "UK · Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy · str. 184, otázka 1",
+    "sourcePages": "184",
+    "sourceItem": "str. 184, otázka 1",
+    "question": "Kterému polysacharidu se svou strukturou podobá glykogen?",
+    "options": [
+      "celulóze",
+      "amylopektinu",
+      "chitinu",
+      "amylóze"
+    ],
+    "answer": 1,
+    "title": "amylopektinu",
+    "paragraphs": [
+      "Glykogen je větvený polymer α-D-glukózy jako amylopektin, jen je větvený hustěji. Amylóza větvení nemá, celulóza a chitin mají vazby β."
+    ],
+    "memory": "Glykogen = hustě větvený amylopektin."
+  },
+  {
+    "id": 515,
+    "subject": "Chemie",
+    "category": "Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy",
+    "bookRef": "UK · Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy · str. 184, otázka 2",
+    "sourcePages": "184",
+    "sourceItem": "str. 184, otázka 2",
+    "question": "Jakými glykosidovými vazbami jsou propojeny monomery glykogenu?",
+    "options": [
+      "pouze α(1→4)",
+      "pouze β(1→4)",
+      "α(1→4) i α(1→6)",
+      "pouze α(1→6)"
+    ],
+    "answer": 2,
+    "title": "α(1→4) i α(1→6)",
+    "paragraphs": [
+      "Vazby α(1→4) tvoří lineární řetězce, vazby α(1→6) místa větvení. Díky mnoha koncům se glykogen rychle štěpí na glukózu."
+    ],
+    "memory": "Řetěz 1→4, větev 1→6."
+  },
+  {
+    "id": 516,
+    "subject": "Chemie",
+    "category": "Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy",
+    "bookRef": "UK · Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy · str. 184, otázka 5",
+    "sourcePages": "184",
+    "sourceItem": "str. 184, otázka 5",
+    "question": "Z jakých jednotek je tvořena celulóza?",
+    "options": [
+      "z D-mannózových jednotek",
+      "z β-D-fruktofuranózových jednotek",
+      "z β-D-glukóza-1-fosfátových jednotek",
+      "z β-D-glukopyranózových jednotek"
+    ],
+    "answer": 3,
+    "title": "z β-D-glukopyranózových jednotek",
+    "paragraphs": [
+      "Celulóza je nevětvený polymer β-D-glukózy s vazbami β(1→4). Vytváří pevná vlákna buněčných stěn rostlin a ve vodě se nerozpouští."
+    ],
+    "memory": "Celulóza = β-glukóza."
+  },
+  {
+    "id": 517,
+    "subject": "Chemie",
+    "category": "Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy",
+    "bookRef": "UK · Chemie · 5.2 Monosacharidy, disacharidy, polysacharidy · str. 185, otázka 2",
+    "sourcePages": "185",
+    "sourceItem": "str. 185, otázka 2",
+    "question": "Čím je způsobena pozitivní Fehlingova reakce při průkazu glukózy v moči?",
+    "options": [
+      "redukcí Cu²⁺",
+      "oxidací Cu⁺",
+      "oxidací Fe²⁺",
+      "redukcí Fe²⁺"
+    ],
+    "answer": 0,
+    "title": "redukcí Cu²⁺",
+    "paragraphs": [
+      "Aldehydová skupina glukózy redukuje modré ionty Cu²⁺ Fehlingova činidla a vznikne červenohnědá sraženina oxidu měďného Cu₂O. Glukóza se přitom oxiduje."
+    ],
+    "memory": "Cu²⁺ modrá → Cu₂O cihlová."
+  },
+  {
+    "id": 518,
+    "subject": "Chemie",
+    "category": "Chemie · 5.3 Lipidy",
+    "bookRef": "UK · Chemie · 5.3 Lipidy · str. 185, otázka 3",
+    "sourcePages": "185",
+    "sourceItem": "str. 185, otázka 3",
+    "question": "Kolik atomů uhlíku obsahuje kyselina palmitová?",
+    "options": [
+      "18",
+      "16",
+      "14",
+      "20"
+    ],
+    "answer": 1,
+    "title": "16",
+    "paragraphs": [
+      "Kyselina palmitová je nasycená kyselina hexadekanová C₁₅H₃₁COOH. Je nejběžnější nasycenou mastnou kyselinou v tucích."
+    ],
+    "memory": "Palmitová 16, stearová 18."
+  },
+  {
+    "id": 519,
+    "subject": "Chemie",
+    "category": "Chemie · 5.3 Lipidy",
+    "bookRef": "UK · Chemie · 5.3 Lipidy · str. 185, otázka 6",
+    "sourcePages": "185",
+    "sourceItem": "str. 185, otázka 6",
+    "question": "Jaký systematický název má kyselina stearová?",
+    "options": [
+      "kyselina hexadekanová",
+      "kyselina cis-9-oktadecenová",
+      "kyselina oktadekanová",
+      "kyselina oktadeka-9,12-dienová"
+    ],
+    "answer": 2,
+    "title": "kyselina oktadekanová",
+    "paragraphs": [
+      "Stearová kyselina C₁₇H₃₅COOH je nasycená a má 18 uhlíků (oktadekan). Hexadekanová je palmitová, cis-9-oktadecenová olejová a dienová linolová."
+    ],
+    "memory": "Stearová = oktadekanová."
+  },
+  {
+    "id": 520,
+    "subject": "Chemie",
+    "category": "Chemie · 5.3 Lipidy",
+    "bookRef": "UK · Chemie · 5.3 Lipidy · str. 186, otázka 3",
+    "sourcePages": "186",
+    "sourceItem": "str. 186, otázka 3",
+    "question": "Jaký systematický název má kyselina olejová?",
+    "options": [
+      "kyselina cis-9-oktadekanová",
+      "kyselina cis-9-hexadecenová",
+      "kyselina oktadekanová",
+      "kyselina cis-9-oktadecenová"
+    ],
+    "answer": 3,
+    "title": "kyselina cis-9-oktadecenová",
+    "paragraphs": [
+      "Olejová kyselina má 18 uhlíků a jednu dvojnou vazbu v konfiguraci cis mezi uhlíky 9 a 10. Koncovka -enová vyjadřuje dvojnou vazbu, -anová nasycený řetězec."
+    ],
+    "memory": "Olejová 18:1, cis-9."
+  },
+  {
+    "id": 521,
+    "subject": "Chemie",
+    "category": "Chemie · 5.3 Lipidy",
+    "bookRef": "UK · Chemie · 5.3 Lipidy · str. 186, otázka 4",
+    "sourcePages": "186",
+    "sourceItem": "str. 186, otázka 4",
+    "question": "Kolik dvojných vazeb obsahuje uhlíkový řetězec kyseliny linolové?",
+    "options": [
+      "dvě",
+      "žádnou",
+      "jednu",
+      "čtyři"
+    ],
+    "answer": 0,
+    "title": "dvě",
+    "paragraphs": [
+      "Kyselina linolová má 18 uhlíků a dvě dvojné vazby (cis-9,12). Kyselina olejová má jednu, linolenová tři a arachidonová čtyři."
+    ],
+    "memory": "Linolová 2, linolenová 3."
+  },
+  {
+    "id": 522,
+    "subject": "Chemie",
+    "category": "Chemie · 5.3 Lipidy",
+    "bookRef": "UK · Chemie · 5.3 Lipidy · str. 187, otázka 1",
+    "sourcePages": "187",
+    "sourceItem": "str. 187, otázka 1",
+    "question": "V jaké formě se nenasycené mastné kyseliny v organismu většinou vyskytují?",
+    "options": [
+      "v trans-formě",
+      "v cis-formě",
+      "jako racemát",
+      "jako soli s draslíkem"
+    ],
+    "answer": 1,
+    "title": "v cis-formě",
+    "paragraphs": [
+      "Přirozené nenasycené mastné kyseliny mají dvojné vazby v konfiguraci cis. Řetězec se v jejich místě ohýbá, proto mají nižší teplotu tání než nasycené kyseliny se stejným počtem uhlíků. Trans-formy vznikají hlavně průmyslovým ztužováním."
+    ],
+    "memory": "Přírodní = cis, ohnutý řetězec."
+  },
+  {
+    "id": 523,
+    "subject": "Chemie",
+    "category": "Chemie · 5.3 Lipidy",
+    "bookRef": "UK · Chemie · 5.3 Lipidy · str. 187, otázka 3",
+    "sourcePages": "187",
+    "sourceItem": "str. 187, otázka 3",
+    "question": "Jaký je základní typ vazby v acylglycerolu?",
+    "options": [
+      "glykosidová",
+      "etherová",
+      "esterová",
+      "peptidová"
+    ],
+    "answer": 2,
+    "title": "esterová",
+    "paragraphs": [
+      "Acylglyceroly vznikají esterifikací glycerolu mastnými kyselinami. Skupiny −OH glycerolu jsou spojeny s karboxyly kyselin vazbou −CO−O−."
+    ],
+    "memory": "Tuk = ester glycerolu."
+  },
+  {
+    "id": 524,
+    "subject": "Chemie",
+    "category": "Chemie · 5.3 Lipidy",
+    "bookRef": "UK · Chemie · 5.3 Lipidy · str. 187, otázka 5",
+    "sourcePages": "187",
+    "sourceItem": "str. 187, otázka 5",
+    "question": "Co jsou mýdla?",
+    "options": [
+      "estery vyšších mastných kyselin",
+      "soli karboxylových kyselin s malým počtem uhlíků",
+      "soli aromatických karboxylových kyselin",
+      "soli vyšších mastných kyselin"
+    ],
+    "answer": 3,
+    "title": "soli vyšších mastných kyselin",
+    "paragraphs": [
+      "Mýdla jsou sodné nebo draselné soli kyselin s dlouhým řetězcem, například stearan sodný. Polární karboxylátová hlava a nepolární řetězec umožňují emulgovat mastnotu ve vodě."
+    ],
+    "memory": "Mýdlo = sůl mastné kyseliny."
+  },
+  {
+    "id": 525,
+    "subject": "Chemie",
+    "category": "Chemie · 5.3 Lipidy",
+    "bookRef": "UK · Chemie · 5.3 Lipidy · str. 188, otázka 1",
+    "sourcePages": "188",
+    "sourceItem": "str. 188, otázka 1",
+    "question": "Jak se nazývá reakce hydroxidu sodného s acylglycerolem?",
+    "options": [
+      "zmýdelnění",
+      "esterifikace",
+      "dehydrogenace",
+      "eliminace"
+    ],
+    "answer": 0,
+    "title": "zmýdelnění",
+    "paragraphs": [
+      "Alkalickou hydrolýzou tuku vzniká glycerol a sodné soli mastných kyselin, tedy mýdla. Esterifikace je opačná reakce kyseliny s alkoholem."
+    ],
+    "memory": "NaOH + tuk → mýdlo + glycerol."
+  },
+  {
+    "id": 526,
+    "subject": "Chemie",
+    "category": "Chemie · 5.3 Lipidy",
+    "bookRef": "UK · Chemie · 5.3 Lipidy · str. 188, otázka 2",
+    "sourcePages": "188",
+    "sourceItem": "str. 188, otázka 2",
+    "question": "Jaké skupenství mají sodná a draselná mýdla?",
+    "options": [
+      "sodná jsou kapalná, draselná tuhá",
+      "sodná jsou tuhá, draselná kapalná až mazlavá",
+      "obě jsou tuhá",
+      "obě jsou kapalná"
+    ],
+    "answer": 1,
+    "title": "sodná jsou tuhá, draselná kapalná až mazlavá",
+    "paragraphs": [
+      "Sodná mýdla tvoří tuhá kusová mýdla. Draselná mýdla jsou měkká, mazlavá až tekutá, proto se používají v tekutých mýdlech."
+    ],
+    "memory": "Sodík tuhý, draslík tekutý."
+  },
+  {
+    "id": 527,
+    "subject": "Chemie",
+    "category": "Chemie · 5.3 Lipidy",
+    "bookRef": "UK · Chemie · 5.3 Lipidy · str. 188, otázka 4",
+    "sourcePages": "188",
+    "sourceItem": "str. 188, otázka 4",
+    "question": "Co vzniká vedle glycerolu při kyselé hydrolýze acylglycerolů?",
+    "options": [
+      "soli vyšších mastných kyselin",
+      "estery vyšších mastných kyselin",
+      "volné mastné kyseliny",
+      "anhydridy mastných kyselin"
+    ],
+    "answer": 2,
+    "title": "volné mastné kyseliny",
+    "paragraphs": [
+      "V kyselém prostředí se esterová vazba štěpí na glycerol a volné kyseliny. Soli (mýdla) vznikají jen při alkalické hydrolýze, kdy kyseliny reagují s hydroxidem."
+    ],
+    "memory": "Kyselá hydrolýza → kyseliny, alkalická → soli."
+  },
+  {
+    "id": 528,
+    "subject": "Chemie",
+    "category": "Chemie · 5.3 Lipidy",
+    "bookRef": "UK · Chemie · 5.3 Lipidy · str. 188, otázka 6",
+    "sourcePages": "188",
+    "sourceItem": "str. 188, otázka 6",
+    "question": "Čím je způsobeno žluknutí tuků a olejů?",
+    "options": [
+      "ztužováním tuků",
+      "hydrogenací dvojných vazeb",
+      "zmýdelněním tuků",
+      "oxidací dvojných vazeb a štěpením mastných kyselin"
+    ],
+    "answer": 3,
+    "title": "oxidací dvojných vazeb a štěpením mastných kyselin",
+    "paragraphs": [
+      "Vzdušný kyslík napadá dvojné vazby nenasycených kyselin a vznikají peroxidy, aldehydy a kratší kyseliny nepříjemného pachu. Proces urychluje světlo a teplo."
+    ],
+    "memory": "Žluknutí = oxidace dvojných vazeb."
+  },
+  {
+    "id": 529,
+    "subject": "Chemie",
+    "category": "Chemie · 5.3 Lipidy",
+    "bookRef": "UK · Chemie · 5.3 Lipidy · str. 189, otázka 2",
+    "sourcePages": "189",
+    "sourceItem": "str. 189, otázka 2",
+    "question": "Jak se provádí ztužování tuků?",
+    "options": [
+      "katalytickou hydrogenací",
+      "katalytickou dehydrogenací",
+      "katalytickou hydratací",
+      "tepelným rozkladem"
+    ],
+    "answer": 0,
+    "title": "katalytickou hydrogenací",
+    "paragraphs": [
+      "Vodík se za katalýzy niklem adiuje na dvojné vazby rostlinných olejů. Nasycenější tuk má vyšší teplotu tání a je tuhý, tak se vyrábějí ztužené tuky."
+    ],
+    "memory": "Olej + H₂ (Ni) = tuhý tuk."
+  },
+  {
+    "id": 530,
+    "subject": "Chemie",
+    "category": "Chemie · 5.3 Lipidy",
+    "bookRef": "UK · Chemie · 5.3 Lipidy · str. 189, otázka 3",
+    "sourcePages": "189",
+    "sourceItem": "str. 189, otázka 3",
+    "question": "Co je kyselina cholová?",
+    "options": [
+      "esenciální mastná kyselina",
+      "základní žlučová kyselina odvozená od steranu",
+      "vitamin rozpustný v tucích",
+      "derivát purinu"
+    ],
+    "answer": 1,
+    "title": "základní žlučová kyselina odvozená od steranu",
+    "paragraphs": [
+      "Kyselina cholová vzniká v játrech z cholesterolu a má steroidní skelet. Ve formě solí emulguje tuky ve střevě."
+    ],
+    "memory": "Cholová = žlučová kyselina, steroid."
+  },
+  {
+    "id": 531,
+    "subject": "Chemie",
+    "category": "Chemie · 5.3 Lipidy",
+    "bookRef": "UK · Chemie · 5.3 Lipidy · str. 189, otázka 5",
+    "sourcePages": "189",
+    "sourceItem": "str. 189, otázka 5",
+    "question": "Jak se jinak nazývá tetracyklický systém steran, od kterého jsou odvozeny steroidy?",
+    "options": [
+      "cyklopentanoperhydroanthracen",
+      "cyklopentanoperhydronaftalen",
+      "cyklopentanoperhydrofenanthren",
+      "cyklohexanoperhydrofenanthren"
+    ],
+    "answer": 2,
+    "title": "cyklopentanoperhydrofenanthren",
+    "paragraphs": [
+      "Steran tvoří tři šestičlenné kruhy uspořádané jako ve fenanthrenu (perhydro znamená plně hydrogenovaný) a jeden pětičlenný kruh (cyklopentan)."
+    ],
+    "memory": "Steran = 3 šestiúhelníky + 1 pětiúhelník."
+  },
+  {
+    "id": 532,
+    "subject": "Chemie",
+    "category": "Chemie · 5.3 Lipidy",
+    "bookRef": "UK · Chemie · 5.3 Lipidy · str. 190, otázka 1",
+    "sourcePages": "190",
+    "sourceItem": "str. 190, otázka 1",
+    "question": "Která skupina hormonů má steroidní strukturu?",
+    "options": [
+      "katecholaminy, například adrenalin",
+      "hormony štítné žlázy",
+      "peptidové hormony, například inzulin",
+      "kortikoidy"
+    ],
+    "answer": 3,
+    "title": "kortikoidy",
+    "paragraphs": [
+      "Hormony kůry nadledvin (kortikoidy) a pohlavní hormony vznikají z cholesterolu a mají skelet steranu. Adrenalin je derivát aminokyseliny tyrosinu, inzulin je peptid."
+    ],
+    "memory": "Kortikoidy a pohlavní hormony = steroidy."
+  },
+  {
+    "id": 533,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 626 · str. 138",
+    "sourcePages": "138",
+    "sourceItem": "626",
+    "question": "Která kost patří k obličejové části lebky?",
+    "options": [
+      "horní čelist",
+      "kost klínová",
+      "kost spánková",
+      "kost týlní"
+    ],
+    "answer": 0,
+    "title": "horní čelist",
+    "paragraphs": [
+      "Obličejovou část lebky tvoří mimo jiné horní a dolní čelist, kosti lícní, nosní a slzní. Kost klínová, spánková a týlní patří k mozkové části lebky."
+    ],
+    "memory": "Čelisti a lícní kosti = obličej."
+  },
+  {
+    "id": 534,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 631 · str. 139",
+    "sourcePages": "139",
+    "sourceItem": "631",
+    "question": "Co je tkáň?",
+    "options": [
+      "soubor buněk se stejnou strukturou, ale odlišnou funkcí",
+      "soubor buněk stejného původu s podobnou strukturou a jednou hlavní funkcí",
+      "soubor buněk s odlišnou strukturou i funkcí",
+      "soubor orgánů se společnou funkcí"
+    ],
+    "answer": 1,
+    "title": "soubor buněk stejného původu s podobnou strukturou a jednou hlavní funkcí",
+    "paragraphs": [
+      "Buňky tkáně mají společný původ, podobnou stavbu a plní společnou hlavní funkci, jako epitel, pojivo, sval nebo nervová tkáň. Soubor orgánů je orgánová soustava."
+    ],
+    "memory": "Tkáň = podobné buňky, jedna funkce."
+  },
+  {
+    "id": 535,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 632 · str. 139",
+    "sourcePages": "139",
+    "sourceItem": "632",
+    "question": "Pomocí čeho dýchá především novorozenec?",
+    "options": [
+      "svalů hrudní stěny",
+      "svalů břicha",
+      "bránice",
+      "pomocných dýchacích svalů krku"
+    ],
+    "answer": 2,
+    "title": "bránice",
+    "paragraphs": [
+      "Žebra novorozence jsou uložena téměř vodorovně, takže zvedáním hrudníku nezvětší jeho objem. Dýchání proto zajišťuje hlavně bránice a novorozenec dýchá břišním typem."
+    ],
+    "memory": "Novorozenec = brániční dýchání."
+  },
+  {
+    "id": 536,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 633 · str. 139",
+    "sourcePages": "139",
+    "sourceItem": "633",
+    "question": "Jaké jsou typické příznaky nedostatku vitaminu B2 (riboflavinu)?",
+    "options": [
+      "onemocnění beri-beri",
+      "kurděje s krvácením dásní",
+      "křivice",
+      "trhliny ústních koutků a poruchy kůže, sliznic a očí"
+    ],
+    "answer": 3,
+    "title": "trhliny ústních koutků a poruchy kůže, sliznic a očí",
+    "paragraphs": [
+      "Riboflavin je součástí koenzymů FAD a FMN. Při nedostatku se objevují ragády koutků, zánět jazyka a sliznic a poruchy zraku. Beri-beri vyvolává nedostatek B1, kurděje vitaminu C, křivici vitaminu D."
+    ],
+    "memory": "B2 = koutky."
+  },
+  {
+    "id": 537,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 634 · str. 140",
+    "sourcePages": "140",
+    "sourceItem": "634",
+    "question": "K vnímání čeho slouží proprioreceptory?",
+    "options": [
+      "polohy a pohybu těla",
+      "chladu a tepla",
+      "bolesti",
+      "chuti"
+    ],
+    "answer": 0,
+    "title": "polohy a pohybu těla",
+    "paragraphs": [
+      "Proprioreceptory ve svalech, šlachách a kloubech informují mozek o napětí svalů a postavení částí těla. Díky nim víme, kde máme končetiny, i se zavřenýma očima."
+    ],
+    "memory": "Proprio = vlastní tělo v prostoru."
+  },
+  {
+    "id": 538,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 635 · str. 140",
+    "sourcePages": "140",
+    "sourceItem": "635",
+    "question": "Odkud odstupuje většina z 12 párů hlavových nervů?",
+    "options": [
+      "z koncového mozku",
+      "z mozkového kmene, hlavně z mostu a prodloužené míchy",
+      "z mozečku",
+      "z krční míchy"
+    ],
+    "answer": 1,
+    "title": "z mozkového kmene, hlavně z mostu a prodloužené míchy",
+    "paragraphs": [
+      "Z koncového mozku vychází jen čichový nerv (I) a z mezimozku zrakový (II). Ostatní hlavové nervy odstupují z mozkového kmene, většina z mostu a prodloužené míchy."
+    ],
+    "memory": "I a II výjimky, zbytek kmen."
+  },
+  {
+    "id": 539,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 638 · str. 140",
+    "sourcePages": "140",
+    "sourceItem": "638",
+    "question": "Ve které fázi menstruačního cyklu vznikají zralé Graafovy folikuly?",
+    "options": [
+      "v sekreční",
+      "v menstruační",
+      "v proliferační",
+      "až po ovulaci"
+    ],
+    "answer": 2,
+    "title": "v proliferační",
+    "paragraphs": [
+      "V proliferační fázi roste děložní sliznice pod vlivem estrogenů, které tvoří dozrávající folikul. Na konci fáze praská zralý Graafův folikul při ovulaci a vznikne žluté tělísko."
+    ],
+    "memory": "Proliferace = folikul a estrogeny."
+  },
+  {
+    "id": 540,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 640 · str. 141",
+    "sourcePages": "141",
+    "sourceItem": "640",
+    "question": "Jaký pohyb provádí čtyřhlavý sval stehenní?",
+    "options": [
+      "ohýbá koleno",
+      "unožuje v kyčli",
+      "natahuje kyčel",
+      "natahuje koleno a přímá hlava ohýbá kyčel"
+    ],
+    "answer": 3,
+    "title": "natahuje koleno a přímá hlava ohýbá kyčel",
+    "paragraphs": [
+      "Všechny čtyři hlavy se upínají přes čéšku na holenní kost a natahují koleno. Přímá hlava začíná na pánvi, proto navíc ohýbá kyčelní kloub."
+    ],
+    "memory": "Čtyřhlavý: koleno natáhne, kyčel ohne."
+  },
+  {
+    "id": 541,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 641 · str. 141",
+    "sourcePages": "141",
+    "sourceItem": "641",
+    "question": "Které hormony se při stresu mobilizují především?",
+    "options": [
+      "kortikoidy, adrenalin a noradrenalin",
+      "adrenalin, progesteron a kortikoidy",
+      "kortikoidy, estrogeny a adrenalin",
+      "adrenalin, progesteron a estrogeny"
+    ],
+    "answer": 0,
+    "title": "kortikoidy, adrenalin a noradrenalin",
+    "paragraphs": [
+      "Okamžitou reakci zajišťují katecholaminy dřeně nadledvin a sympatiku, déle trvající odpověď kortizol z kůry nadledvin. Pohlavní hormony se na stresové reakci zásadně nepodílejí."
+    ],
+    "memory": "Stres = nadledviny (dřeň i kůra)."
+  },
+  {
+    "id": 542,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 643 · str. 141",
+    "sourcePages": "141",
+    "sourceItem": "643",
+    "question": "Při sledování jakých onemocnění se běžně vyšetřuje sedimentace červených krvinek (FW)?",
+    "options": [
+      "alergických",
+      "zánětlivých",
+      "metabolických",
+      "poruch srážlivosti krve"
+    ],
+    "answer": 1,
+    "title": "zánětlivých",
+    "paragraphs": [
+      "Při zánětu stoupá v plazmě množství fibrinogenu a dalších bílkovin akutní fáze. Erytrocyty se snadněji shlukují a rychleji klesají, proto je zrychlená sedimentace nespecifickým ukazatelem zánětu."
+    ],
+    "memory": "Zrychlená FW = zánět."
+  },
+  {
+    "id": 543,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 646 · str. 142",
+    "sourcePages": "142",
+    "sourceItem": "646",
+    "question": "Jaký obraz se promítá na sítnici oka?",
+    "options": [
+      "přímý a zvětšený",
+      "převrácený a zvětšený",
+      "převrácený a zmenšený",
+      "přímý a zmenšený"
+    ],
+    "answer": 2,
+    "title": "převrácený a zmenšený",
+    "paragraphs": [
+      "Optická soustava oka působí jako spojka a předmět leží daleko za dvojnásobkem ohniskové vzdálenosti. Vzniká skutečný, převrácený a zmenšený obraz, který mozek vnímá jako vzpřímený."
+    ],
+    "memory": "Oko = spojka, obraz převrácený."
+  },
+  {
+    "id": 544,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 651 · str. 143",
+    "sourcePages": "143",
+    "sourceItem": "651",
+    "question": "V jakém rozsahu vlnových délek jsou světelné vlny podnětem pro zrakové čidlo člověka?",
+    "options": [
+      "40–75 nm",
+      "400–750 µm",
+      "40–75 µm",
+      "400–750 nm"
+    ],
+    "answer": 3,
+    "title": "400–750 nm",
+    "paragraphs": [
+      "Viditelné světlo sahá zhruba od fialové (asi 400 nm) po červenou (asi 750 nm). Kratší vlny jsou ultrafialové, delší infračervené."
+    ],
+    "memory": "Viditelné světlo 400–750 nm."
+  },
+  {
+    "id": 545,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 654 · str. 143",
+    "sourcePages": "143",
+    "sourceItem": "654",
+    "question": "Kde se tvoří antidiuretický hormon a oxytocin?",
+    "options": [
+      "v hypotalamu",
+      "v zadním laloku hypofýzy",
+      "v předním laloku hypofýzy",
+      "v ledvinách"
+    ],
+    "answer": 0,
+    "title": "v hypotalamu",
+    "paragraphs": [
+      "Oba hormony vznikají v nervových buňkách hypotalamu. Jejich axony je přenášejí do zadního laloku hypofýzy, odkud se teprve uvolňují do krve."
+    ],
+    "memory": "Tvoří hypotalamus, uvolňuje neurohypofýza."
+  },
+  {
+    "id": 546,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 656 · str. 143",
+    "sourcePages": "143",
+    "sourceItem": "656",
+    "question": "Jak působí hormony dřeně nadledvin?",
+    "options": [
+      "ovlivňují hospodaření s vápníkem",
+      "mění průsvit cév a zvyšují činnost srdce",
+      "ovlivňují hospodaření se sodíkem a draslíkem",
+      "řídí hlavně přeměnu bílkovin"
+    ],
+    "answer": 1,
+    "title": "mění průsvit cév a zvyšují činnost srdce",
+    "paragraphs": [
+      "Adrenalin a noradrenalin připravují tělo na zátěž: zrychlují a zesilují srdeční činnost, zužují cévy v kůži a útrobách a rozšiřují je ve svalech. Hospodaření se sodíkem a draslíkem řídí aldosteron kůry nadledvin."
+    ],
+    "memory": "Dřeň = adrenalin = srdce a cévy."
+  },
+  {
+    "id": 547,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 658 · str. 144",
+    "sourcePages": "144",
+    "sourceItem": "658",
+    "question": "Co je antigen?",
+    "options": [
+      "bílkovina vytvářená B-lymfocyty proti cizorodým látkám",
+      "část tRNA obsahující antikodon",
+      "molekulární struktura, která vyvolává imunitní odpověď",
+      "molekula působící proti funkci určitého genu"
+    ],
+    "answer": 2,
+    "title": "molekulární struktura, která vyvolává imunitní odpověď",
+    "paragraphs": [
+      "Antigenem může být bílkovina, polysacharid nebo jiná struktura, kterou imunitní systém rozpozná jako cizí. Protilátky vytvářené proti antigenům jsou imunoglobuliny."
+    ],
+    "memory": "Antigen vyvolá, protilátka odpoví."
+  },
+  {
+    "id": 548,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 661 · str. 144",
+    "sourcePages": "144",
+    "sourceItem": "661",
+    "question": "Co je blastula?",
+    "options": [
+      "dvouvrstvý miskovitý útvar zárodku",
+      "počáteční stadium nádoru",
+      "typ plodu dvouděložných rostlin",
+      "kulovitý útvar z buněk vznikající během časné embryogeneze"
+    ],
+    "answer": 3,
+    "title": "kulovitý útvar z buněk vznikající během časné embryogeneze",
+    "paragraphs": [
+      "Rýhováním oplozeného vajíčka vznikne morula a z ní dutá kulovitá blastula. U savců se tomuto stadiu říká blastocysta."
+    ],
+    "memory": "Morula → blastula → gastrula."
+  },
+  {
+    "id": 549,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 662 · str. 144",
+    "sourcePages": "144",
+    "sourceItem": "662",
+    "question": "Co je gastrula?",
+    "options": [
+      "dvouvrstvý miskovitý útvar vznikající z buněk během embryogeneze",
+      "kulovitý útvar s dutinou uvnitř",
+      "primitivní žaludek plodu ve 2. trimestru",
+      "parazitický hlíst žaludku"
+    ],
+    "answer": 0,
+    "title": "dvouvrstvý miskovitý útvar vznikající z buněk během embryogeneze",
+    "paragraphs": [
+      "Vchlípením blastuly vznikne gastrula se dvěma zárodečnými listy, ektodermem a entodermem, a s prvostřevem. Později se přidává mezoderm."
+    ],
+    "memory": "Gastrula = vchlípení, dva listy."
+  },
+  {
+    "id": 550,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 665 · str. 145",
+    "sourcePages": "145",
+    "sourceItem": "665",
+    "question": "Který orgánový systém za normálních okolností nekomunikuje přímo s vnějším prostředím?",
+    "options": [
+      "trávicí trakt",
+      "oběhový systém",
+      "dýchací systém",
+      "reprodukční systém"
+    ],
+    "answer": 1,
+    "title": "oběhový systém",
+    "paragraphs": [
+      "Trávicí, dýchací i pohlavní soustava ústí otvory navenek. Krevní oběh je uzavřený a s okolím si látky vyměňuje jen přes stěny jiných orgánů, například v plicích a střevě."
+    ],
+    "memory": "Oběh je uzavřený."
+  }
+]
