@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 251,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 72 · str. 36",
+    "sourcePages": "36",
+    "sourceItem": "72",
+    "question": "Jak lze definovat povrchové napětí kapaliny?",
+    "options": [
+      "jako elektrické napětí mezi kapalinou a okolím",
+      "jako sílu potřebnou k roztržení povrchu",
+      "jako sílu působící v povrchu kolmo na jednotkovou délku okraje povrchové blány",
+      "jako sílu působící na jednotku plochy povrchu"
+    ],
+    "answer": 2,
+    "title": "jako sílu působící v povrchu kolmo na jednotkovou délku okraje povrchové blány",
+    "paragraphs": [
+      "σ = F/l, jednotkou je N·m⁻¹. Síla na jednotku plochy by byla tlak."
+    ],
+    "memory": "Povrchové napětí = síla na délku (N/m)."
+  },
+  {
+    "id": 252,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 73 · str. 36",
+    "sourcePages": "36",
+    "sourceItem": "73",
+    "question": "Který jev je významně spojen s povrchovým napětím kapalin?",
+    "options": [
+      "odraz světla od vodní hladiny",
+      "koroze kovů ve vlhku",
+      "prasknutí vařeného vejce",
+      "tvorba kapek při dešti"
+    ],
+    "answer": 3,
+    "title": "tvorba kapek při dešti",
+    "paragraphs": [
+      "Povrchové napětí se snaží zmenšit povrch kapaliny, proto se kapalina rozpadá na kapky. Odraz světla je optický jev a koroze chemický děj."
+    ],
+    "memory": "Kapky drží pohromadě povrchové napětí."
+  },
+  {
+    "id": 253,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 75 · str. 36",
+    "sourcePages": "36",
+    "sourceItem": "75",
+    "question": "Nitra dvou různě velkých mýdlových bublin spojíme trubicí. Co se stane?",
+    "options": [
+      "menší bublina zanikne a větší se zvětší",
+      "objemy bublin se vyrovnají",
+      "velikost bublin se nezmění",
+      "chování bublin nelze předvídat"
+    ],
+    "answer": 0,
+    "title": "menší bublina zanikne a větší se zvětší",
+    "paragraphs": [
+      "Přetlak v bublině je nepřímo úměrný jejímu poloměru (Δp = 4σ/r). V menší bublině je proto vyšší tlak a vzduch z ní proudí do větší bubliny."
+    ],
+    "memory": "Menší bublina = větší přetlak."
+  },
+  {
+    "id": 254,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 76 · str. 36",
+    "sourcePages": "36",
+    "sourceItem": "76",
+    "question": "Plynovou bublinu ve vodě rozbijeme na několik menších. Jaký bude tlak v menších bublinách oproti původní?",
+    "options": [
+      "nižší",
+      "vyšší",
+      "stejný",
+      "bude se měnit náhodně"
+    ],
+    "answer": 1,
+    "title": "vyšší",
+    "paragraphs": [
+      "Kapilární přetlak Δp = 2σ/r roste s klesajícím poloměrem. Menší bubliny proto mají uvnitř vyšší tlak než původní velká bublina."
+    ],
+    "memory": "Δp = 2σ/r: menší r, vyšší tlak."
+  },
+  {
+    "id": 255,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 77 · str. 36",
+    "sourcePages": "36",
+    "sourceItem": "77",
+    "question": "Proč mají bubliny a kapky tvar blízký kouli?",
+    "options": [
+      "jejich molekuly mají kulový tvar",
+      "působí na ně ze všech stran stejný tlak okolí",
+      "vlivem povrchového napětí se snaží mít co nejmenší povrch",
+      "mají při tomto tvaru nejmenší povrchové napětí"
+    ],
+    "answer": 2,
+    "title": "vlivem povrchového napětí se snaží mít co nejmenší povrch",
+    "paragraphs": [
+      "Ze všech těles s daným objemem má koule nejmenší povrch, a tedy nejmenší povrchovou energii. Povrchové napětí samo na tvaru nezávisí."
+    ],
+    "memory": "Koule = nejmenší povrch pro daný objem."
+  },
+  {
+    "id": 256,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 78 · str. 36",
+    "sourcePages": "36",
+    "sourceItem": "78",
+    "question": "K vodě přidáme povrchově aktivní látku (snižuje povrchové napětí) a necháme ji odkapávat z pipety. Jaké budou kapky ve srovnání s destilovanou vodou?",
+    "options": [
+      "velmi protáhlé",
+      "mnohem podobnější kouli",
+      "velmi stabilní",
+      "menší"
+    ],
+    "answer": 3,
+    "title": "menší",
+    "paragraphs": [
+      "Kapka se odtrhne, když tíha překoná sílu povrchového napětí na obvodu ústí pipety. Při nižším povrchovém napětí stačí menší tíha, a kapky jsou proto menší."
+    ],
+    "memory": "Nižší povrchové napětí = menší kapky."
+  },
+  {
+    "id": 257,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 79 · str. 36",
+    "sourcePages": "36",
+    "sourceItem": "79",
+    "question": "Jak vypadá hladina kapaliny v kapiláře při kapilární depresi?",
+    "options": [
+      "je vypuklá a snížená oproti hladině v nádobě",
+      "je dutá a zvýšená",
+      "je vypuklá a zvýšená",
+      "je dutá a snížená"
+    ],
+    "answer": 0,
+    "title": "je vypuklá a snížená oproti hladině v nádobě",
+    "paragraphs": [
+      "Kapilární deprese nastává u kapaliny, která stěnu nesmáčí, typicky rtuti ve skle. Hladina je vypuklá a v kapiláře klesne pod úroveň okolní hladiny. U smáčející vody je hladina dutá a stoupá (elevace)."
+    ],
+    "memory": "Rtuť: vypuklá a dole, voda: dutá a nahoře."
+  },
+  {
+    "id": 258,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 80 · str. 37",
+    "sourcePages": "37",
+    "sourceItem": "80",
+    "question": "Jak se projeví zúžení kapiláry u kapilární deprese?",
+    "options": [
+      "deprese se změní v elevaci",
+      "pokles hladiny v kapiláře se zvětší",
+      "pokles hladiny se zmenší",
+      "pokles hladiny se nezmění"
+    ],
+    "answer": 1,
+    "title": "pokles hladiny v kapiláře se zvětší",
+    "paragraphs": [
+      "Výška kapilárního vzestupu i poklesu je nepřímo úměrná poloměru kapiláry (h = 2σ/(rρg)). V užší kapiláře proto hladina klesne hlouběji."
+    ],
+    "memory": "h ~ 1/r."
+  },
+  {
+    "id": 259,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 1 · str. 37",
+    "sourcePages": "37",
+    "sourceItem": "1",
+    "question": "Čemu je číselně rovna elektrostatická síla působící na jednotkový kladný náboj?",
+    "options": [
+      "elektrickému potenciálu",
+      "elektrickému dipólovému momentu",
+      "intenzitě elektrického pole",
+      "permitivitě prostředí"
+    ],
+    "answer": 2,
+    "title": "intenzitě elektrického pole",
+    "paragraphs": [
+      "Intenzita elektrického pole je definována jako E = F/Q. Pro náboj 1 C je proto číselně rovna síle v newtonech."
+    ],
+    "memory": "E = F/Q."
+  },
+  {
+    "id": 260,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 3 · str. 37",
+    "sourcePages": "37",
+    "sourceItem": "3",
+    "question": "Dva souhlasné náboje přeneseme ze vzduchu do vody (relativní permitivita asi 81). Jak se změní jejich odpuzování?",
+    "options": [
+      "zvýší se",
+      "nezmění se",
+      "zmenší se jen při nadbytku iontů ve vodě",
+      "zmenší se"
+    ],
+    "answer": 3,
+    "title": "zmenší se",
+    "paragraphs": [
+      "Coulombova síla je nepřímo úměrná permitivitě prostředí. Ve vodě je přibližně 81krát slabší než ve vzduchu, proto voda tak dobře rozpouští iontové látky."
+    ],
+    "memory": "Voda zeslabí elektrické síly asi 81krát."
+  },
+  {
+    "id": 261,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 4 · str. 37",
+    "sourcePages": "37",
+    "sourceItem": "4",
+    "question": "Co udává relativní permitivita prostředí?",
+    "options": [
+      "kolikrát se v prostředí zeslabí silové působení mezi náboji oproti vakuu",
+      "kolikrát se v prostředí sníží elektrický náboj",
+      "kolikrát pomaleji se v prostředí šíří elektromagnetické pole",
+      "kolikrát se v prostředí zesílí síla mezi náboji"
+    ],
+    "answer": 0,
+    "title": "kolikrát se v prostředí zeslabí silové působení mezi náboji oproti vakuu",
+    "paragraphs": [
+      "εᵣ = F₀/F, kde F₀ je síla ve vakuu. Náboj se v prostředí nemění, mění se jen síla mezi náboji. Pro vakuum je εᵣ = 1, pro ostatní prostředí je větší."
+    ],
+    "memory": "εᵣ = kolikrát slabší síla než ve vakuu."
+  },
+  {
+    "id": 262,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 7 · str. 37",
+    "sourcePages": "37",
+    "sourceItem": "7",
+    "question": "Čemu je číselně rovna práce, kterou vykonají síly pole při přenesení jednotkového kladného náboje z daného místa do nekonečna (kde je potenciál nulový)?",
+    "options": [
+      "permitivitě prostředí",
+      "potenciálu pole v původním místě",
+      "intenzitě pole",
+      "elementárnímu náboji 1,602 · 10⁻¹⁹ J"
+    ],
+    "answer": 1,
+    "title": "potenciálu pole v původním místě",
+    "paragraphs": [
+      "Elektrický potenciál je definován jako φ = W/Q, kde W je práce sil pole při přenesení náboje Q z daného místa do místa s nulovým potenciálem."
+    ],
+    "memory": "Potenciál = práce na jednotkový náboj."
+  },
+  {
+    "id": 263,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 10 · str. 38",
+    "sourcePages": "38",
+    "sourceItem": "10",
+    "question": "Na membráně tloušťky 10 nm je napětí 80 mV. Jaká je intenzita elektrického pole uvnitř membrány (bereme ji jako deskový kondenzátor)?",
+    "options": [
+      "8 · 10⁻⁷ V·m⁻¹",
+      "800 V·m⁻¹",
+      "8 · 10⁶ V·m⁻¹",
+      "8 · 10¹⁰ V·m⁻¹"
+    ],
+    "answer": 2,
+    "title": "8 · 10⁶ V·m⁻¹",
+    "paragraphs": [
+      "V homogenním poli platí E = U/d = 0,08 V / 10⁻⁸ m = 8 · 10⁶ V·m⁻¹. Tak silné pole působí na iontové kanály v membráně."
+    ],
+    "memory": "E = U/d."
+  },
+  {
+    "id": 264,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 14 · str. 38",
+    "sourcePages": "38",
+    "sourceItem": "14",
+    "question": "Jak je definován elektrický potenciál v určitém bodě pole?",
+    "options": [
+      "jako podíl napětí a náboje v daném místě",
+      "jako podíl potenciálů v daném místě a v nekonečnu",
+      "jako podíl vzdálenosti dvou nábojů a jednoho z nich",
+      "jako podíl práce sil pole při přemístění kladného náboje z daného místa do nekonečna a tohoto náboje"
+    ],
+    "answer": 3,
+    "title": "jako podíl práce sil pole při přemístění kladného náboje z daného místa do nekonečna a tohoto náboje",
+    "paragraphs": [
+      "φ = W/Q, jednotkou je volt (J/C). Rozdíl potenciálů dvou míst je elektrické napětí."
+    ],
+    "memory": "φ = W/Q, rozdíl potenciálů = napětí."
+  },
+  {
+    "id": 265,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 15 · str. 38",
+    "sourcePages": "38",
+    "sourceItem": "15",
+    "question": "Jaké elektrické pole vytváří osamocený bodový náboj?",
+    "options": [
+      "radiální",
+      "homogenní",
+      "ekvipotenciální",
+      "nulové"
+    ],
+    "answer": 0,
+    "title": "radiální",
+    "paragraphs": [
+      "Siločáry bodového náboje vycházejí z náboje paprsčitě do všech stran a intenzita klesá s druhou mocninou vzdálenosti. Takové pole je radiální."
+    ],
+    "memory": "Bodový náboj = radiální pole."
+  },
+  {
+    "id": 266,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 16 · str. 38",
+    "sourcePages": "38",
+    "sourceItem": "16",
+    "question": "Jaké elektrické pole vzniká mezi dvěma velkými nabitými deskami kondenzátoru?",
+    "options": [
+      "radiální",
+      "homogenní",
+      "ekvipotenciální",
+      "nulové"
+    ],
+    "answer": 1,
+    "title": "homogenní",
+    "paragraphs": [
+      "Mezi rovnoběžnými deskami jsou siločáry rovnoběžné a intenzita má všude stejnou velikost i směr, pole je tedy homogenní. E = U/d."
+    ],
+    "memory": "Deskový kondenzátor = homogenní pole."
+  },
+  {
+    "id": 267,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 19 · str. 39",
+    "sourcePages": "39",
+    "sourceItem": "19",
+    "question": "Jak se změní kapacita deskového kondenzátoru, přiblížíme-li desky na poloviční vzdálenost?",
+    "options": [
+      "klesne na polovinu",
+      "vzroste o polovinu",
+      "zdvojnásobí se",
+      "nezmění se"
+    ],
+    "answer": 2,
+    "title": "zdvojnásobí se",
+    "paragraphs": [
+      "C = ε · S/d. Kapacita je nepřímo úměrná vzdálenosti desek, takže při poloviční vzdálenosti se zdvojnásobí."
+    ],
+    "memory": "C ~ S/d."
+  },
+  {
+    "id": 268,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 22 · str. 39",
+    "sourcePages": "39",
+    "sourceItem": "22",
+    "question": "Jak zapojit tři stejné kondenzátory po 1 nF, aby nahradily kondenzátor 3 nF?",
+    "options": [
+      "sériově",
+      "dva paralelně a k nim jeden sériově",
+      "takto to nelze",
+      "paralelně"
+    ],
+    "answer": 3,
+    "title": "paralelně",
+    "paragraphs": [
+      "Při paralelním zapojení se kapacity sčítají: 1 + 1 + 1 = 3 nF. Sériové zapojení by dalo jen 1/3 nF."
+    ],
+    "memory": "Kondenzátory: paralelně se sčítají."
+  },
+  {
+    "id": 269,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 25 · str. 39",
+    "sourcePages": "39",
+    "sourceItem": "25",
+    "question": "Jak dlouho musí stálý proud 1,00 µA nabíjet kondenzátor o kapacitě 1,00 µF na napětí 10,0 V?",
+    "options": [
+      "10,0 s",
+      "0,100 s",
+      "1,00 s",
+      "1000 s"
+    ],
+    "answer": 0,
+    "title": "10,0 s",
+    "paragraphs": [
+      "Náboj kondenzátoru je Q = C · U = 10⁻⁶ · 10 = 10⁻⁵ C. Při stálém proudu t = Q/I = 10⁻⁵ / 10⁻⁶ = 10 s."
+    ],
+    "memory": "Q = CU, t = Q/I."
+  },
+  {
+    "id": 270,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 27 · str. 39",
+    "sourcePages": "39",
+    "sourceItem": "27",
+    "question": "Jaká síla působí mezi deskami kondenzátoru v obvodu se střídavým napětím?",
+    "options": [
+      "žádná síla",
+      "proměnlivá přitažlivá síla",
+      "proměnlivá odpudivá síla",
+      "střídavě přitažlivá a odpudivá podle polarity"
+    ],
+    "answer": 1,
+    "title": "proměnlivá přitažlivá síla",
+    "paragraphs": [
+      "Desky jsou v každém okamžiku nabité opačnými náboji, i když se jejich znaménka střídají. Proto se vždy přitahují, jen velikost síly se mění s okamžitým napětím."
+    ],
+    "memory": "Opačné náboje na deskách = vždy přitažlivost."
+  },
+  {
+    "id": 271,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 28 · str. 40",
+    "sourcePages": "40",
+    "sourceItem": "28",
+    "question": "Jak závisí odpor vodiče na jeho rozměrech?",
+    "options": [
+      "je nepřímo úměrný délce i průřezu",
+      "je přímo úměrný délce i průřezu",
+      "je přímo úměrný délce a nepřímo úměrný průřezu",
+      "závisí jen na délce"
+    ],
+    "answer": 2,
+    "title": "je přímo úměrný délce a nepřímo úměrný průřezu",
+    "paragraphs": [
+      "R = ρ · l/S. Delší vodič klade proudu větší odpor, širší vodič menší."
+    ],
+    "memory": "R = ρl/S."
+  },
+  {
+    "id": 272,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 29 · str. 40",
+    "sourcePages": "40",
+    "sourceItem": "29",
+    "question": "O čem pojednává 2. Kirchhoffův zákon?",
+    "options": [
+      "o proudech v uzlu obvodu",
+      "o indukci napětí magnetickým polem",
+      "o nábojích v elektrolytu",
+      "o napětích v uzavřené smyčce obvodu"
+    ],
+    "answer": 3,
+    "title": "o napětích v uzavřené smyčce obvodu",
+    "paragraphs": [
+      "2. Kirchhoffův zákon říká, že součet napětí zdrojů v uzavřené smyčce se rovná součtu úbytků napětí na spotřebičích. 1. zákon se týká proudů v uzlu."
+    ],
+    "memory": "1. Kirchhoff = proudy v uzlu, 2. = napětí ve smyčce."
+  },
+  {
+    "id": 273,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 32 · str. 40",
+    "sourcePages": "40",
+    "sourceItem": "32",
+    "question": "Za 5 hodin byl stálým proudem přenesen náboj 3,60 C. Jaký byl proud?",
+    "options": [
+      "0,200 mA",
+      "0,720 A",
+      "3,6 A",
+      "200 A"
+    ],
+    "answer": 0,
+    "title": "0,200 mA",
+    "paragraphs": [
+      "I = Q/t = 3,60 C / 18 000 s = 2 · 10⁻⁴ A = 0,200 mA."
+    ],
+    "memory": "I = Q/t, hodiny převeď na sekundy."
+  },
+  {
+    "id": 274,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 33 · str. 40",
+    "sourcePages": "40",
+    "sourceItem": "33",
+    "question": "Tři stejné rezistory jsou zapojeny tak, že ke dvojici zapojené paralelně je třetí připojen sériově. Celkový odpor je 90 kΩ. Jaký je odpor jednoho rezistoru?",
+    "options": [
+      "30 kΩ",
+      "60 kΩ",
+      "77,5 kΩ",
+      "135 kΩ"
+    ],
+    "answer": 1,
+    "title": "60 kΩ",
+    "paragraphs": [
+      "Dvojice paralelně má odpor R/2, s třetím sériově R/2 + R = 1,5R. Z 1,5R = 90 kΩ plyne R = 60 kΩ."
+    ],
+    "memory": "Paralelně dva stejné = R/2."
+  },
+  {
+    "id": 275,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 34 · str. 40",
+    "sourcePages": "40",
+    "sourceItem": "34",
+    "question": "Rezistory 30 MΩ, 60 MΩ a 90 MΩ jsou zapojeny paralelně. Jaký je celkový odpor?",
+    "options": [
+      "60,0 MΩ",
+      "90,0 MΩ",
+      "16,4 MΩ",
+      "180 MΩ"
+    ],
+    "answer": 2,
+    "title": "16,4 MΩ",
+    "paragraphs": [
+      "1/R = 1/30 + 1/60 + 1/90 = (6 + 3 + 2)/180 = 11/180, takže R = 16,4 MΩ. Paralelní odpor je vždy menší než nejmenší z odporů."
+    ],
+    "memory": "Paralelně: menší než nejmenší odpor."
+  },
+  {
+    "id": 276,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 35 · str. 40",
+    "sourcePages": "40",
+    "sourceItem": "35",
+    "question": "Jak ze tří rezistorů po 500 Ω vytvoříme náhradu za rezistor 750 Ω?",
+    "options": [
+      "všechny tři sériově",
+      "všechny tři paralelně",
+      "dva zapojíme sériově a k nim třetí paralelně",
+      "dva zapojíme paralelně a k nim třetí sériově"
+    ],
+    "answer": 3,
+    "title": "dva zapojíme paralelně a k nim třetí sériově",
+    "paragraphs": [
+      "Dva paralelně dají 250 Ω, s třetím sériově 250 + 500 = 750 Ω. Sériově by vyšlo 1500 Ω, paralelně 167 Ω a dva sériově s třetím paralelně 333 Ω. V původní nabídce správná varianta chyběla (klíč „žádná z uvedených“)."
+    ],
+    "memory": "250 + 500 = 750."
+  },
+  {
+    "id": 277,
+    "subject": "Chemie",
+    "category": "Chemie · Periodický systém a vlastnosti prvků",
+    "bookRef": "LF MU · Chemie · Periodický systém a vlastnosti prvků 9 · str. 83",
+    "sourcePages": "83",
+    "sourceItem": "9",
+    "question": "Který prvek patří mezi přechodné prvky VII. skupiny (skupiny 7)?",
+    "options": [
+      "mangan",
+      "chrom",
+      "astat",
+      "nikl"
+    ],
+    "answer": 0,
+    "title": "mangan",
+    "paragraphs": [
+      "Do 7. skupiny patří mangan, technecium a rhenium. Chrom je v 6. skupině, nikl v 10. a astat je nepřechodný halogen 17. skupiny."
+    ],
+    "memory": "7. skupina: Mn, Tc, Re."
+  },
+  {
+    "id": 278,
+    "subject": "Chemie",
+    "category": "Chemie · Periodický systém a vlastnosti prvků",
+    "bookRef": "LF MU · Chemie · Periodický systém a vlastnosti prvků 12 · str. 83",
+    "sourcePages": "83",
+    "sourceItem": "12",
+    "question": "Jakým prvkem je velmi pravděpodobně prvek s protonovým číslem 20?",
+    "options": [
+      "přechodným prvkem",
+      "kovem",
+      "nekovem",
+      "vzácným plynem"
+    ],
+    "answer": 1,
+    "title": "kovem",
+    "paragraphs": [
+      "Z = 20 má vápník, kov alkalických zemin ze 2. skupiny. Přechodné prvky začínají až skandiem (Z = 21)."
+    ],
+    "memory": "Z = 20 = Ca."
+  },
+  {
+    "id": 279,
+    "subject": "Chemie",
+    "category": "Chemie · Periodický systém a vlastnosti prvků",
+    "bookRef": "LF MU · Chemie · Periodický systém a vlastnosti prvků 17 · str. 84",
+    "sourcePages": "84",
+    "sourceItem": "17",
+    "question": "Které prvky se označují jako kovy alkalických zemin?",
+    "options": [
+      "nepřechodné prvky I. skupiny",
+      "lanthanoidy",
+      "některé nepřechodné prvky II. skupiny",
+      "přechodné prvky skupiny 12"
+    ],
+    "answer": 2,
+    "title": "některé nepřechodné prvky II. skupiny",
+    "paragraphs": [
+      "Kovy alkalických zemin jsou vápník, stroncium, baryum a radium. Beryllium a hořčík se k nim podle užšího vymezení nepočítají, proto jen „některé“ prvky 2. skupiny. Alkalické kovy tvoří 1. skupinu."
+    ],
+    "memory": "Alkalické zeminy: Ca, Sr, Ba, Ra."
+  },
+  {
+    "id": 280,
+    "subject": "Chemie",
+    "category": "Chemie · Periodický systém a vlastnosti prvků",
+    "bookRef": "LF MU · Chemie · Periodický systém a vlastnosti prvků 24 · str. 84",
+    "sourcePages": "84",
+    "sourceItem": "24",
+    "question": "Který oxid nereaguje s vodou a označuje se jako indiferentní?",
+    "options": [
+      "As₄O₆",
+      "B₂O₃",
+      "CrO₃",
+      "N₂O"
+    ],
+    "answer": 3,
+    "title": "N₂O",
+    "paragraphs": [
+      "Oxid dusný (rajský plyn) s vodou, kyselinami ani zásadami nereaguje. Ostatní oxidy s vodou tvoří kyseliny: arsenitou, boritou a chromovou."
+    ],
+    "memory": "Indiferentní oxidy: N₂O, NO, CO."
+  },
+  {
+    "id": 281,
+    "subject": "Chemie",
+    "category": "Chemie · Periodický systém a vlastnosti prvků",
+    "bookRef": "LF MU · Chemie · Periodický systém a vlastnosti prvků 27 · str. 84",
+    "sourcePages": "84",
+    "sourceItem": "27",
+    "question": "Která látka vzniká reakcí kyseliny chlorovodíkové se sulfidem sodným?",
+    "options": [
+      "sulfan",
+      "síra",
+      "oxid siřičitý",
+      "chlor"
+    ],
+    "answer": 0,
+    "title": "sulfan",
+    "paragraphs": [
+      "Silnější kyselina vytěsní slabší ze soli: Na₂S + 2 HCl → 2 NaCl + H₂S. Jde o acidobazickou reakci, oxidační čísla se nemění."
+    ],
+    "memory": "Silná kyselina vytěsní slabou (H₂S)."
+  },
+  {
+    "id": 282,
+    "subject": "Chemie",
+    "category": "Chemie · Periodický systém a vlastnosti prvků",
+    "bookRef": "LF MU · Chemie · Periodický systém a vlastnosti prvků 30 · str. 85",
+    "sourcePages": "85",
+    "sourceItem": "30",
+    "question": "Jaká je ryzost (hmotnostní zlomek zlata) osmikarátového zlata?",
+    "options": [
+      "583/1000",
+      "333/1000",
+      "800/1000",
+      "917/1000"
+    ],
+    "answer": 1,
+    "title": "333/1000",
+    "paragraphs": [
+      "Ryzí zlato má 24 karátů. 8 karátů je 8/24 = 1/3, tedy 333 dílů zlata z tisíce. 14 karátů je 585/1000."
+    ],
+    "memory": "Karáty / 24 = podíl zlata."
+  },
+  {
+    "id": 283,
+    "subject": "Chemie",
+    "category": "Chemie · Periodický systém a vlastnosti prvků",
+    "bookRef": "LF MU · Chemie · Periodický systém a vlastnosti prvků 32 · str. 85",
+    "sourcePages": "85",
+    "sourceItem": "32",
+    "question": "Součin rozpustnosti CaSO₄ je Ks = 3,0 · 10⁻⁵. Jaká je přibližná koncentrace CaSO₄ v nasyceném roztoku?",
+    "options": [
+      "3,0 · 10⁻⁵ mol·dm⁻³",
+      "7,5 · 10⁻⁶ mol·dm⁻³",
+      "5,5 · 10⁻³ mol·dm⁻³",
+      "6,0 · 10⁻¹⁰ mol·dm⁻³"
+    ],
+    "answer": 2,
+    "title": "5,5 · 10⁻³ mol·dm⁻³",
+    "paragraphs": [
+      "CaSO₄ se rozpouští na Ca²⁺ a SO₄²⁻ ve stejné koncentraci c, takže Ks = c². c = √(3,0 · 10⁻⁵) = 5,5 · 10⁻³ mol·dm⁻³."
+    ],
+    "memory": "Sůl typu AB: c = √Ks."
+  },
+  {
+    "id": 284,
+    "subject": "Chemie",
+    "category": "Chemie · Periodický systém a vlastnosti prvků",
+    "bookRef": "LF MU · Chemie · Periodický systém a vlastnosti prvků 34 · str. 85",
+    "sourcePages": "85",
+    "sourceItem": "34",
+    "question": "Co přidáte do roztoku amonné soli, aby z něj po zahřátí unikal amoniak?",
+    "options": [
+      "CaCl₂",
+      "H₂SO₄",
+      "HCl",
+      "KOH"
+    ],
+    "answer": 3,
+    "title": "KOH",
+    "paragraphs": [
+      "Silná zásada odebírá amonnému kationtu proton: NH₄⁺ + OH⁻ → NH₃ + H₂O. Uvolněný amoniak se pozná čichem nebo zmodráním vlhkého indikátorového papírku."
+    ],
+    "memory": "Amonná sůl + hydroxid = únik NH₃."
+  },
+  {
+    "id": 285,
+    "subject": "Chemie",
+    "category": "Chemie · Periodický systém a vlastnosti prvků",
+    "bookRef": "LF MU · Chemie · Periodický systém a vlastnosti prvků 49 · str. 87",
+    "sourcePages": "87",
+    "sourceItem": "49",
+    "question": "Zinek reaguje s dusičnanem stříbrným za vzniku stříbra a dusičnanu zinečnatého. Co v této reakci platí?",
+    "options": [
+      "Ag⁺ je oxidačním činidlem",
+      "Ag⁺ se oxiduje na kovové stříbro",
+      "Ag⁺ má malou afinitu k elektronům",
+      "zinek snadno přijímá elektrony"
+    ],
+    "answer": 0,
+    "title": "Ag⁺ je oxidačním činidlem",
+    "paragraphs": [
+      "Ag⁺ přijímá elektron od zinku a redukuje se na Ag, působí tedy jako oxidační činidlo. Zinek elektrony odevzdává a oxiduje se na Zn²⁺."
+    ],
+    "memory": "Ušlechtilý kation oxiduje méně ušlechtilý kov."
+  },
+  {
+    "id": 286,
+    "subject": "Chemie",
+    "category": "Chemie · Periodický systém a vlastnosti prvků",
+    "bookRef": "LF MU · Chemie · Periodický systém a vlastnosti prvků 51 · str. 87",
+    "sourcePages": "87",
+    "sourceItem": "51",
+    "question": "Ve které reakci vystupuje peroxid vodíku jako redukční činidlo?",
+    "options": [
+      "Mn²⁺ + H₂O₂ + 2 OH⁻ → MnO₂ + 2 H₂O",
+      "H₂O₂ + PbO₂ + 2 HNO₃ → Pb(NO₃)₂ + O₂ + 2 H₂O",
+      "H₂O₂ + Fe²⁺ → Fe³⁺ + 2 OH⁻",
+      "H₂O₂ + H₂S → 2 H₂O + S"
+    ],
+    "answer": 1,
+    "title": "H₂O₂ + PbO₂ + 2 HNO₃ → Pb(NO₃)₂ + O₂ + 2 H₂O",
+    "paragraphs": [
+      "S PbO₂ se kyslík z H₂O₂ oxiduje z −I na 0 (vzniká O₂) a olovo se redukuje z IV na II. V ostatních reakcích se H₂O₂ redukuje na vodu nebo OH⁻ a oxiduje Mn²⁺, Fe²⁺ či H₂S."
+    ],
+    "memory": "Vzniká-li z H₂O₂ kyslík, je redukčním činidlem."
+  },
+  {
+    "id": 287,
+    "subject": "Chemie",
+    "category": "Chemie · Periodický systém a vlastnosti prvků",
+    "bookRef": "LF MU · Chemie · Periodický systém a vlastnosti prvků 54 · str. 87",
+    "sourcePages": "87",
+    "sourceItem": "54",
+    "question": "Která přeměna hemoglobinu je redoxní reakcí?",
+    "options": [
+      "vazba O₂ za vzniku oxyhemoglobinu",
+      "vazba CO za vzniku karbonylhemoglobinu",
+      "vznik methemoglobinu",
+      "vazba CO₂ na aminoskupiny globinu"
+    ],
+    "answer": 2,
+    "title": "vznik methemoglobinu",
+    "paragraphs": [
+      "V methemoglobinu je železo oxidováno z Fe²⁺ na Fe³⁺ a kyslík už nepřenáší. Při běžné vazbě O₂, CO nebo CO₂ se oxidační číslo železa nemění."
+    ],
+    "memory": "Methemoglobin = Fe³⁺."
+  },
+  {
+    "id": 288,
+    "subject": "Chemie",
+    "category": "Chemie · Periodický systém a vlastnosti prvků",
+    "bookRef": "LF MU · Chemie · Periodický systém a vlastnosti prvků 56 · str. 87",
+    "sourcePages": "87",
+    "sourceItem": "56",
+    "question": "Podle rovnice 2 CO + O₂ → 2 CO₂ reagovala směs 15 mol CO a 10 mol O₂. Co bude v soustavě po skončení reakce?",
+    "options": [
+      "10 mol CO₂ a 5 mol CO",
+      "15 mol CO₂ a 5 mol CO",
+      "10 mol CO₂ a 7,5 mol O₂",
+      "15 mol CO₂ a 2,5 mol O₂"
+    ],
+    "answer": 3,
+    "title": "15 mol CO₂ a 2,5 mol O₂",
+    "paragraphs": [
+      "15 mol CO spotřebuje 7,5 mol O₂ a vznikne 15 mol CO₂. Kyslík je v nadbytku, zbude 10 − 7,5 = 2,5 mol O₂."
+    ],
+    "memory": "Nejdřív najdi látku, které je málo."
+  },
+  {
+    "id": 289,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "LF MU · Biologie · Biologie člověka 45 · str. 142",
+    "sourcePages": "142",
+    "sourceItem": "45",
+    "question": "Jaký podnět přijímá sluchový receptor?",
+    "options": [
+      "mechanické kmitání (zvukové vlny)",
+      "elektromagnetické vlnění",
+      "chemické látky",
+      "změny teploty"
+    ],
+    "answer": 0,
+    "title": "mechanické kmitání (zvukové vlny)",
+    "paragraphs": [
+      "Vláskové buňky Cortiho orgánu jsou mechanoreceptory. Reagují na ohnutí vlásků při kmitání tekutiny vnitřního ucha. Elektromagnetické vlnění (světlo) přijímají tyčinky a čípky."
+    ],
+    "memory": "Sluch = mechanoreceptor."
+  },
+  {
+    "id": 290,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "LF MU · Biologie · Biologie člověka 52 · str. 143",
+    "sourcePages": "143",
+    "sourceItem": "52",
+    "question": "Ve které vrstvě kůže jsou cévy, z nichž je vyživována pokožka?",
+    "options": [
+      "v pokožce",
+      "ve škáře",
+      "jen v podkožním vazivu",
+      "ve vrstvě keratinu"
+    ],
+    "answer": 1,
+    "title": "ve škáře",
+    "paragraphs": [
+      "Pokožka nemá vlastní cévy a vyživuje se difuzí z kapilár ve škáře, hlavně v jejích bradavkách. Podkožní vazivo obsahuje větší cévy a tuk."
+    ],
+    "memory": "Pokožka je bez cév, živí ji škára."
+  },
+  {
+    "id": 291,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "LF MU · Biologie · Biologie člověka 53 · str. 143",
+    "sourcePages": "143",
+    "sourceItem": "53",
+    "question": "Čím se neuron liší od jiných diferencovaných buněk?",
+    "options": [
+      "zvláštními elektrickými vlastnostmi obalů",
+      "charakteristickým cytoskeletem",
+      "zvláštní propustností membrány pro ionty K⁺ a Na⁺",
+      "vysokou koncentrací RNA s paměťovou funkcí"
+    ],
+    "answer": 2,
+    "title": "zvláštní propustností membrány pro ionty K⁺ a Na⁺",
+    "paragraphs": [
+      "Neuron je dráždivý díky iontovým kanálům, které mění propustnost membrány pro Na⁺ a K⁺. Tím vzniká a šíří se akční potenciál."
+    ],
+    "memory": "Vzruch = řízená propustnost pro Na⁺ a K⁺."
+  },
+  {
+    "id": 292,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "LF MU · Biologie · Biologie člověka 58 · str. 143",
+    "sourcePages": "143",
+    "sourceItem": "58",
+    "question": "Kterým směrem přenáší vzruch chemická synapse?",
+    "options": [
+      "obousměrně",
+      "jen od dendritu k dendritu",
+      "směr se mění podle síly podnětu",
+      "jednosměrně, z presynaptické na postsynaptickou buňku"
+    ],
+    "answer": 3,
+    "title": "jednosměrně, z presynaptické na postsynaptickou buňku",
+    "paragraphs": [
+      "Mediátor se uvolňuje jen z presynaptického zakončení a receptory jsou jen na postsynaptické membráně. Synapse proto vede vzruch jedním směrem."
+    ],
+    "memory": "Synapse = jednosměrka."
+  },
+  {
+    "id": 293,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "LF MU · Biologie · Biologie člověka 69 · str. 145",
+    "sourcePages": "145",
+    "sourceItem": "69",
+    "question": "Jakou svalovinu obsahuje stěna jícnu?",
+    "options": [
+      "v horní části příčně pruhovanou, v dolní hladkou",
+      "celou hladkou",
+      "celou příčně pruhovanou",
+      "jen srdeční"
+    ],
+    "answer": 0,
+    "title": "v horní části příčně pruhovanou, v dolní hladkou",
+    "paragraphs": [
+      "Horní třetina jícnu navazuje na hltan a má kosterní svalovinu (polykání je zčásti vůlí ovlivnitelné). Směrem dolů ji postupně nahrazuje hladká svalovina."
+    ],
+    "memory": "Jícen: nahoře kosterní, dole hladká."
+  },
+  {
+    "id": 294,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "LF MU · Biologie · Biologie člověka 73 · str. 145",
+    "sourcePages": "145",
+    "sourceItem": "73",
+    "question": "Která struktura vaječníku je hlavním zdrojem estrogenů v první polovině cyklu?",
+    "options": [
+      "vajíčko",
+      "zrající (Graafův) folikul",
+      "bílé tělísko",
+      "děložní sliznice"
+    ],
+    "answer": 1,
+    "title": "zrající (Graafův) folikul",
+    "paragraphs": [
+      "Estrogeny tvoří buňky rostoucího folikulu. Jejich vzestup vrcholí před ovulací. Po ovulaci vzniká žluté tělísko, které tvoří hlavně progesteron. Bílé tělísko je jizva po zaniklém žlutém tělísku."
+    ],
+    "memory": "Folikul = estrogen, žluté tělísko = progesteron."
+  },
+  {
+    "id": 295,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "LF MU · Biologie · Biologie člověka 76 · str. 145",
+    "sourcePages": "145",
+    "sourceItem": "76",
+    "question": "Který orgán se nepodílí na tvorbě artikulované řeči?",
+    "options": [
+      "jazyk",
+      "rty",
+      "průdušnice",
+      "patro"
+    ],
+    "answer": 2,
+    "title": "průdušnice",
+    "paragraphs": [
+      "Hlas vzniká v hrtanu a artikulaci zajišťují jazyk, rty, zuby a patro, které upravují tvar ústní dutiny. Průdušnice jen vede vzduch."
+    ],
+    "memory": "Artikulace = ústa, hlas = hrtan."
+  },
+  {
+    "id": 296,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "LF MU · Biologie · Biologie člověka 91 · str. 147",
+    "sourcePages": "147",
+    "sourceItem": "91",
+    "question": "Která buňka se nepodílí na obraně proti infekci?",
+    "options": [
+      "eozinofil",
+      "makrofág",
+      "lymfocyt",
+      "fibroblast"
+    ],
+    "answer": 3,
+    "title": "fibroblast",
+    "paragraphs": [
+      "Fibroblasty jsou buňky vaziva a tvoří kolagenová a elastická vlákna. Eozinofily, makrofágy a lymfocyty jsou imunitní buňky."
+    ],
+    "memory": "Fibroblast staví vazivo, nebojuje."
+  },
+  {
+    "id": 297,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "LF MU · Biologie · Biologie člověka 92 · str. 147",
+    "sourcePages": "147",
+    "sourceItem": "92",
+    "question": "Který znak patří mezi sekundární pohlavní znaky mužů?",
+    "options": [
+      "zvětšení objemu svaloviny",
+      "řasy",
+      "předkožka",
+      "varlata"
+    ],
+    "answer": 0,
+    "title": "zvětšení objemu svaloviny",
+    "paragraphs": [
+      "Sekundární pohlavní znaky se vyvíjejí v pubertě vlivem pohlavních hormonů, u mužů například růst svalů, ochlupení a hlubší hlas. Varlata a předkožka jsou primární pohlavní orgány."
+    ],
+    "memory": "Primární = pohlavní orgány, sekundární = projevy z puberty."
+  },
+  {
+    "id": 298,
+    "subject": "Biologie",
+    "category": "Biologie · Životní funkce organismů",
+    "bookRef": "LF MU · Biologie · Životní funkce organismů 5 · str. 148",
+    "sourcePages": "148",
+    "sourceItem": "5",
+    "question": "U které tasemnice je mezihostitelem prase domácí?",
+    "options": [
+      "tasemnice bezbranná (Taenia saginata)",
+      "tasemnice dlouhočlenná (Taenia solium)",
+      "tasemnice vroubená",
+      "tasemnice hrášková"
+    ],
+    "answer": 1,
+    "title": "tasemnice dlouhočlenná (Taenia solium)",
+    "paragraphs": [
+      "Tasemnice dlouhočlenná má boubele ve svalovině prasete a člověk se nakazí nedostatečně tepelně upraveným vepřovým masem. Mezihostitelem tasemnice bezbranné je skot."
+    ],
+    "memory": "Solium = prase, saginata = hovězí."
+  },
+  {
+    "id": 299,
+    "subject": "Biologie",
+    "category": "Biologie · Životní funkce organismů",
+    "bookRef": "LF MU · Biologie · Životní funkce organismů 9 · str. 148",
+    "sourcePages": "148",
+    "sourceItem": "9",
+    "question": "Kam patří lamblie střevní?",
+    "options": [
+      "mezi kořenonožce",
+      "mezi výtrusovce",
+      "mezi bičíkovce",
+      "mezi nálevníky (obrvené)"
+    ],
+    "answer": 2,
+    "title": "mezi bičíkovce",
+    "paragraphs": [
+      "Lamblie (Giardia) je bičíkovec parazitující v tenkém střevě a způsobuje průjmy. Kořenonožcem je například měňavka úplavičná, výtrusovcem původce malárie."
+    ],
+    "memory": "Lamblie = bičíkovec."
+  },
+  {
+    "id": 300,
+    "subject": "Biologie",
+    "category": "Biologie · Životní funkce organismů",
+    "bookRef": "LF MU · Biologie · Životní funkce organismů 19 · str. 149",
+    "sourcePages": "149",
+    "sourceItem": "19",
+    "question": "Na které onemocnění není vhodné předepsat antibiotikum?",
+    "options": [
+      "na tularémii",
+      "na bakteriální angínu",
+      "na legionářskou nemoc",
+      "na vzteklinu"
+    ],
+    "answer": 3,
+    "title": "na vzteklinu",
+    "paragraphs": [
+      "Antibiotika působí na bakterie. Vzteklinu způsobuje virus, takže na ni nepůsobí. Tularémie, streptokoková angína i legionelóza jsou bakteriální."
+    ],
+    "memory": "Antibiotika na viry nefungují."
+  }
+]
