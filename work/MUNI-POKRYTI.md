@@ -134,6 +134,21 @@ Elektřina je tím posouzená celá (1–89). Nepřidáno z úloh 36–89: 37 (I
 
 Chemie úlohy 57–72: 59 (varianta 342), 62 (varianta 343), 67 (složení zubní pasty, specifické), 68 (suspenze fosforečnanu, varianta 349), 70 (olej a voda se rozdělí na dvě fáze, triviální), 71 (CaSO₄ je málo rozpustný, ne zcela nerozpustný; sporné). Periodický systém je tím posouzený celý (1–72).
 
-Dosud nepokryté oddíly: fyzika Optika, Atomová a jaderná fyzika, zbylé úlohy prvních kapitol; chemie Organická chemie, Biochemie a zbylé úlohy prvních kapitol; biologie Životní funkce (kromě 5, 9, 19), Evoluce, Ekologie.
+## Osmá dávka ID 351–400 (v2.58.0)
+
+Soubor `muni-351-400.json`, generátor `create_muni_351_400.py`. Odpovědi ověřeny výpočtem nebo výkladem a porovnány s klíčem na str. 60 a 154.
+
+| Předmět | Kapitola (tištěné strany) | Použité úlohy | ID |
+|---|---|---|---|
+| Fyzika | Optika: geometrická optika, mikroskop, vlnová optika (46–51) | 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 23, 24, 25, 27, 28, 30, 31, 35, 36, 37, 38, 39, 40, 45, 46, 47, 49, 52, 53, 54, 55, 56, 57 | 351–390 |
+| Biologie | Životní funkce, medicínsky významné organismy (147–149) | 1, 3, 6, 7, 8, 11, 12, 16, 20, 21 | 391–400 |
+
+Klíč E převeden na explicitní správnou odpověď: optika 10 (+4 D), 15 (paprsky vystupují rovnoběžně), 18 (+0,1 D), 19 (−2 D), 31 (předmět v 1,5f). Optika 3 doplněna o podmínku, že se světlo lomí do druhého prostředí. Optika 14 doplněna o neskutečný přímý obraz (lupa), na kterém klíč 0,0875 m závisí. Optika 25 převedena na mohutnost větší než 2 D, což je přesnější než klíčové „větší než 1 D“.
+
+Nepřidáno z optiky 1–57: 1 (klíč „žádná“, princip 351), 4 (lom do rohovky, varianta 351), 8 (vláknová optika, varianta 355), 16 (varianta 363), 22 (rozptylka ve vodě, varianta 367), 26 (klíč c odporuje 25, sporné), 29 (2f, varianta 373), 32 a 33 (záměrně chybné zadání), 34 (symbol d, ve vysvětlení 375), 41 (varianta 377–378), 42–44 (oční vady a akomodace, BIO 671–684), 48 (nejdelší vlnová délka, CB 306), 50 a 51 (varianty 384). Úlohy 58–74 (interference, polarizace, fotometrie) čekají na další dávku.
+
+Z životních funkcí nepřidáno: 2 (žebříčková nervová soustava, SOM 66), 4 (amnion, BIO 758 a UK 399), 13 (bezjaderné erytrocyty, BIO 84), 17 (odkysličená krev v plicnici, CB 38), 22 (vzdušnice, SOM 239), 23 (klíšťová encefalitida, BIO 530). Úlohy 10, 14, 15, 18, 24, 25 čekají na další dávku.
+
+Dosud nepokryté oddíly: fyzika Optika 58–74, Atomová a jaderná fyzika, zbylé úlohy prvních kapitol; chemie Organická chemie, Biochemie a zbylé úlohy prvních kapitol; biologie Životní funkce 10, 14, 15, 18, 24, 25, Evoluce, Ekologie.
 
 Druhý soubor `877344967-LF-MU-Modelove-Otazky-New.pdf` je podle vlastníka (21. 11. 2026) stejná publikace jako hlavní soubor Mornstein a kol. Samostatně se nepokrývá; zdrojem kvízu LF MU je jen hlavní soubor.
