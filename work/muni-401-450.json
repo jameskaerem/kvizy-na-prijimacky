@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 401,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 61 · str. 51",
+    "sourcePages": "51",
+    "sourceItem": "61",
+    "question": "Čím je způsoben vznik barevného spektra po průchodu bílého světla optickou mřížkou?",
+    "options": [
+      "interferencí světla",
+      "odrazem některých vlnových délek od mřížky",
+      "posunem vlnové délky světla",
+      "polarizací světla"
+    ],
+    "answer": 0,
+    "title": "interferencí světla",
+    "paragraphs": [
+      "Světlo se ohýbá na štěrbinách mřížky a vlny z jednotlivých štěrbin interferují. Maxima pro různé vlnové délky vycházejí pod různými úhly, proto se bílé světlo rozloží na barvy."
+    ],
+    "memory": "Mřížka = ohyb a interference."
+  },
+  {
+    "id": 402,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 62 · str. 51",
+    "sourcePages": "51",
+    "sourceItem": "62",
+    "question": "Který z uvedených jevů souvisí s polarizací světla?",
+    "options": [
+      "chvění vzduchu nad svíčkou",
+      "dvojlom",
+      "fata morgana",
+      "rozklad světla hranolem"
+    ],
+    "answer": 1,
+    "title": "dvojlom",
+    "paragraphs": [
+      "Při dvojlomu se světlo v krystalu (například islandském vápenci) rozdělí na dva paprsky polarizované v navzájem kolmých rovinách. Fata morgana a chvění vzduchu jsou lomem, rozklad hranolem disperzí."
+    ],
+    "memory": "Dvojlom = dva polarizované paprsky."
+  },
+  {
+    "id": 403,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 64 · str. 52",
+    "sourcePages": "52",
+    "sourceItem": "64",
+    "question": "V jaké vzdálenosti od plochy musí být žárovka o svítivosti 900 cd, aby dávala kolmé osvětlení 100 lx?",
+    "options": [
+      "9,00 m",
+      "0,30 m",
+      "3,00 m",
+      "10,0 cm"
+    ],
+    "answer": 2,
+    "title": "3,00 m",
+    "paragraphs": [
+      "E = I/r², tedy r = √(I/E) = √(900/100) = √9 = 3,00 m."
+    ],
+    "memory": "E = I/r²."
+  },
+  {
+    "id": 404,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 65 · str. 52",
+    "sourcePages": "52",
+    "sourceItem": "65",
+    "question": "Jakou svítivost má lampa, která ze vzdálenosti 200 cm dává stejné kolmé osvětlení jako žárovka 40 cd ze vzdálenosti 100 cm?",
+    "options": [
+      "80 cd",
+      "40 cd",
+      "20 cd",
+      "160 cd"
+    ],
+    "answer": 3,
+    "title": "160 cd",
+    "paragraphs": [
+      "Osvětlení klesá se čtvercem vzdálenosti. Při dvojnásobné vzdálenosti potřebujeme čtyřnásobnou svítivost: 40 · 4 = 160 cd."
+    ],
+    "memory": "Dvakrát dál = čtyřikrát silnější zdroj."
+  },
+  {
+    "id": 405,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 66 · str. 52",
+    "sourcePages": "52",
+    "sourceItem": "66",
+    "question": "Jak definujeme osvětlení?",
+    "options": [
+      "jako světelný tok dopadající rovnoměrně na jednotkovou plochu",
+      "jako svítivost plochy jednotkové velikosti",
+      "jako světelný tok dopadající na jeden steradián",
+      "jako světelný tok dopadající na celé osvětlené těleso"
+    ],
+    "answer": 0,
+    "title": "jako světelný tok dopadající rovnoměrně na jednotkovou plochu",
+    "paragraphs": [
+      "E = Φ/S, jednotkou je lux (lm·m⁻²). Doporučené osvětlení pracovní plochy je řádově stovky luxů."
+    ],
+    "memory": "Lux = lumen na m²."
+  },
+  {
+    "id": 406,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 67 · str. 52",
+    "sourcePages": "52",
+    "sourceItem": "67",
+    "question": "Jak je definována svítivost bodového zdroje?",
+    "options": [
+      "jako součin světelného toku a prostorového úhlu",
+      "jako podíl světelného toku a prostorového úhlu, do kterého zdroj září",
+      "jako energie vyzařovaná z 1 m² povrchu zdroje",
+      "jako výkon vyzařovaný z 1 m² povrchu zdroje"
+    ],
+    "answer": 1,
+    "title": "jako podíl světelného toku a prostorového úhlu, do kterého zdroj září",
+    "paragraphs": [
+      "I = Φ/Ω. Jednotkou je kandela, jedna ze základních jednotek SI. Světelný tok jedné kandely do jednoho steradiánu je jeden lumen."
+    ],
+    "memory": "Kandela = lumen na steradián."
+  },
+  {
+    "id": 407,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 68 · str. 52",
+    "sourcePages": "52",
+    "sourceItem": "68",
+    "question": "Jak je definován světelný tok bodového zdroje?",
+    "options": [
+      "jako podíl svítivosti a prostorového úhlu",
+      "jako světelná energie procházející jednotkovou plochou",
+      "jako součin svítivosti a prostorového úhlu, do kterého zdroj září",
+      "jako součin svítivosti a plochy zdroje"
+    ],
+    "answer": 2,
+    "title": "jako součin svítivosti a prostorového úhlu, do kterého zdroj září",
+    "paragraphs": [
+      "Φ = I · Ω, jednotkou je lumen (cd·sr). Je to obrácený vztah k definici svítivosti."
+    ],
+    "memory": "Lumen = kandela × steradián."
+  },
+  {
+    "id": 408,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 69 · str. 52",
+    "sourcePages": "52",
+    "sourceItem": "69",
+    "question": "Jak je definován osvit (expozice) při kolmém dopadu světla?",
+    "options": [
+      "jako součin osvětlení a plochy",
+      "jako podíl osvětlení a doby osvětlení",
+      "jako podíl osvětlení a plochy",
+      "jako součin osvětlení a doby osvětlení"
+    ],
+    "answer": 3,
+    "title": "jako součin osvětlení a doby osvětlení",
+    "paragraphs": [
+      "H = E · t. Osvit rozhoduje například o zčernání fotografického materiálu. Jednotkou je luxsekunda."
+    ],
+    "memory": "Osvit = osvětlení × čas."
+  },
+  {
+    "id": 409,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 70 · str. 52",
+    "sourcePages": "52",
+    "sourceItem": "70",
+    "question": "Jak se změní osvětlení plochy, vzdálíme-li ji od zdroje na čtyřnásobek původní vzdálenosti?",
+    "options": [
+      "klesne na jednu šestnáctinu",
+      "klesne na jednu čtvrtinu",
+      "klesne na jednu osminu",
+      "klesne na jednu polovinu"
+    ],
+    "answer": 0,
+    "title": "klesne na jednu šestnáctinu",
+    "paragraphs": [
+      "Osvětlení od bodového zdroje je nepřímo úměrné čtverci vzdálenosti, E = I/r². Pro čtyřnásobnou vzdálenost je E menší 4² = 16krát."
+    ],
+    "memory": "Zákon čtverce vzdálenosti."
+  },
+  {
+    "id": 410,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 71 · str. 52",
+    "sourcePages": "52",
+    "sourceItem": "71",
+    "question": "Jaká je jednotka zářivého toku?",
+    "options": [
+      "kandela",
+      "watt",
+      "lumen",
+      "watt na metr čtvereční"
+    ],
+    "answer": 1,
+    "title": "watt",
+    "paragraphs": [
+      "Zářivý tok je výkon přenášený zářením, měří se tedy ve wattech. Lumen je jednotkou světelného toku, který zohledňuje citlivost lidského oka."
+    ],
+    "memory": "Radiometrie W, fotometrie lm."
+  },
+  {
+    "id": 411,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 72 · str. 52",
+    "sourcePages": "52",
+    "sourceItem": "72",
+    "question": "Jaká je hlavní jednotka intenzity vyzařování?",
+    "options": [
+      "watt",
+      "lumen",
+      "watt na metr čtvereční",
+      "lumen na metr čtvereční"
+    ],
+    "answer": 2,
+    "title": "watt na metr čtvereční",
+    "paragraphs": [
+      "Intenzita vyzařování je zářivý tok vyzařovaný z jednotkové plochy povrchu zdroje, W·m⁻². Lumen na m² je lux, jednotka osvětlení."
+    ],
+    "memory": "Výkon na plochu = W/m²."
+  },
+  {
+    "id": 412,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 73 · str. 52",
+    "sourcePages": "52",
+    "sourceItem": "73",
+    "question": "Jaký je celkový světelný tok všesměrového zdroje o svítivosti 1 cd?",
+    "options": [
+      "1 lm",
+      "2π lm",
+      "π lm",
+      "4π lm"
+    ],
+    "answer": 3,
+    "title": "4π lm",
+    "paragraphs": [
+      "Celá koule má prostorový úhel 4π sr. Φ = I · Ω = 1 cd · 4π sr = 4π lm ≈ 12,6 lm."
+    ],
+    "memory": "Celá koule = 4π sr."
+  },
+  {
+    "id": 413,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 74 · str. 52",
+    "sourcePages": "52",
+    "sourceItem": "74",
+    "question": "Jaká je jednotka osvitu (expozice)?",
+    "options": [
+      "luxsekunda",
+      "lux",
+      "kandela",
+      "W·m⁻²"
+    ],
+    "answer": 0,
+    "title": "luxsekunda",
+    "paragraphs": [
+      "Osvit je součin osvětlení a doby, proto lux · sekunda (lx·s). Lux je jednotkou samotného osvětlení."
+    ],
+    "memory": "lx · s."
+  },
+  {
+    "id": 414,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 1 · str. 53",
+    "sourcePages": "53",
+    "sourceItem": "1",
+    "question": "Jakou velikost má atom libovolného prvku v základním stavu?",
+    "options": [
+      "asi 1 nm",
+      "řádově stejnou jako atom vodíku, asi 0,1 nm",
+      "asi 10 nm",
+      "asi desetkrát větší než jeho jádro"
+    ],
+    "answer": 1,
+    "title": "řádově stejnou jako atom vodíku, asi 0,1 nm",
+    "paragraphs": [
+      "Atomy různých prvků mají poloměr řádově 10⁻¹⁰ m. S přibývajícími elektrony roste i náboj jádra, který obal stahuje, proto se velikost liší jen málo. Jádro je asi 100 000krát menší než atom."
+    ],
+    "memory": "Atom ≈ 0,1 nm, jádro ≈ 10⁻¹⁵ m."
+  },
+  {
+    "id": 415,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 2 · str. 53",
+    "sourcePages": "53",
+    "sourceItem": "2",
+    "question": "Která trojice obsahuje pouze částice, jejichž dráhu lze snadno změnit elektrickým polem?",
+    "options": [
+      "proton, elektron, foton",
+      "elektron, foton, mezon",
+      "elektron, proton, částice alfa",
+      "neutron, proton, elektron"
+    ],
+    "answer": 2,
+    "title": "elektron, proton, částice alfa",
+    "paragraphs": [
+      "Elektrickým polem lze vychýlit jen nabité částice. Foton a neutron náboj nemají."
+    ],
+    "memory": "Bez náboje = bez vychýlení."
+  },
+  {
+    "id": 416,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 3 · str. 53",
+    "sourcePages": "53",
+    "sourceItem": "3",
+    "question": "Která z uvedených částic změní dráhu působením magnetického pole (bez ohledu na spin)?",
+    "options": [
+      "neutron",
+      "neutrino",
+      "foton",
+      "proton"
+    ],
+    "answer": 3,
+    "title": "proton",
+    "paragraphs": [
+      "Na pohybující se náboj působí Lorentzova síla. Proton je nabitý, neutron, neutrino ani foton náboj nemají."
+    ],
+    "memory": "Lorentzova síla jen na náboj."
+  },
+  {
+    "id": 417,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 5 · str. 53",
+    "sourcePages": "53",
+    "sourceItem": "5",
+    "question": "Která z uvedených částic nemůže být vychylována elektrickým polem?",
+    "options": [
+      "neutrino",
+      "částice beta",
+      "proton",
+      "částice alfa"
+    ],
+    "answer": 0,
+    "title": "neutrino",
+    "paragraphs": [
+      "Neutrino je elektricky neutrální a s látkou interaguje jen velmi slabě. Částice beta (elektron nebo pozitron), proton i částice alfa jsou nabité."
+    ],
+    "memory": "Neutrino: bez náboje."
+  },
+  {
+    "id": 418,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 6 · str. 53",
+    "sourcePages": "53",
+    "sourceItem": "6",
+    "question": "Která z uvedených částic nepatří mezi fermiony?",
+    "options": [
+      "elektron",
+      "foton",
+      "neutron",
+      "proton"
+    ],
+    "answer": 1,
+    "title": "foton",
+    "paragraphs": [
+      "Fermiony mají poločíselný spin a řídí se Pauliho principem: elektrony, protony, neutrony, kvarky. Foton má spin 1 a je boson."
+    ],
+    "memory": "Látka = fermiony, foton = boson."
+  },
+  {
+    "id": 419,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 7 · str. 53",
+    "sourcePages": "53",
+    "sourceItem": "7",
+    "question": "Která z uvedených částic není hadron?",
+    "options": [
+      "proton",
+      "neutron",
+      "lepton (například elektron)",
+      "mezon"
+    ],
+    "answer": 2,
+    "title": "lepton (například elektron)",
+    "paragraphs": [
+      "Hadrony jsou částice složené z kvarků: baryony (proton, neutron) a mezony. Leptony, jako elektron nebo neutrino, kvarky neobsahují."
+    ],
+    "memory": "Hadron = z kvarků."
+  },
+  {
+    "id": 420,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 8 · str. 53",
+    "sourcePages": "53",
+    "sourceItem": "8",
+    "question": "Která z uvedených částic má klidovou hmotnost větší než proton?",
+    "options": [
+      "elektron",
+      "mezon π",
+      "neutrino",
+      "neutron"
+    ],
+    "answer": 3,
+    "title": "neutron",
+    "paragraphs": [
+      "Neutron je jen nepatrně těžší než proton (asi o 0,14 %). Proto se volný neutron samovolně přeměňuje na proton, elektron a antineutrino."
+    ],
+    "memory": "Neutron o chlup těžší než proton."
+  },
+  {
+    "id": 421,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 9 · str. 53",
+    "sourcePages": "53",
+    "sourceItem": "9",
+    "question": "Která z uvedených částic má klidovou hmotnost menší než elektron?",
+    "options": [
+      "neutrino",
+      "pozitron",
+      "mezon",
+      "proton"
+    ],
+    "answer": 0,
+    "title": "neutrino",
+    "paragraphs": [
+      "Neutrina mají nepatrnou, ale nenulovou klidovou hmotnost, mnohem menší než elektron. Pozitron má hmotnost stejnou jako elektron."
+    ],
+    "memory": "Neutrino = téměř bez hmotnosti."
+  },
+  {
+    "id": 422,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 11 · str. 53",
+    "sourcePages": "53",
+    "sourceItem": "11",
+    "question": "Jaká je hybnost fotonu o vlnové délce λ?",
+    "options": [
+      "h · λ",
+      "h/λ",
+      "nulová",
+      "h · f · λ"
+    ],
+    "answer": 1,
+    "title": "h/λ",
+    "paragraphs": [
+      "Foton nemá klidovou hmotnost, přesto nese hybnost p = h/λ = h · f/c. Proto světlo vyvíjí na plochy nepatrný tlak."
+    ],
+    "memory": "p = h/λ."
+  },
+  {
+    "id": 423,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 12 · str. 53",
+    "sourcePages": "53",
+    "sourceItem": "12",
+    "question": "Která částice má při stejné rychlosti nejkratší de Broglieovu vlnovou délku?",
+    "options": [
+      "elektron",
+      "neutron",
+      "atom uranu 235",
+      "atom helia"
+    ],
+    "answer": 2,
+    "title": "atom uranu 235",
+    "paragraphs": [
+      "λ = h/(m · v). Při stejné rychlosti má nejkratší vlnovou délku částice s největší hmotností."
+    ],
+    "memory": "Těžší = kratší vlna."
+  },
+  {
+    "id": 424,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 14 · str. 54",
+    "sourcePages": "54",
+    "sourceItem": "14",
+    "question": "Čemu se rovná de Broglieova vlnová délka částice?",
+    "options": [
+      "součinu Planckovy konstanty a hybnosti",
+      "podílu Planckovy konstanty a hmotnosti",
+      "nezávisí na hmotnosti částice",
+      "podílu Planckovy konstanty a hybnosti částice"
+    ],
+    "answer": 3,
+    "title": "podílu Planckovy konstanty a hybnosti částice",
+    "paragraphs": [
+      "λ = h/p = h/(m · v). Vlnové vlastnosti elektronů se využívají v elektronovém mikroskopu, protože jejich vlnová délka je mnohem kratší než u světla."
+    ],
+    "memory": "λ = h/p."
+  },
+  {
+    "id": 425,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 15 · str. 54",
+    "sourcePages": "54",
+    "sourceItem": "15",
+    "question": "Která z uvedených částic je složena z kvarků?",
+    "options": [
+      "neutron",
+      "elektron",
+      "neutrino",
+      "částice beta"
+    ],
+    "answer": 0,
+    "title": "neutron",
+    "paragraphs": [
+      "Neutron tvoří tři kvarky (jeden u a dva d), proton dva u a jeden d. Elektron, neutrino i částice beta (elektron nebo pozitron) jsou leptony."
+    ],
+    "memory": "Nukleony = 3 kvarky."
+  },
+  {
+    "id": 426,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 17 · str. 54",
+    "sourcePages": "54",
+    "sourceItem": "17",
+    "question": "Co je rentgenové záření?",
+    "options": [
+      "proud rychlých elektronů",
+      "elektromagnetické záření o vlnové délce zhruba pod 10 nm",
+      "proud rychlých iontů",
+      "elektromagnetické záření o vlnové délce nad 10 nm"
+    ],
+    "answer": 1,
+    "title": "elektromagnetické záření o vlnové délce zhruba pod 10 nm",
+    "paragraphs": [
+      "Rentgenové záření je elektromagnetické vlnění s vlnovými délkami asi od 10 nm do 0,001 nm, kratšími než ultrafialové. Rychlé elektrony ho v rentgence teprve vyvolávají."
+    ],
+    "memory": "RTG = krátkovlnné EM záření."
+  },
+  {
+    "id": 427,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 19 · str. 54",
+    "sourcePages": "54",
+    "sourceItem": "19",
+    "question": "Jakou povahu má takzvané tepelné záření?",
+    "options": [
+      "mechanických vibrací atomů",
+      "elektronovou",
+      "elektromagnetickou",
+      "stejnou jako zvuk"
+    ],
+    "answer": 2,
+    "title": "elektromagnetickou",
+    "paragraphs": [
+      "Tepelné záření je elektromagnetické vlnění, u běžných teplot hlavně infračervené. Šíří se i vakuem, proto Slunce ohřívá Zemi."
+    ],
+    "memory": "Sálání = EM záření."
+  },
+  {
+    "id": 428,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 20 · str. 54",
+    "sourcePages": "54",
+    "sourceItem": "20",
+    "question": "Čím se od sebe liší izotopy uranu?",
+    "options": [
+      "počtem protonů v jádře",
+      "počtem elektronů v obalu",
+      "skupenstvím",
+      "počtem neutronů v jádře"
+    ],
+    "answer": 3,
+    "title": "počtem neutronů v jádře",
+    "paragraphs": [
+      "Izotopy mají stejné protonové číslo (u uranu 92), a proto stejné chemické vlastnosti. Liší se nukleonovým číslem, tedy počtem neutronů (²³⁵U má 143, ²³⁸U 146)."
+    ],
+    "memory": "Izotop: stejné Z, jiné N."
+  },
+  {
+    "id": 429,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 21 · str. 54",
+    "sourcePages": "54",
+    "sourceItem": "21",
+    "question": "Počet neutronů v jádře vzrostl o jeden, aniž se změnil celkový počet nukleonů. Jakým mechanismem?",
+    "options": [
+      "emisí pozitronu",
+      "emisí elektronu",
+      "zachycením neutronu",
+      "emisí částice alfa"
+    ],
+    "answer": 0,
+    "title": "emisí pozitronu",
+    "paragraphs": [
+      "Při přeměně β⁺ se proton mění na neutron, pozitron a neutrino. Počet nukleonů zůstává, protonů ubude a neutronů přibude po jednom. Zachycení neutronu by zvýšilo i počet nukleonů."
+    ],
+    "memory": "β⁺: p → n."
+  },
+  {
+    "id": 430,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 22 · str. 54",
+    "sourcePages": "54",
+    "sourceItem": "22",
+    "question": "Radionuklid má poločas přeměny 4 dny. Na kolik klesne jeho aktivita po 16 dnech?",
+    "options": [
+      "na jednu čtvrtinu",
+      "na jednu šestnáctinu",
+      "na jednu osminu",
+      "na nulu"
+    ],
+    "answer": 1,
+    "title": "na jednu šestnáctinu",
+    "paragraphs": [
+      "16 dní jsou čtyři poločasy. Aktivita klesne na (1/2)⁴ = 1/16 původní hodnoty. Na nulu neklesne nikdy, pokles je exponenciální."
+    ],
+    "memory": "n poločasů = (1/2)ⁿ."
+  },
+  {
+    "id": 431,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 25 · str. 55",
+    "sourcePages": "55",
+    "sourceItem": "25",
+    "question": "Počet protonů v jádře vzrostl o jeden, aniž se změnil celkový počet nukleonů. Jakým mechanismem?",
+    "options": [
+      "emisí pozitronu",
+      "zachycením protonu",
+      "emisí elektronu",
+      "emisí částice alfa"
+    ],
+    "answer": 2,
+    "title": "emisí elektronu",
+    "paragraphs": [
+      "Při přeměně β⁻ se neutron mění na proton, elektron a antineutrino. Prvek se posune o jedno místo doprava v periodické soustavě."
+    ],
+    "memory": "β⁻: n → p."
+  },
+  {
+    "id": 432,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: názvosloví a izomerie",
+    "bookRef": "LF MU · Chemie · Organická chemie: názvosloví a izomerie 9 · str. 90",
+    "sourcePages": "90",
+    "sourceItem": "9",
+    "question": "Pro jaký zbytek je alternativním názvem vinylen?",
+    "options": [
+      "ethenyl, CH₂=CH−",
+      "ethyliden, CH₃−CH=",
+      "ethan-1,2-diyl, −CH₂−CH₂−",
+      "ethen-1,2-diyl, −CH=CH−"
+    ],
+    "answer": 3,
+    "title": "ethen-1,2-diyl, −CH=CH−",
+    "paragraphs": [
+      "Vinylen je dvojvazný zbytek ethenu, ve kterém každý z uhlíků dvojné vazby ztratil jeden vodík. Jednovazný CH₂=CH− je vinyl."
+    ],
+    "memory": "Vinyl jednovazný, vinylen dvojvazný."
+  },
+  {
+    "id": 433,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: názvosloví a izomerie",
+    "bookRef": "LF MU · Chemie · Organická chemie: názvosloví a izomerie 14 · str. 90",
+    "sourcePages": "90",
+    "sourceItem": "14",
+    "question": "Jak se nazývá sloučenina C₆H₅−O−CH₂−COOH?",
+    "options": [
+      "fenoxyoctová kyselina",
+      "fenyloctová kyselina",
+      "fenyl-acetát",
+      "fenyl(acetyl)ether"
+    ],
+    "answer": 0,
+    "title": "fenoxyoctová kyselina",
+    "paragraphs": [
+      "Fenyl je na kyselinu octovou vázán přes kyslík, tedy jako fenoxyskupina C₆H₅−O−. Fenyloctová kyselina je C₆H₅−CH₂−COOH a fenyl-acetát ester CH₃−CO−O−C₆H₅."
+    ],
+    "memory": "Přes kyslík = fenoxy."
+  },
+  {
+    "id": 434,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: názvosloví a izomerie",
+    "bookRef": "LF MU · Chemie · Organická chemie: názvosloví a izomerie 16 · str. 90",
+    "sourcePages": "90",
+    "sourceItem": "16",
+    "question": "Jak se nazývá sloučenina CH₃−CO−O−CH₂CH₂CH₂CH₃?",
+    "options": [
+      "methyl-butyrát",
+      "butyl-acetát",
+      "butyl(methyl)keton",
+      "acetyl(butyl)ether"
+    ],
+    "answer": 1,
+    "title": "butyl-acetát",
+    "paragraphs": [
+      "Acylová část CH₃−CO− pochází z kyseliny octové, alkoholová část je butyl. Jde o ester butyl-acetát. Methyl-butyrát by byl CH₃CH₂CH₂−CO−O−CH₃."
+    ],
+    "memory": "Ester: alkyl-(kyselina)át."
+  },
+  {
+    "id": 435,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: názvosloví a izomerie",
+    "bookRef": "LF MU · Chemie · Organická chemie: názvosloví a izomerie 18 · str. 91",
+    "sourcePages": "91",
+    "sourceItem": "18",
+    "question": "Který název je jednoznačný i bez číselných lokantů?",
+    "options": [
+      "butadien",
+      "pentanon",
+      "trichlorethen",
+      "buten"
+    ],
+    "answer": 2,
+    "title": "trichlorethen",
+    "paragraphs": [
+      "Ethen má jen dva rovnocenné uhlíky, tři chlory na nich mohou být rozmístěny jediným způsobem. Butadien může být 1,2- nebo 1,3-, pentanon 2- nebo 3-, buten 1- nebo 2-."
+    ],
+    "memory": "Jediná možnost = lokant netřeba."
+  },
+  {
+    "id": 436,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: názvosloví a izomerie",
+    "bookRef": "LF MU · Chemie · Organická chemie: názvosloví a izomerie 19 · str. 91",
+    "sourcePages": "91",
+    "sourceItem": "19",
+    "question": "Který z uvedených názvů nepotřebuje k jednoznačnosti číselné lokanty?",
+    "options": [
+      "propanol",
+      "chlorbutadien",
+      "trichlorethan",
+      "propen"
+    ],
+    "answer": 3,
+    "title": "propen",
+    "paragraphs": [
+      "U propenu je dvojná vazba vždy mezi C1 a C2. Propanol může být propan-1-ol nebo propan-2-ol, trichlorethan 1,1,1- nebo 1,1,2-."
+    ],
+    "memory": "Propen má jedinou polohu dvojné vazby."
+  },
+  {
+    "id": 437,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: názvosloví a izomerie",
+    "bookRef": "LF MU · Chemie · Organická chemie: názvosloví a izomerie 20 · str. 91",
+    "sourcePages": "91",
+    "sourceItem": "20",
+    "question": "Kolik konstitučních izomerů odpovídá vzorci C₄H₈?",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": 0,
+    "title": "5",
+    "paragraphs": [
+      "But-1-en, but-2-en, 2-methylpropen, cyklobutan a methylcyklopropan. Cis- a trans-but-2-en mají stejnou konstituci, liší se jen konfigurací."
+    ],
+    "memory": "Alkeny i cykloalkany CₙH₂ₙ."
+  },
+  {
+    "id": 438,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: názvosloví a izomerie",
+    "bookRef": "LF MU · Chemie · Organická chemie: názvosloví a izomerie 21 · str. 91",
+    "sourcePages": "91",
+    "sourceItem": "21",
+    "question": "Který z uvedených uhlovodíků je konstitučním izomerem cyklobutanu?",
+    "options": [
+      "buta-1,3-dien",
+      "but-2-en",
+      "cyklobuten",
+      "methylcyklobutan"
+    ],
+    "answer": 1,
+    "title": "but-2-en",
+    "paragraphs": [
+      "Cyklobutan má vzorec C₄H₈ stejně jako buteny. Buta-1,3-dien a cyklobuten mají C₄H₆, methylcyklobutan C₅H₁₀."
+    ],
+    "memory": "Cykloalkan = izomer alkenu."
+  },
+  {
+    "id": 439,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: názvosloví a izomerie",
+    "bookRef": "LF MU · Chemie · Organická chemie: názvosloví a izomerie 22 · str. 91",
+    "sourcePages": "91",
+    "sourceItem": "22",
+    "question": "Který z uvedených uhlovodíků je konstitučním izomerem cyklohexenu?",
+    "options": [
+      "1,3-dimethylcyklobutan",
+      "2-methylpent-1-en",
+      "hexa-2,4-dien",
+      "methylcyklopentan"
+    ],
+    "answer": 2,
+    "title": "hexa-2,4-dien",
+    "paragraphs": [
+      "Cyklohexen C₆H₁₀ má jeden kruh a jednu dvojnou vazbu, stejný vzorec má dien se dvěma dvojnými vazbami. Ostatní látky mají vzorec C₆H₁₂."
+    ],
+    "memory": "Kruh = jedna dvojná vazba navíc."
+  },
+  {
+    "id": 440,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: názvosloví a izomerie",
+    "bookRef": "LF MU · Chemie · Organická chemie: názvosloví a izomerie 25 · str. 91",
+    "sourcePages": "91",
+    "sourceItem": "25",
+    "question": "Která z uvedených látek není konstitučním izomerem methylcyklopropanu?",
+    "options": [
+      "but-2-en",
+      "cyklobutan",
+      "2-methylpropen",
+      "cyklobuten"
+    ],
+    "answer": 3,
+    "title": "cyklobuten",
+    "paragraphs": [
+      "Methylcyklopropan má vzorec C₄H₈ stejně jako cyklobutan, buteny i methylpropen. Cyklobuten má kruh i dvojnou vazbu, vzorec C₄H₆."
+    ],
+    "memory": "Spočítej H: C₄H₈ vs. C₄H₆."
+  },
+  {
+    "id": 441,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: názvosloví a izomerie",
+    "bookRef": "LF MU · Chemie · Organická chemie: názvosloví a izomerie 27 · str. 91",
+    "sourcePages": "91",
+    "sourceItem": "27",
+    "question": "Který z uvedených uhlovodíků je konstitučním izomerem xylenu?",
+    "options": [
+      "ethylbenzen",
+      "styren",
+      "okta-1,3,5-trien",
+      "2-methylhepta-3,5-dien"
+    ],
+    "answer": 0,
+    "title": "ethylbenzen",
+    "paragraphs": [
+      "Xyleny (dimethylbenzeny) i ethylbenzen mají vzorec C₈H₁₀. Styren je C₈H₈, oktatrien C₈H₁₂ a methylheptadien C₈H₁₄."
+    ],
+    "memory": "Dva methyly = jeden ethyl."
+  },
+  {
+    "id": 442,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: názvosloví a izomerie",
+    "bookRef": "LF MU · Chemie · Organická chemie: názvosloví a izomerie 28 · str. 91",
+    "sourcePages": "91",
+    "sourceItem": "28",
+    "question": "Kolik polohových izomerů existuje u tribrombenzenu?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 1,
+    "title": "3",
+    "paragraphs": [
+      "Tři substituenty na benzenu mohou být v polohách 1,2,3 (vicinální), 1,2,4 (asymetrický) a 1,3,5 (symetrický). Jiná rozmístění jsou s těmito totožná."
+    ],
+    "memory": "Trisubstituovaný benzen se stejnými skupinami: 3."
+  },
+  {
+    "id": 443,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: názvosloví a izomerie",
+    "bookRef": "LF MU · Chemie · Organická chemie: názvosloví a izomerie 29 · str. 91",
+    "sourcePages": "91",
+    "sourceItem": "29",
+    "question": "Kolik polohových izomerů existuje u tetrachlorbenzenu?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "6"
+    ],
+    "answer": 2,
+    "title": "3",
+    "paragraphs": [
+      "Čtyři chlory odpovídají dvěma zbylým vodíkům a ty mohou být v poloze ortho, meta nebo para. Izomery jsou 1,2,3,4-, 1,2,3,5- a 1,2,4,5-tetrachlorbenzen."
+    ],
+    "memory": "Počítej zbylé vodíky jako disubstituci."
+  },
+  {
+    "id": 444,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: názvosloví a izomerie",
+    "bookRef": "LF MU · Chemie · Organická chemie: názvosloví a izomerie 30 · str. 91",
+    "sourcePages": "91",
+    "sourceItem": "30",
+    "question": "Kolik polohových izomerů pentachlorbenzenu může vzniknout chlorací benzenu?",
+    "options": [
+      "dva",
+      "tři",
+      "šest",
+      "jeden"
+    ],
+    "answer": 3,
+    "title": "jeden",
+    "paragraphs": [
+      "Na jádře zbývá jediný vodík a všech šest poloh benzenu je rovnocenných, proto existuje jen jeden pentachlorbenzen."
+    ],
+    "memory": "Jeden zbylý H = jedna možnost."
+  },
+  {
+    "id": 445,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: názvosloví a izomerie",
+    "bookRef": "LF MU · Chemie · Organická chemie: názvosloví a izomerie 31 · str. 91",
+    "sourcePages": "91",
+    "sourceItem": "31",
+    "question": "Kolik polohových izomerů mají dihydroxybenzoové kyseliny?",
+    "options": [
+      "6",
+      "3",
+      "4",
+      "8"
+    ],
+    "answer": 0,
+    "title": "6",
+    "paragraphs": [
+      "Karboxyl je v poloze 1, dvě skupiny OH lze umístit do poloh 2,3; 2,4; 2,5; 2,6; 3,4 a 3,5. Ostatní kombinace jsou s nimi totožné."
+    ],
+    "memory": "COOH pevně, dvě OH na 5 místech."
+  },
+  {
+    "id": 446,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: názvosloví a izomerie",
+    "bookRef": "LF MU · Chemie · Organická chemie: názvosloví a izomerie 33 · str. 92",
+    "sourcePages": "92",
+    "sourceItem": "33",
+    "question": "Která z uvedených látek je konstitučním izomerem glyceraldehydu?",
+    "options": [
+      "2-hydroxypropenal",
+      "kyselina mléčná",
+      "hydroxyaceton",
+      "kyselina propanová"
+    ],
+    "answer": 1,
+    "title": "kyselina mléčná",
+    "paragraphs": [
+      "Glyceraldehyd HOCH₂−CH(OH)−CHO i kyselina mléčná CH₃−CH(OH)−COOH mají vzorec C₃H₆O₃. Hydroxyaceton a kyselina propanová mají C₃H₆O₂, 2-hydroxypropenal C₃H₄O₂."
+    ],
+    "memory": "Spočítej kyslíky a vodíky."
+  },
+  {
+    "id": 447,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: názvosloví a izomerie",
+    "bookRef": "LF MU · Chemie · Organická chemie: názvosloví a izomerie 36 · str. 92",
+    "sourcePages": "92",
+    "sourceItem": "36",
+    "question": "Která z uvedených látek je konstitučním izomerem hydroxyacetonu?",
+    "options": [
+      "glyceraldehyd",
+      "2-methoxyethanol",
+      "ethyl-formiát",
+      "kyselina mléčná"
+    ],
+    "answer": 2,
+    "title": "ethyl-formiát",
+    "paragraphs": [
+      "Hydroxyaceton CH₃−CO−CH₂OH i ethyl-formiát HCOO−C₂H₅ mají vzorec C₃H₆O₂. Glyceraldehyd a kyselina mléčná mají C₃H₆O₃, methoxyethanol C₃H₈O₂."
+    ],
+    "memory": "C₃H₆O₂: ester, kyselina i hydroxyketon."
+  },
+  {
+    "id": 448,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: názvosloví a izomerie",
+    "bookRef": "LF MU · Chemie · Organická chemie: názvosloví a izomerie 38 · str. 92",
+    "sourcePages": "92",
+    "sourceItem": "38",
+    "question": "Která z uvedených látek je konstitučním izomerem methyl-acetátu?",
+    "options": [
+      "dihydroxyaceton",
+      "propenal",
+      "propan-1-ol",
+      "kyselina propionová"
+    ],
+    "answer": 3,
+    "title": "kyselina propionová",
+    "paragraphs": [
+      "Methyl-acetát CH₃−CO−O−CH₃ i kyselina propionová CH₃CH₂COOH mají vzorec C₃H₆O₂. Estery a karboxylové kyseliny se stejným počtem uhlíků jsou navzájem izomery."
+    ],
+    "memory": "Ester ↔ kyselina: stejný vzorec."
+  },
+  {
+    "id": 449,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: názvosloví a izomerie",
+    "bookRef": "LF MU · Chemie · Organická chemie: názvosloví a izomerie 45 · str. 92",
+    "sourcePages": "92",
+    "sourceItem": "45",
+    "question": "Co je racemát?",
+    "options": [
+      "ekvimolární směs enantiomerů téže sloučeniny",
+      "vodný výluh přírodních rostlinných látek",
+      "směs solí kyseliny vinné",
+      "suspenze krystalů v matečném louhu"
+    ],
+    "answer": 0,
+    "title": "ekvimolární směs enantiomerů téže sloučeniny",
+    "paragraphs": [
+      "V racemátu jsou oba enantiomery zastoupeny stejným dílem. Jejich otáčení roviny polarizovaného světla se vyruší, takže racemát je opticky neaktivní."
+    ],
+    "memory": "Racemát: 50 : 50, optická aktivita 0."
+  },
+  {
+    "id": 450,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: názvosloví a izomerie",
+    "bookRef": "LF MU · Chemie · Organická chemie: názvosloví a izomerie 46 · str. 93",
+    "sourcePages": "93",
+    "sourceItem": "46",
+    "question": "Co může vznikat rotací částí molekuly kolem jednoduchých vazeb C−C?",
+    "options": [
+      "konstituční izomery",
+      "různé konformace",
+      "optické izomery",
+      "tautomery"
+    ],
+    "answer": 1,
+    "title": "různé konformace",
+    "paragraphs": [
+      "Kolem jednoduché vazby σ se části molekuly mohou volně otáčet, aniž se vazby štěpí. Vznikají tak konformace, například zákrytová a nezákrytová u ethanu."
+    ],
+    "memory": "Otáčení = konformace."
+  }
+]
