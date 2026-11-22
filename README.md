@@ -1,8 +1,14 @@
 # Studijní kvízy
 
-Verze 2.73.0 • 22. 11. 2026
+Verze 2.74.0 • 22. 11. 2026
 
 Somatologie (630), Biologie (900), České Budějovice (683), Modelové testové otázky k přijímacím zkouškám na LF MU (769) a Modelové otázky 2. LF UK – Univerzita Karlova (737). Samostatný soubor HTML funguje offline. Všechny předměty mají chytré procvičování, opakování chyb a tipů a test celé sady.
+
+## Formát odpovědí podle zkoušky
+
+Od verze 2.74.0 odpovídá formát otázek skutečným přijímacím zkouškám. LF MU: každá otázka má pátou možnost E „Žádná odpověď není správná“ a správná je nejvýš jedna odpověď. Univerzita Karlova (2. LF UK): odpovědi se zaškrtávají, správných může být více, jedna i žádná a hodnotí se přesná shoda po kliknutí na Vyhodnotit odpověď. Ostatní předměty mají dál jednu správnou odpověď.
+
+Nové otázky UK s více správnými odpověďmi mají v JSON pole `answers` (seřazené indexy). Otázky LF MU s klíčem „žádná“ mají `answer: 4` a `title` „Žádná odpověď není správná“. Uložený výběr u zaškrtávání je `16 + bitová maska`, takže starší uložené odpovědi (index 0–3), tipy, rozpracovaná kola i zálohy zůstávají platné bez migrace. Ověřuje to test přechodu z verze 2.73.0 v `work/check.cjs` (fixture `work/fixtures/2.73.0.html.gz`).
 
 ## Vzhled
 

@@ -8,7 +8,7 @@ SOURCES=('<summary>O otázkách a zdrojích</summary>'
  '<ul><li>Evžen Amler a kol.: <em>Modelové otázky z fyziky pro přijímací zkoušky</em>, 8. vydání, 2023, ISBN 978-80-246-5740-0. K dispozici je ukázka (kapitola Základní pojmy a začátek Mechaniky I) bez klíče, odpovědi jsou ověřené výpočtem.</li>'
  '<li>Petr Blanický, Václav Pelouch: <em>Modelové otázky z chemie pro přijímací zkoušky</em>, 7. vydání, 2019, ISBN 978-80-246-4441-7.</li>'
  '<li>Eduard Kočárek a kol.: <em>Modelové otázky z biologie pro přijímací zkoušky</em>, 7. vydání, 2019, ISBN 978-80-246-4443-1.</li></ul>'
- '<p>V původních testech může být správných i více odpovědí. Otázky jsou proto přeformulované tak, aby měly právě jednu správnou odpověď. U každé otázky je kapitola, číslo úlohy (u chemie pořadí otázky na stránce) a tištěná strana.</p>')
+ '<p>Stejně jako u přijímací zkoušky na 2. LF UK může být správných více odpovědí, jedna, nebo žádná. Zaškrtni všechny správné a pak odpověď vyhodnoť. Za správnou se počítá jen přesná shoda. U každé otázky je kapitola, číslo úlohy (u chemie pořadí otázky na stránce) a tištěná strana.</p>')
 
 def integrate(s, root):
     bank=[]
@@ -21,7 +21,7 @@ def integrate(s, root):
         nonlocal s
         assert s.count(old)==1,old
         s=s.replace(old,new,1)
-    replace('const SUBJECTS={', 'const UK_QUESTIONS='+json.dumps(bank,ensure_ascii=False)+';\nconst UK_TOPICS='+json.dumps(topics,ensure_ascii=False)+';\nconst SUBJECTS={\n uk:{name:"Univerzita Karlova",questions:UK_QUESTIONS,key:"uk-learning-v2",context:"Modelové otázky 2. LF UK z fyziky, chemie a biologie. Vyber všechny předměty nebo jeden z nich."},')
+    replace('const SUBJECTS={', 'const UK_QUESTIONS='+json.dumps(bank,ensure_ascii=False)+';\nconst UK_TOPICS='+json.dumps(topics,ensure_ascii=False)+';\nconst SUBJECTS={\n uk:{name:"Univerzita Karlova",questions:UK_QUESTIONS,key:"uk-learning-v2",context:"Modelové otázky 2. LF UK z fyziky, chemie a biologie. Jako u zkoušky může být správných více odpovědí. Vyber všechny předměty nebo jeden z nich."},')
     replace('  </div>\n  <div id="subjectPanel"',f'    <button type="button" id="tab-uk" class="subject-tab uk-tab" role="tab" aria-selected="false" aria-controls="subjectPanel" tabindex="-1" title="{TITLE}">Univerzita Karlova<small>Modelové otázky · {len(bank)}</small></button>\n  </div>\n  <div id="subjectPanel"')
     replace('  <section class="intro">',f'  <div id="ukPicker" class="school-picker" hidden><label for="ukSection">Předmět Univerzita Karlova</label><select id="ukSection"><option value="all">Všechny otázky · {len(bank)}</option></select></div>\n  <section class="intro">')
     replace("const isMuni=activeSubject==='muni';", "const isMuni=activeSubject==='muni';\n const isUk=activeSubject==='uk';")
