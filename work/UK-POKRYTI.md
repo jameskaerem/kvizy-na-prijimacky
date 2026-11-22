@@ -158,6 +158,23 @@ Nepřidané položky:
 - Chemie str. 126–139: 126/1, 126/2, 128/6, 129/1, 129/3, 129/4, 134/3, 135/6, 136/1, 136/2 (vzorce jen jako obrázek), 126/4 (homologická řada, triviální), 126/5 a 131/3 (dva názvy CCl₄), 127/3 (formulace „téměř vždy“), 127/5 (varianta 304), 128/2 (vinyl, varianta 306), 128/3 (alkyly butanu, varianta 307), 128/5, 133/2, 133/4, 133/5 (adice bromu, UK 267 a 321), 130/1 (varianta 267), 130/4 (cyklohexan zařazen mezi alkany, sporné), 130/6 (freony, varianta 311), 131/1, 131/2 (nasycené vzorce, varianta 309; 131/2 má dvě stejné možnosti), 132/2 (nejjednodušší alken, triviální), 132/5 (CₙH₂ₙ, ve vysvětlení 309), 133/1, 133/3, 135/2 (hydrogenace na alkan, triviální), 134/1 (varianta 319), 135/3 („kolik vazeb“ nejednoznačné), 135/5 (klíč „vinylalkohol“ je jen nestálý meziprodukt, tautomerie v UK 276), 137/3 (acetofenon, žádná možnost nesedí), 137/4 (toluen aromatický, triviální), 138/2 (homologická řada benzenu, triviální), 138/5 (mononitrací toluenu nevzniká TNT, zadání nejednoznačné), 139/1 (o-xylen, varianta 333), 139/2 (výroba styrenu, ve vysvětlení 328 jen vzorec), 139/4–139/6 (kondenzované areny, varianty 334; 139/4 a 139/5 mají dvě správné možnosti).
 - Biologie 473–515: 473 (HIV a pomocné T lymfocyty, BIO 828), 474 (reverzní transkriptáza, LF MU 88), 475, 477, 490 (složení virionu, UK 300 a SOM 12), 476 (bakteriofág, UK 88), 478, 479 (viry a virová onemocnění, UK 299), 480 (prokaryota, UK 298), 483 (výživa bakterií, triviální), 485 (bakteriofág, UK 88), 489 (stafylokoky, ve vysvětlení 340), 492 (produkty fotosyntézy, voda jen v rozepsané rovnici, nejednoznačné), 493 (plazmolýza, LF MU 91), 494 (námel, dvě správné možnosti), 496, 498–500 (pigmenty a fáze fotosyntézy, více správných možností, pro další dávku), 502 (plastidy, UK 44), 503, 504, 506, 509, 510, 513, 514 (více správných možností, pro další dávku).
 
+## Dávka ID 351–400 (v2.57.0)
+
+Soubor `uk-351-400.json`, generátor `create_uk_351_400.py`. Chemie ověřena výkladem, biologie porovnána s klíčem. Otázky s více správnými možnostmi přeformulovány na jednu správnou.
+
+| Předmět | Kapitola | Použité úlohy | ID |
+|---|---|---|---|
+| Chemie | 4.5 Terpeny (str. 144–145) | str. 144/4, 145/2, 145/3, 145/4, 145/5 | 351–355 |
+| Chemie | 4.6 Alkoholy a thioly (str. 145–150) | str. 145/6, 146/3, 146/4, 146/6, 148/1–148/6, 149/1, 149/2, 149/3, 149/5, 150/2 | 356–370 |
+| Chemie | 4.7 Fenoly (str. 150–152) | str. 150/3, 150/6, 151/3, 151/4, 152/2, 151/5, 151/6 | 371–377 |
+| Chemie | 4.8 Aldehydy (str. 152) | str. 152/3, 152/6 | 378–379 |
+| Biologie | Biologie rostlin a hub (str. 113–116) | 496, 498, 500, 503, 504, 506, 509, 510, 513 | 380–388 |
+| Biologie | Biologie živočichů a protistů (str. 118–122) | 517, 519, 521, 523, 524, 525, 526, 527, 529, 532, 537, 539 | 389–400 |
+
+Nepřidané položky:
+- Chemie str. 139–152: 139/6, 140/1, 140/2 (kondenzované areny, varianta 334), 140/3, 140/4, 141/1–141/3, 142/1–142/3, 143/1–143/3, 144/1, 144/2, 147/1 (vzorce jen jako obrázek), 144/3 a 145/1 (počty isoprenů, varianty 351–352), 146/1 (varianta 356), 146/2 a 146/5 (glycerol trojsytný, ve vysvětlení 357), 149/4 (vinylalkohol a acetaldehyd, UK 276), 149/6 a 150/1 (thioly a disulfidy, varianta 370), 150/4 (varianta 371), 150/5 (dvě správné možnosti, naftoly ve 372), 151/1 (α-naftol, ve vysvětlení 372), 151/2 (dvě správné možnosti, varianta 373), 152/1 (fenoláty jako soli, ve vysvětlení 377), 152/4 a 152/5 (formaldehyd z methanolu, varianta 360).
+- Biologie 496–539: 497, 501, 505, 507, 508, 511, 512, 515 (už v dávce 301–350), 499 (fáze fotosyntézy, ve vysvětlení 381–382), 502 (plastidy semiautonomní, UK 44 a LF MU 42), 514 (dvouděložné, opak 388), 516 (okolík, ve vysvětlení 350), 518 (močovina v játrech, BIO 299), 520 (nervová trubice z ektodermu, BIO 453), 522 (toxoplazma, dvě správné možnosti, pro další dávku), 528 (původ struny hřbetní, varianta 397), 530 (okysličení krve v aortě ryb, sporný klíč), 531, 533–536, 538 (více správných možností, pro další dávku).
+
 ## Další dávky
 
-Pokračovat od ID 351. Fyzika čeká na plnou knihu. Chemie pokračuje str. 140 (kap. 4.4), biologie od otázky 516 a vrátit se k víceodpovědním 496–514. Úplné pokrytí zatím nebylo dosaženo.
+Pokračovat od ID 401. Fyzika čeká na plnou knihu. Chemie pokračuje str. 153 (kap. 4.8 Aldehydy), biologie od otázky 540 a vrátit se k víceodpovědním 522, 531, 533–536 a 538. Úplné pokrytí zatím nebylo dosaženo.

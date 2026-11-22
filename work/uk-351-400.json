@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 351,
+    "subject": "Chemie",
+    "category": "Chemie · 4.5 Terpeny (isoprenoidy)",
+    "bookRef": "UK · Chemie · 4.5 Terpeny (isoprenoidy) · str. 144, otázka 4",
+    "sourcePages": "144",
+    "sourceItem": "str. 144, otázka 4",
+    "question": "Které terpeny obsahují tři isoprenové jednotky?",
+    "options": [
+      "monoterpeny",
+      "diterpeny",
+      "seskviterpeny",
+      "triterpeny"
+    ],
+    "answer": 2,
+    "title": "seskviterpeny",
+    "paragraphs": [
+      "Isopren má 5 uhlíků. Monoterpeny mají 2 jednotky (C₁₀), seskviterpeny 3 (C₁₅), diterpeny 4 (C₂₀), triterpeny 6 (C₃₀) a tetraterpeny 8 (C₄₀)."
+    ],
+    "memory": "Seskvi = jeden a půl × monoterpen."
+  },
+  {
+    "id": 352,
+    "subject": "Chemie",
+    "category": "Chemie · 4.5 Terpeny (isoprenoidy)",
+    "bookRef": "UK · Chemie · 4.5 Terpeny (isoprenoidy) · str. 145, otázka 2",
+    "sourcePages": "145",
+    "sourceItem": "str. 145, otázka 2",
+    "question": "Kolik isoprenových jednotek obsahují triterpeny?",
+    "options": [
+      "tři",
+      "čtyři",
+      "dvě",
+      "šest"
+    ],
+    "answer": 3,
+    "title": "šest",
+    "paragraphs": [
+      "Předpona tri- se počítá v monoterpenech, které mají dvě isoprenové jednotky. Triterpen jsou tedy tři monoterpeny, 6 jednotek a 30 uhlíků. Patří sem například skvalen, předchůdce cholesterolu."
+    ],
+    "memory": "Počítej v párech isoprenů."
+  },
+  {
+    "id": 353,
+    "subject": "Chemie",
+    "category": "Chemie · 4.5 Terpeny (isoprenoidy)",
+    "bookRef": "UK · Chemie · 4.5 Terpeny (isoprenoidy) · str. 145, otázka 3",
+    "sourcePages": "145",
+    "sourceItem": "str. 145, otázka 3",
+    "question": "Mezi jaké látky patří karotenoidy?",
+    "options": [
+      "tetraterpeny",
+      "steroidy",
+      "alkaloidy",
+      "heterocykly"
+    ],
+    "answer": 0,
+    "title": "tetraterpeny",
+    "paragraphs": [
+      "Karotenoidy (například β-karoten) mají 40 uhlíků z osmi isoprenových jednotek. Jejich dlouhý konjugovaný řetězec pohlcuje modré světlo, proto jsou žluté až oranžové."
+    ],
+    "memory": "Karoten C₄₀ = tetraterpen."
+  },
+  {
+    "id": 354,
+    "subject": "Chemie",
+    "category": "Chemie · 4.5 Terpeny (isoprenoidy)",
+    "bookRef": "UK · Chemie · 4.5 Terpeny (isoprenoidy) · str. 145, otázka 4",
+    "sourcePages": "145",
+    "sourceItem": "str. 145, otázka 4",
+    "question": "Která z uvedených přírodních látek patří mezi terpeny (polyterpeny)?",
+    "options": [
+      "vosky",
+      "přírodní kaučuk",
+      "kolagen šlach",
+      "celulóza"
+    ],
+    "answer": 1,
+    "title": "přírodní kaučuk",
+    "paragraphs": [
+      "Přírodní kaučuk je polymer z tisíců isoprenových jednotek. Mezi terpeny patří i hlavní složky pryskyřic. Vosky jsou estery mastných kyselin, kolagen bílkovina a celulóza polysacharid."
+    ],
+    "memory": "Kaučuk = polyisopren."
+  },
+  {
+    "id": 355,
+    "subject": "Chemie",
+    "category": "Chemie · 4.5 Terpeny (isoprenoidy)",
+    "bookRef": "UK · Chemie · 4.5 Terpeny (isoprenoidy) · str. 145, otázka 5",
+    "sourcePages": "145",
+    "sourceItem": "str. 145, otázka 5",
+    "question": "Do které skupiny terpenů patří limonen?",
+    "options": [
+      "seskviterpeny",
+      "diterpeny",
+      "monoterpeny",
+      "triterpeny"
+    ],
+    "answer": 2,
+    "title": "monoterpeny",
+    "paragraphs": [
+      "Limonen C₁₀H₁₆, vonná látka citrusových slupek, je složen ze dvou isoprenových jednotek, je to tedy monoterpen. Mezi monoterpeny patří i menthol nebo kafr."
+    ],
+    "memory": "C₁₀ = monoterpen."
+  },
+  {
+    "id": 356,
+    "subject": "Chemie",
+    "category": "Chemie · 4.6 Alkoholy a thioly",
+    "bookRef": "UK · Chemie · 4.6 Alkoholy a thioly · str. 145, otázka 6",
+    "sourcePages": "145",
+    "sourceItem": "str. 145, otázka 6",
+    "question": "Může být alkohol se dvěma uhlíky v molekule sekundární?",
+    "options": [
+      "ano, záleží na poloze skupiny −OH",
+      "ano, záleží na počtu skupin −OH",
+      "ano, pokud je dvojsytný",
+      "ne, v žádném případě"
+    ],
+    "answer": 3,
+    "title": "ne, v žádném případě",
+    "paragraphs": [
+      "Sekundární alkohol má −OH na uhlíku vázaném na dva další uhlíky. Ve dvouuhlíkatém řetězci je každý uhlík vázán jen na jeden uhlík, takže alkohol může být jen primární."
+    ],
+    "memory": "Sekundární potřebuje uhlík se dvěma uhlíkatými sousedy."
+  },
+  {
+    "id": 357,
+    "subject": "Chemie",
+    "category": "Chemie · 4.6 Alkoholy a thioly",
+    "bookRef": "UK · Chemie · 4.6 Alkoholy a thioly · str. 146, otázka 3",
+    "sourcePages": "146",
+    "sourceItem": "str. 146, otázka 3",
+    "question": "Na kterých uhlících jsou v molekule glycerolu vázány skupiny −OH?",
+    "options": [
+      "na dvou primárních a na jednom sekundárním",
+      "pouze na primárních",
+      "pouze na sekundárních",
+      "pouze na terciárních"
+    ],
+    "answer": 0,
+    "title": "na dvou primárních a na jednom sekundárním",
+    "paragraphs": [
+      "Glycerol (propan-1,2,3-triol) je trojsytný alkohol HOCH₂−CH(OH)−CH₂OH. Krajní uhlíky jsou primární, prostřední sekundární."
+    ],
+    "memory": "Glycerol: primární, sekundární, primární."
+  },
+  {
+    "id": 358,
+    "subject": "Chemie",
+    "category": "Chemie · 4.6 Alkoholy a thioly",
+    "bookRef": "UK · Chemie · 4.6 Alkoholy a thioly · str. 146, otázka 4",
+    "sourcePages": "146",
+    "sourceItem": "str. 146, otázka 4",
+    "question": "Jaký alkohol je ethylenglykol?",
+    "options": [
+      "jednosytný",
+      "dvojsytný",
+      "trojsytný",
+      "aromatický"
+    ],
+    "answer": 1,
+    "title": "dvojsytný",
+    "paragraphs": [
+      "Ethylenglykol (ethan-1,2-diol) HOCH₂−CH₂OH má dvě hydroxylové skupiny. Používá se v nemrznoucích směsích a je jedovatý."
+    ],
+    "memory": "Glykol = diol."
+  },
+  {
+    "id": 359,
+    "subject": "Chemie",
+    "category": "Chemie · 4.6 Alkoholy a thioly",
+    "bookRef": "UK · Chemie · 4.6 Alkoholy a thioly · str. 146, otázka 6",
+    "sourcePages": "146",
+    "sourceItem": "str. 146, otázka 6",
+    "question": "Jaký alkohol je 2-methylpropan-2-ol?",
+    "options": [
+      "sekundární",
+      "primární",
+      "terciární",
+      "dvojsytný"
+    ],
+    "answer": 2,
+    "title": "terciární",
+    "paragraphs": [
+      "Skupina −OH je na uhlíku C2, který nese ještě methylovou skupinu a je vázán na tři další uhlíky. Takový alkohol je terciární, (CH₃)₃C−OH."
+    ],
+    "memory": "Uhlík s OH a třemi uhlíky = terciární."
+  },
+  {
+    "id": 360,
+    "subject": "Chemie",
+    "category": "Chemie · 4.6 Alkoholy a thioly",
+    "bookRef": "UK · Chemie · 4.6 Alkoholy a thioly · str. 148, otázka 1",
+    "sourcePages": "148",
+    "sourceItem": "str. 148, otázka 1",
+    "question": "Která látka vzniká dehydrogenací (oxidací) methanolu?",
+    "options": [
+      "acetaldehyd",
+      "aceton",
+      "kyselina octová",
+      "formaldehyd"
+    ],
+    "answer": 3,
+    "title": "formaldehyd",
+    "paragraphs": [
+      "Odštěpením dvou vodíků z primárního alkoholu CH₃OH vzniká aldehyd HCHO, formaldehyd (methanal). Jeho vodný roztok je formalín."
+    ],
+    "memory": "Methanol → methanal."
+  },
+  {
+    "id": 361,
+    "subject": "Chemie",
+    "category": "Chemie · 4.6 Alkoholy a thioly",
+    "bookRef": "UK · Chemie · 4.6 Alkoholy a thioly · str. 148, otázka 2",
+    "sourcePages": "148",
+    "sourceItem": "str. 148, otázka 2",
+    "question": "Co může vzniknout oxidací ethanolu?",
+    "options": [
+      "acetaldehyd",
+      "aceton",
+      "formaldehyd",
+      "kyselina propionová"
+    ],
+    "answer": 0,
+    "title": "acetaldehyd",
+    "paragraphs": [
+      "Primární alkohol se oxiduje nejprve na aldehyd, ethanol tedy na acetaldehyd (ethanal), a dále až na kyselinu octovou. Stejná cesta probíhá i v játrech při odbourávání alkoholu."
+    ],
+    "memory": "Ethanol → ethanal → kyselina octová."
+  },
+  {
+    "id": 362,
+    "subject": "Chemie",
+    "category": "Chemie · 4.6 Alkoholy a thioly",
+    "bookRef": "UK · Chemie · 4.6 Alkoholy a thioly · str. 148, otázka 3",
+    "sourcePages": "148",
+    "sourceItem": "str. 148, otázka 3",
+    "question": "Co vzniká oxidací propan-2-olu?",
+    "options": [
+      "propanal",
+      "aceton",
+      "kyselina propionová",
+      "acetaldehyd"
+    ],
+    "answer": 1,
+    "title": "aceton",
+    "paragraphs": [
+      "Sekundární alkohol se oxiduje na keton. Z CH₃−CH(OH)−CH₃ vzniká propanon, tedy aceton."
+    ],
+    "memory": "Sekundární alkohol → keton."
+  },
+  {
+    "id": 363,
+    "subject": "Chemie",
+    "category": "Chemie · 4.6 Alkoholy a thioly",
+    "bookRef": "UK · Chemie · 4.6 Alkoholy a thioly · str. 148, otázka 4",
+    "sourcePages": "148",
+    "sourceItem": "str. 148, otázka 4",
+    "question": "Co může vzniknout oxidací propan-1-olu?",
+    "options": [
+      "kyselina mléčná",
+      "kyselina vinná",
+      "kyselina propionová",
+      "aceton"
+    ],
+    "answer": 2,
+    "title": "kyselina propionová",
+    "paragraphs": [
+      "Primární alkohol se oxiduje přes propanal až na karboxylovou kyselinu se stejným počtem uhlíků, kyselinu propionovou (propanovou). Aceton by vznikl ze sekundárního propan-2-olu."
+    ],
+    "memory": "Primární alkohol → aldehyd → kyselina."
+  },
+  {
+    "id": 364,
+    "subject": "Chemie",
+    "category": "Chemie · 4.6 Alkoholy a thioly",
+    "bookRef": "UK · Chemie · 4.6 Alkoholy a thioly · str. 148, otázka 5",
+    "sourcePages": "148",
+    "sourceItem": "str. 148, otázka 5",
+    "question": "Co vzniká dehydratací propanolu?",
+    "options": [
+      "ethen",
+      "propanal",
+      "propan",
+      "propen"
+    ],
+    "answer": 3,
+    "title": "propen",
+    "paragraphs": [
+      "Odštěpením vody (eliminací) ze sousedních uhlíků alkoholu vznikne dvojná vazba. Z propanolu vzniká propen, z ethanolu ethen."
+    ],
+    "memory": "Dehydratace alkoholu = alken."
+  },
+  {
+    "id": 365,
+    "subject": "Chemie",
+    "category": "Chemie · 4.6 Alkoholy a thioly",
+    "bookRef": "UK · Chemie · 4.6 Alkoholy a thioly · str. 148, otázka 6",
+    "sourcePages": "148",
+    "sourceItem": "str. 148, otázka 6",
+    "question": "Reakcí karbonylových sloučenin s čím vznikají acetaly?",
+    "options": [
+      "s alkoholy",
+      "s karboxylovými kyselinami",
+      "s ketony",
+      "s aldehydy"
+    ],
+    "answer": 0,
+    "title": "s alkoholy",
+    "paragraphs": [
+      "Aldehyd nebo keton reaguje s jednou molekulou alkoholu na poloacetal a s druhou na acetal. Poloacetalová vazba vzniká i při cyklizaci glukózy."
+    ],
+    "memory": "Karbonyl + alkohol = (polo)acetal."
+  },
+  {
+    "id": 366,
+    "subject": "Chemie",
+    "category": "Chemie · 4.6 Alkoholy a thioly",
+    "bookRef": "UK · Chemie · 4.6 Alkoholy a thioly · str. 149, otázka 1",
+    "sourcePages": "149",
+    "sourceItem": "str. 149, otázka 1",
+    "question": "Jaká látka je cyklohexanol?",
+    "options": [
+      "jednosytný fenol",
+      "jednosytný alkohol",
+      "dvojsytný alkohol",
+      "trojsytný alkohol"
+    ],
+    "answer": 1,
+    "title": "jednosytný alkohol",
+    "paragraphs": [
+      "Cyklohexanol má jednu skupinu −OH na nasyceném šestičlenném kruhu. Fenoly mají −OH přímo na aromatickém jádře, což cyklohexan není."
+    ],
+    "memory": "OH na nearomatickém kruhu = alkohol."
+  },
+  {
+    "id": 367,
+    "subject": "Chemie",
+    "category": "Chemie · 4.6 Alkoholy a thioly",
+    "bookRef": "UK · Chemie · 4.6 Alkoholy a thioly · str. 149, otázka 2",
+    "sourcePages": "149",
+    "sourceItem": "str. 149, otázka 2",
+    "question": "Co vzniká reakcí sodíku s ethanolem?",
+    "options": [
+      "diethylether",
+      "polyethylen",
+      "ethanolát sodný (alkoholát) a vodík",
+      "hydroxid sodný a ethen"
+    ],
+    "answer": 2,
+    "title": "ethanolát sodný (alkoholát) a vodík",
+    "paragraphs": [
+      "Sodík nahradí vodík hydroxylové skupiny: 2 C₂H₅OH + 2 Na → 2 C₂H₅ONa + H₂. Reakce je mírnější než se sodíkem a vodou."
+    ],
+    "memory": "Alkohol + Na = alkoholát + H₂."
+  },
+  {
+    "id": 368,
+    "subject": "Chemie",
+    "category": "Chemie · 4.6 Alkoholy a thioly",
+    "bookRef": "UK · Chemie · 4.6 Alkoholy a thioly · str. 149, otázka 3",
+    "sourcePages": "149",
+    "sourceItem": "str. 149, otázka 3",
+    "question": "Co vzniká reakcí acetylchloridu s ethanolem?",
+    "options": [
+      "diethylether",
+      "kyselina glykolová",
+      "kyselina mléčná",
+      "ethyl-acetát"
+    ],
+    "answer": 3,
+    "title": "ethyl-acetát",
+    "paragraphs": [
+      "Acylchlorid acyluje alkohol: CH₃COCl + C₂H₅OH → CH₃COOC₂H₅ + HCl. Vzniká ester, ethyl-acetát, používaný jako rozpouštědlo."
+    ],
+    "memory": "Acylchlorid + alkohol = ester."
+  },
+  {
+    "id": 369,
+    "subject": "Chemie",
+    "category": "Chemie · 4.6 Alkoholy a thioly",
+    "bookRef": "UK · Chemie · 4.6 Alkoholy a thioly · str. 149, otázka 5",
+    "sourcePages": "149",
+    "sourceItem": "str. 149, otázka 5",
+    "question": "K rozlišení kterých látek může sloužit jodoformová reakce?",
+    "options": [
+      "ethanolu a methanolu",
+      "glukózy a polysacharidů",
+      "organických a anorganických kyselin",
+      "nasycených a nenasycených uhlovodíků"
+    ],
+    "answer": 0,
+    "title": "ethanolu a methanolu",
+    "paragraphs": [
+      "Jodoformovou reakci (žlutá sraženina CHI₃) dávají látky se skupinou CH₃−CO− nebo CH₃−CH(OH)−, tedy ethanol, acetaldehyd či aceton. Methanol ji nedává."
+    ],
+    "memory": "Jodoform: ethanol ano, methanol ne."
+  },
+  {
+    "id": 370,
+    "subject": "Chemie",
+    "category": "Chemie · 4.6 Alkoholy a thioly",
+    "bookRef": "UK · Chemie · 4.6 Alkoholy a thioly · str. 150, otázka 2",
+    "sourcePages": "150",
+    "sourceItem": "str. 150, otázka 2",
+    "question": "Na co se snadno oxidují thioly?",
+    "options": [
+      "na thiofeny",
+      "na disulfidy",
+      "na sulfonamidy",
+      "na thioethery"
+    ],
+    "answer": 1,
+    "title": "na disulfidy",
+    "paragraphs": [
+      "Dvě skupiny −SH se mírnou oxidací spojí můstkem −S−S−. Takto vznikají disulfidové můstky mezi cysteiny v bílkovinách. Redukcí se disulfid zase štěpí na thioly."
+    ],
+    "memory": "2 R−SH → R−S−S−R."
+  },
+  {
+    "id": 371,
+    "subject": "Chemie",
+    "category": "Chemie · 4.7 Fenoly",
+    "bookRef": "UK · Chemie · 4.7 Fenoly · str. 150, otázka 3",
+    "sourcePages": "150",
+    "sourceItem": "str. 150, otázka 3",
+    "question": "Jak se triviálně nazývá 2,4,6-trinitrofenol?",
+    "options": [
+      "TNT",
+      "kyselina salicylová",
+      "kyselina pikrová",
+      "pyrokatechol"
+    ],
+    "answer": 2,
+    "title": "kyselina pikrová",
+    "paragraphs": [
+      "Trinitrofenol je žlutá výbušná látka. Tři nitroskupiny silně zvyšují kyselost fenolové skupiny, proto se nazývá kyselina. TNT je trinitrotoluen."
+    ],
+    "memory": "Pikrová = trinitrofenol."
+  },
+  {
+    "id": 372,
+    "subject": "Chemie",
+    "category": "Chemie · 4.7 Fenoly",
+    "bookRef": "UK · Chemie · 4.7 Fenoly · str. 150, otázka 6",
+    "sourcePages": "150",
+    "sourceItem": "str. 150, otázka 6",
+    "question": "Co je 2-naftol?",
+    "options": [
+      "fenol se dvěma skupinami −OH",
+      "primární alkohol",
+      "sekundární alkohol",
+      "fenol s jednou skupinou −OH"
+    ],
+    "answer": 3,
+    "title": "fenol s jednou skupinou −OH",
+    "paragraphs": [
+      "Naftoly mají jednu hydroxylovou skupinu přímo na aromatickém jádře naftalenu, v poloze 1 (α) nebo 2 (β). Jsou to tedy jednosytné fenoly."
+    ],
+    "memory": "Naftol = OH na naftalenu."
+  },
+  {
+    "id": 373,
+    "subject": "Chemie",
+    "category": "Chemie · 4.7 Fenoly",
+    "bookRef": "UK · Chemie · 4.7 Fenoly · str. 151, otázka 3",
+    "sourcePages": "151",
+    "sourceItem": "str. 151, otázka 3",
+    "question": "Co vzniká oxidací fenolů se dvěma skupinami −OH v poloze ortho nebo para?",
+    "options": [
+      "chinony",
+      "anhydridy",
+      "karboxylové kyseliny",
+      "aldehydy"
+    ],
+    "answer": 0,
+    "title": "chinony",
+    "paragraphs": [
+      "Například hydrochinon (benzen-1,4-diol) se oxiduje na 1,4-benzochinon. Soustava chinon a hydrochinon je vratný redoxní pár, podobně funguje ubichinon v dýchacím řetězci."
+    ],
+    "memory": "Hydrochinon ⇌ chinon."
+  },
+  {
+    "id": 374,
+    "subject": "Chemie",
+    "category": "Chemie · 4.7 Fenoly",
+    "bookRef": "UK · Chemie · 4.7 Fenoly · str. 151, otázka 4",
+    "sourcePages": "151",
+    "sourceItem": "str. 151, otázka 4",
+    "question": "Jak se nazývá 1,4-dihydroxybenzen?",
+    "options": [
+      "pyrokatechol",
+      "hydrochinon",
+      "resorcinol",
+      "kresol"
+    ],
+    "answer": 1,
+    "title": "hydrochinon",
+    "paragraphs": [
+      "Hydrochinon je para-dihydroxybenzen. Pyrokatechol je 1,2- a resorcinol 1,3-isomer. Kresoly jsou methylfenoly."
+    ],
+    "memory": "o = pyrokatechol, m = resorcinol, p = hydrochinon."
+  },
+  {
+    "id": 375,
+    "subject": "Chemie",
+    "category": "Chemie · 4.7 Fenoly",
+    "bookRef": "UK · Chemie · 4.7 Fenoly · str. 152, otázka 2",
+    "sourcePages": "152",
+    "sourceItem": "str. 152, otázka 2",
+    "question": "Co je resorcinol?",
+    "options": [
+      "benzen-1,2-diol",
+      "benzen-1,4-diol",
+      "benzen-1,3-diol",
+      "1,4-benzochinon"
+    ],
+    "answer": 2,
+    "title": "benzen-1,3-diol",
+    "paragraphs": [
+      "Resorcinol má dvě hydroxylové skupiny v poloze meta (1,3). Ortho-isomer je pyrokatechol a para-isomer hydrochinon."
+    ],
+    "memory": "Resorcinol = meta."
+  },
+  {
+    "id": 376,
+    "subject": "Chemie",
+    "category": "Chemie · 4.7 Fenoly",
+    "bookRef": "UK · Chemie · 4.7 Fenoly · str. 151, otázka 5",
+    "sourcePages": "151",
+    "sourceItem": "str. 151, otázka 5",
+    "question": "Co vzniká reakcí fenolu s kyselinou dusičnou?",
+    "options": [
+      "nitrobenzen",
+      "1,3-dinitrobenzen",
+      "nitrotoluen",
+      "nitrofenol"
+    ],
+    "answer": 3,
+    "title": "nitrofenol",
+    "paragraphs": [
+      "Při nitraci se nitroskupina NO₂ dostane na jádro fenolu (hlavně do polohy ortho a para). Skupina −OH zůstává, vzniká nitrofenol. Úplnou nitrací až kyselina pikrová."
+    ],
+    "memory": "Fenol + HNO₃ = nitrofenol."
+  },
+  {
+    "id": 377,
+    "subject": "Chemie",
+    "category": "Chemie · 4.7 Fenoly",
+    "bookRef": "UK · Chemie · 4.7 Fenoly · str. 151, otázka 6",
+    "sourcePages": "151",
+    "sourceItem": "str. 151, otázka 6",
+    "question": "Co vzniká reakcí fenolu se sodíkem?",
+    "options": [
+      "fenolát sodný a vodík",
+      "benzen a hydroxid sodný",
+      "benzoan sodný a vodík",
+      "cyklohexan a hydroxid sodný"
+    ],
+    "answer": 0,
+    "title": "fenolát sodný a vodík",
+    "paragraphs": [
+      "Fenol je slabá kyselina, sodík nahradí vodík skupiny −OH: 2 C₆H₅OH + 2 Na → 2 C₆H₅ONa + H₂. Fenoláty jsou soli, vznikají i s NaOH."
+    ],
+    "memory": "Fenol + Na = fenolát + H₂."
+  },
+  {
+    "id": 378,
+    "subject": "Chemie",
+    "category": "Chemie · 4.8 Aldehydy",
+    "bookRef": "UK · Chemie · 4.8 Aldehydy · str. 152, otázka 3",
+    "sourcePages": "152",
+    "sourceItem": "str. 152, otázka 3",
+    "question": "Co může vzniknout oxidací aldehydů?",
+    "options": [
+      "primární alkoholy",
+      "karboxylové kyseliny",
+      "sekundární alkoholy",
+      "ketony"
+    ],
+    "answer": 1,
+    "title": "karboxylové kyseliny",
+    "paragraphs": [
+      "Aldehydová skupina −CHO se snadno oxiduje na karboxylovou skupinu −COOH. Na tom jsou založeny důkazy aldehydů (Fehlingovo a Tollensovo činidlo). Redukcí by vznikl primární alkohol."
+    ],
+    "memory": "Aldehyd + O = kyselina."
+  },
+  {
+    "id": 379,
+    "subject": "Chemie",
+    "category": "Chemie · 4.8 Aldehydy",
+    "bookRef": "UK · Chemie · 4.8 Aldehydy · str. 152, otázka 6",
+    "sourcePages": "152",
+    "sourceItem": "str. 152, otázka 6",
+    "question": "Co vzniká oxidací benzaldehydu?",
+    "options": [
+      "benzylalkohol",
+      "kyselina salicylová",
+      "kyselina benzoová",
+      "fenol"
+    ],
+    "answer": 2,
+    "title": "kyselina benzoová",
+    "paragraphs": [
+      "Aldehydová skupina benzaldehydu C₆H₅−CHO se oxiduje na karboxyl, vzniká C₆H₅−COOH. Benzylalkohol by vznikl redukcí."
+    ],
+    "memory": "Benzaldehyd → kyselina benzoová."
+  },
+  {
+    "id": 380,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie rostlin a hub",
+    "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 496 · str. 113",
+    "sourcePages": "113",
+    "sourceItem": "496",
+    "question": "Které barvivo je hlavním fotosyntetickým pigmentem vyšších rostlin?",
+    "options": [
+      "urobilin",
+      "ferredoxin",
+      "hemoglobin",
+      "chlorofyl a"
+    ],
+    "answer": 3,
+    "title": "chlorofyl a",
+    "paragraphs": [
+      "Chlorofyl a je ve středu fotosystémů a přímo přeměňuje energii světla. Pomocnými pigmenty jsou chlorofyl b a karotenoidy. Ferredoxin je přenašeč elektronů (bílkovina), urobilin žlučové barvivo."
+    ],
+    "memory": "Reakční centrum = chlorofyl a."
+  },
+  {
+    "id": 381,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie rostlin a hub",
+    "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 498 · str. 113",
+    "sourcePages": "113",
+    "sourceItem": "498",
+    "question": "Který koenzym se redukuje ve světelné fázi fotosyntézy?",
+    "options": [
+      "NADP⁺ na NADPH + H⁺",
+      "NAD⁺ na NADH + H⁺",
+      "FADH₂ na FAD",
+      "ATP na ADP"
+    ],
+    "answer": 0,
+    "title": "NADP⁺ na NADPH + H⁺",
+    "paragraphs": [
+      "Elektrony z rozkladu vody putují přes fotosystémy na NADP⁺. Vzniklý NADPH spolu s ATP slouží v temnostní fázi k redukci CO₂. NAD⁺ se redukuje hlavně v buněčném dýchání."
+    ],
+    "memory": "Fotosyntéza NADP, dýchání NAD."
+  },
+  {
+    "id": 382,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie rostlin a hub",
+    "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 500 · str. 113",
+    "sourcePages": "113",
+    "sourceItem": "500",
+    "question": "Která látka je u rostlin C3 akceptorem CO₂ v temnostní fázi fotosyntézy?",
+    "options": [
+      "fosfoenolpyruvát",
+      "ribulóza-1,5-bisfosfát",
+      "kyselina 3-fosfoglycerová",
+      "glukóza"
+    ],
+    "answer": 1,
+    "title": "ribulóza-1,5-bisfosfát",
+    "paragraphs": [
+      "Enzym RuBisCO váže CO₂ na ribulóza-1,5-bisfosfát a vznikají dvě molekuly 3-fosfoglycerátu, který je tedy produktem, ne akceptorem. Fosfoenolpyruvát slouží jako první akceptor u rostlin C4."
+    ],
+    "memory": "C3: RuBP, C4: PEP."
+  },
+  {
+    "id": 383,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie rostlin a hub",
+    "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 503 · str. 114",
+    "sourcePages": "114",
+    "sourceItem": "503",
+    "question": "Kterým směrem probíhá vývoj rostlin z hlediska rodozměny?",
+    "options": [
+      "k převaze gametofytu nad sporofytem",
+      "k diploidnímu gametofytu",
+      "k převaze sporofytu nad gametofytem",
+      "k vymizení sporofytu"
+    ],
+    "answer": 2,
+    "title": "k převaze sporofytu nad gametofytem",
+    "paragraphs": [
+      "U mechů převládá haploidní gametofyt, u kapraďorostů a hlavně semenných rostlin převládá diploidní sporofyt. Gametofyt krytosemenných tvoří jen pylové zrno a zárodečný vak."
+    ],
+    "memory": "Mech gametofyt, strom sporofyt."
+  },
+  {
+    "id": 384,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie rostlin a hub",
+    "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 504 · str. 114",
+    "sourcePages": "114",
+    "sourceItem": "504",
+    "question": "Ve kterém období tvořily plavuně, přesličky a kapradiny rozsáhlé pralesy?",
+    "options": [
+      "ve starohorách",
+      "v triasu",
+      "ve třetihorách",
+      "v karbonu"
+    ],
+    "answer": 3,
+    "title": "v karbonu",
+    "paragraphs": [
+      "Stromovité plavuně (šupinovníky, pečetníky), přesličky (kalamity) a kapradiny tvořily v karbonu bažinné pralesy. Z jejich zbytků vzniklo černé uhlí. Vyvinuly se z psilofytů."
+    ],
+    "memory": "Karbon = uhlí z kapraďorostů."
+  },
+  {
+    "id": 385,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie rostlin a hub",
+    "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 506 · str. 114",
+    "sourcePages": "114",
+    "sourceItem": "506",
+    "question": "Z jakého období pocházejí nejstarší doklady o existenci hub?",
+    "options": [
+      "z prvohor",
+      "z druhohor",
+      "ze třetihor",
+      "ze čtvrtohor"
+    ],
+    "answer": 0,
+    "title": "z prvohor",
+    "paragraphs": [
+      "Fosilie hub jsou známé už z prvohor, houby provázely rostliny při osidlování souše (mykorhiza). Na rozdíl od rostlin jsou heterotrofní."
+    ],
+    "memory": "Houby jsou staré jako suchozemské rostliny."
+  },
+  {
+    "id": 386,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie rostlin a hub",
+    "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 509 · str. 115",
+    "sourcePages": "115",
+    "sourceItem": "509",
+    "question": "Z čeho je tvořena stélka lišejníků?",
+    "options": [
+      "jen z buněk řasy",
+      "z vláken houby a buněk řasy nebo sinice",
+      "z buněk mechu a sinice",
+      "jen z vláken houby"
+    ],
+    "answer": 1,
+    "title": "z vláken houby a buněk řasy nebo sinice",
+    "paragraphs": [
+      "Lišejník je symbióza houby (mykobiontu) a fotosyntetizující řasy nebo sinice (fotobiontu). Některé lišejníky jsou citlivými bioindikátory čistoty ovzduší."
+    ],
+    "memory": "Lišejník = houba + řasa."
+  },
+  {
+    "id": 387,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie rostlin a hub",
+    "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 510 · str. 115",
+    "sourcePages": "115",
+    "sourceItem": "510",
+    "question": "Kde se vyskytuje chitin?",
+    "options": [
+      "v buněčné stěně rostlin",
+      "v buněčné stěně bakterií",
+      "ve skeletu členovců a v buněčné stěně hub",
+      "v kostech obratlovců"
+    ],
+    "answer": 2,
+    "title": "ve skeletu členovců a v buněčné stěně hub",
+    "paragraphs": [
+      "Chitin je polysacharid z N-acetylglukosaminu. Tvoří kutikulu hmyzu a korýšů i buněčnou stěnu hub. Stěnu rostlin tvoří celulóza a stěnu bakterií peptidoglykan."
+    ],
+    "memory": "Chitin: houby a členovci."
+  },
+  {
+    "id": 388,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie rostlin a hub",
+    "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 513 · str. 116",
+    "sourcePages": "116",
+    "sourceItem": "513",
+    "question": "Která dvojice čeledí patří mezi jednoděložné rostliny?",
+    "options": [
+      "růžovité a liliovité",
+      "bobovité a lipnicovité",
+      "hvězdnicovité a růžovité",
+      "vstavačovité a lipnicovité"
+    ],
+    "answer": 3,
+    "title": "vstavačovité a lipnicovité",
+    "paragraphs": [
+      "Jednoděložné jsou například lipnicovité (trávy, obilí), liliovité a vstavačovité (orchideje). Růžovité, bobovité a hvězdnicovité jsou dvouděložné."
+    ],
+    "memory": "Trávy, lilie a orchideje = jednoděložné."
+  },
+  {
+    "id": 389,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 517 · str. 118",
+    "sourcePages": "118",
+    "sourceItem": "517",
+    "question": "Co živočišné buňky nemají?",
+    "options": [
+      "buněčnou stěnu",
+      "mitochondrie",
+      "ribozomy",
+      "cytoplazmatickou membránu"
+    ],
+    "answer": 0,
+    "title": "buněčnou stěnu",
+    "paragraphs": [
+      "Živočišné buňky ohraničuje jen cytoplazmatická membrána. Buněčnou stěnu mají rostliny, houby a bakterie. Plazmidy jsou typické pro bakterie."
+    ],
+    "memory": "Živočich: membrána ano, stěna ne."
+  },
+  {
+    "id": 390,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 519 · str. 118",
+    "sourcePages": "118",
+    "sourceItem": "519",
+    "question": "Která skupina bezobratlých má komorové oko podobné oku obratlovců?",
+    "options": [
+      "plži",
+      "hlavonožci",
+      "hmyz",
+      "ploštěnci"
+    ],
+    "answer": 1,
+    "title": "hlavonožci",
+    "paragraphs": [
+      "Komorové oko s čočkou a sítnicí vzniklo nezávisle u hlavonožců (chobotnice, sépie) a obratlovců, jde o příklad konvergence. Hmyz má složené oko, ploštěnci jen pohárkovitá očka."
+    ],
+    "memory": "Chobotnice a člověk: komorové oko."
+  },
+  {
+    "id": 391,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 521 · str. 119",
+    "sourcePages": "119",
+    "sourceItem": "521",
+    "question": "Který z uvedených savců nepatří mezi chudozubé (Xenarthra)?",
+    "options": [
+      "mravenečník",
+      "pásovec",
+      "ježura",
+      "lenochod"
+    ],
+    "answer": 2,
+    "title": "ježura",
+    "paragraphs": [
+      "Chudozubí jsou jihoameričtí savci: mravenečníci, pásovci a lenochodi. Ježura je vejcorodý savec (ptakořitný) z Austrálie."
+    ],
+    "memory": "Ježura klade vejce."
+  },
+  {
+    "id": 392,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 523 · str. 119",
+    "sourcePages": "119",
+    "sourceItem": "523",
+    "question": "U které skupiny obratlovců se vyskytuje chámomočovod?",
+    "options": [
+      "u ptáků",
+      "u savců",
+      "u kostnatých ryb",
+      "u obojživelníků"
+    ],
+    "answer": 3,
+    "title": "u obojživelníků",
+    "paragraphs": [
+      "U samců obojživelníků odvádí spermie i moč společný kanál, chámomočovod (Wolffův vývod), ústící do kloaky."
+    ],
+    "memory": "Žába: chámomočovod."
+  },
+  {
+    "id": 393,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 524 · str. 119",
+    "sourcePages": "119",
+    "sourceItem": "524",
+    "question": "Do kterého kmene patří motolice?",
+    "options": [
+      "ploštěnci",
+      "hlísti",
+      "měkkýši",
+      "kroužkovci"
+    ],
+    "answer": 0,
+    "title": "ploštěnci",
+    "paragraphs": [
+      "Motolice jsou parazitičtí ploštěnci s přísavkami, ústním otvorem, hltanem a slepě zakončeným rozvětveným střevem. Patří sem například motolice jaterní."
+    ],
+    "memory": "Motolice = parazitický ploštěnec."
+  },
+  {
+    "id": 394,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 525 · str. 119",
+    "sourcePages": "119",
+    "sourceItem": "525",
+    "question": "Kteří živočichové patří mezi ploutvonožce?",
+    "options": [
+      "velryby a delfíni",
+      "mroži a tuleni",
+      "žáby a mloci",
+      "kachny a husy"
+    ],
+    "answer": 1,
+    "title": "mroži a tuleni",
+    "paragraphs": [
+      "Ploutvonožci jsou šelmy přizpůsobené vodnímu životu (tuleni, lachtani, mroži). Velryby a delfíni jsou kytovci."
+    ],
+    "memory": "Tulen ano, delfín ne."
+  },
+  {
+    "id": 395,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 526 · str. 120",
+    "sourcePages": "120",
+    "sourceItem": "526",
+    "question": "Do kterého kmene patří pijavice?",
+    "options": [
+      "hlísti, kam patří i škrkavky",
+      "hlísti, kam patří i opaskovci",
+      "kroužkovci, kam patří i opaskovci",
+      "ploštěnci, kam patří i motolice"
+    ],
+    "answer": 2,
+    "title": "kroužkovci, kam patří i opaskovci",
+    "paragraphs": [
+      "Pijavice mají článkované tělo a s máloštětinatci (žížalou) tvoří skupinu opaskovců (Clitellata) v kmeni kroužkovců. Škrkavky jsou hlísti."
+    ],
+    "memory": "Pijavice a žížala = opaskovci."
+  },
+  {
+    "id": 396,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 527 · str. 120",
+    "sourcePages": "120",
+    "sourceItem": "527",
+    "question": "Co jsou feromony?",
+    "options": [
+      "hormony ovlivňující metabolismus železa",
+      "bílkovinné hormony s železnatým iontem",
+      "látky, které rostliny vylučují proti mikrobům",
+      "látky sloužící ke komunikaci mezi jedinci téhož druhu"
+    ],
+    "answer": 3,
+    "title": "látky sloužící ke komunikaci mezi jedinci téhož druhu",
+    "paragraphs": [
+      "Feromony se uvolňují do okolí a ovlivňují chování nebo fyziologii jiných jedinců, například sexuální lákání u motýlů nebo stopy mravenců. Název nesouvisí s železem."
+    ],
+    "memory": "Feromon = chemický signál mezi jedinci."
+  },
+  {
+    "id": 397,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 529 · str. 120",
+    "sourcePages": "120",
+    "sourceItem": "529",
+    "question": "Kam směřuje vývoj strunatců z hlediska struny hřbetní (chorda dorsalis)?",
+    "options": [
+      "k postupné redukci struny hřbetní",
+      "k jejímu zachování po celý život u všech skupin",
+      "k jejímu zesílení a zkostnatění",
+      "k jejímu přesunu na břišní stranu"
+    ],
+    "answer": 0,
+    "title": "k postupné redukci struny hřbetní",
+    "paragraphs": [
+      "Kopinatec má strunu po celý život, u obratlovců ji nahrazuje páteř. U člověka zůstávají zbytky struny jen v jádrech meziobratlových plotének."
+    ],
+    "memory": "Struna → páteř."
+  },
+  {
+    "id": 398,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 532 · str. 121",
+    "sourcePages": "121",
+    "sourceItem": "532",
+    "question": "Původce které nemoci přenášejí blechy na člověka?",
+    "options": [
+      "cholery",
+      "moru",
+      "hepatitidy typu A",
+      "zánětu mozkových blan"
+    ],
+    "answer": 1,
+    "title": "moru",
+    "paragraphs": [
+      "Bakterii Yersinia pestis přenášejí blechy z hlodavců, zvláště potkanů, na člověka. Cholera a hepatitida A se šíří kontaminovanou vodou a potravou."
+    ],
+    "memory": "Blecha a potkan = mor."
+  },
+  {
+    "id": 399,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 537 · str. 122",
+    "sourcePages": "122",
+    "sourceItem": "537",
+    "question": "Které obaly řadíme k zárodečným obalům blanatých obratlovců?",
+    "options": [
+      "pouze amnion a chorion",
+      "pouze amnion a alantois",
+      "amnion, chorion a alantois",
+      "pouze amnion"
+    ],
+    "answer": 2,
+    "title": "amnion, chorion a alantois",
+    "paragraphs": [
+      "Plazi, ptáci a savci (blanatí) mají tři zárodečné obaly. Amnion ohraničuje plodovou vodu, chorion je vnější obal a alantois slouží k výměně plynů a ukládání odpadů. U savců se chorion podílí na placentě."
+    ],
+    "memory": "Blanatí = amnion, chorion, alantois."
+  },
+  {
+    "id": 400,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 539 · str. 122",
+    "sourcePages": "122",
+    "sourceItem": "539",
+    "question": "U kterého prvoka se vyskytují dvě pulzující vakuoly?",
+    "options": [
+      "u trepky, která patří k bičíkovcům",
+      "u měňavky, která patří ke kořenonožcům",
+      "u měňavky, která patří k nálevníkům",
+      "u trepky, která patří k nálevníkům"
+    ],
+    "answer": 3,
+    "title": "u trepky, která patří k nálevníkům",
+    "paragraphs": [
+      "Trepka velká má dvě stažitelné vakuoly, které odčerpávají přebytečnou vodu. Jako nálevník má obrvený povrch a dvě jádra."
+    ],
+    "memory": "Trepka: 2 vakuoly, nálevník."
+  }
+]
