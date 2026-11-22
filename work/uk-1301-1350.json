@@ -1,0 +1,1223 @@
+[
+  {
+    "id": 1301,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.46 · str. 94",
+    "sourcePages": "94",
+    "sourceItem": "7.46",
+    "question": "Která veličina v Coulombově zákoně vyjadřuje vliv prostředí na sílu mezi dvěma elektrickými náboji?",
+    "options": [
+      "permeabilita",
+      "permitivita",
+      "modul pružnosti",
+      "měrná tepelná kapacita"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "V Coulombově zákoně F = Q₁·Q₂/(4π·ε·r²) vystupuje permitivita ε = ε₀·εr. Relativní permitivita udává, kolikrát prostředí sílu zeslabí, ve vodě asi 80krát. Permeabilita popisuje magnetické vlastnosti prostředí."
+    ],
+    "memory": "Elektrické pole a permitivita."
+  },
+  {
+    "id": 1302,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.53 · str. 95",
+    "sourcePages": "95",
+    "sourceItem": "7.53",
+    "question": "Příkon elektrického spotřebiče je 2000 W a užitečný výkon 700 W. Jaká je jeho účinnost?",
+    "options": [
+      "2,8",
+      "0,35",
+      "3,5 %",
+      "28 %"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Účinnost je podíl výkonu a příkonu: η = 700 / 2000 = 0,35, tedy 35 %. Účinnost nemůže být větší než 1."
+    ],
+    "memory": "η = P/P₀."
+  },
+  {
+    "id": 1303,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.54 · str. 95",
+    "sourcePages": "95",
+    "sourceItem": "7.54",
+    "question": "Reostat s proměnným odporem R je připojen ke stálému napětí U. Co platí o proudu, který jím teče?",
+    "options": [
+      "je přímo úměrný odporu R",
+      "je nepřímo úměrný odporu R",
+      "nezávisí na napětí U, jen na odporu R",
+      "můžeme ho změřit ohmmetrem"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Podle Ohmova zákona I = U/R. Při stálém napětí je proud nepřímo úměrný odporu, při stálém odporu přímo úměrný napětí. Proud měříme ampérmetrem, ohmmetrem odpor."
+    ],
+    "memory": "I = U/R."
+  },
+  {
+    "id": 1304,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.57 · str. 96",
+    "sourcePages": "96",
+    "sourceItem": "7.57",
+    "question": "Čeho je siemens jednotkou?",
+    "options": [
+      "elektrického odporu",
+      "měrného odporu vodiče",
+      "elektrické vodivosti",
+      "měrné vodivosti"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Siemens je jednotka elektrické vodivosti G = 1/R, 1 S = 1 Ω⁻¹. Měrná vodivost má jednotku S·m⁻¹."
+    ],
+    "memory": "S = 1/Ω."
+  },
+  {
+    "id": 1305,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.58 · str. 96",
+    "sourcePages": "96",
+    "sourceItem": "7.58",
+    "question": "Jak se nazývá děj, při kterém se v ionizovaném plynu opačně nabité částice přitahují a vytvářejí opět neutrální molekuly?",
+    "options": [
+      "rekombinace",
+      "neutralizace",
+      "disociace",
+      "polymerace"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Rekombinace je opak ionizace: ionty a elektrony se spojují zpět v neutrální částice. Ve výboji probíhají oba děje současně."
+    ],
+    "memory": "Rekombinace = opak ionizace."
+  },
+  {
+    "id": 1306,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.59 · str. 96",
+    "sourcePages": "96",
+    "sourceItem": "7.59",
+    "question": "Dvě dvojice paralelně zapojených rezistorů spojíme za sebou. Všechny čtyři rezistory mají odpor R. Jaký je odpor celé kombinace?",
+    "options": [
+      "2R",
+      "4R",
+      "R/2",
+      "R"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Každá paralelní dvojice má odpor R/2. Dvě takové dvojice v sérii dávají R/2 + R/2 = R."
+    ],
+    "memory": "Paralelní dvojice = R/2."
+  },
+  {
+    "id": 1307,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.61 · str. 96",
+    "sourcePages": "96",
+    "sourceItem": "7.61",
+    "question": "Při podélném průtoku proudu tkáněmi jsou tkáně zapojeny jako paralelní odpory. Odpor svaloviny je 10krát menší než odpor tuku. Kolik tepla se podle Joulova zákona uvolní v tuku ve srovnání se svalovinou?",
+    "options": [
+      "10krát víc",
+      "10krát méně",
+      "100krát méně",
+      "100krát víc"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Paralelně zapojené tkáně mají stejné napětí, teplo je Q = U²·t/R. Tuk s desetkrát větším odporem se proto zahřeje desetkrát méně."
+    ],
+    "memory": "Paralelně: Q = U²t/R."
+  },
+  {
+    "id": 1308,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.62 · str. 97",
+    "sourcePages": "97",
+    "sourceItem": "7.62",
+    "question": "Při příčném průtoku proudu tkáněmi jsou tkáně zapojeny jako sériové odpory. Odpor svaloviny je 10krát menší než odpor tuku. Kolik tepla se podle Joulova zákona uvolní v tuku ve srovnání se svalovinou?",
+    "options": [
+      "10krát víc",
+      "10krát méně",
+      "100krát méně",
+      "100krát víc"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "V sérii teče oběma tkáněmi stejný proud a teplo je Q = I²·R·t. Tuk s desetkrát větším odporem se zahřeje desetkrát víc, proto se při diatermii přehřívá podkoží."
+    ],
+    "memory": "Sériově: Q = I²Rt."
+  },
+  {
+    "id": 1309,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.63 · str. 97",
+    "sourcePages": "97",
+    "sourceItem": "7.63",
+    "question": "V rentgence dopadají na anodu elektrony urychlené napětím 100 kV, anoda je 5 cm od katody. Jakou kinetickou energii mají při dopadu (e = 1,6·10⁻¹⁹ C)?",
+    "options": [
+      "100 keV",
+      "5 keV",
+      "1,6·10⁻¹⁴ J",
+      "16 fJ"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "title": "Správně: A, C a D",
+    "paragraphs": [
+      "Elektron získá energii E = e·U = 100 keV bez ohledu na vzdálenost elektrod. V joulech 1,6·10⁻¹⁹ · 10⁵ = 1,6·10⁻¹⁴ J = 16 fJ."
+    ],
+    "memory": "E = e·U."
+  },
+  {
+    "id": 1310,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.64 · str. 97",
+    "sourcePages": "97",
+    "sourceItem": "7.64",
+    "question": "Varná konvice má příkon 1150 W. Jaký proud jí teče při napětí 230 V?",
+    "options": [
+      "0,5 A",
+      "2 A",
+      "0,2 A",
+      "5 A"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "I = P/U = 1150 / 230 = 5 A."
+    ],
+    "memory": "I = P/U."
+  },
+  {
+    "id": 1311,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.65 · str. 97",
+    "sourcePages": "97",
+    "sourceItem": "7.65",
+    "question": "Varná konvice pro napětí 230 V má příkon 2300 W. Jaký má odpor za provozu?",
+    "options": [
+      "23 Ω",
+      "10 Ω",
+      "529 kΩ",
+      "0,1 Ω"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Z P = U²/R plyne R = U²/P = 52 900 / 2300 = 23 Ω. Kontrola: proud 10 A a 230 V / 10 A = 23 Ω."
+    ],
+    "memory": "R = U²/P."
+  },
+  {
+    "id": 1312,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.67 · str. 97",
+    "sourcePages": "97",
+    "sourceItem": "7.67",
+    "question": "Jak velká je intenzita elektrického pole uvnitř vodivé nabité koule?",
+    "options": [
+      "konstantní, ale nenulová",
+      "nulová",
+      "závisí na kapacitě koule",
+      "roste s poloměrem koule"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Náboj vodiče se v rovnováze rozmístí na povrchu a uvnitř vodiče je pole nulové. Na tom je založeno stínění Faradayovou klecí."
+    ],
+    "memory": "Uvnitř vodiče E = 0."
+  },
+  {
+    "id": 1313,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.68 · str. 98",
+    "sourcePages": "98",
+    "sourceItem": "7.68",
+    "question": "Co platí o vodivosti G vlákna žárovky s odporem R?",
+    "options": [
+      "závisí na teplotě",
+      "je přímo úměrná odporu",
+      "s odporem nesouvisí",
+      "je převrácenou hodnotou odporu"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Vodivost je G = 1/R. Odpor kovového vlákna s teplotou výrazně roste, proto rozžhavené vlákno vede hůř než studené."
+    ],
+    "memory": "G = 1/R."
+  },
+  {
+    "id": 1314,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.69 · str. 98",
+    "sourcePages": "98",
+    "sourceItem": "7.69",
+    "question": "Jaká je vodivost rezistoru 50 Ω?",
+    "options": [
+      "20 mS",
+      "0,02 Ω",
+      "0,02 Ω⁻¹",
+      "(50 Ω)⁻¹"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "title": "Správně: A, C a D",
+    "paragraphs": [
+      "G = 1/R = 1/(50 Ω) = 0,02 Ω⁻¹ = 0,02 S = 20 mS. Vodivost nemá jednotku ohm."
+    ],
+    "memory": "G = 1/R."
+  },
+  {
+    "id": 1315,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.71 · str. 98",
+    "sourcePages": "98",
+    "sourceItem": "7.71",
+    "question": "Jaká je výsledná vodivost dvou stejných paralelně zapojených rezistorů 50 kΩ?",
+    "options": [
+      "40 µS",
+      "25 kΩ",
+      "10 µS",
+      "(25 kΩ)⁻¹"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Paralelně se vodivosti sčítají: 2 · 1/(50 kΩ) = 1/(25 kΩ) = 40 µS. Údaj 25 kΩ je výsledný odpor, ne vodivost."
+    ],
+    "memory": "Vodivost = 1/odpor."
+  },
+  {
+    "id": 1316,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.73 · str. 98",
+    "sourcePages": "98",
+    "sourceItem": "7.73",
+    "question": "Jaký je výsledný odpor dvou stejných paralelně zapojených rezistorů 500 kΩ?",
+    "options": [
+      "4 µS",
+      "0,25 MΩ",
+      "1 MΩ",
+      "250 kΩ"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "Dva stejné rezistory paralelně mají poloviční odpor: 250 kΩ = 0,25 MΩ. Hodnota 4 µS je výsledná vodivost a 1 MΩ by platil pro sériové zapojení."
+    ],
+    "memory": "Dva stejné paralelně = R/2."
+  },
+  {
+    "id": 1317,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.76 · str. 99",
+    "sourcePages": "99",
+    "sourceItem": "7.76",
+    "question": "Jaký je výsledný odpor dvou sériově zapojených rezistorů R₁ = 50 kΩ a R₂ = 0,1 MΩ?",
+    "options": [
+      "150 kΩ",
+      "0,15 MΩ",
+      "25 kΩ",
+      "33,3 kΩ"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "V sérii se odpory sčítají: 50 kΩ + 100 kΩ = 150 kΩ = 0,15 MΩ. Hodnota 33,3 kΩ by vyšla pro paralelní zapojení."
+    ],
+    "memory": "Převeď na stejné jednotky."
+  },
+  {
+    "id": 1318,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus I",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus I · úloha 7.78 · str. 99",
+    "sourcePages": "99",
+    "sourceItem": "7.78",
+    "question": "Žárovka má příkon 250 W při napětí 230 V. Co přibližně platí?",
+    "options": [
+      "teče jí proud 1,1 A",
+      "teče jí proud 0,9 A",
+      "její odpor je 1,1 Ω",
+      "její odpor je 0,9 Ω"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "I = P/U = 250 / 230 ≈ 1,1 A. Odpor je R = U/I ≈ 212 Ω, nikoli jednotky ohmů."
+    ],
+    "memory": "I = P/U."
+  },
+  {
+    "id": 1319,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.01 · str. 101",
+    "sourcePages": "101",
+    "sourceItem": "8.01",
+    "question": "O kolik je v oscilačním obvodu LC posunut časový průběh napětí a proudu?",
+    "options": [
+      "o 1/2 periody, takže napětí a proud jsou ve fázi",
+      "o 1/2 periody, takže fázový rozdíl je π/4 rad",
+      "o 1/4 periody, takže fázový rozdíl je π/2 rad",
+      "o λ/2, kde λ je vlnová délka"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "V obvodu LC je proud největší, když je kondenzátor vybitý, a napětí největší, když proud nulový. Průběhy jsou posunuty o čtvrt periody, tedy o π/2 rad."
+    ],
+    "memory": "Čtvrt periody = π/2."
+  },
+  {
+    "id": 1320,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.02 · str. 101",
+    "sourcePages": "101",
+    "sourceItem": "8.02",
+    "question": "Co platí o deformační polarizaci?",
+    "options": [
+      "je vyvolána deformací molekuly posunem elektronových obalů a jader",
+      "projevuje se jen u iontových molekul",
+      "u původně nepolárních molekul vzniká dipól",
+      "u polárních molekul může zvýšit dipólový moment"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "title": "Správně: A, C a D",
+    "paragraphs": [
+      "Vnější pole posune elektronový obal vůči jádrům v každé molekule. Nepolární molekula se tak stane dipólem a polární molekule se dipólový moment zvětší. Projevuje se u všech látek, nejen iontových."
+    ],
+    "memory": "Pole posune obal vůči jádru."
+  },
+  {
+    "id": 1321,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.03 · str. 101",
+    "sourcePages": "101",
+    "sourceItem": "8.03",
+    "question": "Kdy prochází diodou velký proud?",
+    "options": [
+      "když je anoda připojena k zápornému pólu, závěrný směr",
+      "když je anoda připojena ke kladnému pólu, propustný směr",
+      "když je anoda připojena ke kladnému pólu, závěrný směr",
+      "když je anoda připojena k zápornému pólu, propustný směr"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "V propustném směru je anoda (strana P) na kladném pólu, přechod PN se zúží a dioda vede. Obrácená polarita je závěrný směr s nepatrným proudem."
+    ],
+    "memory": "Anoda na plus = dioda vede."
+  },
+  {
+    "id": 1322,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.04 · str. 101",
+    "sourcePages": "101",
+    "sourceItem": "8.04",
+    "question": "Jak je dohodou určena orientace magnetických indukčních čar vně magnetu?",
+    "options": [
+      "od jižního pólu k severnímu",
+      "od jižního pólu k jižnímu",
+      "od severního pólu k severnímu",
+      "od severního pólu k jižnímu"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Vně magnetu vedou indukční čáry od severního pólu k jižnímu, uvnitř magnetu se uzavírají od jižního k severnímu. Severní pól střelky ukazuje směr čar."
+    ],
+    "memory": "Venku od S k J."
+  },
+  {
+    "id": 1323,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.05 · str. 101",
+    "sourcePages": "101",
+    "sourceItem": "8.05",
+    "question": "Jaké jsou dvě hlavní části alternátoru?",
+    "options": [
+      "rotor a stator",
+      "kladná a záporná elektroda",
+      "anoda a katoda",
+      "elektrolyt a elektroda"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Alternátor má otáčivý rotor s magnetem nebo elektromagnetem a pevný stator s cívkami, v nichž se indukuje střídavé napětí. Elektrody a elektrolyt patří ke galvanickým článkům."
+    ],
+    "memory": "Rotor se točí, stator stojí."
+  },
+  {
+    "id": 1324,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.06 · str. 101",
+    "sourcePages": "101",
+    "sourceItem": "8.06",
+    "question": "Jaké vlnění je elektromagnetické vlnění?",
+    "options": [
+      "podélné vlnění vektorů E a B",
+      "příčné vlnění vektorů E a B, které jsou navzájem kolmé",
+      "příčné vlnění vektorů E a B, které jsou navzájem rovnoběžné",
+      "podélné vlnění navzájem kolmých vektorů E a B posunutých o π/2"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Elektromagnetická vlna je příčná: vektory E a B kmitají kolmo ke směru šíření i navzájem. V postupné vlně jsou ve fázi."
+    ],
+    "memory": "E ⊥ B ⊥ směr šíření."
+  },
+  {
+    "id": 1325,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.07 · str. 102",
+    "sourcePages": "102",
+    "sourceItem": "8.07",
+    "question": "Jak se pohybuje elektron v homogenním elektrickém poli?",
+    "options": [
+      "po kruhové dráze",
+      "obecně po parabole",
+      "konstantní rychlostí",
+      "je urychlován proti směru intenzity pole"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "Na elektron působí stálá síla F = e·E proti směru intenzity, protože je záporný. Pohyb je rovnoměrně zrychlený, a vletí-li elektron šikmo, opisuje parabolu jako vržené těleso. Po kružnici se pohybuje v magnetickém poli."
+    ],
+    "memory": "Elektrické pole = jako vrh."
+  },
+  {
+    "id": 1326,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.09 · str. 102",
+    "sourcePages": "102",
+    "sourceItem": "8.09",
+    "question": "Kde se elektrony podílejí na vedení proudu jako volné nositele náboje?",
+    "options": [
+      "v elektrolytu",
+      "v kovech",
+      "v ionizovaném plynu",
+      "v polovodičích"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: B, C a D",
+    "paragraphs": [
+      "V kovech vedou volné elektrony, v plynu elektrony i ionty a v polovodičích elektrony a díry. V elektrolytu nesou náboj jen ionty."
+    ],
+    "memory": "Elektrolyt vede ionty."
+  },
+  {
+    "id": 1327,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.11 · str. 102",
+    "sourcePages": "102",
+    "sourceItem": "8.11",
+    "question": "Co platí o energii chemické vazby?",
+    "options": [
+      "udává energii potřebnou k roztržení vazby",
+      "udává počet vazeb mezi atomy",
+      "charakterizuje pevnost vazby",
+      "lze ji vyjádřit v elektronvoltech"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "title": "Správně: A, C a D",
+    "paragraphs": [
+      "Vazebná energie je energie potřebná k rozštěpení vazby, čím je větší, tím je vazba pevnější. U jedné vazby jde o jednotky eV, pro mol se udává v kJ/mol. Počet vazeb neudává."
+    ],
+    "memory": "Pevnější vazba = větší energie."
+  },
+  {
+    "id": 1328,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.12 · str. 102",
+    "sourcePages": "102",
+    "sourceItem": "8.12",
+    "question": "Magnetický indukční tok uzavřeným vodičem se za dobu Δt změní o ΔΦ. Jak podle Faradayova zákona určíme střední hodnotu indukovaného napětí?",
+    "options": [
+      "Uᵢ = −S·ΔΦ",
+      "Uᵢ = −S·ΔΦ/Δt",
+      "Uᵢ = −ΔΦ/Δt",
+      "Uᵢ = −ΔΦ·Δt"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Indukované napětí se rovná záporně vzaté rychlosti změny toku: Uᵢ = −ΔΦ/Δt. Plocha je už obsažena v toku Φ = B·S. Znaménko vyjadřuje Lenzův zákon."
+    ],
+    "memory": "Uᵢ = −ΔΦ/Δt."
+  },
+  {
+    "id": 1329,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.13 · str. 103",
+    "sourcePages": "103",
+    "sourceItem": "8.13",
+    "question": "Z jaké podmínky určíme fázový rozdíl φ napětí a proudu v sériovém obvodu RLC se střídavým proudem (ω úhlová frekvence)?",
+    "options": [
+      "tg φ = (ω·L − 1/(ω·C))/R",
+      "tg φ = R·(ω·L − 1/(ω·C))",
+      "tg φ = ω·L·R",
+      "tg φ = −ω·L/R"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Tangens fázového posunu je poměr celkové reaktance a odporu: tg φ = (X_L − X_C)/R = (ωL − 1/(ωC))/R. Při rezonanci jsou reaktance stejné a φ = 0."
+    ],
+    "memory": "tg φ = X/R."
+  },
+  {
+    "id": 1330,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.14 · str. 103",
+    "sourcePages": "103",
+    "sourceItem": "8.14",
+    "question": "Jak určíme impedanci Z sériového obvodu RLC se střídavým proudem (ω úhlová frekvence)?",
+    "options": [
+      "Z = √(R² + (ω·L − 1/(ω·C))²)",
+      "Z = R",
+      "Z = R² + (ω·L + 1/(ω·C))²",
+      "Z = √(R² − ω·L)"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Odpor a reaktance se skládají jako odvěsny pravoúhlého trojúhelníku: Z = √(R² + (X_L − X_C)²). Z = R platí jen při rezonanci."
+    ],
+    "memory": "Impedanční trojúhelník."
+  },
+  {
+    "id": 1331,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.15 · str. 103",
+    "sourcePages": "103",
+    "sourceItem": "8.15",
+    "question": "Jak se nazývá jev, kdy se ve vodiči indukuje napětí změnami magnetického pole, které vytváří proud procházející tímto vodičem?",
+    "options": [
+      "polovodivost",
+      "vzájemná indukce",
+      "nevlastní indukce",
+      "vlastní indukce"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Při vlastní indukci (samoindukci) působí cívka sama na sebe a indukované napětí brání změně proudu. U vzájemné indukce působí změna proudu v jednom obvodu na jiný obvod, jako v transformátoru."
+    ],
+    "memory": "Samoindukce brání změně proudu."
+  },
+  {
+    "id": 1332,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.16 · str. 103",
+    "sourcePages": "103",
+    "sourceItem": "8.16",
+    "question": "Na čem závisí indukované napětí?",
+    "options": [
+      "vůbec nezávisí na změně magnetického indukčního toku",
+      "nezávisí na rychlosti změny toku",
+      "je tím větší, čím je změna toku pomalejší",
+      "je tím větší, čím je změna toku rychlejší"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Podle Faradayova zákona Uᵢ = −ΔΦ/Δt rozhoduje rychlost změny toku. Rychlejší pohyb magnetu nebo rychlejší změna proudu indukuje větší napětí."
+    ],
+    "memory": "Rychlejší změna, větší napětí."
+  },
+  {
+    "id": 1333,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.17 · str. 103",
+    "sourcePages": "103",
+    "sourceItem": "8.17",
+    "question": "Jak se podle objevitele nazývají vířivé proudy indukované v masivních vodičích (plechy, desky) v proměnném magnetickém poli?",
+    "options": [
+      "Lenzovy",
+      "Faradayovy",
+      "Foucaultovy",
+      "Lorenzovy"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Vířivé proudy popsal Léon Foucault. Zahřívají jádra transformátorů, proto se skládají z izolovaných plechů, a využívají se k brzdění a indukčnímu ohřevu."
+    ],
+    "memory": "Foucault = vířivé proudy."
+  },
+  {
+    "id": 1334,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.18 · str. 103",
+    "sourcePages": "103",
+    "sourceItem": "8.18",
+    "question": "Co platí o induktanci v obvodu střídavého proudu s cívkou?",
+    "options": [
+      "je lineárně závislá na indukčnosti cívky i na frekvenci proudu",
+      "nezávisí na frekvenci proudu",
+      "je přímo úměrná indukčnosti a nepřímo úměrná úhlové frekvenci",
+      "je kvadraticky úměrná indukčnosti a přímo úměrná úhlové frekvenci"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Induktance je X_L = ω·L = 2π·f·L, roste tedy lineárně s indukčností i frekvencí. Proto cívka propouští stejnosměrný proud a vysoké frekvence tlumí."
+    ],
+    "memory": "X_L = ωL."
+  },
+  {
+    "id": 1335,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.19 · str. 104",
+    "sourcePages": "104",
+    "sourceItem": "8.19",
+    "question": "Který obvod funguje jako pasivní elektrický oscilační obvod (R rezistor, L cívka, C kondenzátor)?",
+    "options": [
+      "obvod RR",
+      "obvod CR",
+      "obvod LR",
+      "obvod LC"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Kmitání vzniká přeléváním energie mezi elektrickým polem kondenzátoru a magnetickým polem cívky. Proto potřebujeme L i C, rezistor kmity jen tlumí."
+    ],
+    "memory": "Oscilátor = LC."
+  },
+  {
+    "id": 1336,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.20 · str. 104",
+    "sourcePages": "104",
+    "sourceItem": "8.20",
+    "question": "Co platí, je-li dioda zapojena v propustném směru?",
+    "options": [
+      "má vlastnosti supravodiče",
+      "její odpor je velký a prochází jí velký proud",
+      "její odpor je malý a prochází jí velký proud",
+      "její odpor je velký a prochází jí jen nepatrný proud"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "V propustném směru má dioda malý odpor a vede velký proud, ale supravodičem není. Velký odpor a nepatrný proud odpovídají závěrnému směru."
+    ],
+    "memory": "Propustný = malý odpor."
+  },
+  {
+    "id": 1337,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.21 · str. 104",
+    "sourcePages": "104",
+    "sourceItem": "8.21",
+    "question": "Lineární obvod s prvky RLC je připojen ke zdroji napětí s harmonickým průběhem. Jaký proud jím prochází?",
+    "options": [
+      "stejnosměrný proud s harmonickým průběhem",
+      "střídavý proud s harmonickým průběhem",
+      "konstantní stejnosměrný proud",
+      "ionizační proud"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Lineární prvky nemění tvar průběhu, obvodem teče střídavý harmonický proud se stejnou frekvencí. Změní se jen amplituda a fáze vůči napětí."
+    ],
+    "memory": "Lineární obvod zachová sinusovku."
+  },
+  {
+    "id": 1338,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.22 · str. 104",
+    "sourcePages": "104",
+    "sourceItem": "8.22",
+    "question": "Co platí, je-li polovodičová dioda zapojena v závěrném směru?",
+    "options": [
+      "na anodě je záporný pól a na katodě kladný",
+      "prochází jí jen nepatrný proud",
+      "její odpor je téměř nulový",
+      "její odpor je velký"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "title": "Správně: A, B a D",
+    "paragraphs": [
+      "V závěrném směru je anoda na záporném pólu, přechod PN se rozšíří, odpor je velký a teče jen nepatrný proud menšinových nosičů."
+    ],
+    "memory": "Závěrný = anoda na minus."
+  },
+  {
+    "id": 1339,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.23 · str. 104",
+    "sourcePages": "104",
+    "sourceItem": "8.23",
+    "question": "O kolik jsou navzájem posunuta jednotlivá fázová napětí třífázové soustavy?",
+    "options": [
+      "30°",
+      "120°",
+      "90°",
+      "2π/3 rad"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "Tři fáze rozdělují celou periodu na třetiny: 360° / 3 = 120°, v radiánech 2π/3."
+    ],
+    "memory": "360° / 3 = 120°."
+  },
+  {
+    "id": 1340,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.24 · str. 104",
+    "sourcePages": "104",
+    "sourceItem": "8.24",
+    "question": "Do volně zavěšeného lehkého hliníkového kroužku prudce zasuneme magnet. Co se stane?",
+    "options": [
+      "kroužek se vychýlí ve směru pohybu magnetu",
+      "magnet ztratí své magnetické účinky",
+      "poloha kroužku se nezmění",
+      "kroužek se vychýlí proti směru pohybu magnetu"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Indukovaný proud v kroužku podle Lenzova zákona brání změně toku, kroužek se stane magnetem odpuzujícím blížící se magnet. Proto uhne před magnetem, tedy ve směru jeho pohybu. Při vysouvání ho naopak následuje."
+    ],
+    "memory": "Lenz: kroužek brání změně."
+  },
+  {
+    "id": 1341,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.26 · str. 105",
+    "sourcePages": "105",
+    "sourceItem": "8.26",
+    "question": "Jak nazýváme elektromagnetickou vlnu, v níž se směr vektorů E a B nemění?",
+    "options": [
+      "čelní vlna",
+      "stojatá vlna",
+      "kruhově polarizovaná vlna",
+      "lineárně polarizovaná vlna"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "U lineárně polarizované vlny kmitá vektor E stále v jedné rovině. U kruhové polarizace se směr vektoru otáčí."
+    ],
+    "memory": "Lineární polarizace = jedna rovina."
+  },
+  {
+    "id": 1342,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.28 · str. 105",
+    "sourcePages": "105",
+    "sourceItem": "8.28",
+    "question": "Z jakého krystalu polovodiče je tvořen tranzistor?",
+    "options": [
+      "s jedním přechodem PN",
+      "se dvěma přechody PN",
+      "se dvěma přechody NN",
+      "se třemi přechody PP"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Tranzistor má tři oblasti (NPN nebo PNP), tedy dva přechody PN, a slouží hlavně jako zesilovač nebo spínač. Jeden přechod PN má dioda."
+    ],
+    "memory": "Dioda 1 přechod, tranzistor 2."
+  },
+  {
+    "id": 1343,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.29 · str. 105",
+    "sourcePages": "105",
+    "sourceItem": "8.29",
+    "question": "Čím se v energetice vyrábí střídavé napětí?",
+    "options": [
+      "akumulátory",
+      "alternátory",
+      "transformátory",
+      "termistory"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Střídavé napětí v elektrárnách vyrábějí alternátory. Transformátory ho jen převádějí na jinou velikost, akumulátory dávají stejnosměrné napětí a termistor je teplotně závislý odpor."
+    ],
+    "memory": "Alternátor vyrábí, transformátor mění."
+  },
+  {
+    "id": 1344,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.30 · str. 105",
+    "sourcePages": "105",
+    "sourceItem": "8.30",
+    "question": "Co platí o kapacitanci v obvodu střídavého proudu s kondenzátorem?",
+    "options": [
+      "nezávisí na kapacitě ani na frekvenci",
+      "je nepřímo úměrná kapacitě a přímo úměrná frekvenci",
+      "je přímo úměrná kapacitě i frekvenci",
+      "je nepřímo úměrná kapacitě i frekvenci"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Kapacitance je X_C = 1/(ω·C), klesá s kapacitou i frekvencí. Kondenzátor proto nepropustí stejnosměrný proud, ale vysoké frekvence propouští snadno."
+    ],
+    "memory": "X_C = 1/(ωC)."
+  },
+  {
+    "id": 1345,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.31 · str. 105",
+    "sourcePages": "105",
+    "sourceItem": "8.31",
+    "question": "Na nabitou částici v klidu začne působit homogenní elektrické pole. Co platí?",
+    "options": [
+      "částice se začne pohybovat rovnoměrně zrychleně",
+      "bude se pohybovat přímočaře rovnoběžně s vektorem intenzity",
+      "její kinetická energie poroste s druhou mocninou času",
+      "její potenciální energie bude s druhou mocninou času klesat"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Stálá síla Q·E dává stálé zrychlení ve směru siločar. Rychlost roste úměrně času, kinetická energie s t² a o stejnou hodnotu klesá potenciální energie."
+    ],
+    "memory": "Jako volný pád v poli."
+  },
+  {
+    "id": 1346,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.32 · str. 106",
+    "sourcePages": "106",
+    "sourceItem": "8.32",
+    "question": "Jak označujeme kmitání odpojeného ideálního oscilačního obvodu?",
+    "options": [
+      "elektromagnetická indukce",
+      "vlastní kmitání oscilátoru LC",
+      "nucené kmitání oscilátoru LC",
+      "nevlastní kmitání oscilátoru LC"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Odpojený obvod kmitá vlastní frekvencí f = 1/(2π·√(L·C)). Nucené kmitání vzniká, když obvod budí vnější zdroj."
+    ],
+    "memory": "Odpojený = vlastní kmity."
+  },
+  {
+    "id": 1347,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.33 · str. 106",
+    "sourcePages": "106",
+    "sourceItem": "8.33",
+    "question": "Jak se nazývá veličina, která charakterizuje kombinaci rezistoru a cívky v obvodu střídavého proudu určité frekvence?",
+    "options": [
+      "induktance",
+      "impedance",
+      "kapacitance",
+      "reaktance"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Impedance zahrnuje odpor i reaktanci a udává celkový zdánlivý odpor obvodu. Induktance a kapacitance jsou reaktance samotné cívky nebo kondenzátoru."
+    ],
+    "memory": "Impedance = odpor + reaktance."
+  },
+  {
+    "id": 1348,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.36 · str. 106",
+    "sourcePages": "106",
+    "sourceItem": "8.36",
+    "question": "Proč je severní geomagnetický pól z fyzikálního hlediska jižním pólem magnetického pole Země?",
+    "options": [
+      "v době vzniku konvence bylo pole Země obrácené a změnilo se precesí",
+      "autor konvence se chtěl pomstít studentům",
+      "severní pól střelky (dle konvence) se natáčí k severu",
+      "autor konvence si spletl S jako sever a S jako south"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Severním pólem magnetu nazýváme konec, který se natáčí k severu. Opačné póly se přitahují, takže na severu Země musí ležet jižní magnetický pól."
+    ],
+    "memory": "Opačné póly se přitahují."
+  },
+  {
+    "id": 1349,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.37 · str. 106",
+    "sourcePages": "106",
+    "sourceItem": "8.37",
+    "question": "Jak vypadají magnetické indukční čáry homogenního magnetického pole?",
+    "options": [
+      "jsou na sebe navzájem kolmé",
+      "jsou různoběžné",
+      "jsou rovnoběžné",
+      "mají tvar soustředných koulí"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "V homogenním poli má magnetická indukce všude stejnou velikost i směr, indukční čáry jsou proto rovnoběžné a stejně husté, například uvnitř dlouhé cívky."
+    ],
+    "memory": "Homogenní = rovnoběžné čáry."
+  },
+  {
+    "id": 1350,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus II",
+    "bookRef": "UK · Fyzika · Elektřina a magnetismus II · úloha 8.38 · str. 107",
+    "sourcePages": "107",
+    "sourceItem": "8.38",
+    "question": "Jaký tvar mají magnetické indukční čáry přímého vodiče s proudem?",
+    "options": [
+      "soustředné kružnice v rovinách kolmých k vodiči se středem na vodiči",
+      "přímky rovnoběžné s vodičem",
+      "soustředné koule se středem na vodiči",
+      "soustředné kružnice v rovině, v níž vodič leží"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Kolem přímého vodiče vznikají soustředné kružnice v rovinách kolmých k vodiči. Jejich orientaci určíme pravidlem pravé ruky."
+    ],
+    "memory": "Kružnice kolem drátu."
+  }
+]
