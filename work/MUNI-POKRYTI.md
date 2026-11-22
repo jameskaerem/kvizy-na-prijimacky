@@ -4,9 +4,9 @@ Zdroj: `916110468-Modelove-Testove-Otazky-k-Prijimacim-Zkouskam-Na-LF-MU-fyzika-
 
 | Oddíl | Tištěné strany | Klíč | Stav |
 |---|---|---|---|
-| Fyzika | 7–59 | 60 | 34 otázek (jednotky; kinematika, dynamika, práce, otáčivý pohyb, gravitace), další otevřené |
-| Chemie | 62–119 | 120 | 34 otázek (názvosloví, výpočty, stavba atomu, chemická vazba), další otevřené |
-| Biologie | 122–153 | 154 | 32 otázek (historie, biologie buňky), další otevřené |
+| Fyzika | 7–59 | 60 | 312 otázek, všech osm kapitol posouzeno celé (stav 2.73.0) |
+| Chemie | 62–119 | 120 | 318 otázek, všech šest kapitol posouzeno celé (stav 2.73.0) |
+| Biologie | 122–153 | 154 | 139 otázek, všech sedm kapitol posouzeno celé (stav 2.73.0) |
 
 První dávka ID 1–50: přesná čísla původních úloh u každé položky v `muni-001-050.json` (kapitola + číslo, protože číslování začíná v oddílech znovu). Úlohy mají vlastní formulaci a čtyři možnosti. Seskupené odkazy označují příbuzné zdrojové varianty, nikoli další samostatné otázky. V původním klíči E označuje chybějící správnou možnost; např. fyzika 24, 26 a 40 jsou převedeny na otázky s explicitní správnou odpovědí.
 
@@ -237,6 +237,18 @@ Vynecháno ze Stavby atomu a chemické vazby 1–74 (kromě dříve uvedených 4
 
 Vynecháno z Obecné biologie 1–11: 1 a 9 (jádro jako rozdíl prokaryot a eukaryot, SOM 14), 4 (viry se množí jen v buňce, SOM 12), 8 (HIV, BIO 828). Kapitola je tím posouzená celá.
 
-Dosud nepokryté oddíly: Biologie buňky, kandidáti 42, 43, 44, 50, 51, 53, 57, 64, 67, 68, 69, 74, 79, 81, 82, 83, 84, 85, 88; ostatní zbylé úlohy 1–88 jsou varianty nebo duplicity (posoudit v další dávce).
+Dosud nepokrytá zůstává jen Biologie buňky (zbylé úlohy 1–88).
+
+## Závěrečná dávka 751–769 (verze 2.73.0)
+
+Soubor `muni-751-769.json`, generátor `create_muni_751_769.py`. Odpovědi porovnány s klíčem na str. 154.
+
+- Biologie, Biologie buňky (str. 127–131), ID 751–769: úlohy 42, 43, 44, 50, 51, 53, 57, 64, 67, 68, 69, 74, 79, 81, 82, 83, 84, 85, 88. Úloha 79 s klíčem „žádná“ má doplněnou trojici jádro, mitochondrie a chloroplasty.
+
+Vynecháno z Biologie buňky 1–88 (kromě dříve uvedených 21 a 62): 2, 41, 61 (triviální výroky), 4 (vzruch, BIO 424), 9 (DNA-polymeráza, UK 97), 16, 20, 24, 28, 33 (transkripce a translace, LF MU 609–611), 17, 18 (komplementarita bází, LF MU 89 a UK 93), 22 (bakteriofág, varianta 746), 25 (varianta 748), 36 (cytokineze, ČB 300), 37, 38, 45, 65 (semiautonomní organely, LF MU 42 a UK 41), 39 (fagocytóza, BIO 91), 46 (stavba membrány, SOM 16), 47 (varianta LF MU 44), 49 (varianta 754), 54, 77 (endocytóza, varianty 756), 55 (dýchací řetězec, LF MU 96 a UK 37), 58 (izotop kyslíku, LF MU 632), 59, 60 (cytoskelet, SOM 29 a LF MU 39), 66 (viry, LF MU 87), 70 (varianta 751), 71 (metafáze, LF MU 98 a ČB 122), 72 (lyzozomy, ČB 299), 73 (Golgiho aparát, varianta 764), 80 (rozdíl prokaryot a eukaryot, SOM 14), 87 (centromera, nepřesná formulace „sesterských chromozomů“).
+
+## Stav pokrytí
+
+Všechny kapitoly publikace Mornstein, Dostál, Slaninová (2018) jsou posouzené: každá úloha je použitá, nebo je u ní v této mapě uveden důvod vyřazení (varianta, duplicita s jinou sadou, sporný nebo chybějící klíč, nečitelné OCR). Kvíz LF MU obsahuje 769 otázek, další ID by bylo 770.
 
 Druhý soubor `877344967-LF-MU-Modelove-Otazky-New.pdf` je podle vlastníka (21. 11. 2026) stejná publikace jako hlavní soubor Mornstein a kol. Samostatně se nepokrývá; zdrojem kvízu LF MU je jen hlavní soubor.

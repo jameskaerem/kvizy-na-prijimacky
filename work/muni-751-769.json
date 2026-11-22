@@ -1,0 +1,401 @@
+[
+  {
+    "id": 751,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 42 · str. 127",
+    "sourcePages": "127",
+    "sourceItem": "42",
+    "question": "Kdy vzniká dělicí vřeténko?",
+    "options": [
+      "v S fázi buněčného cyklu",
+      "během celé interfáze",
+      "v profázi mitózy",
+      "v anafázi mitózy"
+    ],
+    "answer": 2,
+    "title": "v profázi mitózy",
+    "paragraphs": [
+      "V profázi se kondenzují chromozomy a centrozomy se rozestupují k pólům, mezi nimiž se z tubulinu skládá vřeténko. V anafázi už vřeténko rozvádí chromatidy k pólům."
+    ],
+    "memory": "Profáze = stavba vřeténka."
+  },
+  {
+    "id": 752,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 43 · str. 127",
+    "sourcePages": "127",
+    "sourceItem": "43",
+    "question": "Co je karyokineze?",
+    "options": [
+      "zaškrcování cytoplazmy na konci M fáze",
+      "pohyb jádra v ose buňky během G1 fáze",
+      "rotační pohyb jádra v interfázi",
+      "dělení jádra v M fázi buněčného cyklu"
+    ],
+    "answer": 3,
+    "title": "dělení jádra v M fázi buněčného cyklu",
+    "paragraphs": [
+      "Karyokineze (mitóza v užším smyslu) rozdělí chromozomy do dvou dceřiných jader. Rozdělení cytoplazmy, které obvykle následuje, se nazývá cytokineze."
+    ],
+    "memory": "Karyon = jádro."
+  },
+  {
+    "id": 753,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 44 · str. 127",
+    "sourcePages": "127",
+    "sourceItem": "44",
+    "question": "Co je pinocytóza?",
+    "options": [
+      "pohlcování kapiček tekutiny z okolí buňky",
+      "pohlcování pevných částic, například bakterií",
+      "tvorba dlouhých výběžků cytoplazmy",
+      "shlukování lymfocytů"
+    ],
+    "answer": 0,
+    "title": "pohlcování kapiček tekutiny z okolí buňky",
+    "paragraphs": [
+      "Pinocytóza („buněčné pití“) je druh endocytózy, při němž se membrána vchlípí a uzavře malý váček s okolní tekutinou. Pohlcování pevných částic je fagocytóza."
+    ],
+    "memory": "Pino = piji."
+  },
+  {
+    "id": 754,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 50 · str. 127",
+    "sourcePages": "127",
+    "sourceItem": "50",
+    "question": "Která trojice součást buňky – biochemická složka – funkce tvoří správný celek?",
+    "options": [
+      "jádro – glukóza – syntéza polysacharidů",
+      "plastidy – uracil – syntéza RNA",
+      "lyzozom – histidin – proteosyntéza",
+      "mitochondrie – cytochrom – syntéza nukleových kyselin"
+    ],
+    "answer": 1,
+    "title": "plastidy – uracil – syntéza RNA",
+    "paragraphs": [
+      "Plastidy mají vlastní DNA a přepisují ji do RNA, jejíž bází je uracil. Cytochromy mitochondrií slouží k přenosu elektronů v dýchacím řetězci, ne k syntéze nukleových kyselin, a lyzozomy bílkoviny rozkládají."
+    ],
+    "memory": "Vlastní DNA = vlastní RNA."
+  },
+  {
+    "id": 755,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 51 · str. 127",
+    "sourcePages": "127",
+    "sourceItem": "51",
+    "question": "U kterých organismů je bičík tvořen svazky mikrotubulů?",
+    "options": [
+      "u bakterií",
+      "u bakteriofágů",
+      "u prvoků",
+      "u améb"
+    ],
+    "answer": 2,
+    "title": "u prvoků",
+    "paragraphs": [
+      "Eukaryotický bičík má uspořádání mikrotubulů 9 + 2 a ohýbá se. Bakteriální bičík je dutý proteinový (flagelinový) šroubovitý útvar, který se otáčí. Améby se pohybují panožkami."
+    ],
+    "memory": "Eukaryotický bičík = mikrotubuly."
+  },
+  {
+    "id": 756,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 53 · str. 128",
+    "sourcePages": "128",
+    "sourceItem": "53",
+    "question": "Co je endocytóza?",
+    "options": [
+      "vylučování látek z buňky",
+      "pasivní příjem malých molekul difuzí",
+      "samonatrávení buněčného obsahu",
+      "aktivní příjem makromolekul a částic do buňky vchlípením plazmatické membrány"
+    ],
+    "answer": 3,
+    "title": "aktivní příjem makromolekul a částic do buňky vchlípením plazmatické membrány",
+    "paragraphs": [
+      "Při endocytóze se membrána vchlípí a odškrtí váček s pohlceným obsahem. Spotřebovává energii. Vylučování váčky je exocytóza a samonatrávení autofagie."
+    ],
+    "memory": "Endo = dovnitř, ve váčku."
+  },
+  {
+    "id": 757,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 57 · str. 128",
+    "sourcePages": "128",
+    "sourceItem": "57",
+    "question": "Ve kterých fázích buněčného cyklu probíhá translace nejintenzivněji?",
+    "options": [
+      "v G1 a G2 fázi",
+      "jen v S fázi",
+      "v G2 a M fázi",
+      "jen v M fázi"
+    ],
+    "answer": 0,
+    "title": "v G1 a G2 fázi",
+    "paragraphs": [
+      "V G1 fázi buňka roste a tvoří bílkoviny i organely, v G2 se připravuje na dělení. Během mitózy je syntéza bílkovin výrazně utlumená."
+    ],
+    "memory": "Růstové fáze = výroba bílkovin."
+  },
+  {
+    "id": 758,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 64 · str. 129",
+    "sourcePages": "129",
+    "sourceItem": "64",
+    "question": "Čím je podle klasického modelu zajištěno rozdělení replikovaného chromozomu prokaryotické buňky?",
+    "options": [
+      "jednoduchým dělicím vřeténkem",
+      "růstem plazmatické membrány, ke které jsou chromozomy uchyceny",
+      "náhodnou distribucí kruhových molekul DNA",
+      "teprve druhotně vytvořením buněčné přepážky"
+    ],
+    "answer": 1,
+    "title": "růstem plazmatické membrány, ke které jsou chromozomy uchyceny",
+    "paragraphs": [
+      "Prokaryota nemají mitotické vřeténko. Obě kopie kruhového chromozomu jsou připojeny k membráně a růstem membrány mezi nimi se od sebe vzdalují. Pak se buňka rozdělí přepážkou."
+    ],
+    "memory": "Bakterie: membrána místo vřeténka."
+  },
+  {
+    "id": 759,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 67 · str. 129",
+    "sourcePages": "129",
+    "sourceItem": "67",
+    "question": "Které tvrzení o plazmatické membráně neodpovídá skutečnosti?",
+    "options": [
+      "tvoří semipermeabilní bariéru buňky",
+      "u prokaryot obsahuje enzymy dýchacího řetězce",
+      "je nepropustná pro molekuly vody",
+      "u některých buněk nese specifické protilátky"
+    ],
+    "answer": 2,
+    "title": "je nepropustná pro molekuly vody",
+    "paragraphs": [
+      "Voda prochází membránou difuzí i bílkovinnými kanály (akvaporiny), na tom stojí osmóza. Prokaryota nemají mitochondrie, a dýchací řetězec proto leží v jejich plazmatické membráně. B-lymfocyty nesou na povrchu protilátky jako receptory."
+    ],
+    "memory": "Bez propustnosti pro vodu by nebyla osmóza."
+  },
+  {
+    "id": 760,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 68 · str. 129",
+    "sourcePages": "129",
+    "sourceItem": "68",
+    "question": "Co nejpřesněji vystihuje „sexuální“ život bakterií?",
+    "options": [
+      "bakterie neprojevují žádnou výměnu genetické informace",
+      "bakterie si vyměňují geny jen při infekci bakteriofágem",
+      "bakterie se rozmnožují pohlavně i nepohlavně",
+      "bakterie si mohou vyměňovat geny, ale pohlavně se nerozmnožují"
+    ],
+    "answer": 3,
+    "title": "bakterie si mohou vyměňovat geny, ale pohlavně se nerozmnožují",
+    "paragraphs": [
+      "Bakterie se množí jen dělením. Geny však mohou získat konjugací, transformací i transdukcí, a tím vzniká nová kombinace vlastností bez pohlavního rozmnožování."
+    ],
+    "memory": "Výměna genů ano, sex ne."
+  },
+  {
+    "id": 761,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 69 · str. 129",
+    "sourcePages": "129",
+    "sourceItem": "69",
+    "question": "Které tvrzení o prokaryotech a dýchání neodpovídá skutečnosti?",
+    "options": [
+      "striktně anaerobní prokaryota rostou jen za přístupu kyslíku",
+      "obligátně aerobní prokaryota rostou jen za přístupu kyslíku",
+      "fakultativně anaerobní organismy mohou růst s kyslíkem i bez něj",
+      "anaerobní dýchání využívá kyslík vázaný v anorganické sloučenině, například v dusičnanu"
+    ],
+    "answer": 0,
+    "title": "striktně anaerobní prokaryota rostou jen za přístupu kyslíku",
+    "paragraphs": [
+      "Striktním anaerobům kyslík škodí, a proto rostou jen bez něj, například klostridia. Při anaerobním dýchání slouží jako konečný akceptor elektronů dusičnany, sírany a podobné látky."
+    ],
+    "memory": "Anaerob = bez vzduchu."
+  },
+  {
+    "id": 762,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 74 · str. 130",
+    "sourcePages": "130",
+    "sourceItem": "74",
+    "question": "Které tvrzení o centriolu neodpovídá současným poznatkům?",
+    "options": [
+      "je součástí centrozomu",
+      "je umístěn v primární konstrikci chromozomu",
+      "jeho strukturním základem jsou mikrotubuly",
+      "uplatňuje se jako organizační struktura dělicího vřeténka"
+    ],
+    "answer": 1,
+    "title": "je umístěn v primární konstrikci chromozomu",
+    "paragraphs": [
+      "Primární konstrikce chromozomu je centromera, ke které se přes kinetochor připojují vlákna vřeténka. Centrioly leží v centrozomu u jádra a nemají s centromerou nic společného, kromě podobného názvu."
+    ],
+    "memory": "Centriol ≠ centromera."
+  },
+  {
+    "id": 763,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 79 · str. 130",
+    "sourcePages": "130",
+    "sourceItem": "79",
+    "question": "Které organely jsou ohraničeny dvěma membránami?",
+    "options": [
+      "mitochondrie, lyzozomy a vakuoly",
+      "endoplazmatické retikulum, vakuoly a mitochondrie",
+      "jádro, mitochondrie a chloroplasty",
+      "jádro, ribozomy a chloroplasty"
+    ],
+    "answer": 2,
+    "title": "jádro, mitochondrie a chloroplasty",
+    "paragraphs": [
+      "Jaderný obal, mitochondrie i plastidy mají dvě membrány. Lyzozomy, vakuoly a endoplazmatické retikulum mají jednu a ribozomy žádnou. V knize klíč „žádná“, správná trojice je doplněna."
+    ],
+    "memory": "Dvě membrány: jádro a semiautonomní organely."
+  },
+  {
+    "id": 764,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 81 · str. 131",
+    "sourcePages": "131",
+    "sourceItem": "81",
+    "question": "Co jsou diktyozomy?",
+    "options": [
+      "typické membránové organely prokaryot",
+      "proteinové agregáty, na které je navinuta DNA",
+      "svorky zajišťující soudržnost tkáně",
+      "soubory plochých cisteren tvořící Golgiho aparát"
+    ],
+    "answer": 3,
+    "title": "soubory plochých cisteren tvořící Golgiho aparát",
+    "paragraphs": [
+      "Golgiho aparát se skládá z diktyozomů, které upravují bílkoviny a lipidy z endoplazmatického retikula a balí je do sekrečních váčků. Agregáty s navinutou DNA jsou nukleozomy, mezibuněčné svorky desmozomy."
+    ],
+    "memory": "Diktyozom = hromádka cisteren."
+  },
+  {
+    "id": 765,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 82 · str. 131",
+    "sourcePages": "131",
+    "sourceItem": "82",
+    "question": "Na čem závisí aktivní transport molekul přes plazmatickou membránu?",
+    "options": [
+      "na aktivitě přenašečových molekul v membráně",
+      "na polaritě přenášených molekul",
+      "na velikosti pórů v membráně",
+      "jen na koncentračním spádu látky"
+    ],
+    "answer": 0,
+    "title": "na aktivitě přenašečových molekul v membráně",
+    "paragraphs": [
+      "Aktivní transport přenáší látky i proti koncentračnímu spádu pomocí přenašečů, například sodno-draselné pumpy, a spotřebovává ATP. Na koncentračním spádu závisí naopak prostá difuze."
+    ],
+    "memory": "Pumpa potřebuje přenašeč a ATP."
+  },
+  {
+    "id": 766,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 83 · str. 131",
+    "sourcePages": "131",
+    "sourceItem": "83",
+    "question": "Kolik gamet vznikne při gametogenezi z jedné buňky zárodečného epitelu u muže a kolik u ženy?",
+    "options": [
+      "u muže 2, u ženy 2",
+      "u muže 4, u ženy 1",
+      "u muže 4, u ženy 4",
+      "u muže 1, u ženy 4"
+    ],
+    "answer": 1,
+    "title": "u muže 4, u ženy 1",
+    "paragraphs": [
+      "Ze spermatocytu vzniknou po meióze čtyři spermie. Při oogenezi se cytoplazma dělí nerovnoměrně, vznikne jedno vajíčko a zbylá jádra odcházejí v pólových tělíscích."
+    ],
+    "memory": "Čtyři spermie, jedno vajíčko."
+  },
+  {
+    "id": 767,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 84 · str. 131",
+    "sourcePages": "131",
+    "sourceItem": "84",
+    "question": "Který prvek je nejhojněji zastoupen v sušině buňky?",
+    "options": [
+      "kyslík",
+      "dusík",
+      "uhlík",
+      "vodík"
+    ],
+    "answer": 2,
+    "title": "uhlík",
+    "paragraphs": [
+      "Po odstranění vody tvoří většinu hmotnosti organické látky, jejichž kostru tvoří uhlík (asi 50 % sušiny). Ve vlhké buňce včetně vody převládá kyslík."
+    ],
+    "memory": "Sušina = uhlíkové kostry."
+  },
+  {
+    "id": 768,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 85 · str. 131",
+    "sourcePages": "131",
+    "sourceItem": "85",
+    "question": "Co sinice jako autotrofní prokaryota k růstu a množení nepotřebují?",
+    "options": [
+      "zdroj uhlíku",
+      "zdroj dusíku",
+      "světelnou energii",
+      "glukózu"
+    ],
+    "answer": 3,
+    "title": "glukózu",
+    "paragraphs": [
+      "Sinice si organické látky vytvářejí fotosyntézou z CO₂ a vody s využitím světla. Potřebují zdroj uhlíku (CO₂) a dusíku, který některé umějí poutat i ze vzduchu, ale ne hotovou glukózu."
+    ],
+    "memory": "Autotrof si cukr udělá sám."
+  },
+  {
+    "id": 769,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 88 · str. 131",
+    "sourcePages": "131",
+    "sourceItem": "88",
+    "question": "Chceme autoradiograficky zjistit, kde se v buňce syntetizuje DNA. Kterou radioaktivní sloučeninu použijeme?",
+    "options": [
+      "thymidin",
+      "kyselinu fosforečnou",
+      "adenosin",
+      "ribózu"
+    ],
+    "answer": 0,
+    "title": "thymidin",
+    "paragraphs": [
+      "Thymin je báze jen v DNA, a značený thymidin se proto zabudovává výhradně do nově syntetizované DNA. Fosfát a adenin jsou i v RNA a ATP, ribóza je cukr RNA."
+    ],
+    "memory": "Thymin = jen DNA."
+  }
+]
