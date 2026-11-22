@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 551,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 123 · str. 98",
+    "sourcePages": "98",
+    "sourceItem": "123",
+    "question": "Mezi jaké látky patří sloučenina CH₃−CO−CH₂−CO−O−CH₂−CH₃?",
+    "options": [
+      "anhydridy kyselin",
+      "ethery",
+      "estery",
+      "acetaly"
+    ],
+    "answer": 2,
+    "title": "estery",
+    "paragraphs": [
+      "Jde o ethyl-acetoacetát, ethylester kyseliny acetoctové. Skupina −CO−O− spojuje acyl kyseliny s ethylem alkoholu. Ketonová skupina na C3 zařazení nemění."
+    ],
+    "memory": "−CO−O−R = ester."
+  },
+  {
+    "id": 552,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 127 · str. 98",
+    "sourcePages": "98",
+    "sourceItem": "127",
+    "question": "Kterou skupinu sloučenin lze poměrně snadno hydrolyticky štěpit zahřátím s kyselým katalyzátorem?",
+    "options": [
+      "dialkyldisulfidy",
+      "ethery",
+      "karboxylové kyseliny",
+      "amidy"
+    ],
+    "answer": 3,
+    "title": "amidy",
+    "paragraphs": [
+      "Amidy se v kyselém prostředí štěpí na karboxylovou kyselinu a amonnou sůl (nebo sůl aminu). Stejně se štěpí peptidová vazba bílkovin. Ethery a disulfidy jsou vůči hydrolýze odolné."
+    ],
+    "memory": "Amid + voda = kyselina + amin."
+  },
+  {
+    "id": 553,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 128 · str. 98",
+    "sourcePages": "98",
+    "sourceItem": "128",
+    "question": "Které tvrzení o amidech není správné?",
+    "options": [
+      "amidy jsou výrazně bazičtější než aminy",
+      "kyselou hydrolýzou poskytnou kyselinu a amonnou sůl",
+      "vznikají také acylací aminů",
+      "mohou obsahovat seskupení −CO−NH−CO−"
+    ],
+    "answer": 0,
+    "title": "amidy jsou výrazně bazičtější než aminy",
+    "paragraphs": [
+      "Volný elektronový pár dusíku je v amidu delokalizován do karbonylové skupiny, proto amidy proton prakticky nepřijímají a jsou téměř neutrální. Aminy jsou naopak zásadité."
+    ],
+    "memory": "Amid ≈ neutrální, amin = báze."
+  },
+  {
+    "id": 554,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 130 · str. 99",
+    "sourcePages": "99",
+    "sourceItem": "130",
+    "question": "Která sloučenina není hydroxyderivátem karboxylové kyseliny?",
+    "options": [
+      "kyselina salicylová",
+      "kyselina ftalová",
+      "kyselina citronová",
+      "kyselina jablečná"
+    ],
+    "answer": 1,
+    "title": "kyselina ftalová",
+    "paragraphs": [
+      "Kyselina ftalová je benzen-1,2-dikarboxylová kyselina bez skupiny −OH. Salicylová, citronová i jablečná kyselina hydroxyl mají."
+    ],
+    "memory": "Ftalová = jen dva karboxyly."
+  },
+  {
+    "id": 555,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 132 · str. 99",
+    "sourcePages": "99",
+    "sourceItem": "132",
+    "question": "S čím mohou hydroxykyseliny tvořit estery?",
+    "options": [
+      "jen s alkoholy",
+      "jen s kyselinami",
+      "s kyselinami i s alkoholy",
+      "jen zcela výjimečně"
+    ],
+    "answer": 2,
+    "title": "s kyselinami i s alkoholy",
+    "paragraphs": [
+      "Hydroxykyseliny mají skupinu −OH i −COOH. Hydroxyl se esterifikuje kyselinou (tak vzniká aspirin ze salicylové kyseliny), karboxyl alkoholem. Mohou tvořit i vnitřní estery (laktony)."
+    ],
+    "memory": "Dvě skupiny, dvě cesty k esteru."
+  },
+  {
+    "id": 556,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 133 · str. 99",
+    "sourcePages": "99",
+    "sourceItem": "133",
+    "question": "Jaký sumární vzorec má kyselina salicylová?",
+    "options": [
+      "C₉H₈O₄",
+      "C₈H₆O₄",
+      "C₇H₆O₂",
+      "C₇H₆O₃"
+    ],
+    "answer": 3,
+    "title": "C₇H₆O₃",
+    "paragraphs": [
+      "Kyselina o-hydroxybenzoová HO−C₆H₄−COOH má sedm uhlíků a tři kyslíky. C₇H₆O₂ je kyselina benzoová a C₉H₈O₄ kyselina acetylsalicylová."
+    ],
+    "memory": "Benzoová + O = salicylová."
+  },
+  {
+    "id": 557,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 135 · str. 99",
+    "sourcePages": "99",
+    "sourceItem": "135",
+    "question": "Co vzniká dehydrogenací kyseliny jablečné?",
+    "options": [
+      "kyselina oxaloctová",
+      "kyselina maleinová",
+      "kyselina jantarová",
+      "kyselina acetoctová"
+    ],
+    "answer": 0,
+    "title": "kyselina oxaloctová",
+    "paragraphs": [
+      "Sekundární hydroxyl kyseliny jablečné se oxiduje na ketoskupinu. Tuto reakci katalyzuje malátdehydrogenáza v posledním kroku citrátového cyklu."
+    ],
+    "memory": "Malát → oxalacetát."
+  },
+  {
+    "id": 558,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 137 · str. 99",
+    "sourcePages": "99",
+    "sourceItem": "137",
+    "question": "Jaký triviální název má sloučenina CH₃−CO−CH₂−COOH?",
+    "options": [
+      "kyselina jablečná",
+      "kyselina acetoctová",
+      "kyselina pyrohroznová",
+      "kyselina oxaloctová"
+    ],
+    "answer": 1,
+    "title": "kyselina acetoctová",
+    "paragraphs": [
+      "Kyselina 3-oxobutanová má ketoskupinu na uhlíku β. Patří mezi ketolátky, které vznikají v játrech při nadbytečném odbourávání mastných kyselin. Pyrohroznová kyselina CH₃−CO−COOH má jen tři uhlíky."
+    ],
+    "memory": "Aceto-octová = acetyl + octová."
+  },
+  {
+    "id": 559,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 140 · str. 99",
+    "sourcePages": "99",
+    "sourceItem": "140",
+    "question": "Která z uvedených kyselin je chirální?",
+    "options": [
+      "kyselina citronová",
+      "kyselina salicylová",
+      "kyselina jablečná",
+      "kyselina pyrohroznová"
+    ],
+    "answer": 2,
+    "title": "kyselina jablečná",
+    "paragraphs": [
+      "V kyselině jablečné HOOC−CH₂−CH(OH)−COOH nese uhlík s hydroxylem čtyři různé substituenty. U kyseliny citronové má centrální uhlík dvě stejné skupiny −CH₂−COOH, a proto chirální není."
+    ],
+    "memory": "Čtyři různí sousedé = chiralita."
+  },
+  {
+    "id": 560,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 143 · str. 99",
+    "sourcePages": "99",
+    "sourceItem": "143",
+    "question": "Co lze získat hydrolýzou alifatických nitrilů?",
+    "options": [
+      "kyanovodík",
+      "alifatické primární aminy",
+      "aminokyseliny",
+      "amidy alkanových kyselin"
+    ],
+    "answer": 3,
+    "title": "amidy alkanových kyselin",
+    "paragraphs": [
+      "Adicí vody na trojnou vazbu C≡N vznikne nejprve amid R−CO−NH₂, jehož další hydrolýzou se uvolní karboxylová kyselina a amoniak. Primární aminy vznikají redukcí nitrilů."
+    ],
+    "memory": "Nitril + H₂O → amid → kyselina."
+  },
+  {
+    "id": 561,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 145 · str. 100",
+    "sourcePages": "100",
+    "sourceItem": "145",
+    "question": "Který z uvedených heterocyklů neobsahuje atom kyslíku?",
+    "options": [
+      "pyrazol",
+      "pyran",
+      "furan",
+      "dioxan"
+    ],
+    "answer": 0,
+    "title": "pyrazol",
+    "paragraphs": [
+      "Pyrazol je pětičlenný kruh se dvěma sousedními atomy dusíku. Pyran a furan mají jeden kyslík, dioxan dva."
+    ],
+    "memory": "Pyrazol = dva dusíky vedle sebe."
+  },
+  {
+    "id": 562,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 149 · str. 100",
+    "sourcePages": "100",
+    "sourceItem": "149",
+    "question": "Který z uvedených heterocyklů je pětičlenný a obsahuje dva atomy dusíku?",
+    "options": [
+      "pyran",
+      "pyrazol",
+      "pyridin",
+      "pyrimidin"
+    ],
+    "answer": 1,
+    "title": "pyrazol",
+    "paragraphs": [
+      "Pyrazol i jeho izomer imidazol mají pětičlenný kruh se dvěma dusíky. Pyridin a pyrimidin jsou šestičlenné, pyran obsahuje kyslík."
+    ],
+    "memory": "Pyrazol 1,2, imidazol 1,3."
+  },
+  {
+    "id": 563,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 154 · str. 100",
+    "sourcePages": "100",
+    "sourceItem": "154",
+    "question": "Jaký sumární vzorec má purin?",
+    "options": [
+      "C₆H₄N₄",
+      "C₇H₆N₂",
+      "C₅H₄N₄",
+      "C₈H₇N"
+    ],
+    "answer": 2,
+    "title": "C₅H₄N₄",
+    "paragraphs": [
+      "Purin vzniká spojením pyrimidinového a imidazolového kruhu a má pět uhlíků a čtyři dusíky. C₈H₇N je indol."
+    ],
+    "memory": "Purin = 5 C + 4 N."
+  },
+  {
+    "id": 564,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 155 · str. 100",
+    "sourcePages": "100",
+    "sourceItem": "155",
+    "question": "Jaký sumární vzorec má pyrrolidin?",
+    "options": [
+      "C₄H₅N",
+      "C₅H₁₁N",
+      "C₃H₄N₂",
+      "C₄H₉N"
+    ],
+    "answer": 3,
+    "title": "C₄H₉N",
+    "paragraphs": [
+      "Pyrrolidin je nasycený pětičlenný kruh ze čtyř skupin CH₂ a skupiny NH. Pyrrol C₄H₅N má dvě dvojné vazby, C₅H₁₁N je šestičlenný piperidin."
+    ],
+    "memory": "Pyrrol + 4 H = pyrrolidin."
+  },
+  {
+    "id": 565,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 156 · str. 100",
+    "sourcePages": "100",
+    "sourceItem": "156",
+    "question": "Jaký sumární vzorec má indol?",
+    "options": [
+      "C₈H₇N",
+      "C₇H₆N₂",
+      "C₅H₄N₄",
+      "C₃H₄N₂"
+    ],
+    "answer": 0,
+    "title": "C₈H₇N",
+    "paragraphs": [
+      "Indol je benzenové jádro kondenzované s pyrrolem, má osm uhlíků a jeden dusík. Je součástí tryptofanu a serotoninu."
+    ],
+    "memory": "Indol = benzen + pyrrol."
+  },
+  {
+    "id": 566,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 157 · str. 100",
+    "sourcePages": "100",
+    "sourceItem": "157",
+    "question": "Jaký sumární vzorec má imidazol?",
+    "options": [
+      "C₄H₄N",
+      "C₃H₄N₂",
+      "C₅H₁₁N",
+      "C₄H₁₀N₂"
+    ],
+    "answer": 1,
+    "title": "C₃H₄N₂",
+    "paragraphs": [
+      "Imidazol má pětičlenný kruh ze tří uhlíků a dvou dusíků s jedním vodíkem na dusíku a třemi na uhlících. Je součástí histidinu a purinů."
+    ],
+    "memory": "Imidazol = C₃H₄N₂."
+  },
+  {
+    "id": 567,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 166 · str. 101",
+    "sourcePages": "101",
+    "sourceItem": "166",
+    "question": "Které tvrzení o většině přírodních alkaloidů není správné?",
+    "options": [
+      "vyskytují se převážně v rostlinách",
+      "v rostlinách jsou vázány jako soli s organickými kyselinami",
+      "jsou často složkami těkavých silic",
+      "mnoho z nich má výrazné biologické účinky"
+    ],
+    "answer": 2,
+    "title": "jsou často složkami těkavých silic",
+    "paragraphs": [
+      "Alkaloidy jsou dusíkaté zásadité látky, které se v rostlinách vyskytují jako soli a nejsou těkavé. Hlavními složkami silic jsou terpeny."
+    ],
+    "memory": "Silice = terpeny, ne alkaloidy."
+  },
+  {
+    "id": 568,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 168 · str. 101",
+    "sourcePages": "101",
+    "sourceItem": "168",
+    "question": "Reakcí jakých látek vznikne sloučenina H₂N−CH(R)−CO−O−R (R = alkyl)?",
+    "options": [
+      "kyseliny a aminu",
+      "ketonu a amidu",
+      "esteru a aminu",
+      "aminokyseliny a alkoholu"
+    ],
+    "answer": 3,
+    "title": "aminokyseliny a alkoholu",
+    "paragraphs": [
+      "Karboxyl α-aminokyseliny se esterifikuje alkoholem a aminoskupina zůstane volná. Reakcí kyseliny a aminu by vznikl amid."
+    ],
+    "memory": "Aminokyselina + alkohol = ester."
+  },
+  {
+    "id": 569,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 169 · str. 102",
+    "sourcePages": "102",
+    "sourceItem": "169",
+    "question": "Jak se obecně nazývají sloučeniny R−CH=N−R, R−S−S−R a R−CH(OR)₂ (R = alkyl)?",
+    "options": [
+      "aldimin, disulfid, acetal",
+      "amin, disulfid, ester",
+      "aldimin, disulfid, poloacetal",
+      "amid, thioacetal, anhydrid kyseliny"
+    ],
+    "answer": 0,
+    "title": "aldimin, disulfid, acetal",
+    "paragraphs": [
+      "Skupina CH=N− vzniká z aldehydu a aminu (aldimin, Schiffova báze). Dva atomy síry spojené vazbou tvoří disulfid. Uhlík se dvěma skupinami −OR je acetal, poloacetal by měl jednu −OR a jednu −OH."
+    ],
+    "memory": "Dvě OR = acetal, OR + OH = poloacetal."
+  },
+  {
+    "id": 570,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 172 · str. 102",
+    "sourcePages": "102",
+    "sourceItem": "172",
+    "question": "Jak se obecně nazývají sloučeniny R−CO−O−R, R−CO−NH−Ar a R−SO₂−OH?",
+    "options": [
+      "poloacetal, amid, alkylsulfát",
+      "ester, amid, sulfonová kyselina",
+      "anhydrid, arylamid, alkylsulfid",
+      "acetal, dipeptid, thioacetal"
+    ],
+    "answer": 1,
+    "title": "ester, amid, sulfonová kyselina",
+    "paragraphs": [
+      "R−CO−O−R je ester, R−CO−NH−Ar N-substituovaný amid (anilid). V R−SO₂−OH je síra vázána přímo na uhlík, jde o sulfonovou kyselinu. Alkylsulfát R−O−SO₃H má síru vázanou přes kyslík."
+    ],
+    "memory": "S na C = sulfonová kyselina."
+  },
+  {
+    "id": 571,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 174 · str. 102",
+    "sourcePages": "102",
+    "sourceItem": "174",
+    "question": "Reakcí jakých látek vznikne sloučenina R−CO−CH₂−CO−NR₂ (R = alkyl)?",
+    "options": [
+      "ketonu a amidu",
+      "diketonu a aminu",
+      "oxokyseliny a aminu",
+      "aminokyseliny a ketonu"
+    ],
+    "answer": 2,
+    "title": "oxokyseliny a aminu",
+    "paragraphs": [
+      "Jde o amid 3-oxokyseliny. Karboxyl kyseliny R−CO−CH₂−COOH reaguje se sekundárním aminem HNR₂ na amid a ketoskupina zůstane."
+    ],
+    "memory": "−CO−NR₂ = kyselina + amin."
+  },
+  {
+    "id": 572,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 175 · str. 102",
+    "sourcePages": "102",
+    "sourceItem": "175",
+    "question": "Jak se obecně nazývají sloučeniny R−CO−CH₂−CO−R, R−CH(OH)−OR a R−SH (R = alkyl)?",
+    "options": [
+      "ether, ester, sulfan",
+      "anhydrid kyseliny, acetal, sulfid",
+      "acetal, poloacetal, sulfát",
+      "diketon, poloacetal, thiol"
+    ],
+    "answer": 3,
+    "title": "diketon, poloacetal, thiol",
+    "paragraphs": [
+      "Dvě ketoskupiny tvoří diketon. Uhlík s jednou skupinou −OH a jednou −OR je poloacetal, jako u cyklických forem cukrů. R−SH je thiol."
+    ],
+    "memory": "Jedna OH + jedna OR = poloacetal."
+  },
+  {
+    "id": 573,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 177 · str. 103",
+    "sourcePages": "103",
+    "sourceItem": "177",
+    "question": "Která z uvedených sloučenin je chirální?",
+    "options": [
+      "butan-2-ol",
+      "propan-2-ol",
+      "pentan-3-ol",
+      "heptan-4-ol"
+    ],
+    "answer": 0,
+    "title": "butan-2-ol",
+    "paragraphs": [
+      "Uhlík C2 butan-2-olu nese H, OH, methyl a ethyl, tedy čtyři různé skupiny. U ostatních alkoholů má uhlík s hydroxylem dva stejné alkyly."
+    ],
+    "memory": "Butan-2-ol: methyl ≠ ethyl."
+  },
+  {
+    "id": 574,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 179 · str. 103",
+    "sourcePages": "103",
+    "sourceItem": "179",
+    "question": "V molekule které sloučeniny není primární alkoholová skupina?",
+    "options": [
+      "glukopyranóza",
+      "cyklopentanol",
+      "glycerol",
+      "ethandiol"
+    ],
+    "answer": 1,
+    "title": "cyklopentanol",
+    "paragraphs": [
+      "Hydroxyl cyklopentanolu je na uhlíku kruhu vázaném na dva další uhlíky, je tedy sekundární. Glukopyranóza má primární −CH₂OH na C6, glycerol na C1 a C3, ethandiol na obou uhlících."
+    ],
+    "memory": "Kruhový uhlík = sekundární OH."
+  },
+  {
+    "id": 575,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 183 · str. 103",
+    "sourcePages": "103",
+    "sourceItem": "183",
+    "question": "Co vznikne redukcí hydroxyacetonu?",
+    "options": [
+      "propan-1,2,3-triol",
+      "propanon",
+      "propan-1,2-diol",
+      "ethan-1,2-diol"
+    ],
+    "answer": 2,
+    "title": "propan-1,2-diol",
+    "paragraphs": [
+      "Hydroxyaceton HO−CH₂−CO−CH₃ má ketoskupinu na C2. Její redukcí vznikne sekundární alkohol a celkem propan-1,2-diol HO−CH₂−CH(OH)−CH₃."
+    ],
+    "memory": "Keton + H₂ = sekundární OH."
+  },
+  {
+    "id": 576,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 184 · str. 103",
+    "sourcePages": "103",
+    "sourceItem": "184",
+    "question": "Která z uvedených kyselin je dikarboxylová?",
+    "options": [
+      "kyselina glukuronová",
+      "kyselina glukonová",
+      "kyselina citronová",
+      "kyselina glutarová"
+    ],
+    "answer": 3,
+    "title": "kyselina glutarová",
+    "paragraphs": [
+      "Kyselina glutarová (pentandiová) má na obou koncích řetězce karboxyl. Glukonová a glukuronová kyselina mají jeden karboxyl, citronová tři."
+    ],
+    "memory": "Glutarová = pentandiová."
+  },
+  {
+    "id": 577,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 185 · str. 103",
+    "sourcePages": "103",
+    "sourceItem": "185",
+    "question": "Která sloučenina není ester?",
+    "options": [
+      "2-ethylbenzoát draselný",
+      "ethyl-benzoát",
+      "dihydroxyacetonfosfát",
+      "3-fosfoglycerát"
+    ],
+    "answer": 0,
+    "title": "2-ethylbenzoát draselný",
+    "paragraphs": [
+      "2-Ethylbenzoát draselný je draselná sůl kyseliny 2-ethylbenzoové, ethyl je zde substituent na jádře. Fosfáty cukrů a glycerátu jsou estery kyseliny fosforečné."
+    ],
+    "memory": "Kov místo alkylu = sůl."
+  },
+  {
+    "id": 578,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 1 · str. 104",
+    "sourcePages": "104",
+    "sourceItem": "1",
+    "question": "Kolik existuje celkem necyklických aldotetróz a ketotetróz (tetrulóz)?",
+    "options": [
+      "12",
+      "6",
+      "10",
+      "9"
+    ],
+    "answer": 1,
+    "title": "6",
+    "paragraphs": [
+      "Aldotetróza má dva chirální uhlíky, tedy 2² = 4 stereoizomery. Ketotetróza má jeden chirální uhlík a 2 stereoizomery. Celkem 6."
+    ],
+    "memory": "Počet izomerů = 2ⁿ."
+  },
+  {
+    "id": 579,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 2 · str. 104",
+    "sourcePages": "104",
+    "sourceItem": "2",
+    "question": "Kolik stereoizomerů mají celkem necyklické aldopentózy a 2-ketopentózy?",
+    "options": [
+      "6",
+      "10",
+      "12",
+      "16"
+    ],
+    "answer": 2,
+    "title": "12",
+    "paragraphs": [
+      "Aldopentózy mají tři chirální uhlíky (2³ = 8 izomerů), 2-ketopentózy dva (2² = 4). Celkem 12."
+    ],
+    "memory": "8 + 4 = 12."
+  },
+  {
+    "id": 580,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 3 · str. 104",
+    "sourcePages": "104",
+    "sourceItem": "3",
+    "question": "Čím se liší enantiomer D-glukózy (L-glukóza) od D-glukózy?",
+    "options": [
+      "konfigurací jen na anomerním uhlíku",
+      "konfigurací na druhém, třetím nebo čtvrtém uhlíku",
+      "konfigurací jen na pátém (referenčním) uhlíku",
+      "konfigurací na všech chirálních uhlících"
+    ],
+    "answer": 3,
+    "title": "konfigurací na všech chirálních uhlících",
+    "paragraphs": [
+      "Enantiomer je zrcadlový obraz, proto má opačnou konfiguraci na všech čtyřech chirálních centrech. Změna jen na jednom uhlíku vede k epimeru (například D-mannóze nebo D-galaktóze), změna jen na C5 by dala jiný cukr řady L."
+    ],
+    "memory": "Zrcadlo obrací všechna centra."
+  },
+  {
+    "id": 581,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 4 · str. 104",
+    "sourcePages": "104",
+    "sourceItem": "4",
+    "question": "Kolik center chirality má necyklická forma D-ribózy?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer": 0,
+    "title": "3",
+    "paragraphs": [
+      "Aldopentóza ribóza má chirální uhlíky C2, C3 a C4. C1 je aldehyd a C5 skupina −CH₂OH, ty chirální nejsou."
+    ],
+    "memory": "Aldóza: n − 2 center."
+  },
+  {
+    "id": 582,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 5 · str. 104",
+    "sourcePages": "104",
+    "sourceItem": "5",
+    "question": "Kolik center chirality má necyklická forma D-galaktózy?",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "6"
+    ],
+    "answer": 1,
+    "title": "4",
+    "paragraphs": [
+      "Aldohexóza galaktóza má chirální uhlíky C2 až C5. Od glukózy se liší jen konfigurací na C4."
+    ],
+    "memory": "Aldohexóza = 4 centra."
+  },
+  {
+    "id": 583,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 6 · str. 104",
+    "sourcePages": "104",
+    "sourceItem": "6",
+    "question": "Kolik center chirality má necyklická forma D-fruktózy?",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": 2,
+    "title": "3",
+    "paragraphs": [
+      "Ketohexóza fruktóza má ketoskupinu na C2, chirální jsou jen uhlíky C3, C4 a C5."
+    ],
+    "memory": "Ketóza: o centrum méně než aldóza."
+  },
+  {
+    "id": 584,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 7 · str. 104",
+    "sourcePages": "104",
+    "sourceItem": "7",
+    "question": "Jakou reakcí vznikají cyklické formy sacharidů?",
+    "options": [
+      "reakcí karbonylu s hydroxylovou skupinou jiné molekuly",
+      "reakcí poloacetalového hydroxylu s hydroxylem téže molekuly",
+      "reakcí poloacetalového hydroxylu s hydroxylem jiné molekuly",
+      "reakcí karbonylu s hydroxylovou skupinou téže molekuly"
+    ],
+    "answer": 3,
+    "title": "reakcí karbonylu s hydroxylovou skupinou téže molekuly",
+    "paragraphs": [
+      "Aldehydová nebo ketonová skupina reaguje s hydroxylem na C4 nebo C5 téže molekuly a vznikne vnitřní poloacetal. Reakcí poloacetalového hydroxylu s hydroxylem jiné molekuly vzniká glykosid."
+    ],
+    "memory": "Cyklus = vnitřní poloacetal."
+  },
+  {
+    "id": 585,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 9 · str. 104",
+    "sourcePages": "104",
+    "sourceItem": "9",
+    "question": "Kolik center chirality má α-D-glukopyranóza?",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "3"
+    ],
+    "answer": 0,
+    "title": "5",
+    "paragraphs": [
+      "Uzavřením kruhu se z C1 stane nový chirální (anomerní) uhlík, takže k původním C2 až C5 přibude páté centrum."
+    ],
+    "memory": "Cyklizace přidá anomerní centrum."
+  },
+  {
+    "id": 586,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 10 · str. 104",
+    "sourcePages": "104",
+    "sourceItem": "10",
+    "question": "Kolik center chirality má β-D-ribofuranóza?",
+    "options": [
+      "2",
+      "4",
+      "5",
+      "3"
+    ],
+    "answer": 1,
+    "title": "4",
+    "paragraphs": [
+      "Necyklická ribóza má tři chirální uhlíky. V cyklické formě se chirálním stane i anomerní uhlík C1, celkem C1 až C4."
+    ],
+    "memory": "3 + anomerní = 4."
+  },
+  {
+    "id": 587,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 11 · str. 104",
+    "sourcePages": "104",
+    "sourceItem": "11",
+    "question": "Kolik chirálních uhlíků má β-D-fruktofuranóza?",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": 2,
+    "title": "4",
+    "paragraphs": [
+      "Necyklická fruktóza má chirální uhlíky C3 až C5. Při cyklizaci se chirálním stane anomerní uhlík C2."
+    ],
+    "memory": "Fruktóza v kruhu: C2 až C5."
+  },
+  {
+    "id": 588,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 12 · str. 104",
+    "sourcePages": "104",
+    "sourceItem": "12",
+    "question": "Která cyklická forma je anomerem α-D-glukopyranózy?",
+    "options": [
+      "α-D-mannopyranóza",
+      "α-D-glukofuranóza",
+      "α-L-glukopyranóza",
+      "β-D-glukopyranóza"
+    ],
+    "answer": 3,
+    "title": "β-D-glukopyranóza",
+    "paragraphs": [
+      "Anomery se liší jen konfigurací na anomerním uhlíku C1, tedy polohou poloacetalového hydroxylu. Ve vodném roztoku se navzájem přeměňují (mutarotace)."
+    ],
+    "memory": "α ⇌ β = anomery."
+  },
+  {
+    "id": 589,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 16 · str. 105",
+    "sourcePages": "105",
+    "sourceItem": "16",
+    "question": "Kolik stereoizomerních cyklických forem D-glukózy je ve vodném roztoku?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "8"
+    ],
+    "answer": 0,
+    "title": "4",
+    "paragraphs": [
+      "Glukóza tvoří šestičlenné (pyranózy) i pětičlenné (furanózy) kruhy a každý ve formě α i β. Převažuje β-D-glukopyranóza."
+    ],
+    "memory": "2 velikosti kruhu × 2 anomery."
+  },
+  {
+    "id": 590,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 18 · str. 105",
+    "sourcePages": "105",
+    "sourceItem": "18",
+    "question": "Jakou vazbou je glykosidová vazba v principu?",
+    "options": [
+      "poloacetalovou",
+      "acetalovou",
+      "etherovou",
+      "esterovou"
+    ],
+    "answer": 1,
+    "title": "acetalovou",
+    "paragraphs": [
+      "Glykosid vzniká reakcí poloacetalového hydroxylu cukru s dalším hydroxylem. Na anomerním uhlíku jsou pak dvě skupiny −OR, což odpovídá acetalu."
+    ],
+    "memory": "Poloacetal + alkohol = acetal."
+  },
+  {
+    "id": 591,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 20 · str. 105",
+    "sourcePages": "105",
+    "sourceItem": "20",
+    "question": "Které tvrzení o glykosidové vazbě není správné?",
+    "options": [
+      "u neredukujících disacharidů spojuje glykosidová vazba dva poloacetalové hydroxyly",
+      "glykosidová vazba vzniká reakcí poloacetalového hydroxylu nejčastěji s hydroxylem jiné molekuly",
+      "glykosidy mohou v roztocích samovolně měnit konfiguraci na anomerním uhlíku",
+      "sacharidy mohou glykosidovou vazbou vázat i necukerné složky"
+    ],
+    "answer": 2,
+    "title": "glykosidy mohou v roztocích samovolně měnit konfiguraci na anomerním uhlíku",
+    "paragraphs": [
+      "Mutarotace je možná jen u volného poloacetalu, který se otevírá na karbonylovou formu. Glykosidová (acetalová) vazba kruh zamyká, a proto se konfigurace na anomerním uhlíku samovolně nemění."
+    ],
+    "memory": "Glykosid = zamčený anomer."
+  },
+  {
+    "id": 592,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 23 · str. 105",
+    "sourcePages": "105",
+    "sourceItem": "23",
+    "question": "Který sacharid je neredukující?",
+    "options": [
+      "laktóza",
+      "ribóza",
+      "fruktóza",
+      "sacharóza"
+    ],
+    "answer": 3,
+    "title": "sacharóza",
+    "paragraphs": [
+      "V sacharóze jsou glukóza a fruktóza spojeny přes oba anomerní uhlíky, takže žádný volný poloacetal nezbývá a Fehlingovo činidlo neredukuje. Laktóza i monosacharidy redukují."
+    ],
+    "memory": "Sacharóza = oba konce spojené."
+  },
+  {
+    "id": 593,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 24 · str. 105",
+    "sourcePages": "105",
+    "sourceItem": "24",
+    "question": "Který z uvedených sacharidů je redukující disacharid?",
+    "options": [
+      "maltóza",
+      "galaktóza",
+      "fruktóza",
+      "amylóza"
+    ],
+    "answer": 0,
+    "title": "maltóza",
+    "paragraphs": [
+      "Maltóza má glukózy spojené vazbou α(1→4), takže druhá glukóza má volný poloacetalový hydroxyl a redukuje. Galaktóza a fruktóza jsou monosacharidy, amylóza polysacharid."
+    ],
+    "memory": "Maltóza: jeden konec volný."
+  },
+  {
+    "id": 594,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 25 · str. 105",
+    "sourcePages": "105",
+    "sourceItem": "25",
+    "question": "Který z uvedených sacharidů je redukující?",
+    "options": [
+      "sacharóza",
+      "laktóza",
+      "amylóza",
+      "amylodextrin"
+    ],
+    "answer": 1,
+    "title": "laktóza",
+    "paragraphs": [
+      "Laktóza má glukózovou jednotku s volným anomerním uhlíkem C1, proto dává pozitivní Fehlingovu reakci. Polysacharidy mají na obrovskou molekulu jen jeden redukující konec a prakticky neredukují."
+    ],
+    "memory": "Laktóza redukuje, sacharóza ne."
+  },
+  {
+    "id": 595,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 28 · str. 106",
+    "sourcePages": "106",
+    "sourceItem": "28",
+    "question": "Štěpením čeho vznikají dextriny?",
+    "options": [
+      "lipidů",
+      "celulózy",
+      "amylopektinu (škrobu)",
+      "polypeptidů"
+    ],
+    "answer": 2,
+    "title": "amylopektinu (škrobu)",
+    "paragraphs": [
+      "Dextriny jsou kratší řetězce α-glukózy, které vznikají částečnou hydrolýzou škrobu kyselinou, teplem nebo amylázou. Vznikají například na kůrce pečiva."
+    ],
+    "memory": "Škrob → dextriny → maltóza."
+  },
+  {
+    "id": 596,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 32 · str. 106",
+    "sourcePages": "106",
+    "sourceItem": "32",
+    "question": "Která kyselina vznikne hydrogenací kyseliny olejové?",
+    "options": [
+      "palmitová",
+      "linolenová",
+      "linolová",
+      "stearová"
+    ],
+    "answer": 3,
+    "title": "stearová",
+    "paragraphs": [
+      "Adicí vodíku na jedinou dvojnou vazbu kyseliny olejové (18:1) vznikne nasycená kyselina se stejným počtem 18 uhlíků, kyselina stearová."
+    ],
+    "memory": "Olejová + H₂ = stearová."
+  },
+  {
+    "id": 597,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 34 · str. 106",
+    "sourcePages": "106",
+    "sourceItem": "34",
+    "question": "Která kyselina je kyselina cis,cis,cis-oktadeka-9,12,15-trienová?",
+    "options": [
+      "linolenová",
+      "arachidonová",
+      "olejová",
+      "linolová"
+    ],
+    "answer": 0,
+    "title": "linolenová",
+    "paragraphs": [
+      "Kyselina α-linolenová (18:3, omega-3) má tři dvojné vazby. Linolová má dvě, olejová jednu a arachidonová kyselina má 20 uhlíků a čtyři dvojné vazby."
+    ],
+    "memory": "Linolenová = tři dvojné vazby."
+  },
+  {
+    "id": 598,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 35 · str. 106",
+    "sourcePages": "106",
+    "sourceItem": "35",
+    "question": "Co vznikne hydrolýzou sloučeniny CH₃CH₂CH₂−O−CH₂CH₂−CO−O−CH₃ hydroxidem sodným?",
+    "options": [
+      "propanol, 3-hydroxypropanoát sodný a methanol",
+      "CH₃CH₂CH₂−O−CH₂CH₂−COO⁻ Na⁺ a methanol",
+      "propanolát sodný a methyl-3-hydroxypropanoát",
+      "kyselina, Na⁺ a methanolátový anion"
+    ],
+    "answer": 1,
+    "title": "CH₃CH₂CH₂−O−CH₂CH₂−COO⁻ Na⁺ a methanol",
+    "paragraphs": [
+      "Hydroxid štěpí jen esterovou vazbu na karboxylát a methanol. Etherová vazba −O− je vůči zásadité hydrolýze stálá a zůstane zachována."
+    ],
+    "memory": "Ester se štěpí, ether ne."
+  },
+  {
+    "id": 599,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 40 · str. 107",
+    "sourcePages": "107",
+    "sourceItem": "40",
+    "question": "Jakou reakci má vodný roztok pevného sodného mýdla?",
+    "options": [
+      "slabě kyselou",
+      "neutrální",
+      "slabě zásaditou",
+      "podle způsobu přípravy kyselou nebo zásaditou"
+    ],
+    "answer": 2,
+    "title": "slabě zásaditou",
+    "paragraphs": [
+      "Mýdlo je sůl slabé mastné kyseliny a silné zásady. Karboxylátový anion částečně hydrolyzuje (R−COO⁻ + H₂O ⇌ R−COOH + OH⁻), a roztok je proto slabě zásaditý."
+    ],
+    "memory": "Sůl slabé kyseliny = zásaditá."
+  },
+  {
+    "id": 600,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 43 · str. 107",
+    "sourcePages": "107",
+    "sourceItem": "43",
+    "question": "Které tvrzení o triacylglycerolech s vysokým podílem nenasycených mastných kyselin není správné?",
+    "options": [
+      "patří k nim rostlinné a živočišné oleje",
+      "poměrně snadno se oxidují vzdušným kyslíkem",
+      "jsou důležitým zdrojem esenciálních mastných kyselin",
+      "jsou surovinou, z níž se hydratací připravují margaríny"
+    ],
+    "answer": 3,
+    "title": "jsou surovinou, z níž se hydratací připravují margaríny",
+    "paragraphs": [
+      "Margaríny se z olejů vyrábějí hydrogenací, tedy adicí vodíku na dvojné vazby, nikoli adicí vody. Nenasycené oleje snadno žluknou oxidací a obsahují esenciální kyseliny linolovou a linolenovou."
+    ],
+    "memory": "Ztužování = H₂, ne H₂O."
+  }
+]
