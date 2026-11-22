@@ -119,6 +119,21 @@ Chemie úlohy 1–56: 1, 2, 4–8, 10, 11, 13–16 (zařazení prvků, varianty 
 
 Biologie člověka je tím posouzená celá (1–100). Z kandidátů minulé dávky nepřidáno: 47 (minutový objem, LF MU 240), 56 (počet leukocytů, ve vysvětlení LF MU 239), 72 (uložení štítné žlázy, BIO 561), 78 (spála, LF MU 246), 82 (endokrinní žlázy, BIO 536), 83 (trojcípá chlopeň, BIO 140), 84 a 88 (klíč „žádná“), 90 (chrup, LF MU 242), 93 (žluté tělísko, BIO 738), 94 (kost klínová, ČB 86), 97 (lymfocyty jako agranulocyty, ČB 636). Životní funkce úlohy 1–25: zbytek čeká na další dávku.
 
-Dosud nepokryté oddíly: fyzika Elektřina 36–89, Optika, Atomová a jaderná fyzika, zbylé úlohy prvních kapitol; chemie Periodický systém od úlohy 57 a další kapitoly; biologie Životní funkce (kromě 5, 9, 19), Evoluce, Ekologie.
+## Sedmá dávka ID 301–350 (v2.56.0)
+
+Soubor `muni-301-350.json`, generátor `create_muni_301_350.py`. Odpovědi ověřeny výpočtem nebo výkladem a porovnány s klíčem na str. 60 a 120.
+
+| Předmět | Kapitola (tištěné strany) | Použité úlohy | ID |
+|---|---|---|---|
+| Fyzika | Elektřina a magnetismus, elektronika (40–45) | 36, 38, 39, 40, 41, 42, 44, 46, 48, 49, 50, 51, 53, 54, 55, 56, 57, 58, 59, 60, 61, 63, 64, 65, 66, 67, 68, 69, 75, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87 | 301–340 |
+| Chemie | Periodický systém, rovnováhy a disperzní soustavy (87–89) | 57, 58, 60, 61, 63, 64, 65, 66, 69, 72 | 341–350 |
+
+Klíč E převeden na explicitní správnou odpověď: elektřina 36 (otázka obrácena na konkrétní zapojení 200 Ω, všechny čtyři hodnoty lze sestavit), 38 (13,5 MJ), 51 (5 ms), 63 (1,8 · 10⁻⁶ N), 65 (pohyb beze změny), 81 (kruhový pohyb). Chemie 61 (hledá nesprávné tvrzení) převedena na otázku, jak se mění K při zředění.
+
+Elektřina je tím posouzená celá (1–89). Nepřidáno z úloh 36–89: 37 (I = Q/t, LF MU 273 a 305), 43 (kov při rostoucí teplotě, varianta 304), 45 (bor v křemíku, varianta 307, pro případnou další dávku), 47 (jednotka F, ve vysvětlení 309), 52 (vzorec kapacitance, LF MU 11, pro případnou další dávku), 62 (permeabilita oceli, číselný údaj se liší podle druhu), 70–74 (vzorce impedancí, OCR vzorců nečitelné), 76 (varianta 329), 88 (obrazovka, zastaralá technika), 89 (elektrické hudební nástroje, dlouhé víceúrovňové zadání).
+
+Chemie úlohy 57–72: 59 (varianta 342), 62 (varianta 343), 67 (složení zubní pasty, specifické), 68 (suspenze fosforečnanu, varianta 349), 70 (olej a voda se rozdělí na dvě fáze, triviální), 71 (CaSO₄ je málo rozpustný, ne zcela nerozpustný; sporné). Periodický systém je tím posouzený celý (1–72).
+
+Dosud nepokryté oddíly: fyzika Optika, Atomová a jaderná fyzika, zbylé úlohy prvních kapitol; chemie Organická chemie, Biochemie a zbylé úlohy prvních kapitol; biologie Životní funkce (kromě 5, 9, 19), Evoluce, Ekologie.
 
 Druhý soubor `877344967-LF-MU-Modelove-Otazky-New.pdf` je podle vlastníka (21. 11. 2026) stejná publikace jako hlavní soubor Mornstein a kol. Samostatně se nepokrývá; zdrojem kvízu LF MU je jen hlavní soubor.

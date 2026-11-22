@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 301,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 36 · str. 40",
+    "sourcePages": "40",
+    "sourceItem": "36",
+    "question": "Máme tři stejné rezistory po 300 Ω. Jaký celkový odpor má zapojení, kde jsou dva v sérii a třetí je k nim připojen paralelně?",
+    "options": [
+      "200 Ω",
+      "100 Ω",
+      "450 Ω",
+      "900 Ω"
+    ],
+    "answer": 0,
+    "title": "200 Ω",
+    "paragraphs": [
+      "Dva v sérii dávají 600 Ω. Paralelně s 300 Ω: R = 600 · 300/(600 + 300) = 200 Ω. Ostatní hodnoty dávají jiná zapojení: 100 Ω všechny paralelně, 900 Ω všechny sériově a 450 Ω dva paralelně a třetí sériově."
+    ],
+    "memory": "Paralelně: součin lomeno součtem."
+  },
+  {
+    "id": 302,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 38 · str. 40",
+    "sourcePages": "40",
+    "sourceItem": "38",
+    "question": "Kolik tepla vznikne z elektrické energie za pět hodin provozu vařiče o příkonu 0,75 kW?",
+    "options": [
+      "1,35 MJ",
+      "13,5 MJ",
+      "135 kJ",
+      "3,75 kJ"
+    ],
+    "answer": 1,
+    "title": "13,5 MJ",
+    "paragraphs": [
+      "Q = P · t = 750 W · 18 000 s = 1,35 · 10⁷ J = 13,5 MJ. Totéž je 3,75 kWh."
+    ],
+    "memory": "Hodiny převeď na sekundy."
+  },
+  {
+    "id": 303,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 39 · str. 40",
+    "sourcePages": "40",
+    "sourceItem": "39",
+    "question": "O čem pojednává 1. Kirchhoffův zákon?",
+    "options": [
+      "o napětích v uzavřené smyčce obvodu",
+      "o indukci napětí magnetickým polem",
+      "o proudech v uzlu elektrického obvodu",
+      "o nábojích v elektrolytu"
+    ],
+    "answer": 2,
+    "title": "o proudech v uzlu elektrického obvodu",
+    "paragraphs": [
+      "Součet proudů do uzlu vstupujících se rovná součtu proudů vystupujících. Vyjadřuje zákon zachování náboje. O napětích ve smyčce mluví 2. Kirchhoffův zákon."
+    ],
+    "memory": "1. zákon uzel, 2. zákon smyčka."
+  },
+  {
+    "id": 304,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 40 · str. 41",
+    "sourcePages": "41",
+    "sourceItem": "40",
+    "question": "Co lze očekávat při rostoucí teplotě polovodiče, kterým prochází stále stejný proud?",
+    "options": [
+      "uvolní se v něm za jednotku času více tepla",
+      "roste jeho elektrický odpor",
+      "klesá jeho elektrická vodivost",
+      "uvolní se v něm za jednotku času méně tepla"
+    ],
+    "answer": 3,
+    "title": "uvolní se v něm za jednotku času méně tepla",
+    "paragraphs": [
+      "S teplotou přibývá v polovodiči volných nosičů náboje, odpor klesá a vodivost roste. Při stejném proudu je výkon P = I² · R menší, tepla se tedy uvolňuje méně."
+    ],
+    "memory": "Polovodič: teplo dolů, odpor dolů."
+  },
+  {
+    "id": 305,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 41 · str. 41",
+    "sourcePages": "41",
+    "sourceItem": "41",
+    "question": "Baterie dodává 1 hodinu proud 10 mA. Jak velký náboj přenese?",
+    "options": [
+      "36 C",
+      "10 C",
+      "36 000 C",
+      "360 000 C"
+    ],
+    "answer": 0,
+    "title": "36 C",
+    "paragraphs": [
+      "Q = I · t = 0,010 A · 3600 s = 36 C."
+    ],
+    "memory": "Q = I · t."
+  },
+  {
+    "id": 306,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 42 · str. 41",
+    "sourcePages": "41",
+    "sourceItem": "42",
+    "question": "Akumulátor dodává čtyři hodiny výkon 1,00 W při napětí 6,00 V. Jak velký náboj přenese?",
+    "options": [
+      "7200 C",
+      "2400 C",
+      "6 C",
+      "9,65 · 10⁴ C"
+    ],
+    "answer": 1,
+    "title": "2400 C",
+    "paragraphs": [
+      "Proud je I = P/U = 1/6 A. Za 4 h = 14 400 s přenese Q = I · t = 14 400/6 = 2400 C."
+    ],
+    "memory": "I = P/U, pak Q = I · t."
+  },
+  {
+    "id": 307,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 44 · str. 41",
+    "sourcePages": "41",
+    "sourceItem": "44",
+    "question": "Co způsobí příměs fosforu v čistém křemíku?",
+    "options": [
+      "vznik děrové vodivosti",
+      "že se polovodič začne chovat jako izolant",
+      "přírůstek počtu volných elektronů",
+      "zhoršení vodivosti polovodiče"
+    ],
+    "answer": 2,
+    "title": "přírůstek počtu volných elektronů",
+    "paragraphs": [
+      "Fosfor má pět valenčních elektronů, čtyři se zapojí do vazeb s křemíkem a pátý se uvolní. Vzniká polovodič typu N s elektronovou vodivostí. Děrovou vodivost (typ P) způsobují trojmocné příměsi jako bor."
+    ],
+    "memory": "P (5 e⁻) = typ N, B (3 e⁻) = typ P."
+  },
+  {
+    "id": 308,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 46 · str. 41",
+    "sourcePages": "41",
+    "sourceItem": "46",
+    "question": "Rezistorem 500 Ω prochází stejnosměrný proud 2,00 A. Za jak dlouho se v něm uvolní 1,00 J tepla?",
+    "options": [
+      "0,001 s",
+      "1000 s",
+      "2000 s",
+      "0,5 ms"
+    ],
+    "answer": 3,
+    "title": "0,5 ms",
+    "paragraphs": [
+      "Výkon je P = I² · R = 4 · 500 = 2000 W. Čas t = Q/P = 1/2000 s = 0,5 ms."
+    ],
+    "memory": "P = I²R, t = Q/P."
+  },
+  {
+    "id": 309,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 48 · str. 41",
+    "sourcePages": "41",
+    "sourceItem": "48",
+    "question": "Jak lze chápat Faradayovu konstantu?",
+    "options": [
+      "jako elektrický náboj jednoho molu elektronů",
+      "jako energii jednoho molu elektronů",
+      "jako náboj v jednotkovém objemu elektrolytu",
+      "jako počet nabitých částic v jednom molu elektrolytu"
+    ],
+    "answer": 0,
+    "title": "jako elektrický náboj jednoho molu elektronů",
+    "paragraphs": [
+      "F = N_A · e ≈ 6,022 · 10²³ · 1,602 · 10⁻¹⁹ C ≈ 96 485 C·mol⁻¹. Jednotkou je proto C·mol⁻¹."
+    ],
+    "memory": "F ≈ 96 500 C na mol elektronů."
+  },
+  {
+    "id": 310,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 49 · str. 41",
+    "sourcePages": "41",
+    "sourceItem": "49",
+    "question": "Čemu se rovná elektrochemický ekvivalent látky?",
+    "options": [
+      "Faradayově konstantě",
+      "molární hmotnosti dělené Faradayovou konstantou a počtem elektronů potřebných k vyloučení jedné částice",
+      "součinu Faradayovy konstanty a molární hmotnosti",
+      "molární hmotnosti dělené jen Faradayovou konstantou"
+    ],
+    "answer": 1,
+    "title": "molární hmotnosti dělené Faradayovou konstantou a počtem elektronů potřebných k vyloučení jedné částice",
+    "paragraphs": [
+      "Podle Faradayových zákonů je m = A · Q, kde A = M/(z · F). Číslo z je počet elektronů vyměněných při vyloučení jedné částice, například 2 u Cu²⁺."
+    ],
+    "memory": "A = M/(zF)."
+  },
+  {
+    "id": 311,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 50 · str. 42",
+    "sourcePages": "42",
+    "sourceItem": "50",
+    "question": "Kdy je síla, kterou magnetické pole působí na vodič s proudem, nulová?",
+    "options": [
+      "když je vodič kolmý k vektoru B (úhel 90°)",
+      "když je proud střídavý",
+      "když je vodič rovnoběžný s vektorem B (úhel 0°)",
+      "když jsou siločáry pole rovnoběžné"
+    ],
+    "answer": 2,
+    "title": "když je vodič rovnoběžný s vektorem B (úhel 0°)",
+    "paragraphs": [
+      "F = B · I · l · sin α. Pro α = 0° je sin α = 0 a síla zmizí. Největší je při kolmém uložení vodiče."
+    ],
+    "memory": "F ∝ sin α."
+  },
+  {
+    "id": 312,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 51 · str. 42",
+    "sourcePages": "42",
+    "sourceItem": "51",
+    "question": "Za jak dlouho po zapnutí dosáhne střídavé napětí o frekvenci 50 Hz poprvé amplitudy, roste-li od nuly?",
+    "options": [
+      "za 10 ms",
+      "za 20 ms",
+      "okamžitě",
+      "za 5 ms"
+    ],
+    "answer": 3,
+    "title": "za 5 ms",
+    "paragraphs": [
+      "Perioda je T = 1/50 s = 20 ms. Sinusoida dosáhne maxima po čtvrtině periody, tedy za 5 ms. Za 10 ms je napětí opět nulové."
+    ],
+    "memory": "Amplituda za T/4."
+  },
+  {
+    "id": 313,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 53 · str. 42",
+    "sourcePages": "42",
+    "sourceItem": "53",
+    "question": "Jak závisí magnetická indukce ve středu dlouhé válcové cívky s proudem?",
+    "options": [
+      "je přímo úměrná permeabilitě prostředí",
+      "je přímo úměrná poloměru cívky",
+      "je nepřímo úměrná počtu závitů",
+      "je vždy nulová"
+    ],
+    "answer": 0,
+    "title": "je přímo úměrná permeabilitě prostředí",
+    "paragraphs": [
+      "Uvnitř dlouhé cívky platí B = μ · N · I/l. Indukce roste s permeabilitou jádra, počtem závitů a proudem a na poloměru nezávisí."
+    ],
+    "memory": "B = μNI/l."
+  },
+  {
+    "id": 314,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 54 · str. 42",
+    "sourcePages": "42",
+    "sourceItem": "54",
+    "question": "Kterým vztahem se vypočítá induktance (reaktance) cívky?",
+    "options": [
+      "X_L = 1/(ωL)",
+      "X_L = ωL",
+      "X_L = ω/L",
+      "X_L = L/ω"
+    ],
+    "answer": 1,
+    "title": "X_L = ωL",
+    "paragraphs": [
+      "Induktance roste s frekvencí i indukčností. Cívka proto klade vysokým frekvencím velký odpor a stejnosměrný proud propouští."
+    ],
+    "memory": "Cívka: vysoké f brzdí."
+  },
+  {
+    "id": 315,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 55 · str. 42",
+    "sourcePages": "42",
+    "sourceItem": "55",
+    "question": "Elektron vletí kolmo k indukci do homogenního magnetického pole B = 5,00 · 10⁻⁴ T rychlostí 2,00 · 10⁴ km·s⁻¹. Jaká síla na něj působí? (e = 1,602 · 10⁻¹⁹ C)",
+    "options": [
+      "1,60 · 10⁻¹³ N",
+      "0,80 · 10⁻¹⁶ N",
+      "1,60 · 10⁻¹⁵ N",
+      "0 N"
+    ],
+    "answer": 2,
+    "title": "1,60 · 10⁻¹⁵ N",
+    "paragraphs": [
+      "Lorentzova síla F = e · v · B = 1,602 · 10⁻¹⁹ · 2,00 · 10⁷ · 5,00 · 10⁻⁴ = 1,60 · 10⁻¹⁵ N. Rychlost je třeba převést na m·s⁻¹."
+    ],
+    "memory": "F = evB, km/s × 1000."
+  },
+  {
+    "id": 316,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 56 · str. 42",
+    "sourcePages": "42",
+    "sourceItem": "56",
+    "question": "Vodič délky 30 cm se pohybuje rychlostí 20 cm·s⁻¹ kolmo k indukci B = 0,2 T. Jaké napětí se v něm indukuje?",
+    "options": [
+      "1,20 mV",
+      "1,20 V",
+      "12,0 V",
+      "12,0 mV"
+    ],
+    "answer": 3,
+    "title": "12,0 mV",
+    "paragraphs": [
+      "U = B · l · v = 0,2 · 0,30 · 0,20 = 0,012 V = 12,0 mV."
+    ],
+    "memory": "U = Blv v jednotkách SI."
+  },
+  {
+    "id": 317,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 57 · str. 42",
+    "sourcePages": "42",
+    "sourceItem": "57",
+    "question": "Vodič délky 60 cm se pohybuje rychlostí 20 cm·s⁻¹ rovnoběžně s vektorem indukce B = 0,200 T. Jaké napětí se v něm indukuje?",
+    "options": [
+      "0 V",
+      "24,0 mV",
+      "240 mV",
+      "2,40 V"
+    ],
+    "answer": 0,
+    "title": "0 V",
+    "paragraphs": [
+      "Při pohybu rovnoběžně s indukcí vodič neprotíná siločáry a magnetický tok se nemění, proto se žádné napětí neindukuje."
+    ],
+    "memory": "Rovnoběžně s B = nula."
+  },
+  {
+    "id": 318,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 58 · str. 42",
+    "sourcePages": "42",
+    "sourceItem": "58",
+    "question": "Jaká je časově průměrná hodnota okamžitého napětí v zásuvce se střídavým napětím 230 V?",
+    "options": [
+      "230 V",
+      "blízká nule",
+      "230 · √2 V",
+      "400 V"
+    ],
+    "answer": 1,
+    "title": "blízká nule",
+    "paragraphs": [
+      "Sinusové napětí je polovinu periody kladné a polovinu záporné, takže jeho prostý průměr je nulový. Údaj 230 V je efektivní hodnota."
+    ],
+    "memory": "Průměr sinusovky = 0."
+  },
+  {
+    "id": 319,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 59 · str. 42",
+    "sourcePages": "42",
+    "sourceItem": "59",
+    "question": "Jak závisí magnetická indukce v okolí přímého vodiče se stejnosměrným proudem na proudu?",
+    "options": [
+      "je nepřímo úměrná proudu",
+      "závisí na kovu vodiče",
+      "je přímo úměrná proudu",
+      "je nulová"
+    ],
+    "answer": 2,
+    "title": "je přímo úměrná proudu",
+    "paragraphs": [
+      "B = μ · I/(2π · r). Indukce roste s proudem a klesá se vzdáleností od vodiče. Materiál vodiče nerozhoduje."
+    ],
+    "memory": "B ∝ I/r."
+  },
+  {
+    "id": 320,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 60 · str. 42",
+    "sourcePages": "42",
+    "sourceItem": "60",
+    "question": "Jak se označují látky, které mírně zeslabují magnetické pole?",
+    "options": [
+      "paramagnetické",
+      "feromagnetické",
+      "antimagnetické",
+      "diamagnetické"
+    ],
+    "answer": 3,
+    "title": "diamagnetické",
+    "paragraphs": [
+      "Diamagnetické látky (například voda, měď, bismut) mají relativní permeabilitu nepatrně menší než 1. Paramagnetické pole mírně zesilují a feromagnetické výrazně."
+    ],
+    "memory": "Dia = slabě proti."
+  },
+  {
+    "id": 321,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 61 · str. 42",
+    "sourcePages": "42",
+    "sourceItem": "61",
+    "question": "Co se stane s rotujícím měděným kotoučem mezi póly silného magnetu (rovina kotouče kolmá k indukci)?",
+    "options": [
+      "jeho pohyb bude brzděn",
+      "jeho pohyb bude urychlován",
+      "jeho rotace nebude ovlivněna",
+      "bude přitahován k jednomu pólu"
+    ],
+    "answer": 0,
+    "title": "jeho pohyb bude brzděn",
+    "paragraphs": [
+      "V kotouči se indukují vířivé proudy, které podle Lenzova pravidla působí proti změně, jež je vyvolala. Proto kotouč brzdí. Měď není feromagnetická, k pólu se nepřitahuje."
+    ],
+    "memory": "Vířivé proudy brzdí (Lenz)."
+  },
+  {
+    "id": 322,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 63 · str. 43",
+    "sourcePages": "43",
+    "sourceItem": "63",
+    "question": "Dvěma dlouhými rovnoběžnými vodiči vzdálenými 1 m ve vakuu protéká proud 3 A stejným směrem. Jak velkou silou na sebe působí na každém metru délky?",
+    "options": [
+      "1 · 10⁻⁷ N",
+      "1,8 · 10⁻⁶ N",
+      "3 · 10⁻⁷ N",
+      "6 · 10⁻⁷ N"
+    ],
+    "answer": 1,
+    "title": "1,8 · 10⁻⁶ N",
+    "paragraphs": [
+      "F/l = μ₀ · I₁ · I₂/(2π · d) = 2 · 10⁻⁷ · 3 · 3/1 = 1,8 · 10⁻⁶ N. Vodiče se přitahují."
+    ],
+    "memory": "F/l = 2 · 10⁻⁷ · I₁I₂/d."
+  },
+  {
+    "id": 323,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 64 · str. 43",
+    "sourcePages": "43",
+    "sourceItem": "64",
+    "question": "Jak na sebe působí dva rovnoběžné vodiče, kterými protéká proud stejným směrem?",
+    "options": [
+      "odpuzují se",
+      "nepůsobí na sebe",
+      "přitahují se",
+      "odpuzují se jen při zapnutí proudu"
+    ],
+    "answer": 2,
+    "title": "přitahují se",
+    "paragraphs": [
+      "Magnetické pole jednoho vodiče působí na proud v druhém. Při souhlasném směru proudů se vodiče přitahují, při opačném odpuzují. Na tom byla založena dřívější definice ampéru."
+    ],
+    "memory": "Stejný směr proudu = přitahování."
+  },
+  {
+    "id": 324,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 65 · str. 43",
+    "sourcePages": "43",
+    "sourceItem": "65",
+    "question": "Nabitá částice se v magnetickém poli pohybuje rovnoběžně s vektorem indukce B. Jak pole ovlivní její pohyb?",
+    "options": [
+      "vychýlí ji podle pravidla pravé ruky",
+      "zpomalí ji",
+      "zrychlí ji",
+      "neovlivní ho, pohybuje se dál přímočaře stejnou rychlostí"
+    ],
+    "answer": 3,
+    "title": "neovlivní ho, pohybuje se dál přímočaře stejnou rychlostí",
+    "paragraphs": [
+      "Lorentzova síla F = q · v · B · sin α je pro α = 0° nulová. Magnetické pole navíc nikdy nemění velikost rychlosti, jen její směr."
+    ],
+    "memory": "v ∥ B = žádná síla."
+  },
+  {
+    "id": 325,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 66 · str. 43",
+    "sourcePages": "43",
+    "sourceItem": "66",
+    "question": "V důsledku čeho vzniká Hallův jev?",
+    "options": [
+      "působení magnetického pole na pohybující se náboje",
+      "rotace cívky v magnetickém poli",
+      "různé energie elektronů v různých kovech",
+      "zakřivení dráhy fotonů v magnetickém poli"
+    ],
+    "answer": 0,
+    "title": "působení magnetického pole na pohybující se náboje",
+    "paragraphs": [
+      "Magnetické pole vychyluje nosiče náboje ve vodiči nebo polovodiči k jedné straně, takže napříč vzorkem vznikne Hallovo napětí. Využívají ho čidla magnetického pole."
+    ],
+    "memory": "Hall = Lorentzova síla na nosiče."
+  },
+  {
+    "id": 326,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 67 · str. 43",
+    "sourcePages": "43",
+    "sourceItem": "67",
+    "question": "Jaká je maximální okamžitá hodnota napětí v zásuvce 230 V?",
+    "options": [
+      "230 V",
+      "230 · √2 V, asi 325 V",
+      "230/√2 V",
+      "380 V"
+    ],
+    "answer": 1,
+    "title": "230 · √2 V, asi 325 V",
+    "paragraphs": [
+      "230 V je efektivní hodnota. Amplituda sinusového napětí je √2krát větší, U_m = 230 · 1,41 ≈ 325 V."
+    ],
+    "memory": "Amplituda = efektivní × √2."
+  },
+  {
+    "id": 327,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 68 · str. 43",
+    "sourcePages": "43",
+    "sourceItem": "68",
+    "question": "Jak závisí rezonanční úhlová frekvence sériového obvodu RLC na L a C?",
+    "options": [
+      "je přímo úměrná součinu LC",
+      "je nepřímo úměrná součinu LC",
+      "je nepřímo úměrná odmocnině součinu LC",
+      "je přímo úměrná odmocnině součinu LC"
+    ],
+    "answer": 2,
+    "title": "je nepřímo úměrná odmocnině součinu LC",
+    "paragraphs": [
+      "Thomsonův vztah ω₀ = 1/√(LC). Větší cívka nebo kondenzátor rezonanční frekvenci snižují."
+    ],
+    "memory": "ω₀ = 1/√(LC)."
+  },
+  {
+    "id": 328,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 69 · str. 43",
+    "sourcePages": "43",
+    "sourceItem": "69",
+    "question": "Kdy nastane rezonance v obvodu se sériově zapojenou cívkou, kondenzátorem a rezistorem?",
+    "options": [
+      "když je kapacitance zanedbatelná vůči induktanci",
+      "když je induktance zanedbatelná vůči kapacitanci",
+      "v sériovém zapojení rezonance nastat nemůže",
+      "když se kapacitance kondenzátoru rovná induktanci cívky"
+    ],
+    "answer": 3,
+    "title": "když se kapacitance kondenzátoru rovná induktanci cívky",
+    "paragraphs": [
+      "Při X_L = X_C se jejich účinky vyruší, impedance klesne na samotný odpor R a proud je největší."
+    ],
+    "memory": "Rezonance: X_L = X_C."
+  },
+  {
+    "id": 329,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 75 · str. 44",
+    "sourcePages": "44",
+    "sourceItem": "75",
+    "question": "Cívka a kondenzátor 100 pF jsou zapojeny sériově s rezonanční frekvencí 1,00 MHz. Jakou indukčnost má cívka?",
+    "options": [
+      "2,54 · 10⁻⁴ H",
+      "2,50 · 10⁻³ H",
+      "100 mH",
+      "1592 H"
+    ],
+    "answer": 0,
+    "title": "2,54 · 10⁻⁴ H",
+    "paragraphs": [
+      "L = 1/(ω² · C) = 1/((2π · 10⁶)² · 10⁻¹⁰) = 1/(3,95 · 10¹³ · 10⁻¹⁰) ≈ 2,53 · 10⁻⁴ H."
+    ],
+    "memory": "Z Thomsonova vztahu L = 1/(ω²C)."
+  },
+  {
+    "id": 330,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 77 · str. 44",
+    "sourcePages": "44",
+    "sourceItem": "77",
+    "question": "Jak se změní rezonanční frekvence sériového obvodu LC, zvýšíme-li kapacitu kondenzátoru na čtyřnásobek?",
+    "options": [
+      "sníží se na čtvrtinu",
+      "sníží se na polovinu",
+      "zvýší se na dvojnásobek",
+      "zvýší se na čtyřnásobek"
+    ],
+    "answer": 1,
+    "title": "sníží se na polovinu",
+    "paragraphs": [
+      "f₀ = 1/(2π√(LC)). Čtyřnásobná kapacita zvětší odmocninu dvakrát, frekvence proto klesne na polovinu."
+    ],
+    "memory": "f ∝ 1/√C."
+  },
+  {
+    "id": 331,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 78 · str. 44",
+    "sourcePages": "44",
+    "sourceItem": "78",
+    "question": "Jak lze zvětšit magnetickou indukci uvnitř dlouhé válcové cívky s proudem?",
+    "options": [
+      "snížením počtu závitů",
+      "snížením hustoty závitů",
+      "vložením tělesa o vysoké permeabilitě do dutiny cívky",
+      "zmenšením poloměru při stejné hustotě závitů"
+    ],
+    "answer": 2,
+    "title": "vložením tělesa o vysoké permeabilitě do dutiny cívky",
+    "paragraphs": [
+      "B = μ · N · I/l. Feromagnetické jádro s vysokou permeabilitou zesílí pole mnohonásobně. Poloměr cívky na indukci uvnitř nemá vliv."
+    ],
+    "memory": "Železné jádro zesílí cívku."
+  },
+  {
+    "id": 332,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 79 · str. 44",
+    "sourcePages": "44",
+    "sourceItem": "79",
+    "question": "Jak se změní magnetická indukce ve středu kruhového závitu s proudem, zmenší-li se jeho poloměr na polovinu?",
+    "options": [
+      "nezmění se",
+      "zmenší se na polovinu",
+      "zvýší se na čtyřnásobek",
+      "zvýší se na dvojnásobek"
+    ],
+    "answer": 3,
+    "title": "zvýší se na dvojnásobek",
+    "paragraphs": [
+      "Ve středu závitu platí B = μ · I/(2r). Indukce je nepřímo úměrná poloměru, při polovičním poloměru je dvojnásobná."
+    ],
+    "memory": "Závit: B ∝ 1/r."
+  },
+  {
+    "id": 333,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 80 · str. 44",
+    "sourcePages": "44",
+    "sourceItem": "80",
+    "question": "Proč je elektronový mikroskop citlivý na vnější elektrická pole?",
+    "options": [
+      "zakřivují dráhu svazku elektronů a narušují zobrazení",
+      "rozptylují fotony vycházející ze stínítka",
+      "mění mikroskopickou strukturu vzorku",
+      "elektrony svazku se v nich zastaví"
+    ],
+    "answer": 0,
+    "title": "zakřivují dráhu svazku elektronů a narušují zobrazení",
+    "paragraphs": [
+      "Elektrony mají náboj, takže na ně elektrické pole působí silou a odklání je. Elektronový mikroskop ostatně sám svazek řídí elektrickými a magnetickými čočkami."
+    ],
+    "memory": "Nabité částice pole ohýbá."
+  },
+  {
+    "id": 334,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 81 · str. 45",
+    "sourcePages": "45",
+    "sourceItem": "81",
+    "question": "Co se stane s elektronem, který vlétne do homogenního magnetického pole kolmo k siločárám?",
+    "options": [
+      "bude lineárně zpomalován",
+      "bude se pohybovat po kružnici stálou rychlostí",
+      "bude lineárně urychlován",
+      "zamíří k severnímu magnetickému pólu"
+    ],
+    "answer": 1,
+    "title": "bude se pohybovat po kružnici stálou rychlostí",
+    "paragraphs": [
+      "Lorentzova síla je kolmá k rychlosti, mění jen směr pohybu a působí jako dostředivá síla. Velikost rychlosti se nemění a elektron opisuje kružnici."
+    ],
+    "memory": "v ⊥ B = kruhový pohyb."
+  },
+  {
+    "id": 335,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 82 · str. 45",
+    "sourcePages": "45",
+    "sourceItem": "82",
+    "question": "V jaké funkci se obvykle používá polovodičová dioda?",
+    "options": [
+      "jako zesilovač",
+      "jako kondenzátor",
+      "jako usměrňovač",
+      "jako rezistor"
+    ],
+    "answer": 2,
+    "title": "jako usměrňovač",
+    "paragraphs": [
+      "Dioda s přechodem PN propouští proud jen jedním směrem, proto ze střídavého proudu dělá pulzující stejnosměrný. Zesilovačem je tranzistor."
+    ],
+    "memory": "Dioda = jednosměrka."
+  },
+  {
+    "id": 336,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 83 · str. 45",
+    "sourcePages": "45",
+    "sourceItem": "83",
+    "question": "V jaké funkci se obvykle používá tranzistor?",
+    "options": [
+      "jako usměrňovač",
+      "jako kondenzátor",
+      "jako rezistor",
+      "jako zesilovač"
+    ],
+    "answer": 3,
+    "title": "jako zesilovač",
+    "paragraphs": [
+      "Malý proud do báze řídí mnohem větší proud mezi kolektorem a emitorem, tranzistor tak zesiluje signál. Slouží i jako spínač v číslicových obvodech."
+    ],
+    "memory": "Tranzistor = zesilovač a spínač."
+  },
+  {
+    "id": 337,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 84 · str. 45",
+    "sourcePages": "45",
+    "sourceItem": "84",
+    "question": "Co je termistor?",
+    "options": [
+      "teplotně závislý polovodičový rezistor",
+      "zařízení k akumulaci tepelné energie",
+      "zařízení k udržování konstantní teploty",
+      "zdroj napětí na styku dvou různých kovů"
+    ],
+    "answer": 0,
+    "title": "teplotně závislý polovodičový rezistor",
+    "paragraphs": [
+      "Termistor mění odpor s teplotou výrazně více než kovový rezistor, proto se používá jako čidlo teploty. Napětí na styku dvou kovů využívá termočlánek."
+    ],
+    "memory": "Termistor = odpor podle teploty."
+  },
+  {
+    "id": 338,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 85 · str. 45",
+    "sourcePages": "45",
+    "sourceItem": "85",
+    "question": "Jak se nazývá elektroda připojená k vrstvě typu P v tranzistoru NPN?",
+    "options": [
+      "kolektor",
+      "báze",
+      "emitor",
+      "anoda"
+    ],
+    "answer": 1,
+    "title": "báze",
+    "paragraphs": [
+      "V tranzistoru NPN je tenká střední vrstva P, na kterou se připojuje báze. Krajní vrstvy N jsou emitor a kolektor."
+    ],
+    "memory": "NPN: P uprostřed = báze."
+  },
+  {
+    "id": 339,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 86 · str. 45",
+    "sourcePages": "45",
+    "sourceItem": "86",
+    "question": "Co je termočlánek?",
+    "options": [
+      "teplotně závislý polovodičový rezistor",
+      "zařízení k elektrické výrobě tepla",
+      "zařízení využívající vznik napětí na styku dvou různých kovů",
+      "zařízení k udržování stálého proudu"
+    ],
+    "answer": 2,
+    "title": "zařízení využívající vznik napětí na styku dvou různých kovů",
+    "paragraphs": [
+      "Při různé teplotě dvou spojů dvou různých kovů vzniká termoelektrické napětí (Seebeckův jev). Termočlánky slouží k měření vysokých teplot."
+    ],
+    "memory": "Termočlánek = dva kovy a napětí."
+  },
+  {
+    "id": 340,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 87 · str. 45",
+    "sourcePages": "45",
+    "sourceItem": "87",
+    "question": "Co je katodové záření, které vzniká při průchodu proudu zředěným plynem?",
+    "options": [
+      "proud elektronů letících od anody ke katodě",
+      "světélkování katody",
+      "rentgenové záření",
+      "proud elektronů letících od katody k anodě"
+    ],
+    "answer": 3,
+    "title": "proud elektronů letících od katody k anodě",
+    "paragraphs": [
+      "Z katody vyletují elektrony, které urychluje pole směrem k anodě. Rentgenové záření vzniká až při jejich prudkém zabrzdění v materiálu."
+    ],
+    "memory": "Katodové záření = elektrony z katody."
+  },
+  {
+    "id": 341,
+    "subject": "Chemie",
+    "category": "Chemie · Periodický systém a vlastnosti prvků",
+    "bookRef": "LF MU · Chemie · Periodický systém a vlastnosti prvků 57 · str. 87",
+    "sourcePages": "87",
+    "sourceItem": "57",
+    "question": "Kyanovodík vzniká podle rovnice 2 CH₄ + 3 O₂ + 2 NH₃ → 2 HCN + 6 H₂O. Co platí, obsahuje-li výchozí směs 10 mol každého reaktantu?",
+    "options": [
+      "výtěžek je limitován množstvím kyslíku",
+      "výtěžek je limitován množstvím methanu",
+      "výtěžek je limitován množstvím amoniaku",
+      "vznikne 10 mol HCN"
+    ],
+    "answer": 0,
+    "title": "výtěžek je limitován množstvím kyslíku",
+    "paragraphs": [
+      "Na 10 mol CH₄ by bylo potřeba 15 mol O₂, ale je ho jen 10. Kyslík se spotřebuje první a vznikne z něj jen 10 · 2/3 ≈ 6,7 mol HCN."
+    ],
+    "memory": "Limitující je látka, které je vůči koeficientu nejméně."
+  },
+  {
+    "id": 342,
+    "subject": "Chemie",
+    "category": "Chemie · Periodický systém a vlastnosti prvků",
+    "bookRef": "LF MU · Chemie · Periodický systém a vlastnosti prvků 58 · str. 88",
+    "sourcePages": "88",
+    "sourceItem": "58",
+    "question": "Vratná reakce A + B ⇌ C + D má rovnovážnou konstantu K ≫ 1, výchozí koncentrace všech látek byly stejné. Co platí po dosažení rovnováhy?",
+    "options": [
+      "koncentrace A a B jsou větší než ve výchozím stavu",
+      "koncentrace C a D jsou větší než ve výchozím stavu",
+      "koncentrace se podstatně nezměnily",
+      "reakce je velmi rychlá"
+    ],
+    "answer": 1,
+    "title": "koncentrace C a D jsou větší než ve výchozím stavu",
+    "paragraphs": [
+      "K = [C][D]/([A][B]). Velká hodnota znamená, že v rovnováze převažují produkty, rovnováha je posunuta doprava. O rychlosti reakce rovnovážná konstanta nic neříká."
+    ],
+    "memory": "K ≫ 1 = převaha produktů."
+  },
+  {
+    "id": 343,
+    "subject": "Chemie",
+    "category": "Chemie · Periodický systém a vlastnosti prvků",
+    "bookRef": "LF MU · Chemie · Periodický systém a vlastnosti prvků 60 · str. 88",
+    "sourcePages": "88",
+    "sourceItem": "60",
+    "question": "Ve vodném roztoku probíhá HA + H₂O ⇌ A⁻ + H₃O⁺. Co platí?",
+    "options": [
+      "snížení pH posune rovnováhu ve prospěch produktů",
+      "zředění roztoku podpoří tvorbu molekul HA",
+      "přídavek sodné soli NaA potlačí disociaci kyseliny HA",
+      "alkalizace posune rovnováhu na stranu výchozích látek"
+    ],
+    "answer": 2,
+    "title": "přídavek sodné soli NaA potlačí disociaci kyseliny HA",
+    "paragraphs": [
+      "Přidáním společného iontu A⁻ se rovnováha posune doleva. Snížení pH (víc H₃O⁺) ji posune také doleva, alkalizace naopak doprava a zředění disociaci podporuje."
+    ],
+    "memory": "Společný iont potlačí disociaci."
+  },
+  {
+    "id": 344,
+    "subject": "Chemie",
+    "category": "Chemie · Periodický systém a vlastnosti prvků",
+    "bookRef": "LF MU · Chemie · Periodický systém a vlastnosti prvků 61 · str. 88",
+    "sourcePages": "88",
+    "sourceItem": "61",
+    "question": "Jak se změní rovnovážná konstanta hydrolýzy R−COO⁻ + H₂O ⇌ R−COOH + OH⁻ po zředění roztoku?",
+    "options": [
+      "zmenší se",
+      "zvětší se",
+      "klesne na nulu",
+      "nezmění se, mění se jen s teplotou"
+    ],
+    "answer": 3,
+    "title": "nezmění se, mění se jen s teplotou",
+    "paragraphs": [
+      "Rovnovážná konstanta závisí pro danou reakci jen na teplotě. Zředěním se mění koncentrace a poloha rovnováhy, ale K zůstává stejná."
+    ],
+    "memory": "K mění jen teplota."
+  },
+  {
+    "id": 345,
+    "subject": "Chemie",
+    "category": "Chemie · Periodický systém a vlastnosti prvků",
+    "bookRef": "LF MU · Chemie · Periodický systém a vlastnosti prvků 63 · str. 88",
+    "sourcePages": "88",
+    "sourceItem": "63",
+    "question": "V buňce probíhá pyruvát + NADH + H⁺ ⇌ laktát + NAD⁺. Co platí?",
+    "options": [
+      "nadbytek NADH + H⁺ podporuje tvorbu laktátu",
+      "nedostatek NAD⁺ podporuje tvorbu pyruvátu",
+      "nadbytek pyruvátu zvyšuje tvorbu NADH + H⁺",
+      "nadbytek laktátu podporuje přeměnu NADH + H⁺ na NAD⁺"
+    ],
+    "answer": 0,
+    "title": "nadbytek NADH + H⁺ podporuje tvorbu laktátu",
+    "paragraphs": [
+      "Podle Le Chatelierova principu nadbytek výchozí látky (NADH) posouvá rovnováhu doprava k laktátu. Nadbytek pyruvátu by NADH spotřebovával a nadbytek laktátu by rovnováhu posunul doleva, tedy k tvorbě NADH."
+    ],
+    "memory": "Přidaná látka se snaží spotřebovat."
+  },
+  {
+    "id": 346,
+    "subject": "Chemie",
+    "category": "Chemie · Periodický systém a vlastnosti prvků",
+    "bookRef": "LF MU · Chemie · Periodický systém a vlastnosti prvků 64 · str. 88",
+    "sourcePages": "88",
+    "sourceItem": "64",
+    "question": "Jakou disperzní soustavou je šlehačka ušlehaná ze smetany?",
+    "options": [
+      "kapalina dispergovaná v plynu",
+      "plyn dispergovaný v kapalině",
+      "kapalina dispergovaná v kapalině",
+      "pevná látka dispergovaná v kapalině"
+    ],
+    "answer": 1,
+    "title": "plyn dispergovaný v kapalině",
+    "paragraphs": [
+      "Šleháním se do smetany vpraví vzduchové bublinky, vzniká pěna. Disperzním prostředím je kapalina a dispergovaným podílem plyn."
+    ],
+    "memory": "Pěna = plyn v kapalině."
+  },
+  {
+    "id": 347,
+    "subject": "Chemie",
+    "category": "Chemie · Periodický systém a vlastnosti prvků",
+    "bookRef": "LF MU · Chemie · Periodický systém a vlastnosti prvků 65 · str. 88",
+    "sourcePages": "88",
+    "sourceItem": "65",
+    "question": "Která z uvedených látek vytvoří ve vodě koloidní roztok?",
+    "options": [
+      "alanin",
+      "karoten",
+      "albumin",
+      "keratin"
+    ],
+    "answer": 2,
+    "title": "albumin",
+    "paragraphs": [
+      "Albumin je rozpustná bílkovina s velkými molekulami (makromolekulami) koloidní velikosti. Alanin je malá aminokyselina tvořící pravý roztok, karoten je ve vodě nerozpustný a keratin je nerozpustná vláknitá bílkovina."
+    ],
+    "memory": "Rozpustná bílkovina = koloid."
+  },
+  {
+    "id": 348,
+    "subject": "Chemie",
+    "category": "Chemie · Periodický systém a vlastnosti prvků",
+    "bookRef": "LF MU · Chemie · Periodický systém a vlastnosti prvků 66 · str. 89",
+    "sourcePages": "89",
+    "sourceItem": "66",
+    "question": "Jakou disperzní soustavou je cigaretový kouř?",
+    "options": [
+      "plyn dispergovaný v plynu",
+      "kapalina dispergovaná v plynu",
+      "plyn dispergovaný v kapalině",
+      "pevná látka dispergovaná v plynu"
+    ],
+    "answer": 3,
+    "title": "pevná látka dispergovaná v plynu",
+    "paragraphs": [
+      "Kouř je aerosol, ve kterém jsou ve vzduchu rozptýlené drobné pevné částice. Kapičky kapaliny v plynu tvoří mlhu, plyny se navzájem mísí a disperzní soustavu netvoří."
+    ],
+    "memory": "Kouř = pevné ve vzduchu, mlha = kapalné."
+  },
+  {
+    "id": 349,
+    "subject": "Chemie",
+    "category": "Chemie · Periodický systém a vlastnosti prvků",
+    "bookRef": "LF MU · Chemie · Periodický systém a vlastnosti prvků 69 · str. 89",
+    "sourcePages": "89",
+    "sourceItem": "69",
+    "question": "Co vznikne rozmícháním živočišného uhlí ve vodě?",
+    "options": [
+      "suspenze",
+      "emulze",
+      "gel",
+      "koloidní roztok"
+    ],
+    "answer": 0,
+    "title": "suspenze",
+    "paragraphs": [
+      "Nerozpustné pevné částice uhlí rozptýlené v kapalině tvoří suspenzi, která se po čase usazuje. Emulze vzniká z dvou nemísitelných kapalin."
+    ],
+    "memory": "Pevné v kapalině = suspenze."
+  },
+  {
+    "id": 350,
+    "subject": "Chemie",
+    "category": "Chemie · Periodický systém a vlastnosti prvků",
+    "bookRef": "LF MU · Chemie · Periodický systém a vlastnosti prvků 72 · str. 89",
+    "sourcePages": "89",
+    "sourceItem": "72",
+    "question": "Která z uvedených sloučenin je nerozpustná ve vodě?",
+    "options": [
+      "Na₂CO₃",
+      "CaCO₃",
+      "KHCO₃",
+      "Mg(HCO₃)₂"
+    ],
+    "answer": 1,
+    "title": "CaCO₃",
+    "paragraphs": [
+      "Uhličitany alkalických kovů a hydrogenuhličitany jsou rozpustné. Uhličitan vápenatý je nerozpustný. Ve vodě s CO₂ přechází na rozpustný Ca(HCO₃)₂, čímž vzniká přechodná tvrdost vody a krasové jevy."
+    ],
+    "memory": "Vápenec se nerozpouští, jen s CO₂."
+  }
+]
