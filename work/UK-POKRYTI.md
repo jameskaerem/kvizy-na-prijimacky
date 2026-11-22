@@ -344,6 +344,24 @@ Nepřidáno v rozsahu 241–400 (stejný poznatek jako starší nebo nová otáz
 - Genetika: 316 a 381 (geny malého účinku, UK 197), 318 a 352 (X-vázaná dominance, UK 200), 326 (hemofilik a zdravá žena, ČB 117), 330 (přenašečka hemofilie, UK 183), 331, 378 a 400 (štěpné poměry dihybrida, ČB 118 a LF MU 148), 334 a 366 (alely, nová 922), 346 (rodina s hemofilií, UK 286), 348 (brachydaktylie, UK 186), 349, 356 a 377 (uniformita a 1:2:1, nová 932), 350 (AD choroba Aa × Aa, UK 193 a nová 932), 354 (genom, nová 908), 358 (neúplná dominance, nová 912), 360 a 374 (X-vázaná recesivita, nové 920 a 927), 364 (krevní skupiny jako monogenní znak, UK 146 a 199), 365 (AA × aa, nová 929), 372 (genotyp, BIO 705), 379 (vazba genů, nové 926 a 930), 380 (centimorgan, UK 250), 387–389 (výpočty Hardyho–Weinbergova zákona, UK 240 a nová 919), 390 (drift, UK 184), 394 a 396 (albinismus, UK 190 a nová 925), 397 (trizomie, BIO a ČB), 398 (zpětné křížení, UK 235).
 - Úlohy 401 a výš se doplní v dalších dávkách.
 
+## Dávka ID 938–987 (v2.79.0)
+
+Soubor `uk-938-987.json`, generátor `create_uk_938_987.py`. Formát zkoušky s více správnými odpověďmi, klíč všech 50 úloh strojově porovnán s knihou (str. 199–200).
+
+| Předmět | Kapitola | Úlohy | ID |
+|---|---|---|---|
+| Biologie | Genetika (str. 91–102) | 404, 415, 417, 420, 426, 428, 431, 439, 440, 457 | 938–947 |
+| Biologie | Bakteriologie a virologie (str. 105–110) | 464, 469, 475, 477, 478, 480, 483, 485, 489 | 948–956 |
+| Biologie | Biologie rostlin a hub (str. 112–116) | 492, 494, 499, 502, 514, 516 | 957–962 |
+| Biologie | Biologie živočichů a protistů (str. 119–133) | 522, 528, 530, 531, 534, 538, 550, 551, 552, 553, 561, 570, 577, 579, 582, 591, 592, 594, 600, 601, 603 | 963–983 |
+| Biologie | Biologie člověka (str. 135–139) | 609, 615, 628, 630 | 984–987 |
+
+Nepřidáno v rozsahu 401–604 (stejný poznatek jako starší nebo nová otázka):
+- Genetika: 401, 430, 432 a 454 (výpočty Hardyho–Weinbergova zákona, UK 149, 240 a 292, nové 919 a 944), 407 (hemofilie na X, BIO 836), 408 (holandrická dědičnost, UK 244), 409, 424 a 443 (daltonismus a X-vázaná dědičnost, nová 920), 412 (alogamická populace, UK 147), 414 a 423 (drift, UK 184 a nová 924), 416 a 462 (proband, ČB 568), 419 a 429 (9:3:3:1, ČB 118 a nová 941), 421 (podmínky genetické rovnováhy, UK 185), 425, 442 a 444 (rodiče u AR choroby, nová 913), 427 (krevní skupiny A × B, LF MU 194), 435 (heritabilita, UK 248), 438 (genealogické vyšetření, ČB 13), 441 (X-vázaná dominance, UK 200), 445 (riziko u přenašečky hemofilie, UK 183), 446 (aa × Aa, UK 194), 447 (AD choroba u heterozygotů, UK 189), 449 (geny malého účinku, UK 197), 450 (hemofilik a zdravá žena, ČB 117), 456 (Klinefelterův syndrom, UK 245).
+- Bakteriologie a virologie: 466 (kruhový chromozom prokaryot, UK 337), 467 (co prokaryota nemají, UK 298), 468 a 490 (stavba a množení virů, nové 950 a 952), 471 (prion, BIO 535), 473 (HIV a pomocné T lymfocyty, BIO 828), 474 (retroviry, nová 894), 476 (bakteriofág, nová 949), 479 (virová onemocnění, UK 299).
+- Rostliny a živočichové: 493 (plazmolýza, LF MU 91), 518 (močovina v játrech, BIO 299), 520 (nervová trubice, BIO 453), 533, 559, 563 a 571 (hlísti a ploštěnci, LF MU 396, nové 970 a 971), 535 (nehty z pokožky, SOM), 536 a 555 (zárodečné obaly, UK 399 a 448), 547 (trichomoniáza, BIO 826), 554 (ježura, UK 438), 560 a 585 (přenašeči spavé nemoci a malárie, LF MU 399 a 400), 564 (původce malárie, nová 973), 565 (lamblie, LF MU 299), 575 (gonochorismus, LF MU 391 a 476), 590 a 595 (oddělený krevní oběh, nové 975 a 983), 597 (vzdušnice, nová 966), 599 a 604 (komorové oko, UK 390), 602 (teplokrevní živočichové, UK 491).
+- Úlohy 605 a výš (kromě již použitých 609, 615, 628 a 630) se doplní v dalších dávkách.
+
 ## Stav pokrytí
 
-Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) má ověřené úlohy 85–290 jen částečně: nepoužité úlohy s více správnými odpověďmi se doplňují od ID 788 (viz oddíly výše). Fyzika (Amler) je pokrytá jen v rozsahu dodané ukázky (úlohy 1.01–1.64 a 2.01–2.05). Pro další fyziku je potřeba plná kniha. Další dávka začne od ID 938.
+Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) má ověřené úlohy 85–290 jen částečně: nepoužité úlohy s více správnými odpověďmi se doplňují od ID 788 (viz oddíly výše). Fyzika (Amler) je pokrytá jen v rozsahu dodané ukázky (úlohy 1.01–1.64 a 2.01–2.05). Pro další fyziku je potřeba plná kniha. Další dávka začne od ID 988.

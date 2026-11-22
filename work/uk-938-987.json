@@ -1,0 +1,1252 @@
+[
+  {
+    "id": 938,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 404 · str. 91",
+    "sourcePages": "91",
+    "sourceItem": "404",
+    "question": "Které párování genetického termínu a genotypu je nesprávné?",
+    "options": [
+      "dihybridní křížení – Aa × Aa",
+      "heterozygotní stav – Aa",
+      "monohybridní křížení – AA × aa",
+      "homozygotní stav – aa"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Hledá se chybné párování. Křížení Aa × Aa sleduje jen jeden gen, jde tedy o monohybridní křížení. Dihybridní křížení sleduje dva geny, například AaBb × AaBb. Ostatní dvojice jsou správné."
+    ],
+    "memory": "Di = dva geny (A i B)."
+  },
+  {
+    "id": 939,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 415 · str. 93",
+    "sourcePages": "93",
+    "sourceItem": "415",
+    "question": "Co platí o mutačním a selekčním tlaku?",
+    "options": [
+      "jsou důležitými evolučními faktory",
+      "mění reprodukční způsobilost (adaptivní hodnotu) genotypů",
+      "způsobují genetický drift",
+      "bývají ve vzájemně rovnovážném vztahu"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "title": "Správně: A, B a D",
+    "paragraphs": [
+      "Mutace přinášejí nové alely a selekce je podle adaptivní hodnoty odstraňuje nebo šíří, takže se tlaky mohou vyrovnávat. Genetický drift je náhodný proces, nezpůsobuje ho mutace ani selekce."
+    ],
+    "memory": "Mutace přidávají, selekce třídí, drift je náhoda."
+  },
+  {
+    "id": 940,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 417 · str. 94",
+    "sourcePages": "94",
+    "sourceItem": "417",
+    "question": "Co platí o prenatálním cytogenetickém vyšetření plodu?",
+    "options": [
+      "nejčastěji se provádí z buněk plodové vody (amniocytů)",
+      "v Česku se provádí zpravidla do 24. týdne těhotenství",
+      "může se provádět také z pupečníkové krve",
+      "může se provádět také z choriových klků"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Karyotyp plodu se vyšetřuje z buněk získaných amniocentézou, odběrem choriových klků nebo pupečníkové krve (kordocentézou). Vyšetření se v Česku provádí zpravidla do 24. týdne, kdy lze těhotenství ještě ze zdravotních důvodů ukončit."
+    ],
+    "memory": "Plodová voda, choriové klky, pupečníková krev."
+  },
+  {
+    "id": 941,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 420 · str. 94",
+    "sourcePages": "94",
+    "sourceItem": "420",
+    "question": "Co vytvoří křížení AABB × aabb, pokud geny nejsou ve vazbě?",
+    "options": [
+      "v F1 uniformní hybridy",
+      "v F2 genotypový štěpný poměr 9:3:3:1",
+      "v F1 fenotypový štěpný poměr 9:3:3:1",
+      "v F2 fenotypový štěpný poměr 9:3:3:1"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "F1 jsou samí AaBb, tedy uniformní. Poměr 9:3:3:1 platí pro fenotypy v F2. Genotypů je v F2 devět a jejich poměr je 1:2:1:2:4:2:1:2:1."
+    ],
+    "memory": "9:3:3:1 jsou fenotypy, ne genotypy."
+  },
+  {
+    "id": 942,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 426 · str. 95",
+    "sourcePages": "95",
+    "sourceItem": "426",
+    "question": "Matka má krevní skupinu AB, její dítě B. Podezřelí z otcovství mají skupinu A (muž 1), B (muž 2) a 0 (muž 3). Co platí?",
+    "options": [
+      "otcem může být jedině muž 2",
+      "není vyloučeno, že otcem je muž 3",
+      "není vyloučeno, že otcem je muž 1",
+      "muž 1 otcem v žádném případě být nemůže"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Matka dala dítěti alelu B. Od otce mohlo dítě dostat B nebo 0, tedy alelu, kterou může předat muž s B (BB nebo B0), muž s 0 (00) i muž se skupinou A, pokud má genotyp A0. Vyloučit nelze žádného z nich."
+    ],
+    "memory": "Skupina A může skrývat alelu 0."
+  },
+  {
+    "id": 943,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 428 · str. 96",
+    "sourcePages": "96",
+    "sourceItem": "428",
+    "question": "Matka má krevní skupinu B, Rh+, otec A, Rh−. Co platí pro jejich dítě?",
+    "options": [
+      "může mít skupinu 0, Rh+",
+      "nemůže mít skupinu AB, Rh−",
+      "může mít kteroukoli skupinu v obou systémech",
+      "nemůže mít skupinu 0, Rh+"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Pokud mají rodiče genotypy B0 a A0 a matka je heterozygot pro Rh (Dd), může dítě mít skupinu A, B, AB i 0 a být Rh+ i Rh−. Žádná kombinace tedy vyloučená není."
+    ],
+    "memory": "Neznámé genotypy = nevylučuj."
+  },
+  {
+    "id": 944,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 431 · str. 97",
+    "sourcePages": "97",
+    "sourceItem": "431",
+    "question": "Modré oči jsou zjednodušeně autozomově recesivní (b), hnědé dominantní (B). V populaci je 36 % modrookých a 64 % hnědookých. Jaké je zastoupení genotypů?",
+    "options": [
+      "BB tvoří 16 %",
+      "Bb tvoří 48 %",
+      "BB tvoří 64 %",
+      "Bb tvoří 24 %"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Modroocí jsou bb, tedy q² = 0,36 a q = 0,6. Pak p = 0,4, BB = p² = 0,16 a Bb = 2pq = 0,48. Dohromady 16 % + 48 % dává 64 % hnědookých."
+    ],
+    "memory": "Z recesivních homozygotů odmocni q."
+  },
+  {
+    "id": 945,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 439 · str. 99",
+    "sourcePages": "99",
+    "sourceItem": "439",
+    "question": "Co platí o Morganově čísle?",
+    "options": [
+      "udává fyzikální vzdálenost dvou genů v párech bází",
+      "udává frekvenci rekombinací",
+      "udává sílu vazby mezi geny na různých chromozomech",
+      "dosahuje hodnot 0–50 cM"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "Morganovo číslo vyjadřuje v centimorganech podíl rekombinantních potomků mezi dvěma geny na stejném chromozomu. Hodnota 50 cM odpovídá volné kombinaci, víc být nemůže. Fyzikální vzdálenost v párech bází je jiná veličina."
+    ],
+    "memory": "1 cM = 1 % rekombinací, max 50."
+  },
+  {
+    "id": 946,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 440 · str. 99",
+    "sourcePages": "99",
+    "sourceItem": "440",
+    "question": "Co znamená, že Morganovo číslo má hodnotu 0?",
+    "options": [
+      "geny leží na stejném chromozomu a jejich vazba je velmi těsná",
+      "geny jsou tak blízko sebe, že mezi nimi nedochází k rekombinaci",
+      "v potomstvu nejsou jedinci s rekombinantní sestavou alel",
+      "geny jsou na dvou různých chromozomech a kombinují se volně"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2
+    ],
+    "title": "Správně: A, B a C",
+    "paragraphs": [
+      "Nulová frekvence rekombinací znamená úplnou vazbu: geny jsou na jednom chromozomu tak blízko, že je crossing-over nerozdělí, a rekombinanti nevznikají. Volné kombinaci genů na různých chromozomech odpovídá 50 cM."
+    ],
+    "memory": "0 cM = úplná vazba."
+  },
+  {
+    "id": 947,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 457 · str. 102",
+    "sourcePages": "102",
+    "sourceItem": "457",
+    "question": "Co platí o ultrazvukovém vyšetření plodu v těhotenství?",
+    "options": [
+      "provádí se všem těhotným ženám",
+      "provádí se jen u žen s vysokým rizikem genetického postižení plodu",
+      "zásadně se neprovádí, protože ultrazvuk plodu škodí",
+      "umožňuje zjistit odchylky ve vývinu plodu a upozornit na závažné vady"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Ultrazvuk je bezpečné screeningové vyšetření, které se provádí všem těhotným. Ukazuje růst plodu a může odhalit vrozené vady i známky chromozomových odchylek, které se pak ověřují dalšími metodami."
+    ],
+    "memory": "Ultrazvuk = screening pro všechny."
+  },
+  {
+    "id": 948,
+    "subject": "Biologie",
+    "category": "Biologie · Bakteriologie a virologie",
+    "bookRef": "UK · Biologie · Bakteriologie a virologie · otázka 464 · str. 105",
+    "sourcePages": "105",
+    "sourceItem": "464",
+    "question": "Kdo nepatří mezi archea?",
+    "options": [
+      "sinice",
+      "grampozitivní bakterie",
+      "mykobakterie",
+      "halofilní bakterie"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2
+    ],
+    "title": "Správně: A, B a C",
+    "paragraphs": [
+      "Hledá se, kdo archeem není. Sinice, grampozitivní bakterie i mykobakterie patří mezi bakterie (eubakterie). Mezi archea patří extrémofilové jako halofilní (solnomilné) „bakterie“, například halobakterie."
+    ],
+    "memory": "Archea = extrémofilové."
+  },
+  {
+    "id": 949,
+    "subject": "Biologie",
+    "category": "Biologie · Bakteriologie a virologie",
+    "bookRef": "UK · Biologie · Bakteriologie a virologie · otázka 469 · str. 106",
+    "sourcePages": "106",
+    "sourceItem": "469",
+    "question": "Co je bakteriofág?",
+    "options": [
+      "virus, který napadá bakteriální buňky",
+      "bakterie, která pohlcuje bakteriální viry",
+      "velký virus obalený membránou, který napadá živočišné buňky",
+      "imunitní buňka specializovaná na likvidaci bakterií"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Bakteriofág (fág) je virus bakterií. Do bakterie vstříkne svou nukleovou kyselinu a využije ji k tvorbě nových virionů. Buňka, která pohlcuje bakterie, je makrofág."
+    ],
+    "memory": "Fág = virus bakterií."
+  },
+  {
+    "id": 950,
+    "subject": "Biologie",
+    "category": "Biologie · Bakteriologie a virologie",
+    "bookRef": "UK · Biologie · Bakteriologie a virologie · otázka 475 · str. 107",
+    "sourcePages": "107",
+    "sourceItem": "475",
+    "question": "Co může obsahovat virion?",
+    "options": [
+      "kapsid",
+      "molekulu RNA",
+      "molekulu DNA",
+      "membránový obal"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Virion tvoří nukleová kyselina (u různých virů DNA nebo RNA) v bílkovinném kapsidu. Některé viry mají navíc membránový obal získaný z hostitelské buňky, například chřipka nebo HIV."
+    ],
+    "memory": "Virion: genom + kapsid (+ obal)."
+  },
+  {
+    "id": 951,
+    "subject": "Biologie",
+    "category": "Biologie · Bakteriologie a virologie",
+    "bookRef": "UK · Biologie · Bakteriologie a virologie · otázka 477 · str. 107",
+    "sourcePages": "107",
+    "sourceItem": "477",
+    "question": "Co viriony neobsahují?",
+    "options": [
+      "nukleovou kyselinu",
+      "mitochondrie",
+      "tylakoidy",
+      "kapsid"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Virion nemá žádné organely, tedy ani mitochondrie, ani tylakoidy. Obsahuje nukleovou kyselinu a bílkovinný kapsid."
+    ],
+    "memory": "Viry nemají organely."
+  },
+  {
+    "id": 952,
+    "subject": "Biologie",
+    "category": "Biologie · Bakteriologie a virologie",
+    "bookRef": "UK · Biologie · Bakteriologie a virologie · otázka 478 · str. 107",
+    "sourcePages": "107",
+    "sourceItem": "478",
+    "question": "Co platí o virech?",
+    "options": [
+      "množí se mimo napadené buňky",
+      "množí se uvnitř napadených buněk",
+      "napadají jen člověka a jiné savce",
+      "mohou napadnout také rostliny"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "Viry jsou nitrobuněční parazité a množí se jen v hostitelské buňce. Napadají všechny skupiny organismů, rostliny (virus tabákové mozaiky), živočichy, houby i bakterie."
+    ],
+    "memory": "Viry se množí jen v buňkách, ale všech."
+  },
+  {
+    "id": 953,
+    "subject": "Biologie",
+    "category": "Biologie · Bakteriologie a virologie",
+    "bookRef": "UK · Biologie · Bakteriologie a virologie · otázka 480 · str. 108",
+    "sourcePages": "108",
+    "sourceItem": "480",
+    "question": "Která tvrzení o prokaryotních buňkách jsou pravdivá?",
+    "options": [
+      "k prokaryotním buňkám patří buňky bakterií včetně sinic",
+      "cytoplazma prokaryot je bohatá na membránové organely",
+      "jádro prokaryot tvoří několik lineárních chromozomů",
+      "nukleoid prokaryot není od cytoplazmy oddělen biomembránou"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Prokaryota jsou bakterie včetně sinic (a archea). Nemají membránové organely ani pravé jádro, jejich DNA tvoří nukleoid bez jaderného obalu, obvykle jako jeden kruhový chromozom."
+    ],
+    "memory": "Prokaryota: nukleoid bez obalu."
+  },
+  {
+    "id": 954,
+    "subject": "Biologie",
+    "category": "Biologie · Bakteriologie a virologie",
+    "bookRef": "UK · Biologie · Bakteriologie a virologie · otázka 483 · str. 108",
+    "sourcePages": "108",
+    "sourceItem": "483",
+    "question": "Jaký způsob výživy mají bakterie?",
+    "options": [
+      "výhradně autotrofní",
+      "výhradně heterotrofní",
+      "někteří zástupci jsou heterotrofní",
+      "někteří zástupci jsou autotrofní"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Většina bakterií je heterotrofní (saprofyti, parazité), ale sinice a některé další bakterie jsou fotoautotrofní a nitrifikační bakterie chemoautotrofní."
+    ],
+    "memory": "Bakterie: většinou hetero, některé auto."
+  },
+  {
+    "id": 955,
+    "subject": "Biologie",
+    "category": "Biologie · Bakteriologie a virologie",
+    "bookRef": "UK · Biologie · Bakteriologie a virologie · otázka 485 · str. 109",
+    "sourcePages": "109",
+    "sourceItem": "485",
+    "question": "Co je potřeba k rozmnožení bakteriofágu?",
+    "options": [
+      "proniknutí virové DNA do napadené buňky",
+      "proniknutí kapsidy do buňky, ostatní části viru zůstávají venku",
+      "okamžité zničení napadené buňky a rozštěpení jejích složek",
+      "hlavně dostatek živin, pak se může množit i mimo buňku"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Fág se přichytí na povrch bakterie a vstříkne do ní jen svou DNA, prázdný kapsid zůstává venku. DNA v buňce řídí tvorbu nových fágů. Mimo buňku se fág množit nemůže."
+    ],
+    "memory": "Do bakterie jde jen fágová DNA."
+  },
+  {
+    "id": 956,
+    "subject": "Biologie",
+    "category": "Biologie · Bakteriologie a virologie",
+    "bookRef": "UK · Biologie · Bakteriologie a virologie · otázka 489 · str. 110",
+    "sourcePages": "110",
+    "sourceItem": "489",
+    "question": "Jaké útvary tvoří buňky stafylokoků?",
+    "options": [
+      "útvary připomínající hrozny",
+      "řetízkovitá vlákna",
+      "vícevrstevné útvary",
+      "útvary různého tvaru podle podmínek"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Stafylokoky se dělí v různých rovinách a vytvářejí shluky podobné hroznům (staphylé = hrozen). Řetízky tvoří streptokoky."
+    ],
+    "memory": "Stafylo = hrozen, strepto = řetízek."
+  },
+  {
+    "id": 957,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie rostlin a hub",
+    "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 492 · str. 112",
+    "sourcePages": "112",
+    "sourceItem": "492",
+    "question": "Co se tvoří při fotosyntéze?",
+    "options": [
+      "sacharidy, kyslík a oxid uhličitý",
+      "oxid uhličitý a voda",
+      "kyslík, voda a sacharidy",
+      "oxid uhličitý, voda, kyslík a sacharidy"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Souhrnně 6 CO₂ + 12 H₂O → C₆H₁₂O₆ + 6 O₂ + 6 H₂O. Vznikají sacharidy a kyslík a také voda. Oxid uhličitý se při fotosyntéze spotřebovává, ne tvoří."
+    ],
+    "memory": "Fotosyntéza CO₂ spotřebuje."
+  },
+  {
+    "id": 958,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie rostlin a hub",
+    "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 494 · str. 112",
+    "sourcePages": "112",
+    "sourceItem": "494",
+    "question": "Co platí o námelu?",
+    "options": [
+      "vzniká ze semeníku žita působením konidií stopkovýtrusé houby paličkovice nachové",
+      "vzniká ze semeníku žita působením podhoubí vřeckovýtrusé houby paličkovice nachové",
+      "využívá se jako surovina k výrobě léků na bázi alkaloidů",
+      "vytváří se na semenech bobovitých rostlin působením plísní rodu Aspergillus"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Námel je tvrdé sklerocium paličkovice nachové, vřeckovýtrusé houby, které se tvoří v klasu žita místo obilky. Obsahuje námelové alkaloidy, z nichž se vyrábějí léky (například na zástavu krvácení po porodu)."
+    ],
+    "memory": "Paličkovice = vřeckovýtrusá houba."
+  },
+  {
+    "id": 959,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie rostlin a hub",
+    "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 499 · str. 113",
+    "sourcePages": "113",
+    "sourceItem": "499",
+    "question": "Co platí pro temnostní fázi (sekundární děje) fotosyntézy?",
+    "options": [
+      "chemická energie z ATP se využívá k vázání CO₂",
+      "NADPH + H⁺ slouží jako redukční látka při vázání CO₂",
+      "akceptorem CO₂ je ribulóza-1,5-bisfosfát nebo fosfoenolpyruvát",
+      "akceptorem CO₂ je kyselina 3-fosfoglycerová"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2
+    ],
+    "title": "Správně: A, B a C",
+    "paragraphs": [
+      "V Calvinově cyklu se ATP a NADPH ze světelné fáze využívají k redukci CO₂ na sacharidy. CO₂ váže ribulóza-1,5-bisfosfát (rostliny C3), u rostlin C4 nejprve fosfoenolpyruvát. Kyselina 3-fosfoglycerová je produkt fixace, ne akceptor."
+    ],
+    "memory": "C3: RuBP, C4: PEP."
+  },
+  {
+    "id": 960,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie rostlin a hub",
+    "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 502 · str. 114",
+    "sourcePages": "114",
+    "sourceItem": "502",
+    "question": "Co platí o plastidech?",
+    "options": [
+      "podobně jako mitochondrie jsou semiautonomní organely",
+      "v dnešních rostlinných buňkách vznikají autoreprodukcí",
+      "vyskytují se v rostlinných buňkách",
+      "mají vlastní DNA a vlastní ribozomy"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Plastidy mají vlastní kruhovou DNA a ribozomy a množí se dělením z již existujících plastidů (proplastidů). Svědčí to o jejich endosymbiotickém původu ze sinic."
+    ],
+    "memory": "Plastidy = semiautonomní jako mitochondrie."
+  },
+  {
+    "id": 961,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie rostlin a hub",
+    "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 514 · str. 116",
+    "sourcePages": "116",
+    "sourceItem": "514",
+    "question": "Které čeledi patří mezi dvouděložné rostliny?",
+    "options": [
+      "hvězdnicovité",
+      "lipnicovité",
+      "růžovité",
+      "bobovité"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "title": "Správně: A, C a D",
+    "paragraphs": [
+      "Hvězdnicovité, růžovité a bobovité jsou dvouděložné. Lipnicovité (trávy, obilí) patří mezi jednoděložné."
+    ],
+    "memory": "Trávy jsou jednoděložné."
+  },
+  {
+    "id": 962,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie rostlin a hub",
+    "bookRef": "UK · Biologie · Biologie rostlin a hub · otázka 516 · str. 116",
+    "sourcePages": "116",
+    "sourceItem": "516",
+    "question": "Pro které rostliny je typické květenství okolík?",
+    "options": [
+      "bobovité",
+      "růžovité",
+      "hvězdnicovité",
+      "mrkvovité"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Okolík (u mrkve, kopru nebo petržele) má květy na stopkách vycházejících z jednoho místa, často složené. Hvězdnicovité mají úbor."
+    ],
+    "memory": "Mrkev = okolík."
+  },
+  {
+    "id": 963,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 522 · str. 119",
+    "sourcePages": "119",
+    "sourceItem": "522",
+    "question": "Co platí o toxoplazmě (Toxoplasma gondii)?",
+    "options": [
+      "je to bakterie produkující toxiny (například botulotoxin)",
+      "patří mezi parazity napadající také člověka",
+      "vyvolává spavou nemoc",
+      "při infekci těhotné ženy může způsobit závažné vrozené vady plodu"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "Toxoplazma je jednobuněčný parazit (prvok), jehož konečným hostitelem jsou kočkovité šelmy. Člověk se může nakazit a v těhotenství hrozí poškození plodu. Spavou nemoc vyvolávají trypanozomy, botulotoxin bakterie Clostridium botulinum."
+    ],
+    "memory": "Toxoplazma = kočka a těhotenství."
+  },
+  {
+    "id": 964,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 528 · str. 120",
+    "sourcePages": "120",
+    "sourceItem": "528",
+    "question": "Co platí u strunatců?",
+    "options": [
+      "nervová trubice i chorda dorsalis vznikají vychlípením ektodermu",
+      "chorda dorsalis je ektodermálního původu",
+      "chorda dorsalis vzniká z chordomezodermu",
+      "nervová trubice vzniká společně se strunou hřbetní vychlípením entodermu"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Struna hřbetní vzniká z chordomezodermu, tedy mezodermu. Nervová trubice se zakládá z ektodermu (neuroektodermu)."
+    ],
+    "memory": "Chorda = mezoderm, nervová trubice = ektoderm."
+  },
+  {
+    "id": 965,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 530 · str. 120",
+    "sourcePages": "120",
+    "sourceItem": "530",
+    "question": "U kterých živočichů je krev vstupující do aorty nekompletně okysličená?",
+    "options": [
+      "u obojživelníků",
+      "u ptáků",
+      "u ryb",
+      "u primátů"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Ryby mají jen jeden oběh a srdce čerpá odkysličenou krev do žaber. Obojživelníci mají jednu komoru, kde se krev z plic a z těla částečně mísí. Ptáci a savci mají oběhy zcela oddělené a do aorty jde plně okysličená krev."
+    ],
+    "memory": "Plně okysličená aorta: ptáci a savci."
+  },
+  {
+    "id": 966,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 531 · str. 121",
+    "sourcePages": "121",
+    "sourceItem": "531",
+    "question": "Pro koho je charakteristické dýchání vzdušnicemi?",
+    "options": [
+      "pro všechny druhy hmyzu",
+      "jen pro suchozemské druhy hmyzu",
+      "pro všechny členovce",
+      "pro stonožky a mnohonožky"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Vzdušnice (tracheje) mají všechny druhy hmyzu, včetně vodních, a také stonožky a mnohonožky. Korýši dýchají žábrami a pavoukovci často plicními vaky."
+    ],
+    "memory": "Vzdušnice: hmyz a stonožkovci."
+  },
+  {
+    "id": 967,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 534 · str. 121",
+    "sourcePages": "121",
+    "sourceItem": "534",
+    "question": "Kdo má metanefridie?",
+    "options": [
+      "mnohoštětinatci",
+      "opaskovci",
+      "máloštětinatci",
+      "pijavice"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Metanefridie jsou vylučovací orgány kroužkovců. Mnohoštětinatci i opaskovci (kam patří máloštětinatci, například žížala, a pijavice) je mají párově v článcích."
+    ],
+    "memory": "Metanefridie = kroužkovci."
+  },
+  {
+    "id": 968,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 538 · str. 122",
+    "sourcePages": "122",
+    "sourceItem": "538",
+    "question": "Jakou funkci plní ambulakrální soustava ostnokožců?",
+    "options": [
+      "trávicí",
+      "dýchací",
+      "cévní (transportní)",
+      "vylučovací"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: B, C a D",
+    "paragraphs": [
+      "Vodní cévní (ambulakrální) soustava ostnokožců slouží k pohybu panožkami a podílí se na dýchání, rozvodu látek a vylučování. Trávení zajišťuje trávicí soustava."
+    ],
+    "memory": "Ambulakrální soustava = voda v trubicích."
+  },
+  {
+    "id": 969,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 550 · str. 124",
+    "sourcePages": "124",
+    "sourceItem": "550",
+    "question": "Co platí o trypanozomách (Trypanosoma gambiense a T. rhodesiense)?",
+    "options": [
+      "patří mezi bakterie",
+      "patří mezi eukaryota",
+      "mají buňky vybavené bičíkem",
+      "vyvolávají malárii"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Trypanozomy jsou jednobuněční eukaryotní bičíkovci a vyvolávají africkou spavou nemoc. Malárii způsobují krvinkovky (Plasmodium)."
+    ],
+    "memory": "Trypanozoma = bičík a spavá nemoc."
+  },
+  {
+    "id": 970,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 551 · str. 124",
+    "sourcePages": "124",
+    "sourceItem": "551",
+    "question": "Kdo patří do kmene hlístů?",
+    "options": [
+      "tasemnice dlouhočlenná",
+      "motolice kopinatá",
+      "roup dětský",
+      "svalovec stočený"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Roup a svalovec jsou hlísti (hlístice). Tasemnice a motolice jsou ploštěnci, mají zploštělé tělo bez pravé tělní dutiny."
+    ],
+    "memory": "Roup a svalovec = hlísti."
+  },
+  {
+    "id": 971,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 552 · str. 124",
+    "sourcePages": "124",
+    "sourceItem": "552",
+    "question": "Koho řadíme k ploštěncům?",
+    "options": [
+      "škrkavku dětskou",
+      "hltanovku bahenní",
+      "motolici jaterní",
+      "chobotnatku rybí"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Motolice jaterní patří mezi ploštěnce. Škrkavka je hlíst, hltanovka a chobotnatka jsou pijavice, tedy kroužkovci."
+    ],
+    "memory": "Motolice a tasemnice = ploštěnci."
+  },
+  {
+    "id": 972,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 553 · str. 124",
+    "sourcePages": "124",
+    "sourceItem": "553",
+    "question": "Kteří původci nemocí se většinou přenášejí hmyzem nebo pavoukovci?",
+    "options": [
+      "toxoplazma",
+      "trypanozoma",
+      "krvinkovka (Plasmodium)",
+      "Borrelia burgdorferi (původce lymeské boreliózy)"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: B, C a D",
+    "paragraphs": [
+      "Trypanozomy přenáší moucha tse-tse, krvinkovky komáři rodu Anopheles a borelie klíšťata (pavoukovci). Toxoplazmou se člověk nakazí z kočičích výkalů nebo nedostatečně tepelně upraveného masa."
+    ],
+    "memory": "Tse-tse, Anopheles, klíště."
+  },
+  {
+    "id": 973,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 561 · str. 126",
+    "sourcePages": "126",
+    "sourceItem": "561",
+    "question": "Původcem čeho jsou krvinkovky (rod Plasmodium)?",
+    "options": [
+      "spavé nemoci",
+      "krvavých průjmů",
+      "zvýšené krvácivosti (hemofilie)",
+      "malárie"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Krvinkovky jsou výtrusovci, kteří se množí v jaterních buňkách a červených krvinkách a způsobují malárii. Spavou nemoc působí trypanozomy, hemofilie je dědičná porucha srážení."
+    ],
+    "memory": "Plasmodium = malárie."
+  },
+  {
+    "id": 974,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 570 · str. 127",
+    "sourcePages": "127",
+    "sourceItem": "570",
+    "question": "Co mají společného toxoplazma a motolice jaterní?",
+    "options": [
+      "obě napadají savce včetně člověka",
+      "u obou jsou mezihostiteli vodní plži",
+      "pohlavně se rozmnožují jen v kočkovitých šelmách",
+      "obě patří mezi eukaryota"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Oba parazité jsou eukaryota a mohou napadnout savce včetně člověka. Mezihostitelem motolice je plž (bahnatka), konečným hostitelem toxoplazmy kočkovitá šelma. Tyto znaky tedy společné nemají."
+    ],
+    "memory": "Toxoplazma = kočka, motolice = plž."
+  },
+  {
+    "id": 975,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 577 · str. 128",
+    "sourcePages": "128",
+    "sourceItem": "577",
+    "question": "Kdo má dokonale oddělený velký a malý krevní oběh?",
+    "options": [
+      "plazi a ptáci",
+      "žáby a ptáci",
+      "ptáci a savci",
+      "všichni plazi a savci"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Úplně rozdělenou komoru srdce, a tedy oddělené oběhy, mají ptáci a savci. U plazů je přepážka v komoře neúplná (kromě krokodýlů, kde se krev mísí v aortách) a obojživelníci mají jednu komoru."
+    ],
+    "memory": "Oddělené oběhy: ptáci a savci."
+  },
+  {
+    "id": 976,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 579 · str. 129",
+    "sourcePages": "129",
+    "sourceItem": "579",
+    "question": "Co rozumíme pod pojmem vnitřní oplození?",
+    "options": [
+      "oplození vajíčka v těle samice, například u živorodých obojživelníků",
+      "oplození mimo tělo samice v chráněném prostředí, například u ryb",
+      "oplození v těle samice, například u žab",
+      "oplození ve zkumavce při umělém oplození"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Při vnitřním oplození splyne vajíčko se spermií v těle samice. U žab a většiny ryb je oplození vnější, ve vodě. Oplození ve zkumavce (IVF) je také mimotělní."
+    ],
+    "memory": "Žáby oplozují ve vodě."
+  },
+  {
+    "id": 977,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 582 · str. 129",
+    "sourcePages": "129",
+    "sourceItem": "582",
+    "question": "U koho jsou plně vyvinuty klky a mikroklky střeva?",
+    "options": [
+      "u kopinatců",
+      "u savců",
+      "u ptáků",
+      "u ploštěnců"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Klky a mikroklky zvětšují vstřebávací plochu tenkého střeva. Plně vyvinuté jsou u ptáků a savců s vysokou spotřebou energie."
+    ],
+    "memory": "Velký metabolismus = velká plocha střeva."
+  },
+  {
+    "id": 978,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 591 · str. 131",
+    "sourcePages": "131",
+    "sourceItem": "591",
+    "question": "U koho najdeme žebříčkovou nervovou soustavu (nebo formy z ní odvozené)?",
+    "options": [
+      "u kroužkovců",
+      "u ostnokožců",
+      "u žahavců",
+      "u hmyzu"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Žebříčková nervová soustava má párové uzliny v článcích spojené příčnými a podélnými spojkami. Mají ji kroužkovci a členovci včetně hmyzu (u něj často se srostlými uzlinami). Žahavci mají rozptýlenou a ostnokožci paprsčitou nervovou soustavu."
+    ],
+    "memory": "Článkovaní = žebříček."
+  },
+  {
+    "id": 979,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 592 · str. 131",
+    "sourcePages": "131",
+    "sourceItem": "592",
+    "question": "U koho je chorda dorsalis plně zachována i v dospělosti?",
+    "options": [
+      "u některých primitivních obojživelníků",
+      "u paryb",
+      "u kopinatců",
+      "u všech druhů ryb"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "U kopinatců je struna hřbetní celoživotní oporou těla. Podle učebnice zůstává zachována i u paryb, jejichž páteř je chrupavčitá. U obojživelníků a kostnatých ryb ji v dospělosti nahrazuje páteř."
+    ],
+    "memory": "Kopinatec má strunu celý život."
+  },
+  {
+    "id": 980,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 594 · str. 131",
+    "sourcePages": "131",
+    "sourceItem": "594",
+    "question": "U koho jsou přítomny plíce?",
+    "options": [
+      "u hmyzu",
+      "u současných lalokoploutvých ryb",
+      "u dospělých obojživelníků",
+      "u savců, ptáků a plazů"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Plíce mají dospělí obojživelníci a všichni plazi, ptáci a savci. Hmyz dýchá vzdušnicemi. Současná lalokoploutvá ryba latimérie plíce funkční nemá (má jen zakrnělý, tukem vyplněný útvar)."
+    ],
+    "memory": "Plíce: od obojživelníků výš."
+  },
+  {
+    "id": 981,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 600 · str. 132",
+    "sourcePages": "132",
+    "sourceItem": "600",
+    "question": "Pro koho je typické facetové (složené) oko?",
+    "options": [
+      "pro savce",
+      "pro hlavonožce",
+      "pro hmyz",
+      "pro některá jednobuněčná protista"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Složené oko z mnoha omatidií mají hmyz a korýši. Hlavonožci a savci mají oko komorové, protista mají nanejvýš světločivnou skvrnu."
+    ],
+    "memory": "Facetové oko = hmyz."
+  },
+  {
+    "id": 982,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 601 · str. 132",
+    "sourcePages": "132",
+    "sourceItem": "601",
+    "question": "Čím je tvořena kostra žraloka?",
+    "options": [
+      "jen kostní tkání",
+      "chrupavkou",
+      "zčásti chrupavkou a zčásti kostní tkání",
+      "většinou kostní tkání, chrupavka je jen u mláďat"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Žraloci patří mezi paryby, jejichž kostra je celoživotně chrupavčitá (místy zpevněná vápenatými solemi, ale bez kostní tkáně)."
+    ],
+    "memory": "Paryby = chrupavčitá kostra."
+  },
+  {
+    "id": 983,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie živočichů a protistů",
+    "bookRef": "UK · Biologie · Biologie živočichů a protistů · otázka 603 · str. 133",
+    "sourcePages": "133",
+    "sourceItem": "603",
+    "question": "U koho je vyvinut oddělený krevní oběh?",
+    "options": [
+      "již u některých paryb, například rejnoků",
+      "u všech vývojových stadií obojživelníků",
+      "u dospělých obojživelníků",
+      "žádné z uvedených tvrzení není správné"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Oddělený velký a malý oběh mají jen ptáci a savci. Paryby mají jeden oběh přes žábry a obojživelníci jednu komoru, ve které se krev mísí."
+    ],
+    "memory": "Žádná z možností: jen ptáci a savci."
+  },
+  {
+    "id": 984,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 609 · str. 135",
+    "sourcePages": "135",
+    "sourceItem": "609",
+    "question": "Z čeho se skládá nefron?",
+    "options": [
+      "z Bowmanova pouzdra, glomerulu, proximálního kanálku, Henleovy kličky, distálního kanálku a sběrných kanálků",
+      "z Bowmanova pouzdra, glomerulu, proximálního kanálku, Henleovy kličky a distálního kanálku",
+      "jen z glomerulu",
+      "jen z Bowmanova pouzdra a glomerulu"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Nefron tvoří ledvinné tělísko (glomerulus v Bowmanově pouzdře) a kanálek z proximální části, Henleovy kličky a distální části. Sběrné kanálky už k nefronu nepatří, protože do jednoho ústí více nefronů."
+    ],
+    "memory": "Sběrný kanálek není součást nefronu."
+  },
+  {
+    "id": 985,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 615 · str. 136",
+    "sourcePages": "136",
+    "sourceItem": "615",
+    "question": "Z čeho se skládá zevní vazivová vrstva oka?",
+    "options": [
+      "z bělimy, rohovky, cévnatky, řasnatého tělesa a duhovky",
+      "z bělimy a rohovky",
+      "z bělimy, spojivky a rohovky",
+      "z bělimy, rohovky a cévnatky"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Zevní vazivovou vrstvu tvoří neprůhledná bělima a průhledná rohovka. Cévnatka, řasnaté těleso a duhovka tvoří střední cévnatou vrstvu. Spojivka je sliznice, ne vrstva stěny bulbu."
+    ],
+    "memory": "Zevní vrstva: bělima + rohovka."
+  },
+  {
+    "id": 986,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 628 · str. 139",
+    "sourcePages": "139",
+    "sourceItem": "628",
+    "question": "Kdy a čím jsou produkovány imunoglobuliny?",
+    "options": [
+      "všemi typy B lymfocytů včetně nezralých",
+      "plazmatickými buňkami",
+      "během primární imunitní odpovědi",
+      "během sekundární imunitní odpovědi"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: B, C a D",
+    "paragraphs": [
+      "Protilátky vylučují plazmatické buňky, které vznikají z aktivovaných B lymfocytů. Tvoří se při prvním setkání s antigenem (primární odpověď) i rychleji a ve větším množství při opakovaném (sekundární odpověď). Nezralé B lymfocyty protilátky nevylučují."
+    ],
+    "memory": "Protilátky = plazmatické buňky."
+  },
+  {
+    "id": 987,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 630 · str. 139",
+    "sourcePages": "139",
+    "sourceItem": "630",
+    "question": "Co platí o vitaminu D?",
+    "options": [
+      "svým působením hlavně uvolňuje vápník z kostí",
+      "ovlivňuje vstřebávání vápníku a tvorbu vaziva a chrupavek",
+      "podporuje vstřebávání vápníku a fosforu v tenkém střevě",
+      "je skladován v játrech"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Hlavním účinkem vitaminu D je zvýšení vstřebávání vápníku a fosfátů ve střevě, čímž podporuje mineralizaci kostí. Jako vitamin rozpustný v tucích se ukládá v játrech. Uvolňování vápníku z kostí řídí hlavně parathormon a tvorbu vaziva podporuje vitamin C."
+    ],
+    "memory": "Vitamin D = vápník ze střeva."
+  }
+]
