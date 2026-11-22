@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 701,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 18 · str. 8",
+    "sourcePages": "8",
+    "sourceItem": "18",
+    "question": "Která z uvedených jednotek je bezrozměrná, tedy vyjadřuje jen číslo?",
+    "options": [
+      "decibel",
+      "stupeň Celsia",
+      "mol",
+      "dioptrie"
+    ],
+    "answer": 0,
+    "title": "decibel",
+    "paragraphs": [
+      "Decibel vyjadřuje desetinásobek logaritmu poměru dvou stejných veličin, například intenzit. Dioptrie je převrácený metr (m⁻¹), stupeň Celsia je jednotka teploty a mol látkového množství."
+    ],
+    "memory": "Poměr = bez rozměru."
+  },
+  {
+    "id": 702,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 37 · str. 9",
+    "sourcePages": "9",
+    "sourceItem": "37",
+    "question": "Jaká je jednotka momentu síly?",
+    "options": [
+      "N·m⁻¹",
+      "N·m (v základních jednotkách kg·m²·s⁻²)",
+      "N·s",
+      "kg·m·s⁻¹"
+    ],
+    "answer": 1,
+    "title": "N·m (v základních jednotkách kg·m²·s⁻²)",
+    "paragraphs": [
+      "Moment síly je součin síly a kolmého ramene. Má stejný rozměr jako práce, ale nevyjadřuje se v joulech. N·s je jednotka impulsu síly, kg·m·s⁻¹ hybnosti. V knize je klíč „žádná“, protože nabídnuté rozměry neodpovídají."
+    ],
+    "memory": "Síla krát rameno."
+  },
+  {
+    "id": 703,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 45 · str. 10",
+    "sourcePages": "10",
+    "sourceItem": "45",
+    "question": "Kolik mikrometrů má jeden milion kilometrů?",
+    "options": [
+      "10²¹ μm",
+      "10¹⁸ μm",
+      "10¹⁵ μm",
+      "10¹² μm"
+    ],
+    "answer": 2,
+    "title": "10¹⁵ μm",
+    "paragraphs": [
+      "10⁶ km = 10⁹ m a 1 m = 10⁶ μm, tedy 10⁹ · 10⁶ = 10¹⁵ μm."
+    ],
+    "memory": "Sečti exponenty."
+  },
+  {
+    "id": 704,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 46 · str. 10",
+    "sourcePages": "10",
+    "sourceItem": "46",
+    "question": "Jak vysoká bude teoreticky vrstva, rozlije-li se 1 m³ vody rovnoměrně na plochu 1 km²?",
+    "options": [
+      "1 mm",
+      "0,1 mm",
+      "10 μm",
+      "1 μm"
+    ],
+    "answer": 3,
+    "title": "1 μm",
+    "paragraphs": [
+      "1 km² = 10⁶ m², výška vrstvy je 1 m³ / 10⁶ m² = 10⁻⁶ m."
+    ],
+    "memory": "Objem děleno plochou."
+  },
+  {
+    "id": 705,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 47 · str. 10",
+    "sourcePages": "10",
+    "sourceItem": "47",
+    "question": "Zlatá fólie má tloušťku 10 nm. Jak velkou plochu pokryje 1 cm³ této fólie?",
+    "options": [
+      "100 m²",
+      "10 m²",
+      "1 000 m²",
+      "10 000 m²"
+    ],
+    "answer": 0,
+    "title": "100 m²",
+    "paragraphs": [
+      "Plocha = objem / tloušťka = 10⁻⁶ m³ / 10⁻⁸ m = 100 m². Zlato je tak kujné, že se z něj dají vytepat fólie tenké jen několik desítek atomů."
+    ],
+    "memory": "Objem děleno tloušťkou."
+  },
+  {
+    "id": 706,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 48 · str. 10",
+    "sourcePages": "10",
+    "sourceItem": "48",
+    "question": "Kolik dostaneme, vynásobíme-li 1 nJ číslem 10¹⁸?",
+    "options": [
+      "1 MJ",
+      "1 GJ",
+      "1 TJ",
+      "1 PJ"
+    ],
+    "answer": 1,
+    "title": "1 GJ",
+    "paragraphs": [
+      "Nano znamená 10⁻⁹, takže 10⁻⁹ · 10¹⁸ = 10⁹ J, což je gigajoule."
+    ],
+    "memory": "Nano −9, giga +9."
+  },
+  {
+    "id": 707,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 50 · str. 10",
+    "sourcePages": "10",
+    "sourceItem": "50",
+    "question": "Ve které řadě jsou hodnoty seřazeny vzestupně?",
+    "options": [
+      "1 μs, 1 Ts, 1 Ms, 1 Gs",
+      "100 A, 10⁶ mA, 10⁹ nA, 10⁹ pA",
+      "100 ml, 10⁶ μl, 1 m³, 10⁻⁶ km³",
+      "10 J, 1 kJ, 1 W·s, 1 W·h"
+    ],
+    "answer": 2,
+    "title": "100 ml, 10⁶ μl, 1 m³, 10⁻⁶ km³",
+    "paragraphs": [
+      "Řada objemů odpovídá 0,1 l, 1 l, 1 000 l a 10⁶ l. V řadě časů je terasekunda větší než mega- a gigasekunda, v řadě proudů je 10⁹ nA jen 1 A a 1 W·s je 1 J."
+    ],
+    "memory": "Převeď vše na základní jednotku."
+  },
+  {
+    "id": 708,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 52 · str. 10",
+    "sourcePages": "10",
+    "sourceItem": "52",
+    "question": "Ve které řadě mají všechny hodnoty stejnou velikost?",
+    "options": [
+      "1 mV, 1 000 μV, 0,001 V, 10¹² nV",
+      "1 m³, 10³ l, 10⁶ mm³, 10⁹ mm³",
+      "100 nm, 0,1 μm, 10⁴ pm, 10⁻⁷ m",
+      "1 J, 1 W·s, 10⁹ nJ, 10¹² pJ"
+    ],
+    "answer": 3,
+    "title": "1 J, 1 W·s, 10⁹ nJ, 10¹² pJ",
+    "paragraphs": [
+      "Watt sekunda je joule, 10⁹ nJ i 10¹² pJ jsou také 1 J. V ostatních řadách se vždy jedna hodnota liší: 10¹² nV = 1 000 V, 10⁶ mm³ = 1 l a 10⁴ pm = 10 nm."
+    ],
+    "memory": "Pozor na jeden vetřelec."
+  },
+  {
+    "id": 709,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 53 · str. 10",
+    "sourcePages": "10",
+    "sourceItem": "53",
+    "question": "Který převod jednotek je nesprávný?",
+    "options": [
+      "1 kJ = 3,6 W·h",
+      "100 ml = 10⁵ μl",
+      "1 h = 3,6 · 10¹⁵ ps",
+      "100 A = 10¹¹ nA"
+    ],
+    "answer": 0,
+    "title": "1 kJ = 3,6 W·h",
+    "paragraphs": [
+      "Watthodina je 1 W · 3 600 s = 3 600 J, takže 3,6 kJ = 1 W·h, a ne naopak. Ostatní převody platí."
+    ],
+    "memory": "1 W·h = 3,6 kJ."
+  },
+  {
+    "id": 710,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 56 · str. 10",
+    "sourcePages": "10",
+    "sourceItem": "56",
+    "question": "Ve které trojici jsou pouze vektorové veličiny?",
+    "options": [
+      "délka, povrchové napětí, tlak",
+      "magnetická indukce, zrychlení, hybnost",
+      "energie, intenzita elektrického pole, magnetická indukce",
+      "hybnost, energie, moment síly"
+    ],
+    "answer": 1,
+    "title": "magnetická indukce, zrychlení, hybnost",
+    "paragraphs": [
+      "Vektor má velikost i směr. Energie, tlak, délka a povrchové napětí jsou skaláry, proto stačí jediná z nich, aby trojice nebyla čistě vektorová."
+    ],
+    "memory": "Má směr? Je to vektor."
+  },
+  {
+    "id": 711,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kinematika a dynamika",
+    "bookRef": "LF MU · Fyzika · Kinematika a dynamika 7 · str. 11",
+    "sourcePages": "11",
+    "sourceItem": "7",
+    "question": "Projektil vystřelený rychlostí 800 m·s⁻¹ se zaryje 100 mm hluboko do zdiva. Jak dlouho brzdí, zpomaluje-li rovnoměrně?",
+    "options": [
+      "25,0 ms",
+      "25,0 μs",
+      "250 μs",
+      "2,50 ms"
+    ],
+    "answer": 2,
+    "title": "250 μs",
+    "paragraphs": [
+      "Při rovnoměrném zpomalení je průměrná rychlost polovinou počáteční, tedy 400 m·s⁻¹. Čas je t = s / v̄ = 0,100 / 400 = 2,5 · 10⁻⁴ s. Hmotnost projektilu se do výpočtu nedostane."
+    ],
+    "memory": "Průměrná rychlost = polovina."
+  },
+  {
+    "id": 712,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kinematika a dynamika",
+    "bookRef": "LF MU · Fyzika · Kinematika a dynamika 13 · str. 12",
+    "sourcePages": "12",
+    "sourceItem": "13",
+    "question": "Jaké zrychlení má těsně před dopadem těleso o hmotnosti 5,00 kg padající z výšky 1 000 m na planetě bez atmosféry, je-li gravitační zrychlení 0,500 m·s⁻² a pole homogenní?",
+    "options": [
+      "2,50 m·s⁻²",
+      "500 m·s⁻²",
+      "9,81 m·s⁻²",
+      "0,500 m·s⁻²"
+    ],
+    "answer": 3,
+    "title": "0,500 m·s⁻²",
+    "paragraphs": [
+      "V homogenním poli bez odporu prostředí padá těleso s konstantním zrychlením rovným gravitačnímu zrychlení. Na hmotnosti ani na výšce nezávisí."
+    ],
+    "memory": "Volný pád = stále g."
+  },
+  {
+    "id": 713,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kinematika a dynamika",
+    "bookRef": "LF MU · Fyzika · Kinematika a dynamika 15 · str. 12",
+    "sourcePages": "12",
+    "sourceItem": "15",
+    "question": "Těleso vystřelíme pod úhlem 45° nad vodorovný povrch (bez odporu vzduchu). Co platí, změníme-li elevační úhel?",
+    "options": [
+      "těleso může vystoupat výš, ale nedoletí dál",
+      "těleso může doletět dál",
+      "těleso nemůže vystoupat výš",
+      "nelze dosáhnout větší výšky ani větší dálky"
+    ],
+    "answer": 0,
+    "title": "těleso může vystoupat výš, ale nedoletí dál",
+    "paragraphs": [
+      "Dálka vrhu je úměrná sin 2α a největší je při 45°. Výška výstupu roste se sin² α, takže při strmějším úhlu těleso vystoupá výš, ale dopadne blíž."
+    ],
+    "memory": "45° = nejdál, 90° = nejvýš."
+  },
+  {
+    "id": 714,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kinematika a dynamika",
+    "bookRef": "LF MU · Fyzika · Kinematika a dynamika 16 · str. 13",
+    "sourcePages": "13",
+    "sourceItem": "16",
+    "question": "Koule A se přikutálí k okraji propasti na Měsíci rychlostí 10 m·s⁻¹ a spadne do ní, koule B do ní současně spadne s nulovou počáteční rychlostí. Co platí?",
+    "options": [
+      "koule A dopadne dříve",
+      "v okamžiku dopadu bude rychlost koule A větší",
+      "koule B dopadne dříve",
+      "v okamžiku dopadu bude rychlost koule B větší"
+    ],
+    "answer": 1,
+    "title": "v okamžiku dopadu bude rychlost koule A větší",
+    "paragraphs": [
+      "Svislý pohyb obou koulí je stejný volný pád, a proto dopadnou současně. Koule A má navíc vodorovnou složku rychlosti, takže výsledná rychlost při dopadu je u ní větší."
+    ],
+    "memory": "Svisle stejně, vodorovně navíc."
+  },
+  {
+    "id": 715,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kinematika a dynamika",
+    "bookRef": "LF MU · Fyzika · Kinematika a dynamika 25 · str. 13",
+    "sourcePages": "13",
+    "sourceItem": "25",
+    "question": "Těleso o objemu 40,0 ml a hmotnosti 80,0 g klesá ve vodě ke dnu stálou rychlostí. Jak velká celková síla působí proti směru jeho pohybu (g = 10,0 m·s⁻²)?",
+    "options": [
+      "0,400 N",
+      "400 N",
+      "0,800 N",
+      "nelze ji vypočítat bez znalosti tvaru tělesa"
+    ],
+    "answer": 2,
+    "title": "0,800 N",
+    "paragraphs": [
+      "Při stálé rychlosti je výslednice sil nulová, takže síly působící vzhůru (vztlak 0,400 N a odpor vody) se rovnají tíze 0,800 N. Tvar tělesa ovlivní jen to, jaké rychlosti dosáhne."
+    ],
+    "memory": "Stálá rychlost = rovnováha sil."
+  },
+  {
+    "id": 716,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kinematika a dynamika",
+    "bookRef": "LF MU · Fyzika · Kinematika a dynamika 30 · str. 14",
+    "sourcePages": "14",
+    "sourceItem": "30",
+    "question": "Dva vozíky o hmotnostech 8,00 kg a 16,0 kg se po vzájemném odstrčení pohybují opačnými směry. Kdy byly před odstrčením v klidu?",
+    "options": [
+      "lehčí vozík jede rychlostí 8,00 m·s⁻¹ a těžší 16,0 m·s⁻¹",
+      "lehčí vozík jede rychlostí 16,0 m·s⁻¹ a těžší 32,0 m·s⁻¹",
+      "oba vozíky jedou stejně velkou rychlostí",
+      "lehčí vozík jede rychlostí 16,0 m·s⁻¹ a těžší 8,00 m·s⁻¹"
+    ],
+    "answer": 3,
+    "title": "lehčí vozík jede rychlostí 16,0 m·s⁻¹ a těžší 8,00 m·s⁻¹",
+    "paragraphs": [
+      "Celková hybnost soustavy zůstává nulová, a proto m₁v₁ = m₂v₂. 8 · 16 = 16 · 8, takže lehčí vozík musí mít dvojnásobnou rychlost."
+    ],
+    "memory": "Hybnosti stejné, opačné."
+  },
+  {
+    "id": 717,
+    "subject": "Fyzika",
+    "category": "Fyzika · Práce a energie",
+    "bookRef": "LF MU · Fyzika · Práce a energie 31 · str. 14",
+    "sourcePages": "14",
+    "sourceItem": "31",
+    "question": "Jakou práci vykoná člověk, který pomocí pevné kladky vytáhne břemeno o hmotnosti 20,0 kg do výšky 10,0 m (g = 10,0 m·s⁻²)?",
+    "options": [
+      "2 000 J",
+      "2 000 W",
+      "1 000 J",
+      "1 000 W"
+    ],
+    "answer": 0,
+    "title": "2 000 J",
+    "paragraphs": [
+      "Pevná kladka mění jen směr síly, ne její velikost ani práci: W = m·g·h = 20 · 10 · 10 = 2 000 J. Watt je jednotka výkonu."
+    ],
+    "memory": "W = mgh, v joulech."
+  },
+  {
+    "id": 718,
+    "subject": "Fyzika",
+    "category": "Fyzika · Práce a energie",
+    "bookRef": "LF MU · Fyzika · Práce a energie 32 · str. 14",
+    "sourcePages": "14",
+    "sourceItem": "32",
+    "question": "Kulka o hmotnosti 10,00 g dopadla 3 200 m daleko a vodorovná složka její rychlosti byla 800,0 m·s⁻¹. Jakou kinetickou energii získala při výstřelu (bez odporu vzduchu, g = 10,00 m·s⁻², na čtyři platné číslice)?",
+    "options": [
+      "2,004 J",
+      "3 202 J",
+      "3 200 J",
+      "úlohu nelze vyřešit"
+    ],
+    "answer": 1,
+    "title": "3 202 J",
+    "paragraphs": [
+      "Let trval 3 200 / 800 = 4,000 s, svislá složka rychlosti tedy byla g·t/2 = 20,00 m·s⁻¹. E = ½ · 0,010 · (800² + 20²) = 3 202 J. Svislá složka přidá jen 2 J."
+    ],
+    "memory": "Obě složky rychlosti."
+  },
+  {
+    "id": 719,
+    "subject": "Fyzika",
+    "category": "Fyzika · Práce a energie",
+    "bookRef": "LF MU · Fyzika · Práce a energie 33 · str. 14",
+    "sourcePages": "14",
+    "sourceItem": "33",
+    "question": "Při průletu atmosférou a dopadu meteoritu o hmotnosti 1,00 kg se uvolnilo 18,0 MJ energie. Jakou rychlostí se původně pohyboval (vliv gravitace zanedbejte)?",
+    "options": [
+      "18 000 m·s⁻¹",
+      "1 800 m·s⁻¹",
+      "6 000 m·s⁻¹",
+      "nelze rozhodnout"
+    ],
+    "answer": 2,
+    "title": "6 000 m·s⁻¹",
+    "paragraphs": [
+      "Uvolněná energie pochází z kinetické energie: v = √(2E/m) = √(36 · 10⁶) = 6 000 m·s⁻¹."
+    ],
+    "memory": "v = √(2E/m)."
+  },
+  {
+    "id": 720,
+    "subject": "Fyzika",
+    "category": "Fyzika · Práce a energie",
+    "bookRef": "LF MU · Fyzika · Práce a energie 38 · str. 15",
+    "sourcePages": "15",
+    "sourceItem": "38",
+    "question": "Pracovník zvedá kladkostrojem břemeno o hmotnosti 0,750 t do výšky 2,00 m s výkonem 300 W. Jak dlouho to trvá (bez tření, g = 10,0 m·s⁻²)?",
+    "options": [
+      "5,00 s",
+      "150 s",
+      "400 s",
+      "50,0 s"
+    ],
+    "answer": 3,
+    "title": "50,0 s",
+    "paragraphs": [
+      "Práce je 750 · 10 · 2 = 15 000 J, doba t = W / P = 15 000 / 300 = 50,0 s. Kladkostroj zmenší potřebnou sílu, ale ne práci."
+    ],
+    "memory": "t = W / P."
+  },
+  {
+    "id": 721,
+    "subject": "Fyzika",
+    "category": "Fyzika · Práce a energie",
+    "bookRef": "LF MU · Fyzika · Práce a energie 42 · str. 15",
+    "sourcePages": "15",
+    "sourceItem": "42",
+    "question": "Píst se má rovnoměrně během 1 minuty posunout o 100 mm proti tlakové síle 2,4 kN. Jaký nejmenší výkon musí mít stroj, který ho pohání?",
+    "options": [
+      "4 W",
+      "240 W",
+      "240 000 W",
+      "4 000 W"
+    ],
+    "answer": 0,
+    "title": "4 W",
+    "paragraphs": [
+      "Práce je 2 400 N · 0,100 m = 240 J. Za 60 s to odpovídá výkonu 240 / 60 = 4 W."
+    ],
+    "memory": "Práce děleno časem."
+  },
+  {
+    "id": 722,
+    "subject": "Fyzika",
+    "category": "Fyzika · Práce a energie",
+    "bookRef": "LF MU · Fyzika · Práce a energie 44 · str. 16",
+    "sourcePages": "16",
+    "sourceItem": "44",
+    "question": "Nákladní auto vyjede po 100 m dlouhém nájezdu do výšky 5,00 m za 20,0 s. Jaký průměrný výkon musí mít plošina, která auto zvedne do stejné výšky za 10,0 s (bez tření)?",
+    "options": [
+      "asi 6,67krát menší",
+      "dvakrát větší než motor auta",
+      "stejný jako motor auta",
+      "třikrát menší"
+    ],
+    "answer": 1,
+    "title": "dvakrát větší než motor auta",
+    "paragraphs": [
+      "V obou případech se vykoná stejná práce m·g·h. Délka dráhy na ni bez tření nemá vliv, takže poloviční doba znamená dvojnásobný výkon."
+    ],
+    "memory": "Stejná práce, poloviční čas."
+  },
+  {
+    "id": 723,
+    "subject": "Fyzika",
+    "category": "Fyzika · Práce a energie",
+    "bookRef": "LF MU · Fyzika · Práce a energie 46 · str. 16",
+    "sourcePages": "16",
+    "sourceItem": "46",
+    "question": "Pro který výpočet lze vztah pro tíhovou potenciální energii Ep = m·g·h použít velmi přesně?",
+    "options": [
+      "pro práci potřebnou k dopravě tělesa na oběžnou dráhu",
+      "pro práci potřebnou k cestě vlakem z Prahy do Brna",
+      "pro minimální práci potřebnou k vynesení břemene na vrchol rozhledny",
+      "pro rychlost dopadu meteoritů na Zemi"
+    ],
+    "answer": 2,
+    "title": "pro minimální práci potřebnou k vynesení břemene na vrchol rozhledny",
+    "paragraphs": [
+      "Vztah předpokládá homogenní pole, tedy stálé g. To platí jen pro malé výšky u povrchu Země. Pro oběžnou dráhu a meteority je třeba Newtonův gravitační zákon a cestu vlakem určuje hlavně tření."
+    ],
+    "memory": "mgh jen blízko povrchu."
+  },
+  {
+    "id": 724,
+    "subject": "Fyzika",
+    "category": "Fyzika · Otáčivý pohyb",
+    "bookRef": "LF MU · Fyzika · Otáčivý pohyb 44 · str. 16",
+    "sourcePages": "16",
+    "sourceItem": "44",
+    "question": "Kolo o poloměru 50,0 cm vykoná 120 otáček za minutu. Jakou rychlostí se pohybuje bod na jeho obvodu?",
+    "options": [
+      "2,00 m·s⁻¹",
+      "120π m·s⁻¹",
+      "200π m·s⁻¹",
+      "2π m·s⁻¹"
+    ],
+    "answer": 3,
+    "title": "2π m·s⁻¹",
+    "paragraphs": [
+      "Frekvence je 120 / 60 = 2 s⁻¹. Za jednu otáčku bod urazí obvod 2π · 0,5 = π m, rychlost je tedy 2π m·s⁻¹, asi 6,3 m·s⁻¹."
+    ],
+    "memory": "v = 2πrf."
+  },
+  {
+    "id": 725,
+    "subject": "Fyzika",
+    "category": "Fyzika · Otáčivý pohyb",
+    "bookRef": "LF MU · Fyzika · Otáčivý pohyb 46 · str. 16",
+    "sourcePages": "16",
+    "sourceItem": "46",
+    "question": "Na kosmonauta v centrifuze působí odstředivé zrychlení 50,0 m·s⁻² při obvodové rychlosti 20,0 m·s⁻¹. Jak daleko je od středu otáčení?",
+    "options": [
+      "8,00 m",
+      "2,50 m",
+      "12,0 m",
+      "na vzdálenosti nezáleží"
+    ],
+    "answer": 0,
+    "title": "8,00 m",
+    "paragraphs": [
+      "Dostředivé zrychlení je a = v²/r, odtud r = v²/a = 400 / 50 = 8,00 m."
+    ],
+    "memory": "r = v² / a."
+  },
+  {
+    "id": 726,
+    "subject": "Fyzika",
+    "category": "Fyzika · Otáčivý pohyb",
+    "bookRef": "LF MU · Fyzika · Otáčivý pohyb 47 · str. 16",
+    "sourcePages": "16",
+    "sourceItem": "47",
+    "question": "Jaká je úhlová rychlost tělesa, které rovnoměrně oběhne celou kružnici za desetinu sekundy?",
+    "options": [
+      "0,1 Hz",
+      "20π s⁻¹",
+      "10 Hz",
+      "10π s⁻¹"
+    ],
+    "answer": 1,
+    "title": "20π s⁻¹",
+    "paragraphs": [
+      "ω = 2π / T = 2π / 0,1 = 20π rad·s⁻¹. Frekvence je 10 Hz, ale úhlová rychlost je 2π krát větší."
+    ],
+    "memory": "ω = 2πf."
+  },
+  {
+    "id": 727,
+    "subject": "Fyzika",
+    "category": "Fyzika · Otáčivý pohyb",
+    "bookRef": "LF MU · Fyzika · Otáčivý pohyb 49 · str. 16",
+    "sourcePages": "16",
+    "sourceItem": "49",
+    "question": "Jaká je kinetická energie tělesa o hmotnosti 10,0 g, které se pohybuje po kružnici o poloměru 1 m s úhlovou rychlostí 10 s⁻¹?",
+    "options": [
+      "0,100 J",
+      "1,00 J",
+      "0,500 J",
+      "5,00 J"
+    ],
+    "answer": 2,
+    "title": "0,500 J",
+    "paragraphs": [
+      "Obvodová rychlost je v = ω·r = 10 m·s⁻¹, E = ½ · 0,010 · 100 = 0,500 J. V knize je klíč „žádná“, správná hodnota je doplněna."
+    ],
+    "memory": "v = ωr, pak ½mv²."
+  },
+  {
+    "id": 728,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kinematika a dynamika",
+    "bookRef": "LF MU · Fyzika · Kinematika a dynamika 54 · str. 17",
+    "sourcePages": "17",
+    "sourceItem": "54",
+    "question": "Jaký význam mají otočky při hodu kladivem?",
+    "options": [
+      "přispívají k délce hodu u všech atletů stejně",
+      "umožní, aby se tělo atleta náhle zastavilo a předalo kladivu celou svou energii",
+      "délka hodu na rychlosti otáčení nezávisí",
+      "zvyšují počáteční rychlost kladiva, a tím i délku hodu"
+    ],
+    "answer": 3,
+    "title": "zvyšují počáteční rychlost kladiva, a tím i délku hodu",
+    "paragraphs": [
+      "Při otočkách atlet zrychluje kladivo po kružnici. Ve chvíli puštění letí kladivo po tečně rychlostí, kterou mu otáčky udělily, a dálka vrhu roste s druhou mocninou této rychlosti."
+    ],
+    "memory": "Rychlejší otočky = delší hod."
+  },
+  {
+    "id": 729,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kinematika a dynamika",
+    "bookRef": "LF MU · Fyzika · Kinematika a dynamika 55 · str. 17",
+    "sourcePages": "17",
+    "sourceItem": "55",
+    "question": "Které tvrzení o klopení zatáček je správné?",
+    "options": [
+      "vyšší rychlosti v zatáčce trati lze dosáhnout klopením i aktivním naklápěním vlaku",
+      "klopí se jen zatáčky dálnic",
+      "klopeny bývají i přímé úseky horských serpentin",
+      "klopení zatáček na velodromu nemá vliv na výkon cyklistů"
+    ],
+    "answer": 0,
+    "title": "vyšší rychlosti v zatáčce trati lze dosáhnout klopením i aktivním naklápěním vlaku",
+    "paragraphs": [
+      "Při klopení přispívá ke vzniku dostředivé síly složka tíhy a reakce vozovky. Naklápěcí vlaky (pendolina) navíc zmenšují boční zrychlení působící na cestující."
+    ],
+    "memory": "Sklon pomáhá zatáčet."
+  },
+  {
+    "id": 730,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kinematika a dynamika",
+    "bookRef": "LF MU · Fyzika · Kinematika a dynamika 56 · str. 17",
+    "sourcePages": "17",
+    "sourceItem": "56",
+    "question": "Které tvrzení o srážce dvou bruslařů je správné?",
+    "options": [
+      "těžší bruslař působí na lehčího větší silou",
+      "bruslaři na sebe působí stejně velkými silami",
+      "lehčí bruslař se vždy odrazí zpět, protože na něj působí větší síla",
+      "na těžšího bruslaře působí síla kratší dobu"
+    ],
+    "answer": 1,
+    "title": "bruslaři na sebe působí stejně velkými silami",
+    "paragraphs": [
+      "Podle zákona akce a reakce jsou síly vzájemného působení stejně velké a opačně orientované a působí stejně dlouho. Rozdílné jsou jen změny rychlosti, protože bruslaři mají různé hmotnosti."
+    ],
+    "memory": "Akce = reakce."
+  },
+  {
+    "id": 731,
+    "subject": "Fyzika",
+    "category": "Fyzika · Kinematika a dynamika",
+    "bookRef": "LF MU · Fyzika · Kinematika a dynamika 57 · str. 18",
+    "sourcePages": "18",
+    "sourceItem": "57",
+    "question": "Brigádník vozí cihly na kolečku. Které tvrzení je správné?",
+    "options": [
+      "na držadla musí vždy působit mnohem větší silou, než váží cihly",
+      "kolečko jako páka za něj vykoná část práce",
+      "síla, kterou působí na držadla, závisí mimo jiné na tom, jak jsou cihly uloženy",
+      "na držadla působí stejnou silou, jako váží cihly"
+    ],
+    "answer": 2,
+    "title": "síla, kterou působí na držadla, závisí mimo jiné na tom, jak jsou cihly uloženy",
+    "paragraphs": [
+      "Kolečko je jednozvratná páka s osou v kole. Čím blíž ose leží těžiště nákladu, tím menší silou musí brigádník držadla zvedat. Práci však páka neušetří."
+    ],
+    "memory": "Těžiště blíž kolu = lehčí."
+  },
+  {
+    "id": 732,
+    "subject": "Fyzika",
+    "category": "Fyzika · Gravitace",
+    "bookRef": "LF MU · Fyzika · Gravitace 61 · str. 18",
+    "sourcePages": "18",
+    "sourceItem": "61",
+    "question": "Mezi dvě kovové koule na dlouhých závěsech, které se měřitelně přitahují, vložíme silnou nepohyblivou olověnou desku. Jak se změní jejich poloha?",
+    "options": [
+      "nezmění se",
+      "nepatrně se od sebe oddálí",
+      "jedna se přiblíží k desce a druhá se oddálí",
+      "nepatrně se přiblíží k sobě"
+    ],
+    "answer": 3,
+    "title": "nepatrně se přiblíží k sobě",
+    "paragraphs": [
+      "Gravitaci nelze odstínit, takže koule se dál přitahují navzájem. Navíc obě přitahuje deska, která leží mezi nimi, a proto se obě posunou k ní, tedy k sobě."
+    ],
+    "memory": "Gravitace se nestíní."
+  },
+  {
+    "id": 733,
+    "subject": "Chemie",
+    "category": "Chemie · Stavba atomu",
+    "bookRef": "LF MU · Chemie · Stavba atomu 35 · str. 69",
+    "sourcePages": "69",
+    "sourceItem": "35",
+    "question": "Co se u s- a p-prvků téže skupiny s rostoucím protonovým číslem zmenšuje?",
+    "options": [
+      "ionizační energie",
+      "atomový poloměr",
+      "kovový charakter",
+      "schopnost redukovat"
+    ],
+    "answer": 0,
+    "title": "ionizační energie",
+    "paragraphs": [
+      "Ve skupině přibývá elektronových vrstev a valenční elektrony jsou dál od jádra, takže se snadněji odtrhnou. Poloměr, kovový charakter i redukční schopnost proto rostou."
+    ],
+    "memory": "Dolů ve skupině = snazší ionizace."
+  },
+  {
+    "id": 734,
+    "subject": "Chemie",
+    "category": "Chemie · Stavba atomu",
+    "bookRef": "LF MU · Chemie · Stavba atomu 37 · str. 69",
+    "sourcePages": "69",
+    "sourceItem": "37",
+    "question": "Co se u s- a p-prvků téže periody s rostoucím protonovým číslem zvyšuje?",
+    "options": [
+      "atomový poloměr",
+      "afinita k elektronům",
+      "kovový charakter",
+      "počet elektronových vrstev"
+    ],
+    "answer": 1,
+    "title": "afinita k elektronům",
+    "paragraphs": [
+      "V periodě roste náboj jádra při stejném počtu vrstev. Atom se zmenšuje a pevněji přitahuje elektrony, a proto rostou elektronová afinita, ionizační energie i elektronegativita."
+    ],
+    "memory": "Doprava v periodě = chamtivější atomy."
+  },
+  {
+    "id": 735,
+    "subject": "Chemie",
+    "category": "Chemie · Chemická vazba",
+    "bookRef": "LF MU · Chemie · Chemická vazba 42 · str. 70",
+    "sourcePages": "70",
+    "sourceItem": "42",
+    "question": "Ve které sloučenině jsou částice vázány iontovou vazbou?",
+    "options": [
+      "H₂O",
+      "SiO₂",
+      "K₂S",
+      "H₂S"
+    ],
+    "answer": 2,
+    "title": "K₂S",
+    "paragraphs": [
+      "Draslík jako typický kov odevzdá elektrony síře. Rozdíl elektronegativit je velký (asi 1,7), a vznikne tak iontová sloučenina. Ostatní látky tvoří nekovy s polárními kovalentními vazbami."
+    ],
+    "memory": "Kov + nekov = iontová."
+  },
+  {
+    "id": 736,
+    "subject": "Chemie",
+    "category": "Chemie · Chemická vazba",
+    "bookRef": "LF MU · Chemie · Chemická vazba 53 · str. 71",
+    "sourcePages": "71",
+    "sourceItem": "53",
+    "question": "Jaká je vazebná energie dvojné vazby C=C v ethenu ve srovnání s jednoduchou vazbou C−C?",
+    "options": [
+      "menší než energie jednoduché vazby",
+      "rovna dvojnásobku energie jednoduché vazby",
+      "větší než dvojnásobek energie jednoduché vazby",
+      "menší než dvojnásobek energie jednoduché vazby"
+    ],
+    "answer": 3,
+    "title": "menší než dvojnásobek energie jednoduché vazby",
+    "paragraphs": [
+      "Dvojná vazba se skládá z vazby σ a slabší vazby π (asi 614 kJ·mol⁻¹ proti 2 · 348 kJ·mol⁻¹). Proto se vazba π snadno štěpí při adičních reakcích alkenů."
+    ],
+    "memory": "π je slabší než σ."
+  },
+  {
+    "id": 737,
+    "subject": "Chemie",
+    "category": "Chemie · Chemická vazba",
+    "bookRef": "LF MU · Chemie · Chemická vazba 54 · str. 71",
+    "sourcePages": "71",
+    "sourceItem": "54",
+    "question": "Jaká je délka dvojné vazby C=C v ethenu?",
+    "options": [
+      "kratší než vazba C−C v ethanu",
+      "delší než vazba C−C v ethanu",
+      "stejná jako vazba C−C v ethanu",
+      "kratší než trojná vazba v ethynu"
+    ],
+    "answer": 0,
+    "title": "kratší než vazba C−C v ethanu",
+    "paragraphs": [
+      "S násobností vazby se atomy přibližují: C−C asi 154 pm, C=C asi 134 pm a C≡C asi 120 pm."
+    ],
+    "memory": "Čím víc vazeb, tím kratší."
+  },
+  {
+    "id": 738,
+    "subject": "Chemie",
+    "category": "Chemie · Chemická vazba",
+    "bookRef": "LF MU · Chemie · Chemická vazba 55 · str. 71",
+    "sourcePages": "71",
+    "sourceItem": "55",
+    "question": "Jaký tvar molekuly podmiňuje hybridizace sp středového atomu?",
+    "options": [
+      "rovinný trojúhelníkový",
+      "lineární",
+      "tetraedrický",
+      "oktaedrický"
+    ],
+    "answer": 1,
+    "title": "lineární",
+    "paragraphs": [
+      "Dva hybridní orbitaly sp míří na opačné strany, svírají úhel 180°. Příkladem jsou CO₂, BeCl₂ nebo ethyn. sp² dává rovinný trojúhelník, sp³ tetraedr."
+    ],
+    "memory": "sp = přímka."
+  },
+  {
+    "id": 739,
+    "subject": "Chemie",
+    "category": "Chemie · Chemická vazba",
+    "bookRef": "LF MU · Chemie · Chemická vazba 57 · str. 71",
+    "sourcePages": "71",
+    "sourceItem": "57",
+    "question": "Které tvrzení o tvaru molekul je nesprávné?",
+    "options": [
+      "molekula CF₄ je pravidelným tetraedrem",
+      "vazebný úhel v molekule OF₂ je značně menší než 180°",
+      "všechny atomy molekuly PF₃ leží v jedné rovině s úhly 120°",
+      "molekula CHCl₃ tvoří nepravidelný čtyřstěn"
+    ],
+    "answer": 2,
+    "title": "všechny atomy molekuly PF₃ leží v jedné rovině s úhly 120°",
+    "paragraphs": [
+      "Fosfor má v PF₃ kromě tří vazeb i volný elektronový pár, a molekula je proto trigonální pyramida podobně jako NH₃. Rovinná s úhly 120° je například molekula BF₃."
+    ],
+    "memory": "Volný pár = pyramida."
+  },
+  {
+    "id": 740,
+    "subject": "Chemie",
+    "category": "Chemie · Chemická vazba",
+    "bookRef": "LF MU · Chemie · Chemická vazba 63 · str. 72",
+    "sourcePages": "72",
+    "sourceItem": "63",
+    "question": "Která z uvedených látek je koordinační (komplexní) sloučeninou?",
+    "options": [
+      "Mn(NO₃)₂",
+      "KAl(SO₄)₂",
+      "AuBr",
+      "Na₃[FeF₆]"
+    ],
+    "answer": 3,
+    "title": "Na₃[FeF₆]",
+    "paragraphs": [
+      "V hexafluoroželezitanu sodném je na centrální ion Fe³⁺ koordinačně vázáno šest fluoridových ligandů. KAl(SO₄)₂ je podvojná sůl, ostatní jsou jednoduché soli."
+    ],
+    "memory": "Hranatá závorka = komplex."
+  },
+  {
+    "id": 741,
+    "subject": "Chemie",
+    "category": "Chemie · Chemická vazba",
+    "bookRef": "LF MU · Chemie · Chemická vazba 64 · str. 72",
+    "sourcePages": "72",
+    "sourceItem": "64",
+    "question": "Co je koordinační číslo centrálního atomu v komplexní sloučenině?",
+    "options": [
+      "počet vazeb, kterými jsou na centrální atom navázány ligandy",
+      "oxidační číslo centrálního atomu",
+      "rozdíl počtu ligandů a oxidačního čísla",
+      "počet valenčních elektronů centrálního atomu"
+    ],
+    "answer": 0,
+    "title": "počet vazeb, kterými jsou na centrální atom navázány ligandy",
+    "paragraphs": [
+      "V [Fe(CN)₆]⁴⁻ je koordinační číslo 6, v [Cu(NH₃)₄]²⁺ je 4. S oxidačním číslem centrálního atomu nesouvisí přímo."
+    ],
+    "memory": "Kolik ligandů drží střed."
+  },
+  {
+    "id": 742,
+    "subject": "Chemie",
+    "category": "Chemie · Chemická vazba",
+    "bookRef": "LF MU · Chemie · Chemická vazba 65 · str. 72",
+    "sourcePages": "72",
+    "sourceItem": "65",
+    "question": "U kterých látek se uplatňuje asociace molekul vodíkovými vazbami?",
+    "options": [
+      "u hydridů alkalických kovů",
+      "u hydridů fluoru, kyslíku a dusíku",
+      "u uhlovodíků",
+      "u koordinačních sloučenin"
+    ],
+    "answer": 1,
+    "title": "u hydridů fluoru, kyslíku a dusíku",
+    "paragraphs": [
+      "Vodíková vazba vzniká, když je vodík vázán na malý a silně elektronegativní atom F, O nebo N. Proto mají HF, H₂O a NH₃ nečekaně vysoké body varu."
+    ],
+    "memory": "F, O, N."
+  },
+  {
+    "id": 743,
+    "subject": "Chemie",
+    "category": "Chemie · Chemická vazba",
+    "bookRef": "LF MU · Chemie · Chemická vazba 68 · str. 72",
+    "sourcePages": "72",
+    "sourceItem": "68",
+    "question": "Co nepatří mezi mezimolekulové síly?",
+    "options": [
+      "elektrostatické interakce",
+      "vodíkové vazby",
+      "koordinačně kovalentní vazba",
+      "hydrofobní interakce"
+    ],
+    "answer": 2,
+    "title": "koordinačně kovalentní vazba",
+    "paragraphs": [
+      "Koordinační vazba je kovalentní vazba uvnitř částice, při níž oba elektrony dodá jeden atom. Mezimolekulové síly jsou slabší nekovalentní interakce."
+    ],
+    "memory": "Koordinační = uvnitř molekuly."
+  },
+  {
+    "id": 744,
+    "subject": "Chemie",
+    "category": "Chemie · Chemická vazba",
+    "bookRef": "LF MU · Chemie · Chemická vazba 71 · str. 72",
+    "sourcePages": "72",
+    "sourceItem": "71",
+    "question": "Která látka může tvořit vodíkové vazby mezi svými molekulami?",
+    "options": [
+      "acetaldehyd CH₃−CHO",
+      "brommethan CH₃−Br",
+      "dibutylether",
+      "ethylamin CH₃−CH₂−NH₂"
+    ],
+    "answer": 3,
+    "title": "ethylamin CH₃−CH₂−NH₂",
+    "paragraphs": [
+      "Ethylamin má vodík vázaný na dusík, který může tvořit vodíkovou vazbu s volným párem dusíku sousední molekuly. Aldehyd a ether mají jen akceptor (kyslík), ale žádný vodík na O nebo N."
+    ],
+    "memory": "Potřeba N−H nebo O−H."
+  },
+  {
+    "id": 745,
+    "subject": "Chemie",
+    "category": "Chemie · Chemická vazba",
+    "bookRef": "LF MU · Chemie · Chemická vazba 73 · str. 72",
+    "sourcePages": "72",
+    "sourceItem": "73",
+    "question": "Která látka může tvořit vodíkové vazby s molekulami vody?",
+    "options": [
+      "tyrosin",
+      "anthracen",
+      "propan",
+      "toluen"
+    ],
+    "answer": 0,
+    "title": "tyrosin",
+    "paragraphs": [
+      "Tyrosin má skupiny −OH, −NH₂ a −COOH, které tvoří vodíkové vazby s vodou. Uhlovodíky anthracen, propan a toluen jsou nepolární."
+    ],
+    "memory": "Polární skupiny = vazby s vodou."
+  },
+  {
+    "id": 746,
+    "subject": "Biologie",
+    "category": "Biologie · Obecná biologie",
+    "bookRef": "LF MU · Biologie · Obecná biologie 7 · str. 122",
+    "sourcePages": "122",
+    "sourceItem": "7",
+    "question": "Která z uvedených skupin patří mezi nebuněčné organismy?",
+    "options": [
+      "mykoplazmata",
+      "bakteriofágy",
+      "rickettsie",
+      "spirily"
+    ],
+    "answer": 1,
+    "title": "bakteriofágy",
+    "paragraphs": [
+      "Bakteriofágy jsou viry napadající bakterie, a nemají tedy buněčnou stavbu. Mykoplazmata, rickettsie i spirily jsou bakterie, tedy prokaryotické buňky."
+    ],
+    "memory": "Fág = virus."
+  },
+  {
+    "id": 747,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 15 · str. 124",
+    "sourcePages": "124",
+    "sourceItem": "15",
+    "question": "Které tvrzení o syntéze nukleových kyselin a proteinů není správné?",
+    "options": [
+      "zařazení každé aminokyseliny do polypeptidu určuje triplet nukleotidů v mRNA",
+      "pravidla přiřazení aminokyselin ke kodonům se označují jako genetický kód",
+      "pořadí aminokyselin v polypeptidovém řetězci se označuje jako strukturní gen",
+      "ukončení translace signalizuje terminační kodon"
+    ],
+    "answer": 2,
+    "title": "pořadí aminokyselin v polypeptidovém řetězci se označuje jako strukturní gen",
+    "paragraphs": [
+      "Strukturní gen je úsek DNA nesoucí informaci o pořadí aminokyselin v bílkovině. Samotné pořadí aminokyselin je primární struktura proteinu."
+    ],
+    "memory": "Gen = DNA, ne bílkovina."
+  },
+  {
+    "id": 748,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 19 · str. 124",
+    "sourcePages": "124",
+    "sourceItem": "19",
+    "question": "Kde v eukaryotické buňce kromě jádra probíhá syntéza RNA?",
+    "options": [
+      "v lyzozomech a peroxizomech",
+      "v ribozomech a centriolech",
+      "na drsném endoplazmatickém retikulu",
+      "v mitochondriích a chloroplastech"
+    ],
+    "answer": 3,
+    "title": "v mitochondriích a chloroplastech",
+    "paragraphs": [
+      "Mitochondrie a chloroplasty mají vlastní DNA a vlastní RNA-polymerázu. Ribozomy RNA obsahují, ale nesyntetizují ji."
+    ],
+    "memory": "Kde je DNA, tam je přepis."
+  },
+  {
+    "id": 749,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 31 · str. 126",
+    "sourcePages": "126",
+    "sourceItem": "31",
+    "question": "K živým buňkám přidáme ¹⁴C-uracil, který se zabudovává do nově syntetizované RNA. Nad kterou strukturou se při autoradiografii objeví nejvíce zrníček stříbra?",
+    "options": [
+      "nad jadérkem",
+      "nad lyzozomy",
+      "nad Golgiho aparátem",
+      "nad ribozomy"
+    ],
+    "answer": 0,
+    "title": "nad jadérkem",
+    "paragraphs": [
+      "Uracil je báze RNA. Nejintenzivněji se RNA tvoří v jadérku, kde vzniká ribozomální RNA. Ribozomy hotovou RNA obsahují, ale samy ji nevytvářejí."
+    ],
+    "memory": "Uracil = RNA, jadérko = rRNA."
+  },
+  {
+    "id": 750,
+    "subject": "Biologie",
+    "category": "Biologie · Buňka",
+    "bookRef": "LF MU · Biologie · Buňka 34 · str. 126",
+    "sourcePages": "126",
+    "sourceItem": "34",
+    "question": "Čím je přímo určena primární struktura bílkovinné molekuly?",
+    "options": [
+      "sledem jednotlivých nukleotidů v mRNA",
+      "sledem trojic nukleotidů (kodonů) v mRNA",
+      "sledem trojic nukleotidů v tRNA",
+      "sledem nukleotidů v ribozomální RNA"
+    ],
+    "answer": 1,
+    "title": "sledem trojic nukleotidů (kodonů) v mRNA",
+    "paragraphs": [
+      "Ribozom čte mRNA po kodonech a ke každému přiřadí tRNA s odpovídající aminokyselinou. tRNA nese antikodon, ale pořadí určuje mRNA."
+    ],
+    "memory": "Kodon = jedna aminokyselina."
+  }
+]

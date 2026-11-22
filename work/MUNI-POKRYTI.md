@@ -218,6 +218,25 @@ Vynecháno ze Vzorců 1–75: 17 (chlorečnan, LF MU 22), 18 (Mn₂(PO₃)₆ je
 
 Biologie Životní funkce 10 (trypanozoma a moucha tse-tse) vyřazena jako varianta LF MU 399.
 
-Dosud nepokryté oddíly: chemie Stavba atomu a chemická vazba (zbylé úlohy 1–74 mimo použité); fyzika Jednotky (1–63) a Kinematika a dynamika (1–64) mimo použité úlohy; biologie Historie (1–11) a Biologie buňky (1–88) mimo použité úlohy.
+Dosud nepokryté oddíly: chemie Stavba atomu a chemická vazba, fyzika Jednotky a Kinematika a dynamika, biologie Historie a Biologie buňky (zbylé úlohy mimo použité).
+
+## Dávka 701–750 (verze 2.72.0)
+
+Soubor `muni-701-750.json`, generátor `create_muni_701_750.py`. Odpovědi ověřeny výpočtem nebo výkladem a porovnány s klíčem na str. 60, 120 a 154.
+
+- Fyzika, Jednotky (str. 8–10), ID 701–710: úlohy 18, 37, 45, 46, 47, 48, 50, 52, 53, 56. Úloha 37 s klíčem „žádná“ má doplněnou jednotku N·m.
+- Fyzika, Kinematika a dynamika, práce, otáčivý pohyb, gravitace (str. 11–18), ID 711–732: úlohy 7, 13, 15, 16, 25, 30; práce 31, 32, 33, 38, 42, 44, 46; otáčivý pohyb 44, 46, 47, 49; kombinované 54, 55, 56, 57; gravitace 61. Úloha 49 s klíčem „žádná“ má doplněnou hodnotu 0,500 J.
+- Chemie, Stavba atomu a chemická vazba (str. 69–72), ID 733–745: úlohy 35, 37, 42, 53, 54, 55, 57, 63, 64, 65, 68, 71, 73. V 71 a 73 nahrazeny distraktory, které by mohly vodíkové vazby tvořit slabě.
+- Biologie, Obecná biologie a Biologie buňky (str. 122–126), ID 746–750: úlohy 7; 15, 19, 31, 34.
+
+Vynecháno z Jednotek 1–63: 12, 25 (zrychlení, ČB 537), 13 (povrchové napětí, LF MU 10), 21 (klíč „žádná“, varianta LF MU 7), 31–36 (vyjádření jednotek, klíč „žádná“ nebo v OCR nečitelné exponenty; koncentrace a náboj LF MU 14–15), 39 (intenzita zvuku, LF MU 162), 43 (klíč „žádná“), 49 (předpony v OCR nečitelné), 51 (varianta 707), 54, 55 (varianty 709), 57, 60, 61, 63 (vektory, varianty 710), 58, 59, 62 (skaláry, ČB 534). Jednotky (1–63) jsou tím posouzené celé.
+
+Vynecháno z Kinematiky a dynamiky 1–64: 9–11 (impuls síly, varianty LF MU 56), 17, 19, 21, 22 (volný pád a svislý vrh, varianty LF MU 58–59), 23, 24 (pohyb stálou rychlostí, LF MU 57), 26 (varianta 715), 28, 29 (houpačka, LF MU 60), 34 (varianta 717), 35 (LF MU 62), 40 (varianta 718), 41 (klíč „žádná“, varianta 717), práce 45 (LF MU 61), otáčivý pohyb 45 (varianta 724), 48, 50, 52, 53 (dostředivá síla, varianty 725; 50 klíč „žádná“), 59 (LF MU 66), 60 (varianta 723), 62 (sporné, viz dávka 51–100), 63 (zachování energie, LF MU 61). Mechanika (1–64) je tím posouzená celá.
+
+Vynecháno ze Stavby atomu a chemické vazby 1–74 (kromě dříve uvedených 4, 9, 10, 24, 28, 66): 7 (varianta 696), 12, 15, 16, 17 (konfigurace, varianty 697–698 a LF MU 72), 20, 21, 23, 25 (valenční elektrony, LF MU 74 a ČB 529), 27, 29 (p-prvky, LF MU 75), 32 (LF MU 77), 34, 36, 38, 39, 40 (trendy v periodické soustavě, varianty 733–734 a LF MU 76), 43–46, 49, 69 (iontové a kovalentní sloučeniny, varianty 735), 47 (vaznost, UK 70), 51 (varianta LF MU 80), 56 (varianta 738), 59 (dipólový moment, LF MU 83), 61 (polární vazba, UK 29), 67 (varianta 742), 70 (dipól má i hydrazin, nejednoznačné), 72 (varianta 744), 74 (thiol tvoří s vodou jen slabé vodíkové vazby, nejednoznačné). Kapitola (1–74) je tím posouzená celá.
+
+Vynecháno z Obecné biologie 1–11: 1 a 9 (jádro jako rozdíl prokaryot a eukaryot, SOM 14), 4 (viry se množí jen v buňce, SOM 12), 8 (HIV, BIO 828). Kapitola je tím posouzená celá.
+
+Dosud nepokryté oddíly: Biologie buňky, kandidáti 42, 43, 44, 50, 51, 53, 57, 64, 67, 68, 69, 74, 79, 81, 82, 83, 84, 85, 88; ostatní zbylé úlohy 1–88 jsou varianty nebo duplicity (posoudit v další dávce).
 
 Druhý soubor `877344967-LF-MU-Modelove-Otazky-New.pdf` je podle vlastníka (21. 11. 2026) stejná publikace jako hlavní soubor Mornstein a kol. Samostatně se nepokrývá; zdrojem kvízu LF MU je jen hlavní soubor.
