@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 601,
+    "subject": "Chemie",
+    "category": "Chemie · 5.7 Bílkoviny, peptidy",
+    "bookRef": "UK · Chemie · 5.7 Bílkoviny, peptidy · str. 207, otázka 3",
+    "sourcePages": "207",
+    "sourceItem": "str. 207, otázka 3",
+    "question": "Jaká je sekvence atomů v základním (páteřním) řetězci peptidu?",
+    "options": [
+      "−N−C−C−N−C−C−N−C−",
+      "−N−C−N−C−",
+      "−N−C−O−C−N−C−O−",
+      "−S−S−C−S−S−C−"
+    ],
+    "answer": 0,
+    "title": "−N−C−C−N−C−C−N−C−",
+    "paragraphs": [
+      "Každý aminokyselinový zbytek přispívá do páteře dusíkem, α-uhlíkem a karbonylovým uhlíkem. Peptidová vazba spojuje karbonylový uhlík s dusíkem dalšího zbytku."
+    ],
+    "memory": "Páteř: N, Cα, C, N, Cα, C…"
+  },
+  {
+    "id": 602,
+    "subject": "Chemie",
+    "category": "Chemie · 5.7 Bílkoviny, peptidy",
+    "bookRef": "UK · Chemie · 5.7 Bílkoviny, peptidy · str. 207, otázka 5",
+    "sourcePages": "207",
+    "sourceItem": "str. 207, otázka 5",
+    "question": "Který prvek obsahují všechny bílkoviny na rozdíl od sacharidů a tuků?",
+    "options": [
+      "brom",
+      "dusík",
+      "hořčík",
+      "draslík"
+    ],
+    "answer": 1,
+    "title": "dusík",
+    "paragraphs": [
+      "Bílkoviny jsou tvořeny aminokyselinami, a proto vždy obsahují uhlík, vodík, kyslík a dusík, většinou i síru. Hořčík je například v chlorofylu, ne v každé bílkovině."
+    ],
+    "memory": "Aminokyselina = vždy dusík."
+  },
+  {
+    "id": 603,
+    "subject": "Chemie",
+    "category": "Chemie · 5.7 Bílkoviny, peptidy",
+    "bookRef": "UK · Chemie · 5.7 Bílkoviny, peptidy · str. 208, otázka 3",
+    "sourcePages": "208",
+    "sourceItem": "str. 208, otázka 3",
+    "question": "Co rozumíme primární strukturou bílkovin?",
+    "options": [
+      "uspořádání α-helixu",
+      "uspořádání β-skládaného listu",
+      "posloupnost aminokyselin v polypeptidovém řetězci",
+      "posloupnost nukleosidů v řetězci"
+    ],
+    "answer": 2,
+    "title": "posloupnost aminokyselin v polypeptidovém řetězci",
+    "paragraphs": [
+      "Primární struktura je pořadí aminokyselin určené genetickým kódem. Z něj vyplývají všechny vyšší úrovně struktury."
+    ],
+    "memory": "Primární = pořadí."
+  },
+  {
+    "id": 604,
+    "subject": "Chemie",
+    "category": "Chemie · 5.7 Bílkoviny, peptidy",
+    "bookRef": "UK · Chemie · 5.7 Bílkoviny, peptidy · str. 208, otázka 4",
+    "sourcePages": "208",
+    "sourceItem": "str. 208, otázka 4",
+    "question": "Co rozumíme sekundární strukturou bílkovin?",
+    "options": [
+      "posloupnost aminokyselin",
+      "celkové prostorové uspořádání řetězce",
+      "vzájemnou orientaci podjednotek",
+      "uspořádání řetězce do α-helixu či β-skládaného listu"
+    ],
+    "answer": 3,
+    "title": "uspořádání řetězce do α-helixu či β-skládaného listu",
+    "paragraphs": [
+      "Sekundární struktura je pravidelné místní uspořádání páteře stabilizované vodíkovými vazbami mezi skupinami C=O a N−H peptidových vazeb."
+    ],
+    "memory": "Sekundární = helix a list."
+  },
+  {
+    "id": 605,
+    "subject": "Chemie",
+    "category": "Chemie · 5.7 Bílkoviny, peptidy",
+    "bookRef": "UK · Chemie · 5.7 Bílkoviny, peptidy · str. 208, otázka 5",
+    "sourcePages": "208",
+    "sourceItem": "str. 208, otázka 5",
+    "question": "Co rozumíme terciární strukturou bílkovin?",
+    "options": [
+      "prostorové uspořádání celého polypeptidového řetězce",
+      "vzájemnou orientaci podjednotek oligomerního proteinu",
+      "plošné uspořádání β-skládaného listu",
+      "posloupnost aminokyselin"
+    ],
+    "answer": 0,
+    "title": "prostorové uspořádání celého polypeptidového řetězce",
+    "paragraphs": [
+      "Terciární struktura je trojrozměrné sbalení celého řetězce. Stabilizují ji vodíkové a iontové vazby, van der Waalsovy síly, hydrofobní interakce a disulfidové můstky mezi postranními řetězci."
+    ],
+    "memory": "Terciární = tvar celého řetězce."
+  },
+  {
+    "id": 606,
+    "subject": "Chemie",
+    "category": "Chemie · 5.7 Bílkoviny, peptidy",
+    "bookRef": "UK · Chemie · 5.7 Bílkoviny, peptidy · str. 209, otázka 1",
+    "sourcePages": "209",
+    "sourceItem": "str. 209, otázka 1",
+    "question": "Co rozumíme kvartérní strukturou bílkovin?",
+    "options": [
+      "formu α-helixu nebo β-skládaného listu",
+      "vzájemné uspořádání podjednotek oligomerního proteinu",
+      "prostorové uspořádání jednoho řetězce",
+      "posloupnost aminokyselin"
+    ],
+    "answer": 1,
+    "title": "vzájemné uspořádání podjednotek oligomerního proteinu",
+    "paragraphs": [
+      "Kvartérní strukturu mají jen bílkoviny složené z více řetězců. Například hemoglobin tvoří čtyři podjednotky, dvě α a dvě β."
+    ],
+    "memory": "Kvartérní = více řetězců."
+  },
+  {
+    "id": 607,
+    "subject": "Chemie",
+    "category": "Chemie · 5.7 Bílkoviny, peptidy",
+    "bookRef": "UK · Chemie · 5.7 Bílkoviny, peptidy · str. 209, otázka 3",
+    "sourcePages": "209",
+    "sourceItem": "str. 209, otázka 3",
+    "question": "Co tvoří nebílkovinnou složku glykoproteinů?",
+    "options": [
+      "lipidy",
+      "vitaminy",
+      "sacharidy",
+      "nukleové kyseliny"
+    ],
+    "answer": 2,
+    "title": "sacharidy",
+    "paragraphs": [
+      "Glykoproteiny nesou kovalentně navázané oligosacharidové řetězce. Patří k nim mnohé membránové bílkoviny, hormony a protilátky. Lipidy jsou součástí lipoproteinů."
+    ],
+    "memory": "Glyko = cukr."
+  },
+  {
+    "id": 608,
+    "subject": "Chemie",
+    "category": "Chemie · 5.7 Bílkoviny, peptidy",
+    "bookRef": "UK · Chemie · 5.7 Bílkoviny, peptidy · str. 209, otázka 4",
+    "sourcePages": "209",
+    "sourceItem": "str. 209, otázka 4",
+    "question": "Co platí o globulárních bílkovinách?",
+    "options": [
+      "mají vláknitou strukturu a jsou nerozpustné ve vodě",
+      "jsou složeny z D-aminokyselin",
+      "tvoří hlavně kůži, šlachy a vlasy",
+      "mají kompaktní kulovitý tvar a jsou většinou rozpustné ve vodě nebo v roztocích solí"
+    ],
+    "answer": 3,
+    "title": "mají kompaktní kulovitý tvar a jsou většinou rozpustné ve vodě nebo v roztocích solí",
+    "paragraphs": [
+      "Řetězec globulárních bílkovin je svinutý do klubka s hydrofilními skupinami na povrchu. Patří k nim enzymy, albuminy, globuliny i hemoglobin."
+    ],
+    "memory": "Globulární = klubko, rozpustné."
+  },
+  {
+    "id": 609,
+    "subject": "Chemie",
+    "category": "Chemie · 5.7 Bílkoviny, peptidy",
+    "bookRef": "UK · Chemie · 5.7 Bílkoviny, peptidy · str. 209, otázka 5",
+    "sourcePages": "209",
+    "sourceItem": "str. 209, otázka 5",
+    "question": "Která bílkovina patří mezi globulární?",
+    "options": [
+      "albumin",
+      "kolagen",
+      "keratin",
+      "fibroin"
+    ],
+    "answer": 0,
+    "title": "albumin",
+    "paragraphs": [
+      "Albumin krevní plazmy je rozpustná kulovitá bílkovina. Kolagen, keratin a fibroin jsou vláknité (fibrilární) stavební bílkoviny."
+    ],
+    "memory": "Albumin kulatý, kolagen vláknitý."
+  },
+  {
+    "id": 610,
+    "subject": "Chemie",
+    "category": "Chemie · 5.7 Bílkoviny, peptidy",
+    "bookRef": "UK · Chemie · 5.7 Bílkoviny, peptidy · str. 209, otázka 6",
+    "sourcePages": "209",
+    "sourceItem": "str. 209, otázka 6",
+    "question": "Kterou strukturu bílkoviny denaturace neporuší?",
+    "options": [
+      "sekundární",
+      "primární",
+      "terciární",
+      "kvartérní"
+    ],
+    "answer": 1,
+    "title": "primární",
+    "paragraphs": [
+      "Teplo, kyseliny, těžké kovy nebo alkohol rozruší slabé vazby udržující prostorové uspořádání a bílkovina ztratí funkci. Peptidové vazby, a tedy pořadí aminokyselin, zůstanou zachovány."
+    ],
+    "memory": "Denaturace mění tvar, ne pořadí."
+  },
+  {
+    "id": 611,
+    "subject": "Chemie",
+    "category": "Chemie · 5.7 Bílkoviny, peptidy",
+    "bookRef": "UK · Chemie · 5.7 Bílkoviny, peptidy · str. 210, otázka 6",
+    "sourcePages": "210",
+    "sourceItem": "str. 210, otázka 6",
+    "question": "Kde se nachází fibroin?",
+    "options": [
+      "v mléce",
+      "v krvi",
+      "v přírodním hedvábí",
+      "ve vaječném bílku"
+    ],
+    "answer": 2,
+    "title": "v přírodním hedvábí",
+    "paragraphs": [
+      "Fibroin je fibrilární bílkovina vláken, která spřádá bourec morušový. Je bohatá na glycin a alanin a tvoří β-skládané listy."
+    ],
+    "memory": "Fibroin = hedvábí."
+  },
+  {
+    "id": 612,
+    "subject": "Chemie",
+    "category": "Chemie · 5.7 Bílkoviny, peptidy",
+    "bookRef": "UK · Chemie · 5.7 Bílkoviny, peptidy · str. 211, otázka 3",
+    "sourcePages": "211",
+    "sourceItem": "str. 211, otázka 3",
+    "question": "Přítomnost čeho lze v biologickém materiálu prokázat biuretovou reakcí?",
+    "options": [
+      "redukujících sacharidů",
+      "ketonů",
+      "tuků",
+      "peptidové vazby (bílkovin)"
+    ],
+    "answer": 3,
+    "title": "peptidové vazby (bílkovin)",
+    "paragraphs": [
+      "S ionty Cu²⁺ v zásaditém prostředí tvoří peptidové vazby fialový komplex. Reakce proto dává pozitivní výsledek s bílkovinami a peptidy, ne s volnými aminokyselinami."
+    ],
+    "memory": "Biuret = fialová = peptidy."
+  },
+  {
+    "id": 613,
+    "subject": "Chemie",
+    "category": "Chemie · 5.7 Bílkoviny, peptidy",
+    "bookRef": "UK · Chemie · 5.7 Bílkoviny, peptidy · str. 211, otázka 4",
+    "sourcePages": "211",
+    "sourceItem": "str. 211, otázka 4",
+    "question": "Z čeho vzniká biuret?",
+    "options": [
+      "ze dvou molekul močoviny",
+      "ze dvou molekul kyseliny močové",
+      "ze dvou molekul monosacharidů",
+      "ze dvou molekul terpenů"
+    ],
+    "answer": 0,
+    "title": "ze dvou molekul močoviny",
+    "paragraphs": [
+      "Zahřátím močoviny se ze dvou molekul odštěpí amoniak a vznikne biuret H₂N−CO−NH−CO−NH₂. Podle něj je pojmenována biuretová reakce."
+    ],
+    "memory": "2 močovina − NH₃ = biuret."
+  },
+  {
+    "id": 614,
+    "subject": "Chemie",
+    "category": "Chemie · 5.8 Enzymy a metabolismus",
+    "bookRef": "UK · Chemie · 5.8 Enzymy a metabolismus · str. 211, otázka 5",
+    "sourcePages": "211",
+    "sourceItem": "str. 211, otázka 5",
+    "question": "V čem spočívá podstata činnosti enzymů?",
+    "options": [
+      "ve zvyšování aktivační energie reakce",
+      "ve snižování aktivační energie reakce",
+      "ve změně pH prostředí",
+      "v posunu rovnováhy reakce"
+    ],
+    "answer": 1,
+    "title": "ve snižování aktivační energie reakce",
+    "paragraphs": [
+      "Enzym váže substrát a nabízí reakci cestu s nižší energetickou bariérou, takže reakce proběhne rychleji. Rovnovážnou konstantu ani celkovou energii reakce nemění."
+    ],
+    "memory": "Enzym snižuje bariéru, ne cíl."
+  },
+  {
+    "id": 615,
+    "subject": "Chemie",
+    "category": "Chemie · 5.8 Enzymy a metabolismus",
+    "bookRef": "UK · Chemie · 5.8 Enzymy a metabolismus · str. 211, otázka 6",
+    "sourcePages": "211",
+    "sourceItem": "str. 211, otázka 6",
+    "question": "Co je proenzym?",
+    "options": [
+      "aktivní forma enzymu",
+      "bílkovinný inhibitor enzymu",
+      "neaktivní forma enzymu",
+      "aktivátor enzymu"
+    ],
+    "answer": 2,
+    "title": "neaktivní forma enzymu",
+    "paragraphs": [
+      "Proenzym (zymogen) se aktivuje až odštěpením části řetězce, například pepsinogen na pepsin nebo trypsinogen na trypsin. Žláza se tak nenatráví sama."
+    ],
+    "memory": "Pro-enzym = zatím neúčinný."
+  },
+  {
+    "id": 616,
+    "subject": "Chemie",
+    "category": "Chemie · 5.8 Enzymy a metabolismus",
+    "bookRef": "UK · Chemie · 5.8 Enzymy a metabolismus · str. 212, otázka 1",
+    "sourcePages": "212",
+    "sourceItem": "str. 212, otázka 1",
+    "question": "Co je koenzym?",
+    "options": [
+      "bílkovinná složka enzymu",
+      "jiný název pro substrát",
+      "radikál",
+      "nebílkovinná složka enzymu"
+    ],
+    "answer": 3,
+    "title": "nebílkovinná složka enzymu",
+    "paragraphs": [
+      "Koenzymy jako NAD⁺, FAD nebo koenzym A jsou malé organické molekuly, často odvozené od vitaminů. Spolu s bílkovinnou částí (apoenzymem) tvoří funkční enzym."
+    ],
+    "memory": "Koenzym = často vitamin."
+  },
+  {
+    "id": 617,
+    "subject": "Chemie",
+    "category": "Chemie · 5.8 Enzymy a metabolismus",
+    "bookRef": "UK · Chemie · 5.8 Enzymy a metabolismus · str. 212, otázka 2",
+    "sourcePages": "212",
+    "sourceItem": "str. 212, otázka 2",
+    "question": "Co platí pro kompetitivní inhibici enzymů?",
+    "options": [
+      "účinek inhibitoru lze zeslabit zvýšením koncentrace substrátu",
+      "inhibitor se váže mimo aktivní centrum",
+      "je obvykle způsobena ionty těžkých kovů",
+      "je nevratná"
+    ],
+    "answer": 0,
+    "title": "účinek inhibitoru lze zeslabit zvýšením koncentrace substrátu",
+    "paragraphs": [
+      "Kompetitivní inhibitor se podobá substrátu a soupeří s ním o aktivní centrum. Při nadbytku substrátu ho substrát vytlačí. Ionty těžkých kovů působí obvykle nekompetitivně."
+    ],
+    "memory": "Soupeř o stejné místo."
+  },
+  {
+    "id": 618,
+    "subject": "Chemie",
+    "category": "Chemie · 5.8 Enzymy a metabolismus",
+    "bookRef": "UK · Chemie · 5.8 Enzymy a metabolismus · str. 212, otázka 5",
+    "sourcePages": "212",
+    "sourceItem": "str. 212, otázka 5",
+    "question": "Co katalyzují oxidoreduktázy?",
+    "options": [
+      "přenos skupiny mezi substráty",
+      "přenos elektronů (vodíku) mezi substráty",
+      "štěpení substrátů za přítomnosti vody",
+      "slučování dvou molekul za spotřeby ATP"
+    ],
+    "answer": 1,
+    "title": "přenos elektronů (vodíku) mezi substráty",
+    "paragraphs": [
+      "Oxidoreduktázy, například dehydrogenázy, oxidují jeden substrát a redukují jiný. Často k tomu využívají koenzymy NAD⁺ nebo FAD."
+    ],
+    "memory": "Oxidoreduktáza = redoxní reakce."
+  },
+  {
+    "id": 619,
+    "subject": "Chemie",
+    "category": "Chemie · 5.8 Enzymy a metabolismus",
+    "bookRef": "UK · Chemie · 5.8 Enzymy a metabolismus · str. 212, otázka 6",
+    "sourcePages": "212",
+    "sourceItem": "str. 212, otázka 6",
+    "question": "Co katalyzují transferázy?",
+    "options": [
+      "přenos elektronů mezi substráty",
+      "hydrolytické štěpení substrátu",
+      "přenos charakteristické skupiny mezi dvěma substráty",
+      "nehydrolytické štěpení vazeb C−C"
+    ],
+    "answer": 2,
+    "title": "přenos charakteristické skupiny mezi dvěma substráty",
+    "paragraphs": [
+      "Transferázy přenášejí například aminoskupinu (transaminázy) nebo fosfát (kinázy) z jedné molekuly na druhou."
+    ],
+    "memory": "Transferáza = přenašeč skupin."
+  },
+  {
+    "id": 620,
+    "subject": "Chemie",
+    "category": "Chemie · 5.8 Enzymy a metabolismus",
+    "bookRef": "UK · Chemie · 5.8 Enzymy a metabolismus · str. 213, otázka 2",
+    "sourcePages": "213",
+    "sourceItem": "str. 213, otázka 2",
+    "question": "Které enzymy katalyzují hydrolytické štěpení substrátů?",
+    "options": [
+      "ligázy",
+      "transferázy",
+      "lyázy",
+      "hydrolázy"
+    ],
+    "answer": 3,
+    "title": "hydrolázy",
+    "paragraphs": [
+      "Hydrolázy štěpí vazby za účasti vody. Patří k nim většina trávicích enzymů, například amyláza, pepsin nebo lipáza."
+    ],
+    "memory": "Hydroláza = voda štěpí."
+  },
+  {
+    "id": 621,
+    "subject": "Chemie",
+    "category": "Chemie · 5.8 Enzymy a metabolismus",
+    "bookRef": "UK · Chemie · 5.8 Enzymy a metabolismus · str. 213, otázka 5",
+    "sourcePages": "213",
+    "sourceItem": "str. 213, otázka 5",
+    "question": "Co katalyzují lyázy?",
+    "options": [
+      "nehydrolytické štěpení vazeb, například C−C",
+      "hydrolytické štěpení substrátu",
+      "přenos elektronů mezi substráty",
+      "přenos skupiny mezi substráty"
+    ],
+    "answer": 0,
+    "title": "nehydrolytické štěpení vazeb, například C−C",
+    "paragraphs": [
+      "Lyázy štěpí vazby bez účasti vody a často přitom vzniká dvojná vazba nebo se odštěpí malá molekula. Příkladem jsou dekarboxylázy aminokyselin, které uvolňují CO₂."
+    ],
+    "memory": "Lyáza štěpí bez vody."
+  },
+  {
+    "id": 622,
+    "subject": "Chemie",
+    "category": "Chemie · 5.8 Enzymy a metabolismus",
+    "bookRef": "UK · Chemie · 5.8 Enzymy a metabolismus · str. 214, otázka 2",
+    "sourcePages": "214",
+    "sourceItem": "str. 214, otázka 2",
+    "question": "Za jakých podmínek mohou v živých soustavách probíhat oxidace látek?",
+    "options": [
+      "jen v přítomnosti kyslíku",
+      "v přítomnosti i bez přítomnosti kyslíku",
+      "jen bez přítomnosti kyslíku",
+      "neprobíhají vůbec"
+    ],
+    "answer": 1,
+    "title": "v přítomnosti i bez přítomnosti kyslíku",
+    "paragraphs": [
+      "Biologická oxidace je hlavně odnímání vodíku (dehydrogenace). Probíhá i v anaerobních podmínkách, například v glykolýze. Kyslík je jen konečným příjemcem elektronů v dýchacím řetězci."
+    ],
+    "memory": "Oxidace = ztráta elektronů, ne nutně O₂."
+  },
+  {
+    "id": 623,
+    "subject": "Chemie",
+    "category": "Chemie · 5.8 Enzymy a metabolismus",
+    "bookRef": "UK · Chemie · 5.8 Enzymy a metabolismus · str. 214, otázka 3",
+    "sourcePages": "214",
+    "sourceItem": "str. 214, otázka 3",
+    "question": "Co je konečným produktem anaerobní přeměny D-glukózy kvasinkami?",
+    "options": [
+      "oxid uhličitý a voda",
+      "kyselina mléčná",
+      "ethanol a oxid uhličitý",
+      "acetylkoenzym A"
+    ],
+    "answer": 2,
+    "title": "ethanol a oxid uhličitý",
+    "paragraphs": [
+      "Při alkoholovém kvašení se pyruvát z glykolýzy dekarboxyluje na acetaldehyd a ten se redukuje na ethanol: C₆H₁₂O₆ → 2 C₂H₅OH + 2 CO₂. Tak kyne těsto a vzniká víno."
+    ],
+    "memory": "Kvasinky: glukóza → ethanol + CO₂."
+  },
+  {
+    "id": 624,
+    "subject": "Chemie",
+    "category": "Chemie · 5.8 Enzymy a metabolismus",
+    "bookRef": "UK · Chemie · 5.8 Enzymy a metabolismus · str. 215, otázka 4",
+    "sourcePages": "215",
+    "sourceItem": "str. 215, otázka 4",
+    "question": "Co je produktem β-oxidace mastných kyselin u člověka?",
+    "options": [
+      "kyselina mléčná",
+      "glycerol",
+      "kyselina palmitová",
+      "acetylkoenzym A"
+    ],
+    "answer": 3,
+    "title": "acetylkoenzym A",
+    "paragraphs": [
+      "Mastná kyselina se v každém cyklu zkrátí o dva uhlíky, které se uvolní jako acetyl-CoA. Ten vstupuje do citrátového cyklu. Glycerol se uvolňuje už při hydrolýze tuků."
+    ],
+    "memory": "β-oxidace = po dvou uhlících."
+  },
+  {
+    "id": 625,
+    "subject": "Chemie",
+    "category": "Chemie · 5.8 Enzymy a metabolismus",
+    "bookRef": "UK · Chemie · 5.8 Enzymy a metabolismus · str. 216, otázka 3",
+    "sourcePages": "216",
+    "sourceItem": "str. 216, otázka 3",
+    "question": "Na kterém uhlíku mastné kyseliny probíhá β-oxidace?",
+    "options": [
+      "na třetím uhlíku (β)",
+      "na druhém uhlíku (α)",
+      "na prvním uhlíku (karboxylu)",
+      "na druhém uhlíku glycerolu"
+    ],
+    "answer": 0,
+    "title": "na třetím uhlíku (β)",
+    "paragraphs": [
+      "Uhlík β (C3) se oxiduje na ketoskupinu a vazba mezi uhlíky α a β se pak štěpí. Odtud název β-oxidace."
+    ],
+    "memory": "β = třetí uhlík."
+  },
+  {
+    "id": 626,
+    "subject": "Chemie",
+    "category": "Chemie · 5.8 Enzymy a metabolismus",
+    "bookRef": "UK · Chemie · 5.8 Enzymy a metabolismus · str. 216, otázka 5",
+    "sourcePages": "216",
+    "sourceItem": "str. 216, otázka 5",
+    "question": "Kde v buňce probíhá β-oxidace mastných kyselin?",
+    "options": [
+      "v cytoplazmě",
+      "v mitochondriích",
+      "na ribozomech",
+      "v krevní plazmě"
+    ],
+    "answer": 1,
+    "title": "v mitochondriích",
+    "paragraphs": [
+      "Mastné kyseliny jsou přenášeny do matrix mitochondrií pomocí karnitinu. Tam probíhá β-oxidace i citrátový cyklus. Syntéza mastných kyselin naopak probíhá v cytoplazmě."
+    ],
+    "memory": "Odbourání tuků = mitochondrie."
+  },
+  {
+    "id": 627,
+    "subject": "Chemie",
+    "category": "Chemie · 5.8 Enzymy a metabolismus",
+    "bookRef": "UK · Chemie · 5.8 Enzymy a metabolismus · str. 217, otázka 2",
+    "sourcePages": "217",
+    "sourceItem": "str. 217, otázka 2",
+    "question": "Co tvoří nebílkovinnou složku chylomikronů?",
+    "options": [
+      "ionty kovů",
+      "nukleové kyseliny",
+      "lipidy",
+      "sacharidy"
+    ],
+    "answer": 2,
+    "title": "lipidy",
+    "paragraphs": [
+      "Chylomikrony jsou lipoproteinové částice ze střevní sliznice, které přenášejí vstřebané triacylglyceroly a cholesterol mízou do krve. Bílkovinná složka (apoproteiny) tvoří jen malou část."
+    ],
+    "memory": "Chylomikron = tuková kapka s bílkovinným obalem."
+  },
+  {
+    "id": 628,
+    "subject": "Chemie",
+    "category": "Chemie · 5.9 Nukleové kyseliny",
+    "bookRef": "UK · Chemie · 5.9 Nukleové kyseliny · str. 218, otázka 2",
+    "sourcePages": "218",
+    "sourceItem": "str. 218, otázka 2",
+    "question": "Z čeho se skládají nukleotidy RNA?",
+    "options": [
+      "z fosfátu a cukru",
+      "z dusíkaté báze a cukru",
+      "z dusíkaté báze a fosfátu",
+      "z dusíkaté báze, cukru a fosfátu"
+    ],
+    "answer": 3,
+    "title": "z dusíkaté báze, cukru a fosfátu",
+    "paragraphs": [
+      "Nukleotid je nukleosid (báze a ribóza) esterifikovaný kyselinou fosforečnou. Fosfáty spojují nukleotidy do řetězce nukleové kyseliny."
+    ],
+    "memory": "Nukleotid = báze + cukr + fosfát."
+  },
+  {
+    "id": 629,
+    "subject": "Chemie",
+    "category": "Chemie · 5.9 Nukleové kyseliny",
+    "bookRef": "UK · Chemie · 5.9 Nukleové kyseliny · str. 218, otázka 3",
+    "sourcePages": "218",
+    "sourceItem": "str. 218, otázka 3",
+    "question": "Z čeho se skládá nukleosid?",
+    "options": [
+      "z purinové nebo pyrimidinové báze a cukru",
+      "jen z purinové nebo pyrimidinové báze",
+      "z báze a kyseliny fosforečné",
+      "z báze, cukru a kyseliny fosforečné"
+    ],
+    "answer": 0,
+    "title": "z purinové nebo pyrimidinové báze a cukru",
+    "paragraphs": [
+      "Nukleosid, například adenosin, vznikne spojením báze s ribózou nebo deoxyribózou N-glykosidovou vazbou. Teprve připojením fosfátu vznikne nukleotid."
+    ],
+    "memory": "Nukleosid bez fosfátu, nukleotid s fosfátem."
+  },
+  {
+    "id": 630,
+    "subject": "Chemie",
+    "category": "Chemie · 5.9 Nukleové kyseliny",
+    "bookRef": "UK · Chemie · 5.9 Nukleové kyseliny · str. 218, otázka 5",
+    "sourcePages": "218",
+    "sourceItem": "str. 218, otázka 5",
+    "question": "Který monosacharid je základní cukernou složkou RNA?",
+    "options": [
+      "L-ribóza",
+      "D-ribóza",
+      "D-glukóza",
+      "D-ribulóza"
+    ],
+    "answer": 1,
+    "title": "D-ribóza",
+    "paragraphs": [
+      "RNA obsahuje D-ribózu, DNA její derivát 2-deoxy-D-ribózu bez hydroxylu na C2. D-ribulóza je ketopentóza, například v Calvinově cyklu."
+    ],
+    "memory": "RNA ribóza, DNA deoxyribóza."
+  },
+  {
+    "id": 631,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 713 · str. 153",
+    "sourcePages": "153",
+    "sourceItem": "713",
+    "question": "Čím je pokryt vnitřní povrch plicních sklípků?",
+    "options": [
+      "řasinkovým epitelem s hlenovými buňkami",
+      "vrstvou chrupavky",
+      "surfaktantem",
+      "pohrudnicí"
+    ],
+    "answer": 2,
+    "title": "surfaktantem",
+    "paragraphs": [
+      "Surfaktant je směs fosfolipidů a bílkovin, která snižuje povrchové napětí tekutiny v alveolech a brání jejich splasknutí při výdechu. U předčasně narozených dětí může chybět."
+    ],
+    "memory": "Surfaktant drží sklípky otevřené."
+  },
+  {
+    "id": 632,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 733 · str. 156",
+    "sourcePages": "156",
+    "sourceItem": "733",
+    "question": "Za jak dlouho odumírají nervové buňky CNS bez přívodu kyslíku při normální tělesné teplotě?",
+    "options": [
+      "do 2 minut",
+      "za 10–15 minut",
+      "za 20–35 minut",
+      "za 4–5 minut"
+    ],
+    "answer": 3,
+    "title": "za 4–5 minut",
+    "paragraphs": [
+      "Neurony nemají zásoby kyslíku ani glykogenu. Po zástavě krevního oběhu proto začínají nevratně odumírat zhruba po čtyřech až pěti minutách, proto musí první pomoc začít okamžitě."
+    ],
+    "memory": "Mozek vydrží asi 4–5 minut."
+  },
+  {
+    "id": 633,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 739 · str. 157",
+    "sourcePages": "157",
+    "sourceItem": "739",
+    "question": "Co je typické pro fetální období vývoje?",
+    "options": [
+      "výrazný růst plodu",
+      "zakládání orgánů (embryogeneze)",
+      "začátek prenatálního vývoje",
+      "vznik blastocysty"
+    ],
+    "answer": 0,
+    "title": "výrazný růst plodu",
+    "paragraphs": [
+      "Fetální období trvá od 9. týdne do porodu. Orgány jsou už založené a plod hlavně roste a dozrává, výživu mu zajišťuje placenta."
+    ],
+    "memory": "Embryo zakládá, plod roste."
+  },
+  {
+    "id": 634,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 740 · str. 157",
+    "sourcePages": "157",
+    "sourceItem": "740",
+    "question": "Kdy u člověka končí oogeneze daného vajíčka?",
+    "options": [
+      "při narození dívky",
+      "až po jeho oplození",
+      "při pubertě",
+      "při ovulaci"
+    ],
+    "answer": 1,
+    "title": "až po jeho oplození",
+    "paragraphs": [
+      "Oogeneze začíná už v prenatálním období, oocyty se pak zastaví v první meiotické profázi. Druhé meiotické dělení se dokončí až po proniknutí spermie, kdy se oddělí druhé pólové tělísko."
+    ],
+    "memory": "Meióze vajíčka dokončí spermie."
+  },
+  {
+    "id": 635,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 742 · str. 158",
+    "sourcePages": "158",
+    "sourceItem": "742",
+    "question": "Kde je uloženo čichové centrum, kam vedou vlákna čichových buněk?",
+    "options": [
+      "v týlním laloku",
+      "v kůře temenního laloku",
+      "na spodní ploše čelních laloků",
+      "v mozečku"
+    ],
+    "answer": 2,
+    "title": "na spodní ploše čelních laloků",
+    "paragraphs": [
+      "Vlákna čichových buněk procházejí čichovou kostí do čichového bulbu, který leží na spodní ploše čelního laloku. Odtud vede čichová dráha do čichové kůry."
+    ],
+    "memory": "Čich pod čelním lalokem."
+  },
+  {
+    "id": 636,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 757 · str. 160",
+    "sourcePages": "160",
+    "sourceItem": "757",
+    "question": "Jak vzniká vitamin D v lidském těle?",
+    "options": [
+      "v játrech bez účasti záření",
+      "jen příjmem z citrusových plodů",
+      "v ledvinách z karotenu",
+      "v kůži účinkem ultrafialového záření na prekurzory"
+    ],
+    "answer": 3,
+    "title": "v kůži účinkem ultrafialového záření na prekurzory",
+    "paragraphs": [
+      "Derivát cholesterolu v kůži se působením UV-B záření mění na provitamin D3. Játra a ledviny ho pak hydroxylují na aktivní kalcitriol."
+    ],
+    "memory": "Slunce na kůži = vitamin D."
+  },
+  {
+    "id": 637,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 762 · str. 161",
+    "sourcePages": "161",
+    "sourceItem": "762",
+    "question": "Co platí o trojklanném nervu (nervus trigeminus)?",
+    "options": [
+      "skládá se ze tří větví a je hlavním cítivým nervem hlavy",
+      "skládá se z pěti větví",
+      "je tvořen dvěma větvemi",
+      "je osmým hlavovým nervem"
+    ],
+    "answer": 0,
+    "title": "skládá se ze tří větví a je hlavním cítivým nervem hlavy",
+    "paragraphs": [
+      "Pátý hlavový nerv se dělí na větev očnicovou, čelistní a mandibulární. Vede citlivost z obličeje, zubů a sliznic a mandibulární větev navíc ovládá žvýkací svaly."
+    ],
+    "memory": "Tři větve = trojklanný."
+  },
+  {
+    "id": 638,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 767 · str. 162",
+    "sourcePages": "162",
+    "sourceItem": "767",
+    "question": "Jak se mění množství vody v těle s věkem?",
+    "options": [
+      "s rostoucím věkem stoupá",
+      "s rostoucím věkem klesá",
+      "nezávisí na věku",
+      "kolísá během dne až dvojnásobně"
+    ],
+    "answer": 1,
+    "title": "s rostoucím věkem klesá",
+    "paragraphs": [
+      "Novorozenec má asi 75 % vody, dospělý kolem 60 % a starý člověk ještě méně. Úbytek souvisí hlavně s menším podílem svalů a mezibuněčné tekutiny."
+    ],
+    "memory": "Novorozenec nejvíc vody."
+  },
+  {
+    "id": 639,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 772 · str. 163",
+    "sourcePages": "163",
+    "sourceItem": "772",
+    "question": "Která kost je nejdelší v lidském těle?",
+    "options": [
+      "kost pažní",
+      "kost holenní",
+      "kost stehenní",
+      "kost vřetenní"
+    ],
+    "answer": 2,
+    "title": "kost stehenní",
+    "paragraphs": [
+      "Stehenní kost (femur) tvoří zhruba čtvrtinu výšky těla. Je také nejsilnější a nejtěžší kostí kostry."
+    ],
+    "memory": "Femur = čtvrtina výšky."
+  },
+  {
+    "id": 640,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 777 · str. 164",
+    "sourcePages": "164",
+    "sourceItem": "777",
+    "question": "Jak se odborně označuje první menstruace?",
+    "options": [
+      "klimakterium",
+      "fertilizace",
+      "mekonium",
+      "menarché"
+    ],
+    "answer": 3,
+    "title": "menarché",
+    "paragraphs": [
+      "Menarché přichází v české populaci průměrně kolem 12 let. Klimakterium je přechod k menopauze, mekonium první stolice novorozence a fertilizace oplození."
+    ],
+    "memory": "Menarché = první, menopauza = poslední."
+  },
+  {
+    "id": 641,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 779 · str. 164",
+    "sourcePages": "164",
+    "sourceItem": "779",
+    "question": "Jaká je průměrná klidová tepová frekvence zdravého dospělého člověka?",
+    "options": [
+      "asi 72 tepů za minutu",
+      "asi 22 tepů za minutu",
+      "asi 132 tepů za minutu",
+      "asi 172 tepů za minutu"
+    ],
+    "answer": 0,
+    "title": "asi 72 tepů za minutu",
+    "paragraphs": [
+      "Klidová frekvence se u dospělých pohybuje zhruba mezi 60 a 80 tepy za minutu. Trénovaní sportovci mají nižší, děti a plod vyšší."
+    ],
+    "memory": "Klidový tep kolem 70."
+  },
+  {
+    "id": 642,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 785 · str. 165",
+    "sourcePages": "165",
+    "sourceItem": "785",
+    "question": "Kde je uložen brzlík (thymus)?",
+    "options": [
+      "v zadní jámě lební",
+      "v mediastinu (mezihrudí)",
+      "v děloze během těhotenství",
+      "v šíjové oblasti"
+    ],
+    "answer": 1,
+    "title": "v mediastinu (mezihrudí)",
+    "paragraphs": [
+      "Brzlík leží za hrudní kostí nad srdcem. Největší je v dětství, kdy v něm dozrávají T-lymfocyty, po pubertě se postupně mění v tukovou tkáň."
+    ],
+    "memory": "Brzlík za hrudní kostí."
+  },
+  {
+    "id": 643,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 786 · str. 165",
+    "sourcePages": "165",
+    "sourceItem": "786",
+    "question": "Kolik je srdečních chlopní?",
+    "options": [
+      "dvě",
+      "tři",
+      "čtyři",
+      "šest"
+    ],
+    "answer": 2,
+    "title": "čtyři",
+    "paragraphs": [
+      "Mezi síněmi a komorami je trojcípá a dvojcípá chlopeň, na výstupu komor do plicnice a aorty dvě poloměsíčité chlopně. Chlopně jsou tvořeny vazivem krytým endokardem, ne svalovinou."
+    ],
+    "memory": "2 cípaté + 2 poloměsíčité."
+  },
+  {
+    "id": 644,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 787 · str. 165",
+    "sourcePages": "165",
+    "sourceItem": "787",
+    "question": "Nedostatek kterého vitaminu vyvolává onemocnění beri-beri?",
+    "options": [
+      "vitaminu C",
+      "vitaminu D",
+      "zinku",
+      "vitaminu B1 (thiaminu)"
+    ],
+    "answer": 3,
+    "title": "vitaminu B1 (thiaminu)",
+    "paragraphs": [
+      "Thiamin je koenzymem při odbourávání sacharidů. Jeho nedostatek, typický při stravě z loupané rýže nebo při alkoholismu, poškozuje nervy a srdce."
+    ],
+    "memory": "Beri-beri = B1."
+  },
+  {
+    "id": 645,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 789 · str. 166",
+    "sourcePages": "166",
+    "sourceItem": "789",
+    "question": "Co je cyanóza?",
+    "options": [
+      "namodralé až modré zbarvení kůže a sliznic",
+      "zarudnutí kůže při dobrém prokrvení",
+      "vrozené hromadění kyanidů v těle",
+      "zežloutnutí kůže při poruše jater"
+    ],
+    "answer": 0,
+    "title": "namodralé až modré zbarvení kůže a sliznic",
+    "paragraphs": [
+      "Cyanóza vzniká, když je v kapilárách hodně hemoglobinu bez kyslíku, například při srdečním nebo plicním selhání. Zežloutnutí je žloutenka."
+    ],
+    "memory": "Cyanos = modrý."
+  },
+  {
+    "id": 646,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 798 · str. 167",
+    "sourcePages": "167",
+    "sourceItem": "798",
+    "question": "Záznam čeho je vyšetření EEG?",
+    "options": [
+      "činnosti srdce",
+      "elektrické aktivity mozku",
+      "dýchacích pohybů",
+      "proudění krve v orgánech"
+    ],
+    "answer": 1,
+    "title": "elektrické aktivity mozku",
+    "paragraphs": [
+      "Elektroencefalografie snímá elektrodami na hlavě kolísání potenciálů mozkové kůry. Využívá se například při diagnostice epilepsie a poruch spánku. Činnost srdce zaznamenává EKG."
+    ],
+    "memory": "EEG mozek, EKG srdce."
+  },
+  {
+    "id": 647,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 801 · str. 168",
+    "sourcePages": "168",
+    "sourceItem": "801",
+    "question": "Které látky se mohou objevit v moči diabetika, který nedodržuje zásady léčby a stravování?",
+    "options": [
+      "bilirubin a kyselina močová",
+      "bílkoviny a krev",
+      "glukóza a aceton (ketolátky)",
+      "jen kyselina močová"
+    ],
+    "answer": 2,
+    "title": "glukóza a aceton (ketolátky)",
+    "paragraphs": [
+      "Při vysoké glykemii překročí glukóza schopnost ledvin ji zpětně vstřebat a přechází do moči. Při nedostatku inzulinu se tělo obrací k tukům a vznikají ketolátky včetně acetonu."
+    ],
+    "memory": "Cukrovka: cukr a aceton v moči."
+  },
+  {
+    "id": 648,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "UK · Biologie · Biologie člověka · otázka 802 · str. 168",
+    "sourcePages": "168",
+    "sourceItem": "802",
+    "question": "Které onemocnění patří k typickým autoimunitním chorobám?",
+    "options": [
+      "leukémie",
+      "alergické astma",
+      "lymeská borelióza",
+      "roztroušená skleróza"
+    ],
+    "answer": 3,
+    "title": "roztroušená skleróza",
+    "paragraphs": [
+      "Při roztroušené skleróze imunitní systém napadá myelinové pochvy nervových vláken v CNS. Leukémie je nádorové onemocnění, astma alergie a borelióza bakteriální infekce."
+    ],
+    "memory": "RS = imunita proti myelinu."
+  },
+  {
+    "id": 649,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 804 · str. 170",
+    "sourcePages": "170",
+    "sourceItem": "804",
+    "question": "Jaké byly podle současných představ první buněčné organismy na Zemi?",
+    "options": [
+      "anaerobně heterotrofní",
+      "aerobně heterotrofní",
+      "fotosyntetizující s vodou jako zdrojem vodíku",
+      "fotosyntetizující se sulfanem jako zdrojem vodíku"
+    ],
+    "answer": 0,
+    "title": "anaerobně heterotrofní",
+    "paragraphs": [
+      "Rané atmosféře chyběl kyslík a první buňky nejspíš využívaly organické látky vzniklé abiogenně. Fotosyntéza se objevila později, nejprve bez uvolňování kyslíku, a kyslíkatou fotosyntézu zavedly až sinice."
+    ],
+    "memory": "Nejdřív bez kyslíku a bez fotosyntézy."
+  },
+  {
+    "id": 650,
+    "subject": "Biologie",
+    "category": "Biologie · Evoluční biologie",
+    "bookRef": "UK · Biologie · Evoluční biologie · otázka 805 · str. 170",
+    "sourcePages": "170",
+    "sourceItem": "805",
+    "question": "Jakou nukleovou kyselinu obsahovaly podle nejrozšířenější teorie buňky prvotních organismů (progenotů)?",
+    "options": [
+      "DNA i RNA",
+      "RNA",
+      "jen DNA a proteiny",
+      "žádnou, informaci nesly proteiny"
+    ],
+    "answer": 1,
+    "title": "RNA",
+    "paragraphs": [
+      "Hypotéza světa RNA vychází z toho, že RNA umí nést informaci i katalyzovat reakce (ribozymy). DNA jako stabilnější úložiště informace převzala tuto úlohu až později."
+    ],
+    "memory": "Svět RNA."
+  }
+]
