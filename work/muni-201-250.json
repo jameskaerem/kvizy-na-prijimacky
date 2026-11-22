@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 201,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 1 · str. 30",
+    "sourcePages": "30",
+    "sourceItem": "1",
+    "question": "Jaká je jednotka Avogadrovy konstanty?",
+    "options": [
+      "mol⁻¹",
+      "kg",
+      "mol/kg",
+      "je to bezrozměrné číslo"
+    ],
+    "answer": 0,
+    "title": "mol⁻¹",
+    "paragraphs": [
+      "N_A ≈ 6,022 · 10²³ mol⁻¹ udává počet částic připadajících na jeden mol. Proto má jednotku „na mol“."
+    ],
+    "memory": "N_A = částice na mol."
+  },
+  {
+    "id": 202,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 3 · str. 30",
+    "sourcePages": "30",
+    "sourceItem": "3",
+    "question": "Jakou jednotku má Boltzmannova konstanta k?",
+    "options": [
+      "J·K⁻¹·mol⁻¹",
+      "J·K⁻¹",
+      "J·K·mol",
+      "J·K"
+    ],
+    "answer": 1,
+    "title": "J·K⁻¹",
+    "paragraphs": [
+      "k = R/N_A ≈ 1,38 · 10⁻²³ J·K⁻¹. Plynová konstanta R má navíc mol⁻¹, protože se vztahuje na mol, kdežto k na jednu částici."
+    ],
+    "memory": "k na částici (J/K), R na mol (J/(K·mol))."
+  },
+  {
+    "id": 203,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 8 · str. 30",
+    "sourcePages": "30",
+    "sourceItem": "8",
+    "question": "Z jakých dějů se skládá Carnotův cyklus?",
+    "options": [
+      "z jednoho izotermického a dvou adiabatických",
+      "z jednoho izotermického a jednoho adiabatického",
+      "ze dvou izotermických a dvou adiabatických",
+      "ze dvou izochorických a dvou izobarických"
+    ],
+    "answer": 2,
+    "title": "ze dvou izotermických a dvou adiabatických",
+    "paragraphs": [
+      "Carnotův cyklus tvoří izotermická expanze, adiabatická expanze, izotermická komprese a adiabatická komprese. Je to vratný cyklus s nejvyšší možnou účinností mezi dvěma teplotami."
+    ],
+    "memory": "Carnot: 2 izotermy + 2 adiabaty."
+  },
+  {
+    "id": 204,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 11 · str. 30",
+    "sourcePages": "30",
+    "sourceItem": "11",
+    "question": "Jak se mění tlak ideálního plynu během vratné izotermické expanze?",
+    "options": [
+      "roste",
+      "zůstává konstantní",
+      "roste spolu s objemem",
+      "klesá"
+    ],
+    "answer": 3,
+    "title": "klesá",
+    "paragraphs": [
+      "Při stálé teplotě platí pV = konst. (Boylův–Mariottův zákon). Když se objem zvětšuje, tlak úměrně klesá."
+    ],
+    "memory": "Izoterma: pV = konst."
+  },
+  {
+    "id": 205,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 12 · str. 30",
+    "sourcePages": "30",
+    "sourceItem": "12",
+    "question": "Tlak ideálního plynu se při izochorickém ději zvýší na dvojnásobek. Co se stane s teplotou?",
+    "options": [
+      "zdvojnásobí se",
+      "klesne na polovinu",
+      "zůstane stejná",
+      "zvýší se čtyřikrát"
+    ],
+    "answer": 0,
+    "title": "zdvojnásobí se",
+    "paragraphs": [
+      "Při stálém objemu platí p/T = konst. (Charlesův zákon). Dvojnásobný tlak tedy odpovídá dvojnásobné termodynamické teplotě."
+    ],
+    "memory": "Izochora: p/T = konst."
+  },
+  {
+    "id": 206,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 14 · str. 31",
+    "sourcePages": "31",
+    "sourceItem": "14",
+    "question": "Co se stane s teplotou ideálního plynu, když se při adiabatickém ději zvětší jeho objem?",
+    "options": [
+      "zvýší se",
+      "klesne",
+      "nezmění se",
+      "nejdřív vzroste, pak klesne"
+    ],
+    "answer": 1,
+    "title": "klesne",
+    "paragraphs": [
+      "Při adiabatické expanzi plyn nepřijímá teplo, ale koná práci. Bere ji ze své vnitřní energie, a proto se ochlazuje. Naopak adiabatická komprese plyn ohřívá."
+    ],
+    "memory": "Adiabatická expanze chladí, komprese ohřívá."
+  },
+  {
+    "id": 207,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 17 · str. 31",
+    "sourcePages": "31",
+    "sourceItem": "17",
+    "question": "Co vyjadřuje 1. věta (zákon) termodynamiky?",
+    "options": [
+      "samovolný přechod tepla z chladnějšího tělesa na teplejší",
+      "přeměnu práce v tlak",
+      "zvláštní formulaci zákona zachování energie",
+      "samovolný přechod tepla z teplejšího tělesa na chladnější"
+    ],
+    "answer": 2,
+    "title": "zvláštní formulaci zákona zachování energie",
+    "paragraphs": [
+      "ΔU = Q + W: změna vnitřní energie se rovná přijatému teplu a vykonané práci. Směr samovolného toku tepla popisuje až 2. věta termodynamiky."
+    ],
+    "memory": "1. věta = zachování energie, 2. věta = směr dějů."
+  },
+  {
+    "id": 208,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 20 · str. 31",
+    "sourcePages": "31",
+    "sourceItem": "20",
+    "question": "Jaký tlak má 88 g CO₂ v nádobě o objemu 6 litrů při 27 °C? (R = 8,3 J·K⁻¹·mol⁻¹)",
+    "options": [
+      "0,830 kPa",
+      "0,730 MPa",
+      "730,4 MPa",
+      "0,830 MPa"
+    ],
+    "answer": 3,
+    "title": "0,830 MPa",
+    "paragraphs": [
+      "n = 88/44 = 2 mol, T = 300 K, V = 0,006 m³. p = nRT/V = 2 · 8,3 · 300 / 0,006 = 830 000 Pa = 0,830 MPa."
+    ],
+    "memory": "p = nRT/V v jednotkách SI."
+  },
+  {
+    "id": 209,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 21 · str. 31",
+    "sourcePages": "31",
+    "sourceItem": "21",
+    "question": "Při kterém ději nemůže ideální plyn konat objemovou práci?",
+    "options": [
+      "izochorickém",
+      "izotermickém",
+      "izobarickém",
+      "adiabatickém"
+    ],
+    "answer": 0,
+    "title": "izochorickém",
+    "paragraphs": [
+      "Objemová práce je W = p · ΔV. Při izochorickém ději se objem nemění, takže práce je nulová a veškeré teplo mění vnitřní energii."
+    ],
+    "memory": "Žádná změna objemu = žádná práce."
+  },
+  {
+    "id": 210,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 22 · str. 31",
+    "sourcePages": "31",
+    "sourceItem": "22",
+    "question": "Při kterém ději ideální plyn nepřijímá ani neodevzdává teplo?",
+    "options": [
+      "izotermickém",
+      "adiabatickém",
+      "izochorickém",
+      "izobarickém"
+    ],
+    "answer": 1,
+    "title": "adiabatickém",
+    "paragraphs": [
+      "Adiabatický děj probíhá bez tepelné výměny s okolím (Q = 0), například v dokonale izolované nádobě nebo při velmi rychlém stlačení."
+    ],
+    "memory": "Adiabatický = bez výměny tepla."
+  },
+  {
+    "id": 211,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 23 · str. 31",
+    "sourcePages": "31",
+    "sourceItem": "23",
+    "question": "Ideální plyn přešel z objemu 100 l při 300 K do stavu 200 l při 600 K při stejném látkovém množství. Kterým dějem to mohlo proběhnout?",
+    "options": [
+      "izochorickým",
+      "izotermickým",
+      "izobarickým",
+      "adiabatickým"
+    ],
+    "answer": 2,
+    "title": "izobarickým",
+    "paragraphs": [
+      "Objem i teplota se zdvojnásobily, takže V/T zůstává stejné. To odpovídá ději při stálém tlaku (Gay-Lussacův zákon)."
+    ],
+    "memory": "V/T = konst. → izobarický děj."
+  },
+  {
+    "id": 212,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 27 · str. 32",
+    "sourcePages": "32",
+    "sourceItem": "27",
+    "question": "Při kterém ději se nemění vnitřní energie ideálního jednoatomového plynu?",
+    "options": [
+      "izobarickém",
+      "izochorickém",
+      "adiabatickém",
+      "izotermickém"
+    ],
+    "answer": 3,
+    "title": "izotermickém",
+    "paragraphs": [
+      "Vnitřní energie ideálního plynu závisí jen na teplotě (U = 3/2 · nRT). Při stálé teplotě se tedy nemění a přijaté teplo se celé přemění na práci."
+    ],
+    "memory": "U ideálního plynu závisí jen na T."
+  },
+  {
+    "id": 213,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 30 · str. 32",
+    "sourcePages": "32",
+    "sourceItem": "30",
+    "question": "Čím je především charakterizován vratný termodynamický děj?",
+    "options": [
+      "soustava prochází řadou rovnovážných stavů",
+      "nízkou teplotou soustavy",
+      "stálým tlakem v soustavě",
+      "neschopností konat objemovou práci"
+    ],
+    "answer": 0,
+    "title": "soustava prochází řadou rovnovážných stavů",
+    "paragraphs": [
+      "Vratný děj probíhá tak pomalu, že je soustava v každém okamžiku v rovnováze. Lze jej proto vést i opačným směrem přes tytéž stavy. Skutečné děje jsou k němu jen přiblížením."
+    ],
+    "memory": "Vratný = samé rovnovážné stavy."
+  },
+  {
+    "id": 214,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 31 · str. 32",
+    "sourcePages": "32",
+    "sourceItem": "31",
+    "question": "Jak se změní vnitřní energie soustavy po proběhnutí jednoho kruhového děje?",
+    "options": [
+      "vzroste",
+      "nezmění se",
+      "poklesne",
+      "vzroste nebo poklesne podle toho, zda děj začne kompresí, nebo expanzí"
+    ],
+    "answer": 1,
+    "title": "nezmění se",
+    "paragraphs": [
+      "Kruhový děj končí ve stejném stavu, v jakém začal. Vnitřní energie je stavová veličina, a proto je její celková změna nulová."
+    ],
+    "memory": "Kruh = návrat do stejného stavu, ΔU = 0."
+  },
+  {
+    "id": 215,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 32 · str. 32",
+    "sourcePages": "32",
+    "sourceItem": "32",
+    "question": "Jakým vzorcem je dána objemová práce plynu při izobarickém ději?",
+    "options": [
+      "W = p · V",
+      "W = p/V",
+      "W = p · ΔV",
+      "W = Q/V"
+    ],
+    "answer": 2,
+    "title": "W = p · ΔV",
+    "paragraphs": [
+      "Při stálém tlaku působí plyn na píst stálou silou F = p · S. Posune-li jej o Δs, vykoná práci W = p · S · Δs = p · ΔV."
+    ],
+    "memory": "Izobarická práce = p krát změna objemu."
+  },
+  {
+    "id": 216,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 42 · str. 33",
+    "sourcePages": "33",
+    "sourceItem": "42",
+    "question": "V tepelně izolované místnosti běží lednička s otevřenými dvířky. Co se stane s teplotou v místnosti?",
+    "options": [
+      "bude klesat",
+      "zůstane stálá",
+      "bude stoupat jen tehdy, byla-li místnost chladnější než vnitřek ledničky",
+      "bude stoupat"
+    ],
+    "answer": 3,
+    "title": "bude stoupat",
+    "paragraphs": [
+      "Lednička jen přečerpává teplo zevnitř ven do místnosti. S otevřenými dvířky se teplo vrací, ale elektrická práce kompresoru se mění v teplo navíc. Izolovaná místnost se proto ohřívá."
+    ],
+    "memory": "Lednička nevyrábí chlad, přečerpává teplo a přidává práci."
+  },
+  {
+    "id": 217,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 43 · str. 33",
+    "sourcePages": "33",
+    "sourceItem": "43",
+    "question": "Jakými způsoby může probíhat přenos tepla mezi dvěma tělesy o různé teplotě?",
+    "options": [
+      "vedením, prouděním a zářením",
+      "jen vedením a zářením",
+      "jen vedením a prouděním",
+      "jen vedením"
+    ],
+    "answer": 0,
+    "title": "vedením, prouděním a zářením",
+    "paragraphs": [
+      "Teplo se přenáší vedením (kontaktem částic), prouděním (pohybem tekutiny) a zářením (elektromagnetickými vlnami, i ve vakuu, například ze Slunce)."
+    ],
+    "memory": "Teplo: vedení, proudění, záření."
+  },
+  {
+    "id": 218,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 45 · str. 33",
+    "sourcePages": "33",
+    "sourceItem": "45",
+    "question": "Čemu je tlak plynného hélia vždy přímo úměrný (při stálém počtu částic v objemu)?",
+    "options": [
+      "velikosti molekul",
+      "druhé mocnině střední kvadratické rychlosti molekul",
+      "tepelné kapacitě",
+      "střední rychlosti molekul"
+    ],
+    "answer": 1,
+    "title": "druhé mocnině střední kvadratické rychlosti molekul",
+    "paragraphs": [
+      "Podle kinetické teorie je p = 1/3 · (N/V) · m · v_k², kde v_k je střední kvadratická rychlost. Tlak tedy roste s druhou mocninou rychlosti, ne se samotnou rychlostí."
+    ],
+    "memory": "p ~ v² (kinetická teorie)."
+  },
+  {
+    "id": 219,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 47 · str. 33",
+    "sourcePages": "33",
+    "sourceItem": "47",
+    "question": "Co určuje výraz 3/2 · kT, kde k je Boltzmannova konstanta a T termodynamická teplota?",
+    "options": [
+      "tlak ideálního plynu",
+      "střední kvadratickou rychlost částic",
+      "střední kinetickou energii částice ideálního jednoatomového plynu",
+      "vlnovou délku tepelného záření černého tělesa"
+    ],
+    "answer": 2,
+    "title": "střední kinetickou energii částice ideálního jednoatomového plynu",
+    "paragraphs": [
+      "Střední kinetická energie jedné částice ideálního plynu je E = 3/2 · kT. Závisí jen na teplotě, ne na druhu plynu ani na tlaku."
+    ],
+    "memory": "E = 3/2 kT, jen teplota."
+  },
+  {
+    "id": 220,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 52 · str. 34",
+    "sourcePages": "34",
+    "sourceItem": "52",
+    "question": "Který z dějů je sublimací?",
+    "options": [
+      "vysychání olivového oleje",
+      "tuhnutí cementu",
+      "účinek žlučových kyselin na tuk",
+      "schnutí zmrzlého prádla"
+    ],
+    "answer": 3,
+    "title": "schnutí zmrzlého prádla",
+    "paragraphs": [
+      "Sublimace je přímý přechod pevné látky v plyn. Led na zmrzlém prádle se mění rovnou v páru, aniž by roztál. Tuhnutí cementu je chemická reakce a žlučové kyseliny tuk emulgují."
+    ],
+    "memory": "Sublimace: pevná látka → plyn (mrazem schnoucí prádlo)."
+  },
+  {
+    "id": 221,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 55 · str. 34",
+    "sourcePages": "34",
+    "sourceItem": "55",
+    "question": "Které tvrzení o tání a tuhnutí vody je správné?",
+    "options": [
+      "led při tání odebírá teplo okolí",
+      "voda při mrznutí odebírá teplo okolí",
+      "vodní pára při kondenzaci odebírá teplo okolí",
+      "led při tání předává teplo okolí"
+    ],
+    "answer": 0,
+    "title": "led při tání odebírá teplo okolí",
+    "paragraphs": [
+      "Tání potřebuje skupenské teplo, které led odebírá okolí. Při tuhnutí a kondenzaci se skupenské teplo naopak uvolňuje do okolí."
+    ],
+    "memory": "Tání a var berou teplo, tuhnutí a kondenzace ho vydávají."
+  },
+  {
+    "id": 222,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 58 · str. 34",
+    "sourcePages": "34",
+    "sourceItem": "58",
+    "question": "Led byl promísen se solí a začal tát. Jak se mění teplota směsi?",
+    "options": [
+      "stoupá",
+      "klesá",
+      "nemění se",
+      "nejdřív stoupá, pak klesá"
+    ],
+    "answer": 1,
+    "title": "klesá",
+    "paragraphs": [
+      "Sůl snižuje teplotu tání, takže led taje i pod 0 °C. Potřebné skupenské teplo bere ze směsi, která se tím ochlazuje. Tak fungují chladicí směsi."
+    ],
+    "memory": "Led + sůl = chladicí směs."
+  },
+  {
+    "id": 223,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 60 · str. 35",
+    "sourcePages": "35",
+    "sourceItem": "60",
+    "question": "Voda se vaří už při 50 °C. Čím je to nejspíše způsobeno?",
+    "options": [
+      "vysokou koncentrací rozpuštěné soli",
+      "zvýšeným okolním tlakem",
+      "sníženým okolním tlakem",
+      "přítomností přehřáté páry"
+    ],
+    "answer": 2,
+    "title": "sníženým okolním tlakem",
+    "paragraphs": [
+      "Teplota varu je teplota, při které se tlak nasycené páry vyrovná okolnímu tlaku. Při nižším tlaku (na horách, ve vývěvě) se voda vaří při nižší teplotě. Rozpuštěná sůl teplotu varu naopak zvyšuje."
+    ],
+    "memory": "Nižší tlak = nižší bod varu."
+  },
+  {
+    "id": 224,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 63 · str. 35",
+    "sourcePages": "35",
+    "sourceItem": "63",
+    "question": "Jaká je teplota trojného bodu vody?",
+    "options": [
+      "0 °C",
+      "0 K",
+      "273,15 K",
+      "0,01 °C"
+    ],
+    "answer": 3,
+    "title": "0,01 °C",
+    "paragraphs": [
+      "V trojném bodě jsou led, voda a pára současně v rovnováze. Je to přesně 273,16 K, tedy 0,01 °C. Hodnota 273,15 K odpovídá 0 °C."
+    ],
+    "memory": "Trojný bod = 0,01 °C = 273,16 K."
+  },
+  {
+    "id": 225,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 65 · str. 35",
+    "sourcePages": "35",
+    "sourceItem": "65",
+    "question": "Kolik molekul je přibližně ve 100 litrech vodíku za normálního tlaku a teploty 0 °C (molární objem 22,414 l)?",
+    "options": [
+      "2,69 · 10²⁴",
+      "1,60 · 10²¹",
+      "9,67 · 10²⁷",
+      "6,02 · 10²³"
+    ],
+    "answer": 0,
+    "title": "2,69 · 10²⁴",
+    "paragraphs": [
+      "n = 100/22,414 = 4,46 mol. N = 4,46 · 6,022 · 10²³ = 2,69 · 10²⁴ molekul."
+    ],
+    "memory": "N = (V/Vm) · N_A."
+  },
+  {
+    "id": 226,
+    "subject": "Fyzika",
+    "category": "Fyzika · Termodynamika",
+    "bookRef": "LF MU · Fyzika · Termodynamika 66 · str. 35",
+    "sourcePages": "35",
+    "sourceItem": "66",
+    "question": "Ve kterém z uvedených množství látky je více molekul než v 1 kg vody?",
+    "options": [
+      "v 1 kg kyslíku",
+      "v 1 kg hélia",
+      "v 1 kg glukózy",
+      "v 1 kg vzduchu"
+    ],
+    "answer": 1,
+    "title": "v 1 kg hélia",
+    "paragraphs": [
+      "Počet molekul je m/M · N_A. Voda má M = 18 g/mol, hélium jen 4 g/mol, takže 1 kg hélia obsahuje více částic. Kyslík (32), vzduch (asi 29) a glukóza (180) mají molární hmotnost větší než voda."
+    ],
+    "memory": "Stejná hmotnost: menší M = víc částic."
+  },
+  {
+    "id": 227,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 75 · str. 79",
+    "sourcePages": "79",
+    "sourceItem": "75",
+    "question": "Jaká je koncentrace chloridových aniontů v roztoku HCl o pH 2,0?",
+    "options": [
+      "1 mmol·dm⁻³",
+      "5 mmol·dm⁻³",
+      "10 mmol·dm⁻³",
+      "0,1 mol·dm⁻³"
+    ],
+    "answer": 2,
+    "title": "10 mmol·dm⁻³",
+    "paragraphs": [
+      "HCl je silná kyselina a disociuje úplně na H⁺ a Cl⁻. [H⁺] = 10⁻² mol·dm⁻³, a stejná je i koncentrace Cl⁻: 10 mmol·dm⁻³."
+    ],
+    "memory": "Silná HCl: [Cl⁻] = [H⁺]."
+  },
+  {
+    "id": 228,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 82 · str. 79",
+    "sourcePages": "79",
+    "sourceItem": "82",
+    "question": "Která částice tvoří podle Brönstedovy teorie konjugovaný pár s acetátovým iontem CH₃COO⁻?",
+    "options": [
+      "H₃O⁺",
+      "H₂O",
+      "OH⁻",
+      "CH₃COOH"
+    ],
+    "answer": 3,
+    "title": "CH₃COOH",
+    "paragraphs": [
+      "Konjugovaný pár se liší jen jedním protonem. Acetát vznikl z kyseliny octové odštěpením H⁺, proto je jeho konjugovanou kyselinou CH₃COOH. H₃O⁺ tvoří pár s vodou. V původní nabídce správná možnost chyběla (klíč „žádná z uvedených“)."
+    ],
+    "memory": "Konjugovaný pár = rozdíl jednoho H⁺."
+  },
+  {
+    "id": 229,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 84 · str. 79",
+    "sourcePages": "79",
+    "sourceItem": "84",
+    "question": "Která částice tvoří podle Brönstedovy teorie konjugovaný pár s hydrogenuhličitanem HCO₃⁻?",
+    "options": [
+      "CO₃²⁻",
+      "H₃O⁺",
+      "Na⁺",
+      "H₂O"
+    ],
+    "answer": 0,
+    "title": "CO₃²⁻",
+    "paragraphs": [
+      "HCO₃⁻ odštěpením protonu přechází na uhličitan CO₃²⁻, se kterým tvoří konjugovaný pár (HCO₃⁻ je tu kyselinou). Druhý pár by tvořil s H₂CO₃, ta ale v nabídce není."
+    ],
+    "memory": "HCO₃⁻ − H⁺ = CO₃²⁻."
+  },
+  {
+    "id": 230,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 110 · str. 81",
+    "sourcePages": "81",
+    "sourceItem": "110",
+    "question": "Roztok NaOH má pH 9,00. Jaká bude koncentrace NaOH po zředění stejným objemem vody?",
+    "options": [
+      "5 · 10⁻¹⁰ mol·dm⁻³",
+      "5 · 10⁻⁶ mol·dm⁻³",
+      "5 · 10⁻⁹ mol·dm⁻³",
+      "5 · 10⁻⁵ mol·dm⁻³"
+    ],
+    "answer": 1,
+    "title": "5 · 10⁻⁶ mol·dm⁻³",
+    "paragraphs": [
+      "pOH = 14 − 9 = 5, takže c(NaOH) = [OH⁻] = 10⁻⁵ mol·dm⁻³. Po dvojnásobném zředění je 5 · 10⁻⁶ mol·dm⁻³."
+    ],
+    "memory": "Z pH na pOH, pak na koncentraci."
+  },
+  {
+    "id": 231,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 111 · str. 81",
+    "sourcePages": "81",
+    "sourceItem": "111",
+    "question": "Roztok KOH o pH 12,70 byl zředěn stejným objemem vody. Jaké je pH zředěného roztoku?",
+    "options": [
+      "11,40",
+      "13,00",
+      "12,40",
+      "10,70"
+    ],
+    "answer": 2,
+    "title": "12,40",
+    "paragraphs": [
+      "Dvojnásobné zředění sníží [OH⁻] na polovinu, pOH vzroste o log 2 ≈ 0,30. pH tedy klesne z 12,70 na 12,40."
+    ],
+    "memory": "Ředění 2× posune pH o 0,3."
+  },
+  {
+    "id": 232,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 114 · str. 81",
+    "sourcePages": "81",
+    "sourceItem": "114",
+    "question": "Který z vodných roztoků (všechny o koncentraci 0,1 mol·dm⁻³) má pH vyšší než 7?",
+    "options": [
+      "H₂S",
+      "CH₃OH",
+      "C₆H₅OH",
+      "CH₃COONa"
+    ],
+    "answer": 3,
+    "title": "CH₃COONa",
+    "paragraphs": [
+      "Octan sodný je sůl slabé kyseliny a silné zásady. Acetátový ion hydrolyzuje (CH₃COO⁻ + H₂O ⇌ CH₃COOH + OH⁻), takže roztok je zásaditý. H₂S a fenol jsou slabé kyseliny, methanol je prakticky neutrální."
+    ],
+    "memory": "Sůl slabé kyseliny = zásaditý roztok."
+  },
+  {
+    "id": 233,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 118 · str. 82",
+    "sourcePages": "82",
+    "sourceItem": "118",
+    "question": "Který z vodných roztoků uvedených látek (o stejné koncentraci) má slabě kyselou reakci?",
+    "options": [
+      "C₆H₅OH (fenol)",
+      "CH₃OH",
+      "NaHCO₃",
+      "HCOONa"
+    ],
+    "answer": 0,
+    "title": "C₆H₅OH (fenol)",
+    "paragraphs": [
+      "Fenol je velmi slabá kyselina (pKa asi 10), jeho roztok je proto slabě kyselý. Methanol je neutrální, NaHCO₃ a mravenčan sodný reagují slabě zásaditě."
+    ],
+    "memory": "Fenol = slabá kyselina, alkohol = neutrální."
+  },
+  {
+    "id": 234,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 120 · str. 82",
+    "sourcePages": "82",
+    "sourceItem": "120",
+    "question": "Roztok které látky (0,1 mol·dm⁻³) dá se stejným objemem NaOH o koncentraci 0,1 mol·dm⁻³ neutrální roztok?",
+    "options": [
+      "CH₃COOH",
+      "HNO₃",
+      "NaCl",
+      "CH₃OH"
+    ],
+    "answer": 1,
+    "title": "HNO₃",
+    "paragraphs": [
+      "Silná kyselina se silnou zásadou dá sůl, která nehydrolyzuje (NaNO₃), takže roztok je neutrální. Kyselina octová by dala octan sodný se zásaditou reakcí."
+    ],
+    "memory": "Silná + silná = neutrální sůl."
+  },
+  {
+    "id": 235,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 122 · str. 82",
+    "sourcePages": "82",
+    "sourceItem": "122",
+    "question": "V 500 cm³ roztoku kyseliny octové (0,2 mol·dm⁻³) bylo rozpuštěno 0,1 mol KOH. Jaká je reakce výsledného roztoku?",
+    "options": [
+      "neutrální",
+      "slabě kyselá",
+      "slabě zásaditá",
+      "zřetelně kyselá"
+    ],
+    "answer": 2,
+    "title": "slabě zásaditá",
+    "paragraphs": [
+      "Kyseliny je 0,5 · 0,2 = 0,1 mol, tedy přesně tolik jako KOH. Vznikne jen octan draselný, který hydrolyzuje zásaditě."
+    ],
+    "memory": "Bod ekvivalence slabé kyseliny je nad pH 7."
+  },
+  {
+    "id": 236,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 123 · str. 82",
+    "sourcePages": "82",
+    "sourceItem": "123",
+    "question": "Ve 200 cm³ roztoku HCl (0,25 mol·dm⁻³) bylo rozpuštěno 0,05 mol NH₃. Jaký bude roztok?",
+    "options": [
+      "neutrální",
+      "slabě zásaditý",
+      "silně zásaditý",
+      "slabě kyselý"
+    ],
+    "answer": 3,
+    "title": "slabě kyselý",
+    "paragraphs": [
+      "HCl je 0,2 · 0,25 = 0,05 mol, tedy stejně jako NH₃. Vznikne jen NH₄Cl, jehož amonný ion hydrolyzuje kysele."
+    ],
+    "memory": "Bod ekvivalence slabé zásady je pod pH 7."
+  },
+  {
+    "id": 237,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 124 · str. 82",
+    "sourcePages": "82",
+    "sourceItem": "124",
+    "question": "Jakou změnu vyvolá přídavek NaOH do roztoku kyseliny octové v disociační rovnováze?",
+    "options": [
+      "sníží se poměr molekul CH₃COOH k acetátovým aniontům",
+      "zvýší se koncentrace vodíkových iontů",
+      "počet acetátových aniontů se nezmění",
+      "zvýší se počet molekul kyseliny octové"
+    ],
+    "answer": 0,
+    "title": "sníží se poměr molekul CH₃COOH k acetátovým aniontům",
+    "paragraphs": [
+      "OH⁻ odebírá z rovnováhy H⁺ a rovnováha CH₃COOH ⇌ CH₃COO⁻ + H⁺ se posouvá doprava. Přibývá acetátu a ubývá nedisociované kyseliny."
+    ],
+    "memory": "Odeber produkt, rovnováha jde k produktům."
+  },
+  {
+    "id": 238,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 126 · str. 82",
+    "sourcePages": "82",
+    "sourceItem": "126",
+    "question": "Jakou změnu vyvolá přídavek NaOH do vodného roztoku amoniaku (NH₃ + H₂O ⇌ NH₄⁺ + OH⁻)?",
+    "options": [
+      "poměr NH₄⁺/NH₃ se zvýší",
+      "zvýší se počet molekul NH₃",
+      "počet iontů NH₄⁺ se nezmění",
+      "poměr NH₄⁺/NH₃ se nezmění"
+    ],
+    "answer": 1,
+    "title": "zvýší se počet molekul NH₃",
+    "paragraphs": [
+      "Přidané OH⁻ jsou produktem rovnováhy, ta se proto posune doleva. Ubývá NH₄⁺ a přibývá molekul NH₃, proto zásadité roztoky amonných solí voní čpavkem."
+    ],
+    "memory": "Přidej produkt, rovnováha jde zpět."
+  },
+  {
+    "id": 239,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "LF MU · Biologie · Biologie člověka 12 · str. 139",
+    "sourcePages": "139",
+    "sourceItem": "12",
+    "question": "Kolik červených krvinek je přibližně v 1 mm³ krve člověka?",
+    "options": [
+      "5 · 10⁹ erytrocytů",
+      "5 · 10⁶ leukocytů",
+      "5 · 10⁶ erytrocytů",
+      "5 · 10⁶ lymfocytů"
+    ],
+    "answer": 2,
+    "title": "5 · 10⁶ erytrocytů",
+    "paragraphs": [
+      "V 1 mm³ (1 µl) krve je asi 4,5 až 5 milionů erytrocytů, kdežto leukocytů jen 4 až 10 tisíc. 5 · 10⁹ erytrocytů je řádově hodnota pro 1 ml."
+    ],
+    "memory": "Erytrocyty: asi 5 milionů v mm³."
+  },
+  {
+    "id": 240,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "LF MU · Biologie · Biologie člověka 20 · str. 140",
+    "sourcePages": "140",
+    "sourceItem": "20",
+    "question": "Kolik krve přečerpá srdce zdravého dospělého v klidu do velkého oběhu za minutu?",
+    "options": [
+      "asi 0,5 litru",
+      "asi 1,5 litru",
+      "asi 15 litrů",
+      "asi 5 litrů"
+    ],
+    "answer": 3,
+    "title": "asi 5 litrů",
+    "paragraphs": [
+      "Minutový srdeční výdej je tepová frekvence krát tepový objem, například 70 · 70 ml ≈ 5 l. Odpovídá to zhruba celému objemu krve za minutu."
+    ],
+    "memory": "Klidový výdej ≈ 5 l/min."
+  },
+  {
+    "id": 241,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "LF MU · Biologie · Biologie člověka 31 · str. 141",
+    "sourcePages": "141",
+    "sourceItem": "31",
+    "question": "Z čeho v embryogenezi vzniká sítnice?",
+    "options": [
+      "z neuroektodermu",
+      "z entodermu",
+      "z mezodermu",
+      "z povrchového ektodermu (jako pokožka)"
+    ],
+    "answer": 0,
+    "title": "z neuroektodermu",
+    "paragraphs": [
+      "Sítnice vzniká z očního váčku, výchlipky předního mozku. Je tedy nervového (neuroektodermového) původu a lze ji považovat za vysunutou část mozku."
+    ],
+    "memory": "Sítnice = vysunutý mozek."
+  },
+  {
+    "id": 242,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "LF MU · Biologie · Biologie člověka 34 · str. 141",
+    "sourcePages": "141",
+    "sourceItem": "34",
+    "question": "Zubní vzorec trvalého chrupu je 2123/2123. Co znamená pro každou polovinu horní i dolní čelisti?",
+    "options": [
+      "3 špičáky, 2 třenové zuby, 1 řezák, 2 stoličky",
+      "2 řezáky, 1 špičák, 2 třenové zuby, 3 stoličky",
+      "3 řezáky, 2 stoličky, 1 špičák, 2 třenové zuby",
+      "3 třenové zuby, 2 špičáky, 1 řezák, 2 stoličky"
+    ],
+    "answer": 1,
+    "title": "2 řezáky, 1 špičák, 2 třenové zuby, 3 stoličky",
+    "paragraphs": [
+      "Vzorec se čte od středu čelisti: řezáky, špičák, třenové zuby, stoličky. 2 + 1 + 2 + 3 = 8 zubů v každé čtvrtině, celkem 32 zubů."
+    ],
+    "memory": "Ř-Š-T-S = 2-1-2-3."
+  },
+  {
+    "id": 243,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "LF MU · Biologie · Biologie člověka 39 · str. 141",
+    "sourcePages": "141",
+    "sourceItem": "39",
+    "question": "Který metabolit bude fyziolog sledovat, aby zjistil, kdy ve svalech sportovce začíná anaerobní metabolismus?",
+    "options": [
+      "ATP",
+      "kyselinu pyrohroznovou",
+      "kyselinu mléčnou (laktát)",
+      "oxid uhličitý"
+    ],
+    "answer": 2,
+    "title": "kyselinu mléčnou (laktát)",
+    "paragraphs": [
+      "Při nedostatku kyslíku se pyruvát z glykolýzy redukuje na laktát, aby se obnovil NAD⁺. Vzestup laktátu v krvi proto ukazuje přechod na anaerobní glykolýzu (anaerobní práh)."
+    ],
+    "memory": "Anaerobní práh = vzestup laktátu."
+  },
+  {
+    "id": 244,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "LF MU · Biologie · Biologie člověka 48 · str. 142",
+    "sourcePages": "142",
+    "sourceItem": "48",
+    "question": "Jaký přibližný průsvit mají krevní vlásečnice?",
+    "options": [
+      "0,5–1 µm",
+      "0,2–0,5 mm",
+      "1–2 mm",
+      "5–20 µm"
+    ],
+    "answer": 3,
+    "title": "5–20 µm",
+    "paragraphs": [
+      "Kapiláry jsou tak úzké, že jimi erytrocyty (průměr asi 7 µm) procházejí jednotlivě. Jejich stěnu tvoří jen endotel, bez svalové vrstvy."
+    ],
+    "memory": "Kapilára ≈ šířka jedné krvinky."
+  },
+  {
+    "id": 245,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "LF MU · Biologie · Biologie člověka 50 · str. 142",
+    "sourcePages": "142",
+    "sourceItem": "50",
+    "question": "Která z nemocí je virového původu?",
+    "options": [
+      "příušnice",
+      "spála",
+      "salmonelóza",
+      "tuberkulóza"
+    ],
+    "answer": 0,
+    "title": "příušnice",
+    "paragraphs": [
+      "Příušnice způsobuje virus z čeledi paramyxovirů. Spálu vyvolávají streptokoky, salmonelózu salmonely a tuberkulózu mykobakterie, tedy bakterie."
+    ],
+    "memory": "Příušnice = virus, spála = streptokok."
+  },
+  {
+    "id": 246,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "LF MU · Biologie · Biologie člověka 77 · str. 145",
+    "sourcePages": "145",
+    "sourceItem": "77",
+    "question": "Kolik primární moči vytvoří ledviny člověka přibližně za den?",
+    "options": [
+      "500 litrů",
+      "150 litrů",
+      "15 litrů",
+      "1,5 litru"
+    ],
+    "answer": 1,
+    "title": "150 litrů",
+    "paragraphs": [
+      "Glomeruly přefiltrují asi 150 až 180 litrů plazmy denně. Přes 99 % vody se v kanálcích vstřebá zpět, takže definitivní moči je jen asi 1,5 litru."
+    ],
+    "memory": "Primární moč 150 l, definitivní 1,5 l."
+  },
+  {
+    "id": 247,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "LF MU · Biologie · Biologie člověka 80 · str. 145",
+    "sourcePages": "145",
+    "sourceItem": "80",
+    "question": "Co je hypertenze?",
+    "options": [
+      "zvětšení objemu srdce po dlouhodobé zátěži",
+      "náhlý uzávěr cévy utrženým trombem",
+      "trvale zvýšený krevní tlak",
+      "ukládání cholesterolových plátů v cévní stěně"
+    ],
+    "answer": 2,
+    "title": "trvale zvýšený krevní tlak",
+    "paragraphs": [
+      "Hypertenze je vysoký krevní tlak. Zvětšení srdce je hypertrofie či dilatace, uzávěr cévy vmeteným trombem je embolie a ukládání plátů ateroskleróza."
+    ],
+    "memory": "Hyper-tenze = vysoké napětí (tlak)."
+  },
+  {
+    "id": 248,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "LF MU · Biologie · Biologie člověka 85 · str. 146",
+    "sourcePages": "146",
+    "sourceItem": "85",
+    "question": "Co označuje leukemie?",
+    "options": [
+      "přechodné zvýšení počtu leukocytů při zánětu",
+      "nedostatek červených krvinek",
+      "sníženou srážlivost krve",
+      "nádorové onemocnění krvetvorby s nekontrolovaným množením bílých krvinek"
+    ],
+    "answer": 3,
+    "title": "nádorové onemocnění krvetvorby s nekontrolovaným množením bílých krvinek",
+    "paragraphs": [
+      "Leukemie je zhoubné onemocnění krvetvorných buněk. Přechodné zvýšení počtu leukocytů při zánětu je leukocytóza, nedostatek erytrocytů je anémie."
+    ],
+    "memory": "Leukemie = nádor, leukocytóza = reakce na zánět."
+  },
+  {
+    "id": 249,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "LF MU · Biologie · Biologie člověka 96 · str. 147",
+    "sourcePages": "147",
+    "sourceItem": "96",
+    "question": "Obraz kterých cév lze pořídit arteriografií?",
+    "options": [
+      "tepen",
+      "vlásečnic",
+      "žil",
+      "mízních cév"
+    ],
+    "answer": 0,
+    "title": "tepen",
+    "paragraphs": [
+      "Arteriografie zobrazuje tepny (artérie) po vstříknutí kontrastní látky. Žíly zobrazuje flebografie a mízní cévy lymfografie."
+    ],
+    "memory": "Arterie = tepna."
+  },
+  {
+    "id": 250,
+    "subject": "Biologie",
+    "category": "Biologie · Biologie člověka",
+    "bookRef": "LF MU · Biologie · Biologie člověka 99 · str. 147",
+    "sourcePages": "147",
+    "sourceItem": "99",
+    "question": "Při křížové zkoušce před transfuzí reagovala krev pacienta se sérem anti-A. Jakou krevní skupinu může pacient mít?",
+    "options": [
+      "pouze A",
+      "A nebo AB",
+      "pouze B",
+      "0"
+    ],
+    "answer": 1,
+    "title": "A nebo AB",
+    "paragraphs": [
+      "Shlukování se sérem anti-A znamená, že erytrocyty nesou antigen A. Ten mají skupiny A i AB. Rozlišit je lze až podle reakce se sérem anti-B."
+    ],
+    "memory": "Reakce s anti-A = antigen A (A nebo AB)."
+  }
+]

@@ -74,4 +74,27 @@ Kapitola Kmity a akustika (úlohy 1–48) je posouzená celá. Nepřidané úloh
 
 Dosud nepokryté oddíly: zbylé úlohy prvních kapitol fyziky (jednotky, kinematika) a chemie (vzorce, stavba atomu) mimo seznamy výše, fyzika od kapitoly Termodynamika (str. 30+), chemie Roztoky 75–88 a 110–126 a další kapitoly, biologie od oddílu Biologie člověka (str. 138+).
 
+## Pátá dávka ID 201–250 (v2.52.0)
+
+Soubor `muni-201-250.json`, generátor `create_muni_201_250.py`. Odpovědi ověřeny výpočtem nebo výkladem a porovnány s klíčem na str. 60, 120 a 154.
+
+| Předmět | Kapitola (tištěné strany) | Použité úlohy | ID |
+|---|---|---|---|
+| Fyzika | Termodynamika, fázové změny (30–35) | 1, 3, 8, 11, 12, 14, 17, 20, 21, 22, 23, 27, 30, 31, 32, 42, 43, 45, 47, 52, 55, 58, 60, 63, 65, 66 | 201–226 |
+| Chemie | Roztoky, pH a hydrolýza (79–82) | 75, 82, 84, 110, 111, 114, 118, 120, 122, 123, 124, 126 | 227–238 |
+| Biologie | Biologie člověka (139–147) | 12, 20, 31, 34, 39, 48, 50, 77, 80, 85, 96, 99 | 239–250 |
+
+Klíč E převeden na explicitní správnou odpověď: chemie 82 (konjugovaná kyselina acetátu je CH₃COOH).
+
+Termodynamika úlohy 1–70: nepřidáno
+- Varianty téže znalosti: 2, 4–7, 48 (jednotky R, nRT, kT, pV, c·m·Δt; princip 202), 9, 33, 37, 40 (adiabatický a izobarický děj, 206 a 210), 13, 15, 16, 19, 24–26, 28, 34, 36 (stavová rovnice a zákony dějů, 204–205, 211), 18 (stavové veličiny, 214), 29 (hustota plynů, princip 226), 35 a 38 (stavová rovnice, 208), 39 (tepelná rovnováha), 44, 64 (kinetická teorie, 218–219), 46 (plynový teploměr), 49–51 (obecné a technické souvislosti), 53, 54 (sublimace, 220), 56, 57 (tání pod tlakem, princip 222), 59 a 61 (rozpuštěné látky a bod tuhnutí či varu, 222–223), 62 (vzdálenost atomů), 67, 68 (počet molekul, 225), 69 a 70 (objem a tlak po reakci H₂ s O₂).
+- Sporný klíč: 10 (práce úměrná tlaku, ve skutečnosti W = p·ΔV), 41 (volná expanze ideálního plynu teplotu nemění, klíč „vždy snižuje“), 49 (klíč chybí).
+- Povrchové jevy (úlohy 71–81) čekají na další dávku.
+
+Chemie Roztoky je tím posouzená celá (1–126). Nepřidáno: 76 (koncentrace Na⁺ z pH, varianta 227), 77, 79–81, 83, 85–88 (Brönstedovy páry a amfolyty, varianty 228–229 a UK 33–34), 112, 113, 115–117, 119 (hydrolýza solí, varianta 232 a UK 170–172; 115 a 117 klíč „žádná“), 121 (klíč „žádná“, princip 237), 125 (zrcadlová k 236).
+
+Biologie člověka úlohy 1–100: většina je stejný poznatek jako otázky biologické sady (BIO) a somatologie (SOM): kostra, svaly, oběh, krev, trávení, ledviny, smysly, nervy a hormony (např. 1–11, 13–19, 22–30, 32, 33, 35–38, 40–44, 46, 49, 51, 52, 54, 55, 57, 59–68, 71, 75, 81, 86, 87, 98, 100). Sporné nebo nečitelné: 21 (klíč glukóza, přímým zdrojem je ATP), 38 (pořadí fází srdečního cyklu podle klíče sporné), 70, 79 (exponent v OCR nečitelný), 74 (klíč sporný), 89 (zadání v OCR poškozené), 95 (nabídka neúplná). Kandidáti na další dávku: 45, 47, 53, 56, 58, 69, 72, 73, 76, 78, 82–84, 88, 90–94, 97.
+
+Dosud nepokryté oddíly: fyzika Povrchové jevy (str. 35+), Elektřina a magnetismus, Optika, Atomová a jaderná fyzika, zbylé úlohy prvních kapitol; chemie od kapitoly Periodický systém prvků (str. 83+) a zbylé úlohy prvních kapitol; biologie kandidáti výše, Životní funkce, Evoluce, Ekologie.
+
 Druhý soubor `877344967-LF-MU-Modelove-Otazky-New.pdf` je podle vlastníka (21. 11. 2026) stejná publikace jako hlavní soubor Mornstein a kol. Samostatně se nepokrývá; zdrojem kvízu LF MU je jen hlavní soubor.
