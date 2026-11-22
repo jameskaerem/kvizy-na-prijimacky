@@ -149,6 +149,24 @@ Nepřidáno z optiky 1–57: 1 (klíč „žádná“, princip 351), 4 (lom do r
 
 Z životních funkcí nepřidáno: 2 (žebříčková nervová soustava, SOM 66), 4 (amnion, BIO 758 a UK 399), 13 (bezjaderné erytrocyty, BIO 84), 17 (odkysličená krev v plicnici, CB 38), 22 (vzdušnice, SOM 239), 23 (klíšťová encefalitida, BIO 530). Úlohy 10, 14, 15, 18, 24, 25 čekají na další dávku.
 
-Dosud nepokryté oddíly: fyzika Optika 58–74, Atomová a jaderná fyzika, zbylé úlohy prvních kapitol; chemie Organická chemie, Biochemie a zbylé úlohy prvních kapitol; biologie Životní funkce 10, 14, 15, 18, 24, 25, Evoluce, Ekologie.
+## Devátá dávka ID 401–450 (v2.60.0)
+
+Soubor `muni-401-450.json`, generátor `create_muni_401_450.py`. Odpovědi ověřeny výpočtem nebo výkladem a porovnány s klíčem na str. 60 a 120.
+
+| Předmět | Kapitola (tištěné strany) | Použité úlohy | ID |
+|---|---|---|---|
+| Fyzika | Optika: interference, polarizace, fotometrie (51–52) | 61, 62, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74 | 401–413 |
+| Fyzika | Elementární částice, radioaktivita (53–55) | 1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 14, 15, 17, 19, 20, 21, 22, 25 | 414–431 |
+| Chemie | Organická chemie: názvosloví a izomerie (90–93) | 9, 14, 16, 18, 19, 20, 21, 22, 25, 27, 28, 29, 30, 31, 33, 36, 38, 45, 46 | 432–450 |
+
+Klíč E převeden na explicitní správnou odpověď: chemie 29 (3 izomery tetrachlorbenzenu), 30 (jediný pentachlorbenzen). Fyzika částic 6 (klíč „elektron“, ale fermion je i neutron) převedena na otázku, která částice fermion není (foton). Chemie 20 má v OCR vzorec C₄H₈ nečitelný, klíč 5 izomerů odpovídá C₄H₈. Chemie 38 doplněna o vlastní distraktory (původní možnosti jsou v OCR neúplné).
+
+Optika je tím posouzená celá (1–74). Nepřidáno z úloh 58–74: 58 (Newtonovy kroužky, LF MU 382), 59 (barevné skvrny ropy, LF MU 390), 60 (chvění vzduchu, LF MU 381), 63 (hologram, LF MU 387).
+
+Elementární částice 1–25: 4 (klíč „žádná“, varianta 416), 10 (varianta 420), 13 (klíč „žádná“, srovnání vlnových délek s neurčenou hybností), 16 (klíč „žádná“, varianta 427), 18 (gama a rentgen, UK 68), 23 (počet neutronů, LF MU 69), 24 (OCR rovnice reakce neúplné). Úlohy 26–71 čekají na další dávku; klíč k nim v textové kopii chybí (stránka klíče je přerušená), proto se budou ověřovat výpočtem a výkladem.
+
+Organická chemie úlohy 1–46: 1–5, 13, 15, 17, 48, 49 (vzorce jen jako obrázek), 6 (název dvojvazného zbytku, „ethylen“ i „dimethylen“ se používají), 7, 8, 10–12 (vinyl, fenyl, benzyl, UK 306, 325–326), 23 (klíč „žádná“, všechny možnosti jsou izomery), 24 (název 3-methylbut-2-en je chybný), 26 (klíč „žádná“), 32 (ether a alkohol, UK 282), 34, 35, 37 (varianty 446–447), 39 a 42 (tautomerie vinylalkoholu a cis-trans izomerie, UK 276 a 424). Úlohy 40, 41, 43, 44, 47 a dál čekají na další dávku.
+
+Dosud nepokryté oddíly: fyzika jaderná a kvantová 26–71, zbylé úlohy prvních kapitol; chemie Organická chemie od úlohy 40, Biochemie a zbylé úlohy prvních kapitol; biologie Životní funkce 10, 14, 15, 18, 24, 25, Evoluce, Ekologie.
 
 Druhý soubor `877344967-LF-MU-Modelove-Otazky-New.pdf` je podle vlastníka (21. 11. 2026) stejná publikace jako hlavní soubor Mornstein a kol. Samostatně se nepokrývá; zdrojem kvízu LF MU je jen hlavní soubor.
