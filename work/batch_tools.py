@@ -5,7 +5,7 @@ import json
 # subject|chapter|source item|printed page|prompt|correct|distractor|distractor|distractor|explanation|memory aid
 # The correct answer is rotated to position (id-1) % 4, as in the earlier batches.
 
-def build(rows, start, counts, out, school):
+def build(rows, start, counts, out, school, n=50):
     bank=[]
     for i,line in enumerate(rows.strip().splitlines(),start):
         parts=line.split('|')
@@ -20,8 +20,8 @@ def build(rows, start, counts, out, school):
         else:
             ref=f'LF MU · {subject} · {chapter} {number} · str. {page}'
         bank.append(dict(id=i,subject=subject,category=subject+' · '+chapter,bookRef=ref,sourcePages=page,sourceItem=number,question=prompt,options=options,answer=answer,title=correct,paragraphs=[explanation],memory=memory))
-    assert len(bank)==50 and bank[-1]['id']==start+49
+    assert len(bank)==n and bank[-1]['id']==start+n-1
     assert [sum(q['subject']==s for q in bank) for s in ('Fyzika','Chemie','Biologie')]==counts,[sum(q['subject']==s for q in bank) for s in ('Fyzika','Chemie','Biologie')]
     for q in bank: assert len(set(q['options']))==4 and q['options'][q['answer']]==q['title']
-    assert len({q['question'] for q in bank})==50
+    assert len({q['question'] for q in bank})==n
     Path(__file__).with_name(out).write_text(json.dumps(bank,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
