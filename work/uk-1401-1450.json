@@ -1,0 +1,1234 @@
+[
+  {
+    "id": 1401,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.09 · str. 128",
+    "sourcePages": "128",
+    "sourceItem": "9.09",
+    "question": "V jakém rozmezí vlnových délek leží infračervené záření?",
+    "options": [
+      "4·10⁻⁷ m až 4·10⁻⁹ m",
+      "větší než 10⁴ m",
+      "10⁻³ m až 7,7·10⁻⁷ m",
+      "10⁻¹⁰ m až 10⁻¹² m"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Infračervené záření navazuje na červený konec viditelného spektra (asi 770 nm) a sahá až k mikrovlnám kolem 1 mm. Rozmezí 400–4 nm odpovídá ultrafialovému záření, 10⁻¹⁰ až 10⁻¹² m rentgenovému."
+    ],
+    "memory": "IR: 770 nm až 1 mm."
+  },
+  {
+    "id": 1402,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.12 · str. 128",
+    "sourcePages": "128",
+    "sourceItem": "9.12",
+    "question": "Co mají společné složky koherentního vlnění?",
+    "options": [
+      "konstantní fázový rozdíl",
+      "stejnou frekvenci",
+      "stejnou amplitudu",
+      "stejnou vlnovou délku ve vakuu"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "title": "Správně: A, B a D",
+    "paragraphs": [
+      "Koherentní vlnění má stejnou frekvenci (a tedy vlnovou délku ve vakuu) a stálý fázový rozdíl, takže vytvoří stálý interferenční obrazec. Amplitudy se lišit mohou."
+    ],
+    "memory": "Koherence = stálý fázový rozdíl."
+  },
+  {
+    "id": 1403,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.13 · str. 128",
+    "sourcePages": "128",
+    "sourceItem": "9.13",
+    "question": "Monochromatické světlo má ve vakuu vlnovou délku λv. Jaká je jeho vlnová délka λn v prostředí s indexem lomu n?",
+    "options": [
+      "λn = λv",
+      "λn = n·λv",
+      "λn = 2·n·λv",
+      "λn = λv/n"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Frekvence se nemění, rychlost klesne na c/n, a protože λ = v/f, zkrátí se i vlnová délka n-krát."
+    ],
+    "memory": "V hustším prostředí kratší vlna."
+  },
+  {
+    "id": 1404,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.17 · str. 129",
+    "sourcePages": "129",
+    "sourceItem": "9.17",
+    "question": "Jaká je jednotka světelného toku?",
+    "options": [
+      "lumen",
+      "lux",
+      "kandela",
+      "watt"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Světelný tok se měří v lumenech, lm = cd·sr. Lux je jednotka osvětlení, kandela svítivosti a watt zářivého toku."
+    ],
+    "memory": "Tok = lumen."
+  },
+  {
+    "id": 1405,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.18 · str. 129",
+    "sourcePages": "129",
+    "sourceItem": "9.18",
+    "question": "Jaká je jednotka svítivosti?",
+    "options": [
+      "lumen",
+      "lux",
+      "kandela",
+      "lumen na metr čtvereční"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Svítivost bodového zdroje se měří v kandelách, které jsou základní jednotkou SI. Lumen na metr čtvereční je lux, jednotka osvětlení."
+    ],
+    "memory": "Svítivost = kandela."
+  },
+  {
+    "id": 1406,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.21 · str. 130",
+    "sourcePages": "130",
+    "sourceItem": "9.21",
+    "question": "Jak označujeme jev, kdy se světlo dostává do geometrického stínu překážky?",
+    "options": [
+      "ohyb",
+      "interference",
+      "disperze",
+      "difrakce"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Ohyb a difrakce jsou dva názvy téhož jevu. Interference je skládání vlnění, disperze závislost indexu lomu na vlnové délce."
+    ],
+    "memory": "Ohyb = difrakce."
+  },
+  {
+    "id": 1407,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.22 · str. 130",
+    "sourcePages": "130",
+    "sourceItem": "9.22",
+    "question": "Při jakém fázovém rozdílu se koherentní světelné vlny interferencí zesilují?",
+    "options": [
+      "π",
+      "2π",
+      "3π",
+      "4π"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "Maximum vzniká při fázovém rozdílu rovném sudému násobku π (0, 2π, 4π …), vlny jsou pak ve fázi. Liché násobky π dávají minimum."
+    ],
+    "memory": "Ve fázi = sudý násobek π."
+  },
+  {
+    "id": 1408,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.23 · str. 130",
+    "sourcePages": "130",
+    "sourceItem": "9.23",
+    "question": "Co platí o laseru?",
+    "options": [
+      "je zdrojem vysoce monochromatického elektromagnetického vlnění",
+      "je zdrojem záření s vysokým stupněm koherence",
+      "vyznačuje se značnou divergencí paprsků",
+      "vyzařuje světlo s ryze částicovou, nikoli vlnovou povahou"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Laserové světlo je monochromatické, koherentní a velmi málo rozbíhavé. Jako každé světlo má vlnovou i částicovou povahu."
+    ],
+    "memory": "Laser: jedna barva, koherence, úzký svazek."
+  },
+  {
+    "id": 1409,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.24 · str. 130",
+    "sourcePages": "130",
+    "sourceItem": "9.24",
+    "question": "Co nepatří mezi elektromagnetické vlnění?",
+    "options": [
+      "záření alfa",
+      "záření beta",
+      "infračervené záření",
+      "infrazvuk"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "title": "Správně: A, B a D",
+    "paragraphs": [
+      "Záření alfa a beta jsou proudy částic (jader helia a elektronů či pozitronů) a infrazvuk je mechanické vlnění. Infračervené záření je elektromagnetické."
+    ],
+    "memory": "Alfa a beta jsou částice."
+  },
+  {
+    "id": 1410,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.27 · str. 130",
+    "sourcePages": "130",
+    "sourceItem": "9.27",
+    "question": "Čím je regulováno množství světla, které dopadá na sítnici?",
+    "options": [
+      "duhovkou",
+      "rohovkou",
+      "změnou průměru zornice",
+      "akomodací čočky"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Svaly duhovky mění průměr zornice: v šeru se rozšíří, na světle zúží. Rohovka a čočka světlo lámou, akomodace čočky slouží k zaostření."
+    ],
+    "memory": "Duhovka je clona oka."
+  },
+  {
+    "id": 1411,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.28 · str. 131",
+    "sourcePages": "131",
+    "sourceItem": "9.28",
+    "question": "Které světlo se nejvíce blíží monochromatickému?",
+    "options": [
+      "světlo žárovky",
+      "světlo zářivky",
+      "sluneční světlo",
+      "světlo laseru"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Laser vyzařuje velmi úzký rozsah vlnových délek. Žárovka a Slunce mají spojité spektrum, zářivka směs několika čar."
+    ],
+    "memory": "Laser = jedna vlnová délka."
+  },
+  {
+    "id": 1412,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.29 · str. 131",
+    "sourcePages": "131",
+    "sourceItem": "9.29",
+    "question": "K čemu se používají Newtonova skla?",
+    "options": [
+      "k měření vlnové délky světla",
+      "k polarizaci světla",
+      "k určování úhlu stočení roviny polarizovaného světla",
+      "k rozlišení řádného a mimořádného paprsku"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Mezi vypouklou čočkou a deskou vzniká tenká vzduchová vrstva a interferencí Newtonovy kroužky. Z jejich poloměrů lze určit vlnovou délku světla."
+    ],
+    "memory": "Newtonovy kroužky = interference."
+  },
+  {
+    "id": 1413,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.30 · str. 131",
+    "sourcePages": "131",
+    "sourceItem": "9.30",
+    "question": "Co platí o bílém světle?",
+    "options": [
+      "smísením barevných složek v určitém poměru vznikne světlo, které vnímáme jako bílé",
+      "je to každé světlo s vlnovou délkou mezi 400 a 760 nm",
+      "je to směs světel s vlnovými délkami blízkými ultrafialovému záření",
+      "je to směs světel s vlnovými délkami blízkými infračervenému záření"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Bílé světlo je směs barev celého viditelného spektra, kterou hranol rozloží. Bílý dojem vznikne i smísením tří základních barev ve vhodném poměru. Jedna vlnová délka z tohoto rozmezí je vždy barevná."
+    ],
+    "memory": "Bílá = směs barev."
+  },
+  {
+    "id": 1414,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.31 · str. 131",
+    "sourcePages": "131",
+    "sourceItem": "9.31",
+    "question": "Co platí o fotonech (červené světlo asi 760 nm, fialové asi 380 nm)?",
+    "options": [
+      "foton červeného světla má zhruba poloviční energii než foton fialového",
+      "foton červeného světla má zhruba poloviční frekvenci než foton fialového",
+      "foton fialového světla má zhruba poloviční vlnovou délku než foton červeného",
+      "foton ultrafialového záření má vyšší frekvenci než foton fialového"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Energie fotonu E = h·f = h·c/λ. Fialové světlo má asi poloviční vlnovou délku než červené, a proto dvojnásobnou frekvenci i energii. Ultrafialové záření má frekvenci ještě vyšší."
+    ],
+    "memory": "E = h·c/λ."
+  },
+  {
+    "id": 1415,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.32 · str. 131",
+    "sourcePages": "131",
+    "sourceItem": "9.32",
+    "question": "Které tvrzení o rentgenovém záření neplatí?",
+    "options": [
+      "má vyšší frekvenci než infračervené záření",
+      "má menší vlnovou délku než ultrafialové záření",
+      "má větší vlnovou délku než viditelné světlo",
+      "má menší vlnovou délku než infračervené záření"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Rentgenové záření má vlnové délky asi 10⁻⁸ až 10⁻¹² m, tedy mnohem kratší než viditelné světlo, ultrafialové i infračervené záření, a vyšší frekvenci."
+    ],
+    "memory": "RTG: kratší vlna než UV."
+  },
+  {
+    "id": 1416,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.34 · str. 131",
+    "sourcePages": "131",
+    "sourceItem": "9.34",
+    "question": "Co platí o světle?",
+    "options": [
+      "úhel odrazu nezávisí na frekvenci světla",
+      "úhel lomu nezávisí na frekvenci světla",
+      "rychlost světla v prostředí závisí jen na vlastnostech prostředí",
+      "při odrazu na rozhraní s opticky řidším prostředím se mění fáze"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Úhel odrazu se rovná úhlu dopadu pro všechny barvy. Index lomu, a tedy rychlost i úhel lomu, závisí na frekvenci (disperze). Fáze se obrací při odrazu na opticky hustším prostředí."
+    ],
+    "memory": "Odraz bez disperze, lom s disperzí."
+  },
+  {
+    "id": 1417,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.35 · str. 132",
+    "sourcePages": "132",
+    "sourceItem": "9.35",
+    "question": "Které tvrzení o ultrafialovém záření neplatí?",
+    "options": [
+      "má vyšší frekvenci než viditelné světlo",
+      "má delší vlnovou délku než viditelné světlo",
+      "může způsobit ionizaci",
+      "vyvolává pigmentaci kůže a zvyšuje riziko kožních nádorů"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Ultrafialové záření leží za fialovým koncem spektra, má kratší vlnovou délku a vyšší frekvenci než viditelné světlo. Krátkovlnné UV může ionizovat a poškozovat kůži."
+    ],
+    "memory": "Ultra = za fialovou."
+  },
+  {
+    "id": 1418,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.36 · str. 132",
+    "sourcePages": "132",
+    "sourceItem": "9.36",
+    "question": "Na čem závisí ohyb elektromagnetického vlnění na překážkách?",
+    "options": [
+      "nezávisí na rozměrech překážky ani na vlnové délce",
+      "závisí na rozměrech překážky i na vlnové délce",
+      "závisí na vlnové délce, ale ne na rozměrech překážky",
+      "závisí na rozměrech překážky, ale ne na vlnové délce"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Ohyb je výrazný, když je překážka nebo štěrbina srovnatelná s vlnovou délkou. Rozhoduje tedy poměr obou veličin, proto se rozhlasové vlny ohýbají kolem budov a světlo ne."
+    ],
+    "memory": "Ohyb: překážka ≈ vlnová délka."
+  },
+  {
+    "id": 1419,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.37 · str. 132",
+    "sourcePages": "132",
+    "sourceItem": "9.37",
+    "question": "Co platí o ohybu světla?",
+    "options": [
+      "potvrzuje přímočaré šíření a částicovou povahu světla",
+      "lze ho vysvětlit jen vlnovou povahou světla",
+      "lze ho pozorovat jen na optické mřížce",
+      "lze ho pozorovat na překážkách srovnatelných s vlnovou délkou světla"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "Ohyb do geometrického stínu je projevem vlnové povahy světla a přímočaré šíření popírá. Pozorujeme ho na každé dost malé překážce nebo štěrbině, nejen na mřížce."
+    ],
+    "memory": "Ohyb dokazuje vlnovou povahu."
+  },
+  {
+    "id": 1420,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.38 · str. 132",
+    "sourcePages": "132",
+    "sourceItem": "9.38",
+    "question": "Co dokážou opticky aktivní látky?",
+    "options": [
+      "odrážejí veškeré dopadající světlo",
+      "vytvářejí optické záření",
+      "pohlcují veškeré dopadající světlo",
+      "stáčejí rovinu kmitání polarizovaného světla"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Opticky aktivní látky, například roztoky cukrů, stáčejí rovinu polarizace. Úhel stočení měří polarimetr a z něj lze určit koncentraci."
+    ],
+    "memory": "Opticky aktivní = stáčí polarizaci."
+  },
+  {
+    "id": 1421,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.40 · str. 132",
+    "sourcePages": "132",
+    "sourceItem": "9.40",
+    "question": "Co platí o osvětlení?",
+    "options": [
+      "je to fotometrická veličina",
+      "jeho jednotkou je lux",
+      "jeho jednotkou je lm/m²",
+      "jeho jednotkou je W/m²"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2
+    ],
+    "title": "Správně: A, B a C",
+    "paragraphs": [
+      "Osvětlení je světelný tok dopadající na jednotku plochy, lux = lm/m². Je to fotometrická veličina hodnocená citlivostí oka. W/m² je jednotka energetické (radiometrické) veličiny, intenzity záření."
+    ],
+    "memory": "Lux = lumen na m²."
+  },
+  {
+    "id": 1422,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.42 · str. 133",
+    "sourcePages": "133",
+    "sourceItem": "9.42",
+    "question": "Kdy se plyn stane elektricky vodivým?",
+    "options": [
+      "při průchodu rozhlasových vln",
+      "při zahřátí na extrémně vysokou teplotu, kdy vzniká plazma",
+      "při elektrickém výboji",
+      "při ionizaci"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: B, C a D",
+    "paragraphs": [
+      "Plyn vede proud, když obsahuje volné ionty a elektrony. Ty vznikají ionizací, například vysokou teplotou v plazmatu nebo nárazy částic ve výboji. Rozhlasové vlny mají na ionizaci příliš malou energii."
+    ],
+    "memory": "Vodivý plyn = ionizovaný plyn."
+  },
+  {
+    "id": 1423,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.44 · str. 133",
+    "sourcePages": "133",
+    "sourceItem": "9.44",
+    "question": "K čemu slouží polarimetr?",
+    "options": [
+      "ke zjišťování polarity nabitých těles",
+      "k měření velmi nízkých teplot",
+      "k rychlému zhotovování fotografií",
+      "ke zkoumání některých vlastností látek pomocí polarizovaného světla"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Polarimetr měří úhel stočení roviny polarizovaného světla opticky aktivní látkou. Používá se například k určení koncentrace cukru v roztoku."
+    ],
+    "memory": "Polarimetr měří stočení."
+  },
+  {
+    "id": 1424,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.45 · str. 133",
+    "sourcePages": "133",
+    "sourceItem": "9.45",
+    "question": "Co dělá polarizátor?",
+    "options": [
+      "z vlnění kmitajícího v různých rovinách vybírá vlnění kmitající v jedné rovině",
+      "je to osoba pracující s polarizovaným světlem",
+      "mění stočení kmitové roviny u opticky aktivních látek",
+      "zjišťuje polaritu magnetu"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Polarizátor propustí jen složku vlnění kmitající v určité rovině, z přirozeného světla tak vytvoří lineárně polarizované. Polarizační brýle tím tlumí odlesky."
+    ],
+    "memory": "Polarizátor = filtr roviny kmitů."
+  },
+  {
+    "id": 1425,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.46 · str. 133",
+    "sourcePages": "133",
+    "sourceItem": "9.46",
+    "question": "Světlo se ve vodě šíří rychlostí asi 225 000 km/s, zvuk asi 1500 m/s. Kolikrát je zvuk pomalejší?",
+    "options": [
+      "asi 150 000krát",
+      "asi 150 000krát rychlejší",
+      "asi 150krát",
+      "asi milionkrát"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "225 000 km/s = 2,25·10⁸ m/s. Podíl 2,25·10⁸ / 1500 = 1,5·10⁵, zvuk je tedy asi 150 000krát pomalejší."
+    ],
+    "memory": "Převeď km na m."
+  },
+  {
+    "id": 1426,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.47 · str. 133",
+    "sourcePages": "133",
+    "sourceItem": "9.47",
+    "question": "Index lomu skla s rostoucí vlnovou délkou klesá (normální disperze). Co platí pro šíření světla ve skle?",
+    "options": [
+      "fialové světlo se šíří rychleji než zelené",
+      "červené světlo se šíří rychleji než žluté",
+      "světlo se ve skle nešíří",
+      "modré a žluté světlo se šíří stejně rychle"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Delší vlnová délka znamená menší index lomu a tedy větší rychlost v = c/n. Červené světlo je ve skle nejrychlejší, fialové nejpomalejší, proto hranol rozloží bílé světlo."
+    ],
+    "memory": "Ve skle je červená nejrychlejší."
+  },
+  {
+    "id": 1427,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.48 · str. 133",
+    "sourcePages": "133",
+    "sourceItem": "9.48",
+    "question": "Co platí pro šíření světla různých barev ve vakuu?",
+    "options": [
+      "fialové světlo se šíří rychleji než zelené",
+      "červené světlo se šíří rychleji než žluté",
+      "světlo se ve vakuu nešíří",
+      "modré a žluté světlo se šíří stejně rychle"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Ve vakuu se všechny elektromagnetické vlny šíří stejnou rychlostí c ≈ 3·10⁸ m/s bez ohledu na vlnovou délku. Disperze nastává jen v látkovém prostředí."
+    ],
+    "memory": "Ve vakuu nemá světlo disperzi."
+  },
+  {
+    "id": 1428,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.50 · str. 134",
+    "sourcePages": "134",
+    "sourceItem": "9.50",
+    "question": "Jaký vztah platí pro vlnovou délku λ elektromagnetického vlnění (c rychlost světla, T perioda)?",
+    "options": [
+      "λ = T/c",
+      "λ = c/T",
+      "λ = c·T",
+      "λ = 1/(c·T)"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Vlnová délka je dráha, kterou vlna urazí za jednu periodu: λ = c·T. Totéž vyjadřuje λ = c/f, protože f = 1/T."
+    ],
+    "memory": "λ = c·T = c/f."
+  },
+  {
+    "id": 1429,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.51 · str. 134",
+    "sourcePages": "134",
+    "sourceItem": "9.51",
+    "question": "Co se stane při lomu monochromatického světla z vakua (n = 1) do vody (n = 1,33)?",
+    "options": [
+      "rychlost světla se sníží 1,33krát",
+      "vlnová délka se zkrátí 1,33krát",
+      "frekvence se zvýší 1,33krát",
+      "může nastat totální odraz"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Ve vodě je rychlost v = c/n a stejně se zkrátí vlnová délka, frekvence zůstane. Totální odraz může nastat jen při přechodu do opticky řidšího prostředí."
+    ],
+    "memory": "Frekvence se při lomu nemění."
+  },
+  {
+    "id": 1430,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.52 · str. 134",
+    "sourcePages": "134",
+    "sourceItem": "9.52",
+    "question": "Co platí při ohybu světla na dvojštěrbině?",
+    "options": [
+      "maxima vznikají ve směrech, kde je fázový rozdíl celistvým násobkem 2π",
+      "úhly maxim závisejí na vlnové délce světla",
+      "úhly maxim nezávisejí na vlnové délce, jen na vzdálenosti štěrbin a stínítka",
+      "pro monochromatické světlo vznikne nejvýš jedno maximum"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Maxima leží tam, kde je dráhový rozdíl b·sin α = k·λ, tedy fázový rozdíl k·2π. Úhly proto závisejí na vlnové délce a vzniká řada maxim. Bílé světlo se tak rozloží na barvy."
+    ],
+    "memory": "Dvojštěrbina: b·sin α = k·λ."
+  },
+  {
+    "id": 1431,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.53 · str. 134",
+    "sourcePages": "134",
+    "sourceItem": "9.53",
+    "question": "Co se děje se světlem při průchodu rozhraním dvou optických prostředí?",
+    "options": [
+      "mění se jeho frekvence",
+      "nemění se jeho rychlost",
+      "frekvence se nemění, mění se rychlost šíření",
+      "nemění se jeho vlnová délka"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Frekvenci určuje zdroj a při lomu se nemění. Mění se rychlost, a s ní i vlnová délka λ = v/f."
+    ],
+    "memory": "Při lomu stálá frekvence."
+  },
+  {
+    "id": 1432,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.54 · str. 134",
+    "sourcePages": "134",
+    "sourceItem": "9.54",
+    "question": "Které přibližné hodnoty platí?",
+    "options": [
+      "tíhové zrychlení g ≈ 10 m/s²",
+      "rychlost zvuku ve vzduchu ≈ 340 m/s ≈ 1200 km/h",
+      "rychlost světla ve vakuu ≈ 3·10⁵ km/s",
+      "normální atmosférický tlak ≈ 1000 kPa"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2
+    ],
+    "title": "Správně: A, B a C",
+    "paragraphs": [
+      "g = 9,81 m/s² ≈ 10 m/s², 340 m/s · 3,6 ≈ 1224 km/h a c ≈ 300 000 km/s. Normální tlak je asi 101 kPa, tedy desetkrát méně než 1000 kPa."
+    ],
+    "memory": "p ≈ 100 kPa, ne 1000."
+  },
+  {
+    "id": 1433,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.56 · str. 135",
+    "sourcePages": "135",
+    "sourceItem": "9.56",
+    "question": "Co je příčinou dvojlomu světla v některých krystalech?",
+    "options": [
+      "šíření světla v krystalu v různých směrech různou rychlostí",
+      "index lomu větší než 1,3",
+      "optická anizotropie",
+      "nehomogenita krystalu"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Dvojlom nastává v opticky anizotropních krystalech, například v islandském vápenci. Rychlost světla v nich závisí na směru a polarizaci, a paprsek se rozdělí na řádný a mimořádný."
+    ],
+    "memory": "Dvojlom = anizotropie."
+  },
+  {
+    "id": 1434,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.57 · str. 135",
+    "sourcePages": "135",
+    "sourceItem": "9.57",
+    "question": "V jakém rozmezí vlnových délek leží rentgenové záření?",
+    "options": [
+      "10⁸ nm až 10¹¹ nm",
+      "menší než 10⁻¹³ m",
+      "přibližně 10⁻⁸ m až 10⁻¹² m",
+      "10⁻³ m až 0,77·10⁻⁶ m"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Rentgenové záření má vlnové délky asi od 10 nm do 1 pm. Kratší vlny má záření gama, rozmezí 1 mm až 0,77 µm je infračervené záření."
+    ],
+    "memory": "RTG: 10 nm až 1 pm."
+  },
+  {
+    "id": 1435,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.58 · str. 135",
+    "sourcePages": "135",
+    "sourceItem": "9.58",
+    "question": "Co platí o rentgenovém záření?",
+    "options": [
+      "kosti ho pohlcují víc než svaly",
+      "svaly ho pohlcují víc než kosti",
+      "má kratší vlnové délky než záření gama",
+      "při pohlcení v látce se jeho energie mění ve vnitřní energii"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Pohlcování roste s protonovým číslem, kosti s vápníkem a fosforem proto na snímku vrhají stín. Pohlcená energie se mění ve vnitřní energii a může ionizovat. Záření gama má vlny kratší."
+    ],
+    "memory": "Kosti na snímku světlé."
+  },
+  {
+    "id": 1436,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.59 · str. 135",
+    "sourcePages": "135",
+    "sourceItem": "9.59",
+    "question": "Jak vzniká rentgenové záření a jaké má účinky?",
+    "options": [
+      "vzniká dopadem elektronů urychlených vysokým napětím na anodu rentgenky",
+      "vyzařuje ho rtuťová výbojka",
+      "vyvolává ionizaci",
+      "může v některých látkách vyvolat luminiscenci"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "title": "Správně: A, C a D",
+    "paragraphs": [
+      "V rentgence vzniká brzdné a charakteristické záření při dopadu elektronů na anodu. Je ionizující a na stínítkách a zesilovacích fóliích vyvolává světélkování. Rtuťová výbojka je zdrojem ultrafialového záření."
+    ],
+    "memory": "Rentgenka: elektrony na anodu."
+  },
+  {
+    "id": 1437,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.60 · str. 135",
+    "sourcePages": "135",
+    "sourceItem": "9.60",
+    "question": "Jak se určí rychlost elektromagnetického vlnění v prostředí s relativní permitivitou εr a relativní permeabilitou µr (c rychlost ve vakuu)?",
+    "options": [
+      "v = c/√(εr·µr)",
+      "v = c·√(εr·µr)",
+      "v = c/(εr·µr)",
+      "v = c·(εr·µr)"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Rychlost v prostředí je v = 1/√(ε·µ) = c/√(εr·µr). Index lomu je tedy n = √(εr·µr), u nemagnetických látek n ≈ √εr."
+    ],
+    "memory": "n = √(εr·µr)."
+  },
+  {
+    "id": 1438,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.62 · str. 135",
+    "sourcePages": "135",
+    "sourceItem": "9.62",
+    "question": "Co platí o rychlosti světla ve skle?",
+    "options": [
+      "je tím větší, čím větší je intenzita světla",
+      "je větší než ve vakuu",
+      "nezávisí na barvě světla",
+      "závisí na barvě světla"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Ve skle je rychlost menší než ve vakuu a závisí na vlnové délce (disperze), proto hranol rozkládá bílé světlo. Na intenzitě běžného světla nezávisí."
+    ],
+    "memory": "Disperze = rychlost podle barvy."
+  },
+  {
+    "id": 1439,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.63 · str. 136",
+    "sourcePages": "136",
+    "sourceItem": "9.63",
+    "question": "Co platí o rychlosti světla?",
+    "options": [
+      "ve vakuu je asi 3·10⁸ km/s",
+      "ve vakuu je asi 300 000 km/s",
+      "ve vzduchu je nepatrně vyšší než ve vakuu",
+      "ve vodě je asi 225·10⁸ m/s"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "c ≈ 3·10⁸ m/s = 300 000 km/s. Ve vzduchu je nepatrně menší a ve vodě asi 2,25·10⁸ m/s. Ve vakuu je rychlost největší."
+    ],
+    "memory": "c = 3·10⁸ m/s."
+  },
+  {
+    "id": 1440,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.64 · str. 136",
+    "sourcePages": "136",
+    "sourceItem": "9.64",
+    "question": "Co je světelná vlnoplocha?",
+    "options": [
+      "plocha, která je v každém bodě kolmá ke směru šíření světla",
+      "plocha, ve které leží světelné paprsky",
+      "rozhraní dvou prostředí, kde se světlo láme",
+      "zvlněná vodní hladina"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Vlnoplocha spojuje body kmitající se stejnou fází a paprsky jsou k ní kolmé. Bodový zdroj má kulové vlnoplochy, vzdálený zdroj rovinné."
+    ],
+    "memory": "Paprsek ⊥ vlnoplocha."
+  },
+  {
+    "id": 1441,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.65 · str. 136",
+    "sourcePages": "136",
+    "sourceItem": "9.65",
+    "question": "Co se stane se světelným vlněním při odrazu na rozhraní s opticky hustším prostředím?",
+    "options": [
+      "nezmění fázi",
+      "změní fázi na opačnou",
+      "změní vlnovou délku",
+      "změní frekvenci"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Při odrazu od opticky hustšího prostředí se fáze změní o π, jako u vlny na provaze s pevným koncem. Při odrazu od řidšího prostředí se fáze nemění. Frekvence ani vlnová délka odražené vlny se nemění."
+    ],
+    "memory": "Hustší = pevný konec, fáze o π."
+  },
+  {
+    "id": 1442,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.66 · str. 136",
+    "sourcePages": "136",
+    "sourceItem": "9.66",
+    "question": "Čeho je světelný rok vedlejší jednotkou?",
+    "options": [
+      "času",
+      "délky",
+      "osvětlení",
+      "světelného toku"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Světelný rok je vzdálenost, kterou světlo urazí ve vakuu za rok, asi 9,46·10¹⁵ m. Používá se v astronomii."
+    ],
+    "memory": "Světelný rok = vzdálenost."
+  },
+  {
+    "id": 1443,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.67 · str. 136",
+    "sourcePages": "136",
+    "sourceItem": "9.67",
+    "question": "Co je světelný tok?",
+    "options": [
+      "zářivá energie vyzářená zdrojem za 1 s",
+      "energie vyzářená za 1 s do prostorového úhlu 1 sr",
+      "energie vyzařovaná do prostorového úhlu 1 sr",
+      "část zářivého toku zdroje, která může vyvolat světelný vjem v lidském oku"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Světelný tok v lumenech hodnotí zářivý tok podle citlivosti oka. Zářivý tok ve wattech zahrnuje i neviditelné záření."
+    ],
+    "memory": "Světelný tok = to, co oko vidí."
+  },
+  {
+    "id": 1444,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.68 · str. 136",
+    "sourcePages": "136",
+    "sourceItem": "9.68",
+    "question": "Co je světlo?",
+    "options": [
+      "příčné mechanické vlnění v pevných látkách",
+      "příčné elektromagnetické vlnění",
+      "podélné elektromagnetické vlnění",
+      "proud fotonů"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "Světlo má dvojí povahu: projevuje se jako příčné elektromagnetické vlnění (ohyb, interference, polarizace) i jako proud fotonů (fotoelektrický jev)."
+    ],
+    "memory": "Vlna i částice."
+  },
+  {
+    "id": 1445,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.70 · str. 137",
+    "sourcePages": "137",
+    "sourceItem": "9.70",
+    "question": "Kolikrát je vlnová délka tvrdého rentgenového záření řádově menší než vlnová délka viditelného světla?",
+    "options": [
+      "100 000krát",
+      "100krát",
+      "je 100krát větší",
+      "je 100 000krát větší"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Tvrdé rentgenové záření má vlnovou délku asi 10⁻¹¹ m, viditelné světlo asi 5·10⁻⁷ m. Poměr je řádově 10⁴ až 10⁵, tedy zhruba statisíckrát kratší vlna."
+    ],
+    "memory": "Tvrdé RTG ≈ 10 pm."
+  },
+  {
+    "id": 1446,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.71 · str. 137",
+    "sourcePages": "137",
+    "sourceItem": "9.71",
+    "question": "Co rozumíme mřížkovou konstantou (periodou) optické mřížky?",
+    "options": [
+      "počet štěrbin na 1 mm",
+      "šířku jedné štěrbiny",
+      "vzdálenost středů dvou sousedních štěrbin",
+      "počet štěrbin na 1 cm"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Perioda mřížky b je vzdálenost středů sousedních štěrbin. Počet štěrbin na milimetr je její převrácená hodnota. Maxima leží ve směrech b·sin α = k·λ."
+    ],
+    "memory": "Perioda = vzdálenost štěrbin."
+  },
+  {
+    "id": 1447,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.73 · str. 137",
+    "sourcePages": "137",
+    "sourceItem": "9.73",
+    "question": "Co platí o ultrafialovém záření?",
+    "options": [
+      "má vyšší frekvenci než viditelné světlo",
+      "má kratší vlnové délky než viditelné světlo",
+      "má kratší vlnové délky než rentgenové záření",
+      "má vyšší frekvenci než infračervené záření"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "title": "Správně: A, B a D",
+    "paragraphs": [
+      "Ultrafialové záření leží mezi viditelným světlem a rentgenovým zářením. Má kratší vlny a vyšší frekvenci než světlo a infračervené záření, ale delší vlny než rentgenové záření."
+    ],
+    "memory": "Pořadí: IR, světlo, UV, RTG."
+  },
+  {
+    "id": 1448,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.74 · str. 137",
+    "sourcePages": "137",
+    "sourceItem": "9.74",
+    "question": "Jaké účinky a vlastnosti má ultrafialové záření?",
+    "options": [
+      "UV záření vysokých energií má ionizační účinky",
+      "křemenné sklo ho propouští s malými ztrátami, proto se z něj dělají baňky UV výbojek",
+      "draselné sklo ho pohlcuje",
+      "má kratší vlnovou délku než fialové světlo"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Krátkovlnné UV může ionizovat. Běžné sklo ho pohlcuje, proto se za oknem neopálíme, a výbojky mají baňky z křemenného skla. Leží za fialovým koncem spektra."
+    ],
+    "memory": "Sklo UV pohlcuje, křemen ne."
+  },
+  {
+    "id": 1449,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.78 · str. 138",
+    "sourcePages": "138",
+    "sourceItem": "9.78",
+    "question": "Oranžové světlo má vlnovou délku 600 nm. Jaká je přibližně jeho frekvence?",
+    "options": [
+      "5·10¹⁴ s⁻¹",
+      "5·10² s⁻¹",
+      "2·10⁻¹⁵ s⁻¹",
+      "2·10¹⁵ s"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "f = c/λ = 3·10⁸ / 6·10⁻⁷ = 5·10¹⁴ Hz."
+    ],
+    "memory": "f = c/λ."
+  },
+  {
+    "id": 1450,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektromagnetické vlnění",
+    "bookRef": "UK · Fyzika · Elektromagnetické vlnění · úloha 9.80 · str. 138",
+    "sourcePages": "138",
+    "sourceItem": "9.80",
+    "question": "Co může být zdrojem elektromagnetického vlnění?",
+    "options": [
+      "nepohybující se vodič s konstantním proudem",
+      "cívka připojená k oscilátoru",
+      "vodič s časově proměnným proudem",
+      "rotující magnet"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: B, C a D",
+    "paragraphs": [
+      "Elektromagnetické vlnění vzniká, když se mění magnetické a elektrické pole, tedy při změnách proudu nebo pohybu magnetu. Klidný vodič se stálým proudem vytváří jen stálé pole."
+    ],
+    "memory": "Vlnění vyzařuje proměnné pole."
+  }
+]
