@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 101,
+    "subject": "Fyzika",
+    "category": "Fyzika · Hydrostatika",
+    "bookRef": "LF MU · Fyzika · Hydrostatika 1 · str. 19",
+    "sourcePages": "19",
+    "sourceItem": "1",
+    "question": "Na kterém zákonu je založen hydraulický lis?",
+    "options": [
+      "na Pascalově zákonu",
+      "na Archimedově zákonu",
+      "na Daltonově zákonu",
+      "na rovnici spojitosti"
+    ],
+    "answer": 0,
+    "title": "na Pascalově zákonu",
+    "paragraphs": [
+      "Tlak vyvolaný malou silou na malém pístu se podle Pascalova zákona přenáší do celé kapaliny beze změny. Na velkém pístu proto stejný tlak vytvoří úměrně větší sílu: F₁/S₁ = F₂/S₂."
+    ],
+    "memory": "Lis = Pascal: stejný tlak, větší plocha, větší síla."
+  },
+  {
+    "id": 102,
+    "subject": "Fyzika",
+    "category": "Fyzika · Hydrostatika",
+    "bookRef": "LF MU · Fyzika · Hydrostatika 3 · str. 19",
+    "sourcePages": "19",
+    "sourceItem": "3",
+    "question": "Na čem nezávisí vztlaková síla působící na těleso v kapalině?",
+    "options": [
+      "na objemu ponořené části tělesa",
+      "na hustotě ponořeného tělesa",
+      "na hustotě kapaliny",
+      "na tíhovém zrychlení"
+    ],
+    "answer": 1,
+    "title": "na hustotě ponořeného tělesa",
+    "paragraphs": [
+      "Vztlaková síla je F = V·ρ(kapaliny)·g, kde V je objem ponořené části. Hustota samotného tělesa rozhoduje jen o tom, zda těleso plave, nebo klesá."
+    ],
+    "memory": "Archimedes počítá s kapalinou, ne s materiálem tělesa."
+  },
+  {
+    "id": 103,
+    "subject": "Fyzika",
+    "category": "Fyzika · Hydrostatika",
+    "bookRef": "LF MU · Fyzika · Hydrostatika 6 · str. 19",
+    "sourcePages": "19",
+    "sourceItem": "6",
+    "question": "Dřevěný plovák tvaru nízkého válce je ponořen do hloubky 2,00 cm a 4,00 cm vyčnívá nad hladinu kapaliny o hustotě 1,00 kg·dm⁻³. Jaká je hustota dřeva?",
+    "options": [
+      "500 kg·m⁻³",
+      "asi 667 kg·m⁻³",
+      "asi 333 kg·m⁻³",
+      "1 000 kg·m⁻³"
+    ],
+    "answer": 2,
+    "title": "asi 333 kg·m⁻³",
+    "paragraphs": [
+      "U plovoucího tělesa platí, že poměr hustot tělesa a kapaliny se rovná ponořenému podílu objemu. Ponořena je 2/6 = 1/3 výšky válce, hustota dřeva je tedy 1 000/3 ≈ 333 kg·m⁻³."
+    ],
+    "memory": "Ponořená část = poměr hustot."
+  },
+  {
+    "id": 104,
+    "subject": "Fyzika",
+    "category": "Fyzika · Hydrostatika",
+    "bookRef": "LF MU · Fyzika · Hydrostatika 7 · str. 19",
+    "sourcePages": "19",
+    "sourceItem": "7",
+    "question": "Jaký celkový tlak naměříme přibližně 10 m pod hladinou moře?",
+    "options": [
+      "asi atmosférický tlak",
+      "asi polovinu atmosférického tlaku",
+      "asi desetinásobek atmosférického tlaku",
+      "asi dvojnásobek atmosférického tlaku"
+    ],
+    "answer": 3,
+    "title": "asi dvojnásobek atmosférického tlaku",
+    "paragraphs": [
+      "Hydrostatický tlak deseti metrů vody je ρgh ≈ 1 000 · 10 · 10 = 100 kPa, tedy zhruba jedna atmosféra. K němu se přičítá atmosférický tlak nad hladinou, celkem asi 200 kPa."
+    ],
+    "memory": "Každých 10 m vody přidá jednu atmosféru."
+  },
+  {
+    "id": 105,
+    "subject": "Fyzika",
+    "category": "Fyzika · Hydrostatika",
+    "bookRef": "LF MU · Fyzika · Hydrostatika 9 · str. 19",
+    "sourcePages": "19",
+    "sourceItem": "9",
+    "question": "Kolik pascalů odpovídá jednomu torru (milimetru rtuťového sloupce)?",
+    "options": [
+      "přibližně 133 Pa",
+      "přesně 1 Pa",
+      "přibližně 1 000 hPa",
+      "přibližně 10 Pa"
+    ],
+    "answer": 0,
+    "title": "přibližně 133 Pa",
+    "paragraphs": [
+      "Normální atmosférický tlak 101 325 Pa odpovídá 760 torrům, jeden torr je tedy asi 133 Pa. Klíč uvádí odpověď „e“, žádná z nabídnutých možností v originále nevyhovuje."
+    ],
+    "memory": "760 torrů = 101 kPa, 1 torr ≈ 133 Pa."
+  },
+  {
+    "id": 106,
+    "subject": "Fyzika",
+    "category": "Fyzika · Hydrostatika",
+    "bookRef": "LF MU · Fyzika · Hydrostatika 11 · str. 19",
+    "sourcePages": "19",
+    "sourceItem": "11",
+    "question": "Rtuťový barometr přeneseme ze sklepa mrakodrapu na jeho střechu. Co se stane se sloupcem rtuti?",
+    "options": [
+      "prodlouží se",
+      "zkrátí se",
+      "nezmění se",
+      "změní se jen vlivem nehomogenity gravitačního pole"
+    ],
+    "answer": 1,
+    "title": "zkrátí se",
+    "paragraphs": [
+      "S výškou klesá atmosférický tlak, protože nad barometrem je méně vzduchu. Nižší tlak udrží kratší sloupec rtuti."
+    ],
+    "memory": "Nahoře méně vzduchu, menší tlak, kratší sloupec."
+  },
+  {
+    "id": 107,
+    "subject": "Fyzika",
+    "category": "Fyzika · Hydrostatika",
+    "bookRef": "LF MU · Fyzika · Hydrostatika 14 · str. 20",
+    "sourcePages": "20",
+    "sourceItem": "14",
+    "question": "V nestlačitelné kapalině se volně vznáší tuhé nestlačitelné těleso. Co se stane, když poněkud zvýšíme tlak nad kapalinou?",
+    "options": [
+      "těleso poklesne ke dnu",
+      "těleso stoupne k hladině",
+      "těleso zůstane ve stejné poloze",
+      "těleso začne kmitat kolem původní polohy"
+    ],
+    "answer": 2,
+    "title": "těleso zůstane ve stejné poloze",
+    "paragraphs": [
+      "Zvýšený vnější tlak se podle Pascalova zákona přenese do celé kapaliny rovnoměrně. Protože se objem tělesa ani hustota kapaliny nezmění, nezmění se ani vztlaková síla a těleso se dál vznáší. Klíč: „e“."
+    ],
+    "memory": "Nic se nestlačí, nic se nezmění."
+  },
+  {
+    "id": 108,
+    "subject": "Fyzika",
+    "category": "Fyzika · Hydrostatika",
+    "bookRef": "LF MU · Fyzika · Hydrostatika 15 · str. 20",
+    "sourcePages": "20",
+    "sourceItem": "15",
+    "question": "Proč se bubliny vzduchu při výstupu k hladině vody zvětšují?",
+    "options": [
+      "protože se snižuje jejich povrchové napětí",
+      "protože roste tlak uvnitř bublin",
+      "protože se snižuje vztlaková síla",
+      "protože se snižuje hydrostatický tlak okolní vody"
+    ],
+    "answer": 3,
+    "title": "protože se snižuje hydrostatický tlak okolní vody",
+    "paragraphs": [
+      "Čím blíž k hladině, tím menší je hydrostatický tlak vody. Plyn v bublině se podle Boyleova–Mariottova zákona rozpíná a bublina roste. Větší objem znamená i větší vztlakovou sílu."
+    ],
+    "memory": "Méně vody nad bublinou, víc místa pro plyn."
+  },
+  {
+    "id": 109,
+    "subject": "Fyzika",
+    "category": "Fyzika · Hydrostatika",
+    "bookRef": "LF MU · Fyzika · Hydrostatika 21 · str. 20",
+    "sourcePages": "20",
+    "sourceItem": "21",
+    "question": "Záklopku tlakové nádoby je nutné přidržovat silou 1 000 N, je-li uvnitř přetlak 20,0 MPa. Jakou plochu má záklopka?",
+    "options": [
+      "0,500 cm²",
+      "0,200 cm²",
+      "0,50 mm²",
+      "5,00 cm²"
+    ],
+    "answer": 0,
+    "title": "0,500 cm²",
+    "paragraphs": [
+      "S = F/p = 1 000 N / 2,0 · 10⁷ Pa = 5 · 10⁻⁵ m² = 0,5 cm²."
+    ],
+    "memory": "Plocha = síla děleno tlakem."
+  },
+  {
+    "id": 110,
+    "subject": "Fyzika",
+    "category": "Fyzika · Hydrostatika",
+    "bookRef": "LF MU · Fyzika · Hydrostatika 24 · str. 21",
+    "sourcePages": "21",
+    "sourceItem": "24",
+    "question": "Na které těleso působí při úplném ponoření větší vztlaková síla?",
+    "options": [
+      "na kouli o průměru 1 m než na krychli o hraně 1 m",
+      "na krychli o hraně 1 m než na kouli o průměru 1 m",
+      "na kouli než na krychli o stejném objemu",
+      "na krychli než na kouli o stejném objemu"
+    ],
+    "answer": 1,
+    "title": "na krychli o hraně 1 m než na kouli o průměru 1 m",
+    "paragraphs": [
+      "Vztlak závisí jen na ponořeném objemu. Krychle o hraně 1 m má objem 1 m³, koule o průměru 1 m jen asi 0,52 m³. Tělesa stejného objemu jsou nadlehčována stejně bez ohledu na tvar."
+    ],
+    "memory": "Koule se do krychle vejde, má menší objem."
+  },
+  {
+    "id": 111,
+    "subject": "Fyzika",
+    "category": "Fyzika · Hydrostatika",
+    "bookRef": "LF MU · Fyzika · Hydrostatika 27 · str. 21",
+    "sourcePages": "21",
+    "sourceItem": "27",
+    "question": "O kolik se přibližně zvýší tlak po každém ponoření o 10 m hlouběji pod hladinu vody?",
+    "options": [
+      "zdvojnásobí se",
+      "o 10 %",
+      "o hodnotu srovnatelnou s atmosférickým tlakem",
+      "asi o 10 kPa"
+    ],
+    "answer": 2,
+    "title": "o hodnotu srovnatelnou s atmosférickým tlakem",
+    "paragraphs": [
+      "Δp = ρgΔh ≈ 1 000 · 10 · 10 = 100 kPa, to je přibližně jedna atmosféra. Tlak tedy roste lineárně, nezdvojnásobuje se s každými deseti metry."
+    ],
+    "memory": "10 m vody ≈ 1 atmosféra navíc."
+  },
+  {
+    "id": 112,
+    "subject": "Fyzika",
+    "category": "Fyzika · Hydrostatika",
+    "bookRef": "LF MU · Fyzika · Hydrostatika 29 · str. 21",
+    "sourcePages": "21",
+    "sourceItem": "29",
+    "question": "Co se stane se sloupcem rtuti, skloníme-li trubici rtuťového barometru ze svislé polohy do šikmé?",
+    "options": [
+      "délka sloupce se zkrátí",
+      "délka sloupce se nezmění",
+      "délka sloupce se nezmění, pokud nakloníme i misku",
+      "délka sloupce se prodlouží"
+    ],
+    "answer": 3,
+    "title": "délka sloupce se prodlouží",
+    "paragraphs": [
+      "Atmosférický tlak vyrovnává tlak sloupce rtuti o určité svislé výšce. Při náklonu musí rtuť vyplnit delší úsek šikmé trubice, aby svislá výška zůstala stejná."
+    ],
+    "memory": "Rozhoduje svislá výška, šikmo je cesta delší."
+  },
+  {
+    "id": 113,
+    "subject": "Fyzika",
+    "category": "Fyzika · Hydrostatika",
+    "bookRef": "LF MU · Fyzika · Hydrostatika 30 · str. 21",
+    "sourcePages": "21",
+    "sourceItem": "30",
+    "question": "Která věta vystihuje podstatu Pascalova zákona?",
+    "options": [
+      "tlak vyvolaný vnější silou na povrch kapaliny je ve všech místech kapaliny stejný",
+      "tlak v kapalinách se šíří všemi směry",
+      "hydrostatický tlak je přímo úměrný hloubce",
+      "hydrostatický tlak je ve všech místech kapaliny stejný"
+    ],
+    "answer": 0,
+    "title": "tlak vyvolaný vnější silou na povrch kapaliny je ve všech místech kapaliny stejný",
+    "paragraphs": [
+      "Pascalův zákon se týká tlaku od vnější síly, který se v kapalině přenáší rovnoměrně. Hydrostatický tlak od tíhy kapaliny naopak s hloubkou roste."
+    ],
+    "memory": "Vnější tlak všude stejně, hydrostatický s hloubkou roste."
+  },
+  {
+    "id": 114,
+    "subject": "Fyzika",
+    "category": "Fyzika · Hydrostatika",
+    "bookRef": "LF MU · Fyzika · Hydrostatika 32 · str. 22",
+    "sourcePages": "22",
+    "sourceItem": "32",
+    "question": "Vyvážené rovnoramenné váhy jsou ponořeny ve vodě. Na jednu misku položíme 1 kg hliníku, na druhou 1 kg olova. Co se stane?",
+    "options": [
+      "poklesne miska s hliníkem",
+      "poklesne miska s olovem",
+      "rovnováha se nezmění",
+      "výsledek závisí jen na umístění předmětů na miskách"
+    ],
+    "answer": 1,
+    "title": "poklesne miska s olovem",
+    "paragraphs": [
+      "Olovo má mnohem větší hustotu, takže 1 kg olova má menší objem než 1 kg hliníku. Na hliník působí větší vztlaková síla, je ve vodě „lehčí“, a miska s olovem klesne."
+    ],
+    "memory": "Stejná hmotnost, menší objem, menší vztlak."
+  },
+  {
+    "id": 115,
+    "subject": "Fyzika",
+    "category": "Fyzika · Hydrodynamika",
+    "bookRef": "LF MU · Fyzika · Hydrodynamika 33 · str. 22",
+    "sourcePages": "22",
+    "sourceItem": "33",
+    "question": "Na základě čeho lze vysvětlit aerodynamický vztlak křídla letadla?",
+    "options": [
+      "Archimedova zákona",
+      "Pascalova zákona",
+      "Bernoulliho rovnice",
+      "rovnice spojitosti"
+    ],
+    "answer": 2,
+    "title": "Bernoulliho rovnice",
+    "paragraphs": [
+      "Vzduch nad zakřiveným horním povrchem křídla proudí rychleji a podle Bernoulliho rovnice má nižší tlak než pod křídlem. Rozdíl tlaků vytváří vztlakovou sílu."
+    ],
+    "memory": "Rychlejší proud = nižší tlak."
+  },
+  {
+    "id": 116,
+    "subject": "Fyzika",
+    "category": "Fyzika · Hydrodynamika",
+    "bookRef": "LF MU · Fyzika · Hydrodynamika 35 · str. 22",
+    "sourcePages": "22",
+    "sourceItem": "35",
+    "question": "Kterého zákona je zvláštní formulací rovnice spojitosti S·v = konst.?",
+    "options": [
+      "zákona zachování energie",
+      "zákona zachování hybnosti",
+      "Bernoulliho rovnice",
+      "zákona zachování hmoty"
+    ],
+    "answer": 3,
+    "title": "zákona zachování hmoty",
+    "paragraphs": [
+      "Kolik nestlačitelné kapaliny vteče do trubice, tolik jí musí každým průřezem i odtéci. Objemový průtok S·v je proto stálý, což vyjadřuje zachování hmoty."
+    ],
+    "memory": "Co vteče, musí i vytéct."
+  },
+  {
+    "id": 117,
+    "subject": "Fyzika",
+    "category": "Fyzika · Hydrodynamika",
+    "bookRef": "LF MU · Fyzika · Hydrodynamika 38 · str. 22",
+    "sourcePages": "22",
+    "sourceItem": "38",
+    "question": "Co vyjadřuje člen ½ρv² v Bernoulliho rovnici?",
+    "options": [
+      "kinetickou energii jednotkového objemu proudící kapaliny",
+      "kinetickou energii všeho, co proteklo za jednotku času",
+      "množství kapaliny proteklé za jednotku času",
+      "potenciální energii jednotkového objemu kapaliny"
+    ],
+    "answer": 0,
+    "title": "kinetickou energii jednotkového objemu proudící kapaliny",
+    "paragraphs": [
+      "Kinetická energie ½mv² dělená objemem dává ½ρv². Tento člen má jednotku pascal, proto se mu říká dynamický tlak. Potenciální energii jednotkového objemu vyjadřuje člen hρg."
+    ],
+    "memory": "½mv² děleno V = ½ρv²."
+  },
+  {
+    "id": 118,
+    "subject": "Fyzika",
+    "category": "Fyzika · Hydrodynamika",
+    "bookRef": "LF MU · Fyzika · Hydrodynamika 40 · str. 23",
+    "sourcePages": "23",
+    "sourceItem": "40",
+    "question": "Voda o hustotě 1 000 kg·m⁻³ protéká potrubím rychlostí 5,00 m·s⁻¹. Jakou kinetickou energii má 1,00 m³ proudící vody?",
+    "options": [
+      "5,00 kJ",
+      "12,5 kJ",
+      "25,0 kJ",
+      "zadání nestačí k výpočtu"
+    ],
+    "answer": 1,
+    "title": "12,5 kJ",
+    "paragraphs": [
+      "E = ½ m v² = ½ · 1 000 kg · (5 m·s⁻¹)² = 12 500 J. Průřez potrubí není k výpočtu potřeba."
+    ],
+    "memory": "Krychlový metr vody je tuna."
+  },
+  {
+    "id": 119,
+    "subject": "Fyzika",
+    "category": "Fyzika · Hydrodynamika",
+    "bookRef": "LF MU · Fyzika · Hydrodynamika 41 · str. 23",
+    "sourcePages": "23",
+    "sourceItem": "41",
+    "question": "Ke které vlastnosti kapaliny se vztahuje její rozdílná „ochota“ k toku?",
+    "options": [
+      "k hustotě",
+      "k povrchovému napětí",
+      "k viskozitě",
+      "k hydrodynamickému tlaku"
+    ],
+    "answer": 2,
+    "title": "k viskozitě",
+    "paragraphs": [
+      "Viskozita je vnitřní tření kapaliny. Med nebo olej mají velkou viskozitu a tečou pomalu, voda nebo líh malou."
+    ],
+    "memory": "Med je viskózní, voda ne."
+  },
+  {
+    "id": 120,
+    "subject": "Fyzika",
+    "category": "Fyzika · Hydrodynamika",
+    "bookRef": "LF MU · Fyzika · Hydrodynamika 48 · str. 23",
+    "sourcePages": "23",
+    "sourceItem": "48",
+    "question": "Užší část trubice má třikrát menší poloměr než širší. V jakém poměru jsou rychlosti proudění v užší a širší části?",
+    "options": [
+      "3 : 1",
+      "√3 : 1",
+      "1 : 9",
+      "9 : 1"
+    ],
+    "answer": 3,
+    "title": "9 : 1",
+    "paragraphs": [
+      "Podle rovnice spojitosti je rychlost nepřímo úměrná průřezu, a průřez je úměrný druhé mocnině poloměru. Trojnásobně menší poloměr znamená devětkrát menší průřez a devětkrát větší rychlost."
+    ],
+    "memory": "Poloměr na druhou, rychlost obráceně."
+  },
+  {
+    "id": 121,
+    "subject": "Fyzika",
+    "category": "Fyzika · Hydrodynamika",
+    "bookRef": "LF MU · Fyzika · Hydrodynamika 51 · str. 24",
+    "sourcePages": "24",
+    "sourceItem": "51",
+    "question": "Odporová síla prostředí při jisté rychlosti tělesa náhle prudce vzroste. Čím je to způsobeno?",
+    "options": [
+      "změnou laminárního proudění v turbulentní",
+      "změnou turbulentního proudění v laminární",
+      "vznikem zhuštěné vrstvy tekutiny před tělesem",
+      "elektrickým nábojem vzniklým třením"
+    ],
+    "answer": 0,
+    "title": "změnou laminárního proudění v turbulentní",
+    "paragraphs": [
+      "Při malých rychlostech tekutina obtéká těleso v pravidelných vrstvách (laminárně). Nad kritickou rychlostí vznikají víry a turbulentní proudění klade mnohem větší odpor."
+    ],
+    "memory": "Víry brzdí víc než hladký tok."
+  },
+  {
+    "id": 122,
+    "subject": "Fyzika",
+    "category": "Fyzika · Hydrodynamika",
+    "bookRef": "LF MU · Fyzika · Hydrodynamika 54 · str. 24",
+    "sourcePages": "24",
+    "sourceItem": "54",
+    "question": "Z otvoru u dna otevřeného sudu začala tryskat kapalina rychlostí 2,00 m·s⁻¹. Jak vysoko byla hladina nad otvorem (g = 10,0 m·s⁻²)?",
+    "options": [
+      "2,00 m",
+      "20,0 cm",
+      "50,0 cm",
+      "10,0 cm"
+    ],
+    "answer": 1,
+    "title": "20,0 cm",
+    "paragraphs": [
+      "Podle Torricelliho vztahu v = √(2gh), tedy h = v²/(2g) = 4/20 = 0,2 m."
+    ],
+    "memory": "Výtok jako volný pád z výšky hladiny."
+  },
+  {
+    "id": 123,
+    "subject": "Fyzika",
+    "category": "Fyzika · Pružnost",
+    "bookRef": "LF MU · Fyzika · Pružnost 56 · str. 24",
+    "sourcePages": "24",
+    "sourceItem": "56",
+    "question": "Kovová tyč o průřezu 1 cm² má modul pružnosti v tahu 100 GPa. Jaké relativní prodloužení vyvolá síla 10,0 kN?",
+    "options": [
+      "1,00 %",
+      "0,01 %",
+      "0,10 %",
+      "0,001 %"
+    ],
+    "answer": 2,
+    "title": "0,10 %",
+    "paragraphs": [
+      "Napětí σ = F/S = 10⁴ N / 10⁻⁴ m² = 10⁸ Pa. Relativní prodloužení ε = σ/E = 10⁸/10¹¹ = 10⁻³ = 0,1 %."
+    ],
+    "memory": "Hookův zákon: σ = E·ε."
+  },
+  {
+    "id": 124,
+    "subject": "Fyzika",
+    "category": "Fyzika · Pružnost",
+    "bookRef": "LF MU · Fyzika · Pružnost 59 · str. 24",
+    "sourcePages": "24",
+    "sourceItem": "59",
+    "question": "Jak je definován modul pružnosti v tahu E?",
+    "options": [
+      "jako podíl relativního prodloužení a normálového napětí",
+      "jako součin relativního prodloužení a normálového napětí",
+      "jako podíl prodloužení a původní délky tělesa",
+      "jako podíl normálového napětí a relativního prodloužení"
+    ],
+    "answer": 3,
+    "title": "jako podíl normálového napětí a relativního prodloužení",
+    "paragraphs": [
+      "Z Hookova zákona σ = E·ε plyne E = σ/ε. Relativní prodloužení je bezrozměrné, proto má modul pružnosti stejnou jednotku jako napětí, tedy pascal."
+    ],
+    "memory": "E = σ/ε, jednotka pascal."
+  },
+  {
+    "id": 125,
+    "subject": "Fyzika",
+    "category": "Fyzika · Pružnost",
+    "bookRef": "LF MU · Fyzika · Pružnost 62 · str. 25",
+    "sourcePages": "25",
+    "sourceItem": "62",
+    "question": "Jakou jednotku má normálové napětí?",
+    "options": [
+      "pascal",
+      "newton",
+      "newton na metr",
+      "joule"
+    ],
+    "answer": 0,
+    "title": "pascal",
+    "paragraphs": [
+      "Normálové napětí je síla připadající na jednotku plochy průřezu, σ = F/S, jednotkou je tedy N·m⁻² = Pa. Newton na metr je jednotka povrchového napětí."
+    ],
+    "memory": "Síla na plochu = pascal, jako tlak."
+  },
+  {
+    "id": 126,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 1 · str. 73",
+    "sourcePages": "73",
+    "sourceItem": "1",
+    "question": "Jaká je hmotnost glukózy ve 240 g 0,80% roztoku glukózy?",
+    "options": [
+      "2,00 g",
+      "1,92 g",
+      "3,00 g",
+      "0,19 g"
+    ],
+    "answer": 1,
+    "title": "1,92 g",
+    "paragraphs": [
+      "m = w · m(roztoku) = 0,0080 · 240 g = 1,92 g. Klíč uvádí odpověď „e“, žádná z původních možností nevyhovuje."
+    ],
+    "memory": "Procenta převeď na desetinné číslo a vynásob."
+  },
+  {
+    "id": 127,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 3 · str. 73",
+    "sourcePages": "73",
+    "sourceItem": "3",
+    "question": "Jakou hmotnost 10% roztoku NaCl potřebujeme k přípravě 250 g 3% roztoku?",
+    "options": [
+      "58,3 g",
+      "83,3 g",
+      "75,0 g",
+      "175 g"
+    ],
+    "answer": 2,
+    "title": "75,0 g",
+    "paragraphs": [
+      "Množství NaCl se nemění: 250 g · 0,03 = 7,5 g. Ten obsahuje 7,5/0,10 = 75 g desetiprocentního roztoku, zbytek doplní voda."
+    ],
+    "memory": "m₁w₁ = m₂w₂."
+  },
+  {
+    "id": 128,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 4 · str. 73",
+    "sourcePages": "73",
+    "sourceItem": "4",
+    "question": "Jaký hmotnostní zlomek má roztok připravený rozpuštěním 3 kg látky ve 12 kg vody?",
+    "options": [
+      "25 %",
+      "40 %",
+      "36 %",
+      "20 %"
+    ],
+    "answer": 3,
+    "title": "20 %",
+    "paragraphs": [
+      "Hmotnost roztoku je 3 + 12 = 15 kg, w = 3/15 = 0,20. Chybou je dělit jen hmotností vody (3/12 = 25 %)."
+    ],
+    "memory": "Děl hmotností celého roztoku, ne jen vody."
+  },
+  {
+    "id": 129,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 8 · str. 73",
+    "sourcePages": "73",
+    "sourceItem": "8",
+    "question": "Kolik vody je třeba přidat k 1,5 kg 20% roztoku NaCl, aby vznikl 5% roztok?",
+    "options": [
+      "4,5 kg",
+      "7,5 kg",
+      "2,5 kg",
+      "6,0 kg"
+    ],
+    "answer": 0,
+    "title": "4,5 kg",
+    "paragraphs": [
+      "NaCl je 1,5 · 0,20 = 0,30 kg. Pětiprocentní roztok s touto solí má hmotnost 0,30/0,05 = 6,0 kg. Přidat je tedy třeba 6,0 − 1,5 = 4,5 kg vody."
+    ],
+    "memory": "Nejdřív výsledná hmotnost, pak odečti původní roztok."
+  },
+  {
+    "id": 130,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 15 · str. 74",
+    "sourcePages": "74",
+    "sourceItem": "15",
+    "question": "500 cm³ roztoku o hustotě 1,200 kg·dm⁻³ obsahuje 120 g rozpuštěné látky. Jaký je hmotnostní zlomek látky?",
+    "options": [
+      "0,240",
+      "0,200",
+      "0,288",
+      "0,167"
+    ],
+    "answer": 1,
+    "title": "0,200",
+    "paragraphs": [
+      "Hmotnost roztoku je 0,500 dm³ · 1,200 kg·dm⁻³ = 600 g, w = 120/600 = 0,200. Klíč uvádí „e“, správná hodnota mezi původními možnostmi chybí."
+    ],
+    "memory": "Objem × hustota = hmotnost roztoku."
+  },
+  {
+    "id": 131,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 17 · str. 74",
+    "sourcePages": "74",
+    "sourceItem": "17",
+    "question": "Kolik glukózy (Mr = 180) je potřeba k přípravě 2 dm³ roztoku o koncentraci 0,3 mol·dm⁻³?",
+    "options": [
+      "54 g",
+      "90 g",
+      "108 g",
+      "300 g"
+    ],
+    "answer": 2,
+    "title": "108 g",
+    "paragraphs": [
+      "n = c · V = 0,3 · 2 = 0,6 mol, m = n · M = 0,6 · 180 = 108 g."
+    ],
+    "memory": "m = c · V · M."
+  },
+  {
+    "id": 132,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 18 · str. 74",
+    "sourcePages": "74",
+    "sourceItem": "18",
+    "question": "Ve slinách bylo zjištěno 0,12 ppm fluoridů (hustota slin 1,00 g/ml, Ar(F) = 19). Jaká je látková koncentrace iontů F⁻?",
+    "options": [
+      "asi 3,2 µmol/l",
+      "asi 4,6 µmol/l",
+      "asi 6,3 mmol/l",
+      "asi 6,3 µmol/l"
+    ],
+    "answer": 3,
+    "title": "asi 6,3 µmol/l",
+    "paragraphs": [
+      "0,12 ppm znamená 0,12 mg v 1 kg, tedy v 1 litru slin. 0,12 mg / 19 mg·mmol⁻¹ ≈ 0,0063 mmol = 6,3 µmol v litru."
+    ],
+    "memory": "1 ppm ve vodném roztoku ≈ 1 mg/l."
+  },
+  {
+    "id": 133,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 19 · str. 74",
+    "sourcePages": "74",
+    "sourceItem": "19",
+    "question": "Ve vzorku 8 ml krve bylo nalezeno 18 µl ethanolu. Kolik objemových promile alkoholu krev obsahuje?",
+    "options": [
+      "asi 2,3 ‰",
+      "asi 1,1 ‰",
+      "asi 4,5 ‰",
+      "asi 0,2 ‰"
+    ],
+    "answer": 0,
+    "title": "asi 2,3 ‰",
+    "paragraphs": [
+      "18 µl = 0,018 ml. Podíl 0,018/8 = 0,00225, tedy 2,25 ‰ (promile jsou tisíciny)."
+    ],
+    "memory": "Promile = tisíciny, procenta = setiny."
+  },
+  {
+    "id": 134,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 26 · str. 74",
+    "sourcePages": "74",
+    "sourceItem": "26",
+    "question": "Jaký objem HCl o koncentraci 12 mol·dm⁻³ je potřeba k přípravě 200 cm³ roztoku o koncentraci 4 mol·dm⁻³?",
+    "options": [
+      "50,0 cm³",
+      "66,7 cm³",
+      "33,3 cm³",
+      "80,0 cm³"
+    ],
+    "answer": 1,
+    "title": "66,7 cm³",
+    "paragraphs": [
+      "Při ředění se látkové množství nemění: c₁V₁ = c₂V₂, V₁ = 4 · 200 / 12 ≈ 66,7 cm³."
+    ],
+    "memory": "c₁V₁ = c₂V₂."
+  },
+  {
+    "id": 135,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 30 · str. 75",
+    "sourcePages": "75",
+    "sourceItem": "30",
+    "question": "Ke 100 cm³ roztoku o koncentraci 0,20 mol·dm⁻³ přidáme 150 cm³ vody. Jaká je výsledná koncentrace?",
+    "options": [
+      "0,133 mol·dm⁻³",
+      "0,120 mol·dm⁻³",
+      "0,080 mol·dm⁻³",
+      "0,174 mol·dm⁻³"
+    ],
+    "answer": 2,
+    "title": "0,080 mol·dm⁻³",
+    "paragraphs": [
+      "Látkové množství 0,020 mol se rozdělí do celkového objemu 250 cm³: c = 0,020/0,250 = 0,080 mol·dm⁻³. Chybou je dělit jen přidanou vodou."
+    ],
+    "memory": "Děl celkovým objemem po ředění."
+  },
+  {
+    "id": 136,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 33 · str. 75",
+    "sourcePages": "75",
+    "sourceItem": "33",
+    "question": "Jaká je látková koncentrace HCl (Mr = 36,5) v 32% roztoku o hustotě 1,15 kg·dm⁻³?",
+    "options": [
+      "7,62 mol·dm⁻³",
+      "8,77 mol·dm⁻³",
+      "13,12 mol·dm⁻³",
+      "10,08 mol·dm⁻³"
+    ],
+    "answer": 3,
+    "title": "10,08 mol·dm⁻³",
+    "paragraphs": [
+      "1 dm³ roztoku váží 1 150 g a obsahuje 0,32 · 1 150 = 368 g HCl. To je 368/36,5 ≈ 10,08 mol v 1 dm³."
+    ],
+    "memory": "Vezmi 1 litr: hustota → hmotnost → procenta → moly."
+  },
+  {
+    "id": 137,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 40 · str. 76",
+    "sourcePages": "76",
+    "sourceItem": "40",
+    "question": "Smícháme stejné objemy roztoků H₂SO₄ a KOH, oba o koncentraci 0,2 mol·dm⁻³. Jakou reakci bude mít výsledný roztok?",
+    "options": [
+      "zřetelně kyselou",
+      "neutrální",
+      "zřetelně zásaditou",
+      "jen velmi slabě kyselou"
+    ],
+    "answer": 0,
+    "title": "zřetelně kyselou",
+    "paragraphs": [
+      "Kyselina sírová je dvojsytná, jeden mol dává dva moly H⁺. Na neutralizaci by bylo třeba dvojnásobné množství KOH, polovina kyseliny zůstane nezneutralizovaná."
+    ],
+    "memory": "H₂SO₄ potřebuje dvě OH⁻ na jednu molekulu."
+  },
+  {
+    "id": 138,
+    "subject": "Chemie",
+    "category": "Chemie · Roztoky",
+    "bookRef": "LF MU · Chemie · Roztoky 48 · str. 76",
+    "sourcePages": "76",
+    "sourceItem": "48",
+    "question": "Kolik roztoku Ba(OH)₂ je potřeba k neutralizaci 100 cm³ kyseliny sírové o koncentraci 0,2 mol·dm⁻³?",
+    "options": [
+      "100 cm³ roztoku o koncentraci 0,10 mol·dm⁻³",
+      "80 cm³ roztoku o koncentraci 0,25 mol·dm⁻³",
+      "200 cm³ roztoku o koncentraci 0,20 mol·dm⁻³",
+      "80 cm³ roztoku o koncentraci 0,50 mol·dm⁻³"
+    ],
+    "answer": 1,
+    "title": "80 cm³ roztoku o koncentraci 0,25 mol·dm⁻³",
+    "paragraphs": [
+      "H₂SO₄ + Ba(OH)₂ → BaSO₄ + 2 H₂O reaguje v poměru 1 : 1. Kyseliny je 0,1 · 0,2 = 0,020 mol, stejné množství obsahuje 80 cm³ roztoku o koncentraci 0,25 mol·dm⁻³."
+    ],
+    "memory": "Dvojsytná kyselina a dvojsytná zásada: 1 : 1."
+  },
+  {
+    "id": 139,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "LF MU · Biologie · Genetika 3 · str. 132",
+    "sourcePages": "132",
+    "sourceItem": "3",
+    "question": "Čím je většinou tvořen chromozom prokaryotické buňky?",
+    "options": [
+      "kruhovou jednovláknovou molekulou DNA",
+      "kruhovou dvouvláknovou molekulou RNA",
+      "jednou, zpravidla kruhovou, dvouvláknovou molekulou DNA",
+      "lineární DNA uzavřenou v jaderném obalu"
+    ],
+    "answer": 2,
+    "title": "jednou, zpravidla kruhovou, dvouvláknovou molekulou DNA",
+    "paragraphs": [
+      "Bakterie nemají jádro. Jejich chromozom (nukleoid) je obvykle jedna kruhová dvouvláknová molekula DNA volně v cytoplazmě. Lineární chromozomy v jádře mají eukaryota."
+    ],
+    "memory": "Bakterie: jeden kroužek DNA bez obalu."
+  },
+  {
+    "id": 140,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "LF MU · Biologie · Genetika 6 · str. 132",
+    "sourcePages": "132",
+    "sourceItem": "6",
+    "question": "Čím se od sebe liší alely téhož genu?",
+    "options": [
+      "tím, že leží na chromozomech různých párů",
+      "tím, že leží na různých částech téhož chromozomu",
+      "tím, že nesou informaci pro zcela jiný protein",
+      "změnou v sekvenci nukleotidů"
+    ],
+    "answer": 3,
+    "title": "změnou v sekvenci nukleotidů",
+    "paragraphs": [
+      "Alely jsou varianty téhož genu na stejném lokusu homologních chromozomů. Liší se sekvencí nukleotidů, což může, ale nemusí, změnit vlastnosti kódované bílkoviny."
+    ],
+    "memory": "Stejné místo, trochu jiný text."
+  },
+  {
+    "id": 141,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "LF MU · Biologie · Genetika 7 · str. 132",
+    "sourcePages": "132",
+    "sourceItem": "7",
+    "question": "Jaký genotypový štěpný poměr vznikne křížením AaBB × AaBB?",
+    "options": [
+      "1 : 2 : 1",
+      "9 : 3 : 3 : 1",
+      "3 : 1",
+      "1 : 1"
+    ],
+    "answer": 0,
+    "title": "1 : 2 : 1",
+    "paragraphs": [
+      "Oba rodiče jsou v genu B homozygoti BB, všichni potomci budou BB. Štěpí se jen gen A: Aa × Aa dává AA : Aa : aa = 1 : 2 : 1."
+    ],
+    "memory": "Štěpí se jen ten pár, kde je heterozygot."
+  },
+  {
+    "id": 142,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "LF MU · Biologie · Genetika 10 · str. 132",
+    "sourcePages": "132",
+    "sourceItem": "10",
+    "question": "Co mají společné homologické chromozomy?",
+    "options": [
+      "zcela stejnou sekvenci nukleotidů",
+      "stejný tvar a velikost a stejné geny na stejných místech",
+      "stejný tvar, ale různé geny",
+      "různý tvar, ale stejné alely"
+    ],
+    "answer": 1,
+    "title": "stejný tvar a velikost a stejné geny na stejných místech",
+    "paragraphs": [
+      "Homologické chromozomy pocházejí jeden od matky a jeden od otce. Nesou stejné geny ve stejném pořadí, ale jejich alely se mohou lišit, takže sekvence DNA nejsou totožné."
+    ],
+    "memory": "Stejné geny, možná jiné alely."
+  },
+  {
+    "id": 143,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "LF MU · Biologie · Genetika 14 · str. 133",
+    "sourcePages": "133",
+    "sourceItem": "14",
+    "question": "V jakém vztahu jsou alely A a B krevních skupin systému AB0?",
+    "options": [
+      "úplná dominance a recesivita",
+      "intermediarita",
+      "kodominance",
+      "superdominance"
+    ],
+    "answer": 2,
+    "title": "kodominance",
+    "paragraphs": [
+      "U heterozygota AB se projeví obě alely plně a na erytrocytech jsou oba antigeny. Alela 0 je vůči A i B recesivní."
+    ],
+    "memory": "AB = obě alely vidět najednou."
+  },
+  {
+    "id": 144,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "LF MU · Biologie · Genetika 18 · str. 133",
+    "sourcePages": "133",
+    "sourceItem": "18",
+    "question": "Jak se jinak označuje heterochromozom?",
+    "options": [
+      "autozom",
+      "cizí chromozom v jádře",
+      "nadpočetný chromozom",
+      "gonozom (pohlavní chromozom)"
+    ],
+    "answer": 3,
+    "title": "gonozom (pohlavní chromozom)",
+    "paragraphs": [
+      "Heterochromozomy (gonozomy) jsou pohlavní chromozomy X a Y. Ostatní chromozomy jsou autozomy. Gonozomy jsou ve všech buňkách těla, nejen v pohlavních."
+    ],
+    "memory": "Hetero = odlišné, X a Y se liší."
+  },
+  {
+    "id": 145,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "LF MU · Biologie · Genetika 21 · str. 133",
+    "sourcePages": "133",
+    "sourceItem": "21",
+    "question": "Co je typické pro chromozomové mutace?",
+    "options": [
+      "mění strukturu chromozomů",
+      "mění genetický kód",
+      "vznikají ztrátou jednoho nukleotidu",
+      "mění vždy jen jednotlivé báze"
+    ],
+    "answer": 0,
+    "title": "mění strukturu chromozomů",
+    "paragraphs": [
+      "Chromozomové (strukturní) mutace jsou změny větších úseků: delece, duplikace, inverze nebo translokace části chromozomu. Změny jednotlivých nukleotidů jsou genové mutace. Genetický kód se mutacemi nemění."
+    ],
+    "memory": "Genová mutace = písmeno, chromozomová = celá kapitola."
+  },
+  {
+    "id": 146,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "LF MU · Biologie · Genetika 23 · str. 133",
+    "sourcePages": "133",
+    "sourceItem": "23",
+    "question": "Co je genetická transformace?",
+    "options": [
+      "přenos genetické informace mezi bakteriemi pomocí bakteriofága",
+      "změna genetické informace buňky přijetím molekuly DNA z okolí",
+      "změna genetické informace působením fyzikálních faktorů",
+      "přestavba genomu rekombinací v meióze"
+    ],
+    "answer": 1,
+    "title": "změna genetické informace buňky přijetím molekuly DNA z okolí",
+    "paragraphs": [
+      "Při transformaci buňka (typicky bakterie) přijme volnou DNA a začlení ji do svého genomu, jak ukázal Griffithův pokus s pneumokoky. Přenos fágem je transdukce."
+    ],
+    "memory": "Transformace = volná DNA, transdukce = virus."
+  },
+  {
+    "id": 147,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "LF MU · Biologie · Genetika 24 · str. 133",
+    "sourcePages": "133",
+    "sourceItem": "24",
+    "question": "Co tvoří vazbovou skupinu genů?",
+    "options": [
+      "geny regulované z jednoho místa",
+      "jen geny na pohlavních chromozomech",
+      "geny uložené na jednom chromozomu",
+      "geny, které se po crossing-overu nikdy nemění"
+    ],
+    "answer": 2,
+    "title": "geny uložené na jednom chromozomu",
+    "paragraphs": [
+      "Geny na stejném chromozomu se dědí společně, pokud je neoddělí crossing-over. Počet vazbových skupin odpovídá počtu chromozomů v haploidní sadě."
+    ],
+    "memory": "Jeden chromozom = jedna vazbová skupina."
+  },
+  {
+    "id": 148,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "LF MU · Biologie · Genetika 26 · str. 134",
+    "sourcePages": "134",
+    "sourceItem": "26",
+    "question": "Jaký genotypový štěpný poměr vznikne křížením AaBb × AaBb (geny nejsou ve vazbě)?",
+    "options": [
+      "9 : 3 : 3 : 1",
+      "1 : 2 : 1",
+      "3 : 1",
+      "4 : 2 : 2 : 2 : 2 : 1 : 1 : 1 : 1"
+    ],
+    "answer": 3,
+    "title": "4 : 2 : 2 : 2 : 2 : 1 : 1 : 1 : 1",
+    "paragraphs": [
+      "Vznikne 9 genotypů. Dvojnásobný heterozygot AaBb tvoří 4/16, čtyři genotypy heterozygotní v jednom genu po 2/16 a čtyři dvojnásobní homozygoti po 1/16. Poměr 9 : 3 : 3 : 1 je fenotypový."
+    ],
+    "memory": "9 genotypů, 4 fenotypy."
+  },
+  {
+    "id": 149,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "LF MU · Biologie · Genetika 29 · str. 134",
+    "sourcePages": "134",
+    "sourceItem": "29",
+    "question": "Jaký je zdroj nadbytečného chromozomu 21 u Downova syndromu?",
+    "options": [
+      "nondisjunkce nebo translokace chromozomu 21",
+      "vždy jen nondisjunkce při tvorbě vajíčka",
+      "vždy jen nondisjunkce při tvorbě spermie",
+      "porucha replikace, která chromozom 21 ztrojí"
+    ],
+    "answer": 0,
+    "title": "nondisjunkce nebo translokace chromozomu 21",
+    "paragraphs": [
+      "Nejčastěji se chromozomy 21 nerozejdou při meióze (nondisjunkce), častěji u matky, ale může k tomu dojít i u otce. Část případů vzniká translokací chromozomu 21 na jiný chromozom."
+    ],
+    "memory": "Nerozejití nebo přilepení: oba vedou ke třetí kopii."
+  },
+  {
+    "id": 150,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "LF MU · Biologie · Genetika 31 · str. 134",
+    "sourcePages": "134",
+    "sourceItem": "31",
+    "question": "Autozomálně recesivní choroba postihuje 1 z 10 000 lidí. Jaký je přibližný podíl heterozygotů v populaci?",
+    "options": [
+      "asi 5 %",
+      "asi 2 %",
+      "asi 10 %",
+      "asi 25 %"
+    ],
+    "answer": 1,
+    "title": "asi 2 %",
+    "paragraphs": [
+      "q² = 1/10 000, tedy q = 0,01 a p ≈ 0,99. Heterozygotů je 2pq ≈ 2 · 0,99 · 0,01 ≈ 0,02."
+    ],
+    "memory": "Odmocni q², pak 2pq ≈ 2q."
+  }
+]
