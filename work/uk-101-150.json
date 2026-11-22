@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 101,
+    "subject": "Fyzika",
+    "category": "Fyzika · 1. Základní pojmy",
+    "bookRef": "UK · Fyzika · 1. Základní pojmy · úloha 1.55 · str. 12",
+    "sourcePages": "12",
+    "sourceItem": "1.55",
+    "question": "Jakou hodnotu vyjadřují předpony nano (n) a piko (p)?",
+    "options": [
+      "nano = 10⁻⁹, piko = 10⁻¹²",
+      "nano = 10⁻⁶, piko = 10⁻⁹",
+      "nano = 10⁻¹², piko = 10⁻¹⁵",
+      "nano = 10⁻⁹, piko = 10⁻¹⁵"
+    ],
+    "answer": 0,
+    "title": "nano = 10⁻⁹, piko = 10⁻¹²",
+    "paragraphs": [
+      "Po mikro (10⁻⁶) následuje nano (10⁻⁹), piko (10⁻¹²) a femto (10⁻¹⁵). Každá další předpona je o tři řády menší."
+    ],
+    "memory": "Mili, mikro, nano, piko: vždy o tisíckrát menší."
+  },
+  {
+    "id": 102,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 42, otázka 4",
+    "sourcePages": "42",
+    "sourceItem": "str. 42, otázka 4",
+    "question": "Jak se nazývá oxid fosforu se vzorcem P₄O₆?",
+    "options": [
+      "oxid fosforečný",
+      "oxid fosforitý",
+      "oxid fosforný",
+      "fosfan"
+    ],
+    "answer": 1,
+    "title": "oxid fosforitý",
+    "paragraphs": [
+      "V P₄O₆ má fosfor oxidační číslo III, jde tedy o oxid fosforitý (empiricky P₂O₃). Oxid fosforečný má vzorec P₄O₁₀ (P₂O₅) a fosfan je PH₃."
+    ],
+    "memory": "Fosforitý = III (P₄O₆), fosforečný = V (P₄O₁₀)."
+  },
+  {
+    "id": 103,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 43, otázka 1",
+    "sourcePages": "43",
+    "sourceItem": "str. 43, otázka 1",
+    "question": "Který z oxidů se slučuje s vodou za vzniku hydroxidu?",
+    "options": [
+      "SiO₂",
+      "Cl₂O₇",
+      "K₂O",
+      "SO₃"
+    ],
+    "answer": 2,
+    "title": "K₂O",
+    "paragraphs": [
+      "Oxid draselný je zásadotvorný: K₂O + H₂O → 2 KOH. Cl₂O₇ a SO₃ dávají s vodou kyseliny, SiO₂ s vodou prakticky nereaguje."
+    ],
+    "memory": "Oxidy alkalických kovů a kovů alkalických zemin dávají hydroxidy."
+  },
+  {
+    "id": 104,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 44, otázka 2",
+    "sourcePages": "44",
+    "sourceItem": "str. 44, otázka 2",
+    "question": "Který z uvedených oxidů je kyselinotvorný?",
+    "options": [
+      "CO",
+      "CuO",
+      "Na₂O",
+      "N₂O₅"
+    ],
+    "answer": 3,
+    "title": "N₂O₅",
+    "paragraphs": [
+      "Oxid dusičný reaguje s vodou na kyselinu dusičnou: N₂O₅ + H₂O → 2 HNO₃. CuO a Na₂O jsou zásadotvorné, CO patří mezi oxidy, které s vodou kyselinu netvoří (netečné)."
+    ],
+    "memory": "Oxidy nekovů ve vysokém oxidačním čísle tvoří kyseliny."
+  },
+  {
+    "id": 105,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 46, otázka 1",
+    "sourcePages": "46",
+    "sourceItem": "str. 46, otázka 1",
+    "question": "Který plyn vzniká reakcí iontového hydridu, například NaH, s vodou?",
+    "options": [
+      "vodík",
+      "kyslík",
+      "chlorovodík",
+      "vodní pára bez další reakce"
+    ],
+    "answer": 0,
+    "title": "vodík",
+    "paragraphs": [
+      "Hydridový anion H⁻ reaguje s protonem vody: NaH + H₂O → NaOH + H₂. Vodík se uvolňuje jako plyn a roztok je zásaditý."
+    ],
+    "memory": "H⁻ z hydridu + H⁺ z vody = H₂."
+  },
+  {
+    "id": 106,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 47, otázka 5",
+    "sourcePages": "47",
+    "sourceItem": "str. 47, otázka 5",
+    "question": "Jak se nazývají sloučeniny boru s vodíkem?",
+    "options": [
+      "silany",
+      "borany",
+      "boritany",
+      "boraxy"
+    ],
+    "answer": 1,
+    "title": "borany",
+    "paragraphs": [
+      "Sloučeniny boru s vodíkem jsou borany (například diboran B₂H₆). Silany jsou sloučeniny křemíku s vodíkem, boritany soli kyseliny borité a borax je tetraboritan sodný."
+    ],
+    "memory": "Bor + vodík = boran, křemík + vodík = silan."
+  },
+  {
+    "id": 107,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 48, otázka 4",
+    "sourcePages": "48",
+    "sourceItem": "str. 48, otázka 4",
+    "question": "Jaký vzorec má karbid křemíku?",
+    "options": [
+      "SiC₂",
+      "Si₂C",
+      "SiC",
+      "SC₂"
+    ],
+    "answer": 2,
+    "title": "SiC",
+    "paragraphs": [
+      "Karbid křemíku (karborundum) má vzorec SiC. Křemík i uhlík jsou ze 14. skupiny a v této sloučenině se spojují v poměru 1 : 1."
+    ],
+    "memory": "Karborundum: jeden křemík, jeden uhlík."
+  },
+  {
+    "id": 108,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 49, otázka 5",
+    "sourcePages": "49",
+    "sourceItem": "str. 49, otázka 5",
+    "question": "Jaký vzorec má dusičnan měďnatý?",
+    "options": [
+      "CuNO₃",
+      "Cu(NO₂)₂",
+      "CuNO₂",
+      "Cu(NO₃)₂"
+    ],
+    "answer": 3,
+    "title": "Cu(NO₃)₂",
+    "paragraphs": [
+      "Měďnatý kation má náboj 2+, dusičnanový anion NO₃⁻ náboj 1−. Na jeden Cu²⁺ připadají dva dusičnany. Dusitan je NO₂⁻."
+    ],
+    "memory": "Dusičnan NO₃⁻, dusitan NO₂⁻; měďnatý = Cu²⁺."
+  },
+  {
+    "id": 109,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 50, otázka 1",
+    "sourcePages": "50",
+    "sourceItem": "str. 50, otázka 1",
+    "question": "Jaký vzorec má hydrogensíran vápenatý?",
+    "options": [
+      "Ca(HSO₄)₂",
+      "CaHSO₄",
+      "Ca(HSO₃)₂",
+      "Ca(HS)₂"
+    ],
+    "answer": 0,
+    "title": "Ca(HSO₄)₂",
+    "paragraphs": [
+      "Hydrogensíranový anion HSO₄⁻ má náboj 1−, vápník Ca²⁺, proto Ca(HSO₄)₂. HSO₃⁻ je hydrogensiřičitan a HS⁻ hydrogensulfid."
+    ],
+    "memory": "Síran SO₄, siřičitan SO₃, sulfid S."
+  },
+  {
+    "id": 110,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 50, otázka 2",
+    "sourcePages": "50",
+    "sourceItem": "str. 50, otázka 2",
+    "question": "Jaký vzorec má wolframan barnatý?",
+    "options": [
+      "BaWO₃",
+      "BaWO₄",
+      "BaVO₄",
+      "BaVO₃"
+    ],
+    "answer": 1,
+    "title": "BaWO₄",
+    "paragraphs": [
+      "Wolfram je ve skupině chromu a v kyselině wolframové H₂WO₄ má oxidační číslo VI, podobně jako chrom v chromanech. Barnatý kation Ba²⁺ vyváží anion WO₄²⁻. V je značka vanadu."
+    ],
+    "memory": "Wolframan WO₄²⁻ jako chroman CrO₄²⁻."
+  },
+  {
+    "id": 111,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 59, otázka 3",
+    "sourcePages": "59",
+    "sourceItem": "str. 59, otázka 3",
+    "question": "Co jsou kamence?",
+    "options": [
+      "podvojné křemičitany",
+      "podvojné siřičitany",
+      "podvojné sírany, například KAl(SO₄)₂ · 12 H₂O",
+      "sloučeniny křemíku s vodíkem"
+    ],
+    "answer": 2,
+    "title": "podvojné sírany, například KAl(SO₄)₂ · 12 H₂O",
+    "paragraphs": [
+      "Kamence jsou dodekahydráty podvojných síranů jednomocného a trojmocného kovu, typickým příkladem je síran draselno-hlinitý KAl(SO₄)₂ · 12 H₂O (str. 50)."
+    ],
+    "memory": "Kamenec = dva kovy, dva sírany, dvanáct vod."
+  },
+  {
+    "id": 112,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 51, otázka 2",
+    "sourcePages": "51",
+    "sourceItem": "str. 51, otázka 2",
+    "question": "Soli které kyseliny jsou kyanidy?",
+    "options": [
+      "kyseliny kyanaté (HOCN)",
+      "kyseliny thiokyanaté (HSCN)",
+      "kyseliny azidovodíkové (HN₃)",
+      "kyseliny kyanovodíkové (HCN)"
+    ],
+    "answer": 3,
+    "title": "kyseliny kyanovodíkové (HCN)",
+    "paragraphs": [
+      "Kyanidy (například KCN) obsahují anion CN⁻ a jsou to soli kyseliny kyanovodíkové HCN. Soli kyseliny kyanaté jsou kyanatany, soli kyseliny thiokyanaté thiokyanatany."
+    ],
+    "memory": "Kyan-ovodík → kyanid, stejně jako chlorovodík → chlorid."
+  },
+  {
+    "id": 113,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 51, otázka 6",
+    "sourcePages": "51",
+    "sourceItem": "str. 51, otázka 6",
+    "question": "Která látka se triviálně nazývá potaš?",
+    "options": [
+      "uhličitan draselný K₂CO₃",
+      "uhličitan sodný Na₂CO₃",
+      "chlorid amonný NH₄Cl",
+      "dusičnan draselný KNO₃"
+    ],
+    "answer": 0,
+    "title": "uhličitan draselný K₂CO₃",
+    "paragraphs": [
+      "Potaš je uhličitan draselný, dříve se získával z popela rostlin. Soda je uhličitan sodný, salmiak chlorid amonný a ledek draselný KNO₃."
+    ],
+    "memory": "Pot-aš = popel (draslík), soda = sodík."
+  },
+  {
+    "id": 114,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 52, otázka 1",
+    "sourcePages": "52",
+    "sourceItem": "str. 52, otázka 1",
+    "question": "Jak se nazývá sloučenina NH₄MnO₄?",
+    "options": [
+      "manganan amonný",
+      "manganistan amonný",
+      "manganičitan amonný",
+      "molybdenan amonný"
+    ],
+    "answer": 1,
+    "title": "manganistan amonný",
+    "paragraphs": [
+      "Anion MnO₄⁻ s manganem v oxidačním čísle VII je manganistan. Manganan je MnO₄²⁻ (Mn VI). Molybden má značku Mo."
+    ],
+    "memory": "Manganistan jako hypermangan KMnO₄: jeden minus náboj."
+  },
+  {
+    "id": 115,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 53, otázka 6",
+    "sourcePages": "53",
+    "sourceItem": "str. 53, otázka 6",
+    "question": "Která sloučenina se triviálně nazývá Glauberova sůl?",
+    "options": [
+      "MgSO₄ · 7 H₂O",
+      "CuSO₄ · 5 H₂O",
+      "Na₂SO₄ · 10 H₂O",
+      "CaSO₄ · ½ H₂O"
+    ],
+    "answer": 2,
+    "title": "Na₂SO₄ · 10 H₂O",
+    "paragraphs": [
+      "Glauberova sůl je dekahydrát síranu sodného. CuSO₄ · 5 H₂O je modrá skalice a CaSO₄ · ½ H₂O pálená sádra."
+    ],
+    "memory": "Glauber: sodík a deset molekul vody."
+  },
+  {
+    "id": 116,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 54, otázka 3",
+    "sourcePages": "54",
+    "sourceItem": "str. 54, otázka 3",
+    "question": "Která látka se triviálně nazývá chilský ledek?",
+    "options": [
+      "KNO₃",
+      "NH₄NO₃",
+      "NaNO₂",
+      "NaNO₃"
+    ],
+    "answer": 3,
+    "title": "NaNO₃",
+    "paragraphs": [
+      "Chilský ledek je dusičnan sodný, těží se v Chile a používá se jako hnojivo. KNO₃ je ledek draselný, NH₄NO₃ ledek amonný a NaNO₂ dusitan sodný."
+    ],
+    "memory": "Chile = sodík, ledek = dusičnan."
+  },
+  {
+    "id": 117,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 54, otázka 4",
+    "sourcePages": "54",
+    "sourceItem": "str. 54, otázka 4",
+    "question": "Směsí kterých látek je chlorové vápno?",
+    "options": [
+      "chloridu vápenatého a chlornanu vápenatého",
+      "chloridu vápenatého a chlorečnanu vápenatého",
+      "chloridu sodného a chlornanu sodného",
+      "chlornanu sodného a chlorečnanu sodného"
+    ],
+    "answer": 0,
+    "title": "chloridu vápenatého a chlornanu vápenatého",
+    "paragraphs": [
+      "Chlorové vápno vzniká působením chloru na hašené vápno a obsahuje chlorid i chlornan vápenatý. Chlornan uvolňuje aktivní chlor, proto se používá k dezinfekci a bělení."
+    ],
+    "memory": "Vápno = vápník, bělí chlornan."
+  },
+  {
+    "id": 118,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 54, otázka 6",
+    "sourcePages": "54",
+    "sourceItem": "str. 54, otázka 6",
+    "question": "Co je bílá skalice?",
+    "options": [
+      "CuSO₄ · 5 H₂O",
+      "ZnSO₄ · 7 H₂O",
+      "FeSO₄ · 7 H₂O",
+      "KCr(SO₄)₂ · 12 H₂O"
+    ],
+    "answer": 1,
+    "title": "ZnSO₄ · 7 H₂O",
+    "paragraphs": [
+      "Skalice jsou hydráty síranů: bílá skalice je síran zinečnatý, modrá skalice síran měďnatý a zelená skalice síran železnatý."
+    ],
+    "memory": "Bílý zinek, modrá měď, zelené železo."
+  },
+  {
+    "id": 119,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 55, otázka 1",
+    "sourcePages": "55",
+    "sourceItem": "str. 55, otázka 1",
+    "question": "Co vzniká reakcí chloru s roztokem hydroxidu sodného (Cl₂ + 2 NaOH)?",
+    "options": [
+      "chlorové vápno",
+      "fosgen",
+      "bělicí louh, tedy roztok chloridu a chlornanu sodného",
+      "hašené vápno"
+    ],
+    "answer": 2,
+    "title": "bělicí louh, tedy roztok chloridu a chlornanu sodného",
+    "paragraphs": [
+      "Cl₂ + 2 NaOH → NaCl + NaClO + H₂O. Roztok chlornanu sodného s chloridem je bělicí louh (dezinfekční přípravky typu Savo). Chlorové vápno vzniká obdobně z hydroxidu vápenatého."
+    ],
+    "memory": "Chlor + louh = bělicí louh."
+  },
+  {
+    "id": 120,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 55, otázka 4",
+    "sourcePages": "55",
+    "sourceItem": "str. 55, otázka 4",
+    "question": "Jak se nazývá komplexní kation [Cu(NH₃)₄]²⁺?",
+    "options": [
+      "diamminměďnatý kation",
+      "tetraamminměďný kation",
+      "triamminměďnatý kation",
+      "tetraamminměďnatý kation"
+    ],
+    "answer": 3,
+    "title": "tetraamminměďnatý kation",
+    "paragraphs": [
+      "Čtyři molekuly amoniaku jako ligandy označuje „tetraammin“. Náboj 2+ připadá na měď, protože NH₃ je neutrální, jde tedy o měď v oxidačním čísle II (měďnatý). Učebnice píše „tetraamin“."
+    ],
+    "memory": "Počet ligandů + ammin + oxidační číslo kovu."
+  },
+  {
+    "id": 121,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 56, otázka 5",
+    "sourcePages": "56",
+    "sourceItem": "str. 56, otázka 5",
+    "question": "Která z uvedených sloučenin je ve vodě téměř nerozpustná?",
+    "options": [
+      "chlorid stříbrný",
+      "chlorid draselný",
+      "síran měďnatý",
+      "uhličitan sodný"
+    ],
+    "answer": 0,
+    "title": "chlorid stříbrný",
+    "paragraphs": [
+      "AgCl je velmi málo rozpustná sůl a sráží se jako bílá sraženina při důkazu chloridových iontů stříbrnými ionty. Ostatní uvedené soli jsou ve vodě dobře rozpustné."
+    ],
+    "memory": "Ag⁺ + Cl⁻ → bílá sraženina AgCl."
+  },
+  {
+    "id": 122,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 57, otázka 2",
+    "sourcePages": "57",
+    "sourceItem": "str. 57, otázka 2",
+    "question": "Která sůl je hlavní složkou trvalé tvrdosti vody?",
+    "options": [
+      "Ca(HCO₃)₂",
+      "CaSO₄",
+      "MgCO₃",
+      "NaCl"
+    ],
+    "answer": 1,
+    "title": "CaSO₄",
+    "paragraphs": [
+      "Trvalou tvrdost způsobují hlavně sírany (a chloridy) vápníku a hořčíku. Varem se neodstraní, na rozdíl od přechodné tvrdosti z hydrogenuhličitanů."
+    ],
+    "memory": "Hydrogenuhličitany zmizí varem, sírany zůstanou."
+  },
+  {
+    "id": 123,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 57, otázka 4",
+    "sourcePages": "57",
+    "sourceItem": "str. 57, otázka 4",
+    "question": "Jaký vzorec má sulfan (sirovodík)?",
+    "options": [
+      "HS",
+      "CS₂",
+      "H₂S",
+      "NaHS"
+    ],
+    "answer": 2,
+    "title": "H₂S",
+    "paragraphs": [
+      "Sulfan je sloučenina síry s vodíkem H₂S, jedovatý plyn zapáchající po zkažených vejcích. CS₂ je sirouhlík a NaHS hydrogensulfid sodný."
+    ],
+    "memory": "Sulfan jako voda, jen místo kyslíku síra."
+  },
+  {
+    "id": 124,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 57, otázka 6",
+    "sourcePages": "57",
+    "sourceItem": "str. 57, otázka 6",
+    "question": "Které tvrzení o sirouhlíku (CS₂) platí?",
+    "options": [
+      "je polární rozpouštědlo a síru nerozpouští",
+      "je polární rozpouštědlo a dobře se mísí s vodou",
+      "je to pevná látka nerozpustná v organických rozpouštědlech",
+      "je nepolární rozpouštědlo a rozpouští síru"
+    ],
+    "answer": 3,
+    "title": "je nepolární rozpouštědlo a rozpouští síru",
+    "paragraphs": [
+      "Molekula CS₂ je lineární a symetrická, proto nepolární. Sirouhlík je těkavá kapalina, dobře rozpouští nepolární látky, například síru, fosfor nebo tuky."
+    ],
+    "memory": "Podobné se rozpouští v podobném: nepolární síra v nepolárním CS₂."
+  },
+  {
+    "id": 125,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 58, otázka 1",
+    "sourcePages": "58",
+    "sourceItem": "str. 58, otázka 1",
+    "question": "Jak se nazývají sloučeniny křemíku s kovy?",
+    "options": [
+      "silicidy",
+      "silany",
+      "křemičitany",
+      "hexafluorokřemičitany"
+    ],
+    "answer": 0,
+    "title": "silicidy",
+    "paragraphs": [
+      "Binární sloučeniny křemíku s kovy jsou silicidy (například Mg₂Si). Silany jsou sloučeniny křemíku s vodíkem, křemičitany soli kyselin křemičitých."
+    ],
+    "memory": "Silicid jako karbid nebo nitrid: prvek + kov."
+  },
+  {
+    "id": 126,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 58, otázka 6",
+    "sourcePages": "58",
+    "sourceItem": "str. 58, otázka 6",
+    "question": "Co jsou amalgámy?",
+    "options": [
+      "slitiny kovů s olovem",
+      "slitiny kovů se rtutí",
+      "oxidy rtuti",
+      "hydridy rtuti"
+    ],
+    "answer": 1,
+    "title": "slitiny kovů se rtutí",
+    "paragraphs": [
+      "Amalgám je slitina kovu se rtutí. Například stříbrný amalgám se dříve běžně používal na zubní výplně."
+    ],
+    "memory": "Amalgámová plomba = rtuť + stříbro."
+  },
+  {
+    "id": 127,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 59, otázka 2",
+    "sourcePages": "59",
+    "sourceItem": "str. 59, otázka 2",
+    "question": "Jaký vzorec má rajský plyn?",
+    "options": [
+      "NO",
+      "NO₂",
+      "N₂O",
+      "CO"
+    ],
+    "answer": 2,
+    "title": "N₂O",
+    "paragraphs": [
+      "Rajský plyn je oxid dusný N₂O, používá se v anestezii. NO je oxid dusnatý, NO₂ oxid dusičitý a CO oxid uhelnatý."
+    ],
+    "memory": "Rajský plyn rozesměje: oxid dusný N₂O."
+  },
+  {
+    "id": 128,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 59, otázka 6",
+    "sourcePages": "59",
+    "sourceItem": "str. 59, otázka 6",
+    "question": "Která látka nepatří mezi základní suroviny pro výrobu běžného skla?",
+    "options": [
+      "křemičitý písek",
+      "soda (Na₂CO₃)",
+      "vápenec",
+      "voda"
+    ],
+    "answer": 3,
+    "title": "voda",
+    "paragraphs": [
+      "Běžné sodnovápenaté sklo se taví z křemičitého písku, sody a vápence. Voda se v tavenině neuplatní."
+    ],
+    "memory": "Sklo = písek + soda + vápenec."
+  },
+  {
+    "id": 129,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 60, otázka 2",
+    "sourcePages": "60",
+    "sourceItem": "str. 60, otázka 2",
+    "question": "Proč se roztok jedlé sody (NaHCO₃) používá ke snížení kyselosti žaludku?",
+    "options": [
+      "má slabě zásaditou reakci a neutralizuje kyselinu",
+      "má kyselou reakci",
+      "je silným oxidačním činidlem",
+      "vytváří na sliznici nerozpustnou vrstvu"
+    ],
+    "answer": 0,
+    "title": "má slabě zásaditou reakci a neutralizuje kyselinu",
+    "paragraphs": [
+      "Hydrogenuhličitan sodný ve vodě hydrolyzuje slabě zásaditě a s kyselinou chlorovodíkovou reaguje za vzniku CO₂. Proto se používá proti pálení žáhy a jako kypřicí prášek."
+    ],
+    "memory": "Soda + kyselina = bublinky CO₂."
+  },
+  {
+    "id": 130,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 60, otázka 3",
+    "sourcePages": "60",
+    "sourceItem": "str. 60, otázka 3",
+    "question": "Zápalka se vznítí škrtnutím, protože hlavička obsahuje chlorečnan draselný. Co je na třecí ploše krabičky?",
+    "options": [
+      "bílý fosfor",
+      "červený fosfor",
+      "černý fosfor",
+      "chloristan sodný"
+    ],
+    "answer": 1,
+    "title": "červený fosfor",
+    "paragraphs": [
+      "Třecí plocha bezpečnostních zápalek obsahuje červený fosfor. Třením se jeho stopa dostane do styku s chlorečnanem draselným v hlavičce a směs se vznítí. Bílý fosfor je jedovatý a samozápalný."
+    ],
+    "memory": "Bezpečnostní zápalky: červený fosfor na krabičce."
+  },
+  {
+    "id": 131,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 60, otázka 4",
+    "sourcePages": "60",
+    "sourceItem": "str. 60, otázka 4",
+    "question": "Co se rozpouští v kyselině sírové při vzniku olea?",
+    "options": [
+      "oxid siřičitý SO₂",
+      "voda",
+      "oxid sírový SO₃",
+      "sulfan H₂S"
+    ],
+    "answer": 2,
+    "title": "oxid sírový SO₃",
+    "paragraphs": [
+      "Oleum (dýmavá kyselina sírová) je roztok oxidu sírového v koncentrované kyselině sírové. Ředěním vodou poskytuje další H₂SO₄."
+    ],
+    "memory": "Oleum = H₂SO₄ + SO₃."
+  },
+  {
+    "id": 132,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 61, otázka 2",
+    "sourcePages": "61",
+    "sourceItem": "str. 61, otázka 2",
+    "question": "Na co se rozkládá fosgen (COCl₂) působením vody?",
+    "options": [
+      "na chlor a oxid uhelnatý",
+      "na močovinu",
+      "na acetaldehyd",
+      "na kyselinu chlorovodíkovou a oxid uhličitý"
+    ],
+    "answer": 3,
+    "title": "na kyselinu chlorovodíkovou a oxid uhličitý",
+    "paragraphs": [
+      "COCl₂ + H₂O → CO₂ + 2 HCl. Vznik HCl ve vlhkých dýchacích cestách vysvětluje leptavé účinky fosgenu na plíce."
+    ],
+    "memory": "Fosgen + voda = CO₂ + 2 HCl."
+  },
+  {
+    "id": 133,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 61, otázka 4",
+    "sourcePages": "61",
+    "sourceItem": "str. 61, otázka 4",
+    "question": "Který z aniontů je pro lidský organismus nejjedovatější?",
+    "options": [
+      "CN⁻",
+      "HCO₃⁻",
+      "HPO₄²⁻",
+      "Cl⁻"
+    ],
+    "answer": 0,
+    "title": "CN⁻",
+    "paragraphs": [
+      "Kyanidový anion blokuje cytochrom-c-oxidázu v dýchacím řetězci mitochondrií a buňky nemohou využívat kyslík. HCO₃⁻, HPO₄²⁻ a Cl⁻ jsou běžné ionty tělních tekutin."
+    ],
+    "memory": "Kyanid zastaví buněčné dýchání."
+  },
+  {
+    "id": 134,
+    "subject": "Chemie",
+    "category": "Chemie · 2.1 Anorganické sloučeniny",
+    "bookRef": "UK · Chemie · 2.1 Anorganické sloučeniny · str. 61, otázka 6",
+    "sourcePages": "61",
+    "sourceItem": "str. 61, otázka 6",
+    "question": "Která sloučenina barya je pro člověka jedovatá?",
+    "options": [
+      "síran barnatý",
+      "chlorid barnatý",
+      "síran vápenatý",
+      "chlorid vápenatý"
+    ],
+    "answer": 1,
+    "title": "chlorid barnatý",
+    "paragraphs": [
+      "Jedovaté jsou rozpustné soli barya, například BaCl₂. Síran barnatý je prakticky nerozpustný, proto se může podávat jako kontrastní látka při rentgenovém vyšetření trávicí trubice."
+    ],
+    "memory": "Rozpustné baryum škodí, nerozpustný BaSO₄ ne."
+  },
+  {
+    "id": 135,
+    "subject": "Chemie",
+    "category": "Chemie · 2.2.1 Kyseliny a zásady",
+    "bookRef": "UK · Chemie · 2.2.1 Kyseliny a zásady · str. 62, otázka 3",
+    "sourcePages": "62",
+    "sourceItem": "str. 62, otázka 3",
+    "question": "Jaký vzorec má kyselina trioxoboritá?",
+    "options": [
+      "HBO₂",
+      "H₂BO₃",
+      "H₃BO₃",
+      "HBO₃"
+    ],
+    "answer": 2,
+    "title": "H₃BO₃",
+    "paragraphs": [
+      "Trioxo znamená tři kyslíky. Bor má v kyselině borité oxidační číslo III, tři vodíky tedy vyrovnají náboj tří kyslíků: H₃BO₃. HBO₂ je kyselina dioxoboritá."
+    ],
+    "memory": "Bor III + tři kyslíky → tři vodíky."
+  },
+  {
+    "id": 136,
+    "subject": "Chemie",
+    "category": "Chemie · 2.2.1 Kyseliny a zásady",
+    "bookRef": "UK · Chemie · 2.2.1 Kyseliny a zásady · str. 63, otázka 3",
+    "sourcePages": "63",
+    "sourceItem": "str. 63, otázka 3",
+    "question": "Jak se nazývá kyselina HSCN?",
+    "options": [
+      "kyanatá",
+      "kyanovodíková",
+      "thiouhličitá",
+      "thiokyanatá"
+    ],
+    "answer": 3,
+    "title": "thiokyanatá",
+    "paragraphs": [
+      "V kyselině thiokyanaté je kyslík kyseliny kyanaté HOCN nahrazen sírou (předpona thio-). HCN je kyselina kyanovodíková."
+    ],
+    "memory": "Thio = síra místo kyslíku."
+  },
+  {
+    "id": 137,
+    "subject": "Chemie",
+    "category": "Chemie · 2.2.1 Kyseliny a zásady",
+    "bookRef": "UK · Chemie · 2.2.1 Kyseliny a zásady · str. 64, otázka 6",
+    "sourcePages": "64",
+    "sourceItem": "str. 64, otázka 6",
+    "question": "Která z kyselin je ve vodném roztoku nejméně disociovaná?",
+    "options": [
+      "H₃PO₄",
+      "HCl",
+      "H₂SO₄",
+      "HNO₃"
+    ],
+    "answer": 0,
+    "title": "H₃PO₄",
+    "paragraphs": [
+      "HCl, H₂SO₄ a HNO₃ jsou silné kyseliny, ve zředěném roztoku jsou prakticky úplně disociované. Kyselina trihydrogenfosforečná je středně silná a disociuje jen částečně."
+    ],
+    "memory": "Fosforečná je slabší než „velká trojka“ solná, sírová, dusičná."
+  },
+  {
+    "id": 138,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 292 · str. 67",
+    "sourcePages": "67",
+    "sourceItem": "292",
+    "question": "Jak se nazývá opětovné spárování komplementárních řetězců DNA, například po předchozí denaturaci?",
+    "options": [
+      "denaturace",
+      "renaturace",
+      "replikace",
+      "translace"
+    ],
+    "answer": 1,
+    "title": "renaturace",
+    "paragraphs": [
+      "Při renaturaci se oddělené komplementární řetězce DNA opět spojují vodíkovými vazbami mezi bázemi. Spojí-li se řetězce různého původu, hovoří se o hybridizaci."
+    ],
+    "memory": "Denaturace rozplete, renaturace znovu spáruje."
+  },
+  {
+    "id": 139,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 294 · str. 67",
+    "sourcePages": "67",
+    "sourceItem": "294",
+    "question": "Kde se v živočišné buňce syntetizuje RNA?",
+    "options": [
+      "výhradně v jádře",
+      "v endoplazmatickém retikulu",
+      "v jádře a v mitochondriích",
+      "v jádře a v chloroplastech"
+    ],
+    "answer": 2,
+    "title": "v jádře a v mitochondriích",
+    "paragraphs": [
+      "RNA vzniká přepisem DNA. Živočišná buňka má DNA v jádře a v mitochondriích, proto transkripce probíhá na obou místech. Chloroplasty mají jen rostliny."
+    ],
+    "memory": "Kde je DNA, tam se přepisuje do RNA."
+  },
+  {
+    "id": 140,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 295 · str. 67",
+    "sourcePages": "67",
+    "sourceItem": "295",
+    "question": "Jak se nazývají primární transkripty, z nichž v eukaryotické buňce vzniká úpravami mRNA?",
+    "options": [
+      "malá jadérková RNA (snoRNA)",
+      "transferová RNA (tRNA)",
+      "ribozomová RNA (rRNA)",
+      "heterogenní jaderná RNA (hnRNA)"
+    ],
+    "answer": 3,
+    "title": "heterogenní jaderná RNA (hnRNA)",
+    "paragraphs": [
+      "Primární transkript (pre-mRNA) se v jádře upravuje: získá čepičku a poly(A) konec a sestřihem se z něj odstraní introny. Tato heterogenní skupina molekul se označuje hnRNA."
+    ],
+    "memory": "hnRNA = surová mRNA ještě v jádře."
+  },
+  {
+    "id": 141,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 296 · str. 67",
+    "sourcePages": "67",
+    "sourceItem": "296",
+    "question": "Jaký je obvyklý důsledek ztráty (delece) jednoho nukleotidového páru v kódující oblasti genu?",
+    "options": [
+      "od místa delece dále jsou triplety chybně čteny",
+      "změní se jen jedna aminokyselina, zbytek bílkoviny je normální",
+      "gen se přepíše jen po místo delece",
+      "chybně se čtou všechny triplety v celém genu"
+    ],
+    "answer": 0,
+    "title": "od místa delece dále jsou triplety chybně čteny",
+    "paragraphs": [
+      "Delece jednoho nukleotidu posune čtecí rámec. Triplety před místem delece se čtou správně, za ním vznikají jiné kodony a často i předčasný STOP kodon."
+    ],
+    "memory": "Vypadne písmeno a věta se od té chvíle rozsype."
+  },
+  {
+    "id": 142,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 301 · str. 68",
+    "sourcePages": "68",
+    "sourceItem": "301",
+    "question": "Která molekula se přímo neúčastní translace?",
+    "options": [
+      "mRNA",
+      "DNA",
+      "tRNA",
+      "rRNA"
+    ],
+    "answer": 1,
+    "title": "DNA",
+    "paragraphs": [
+      "Při translaci se podle mRNA na ribozomu (tvořeném rRNA a bílkovinami) skládá polypeptid z aminokyselin přinášených tRNA. DNA slouží jako předloha až o krok dříve, při transkripci."
+    ],
+    "memory": "Translace je mezi třemi RNA, DNA zůstává v jádře."
+  },
+  {
+    "id": 143,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 302 · str. 69",
+    "sourcePages": "69",
+    "sourceItem": "302",
+    "question": "Co jsou plazmidy?",
+    "options": [
+      "kruhové bílkovinné molekuly v cytoplazmě bakterií",
+      "drobné membránové organely bakterií",
+      "malé kruhové molekuly DNA využívané i v genovém inženýrství",
+      "úseky RNA v jadérku"
+    ],
+    "answer": 2,
+    "title": "malé kruhové molekuly DNA využívané i v genovém inženýrství",
+    "paragraphs": [
+      "Plazmidy jsou malé, zpravidla kruhové molekuly DNA mimo bakteriální chromozom, nesou například geny rezistence na antibiotika. V genovém inženýrství slouží jako vektory pro přenos genů."
+    ],
+    "memory": "Plazmid = malý kroužek DNA, taxík pro geny."
+  },
+  {
+    "id": 144,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 305 · str. 71",
+    "sourcePages": "71",
+    "sourceItem": "305",
+    "question": "Co patří mezi mimojadernou dědičnost?",
+    "options": [
+      "dědičnost vázaná na chromozom X",
+      "dědičnost vázaná na ribozomovou DNA v jadérku",
+      "dědičnost krevních skupin",
+      "mitochondriální a plastidová dědičnost, projevující se matroklinitou"
+    ],
+    "answer": 3,
+    "title": "mitochondriální a plastidová dědičnost, projevující se matroklinitou",
+    "paragraphs": [
+      "Mimojaderná dědičnost je dána DNA mitochondrií a plastidů. Tyto organely předává potomkům převážně vajíčko, proto se znaky dědí po matce (matroklinita)."
+    ],
+    "memory": "Mitochondrie dostaneš od maminky."
+  },
+  {
+    "id": 145,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 306 · str. 72",
+    "sourcePages": "72",
+    "sourceItem": "306",
+    "question": "Tři sourozenci mají krevní skupiny A, AB a B. Kterou krevní skupinu nemůže mít nikdo z jejich rodičů?",
+    "options": [
+      "0",
+      "A",
+      "B",
+      "AB"
+    ],
+    "answer": 0,
+    "title": "0",
+    "paragraphs": [
+      "Dítě se skupinou AB musí dostat alelu A od jednoho rodiče a alelu B od druhého. Rodič se skupinou 0 (genotyp 00) nemá alelu A ani B, takže AB dítě mít nemůže."
+    ],
+    "memory": "AB dítě potřebuje A od jednoho a B od druhého."
+  },
+  {
+    "id": 146,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 307 · str. 72",
+    "sourcePages": "72",
+    "sourceItem": "307",
+    "question": "Otec má krevní skupinu M, matka krevní skupinu N. Jakou krevní skupinu bude mít jejich dítě?",
+    "options": [
+      "M",
+      "MN",
+      "N",
+      "M nebo N, každou s pravděpodobností 50 %"
+    ],
+    "answer": 1,
+    "title": "MN",
+    "paragraphs": [
+      "V systému MN neexistuje recesivní alela, alely M a N jsou kodominantní. Otec předá M, matka N a dítě je heterozygot MN s oběma antigeny."
+    ],
+    "memory": "Kodominance: obě alely jsou vidět."
+  },
+  {
+    "id": 147,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 308 · str. 72",
+    "sourcePages": "72",
+    "sourceItem": "308",
+    "question": "Čím se vyznačuje alogamická populace?",
+    "options": [
+      "její jedinci se rozmnožují samooplozením",
+      "obsahuje vždy 25 % dominantních homozygotů, 50 % heterozygotů a 25 % recesivních homozygotů",
+      "její jedinci se nerozmnožují samooplozením, ale křížením mezi různými jedinci",
+      "tvoří ji jedinci různých druhů na jednom stanovišti"
+    ],
+    "answer": 2,
+    "title": "její jedinci se nerozmnožují samooplozením, ale křížením mezi různými jedinci",
+    "paragraphs": [
+      "Alogamie znamená oplození mezi různými jedinci, často jde o druhy s odděleným pohlavím, jako je člověk. Opakem je autogamie (samooplození)."
+    ],
+    "memory": "Allo = jiný, auto = sám."
+  },
+  {
+    "id": 148,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 309 · str. 72",
+    "sourcePages": "72",
+    "sourceItem": "309",
+    "question": "U intermediarity se v heterozygotovi obě alely projevují stejnou měrou. Jaký fenotypový štěpný poměr vznikne křížením dvou heterozygotů?",
+    "options": [
+      "3 : 1",
+      "1 : 1",
+      "9 : 3 : 3 : 1",
+      "1 : 2 : 1"
+    ],
+    "answer": 3,
+    "title": "1 : 2 : 1",
+    "paragraphs": [
+      "Aa × Aa dává genotypy AA, Aa a aa v poměru 1 : 2 : 1. Heterozygot má při intermediaritě vlastní přechodný fenotyp, proto se fenotypový poměr shoduje s genotypovým."
+    ],
+    "memory": "Intermediarita: tři barvy květu, tři skupiny potomků."
+  },
+  {
+    "id": 149,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 310 · str. 72",
+    "sourcePages": "72",
+    "sourceItem": "310",
+    "question": "Jakým vztahem lze podle Hardyho–Weinbergova zákona vyjádřit frekvenci heterozygotů (p a q jsou frekvence alel)?",
+    "options": [
+      "2pq",
+      "p²",
+      "q²",
+      "p + q"
+    ],
+    "answer": 0,
+    "title": "2pq",
+    "paragraphs": [
+      "Z rovnice p² + 2pq + q² = 1 odpovídá p² dominantním homozygotům, q² recesivním homozygotům a 2pq heterozygotům. Totéž lze zapsat i jako 1 − (p² + q²)."
+    ],
+    "memory": "(p + q)² rozepsané: prostřední člen jsou heterozygoti."
+  },
+  {
+    "id": 150,
+    "subject": "Biologie",
+    "category": "Biologie · Genetika",
+    "bookRef": "UK · Biologie · Genetika · otázka 312 · str. 73",
+    "sourcePages": "73",
+    "sourceItem": "312",
+    "question": "Co platí pro geny velkého účinku?",
+    "options": [
+      "podmiňují převážně kvantitativní znaky",
+      "podmiňují převážně kvalitativní znaky a vnější prostředí jejich projev ovlivňuje málo",
+      "mají vždy jen dominantní alely",
+      "vytvářejí polygenní systém s aditivním účinkem"
+    ],
+    "answer": 1,
+    "title": "podmiňují převážně kvalitativní znaky a vnější prostředí jejich projev ovlivňuje málo",
+    "paragraphs": [
+      "Geny velkého účinku (majorgeny) se výrazně projeví ve fenotypu a určují kvalitativní znaky, například krevní skupiny. Kvantitativní znaky podmiňuje polygenní systém genů malého účinku."
+    ],
+    "memory": "Velký gen, jasný znak: buď ano, nebo ne."
+  }
+]
