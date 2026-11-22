@@ -1,0 +1,1221 @@
+[
+  {
+    "id": 1001,
+    "subject": "Fyzika",
+    "category": "Fyzika · Základní pojmy",
+    "bookRef": "UK · Fyzika · Základní pojmy · úloha 1.50 · str. 12",
+    "sourcePages": "12",
+    "sourceItem": "1.50",
+    "question": "Které z uvedených jednotek jsou v soustavě SI jednotkami odvozenými?",
+    "options": [
+      "km",
+      "N·m⁻³",
+      "min",
+      "Pa"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "Odvozené jednotky vznikají ze základních násobením a dělením: N·m⁻³ = kg·m⁻²·s⁻² a pascal = N/m² = kg·m⁻¹·s⁻². Kilometr je jen násobek základní jednotky metr vytvořený předponou a minuta je vedlejší jednotka mimo SI."
+    ],
+    "memory": "Předpona z jednotky odvozenou jednotku nedělá."
+  },
+  {
+    "id": 1002,
+    "subject": "Fyzika",
+    "category": "Fyzika · Základní pojmy",
+    "bookRef": "UK · Fyzika · Základní pojmy · úloha 1.53 · str. 12",
+    "sourcePages": "12",
+    "sourceItem": "1.53",
+    "question": "Které z uvedených jednotek jsou vedlejšími jednotkami (mimo SI, ale povolenými)?",
+    "options": [
+      "elektronvolt",
+      "volt",
+      "mol",
+      "rok"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Elektronvolt (energie) a rok (čas) se používají vedle soustavy SI. Volt je odvozená jednotka SI a mol je základní jednotka SI."
+    ],
+    "memory": "eV, minuta, hodina, rok = vedlejší jednotky."
+  },
+  {
+    "id": 1003,
+    "subject": "Fyzika",
+    "category": "Fyzika · Základní pojmy",
+    "bookRef": "UK · Fyzika · Základní pojmy · úloha 1.54 · str. 12",
+    "sourcePages": "12",
+    "sourceItem": "1.54",
+    "question": "Co platí o vteřině?",
+    "options": [
+      "je šedesátinou hodiny",
+      "je jednotkou rovinného úhlu",
+      "je základní jednotkou času",
+      "je dříve používaný název jednotky času, který odpovídá sekundě"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "Úhlová vteřina je 1/3600 stupně, tedy jednotka rovinného úhlu. Slovem vteřina se dříve označovala i sekunda. Šedesátina hodiny je minuta a základní jednotkou času v SI je sekunda, ne vteřina."
+    ],
+    "memory": "Úhel: stupeň, minuta, vteřina."
+  },
+  {
+    "id": 1004,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.07 · str. 16",
+    "sourcePages": "16",
+    "sourceItem": "2.07",
+    "question": "Kterým výrokem lze vyjádřit druhý Newtonův zákon?",
+    "options": [
+      "každé těleso setrvává v klidu nebo v rovnoměrném přímočarém pohybu, dokud ho působící síly nepřinutí stav změnit",
+      "časová změna hybnosti je úměrná působící síle",
+      "součin hmotnosti hmotného bodu a jeho rychlosti se číselně rovná působící síle",
+      "akce se rovná reakci"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Zákon síly říká F = Δp/Δt, pro stálou hmotnost F = m·a. Možnost a je zákon setrvačnosti (1. zákon), d zákon akce a reakce (3. zákon). Součin m·v je hybnost, ne síla."
+    ],
+    "memory": "1. setrvačnost, 2. síla, 3. akce a reakce."
+  },
+  {
+    "id": 1005,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.08 · str. 16",
+    "sourcePages": "16",
+    "sourceItem": "2.08",
+    "question": "Jakými gravitačními silami na sebe působí dva hmotné body o různé hmotnosti?",
+    "options": [
+      "stejně velkými, stejného směru i orientace",
+      "stejně velkými, ale opačného směru",
+      "opačného směru, větší silou na bod o větší hmotnosti",
+      "opačného směru, menší silou na bod o větší hmotnosti"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Podle zákona akce a reakce jsou obě síly stejně velké a opačně orientované, i když se hmotnosti liší. Těžší bod má jen menší zrychlení, protože a = F/m."
+    ],
+    "memory": "Síly stejné, zrychlení různá."
+  },
+  {
+    "id": 1006,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.09 · str. 16",
+    "sourcePages": "16",
+    "sourceItem": "2.09",
+    "question": "Dvě duté koule, železná a olověná, mají stejný vnější poloměr i hmotnost a kulovou dutinu uprostřed. Současně je pustíme z klidu po nakloněné rovině a valí se bez prokluzu. Která odpověď i s komentářem je správná?",
+    "options": [
+      "dřív dole bude železná koule, protože má větší moment setrvačnosti, a získá tak větší rychlost",
+      "dřív dole bude železná koule, protože má menší moment setrvačnosti, a získá tak větší rychlost",
+      "dřív dole bude olověná koule, protože má menší moment setrvačnosti, a získá tak větší rychlost",
+      "dřív dole bude olověná koule, protože má větší moment setrvačnosti, a získá tak větší rychlost"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Železo má menší hustotu, a železná koule proto potřebuje silnější stěnu a hmotu blíž ke středu. Má tedy menší moment setrvačnosti, méně energie připadne na otáčení a více na posuvný pohyb, takže se skutálí rychleji."
+    ],
+    "memory": "Hmota blíž ose = menší moment setrvačnosti."
+  },
+  {
+    "id": 1007,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.10 · str. 17",
+    "sourcePages": "17",
+    "sourceItem": "2.10",
+    "question": "Tělesa A a B jsou v klidu ve stejné výšce. Těleso A začne volně padat a B je ve stejném okamžiku vystřeleno vodorovně. Jaký pohyb koná A vzhledem k B (bez odporu vzduchu)?",
+    "options": [
+      "rovnoměrně zrychlený směrem dolů",
+      "rovnoměrný přímočarý ve vodorovném směru",
+      "rovnoměrný směrem dolů",
+      "rovnoměrně zrychlený šikmo dolů"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Obě tělesa padají se stejným zrychlením g, takže jejich svislá vzdálenost se nemění. Liší se jen vodorovnou rychlostí tělesa B, která je stálá. Vůči B se proto A pohybuje rovnoměrně přímočaře ve vodorovném směru."
+    ],
+    "memory": "Stejné g = ve svislém směru relativní klid."
+  },
+  {
+    "id": 1008,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.11 · str. 17",
+    "sourcePages": "17",
+    "sourceItem": "2.11",
+    "question": "Těleso A začne volně padat a těleso B je ve stejném okamžiku a ze stejné výšky vystřeleno vodorovně směrem k A. Může dojít ke srážce (bez odporu vzduchu a zakřivení Země)?",
+    "options": [
+      "ne, v žádném případě",
+      "ano, vždy, pokud je pokus dost vysoko, jinak by tělesa dopadla na zem dřív než se srazí",
+      "ano, ale jen když mají obě tělesa stejnou hmotnost",
+      "ano, ale jen když B při výstřelu získá kinetickou energii přesně rovnou své původní potenciální energii"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Obě tělesa jsou v každém okamžiku ve stejné výšce, protože padají se stejným zrychlením nezávisle na hmotnosti. B se k A přibližuje vodorovně, a pokud nedopadnou dřív na zem, srazí se."
+    ],
+    "memory": "Vodorovný vrh = rovnoměrný pohyb + volný pád."
+  },
+  {
+    "id": 1009,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.12 · str. 17",
+    "sourcePages": "17",
+    "sourceItem": "2.12",
+    "question": "Eskalátor jede vzhledem k zemi rychlostí 1,5 m/s a cestující po něm kráčí ve směru jízdy rychlostí 3,6 km/h. Jaká je jeho rychlost vzhledem k zemi?",
+    "options": [
+      "5,1 km/h",
+      "2,5 m/s",
+      "9 km/h",
+      "6,4 m/s"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "3,6 km/h = 1 m/s. Rychlosti stejného směru se sčítají: 1,5 + 1 = 2,5 m/s, což je 2,5 · 3,6 = 9 km/h."
+    ],
+    "memory": "Nejdřív převeď na stejné jednotky."
+  },
+  {
+    "id": 1010,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.14 · str. 17",
+    "sourcePages": "17",
+    "sourceItem": "2.14",
+    "question": "Co je inerciální vztažná soustava?",
+    "options": [
+      "soustava, ve které neplatí zákon setrvačnosti, ale platí zákon síly",
+      "soustava, vůči které se izolovaný hmotný bod pohybuje rovnoměrně přímočaře nebo je v klidu",
+      "soustava, vůči které se izolovaný hmotný bod pohybuje rovnoměrně zrychleně",
+      "každá soustava pevně spojená se Zemí"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Inerciální soustava je definována platností zákona setrvačnosti: těleso bez působení sil v ní zůstává v klidu nebo v rovnoměrném přímočarém pohybu. Soustava spojená se Zemí je kvůli otáčení Země inerciální jen přibližně."
+    ],
+    "memory": "Inerciální = platí zákon setrvačnosti."
+  },
+  {
+    "id": 1011,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.15 · str. 18",
+    "sourcePages": "18",
+    "sourceItem": "2.15",
+    "question": "Co je izolovaný hmotný bod?",
+    "options": [
+      "hmotný bod odolný vůči působení elektrického pole",
+      "hmotný bod obklopený dielektrikem",
+      "hmotný bod v homogenním gravitačním poli",
+      "hmotný bod, na který nepůsobí žádné silové pole, takže s okolím nijak neinteraguje"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Izolovaný hmotný bod je idealizace: nepůsobí na něj žádná síla ani pole. Podle zákona setrvačnosti je pak v klidu nebo v rovnoměrném přímočarém pohybu."
+    ],
+    "memory": "Izolovaný = bez vnějších sil."
+  },
+  {
+    "id": 1012,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.16 · str. 18",
+    "sourcePages": "18",
+    "sourceItem": "2.16",
+    "question": "Jak se změní gravitační síla mezi dvěma hmotnými body, když se jejich vzdálenost zmenší na polovinu?",
+    "options": [
+      "zmenší se 2×",
+      "zvětší se 2×",
+      "zmenší se 4×",
+      "zvětší se 4×"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Gravitační síla je nepřímo úměrná druhé mocnině vzdálenosti: F = κ·m₁·m₂/r². Při poloviční vzdálenosti je r² čtvrtinové a síla čtyřnásobná."
+    ],
+    "memory": "Poloviční vzdálenost = 4× větší síla."
+  },
+  {
+    "id": 1013,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.18 · str. 18",
+    "sourcePages": "18",
+    "sourceItem": "2.18",
+    "question": "Jak závisí dráha na zrychlení u rovnoměrně zrychleného pohybu s nulovou počáteční rychlostí (za stejnou dobu)?",
+    "options": [
+      "druhá mocnina dráhy je přímo úměrná zrychlení",
+      "dráha je přímo úměrná druhé mocnině zrychlení",
+      "dráha je nepřímo úměrná zrychlení",
+      "dráha je přímo úměrná zrychlení"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Pro pohyb z klidu platí s = ½·a·t². Za stejnou dobu je tedy dráha přímo úměrná zrychlení. Na druhou je v tomto vztahu čas, ne zrychlení."
+    ],
+    "memory": "s = ½·a·t²."
+  },
+  {
+    "id": 1014,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.20 · str. 18",
+    "sourcePages": "18",
+    "sourceItem": "2.20",
+    "question": "Na těleso, které bylo na začátku v klidu, působí výslednice sil stálé nenulové velikosti. Co platí?",
+    "options": [
+      "těleso se bude pohybovat rovnoměrně zrychleně ve směru síly",
+      "kinetická energie tělesa poroste",
+      "těleso se bude pohybovat rovnoměrně přímočaře ve směru síly",
+      "kinetická energie tělesa bude stálá"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Stálá výslednice dává podle zákona síly stálé zrychlení a = F/m, rychlost tedy rovnoměrně roste a s ní i kinetická energie. Rovnoměrný pohyb by vyžadoval nulovou výslednici."
+    ],
+    "memory": "Stálá síla = stálé zrychlení."
+  },
+  {
+    "id": 1015,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.22 · str. 19",
+    "sourcePages": "19",
+    "sourceItem": "2.22",
+    "question": "Které veličině přísluší jednotka N·s?",
+    "options": [
+      "energii",
+      "momentu síly",
+      "impulsu síly",
+      "momentu setrvačnosti"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Impuls síly je součin síly a doby jejího působení, I = F·Δt, a rovná se změně hybnosti. Jednotka N·s = kg·m·s⁻¹. Energie má jednotku J, moment síly N·m a moment setrvačnosti kg·m²."
+    ],
+    "memory": "Impuls = F·t = změna hybnosti."
+  },
+  {
+    "id": 1016,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.23 · str. 19",
+    "sourcePages": "19",
+    "sourceItem": "2.23",
+    "question": "Jak se vyjádří newton v základních jednotkách SI?",
+    "options": [
+      "kg·m²·s⁻¹",
+      "kg·s·m⁻²",
+      "kg·m·s⁻²",
+      "kg·s·m⁻¹"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Z druhého Newtonova zákona F = m·a vychází N = kg·m·s⁻²."
+    ],
+    "memory": "N = kg · m/s²."
+  },
+  {
+    "id": 1017,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.25 · str. 19",
+    "sourcePages": "19",
+    "sourceItem": "2.25",
+    "question": "Na těleso o hmotnosti m působí síla F. Co platí o jeho zrychlení?",
+    "options": [
+      "je tím větší, čím větší je síla F",
+      "je tím větší, čím větší je hmotnost m",
+      "nezávisí na hmotnosti tělesa",
+      "nezávisí na působící síle"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Podle zákona síly a = F/m. Zrychlení roste s působící silou a klesá s hmotností tělesa."
+    ],
+    "memory": "a = F/m."
+  },
+  {
+    "id": 1018,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.26 · str. 19",
+    "sourcePages": "19",
+    "sourceItem": "2.26",
+    "question": "Těleso obíhá po kružnici se stálou úhlovou rychlostí. Jak se změní obvodová rychlost, zvětšíme-li poloměr?",
+    "options": [
+      "vzroste kvadraticky",
+      "vzroste lineárně",
+      "sníží se",
+      "zůstane stejná"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Obvodová rychlost je v = ω·r. Při stálé úhlové rychlosti je přímo úměrná poloměru, roste tedy lineárně."
+    ],
+    "memory": "v = ω·r."
+  },
+  {
+    "id": 1019,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.27 · str. 19",
+    "sourcePages": "19",
+    "sourceItem": "2.27",
+    "question": "Co platí o kinetické energii?",
+    "options": [
+      "je to vektor se směrem rychlosti, jednotkou je joule",
+      "je to vektor se směrem rychlosti, jednotkou je watt",
+      "je to skalár, jednotkou je joule",
+      "je to skalár, jednotkou je watt"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Kinetická energie Ek = ½·m·v² nemá směr, je to skalár. Jako každá energie se měří v joulech. Watt je jednotka výkonu."
+    ],
+    "memory": "Energie = skalár v joulech."
+  },
+  {
+    "id": 1020,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.28 · str. 20",
+    "sourcePages": "20",
+    "sourceItem": "2.28",
+    "question": "Tuhé těleso se rovnoměrně otáčí kolem nehybné osy. Jak vyjádříme jeho kinetickou energii (J je moment setrvačnosti, ω úhlová a v obvodová rychlost)?",
+    "options": [
+      "Ek = J·v²/2",
+      "Ek = J·ω²/2",
+      "Ek = J·(ω/2)²",
+      "Ek = J·ω²"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Kinetická energie otáčení je Ek = ½·J·ω². Vztah je obdobou Ek = ½·m·v², kde místo hmotnosti vystupuje moment setrvačnosti a místo rychlosti úhlová rychlost."
+    ],
+    "memory": "Otáčení: m → J, v → ω."
+  },
+  {
+    "id": 1021,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.29 · str. 20",
+    "sourcePages": "20",
+    "sourceItem": "2.29",
+    "question": "Které vztahy platí pro rovnoměrný pohyb hmotného bodu po kružnici (v obvodová rychlost, ω úhlová rychlost, f frekvence, r poloměr)?",
+    "options": [
+      "v = 2π·r",
+      "v = ω·f",
+      "ω = 2π·f",
+      "v = 2π·r·f"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Za jednu periodu urazí bod obvod 2πr a opíše úhel 2π. Proto ω = 2π·f a v = ω·r = 2π·r·f. Výraz 2πr je délka obvodu, ne rychlost."
+    ],
+    "memory": "ω = 2πf, v = ωr."
+  },
+  {
+    "id": 1022,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.31 · str. 20",
+    "sourcePages": "20",
+    "sourceItem": "2.31",
+    "question": "Hmotnou částici drženou v klidu v homogenním gravitačním poli uvolníme. Co platí?",
+    "options": [
+      "začne se pohybovat rovnoměrně zrychleně",
+      "začne se pohybovat přímočaře ve směru gravitačního zrychlení",
+      "její kinetická energie poroste s druhou mocninou času",
+      "její potenciální energie bude klesat s druhou mocninou času"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Stálá síla dává stálé zrychlení g ve směru pole. Rychlost v = g·t, proto Ek = ½·m·g²·t² roste s druhou mocninou času. Dráha s = ½·g·t² roste také kvadraticky, a o stejnou hodnotu ubývá potenciální energie."
+    ],
+    "memory": "Volný pád: v ~ t, s i Ek ~ t²."
+  },
+  {
+    "id": 1023,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.33 · str. 20",
+    "sourcePages": "20",
+    "sourceItem": "2.33",
+    "question": "Jak se pohybuje těleso, na které nepůsobí žádná vnější síla?",
+    "options": [
+      "je vždy v klidu",
+      "pohybuje se rovnoměrně zpomaleně",
+      "pohybuje se rovnoměrně přímočaře, nebo je v klidu",
+      "jeho pohyb je nepředvídatelný"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "To je zákon setrvačnosti. Bez působení sil se stav tělesa nemění: buď zůstává v klidu, nebo se dál pohybuje stálou rychlostí po přímce."
+    ],
+    "memory": "Bez síly beze změny pohybu."
+  },
+  {
+    "id": 1024,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.35 · str. 21",
+    "sourcePages": "21",
+    "sourceItem": "2.35",
+    "question": "Plavec plave v klidné vodě rychlostí v₁. Řeku tekoucí rychlostí v₂ přeplave tak, že míří šikmo proti proudu a od břehu se vzdaluje kolmo. Jak velká je jeho rychlost vzhledem k pozorovateli na břehu?",
+    "options": [
+      "v₂ − v₁",
+      "√(v₁² + v₂²)",
+      "√(v₁² − v₂²)",
+      "v₁ + v₂"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Výsledná rychlost je kolmá k proudu a s rychlostí proudu v₂ skládá pravoúhlý trojúhelník, jehož přepona je vlastní rychlost plavce v₁. Podle Pythagorovy věty je výsledná rychlost √(v₁² − v₂²)."
+    ],
+    "memory": "Přepona je vlastní rychlost plavce."
+  },
+  {
+    "id": 1025,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.36 · str. 21",
+    "sourcePages": "21",
+    "sourceItem": "2.36",
+    "question": "Na čem závisí kinetická (pohybová) energie tělesa?",
+    "options": [
+      "jen na rychlosti tělesa",
+      "jen na hmotnosti tělesa",
+      "na hmotnosti a rychlosti tělesa",
+      "na hmotnosti, tíhovém zrychlení a poloze tělesa"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Ek = ½·m·v² závisí na hmotnosti a rychlosti. Na tíhovém zrychlení a výšce závisí potenciální energie."
+    ],
+    "memory": "Ek = ½mv², Ep = mgh."
+  },
+  {
+    "id": 1026,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.37 · str. 21",
+    "sourcePages": "21",
+    "sourceItem": "2.37",
+    "question": "Kde je nejmenší tíhové zrychlení, započítáme-li i odstředivé zrychlení způsobené otáčením Země?",
+    "options": [
+      "na pólech",
+      "na rovníku",
+      "na 45° severní šířky",
+      "tíhové zrychlení na zeměpisné šířce nezávisí"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Odstředivé zrychlení je největší na rovníku, kde je největší vzdálenost od osy otáčení, a působí proti gravitaci. Navíc je tam Země nejširší. Tíhové zrychlení je proto na rovníku nejmenší a na pólech největší."
+    ],
+    "memory": "Rovník: nejvíc odstředivé, nejméně tíhové."
+  },
+  {
+    "id": 1027,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.38 · str. 21",
+    "sourcePages": "21",
+    "sourceItem": "2.38",
+    "question": "Na čem závisí polohová (potenciální) tíhová energie tělesa?",
+    "options": [
+      "jen na poloze tělesa ve výšce",
+      "na rychlosti tělesa",
+      "na hmotnosti a rychlosti tělesa",
+      "na hmotnosti tělesa, tíhovém zrychlení a poloze tělesa"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Tíhová potenciální energie je Ep = m·g·h. Závisí na hmotnosti, tíhovém zrychlení a výšce nad zvolenou nulovou hladinou, na rychlosti ne."
+    ],
+    "memory": "Ep = m·g·h."
+  },
+  {
+    "id": 1028,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.39 · str. 21",
+    "sourcePages": "21",
+    "sourceItem": "2.39",
+    "question": "Které tvrzení o skalárech a vektorech je pravdivé?",
+    "options": [
+      "velikost síly je vektor",
+      "moment síly je skalár",
+      "hybnost je skalár",
+      "čas je skalár"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Čas je určen jen číslem a jednotkou, je to skalár. Velikost jakéhokoli vektoru je také skalár. Moment síly a hybnost jsou vektory."
+    ],
+    "memory": "Velikost vektoru je skalár."
+  },
+  {
+    "id": 1029,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.40 · str. 22",
+    "sourcePages": "22",
+    "sourceItem": "2.40",
+    "question": "Co platí pro rovnoměrný přímočarý pohyb?",
+    "options": [
+      "dráha je lineární funkcí času a rychlost je stálá",
+      "dráha je stálá a rychlost je lineární funkcí času",
+      "dráha je kvadratickou a rychlost lineární funkcí času",
+      "dráha i rychlost jsou lineární funkcí času"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Při rovnoměrném pohybu je rychlost stálá a dráha s = v·t roste přímo úměrně času. Kvadratická dráha a lineární rychlost patří k rovnoměrně zrychlenému pohybu."
+    ],
+    "memory": "Rovnoměrný: s = v·t."
+  },
+  {
+    "id": 1030,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.42 · str. 22",
+    "sourcePages": "22",
+    "sourceItem": "2.42",
+    "question": "Co platí o rychlosti a době volného pádu ve vakuu?",
+    "options": [
+      "rychlost padajícího tělesa je stálá",
+      "doba pádu je přímo úměrná výšce",
+      "rychlost je přímo úměrná době pádu",
+      "rychlost závisí na hmotnosti tělesa"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Volný pád je rovnoměrně zrychlený pohyb: v = g·t, rychlost tedy roste přímo úměrně době pádu. Výška je h = ½·g·t², takže doba pádu roste jen s odmocninou výšky. Ve vakuu na hmotnosti nezáleží."
+    ],
+    "memory": "v = g·t, h = ½·g·t²."
+  },
+  {
+    "id": 1031,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.43 · str. 22",
+    "sourcePages": "22",
+    "sourceItem": "2.43",
+    "question": "Na čem závisí rychlost tělesa při volném pádu ve vakuu?",
+    "options": [
+      "je nepřímo úměrná době pádu",
+      "závisí na tíhovém zrychlení v daném místě",
+      "je stálá",
+      "je nižší kvůli odporu vzduchu"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Rychlost volného pádu v = g·t závisí na tíhovém zrychlení v daném místě a s časem roste. Ve vakuu žádný odpor vzduchu není."
+    ],
+    "memory": "Na Měsíci padá těleso pomaleji."
+  },
+  {
+    "id": 1032,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.44 · str. 22",
+    "sourcePages": "22",
+    "sourceItem": "2.44",
+    "question": "Jak závisí rychlost volného pádu ve vakuu na hmotnosti tělesa?",
+    "options": [
+      "závisí na hmotnosti tělesa",
+      "nezávisí na hmotnosti tělesa",
+      "nezávisí na tíhovém zrychlení v daném místě",
+      "doba pádu je přímo úměrná výšce"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Ve vakuu padají všechna tělesa se stejným zrychlením g, takže jejich rychlost na hmotnosti nezávisí (pokus s pírkem a kladívkem). Závisí však na g a doba pádu roste s odmocninou výšky."
+    ],
+    "memory": "Ve vakuu padá pírko jako kladivo."
+  },
+  {
+    "id": 1033,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.45 · str. 22",
+    "sourcePages": "22",
+    "sourceItem": "2.45",
+    "question": "Jaký směr má dostředivé zrychlení hmotného bodu při rovnoměrném pohybu po kružnici vzhledem k okamžité rychlosti?",
+    "options": [
+      "stejný jako okamžitá rychlost",
+      "kolmý k okamžité rychlosti",
+      "postupně svírá s rychlostí různé úhly od 0 do 2π podle polohy bodu",
+      "opačný než okamžitá rychlost"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Okamžitá rychlost má směr tečny ke kružnici, dostředivé zrychlení míří do středu po poloměru. Poloměr je k tečně vždy kolmý, proto je zrychlení stále kolmé k rychlosti a mění jen její směr."
+    ],
+    "memory": "Tečna ⟂ poloměr."
+  },
+  {
+    "id": 1034,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.46 · str. 22",
+    "sourcePages": "22",
+    "sourceItem": "2.46",
+    "question": "Které vztahy vyjadřují dostředivé zrychlení při rovnoměrném pohybu po kružnici (v obvodová rychlost, ω úhlová rychlost, f frekvence, T perioda, r poloměr)?",
+    "options": [
+      "a = v²/r",
+      "a = ω²·r",
+      "a = (2π·f)²·r",
+      "a = 4π²·r/T²"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Všechny vztahy jsou ekvivalentní. Ze základního a = v²/r plyne po dosazení v = ω·r vztah a = ω²·r, a protože ω = 2π·f = 2π/T, také a = (2πf)²·r = 4π²·r/T²."
+    ],
+    "memory": "a = v²/r = ω²r."
+  },
+  {
+    "id": 1035,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.48 · str. 23",
+    "sourcePages": "23",
+    "sourceItem": "2.48",
+    "question": "Hmotný bod obíhá rovnoměrně po kružnici o poloměru 0,1 m s dobou oběhu 10 s. Co platí?",
+    "options": [
+      "frekvence je 10 Hz",
+      "úhlová rychlost je přibližně 0,6 s⁻¹",
+      "perioda je 10 s",
+      "obvodová rychlost je přibližně 0,06 s⁻¹"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Doba oběhu je perioda T = 10 s, frekvence je 1/T = 0,1 Hz. Úhlová rychlost ω = 2π/T ≈ 0,63 s⁻¹. Obvodová rychlost v = ω·r ≈ 0,06 m/s, ale v možnosti d je chybná jednotka s⁻¹."
+    ],
+    "memory": "Hlídej i jednotku."
+  },
+  {
+    "id": 1036,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.51 · str. 23",
+    "sourcePages": "23",
+    "sourceItem": "2.51",
+    "question": "Na povolení matice kola bylo potřeba síly 200 N na konci klíče dlouhého 30 cm. Jakou sílu budeme potřebovat s klíčem dvojnásobné délky?",
+    "options": [
+      "100 N",
+      "400 N",
+      "50 N",
+      "800 N"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Potřebný je stejný moment síly M = F·r. Při dvojnásobném rameni stačí poloviční síla: 200 N · 0,3 m = 100 N · 0,6 m."
+    ],
+    "memory": "Delší rameno = menší síla."
+  },
+  {
+    "id": 1037,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.52 · str. 23",
+    "sourcePages": "23",
+    "sourceItem": "2.52",
+    "question": "Čím je způsoben příliv a odliv?",
+    "options": [
+      "gravitačním působením Měsíce",
+      "slunečními skvrnami",
+      "ozonovými dírami v atmosféře",
+      "změnami magnetického pole Země"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Slapové jevy vyvolává hlavně rozdílné gravitační působení Měsíce na přivrácenou a odvrácenou stranu Země, menším dílem i Slunce."
+    ],
+    "memory": "Slapy dělá hlavně Měsíc."
+  },
+  {
+    "id": 1038,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.53 · str. 24",
+    "sourcePages": "24",
+    "sourceItem": "2.53",
+    "question": "Co platí o rychlosti pohybu?",
+    "options": [
+      "je to skalární veličina",
+      "je to vektorová veličina",
+      "udává se v m·s⁻²",
+      "její jednotka je základní jednotkou SI"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Rychlost má velikost i směr, je to vektor. Jednotka m·s⁻¹ je odvozená. V m·s⁻² se měří zrychlení."
+    ],
+    "memory": "Rychlost = vektor v m/s."
+  },
+  {
+    "id": 1039,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.54 · str. 24",
+    "sourcePages": "24",
+    "sourceItem": "2.54",
+    "question": "Jak se mění rychlost při rovnoměrně zrychleném pohybu?",
+    "options": [
+      "nemění se",
+      "mění se nepravidelně",
+      "mění se rovnoměrně (stejně za stejný čas roste nebo klesá)",
+      "udává se v m·s⁻²"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Rovnoměrně zrychlený pohyb má stálé zrychlení, rychlost se tedy za stejné časové úseky změní o stejnou hodnotu. Rovnoměrně zpomalený pohyb je jeho případ se záporným zrychlením. Rychlost se udává v m·s⁻¹."
+    ],
+    "memory": "Stálé zrychlení = rovnoměrná změna rychlosti."
+  },
+  {
+    "id": 1040,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.56 · str. 24",
+    "sourcePages": "24",
+    "sourceItem": "2.56",
+    "question": "Síla F posune těleso po dráze s a s jejím směrem svírá úhel α. Jakou práci vykoná?",
+    "options": [
+      "W = F·s·sin α",
+      "W = F·s·cos α",
+      "W = F·s/sin α",
+      "W = F·s/cos α"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Práci koná jen složka síly ve směru posunutí, F·cos α. Proto W = F·s·cos α. Síla kolmá k posunutí (α = 90°) práci nekoná."
+    ],
+    "memory": "Kolmá síla práci nekoná."
+  },
+  {
+    "id": 1041,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.57 · str. 24",
+    "sourcePages": "24",
+    "sourceItem": "2.57",
+    "question": "Síla F ve směru vodorovného pohybu překonává tření a udržuje těleso v rovnoměrném pohybu rychlostí v. Co platí o potřebném výkonu?",
+    "options": [
+      "je dán vztahem P = F·v",
+      "je přímo úměrný třecí síle",
+      "je přímo úměrný rychlosti tělesa",
+      "je přímo úměrný kinetické energii tělesa"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2
+    ],
+    "title": "Správně: A, B a C",
+    "paragraphs": [
+      "Výkon P = W/t = F·s/t = F·v. Při rovnoměrném pohybu je F rovna třecí síle, takže výkon je úměrný třecí síle i rychlosti. Kinetická energie roste s v², proto jí úměrný není."
+    ],
+    "memory": "P = F·v."
+  },
+  {
+    "id": 1042,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.58 · str. 24",
+    "sourcePages": "24",
+    "sourceItem": "2.58",
+    "question": "Sněhové vločky padají za bezvětří rychlostí 8 cm/s. Vítr je pak každou sekundu snese o 6 cm stranou. Jaká je rychlost vločky vzhledem k zemi?",
+    "options": [
+      "14 cm/s",
+      "2 cm/s",
+      "přibližně 5,3 cm/s",
+      "0,1 m/s"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Svislá a vodorovná rychlost jsou na sebe kolmé, výslednice je podle Pythagorovy věty √(8² + 6²) = 10 cm/s = 0,1 m/s."
+    ],
+    "memory": "Kolmé rychlosti: 6, 8, 10."
+  },
+  {
+    "id": 1043,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.59 · str. 25",
+    "sourcePages": "25",
+    "sourceItem": "2.59",
+    "question": "Co platí o rovnoměrném pohybu po kružnici (jednotky a úměrnosti)?",
+    "options": [
+      "jednotkou obvodové rychlosti je m·s⁻¹",
+      "jednotkou úhlové rychlosti je rad·s⁻¹",
+      "úhlová rychlost je přímo úměrná periodě",
+      "obvodová rychlost je nepřímo úměrná frekvenci"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Obvodová rychlost se měří v m·s⁻¹, úhlová v rad·s⁻¹ (tedy s⁻¹). Protože ω = 2π/T, je úhlová rychlost periodě nepřímo úměrná, a v = 2πr·f je frekvenci přímo úměrná."
+    ],
+    "memory": "ω = 2π/T, v = 2πrf."
+  },
+  {
+    "id": 1044,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.60 · str. 25",
+    "sourcePages": "25",
+    "sourceItem": "2.60",
+    "question": "Co platí o rovnoměrném pohybu po kružnici (úměrnosti veličin)?",
+    "options": [
+      "jednotkou obvodové rychlosti je s⁻¹",
+      "jednotkou úhlové rychlosti je m·s⁻¹",
+      "úhlová rychlost je přímo úměrná frekvenci",
+      "obvodová rychlost je nepřímo úměrná periodě"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "ω = 2π·f je přímo úměrná frekvenci a v = 2π·r/T je nepřímo úměrná periodě. Jednotky jsou v možnostech a a b prohozené: obvodová rychlost má m·s⁻¹, úhlová s⁻¹."
+    ],
+    "memory": "Rychlejší oběh = kratší perioda."
+  },
+  {
+    "id": 1045,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.62 · str. 25",
+    "sourcePages": "25",
+    "sourceItem": "2.62",
+    "question": "Co musí začít působit na těleso v rovnoměrném přímočarém pohybu, aby přešlo do rovnoměrného pohybu po kružnici?",
+    "options": [
+      "dostředivá síla",
+      "výslednice dostředivé a tečné síly",
+      "síla ve směru tečny ke kruhové dráze",
+      "odstředivá síla"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "K rovnoměrnému pohybu po kružnici je potřeba síla stále kolmá k rychlosti a mířící do středu. Ta mění jen směr rychlosti. Tečná složka by měnila velikost rychlosti a odstředivá síla je setrvačná síla v otáčející se soustavě."
+    ],
+    "memory": "Kružnice = dostředivá síla."
+  },
+  {
+    "id": 1046,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.63 · str. 25",
+    "sourcePages": "25",
+    "sourceItem": "2.63",
+    "question": "Těleso se pohybuje a proti směru pohybu na ně působí tření. Ve směru pohybu působí síla menší než třecí síla. Jak se těleso bude pohybovat?",
+    "options": [
+      "rovnoměrně přímočaře",
+      "rovnoměrně zrychleně, se zrychlením nezávislým na hmotnosti",
+      "zpomaleně",
+      "rovnoměrně zrychleně, se zrychlením závislým na hmotnosti"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Výslednice sil míří proti pohybu, takže těleso zpomaluje. Zrychlení má opačný směr než rychlost."
+    ],
+    "memory": "Výslednice proti pohybu = brzdění."
+  },
+  {
+    "id": 1047,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.65 · str. 26",
+    "sourcePages": "26",
+    "sourceItem": "2.65",
+    "question": "Pohybující se těleso brzdí tření a ve směru pohybu na ně působí stejně velká síla. Jiné síly nepůsobí. Co platí?",
+    "options": [
+      "těleso se bude pohybovat rovnoměrně přímočaře",
+      "kinetická energie tělesa poroste",
+      "těleso se bude pohybovat rovnoměrně zpomaleně",
+      "kinetická energie tělesa se s časem nemění"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Síly se vyruší, výslednice je nulová a podle zákona setrvačnosti se těleso dál pohybuje stálou rychlostí. Stálá rychlost znamená i stálou kinetickou energii."
+    ],
+    "memory": "Nulová výslednice = stálá rychlost."
+  },
+  {
+    "id": 1048,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.66 · str. 26",
+    "sourcePages": "26",
+    "sourceItem": "2.66",
+    "question": "Co platí o tíhové síle, která působí na těleso položené bez tření na nakloněné rovině?",
+    "options": [
+      "uděluje tělesu zrychlení vždy rovné tíhovému zrychlení",
+      "zcela se vyruší s reakcí podložky",
+      "zčásti se vyruší s reakcí podložky a zčásti uděluje tělesu zrychlení, jehož velikost závisí na sklonu roviny",
+      "je nulová, protože nejde o volný pád"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Tíhu rozložíme na složku kolmou k rovině, kterou vyrovná reakce podložky, a složku rovnoběžnou s rovinou. Ta uděluje zrychlení a = g·sin α, které roste se sklonem."
+    ],
+    "memory": "Nakloněná rovina: a = g·sin α."
+  },
+  {
+    "id": 1049,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.68 · str. 26",
+    "sourcePages": "26",
+    "sourceItem": "2.68",
+    "question": "Jaký rozměr má veličina X = (Δp/Δt)·s, kde Δp je změna hybnosti za dobu Δt a s uražená dráha?",
+    "options": [
+      "kg·m²·s⁻²",
+      "kg·m²·s",
+      "kg·m²·s⁻¹",
+      "kg²·m·s⁻²"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Podíl změny hybnosti a času je síla (kg·m·s⁻²). Síla krát dráha je práce, takže X má rozměr joulu: kg·m²·s⁻²."
+    ],
+    "memory": "F·s = práce v joulech."
+  },
+  {
+    "id": 1050,
+    "subject": "Fyzika",
+    "category": "Fyzika · Mechanika I",
+    "bookRef": "UK · Fyzika · Mechanika I · úloha 2.69 · str. 26",
+    "sourcePages": "26",
+    "sourceItem": "2.69",
+    "question": "Které grafy v závislosti na čase správně popisují rovnoměrně zrychlený pohyb z nulové počáteční rychlosti?",
+    "options": [
+      "dráhu znázorňuje přímka rovnoběžná s osou t",
+      "zrychlení znázorňuje přímka rovnoběžná s osou t",
+      "dráhu znázorňuje stoupající přímka procházející počátkem",
+      "rychlost znázorňuje stoupající přímka procházející počátkem"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "Zrychlení je stálé, jeho graf je vodorovná přímka. Rychlost v = a·t roste lineárně z nuly. Dráha s = ½·a·t² je větev paraboly, ne přímka."
+    ],
+    "memory": "a konstantní, v přímka, s parabola."
+  }
+]

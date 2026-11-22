@@ -6,7 +6,7 @@ Kvíz v páté záložce. Úložiště `uk-learning-v2`, volba sekce `uk-section
 
 | Předmět | Soubor | Publikace | Rozsah | Klíč |
 |---|---|---|---|---|
-| Fyzika | `806318126-nahled-EK51316.pdf` | Amler a kol., *Modelové otázky z fyziky pro přijímací zkoušky*, Karolinum pro 2. LF UK, 8. vyd. 2023, ISBN 978-80-246-5740-0 | **jen ukázka**: 15 stran, úlohy 1.01–1.64 (Základní pojmy) a 2.01–2.05 (Mechanika I), str. 5–15 | v ukázce chybí, odpovědi ověřeny výpočtem |
+| Fyzika | `806318126-nahled-EK51316.pdf` (ukázka), od 22. 11. 2026 celá kniha jako textový export `Modelove-otazky-z-fyziky-Amler.pdf.txt` | Amler a kol., *Modelové otázky z fyziky pro přijímací zkoušky*, Karolinum pro 2. LF UK, 8. vyd. 2023, ISBN 978-80-246-5740-0 | celá kniha 175 stran, 11 kapitol, 907 úloh (1.01–11.91), str. 5–166 | kap. 12 Správné odpovědi, str. 167–173 (jedna až čtyři správné) |
 | Chemie | `876103174-Modelove-Otazky-z-Chemie-Pro-Prijimaci-Zkousky.pdf` | Blanický, Pelouch, *Modelové otázky z chemie pro přijímací zkoušky*, Karolinum pro 2. LF UK, 7. vyd. 2019, ISBN 978-80-246-4441-7 | 220 stran, kap. 1–5, asi 1 180 otázek | správná písmena tučně přímo u otázek; otázky nejsou číslované, evidence je „str. X, otázka N“ (pořadí na tištěné stránce) |
 | Biologie | `776944895-Modelove-Otazky-z-Biologie-Pro-Prijimaci-Zkousky.pdf` | Kočárek a kol., *Modelové otázky z biologie pro přijímací zkoušky*, Karolinum pro 2. LF UK, 7. vyd. 2019, ISBN 978-80-246-4443-1 | 206 stran, 11 kapitol, 920 otázek | str. 198–204 |
 
@@ -377,10 +377,24 @@ Oprava znění bez změny ID, klíče a pořadí možností (sporná místa, kte
 - 957 (úloha 492): otázka uvádí úplnou rovnici fotosyntézy, ve které voda vzniká jako produkt.
 - 965 (úloha 530): otázka se ptá na krev, která vstupuje ze srdce do aorty, takže u ryb jde jednoznačně o odkysličenou krev v břišní aortě.
 
-Překryv s dřívějším vyřazením: dávky 888–937 a 938–987 použily i úlohy 291–630, které mapa u dávek 151–600 vyřadila jako variantu jiné otázky (například 321, 373 a 420 vedle ČB 118, 439 a 440 vedle UK 250, 475 a 477 vedle UK 300). Ve formátu zkoušky testují více tvrzení najednou a klíč odpovídá knize. Zda je ponechat, rozhoduje správce, odstranění by vyžadovalo migrační test uloženého pokroku.
+Překryv s dřívějším vyřazením: dávky 888–937 a 938–987 použily i úlohy 291–630, které mapa u dávek 151–600 vyřadila jako variantu jiné otázky (například 321, 373 a 420 vedle ČB 118, 439 a 440 vedle UK 250, 475 a 477 vedle UK 300). Ve formátu zkoušky testují více tvrzení najednou a klíč odpovídá knize. Správce 22. 11. 2026 rozhodl tyto otázky ponechat a vést je jako variantu dřívější otázky.
 
 Biologie (Kočárek) je tím posouzená celá. Nepoužité zůstávají jen úlohy se stejným poznatkem jako jiná otázka, úloha 897 (klíč chybí a obhajitelných je více možností) a úloha 691 (sporná možnost a).
 
+## Dávka ID 1001–1050, fyzika z celé knihy (v2.82.0)
+
+Soubor `uk-1001-1050.json`, generátor `create_uk_1001_1050.py`. Formát zkoušky (jedna až čtyři správné možnosti v pořadí knihy), klíč porovnán s kap. 12 knihy. Textový export ztrácí horní indexy, proto jsou vzorce přepsané podle smyslu úlohy a výpočty ověřené.
+
+| Předmět | Kapitola | Úlohy | ID |
+|---|---|---|---|
+| Fyzika | 1. Základní pojmy (str. 12) | 1.50, 1.53, 1.54 (dříve odložené jako sporné, klíč je teď znám) | 1001–1003 |
+| Fyzika | 2. Mechanika I (str. 16–26) | 2.07–2.12, 2.14–2.16, 2.18, 2.20, 2.22, 2.23, 2.25–2.29, 2.31, 2.33, 2.35–2.40, 2.42–2.46, 2.48, 2.51–2.54, 2.56–2.60, 2.62, 2.63, 2.65, 2.66, 2.68, 2.69 | 1004–1050 |
+
+Nepřidáno (stejný poznatek jako starší nebo nová otázka):
+- 2.04 a 2.06 (stejná situace jako UK 16 a 17), 2.13 (tíhové zrychlení, ČB 601), 2.17 (jako 2.16), 2.21 (jednotka povrchového napětí, LF MU 10), 2.30 a 2.41 (jednotka momentu síly, LF MU 702), 2.32, 2.34 a 2.85 (skalár a vektor, ČB 534 a nová 1032), 2.47 (směr dostředivého zrychlení, nová 1037), 2.49, 2.50 a 2.81 (v = 2πrf a ω = 2πf, nová 1024), 2.55 (jako 2.54), 2.61 (stav beztíže, LF MU 67), 2.64 (jako 2.65), 2.67 (práce a výkon, LF MU 64), 2.70–2.73 (grafy pohybu, LF MU 51 a 52, nové 1033 a 1050), 2.80 (odstředivé zrychlení na rovníku, nová 1029), 2.84 (vzorec kinetické energie, v exportu nečitelný a jako nová 1028), 2.86 (jako 2.20).
+- 2.19 v exportu ztratil rozlišení možností A a B, poznatek p = F/S pokrývá LF MU.
+- Úlohy 2.74–2.79, 2.82 a 2.83 se doplní v další dávce.
+
 ## Stav pokrytí
 
-Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) je posouzená celá včetně úloh s více správnými odpověďmi (ID 738–1000). Fyzika (Amler) je pokrytá jen v rozsahu dodané ukázky (úlohy 1.01–1.64 a 2.01–2.05). Pro další fyziku je potřeba plná kniha. Další dávka začne od ID 1001.
+Chemie (Blanický, Pelouch, 1 137 úloh str. 7–219) je posouzená celá. Biologie (Kočárek, 920 otázek) je posouzená celá včetně úloh s více správnými odpověďmi (ID 738–1000). Fyzika (Amler, celá kniha 907 úloh) je posouzená v kap. 1 a v kap. 2 po úlohu 2.73. Další dávka začne od ID 1051 úlohami 2.74 a výš.
