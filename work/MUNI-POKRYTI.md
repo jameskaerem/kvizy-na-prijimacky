@@ -186,6 +186,16 @@ Chemie, ID 508–550:
 
 Vynecháno z úloh 39–118: 39, 41 (tautomerie, UK 276 a 508), 42 (UK 424), 44 (varianta 509), 47 (varianta 450), 48, 49, 71 (vzorec jen jako obrázek), 51, 52 (elektrofil, UK 271), 59, 60 (naftalen a anthracen, varianty 516), 63 (klíč „žádná“, všechna činidla reagují), 64 (varianta 526), 67 (UK 332), 68 (chloroform, UK 317), 75 (naftol, UK 372), 77, 92 (benzaldehyd a benzylalkohol, UK 379 a 402), 79 (UK 367), 84 (UK 404), 86, 87 (chinony, UK 373), 91 (varianta 532), 95 (UK 361), 96 (UK 370), 97 (redukce ketonu, UK 404), 98 (acetaly, UK 365), 101 (UK 452), 102, 110, 111 (třídění aminů, 538–539), 104 (UK 272), 107 (UK 453), 108 (varianta 541).
 
-Dosud nepokryté oddíly: chemie Organická chemie od úlohy 119, Biochemie a zbylé úlohy prvních kapitol; biologie Životní funkce 10 (trypanozoma a tse-tse, LF MU 399, nejspíš vyřadit); zbylé úlohy prvních kapitol fyziky.
+## Dávka 551–600 (verze 2.66.0)
+
+Chemie, ID 551–600:
+- Organická chemie: reakce a deriváty (str. 98–103), ID 551–577: 123, 127, 128, 130, 132, 133, 135, 137, 140, 143, 145, 149, 154, 155, 156, 157, 166, 168, 169, 172, 174, 175, 177, 179, 183, 184, 185. Úloha 169 s klíčem „žádná“ má doplněnou správnou trojici (aldimin, disulfid, acetal). Organická chemie je tím uzavřena.
+- Sacharidy, lipidy a další biomolekuly (str. 104–107), ID 578–600: 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 16, 18, 20, 23, 24, 25, 28, 32, 34, 35, 40, 43.
+
+Vynecháno z organické chemie 119–185: 119 (benzoyl, UK 327), 120 (UK 409), 121, 122, 129, 134 (klíč „žádná“ nebo více správných možností; trikarboxylová citronová kyselina UK 410), 124–126, 139, 147, 148, 151–153, 160–163, 167, 170, 171, 173, 176, 178, 181 (vzorce nebo schémata jen jako obrázek), 131, 136 (mléčná a pyrohroznová kyselina, UK 421), 138 (močovina, UK 457), 141 (kyselina jablečná, UK 422), 142 (nitrily, UK 454), 144, 146 (pyran, UK 467), 150, 158 (počet dusíků v pyrimidinu a purinu, UK 474 a 478), 159 (thiazol, UK 462), 164 (porfin, UK 42), 165 (pyridin v nikotinu, UK 471), 180 (klíč „žádná“, chinony a difenoly UK 373), 182 (varianta 524).
+
+Vynecháno z úloh 1–44 o sacharidech a lipidech: 8 (varianta 582), 13–15 (vzorce jen jako obrázek), 17, 19 (glykosidová vazba, UK 506), 21, 22 (laktóza a sacharóza, BIO 286–287), 26 (varianta 593–594), 27, 29, 39 (klíč „žádná“), 30, 31, 33 (palmitová, olejová a linolová kyselina, UK 518–521), 36–38, 41, 42 (mýdla a ztužování, UK 524–529), 44 (žluknutí, UK 528).
+
+Dosud nepokryté oddíly: chemie Biochemie od úlohy 45 (aminokyseliny, bílkoviny, nukleové kyseliny, enzymy, metabolismus) a zbylé úlohy prvních kapitol; biologie Životní funkce 10 (trypanozoma a tse-tse, LF MU 399, nejspíš vyřadit); zbylé úlohy prvních kapitol fyziky.
 
 Druhý soubor `877344967-LF-MU-Modelove-Otazky-New.pdf` je podle vlastníka (21. 11. 2026) stejná publikace jako hlavní soubor Mornstein a kol. Samostatně se nepokrývá; zdrojem kvízu LF MU je jen hlavní soubor.
