@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 351,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 2 · str. 46",
+    "sourcePages": "46",
+    "sourceItem": "2",
+    "question": "Jak se láme světelný paprsek při přechodu z vakua do skla?",
+    "options": [
+      "od kolmice",
+      "neláme se",
+      "ke kolmici",
+      "nastane úplný odraz"
+    ],
+    "answer": 2,
+    "title": "ke kolmici",
+    "paragraphs": [
+      "Sklo je opticky hustší než vakuum (n ≈ 1,5), světlo se v něm šíří pomaleji. Podle Snellova zákona je úhel lomu menší než úhel dopadu, paprsek se láme ke kolmici."
+    ],
+    "memory": "Do hustšího = ke kolmici."
+  },
+  {
+    "id": 352,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 3 · str. 46",
+    "sourcePages": "46",
+    "sourceItem": "3",
+    "question": "Světlo přechází z prostředí s indexem lomu 2 do prostředí s indexem lomu 1. V jakém rozmezí musí být sinus úhlu dopadu, aby se světlo lomilo do druhého prostředí?",
+    "options": [
+      "0 až 1",
+      "0,5 až 1",
+      "v žádném",
+      "0 až 0,5"
+    ],
+    "answer": 3,
+    "title": "0 až 0,5",
+    "paragraphs": [
+      "Podle Snellova zákona 2 · sin α = 1 · sin β. Protože sin β nemůže přesáhnout 1, musí být sin α nejvýš 0,5. Při větším úhlu nastane úplný odraz."
+    ],
+    "memory": "n₁ sin α = n₂ sin β, sin β ≤ 1."
+  },
+  {
+    "id": 353,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 5 · str. 46",
+    "sourcePages": "46",
+    "sourceItem": "5",
+    "question": "Co platí o mezním úhlu?",
+    "options": [
+      "je vždy menší než 90°",
+      "je vždy roven 90°",
+      "je vždy větší než 90°",
+      "je roven podílu indexů lomu"
+    ],
+    "answer": 0,
+    "title": "je vždy menší než 90°",
+    "paragraphs": [
+      "Mezní úhel je úhel dopadu, při kterém je úhel lomu 90°. Platí sin α_m = n₂/n₁, takže je to vždy úhel menší než 90°. Podílu indexů lomu se rovná jeho sinus, ne úhel samotný."
+    ],
+    "memory": "sin α_m = n₂/n₁ < 1."
+  },
+  {
+    "id": 354,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 6 · str. 46",
+    "sourcePages": "46",
+    "sourceItem": "6",
+    "question": "Kdy může nastat úplný odraz světla?",
+    "options": [
+      "při přechodu z opticky řidšího do opticky hustšího prostředí",
+      "při přechodu z opticky hustšího do opticky řidšího prostředí",
+      "jen na rozhraní leštěného kovu s vakuem",
+      "vždy, když je úhel dopadu větší než úhel lomu"
+    ],
+    "answer": 1,
+    "title": "při přechodu z opticky hustšího do opticky řidšího prostředí",
+    "paragraphs": [
+      "Jen při přechodu do řidšího prostředí se paprsek láme od kolmice a při dopadu nad mezním úhlem se lomený paprsek už nemůže vytvořit. Veškeré světlo se pak odrazí."
+    ],
+    "memory": "Úplný odraz: z hustšího do řidšího."
+  },
+  {
+    "id": 355,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 7 · str. 46",
+    "sourcePages": "46",
+    "sourceItem": "7",
+    "question": "Na jakém principu jsou založena optická vlákna?",
+    "options": [
+      "na ohybu světla ve vlákně",
+      "na interferenci koherentního světla",
+      "na úplném odrazu světla na rozhraní dvou prostředí",
+      "na optické aktivitě vláken"
+    ],
+    "answer": 2,
+    "title": "na úplném odrazu světla na rozhraní dvou prostředí",
+    "paragraphs": [
+      "Jádro vlákna má vyšší index lomu než plášť, světlo dopadá na rozhraní nad mezním úhlem a opakovaně se úplně odráží. V medicíně se tak přenáší obraz v endoskopech."
+    ],
+    "memory": "Endoskop = úplný odraz."
+  },
+  {
+    "id": 356,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 9 · str. 46",
+    "sourcePages": "46",
+    "sourceItem": "9",
+    "question": "Jaký je vždy obraz předmětu vytvořený rovinným zrcadlem?",
+    "options": [
+      "skutečný",
+      "převrácený",
+      "zmenšený",
+      "neskutečný"
+    ],
+    "answer": 3,
+    "title": "neskutečný",
+    "paragraphs": [
+      "Odražené paprsky se za zrcadlem jen zdánlivě protínají, obraz proto nelze zachytit na stínítko. Je přímý, stejně velký a souměrný s předmětem podle roviny zrcadla."
+    ],
+    "memory": "Rovinné zrcadlo: neskutečný, přímý, stejně velký."
+  },
+  {
+    "id": 357,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 10 · str. 46",
+    "sourcePages": "46",
+    "sourceItem": "10",
+    "question": "Rovnoběžné paprsky dopadající podél optické osy na tenkou spojnou čočku se protínají 25 cm za ní. Jaká je optická mohutnost čočky?",
+    "options": [
+      "+4 D",
+      "+0,25 D",
+      "+0,04 D",
+      "+25 D"
+    ],
+    "answer": 0,
+    "title": "+4 D",
+    "paragraphs": [
+      "Paprsky z nekonečna se protínají v ohnisku, f = 0,25 m. Optická mohutnost φ = 1/f = 1/0,25 m = +4 D."
+    ],
+    "memory": "φ = 1/f v metrech."
+  },
+  {
+    "id": 358,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 11 · str. 46",
+    "sourcePages": "46",
+    "sourceItem": "11",
+    "question": "Spojná čočka má optickou mohutnost +20 D. Jaká je její ohnisková vzdálenost?",
+    "options": [
+      "+20 m",
+      "+5 cm",
+      "−5 cm",
+      "−20 m"
+    ],
+    "answer": 1,
+    "title": "+5 cm",
+    "paragraphs": [
+      "f = 1/φ = 1/20 m = 0,05 m = +5 cm. Spojka má kladnou ohniskovou vzdálenost."
+    ],
+    "memory": "f = 1/φ."
+  },
+  {
+    "id": 359,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 12 · str. 47",
+    "sourcePages": "47",
+    "sourceItem": "12",
+    "question": "Předmět je 120 cm od spojné čočky a obraz vzniká na stínítku 60 cm za ní. Jaká je ohnisková vzdálenost čočky?",
+    "options": [
+      "0,025 m",
+      "50 cm",
+      "0,40 m",
+      "40 m"
+    ],
+    "answer": 2,
+    "title": "0,40 m",
+    "paragraphs": [
+      "Zobrazovací rovnice 1/f = 1/a + 1/a′ = 1/1,2 + 1/0,6 = 0,833 + 1,667 = 2,5 m⁻¹, tedy f = 0,40 m."
+    ],
+    "memory": "1/f = 1/a + 1/a′."
+  },
+  {
+    "id": 360,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 13 · str. 47",
+    "sourcePages": "47",
+    "sourceItem": "13",
+    "question": "Index lomu skla je 1,60. Jaký je mezní úhel na rozhraní skla a vzduchu?",
+    "options": [
+      "arcsin 1,6",
+      "90°",
+      "0°",
+      "arcsin 0,625"
+    ],
+    "answer": 3,
+    "title": "arcsin 0,625",
+    "paragraphs": [
+      "sin α_m = n₂/n₁ = 1/1,60 = 0,625. Hodnota arcsin 1,6 neexistuje, sinus nemůže být větší než 1."
+    ],
+    "memory": "sin α_m = 1/n."
+  },
+  {
+    "id": 361,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 14 · str. 47",
+    "sourcePages": "47",
+    "sourceItem": "14",
+    "question": "Spojka s ohniskovou vzdáleností 10 cm použitá jako lupa vytváří přímý neskutečný obraz zvětšený osmkrát. Jak daleko od čočky je předmět?",
+    "options": [
+      "8,75 cm",
+      "11,25 cm",
+      "80 cm",
+      "1,25 cm"
+    ],
+    "answer": 0,
+    "title": "8,75 cm",
+    "paragraphs": [
+      "Neskutečný obraz leží na straně předmětu, a′ = −8a. Z 1/a − 1/(8a) = 1/f plyne 7/(8a) = 1/10 cm, tedy a = 70/8 = 8,75 cm. Předmět je uvnitř ohniskové vzdálenosti, jak má u lupy být."
+    ],
+    "memory": "Lupa: předmět blíž než f."
+  },
+  {
+    "id": 362,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 15 · str. 47",
+    "sourcePages": "47",
+    "sourceItem": "15",
+    "question": "Kde se protnou paprsky, které vycházejí z ohniska tenké spojné čočky, po průchodu čočkou?",
+    "options": [
+      "ve druhém ohnisku",
+      "nikde, vystupují rovnoběžně s optickou osou",
+      "ve dvojnásobné ohniskové vzdálenosti za čočkou",
+      "v ohnisku před čočkou"
+    ],
+    "answer": 1,
+    "title": "nikde, vystupují rovnoběžně s optickou osou",
+    "paragraphs": [
+      "Je to obrácený chod paprsků k rovnoběžnému svazku, který se láme do ohniska. Paprsky z ohniska proto po lomu postupují rovnoběžně a obraz vzniká v nekonečnu."
+    ],
+    "memory": "Z ohniska ven = rovnoběžně."
+  },
+  {
+    "id": 363,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 17 · str. 47",
+    "sourcePages": "47",
+    "sourceItem": "17",
+    "question": "Čočka vytváří skutečný převrácený obraz 20 cm od svého středu. Co z toho plyne?",
+    "options": [
+      "čočka musí mít optickou mohutnost +5 D",
+      "předmět musí ležet 20 cm před čočkou",
+      "čočka musí být spojka",
+      "čočka může být rozptylka"
+    ],
+    "answer": 2,
+    "title": "čočka musí být spojka",
+    "paragraphs": [
+      "Rozptylka vytváří z reálného předmětu jen neskutečné přímé obrazy, skutečný obraz tedy dává jen spojka. Mohutnost +5 D by platila jen pro předmět v nekonečnu, poloha předmětu není dána."
+    ],
+    "memory": "Skutečný obraz = spojka."
+  },
+  {
+    "id": 364,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 18 · str. 47",
+    "sourcePages": "47",
+    "sourceItem": "18",
+    "question": "Paprsky rovnoběžné s optickou osou spojné čočky se protínají 10 m od jejího středu. Jaká je optická mohutnost čočky?",
+    "options": [
+      "+10 D",
+      "+1 D",
+      "+0,2 D",
+      "+0,1 D"
+    ],
+    "answer": 3,
+    "title": "+0,1 D",
+    "paragraphs": [
+      "Průsečík rovnoběžných paprsků je ohnisko, f = 10 m. φ = 1/f = 1/10 = +0,1 D."
+    ],
+    "memory": "Dlouhé f = malá mohutnost."
+  },
+  {
+    "id": 365,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 19 · str. 47",
+    "sourcePages": "47",
+    "sourceItem": "19",
+    "question": "Paprsky rovnoběžné s optickou osou se za rozptylkou rozbíhají, jako by vycházely z bodu 50 cm od jejího středu. Jaká je optická mohutnost rozptylky?",
+    "options": [
+      "−2 D",
+      "−0,5 D",
+      "−50 D",
+      "+0,5 D"
+    ],
+    "answer": 0,
+    "title": "−2 D",
+    "paragraphs": [
+      "Zdánlivý průsečík je ohnisko rozptylky, f = −0,50 m. φ = 1/f = −2 D."
+    ],
+    "memory": "Rozptylka: záporná mohutnost."
+  },
+  {
+    "id": 366,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 20 · str. 47",
+    "sourcePages": "47",
+    "sourceItem": "20",
+    "question": "Čočka z ledu (n = 1,31) se na vzduchu chová jako spojka. Jak z ní lze udělat rozptylku?",
+    "options": [
+      "zkrácením vlnové délky světla",
+      "ponořením do oleje o indexu lomu 1,60",
+      "prodloužením vlnové délky světla",
+      "nelze to"
+    ],
+    "answer": 1,
+    "title": "ponořením do oleje o indexu lomu 1,60",
+    "paragraphs": [
+      "Mohutnost čočky je úměrná rozdílu indexů lomu čočky a okolí (n − n₀). V oleji je n₀ > n, rozdíl je záporný a spojná čočka rozptyluje."
+    ],
+    "memory": "Okolí hustší než čočka = obrácený účinek."
+  },
+  {
+    "id": 367,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 21 · str. 47",
+    "sourcePages": "47",
+    "sourceItem": "21",
+    "question": "Jak se změní optická mohutnost skleněné spojky (n = 1,5) po ponoření do vody (n = 1,33)?",
+    "options": [
+      "zvětší se",
+      "nezmění se",
+      "zmenší se",
+      "stane se zápornou"
+    ],
+    "answer": 2,
+    "title": "zmenší se",
+    "paragraphs": [
+      "Mohutnost je úměrná (n/n₀ − 1). Na vzduchu je to 0,5, ve vodě jen 1,5/1,33 − 1 ≈ 0,13. Čočka zůstane spojkou, ale mnohem slabší. Proto pod vodou bez brýlí vidíme rozmazaně."
+    ],
+    "memory": "Menší rozdíl indexů = slabší čočka."
+  },
+  {
+    "id": 368,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 23 · str. 47",
+    "sourcePages": "47",
+    "sourceItem": "23",
+    "question": "Jak se bude ve vodě chovat vzduchem naplněná tenkostěnná skleněná bublina tvaru spojky?",
+    "options": [
+      "jako spojka",
+      "jako dokonalé zrcadlo",
+      "jako těleso bez optické mohutnosti",
+      "jako rozptylka"
+    ],
+    "answer": 3,
+    "title": "jako rozptylka",
+    "paragraphs": [
+      "Uvnitř je vzduch s menším indexem lomu než okolní voda, rozdíl (n − n₀) je záporný. Vypuklý tvar proto světlo rozptyluje."
+    ],
+    "memory": "Řidší čočka v hustším okolí obrací účinek."
+  },
+  {
+    "id": 369,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 24 · str. 48",
+    "sourcePages": "48",
+    "sourceItem": "24",
+    "question": "Jediná čočka vytváří přímý neskutečný obraz. Jaká to může být čočka?",
+    "options": [
+      "spojka i rozptylka",
+      "jen spojka",
+      "jen rozptylka",
+      "ani jedna"
+    ],
+    "answer": 0,
+    "title": "spojka i rozptylka",
+    "paragraphs": [
+      "Rozptylka dává neskutečný přímý zmenšený obraz vždy. Spojka ho dává, je-li předmět mezi ohniskem a čočkou (lupa), a obraz je pak zvětšený."
+    ],
+    "memory": "Lupa i rozptylka: přímý neskutečný obraz."
+  },
+  {
+    "id": 370,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 25 · str. 48",
+    "sourcePages": "48",
+    "sourceItem": "25",
+    "question": "Jediná čočka vytvořila skutečný zvětšený obraz 1 m od svého středu. Co musí platit?",
+    "options": [
+      "ohnisková vzdálenost je právě 1 m",
+      "optická mohutnost je větší než 2 D",
+      "ohnisková vzdálenost je větší než 1 m",
+      "optická mohutnost je právě 1 D"
+    ],
+    "answer": 1,
+    "title": "optická mohutnost je větší než 2 D",
+    "paragraphs": [
+      "Skutečný zvětšený obraz vzniká, leží-li předmět mezi f a 2f. Obraz je pak dál než 2f, takže 1 m > 2f a f < 0,5 m. Mohutnost je tedy větší než 2 D."
+    ],
+    "memory": "Zvětšený skutečný obraz: a′ > 2f."
+  },
+  {
+    "id": 371,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 27 · str. 48",
+    "sourcePages": "48",
+    "sourceItem": "27",
+    "question": "Spojná čočka vytvořila neskutečný obraz. Jaký musí tento obraz být?",
+    "options": [
+      "zmenšený",
+      "převrácený",
+      "zvětšený",
+      "stejně velký"
+    ],
+    "answer": 2,
+    "title": "zvětšený",
+    "paragraphs": [
+      "Spojka vytváří neskutečný obraz jen pro předmět mezi ohniskem a čočkou. Obraz je pak vždy přímý a zvětšený, jako u lupy."
+    ],
+    "memory": "Spojka + neskutečný obraz = lupa."
+  },
+  {
+    "id": 372,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 28 · str. 48",
+    "sourcePages": "48",
+    "sourceItem": "28",
+    "question": "Paprsky po průchodu tenkou spojkou se protínají v jediném bodě, který je ohniskem. Kde je zdroj paprsků?",
+    "options": [
+      "v předmětovém ohnisku",
+      "mezi předmětovým ohniskem a čočkou",
+      "ve dvojnásobné ohniskové vzdálenosti",
+      "v nekonečnu na optické ose"
+    ],
+    "answer": 3,
+    "title": "v nekonečnu na optické ose",
+    "paragraphs": [
+      "Do ohniska se sbíhají paprsky rovnoběžné s optickou osou, tedy paprsky od velmi vzdáleného zdroje. Ze zdroje v ohnisku by vystupovaly rovnoběžně."
+    ],
+    "memory": "Obraz v F = předmět v nekonečnu."
+  },
+  {
+    "id": 373,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 30 · str. 48",
+    "sourcePages": "48",
+    "sourceItem": "30",
+    "question": "Jediná čočka vytvořila skutečný obraz ve vzdálenosti 2f. Jaký je obraz?",
+    "options": [
+      "stejně velký jako předmět",
+      "zmenšený",
+      "zvětšený",
+      "takový obraz nemůže vzniknout"
+    ],
+    "answer": 0,
+    "title": "stejně velký jako předmět",
+    "paragraphs": [
+      "Pro a′ = 2f vychází ze zobrazovací rovnice také a = 2f. Příčné zvětšení je a′/a = 1, obraz je skutečný, převrácený a stejně velký."
+    ],
+    "memory": "2f ↔ 2f: zvětšení 1."
+  },
+  {
+    "id": 374,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 31 · str. 48",
+    "sourcePages": "48",
+    "sourceItem": "31",
+    "question": "Paprsky po průchodu tenkou spojkou se protínají ve vzdálenosti 3f od čočky. Kde je zdroj paprsků?",
+    "options": [
+      "ve vzdálenosti 3f před čočkou",
+      "ve vzdálenosti 1,5f před čočkou",
+      "v předmětovém ohnisku",
+      "mezi ohniskem a čočkou"
+    ],
+    "answer": 1,
+    "title": "ve vzdálenosti 1,5f před čočkou",
+    "paragraphs": [
+      "1/a = 1/f − 1/(3f) = 2/(3f), tedy a = 1,5f. Předmět leží mezi f a 2f, obraz je proto zvětšený."
+    ],
+    "memory": "1/a = 1/f − 1/a′."
+  },
+  {
+    "id": 375,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 35 · str. 49",
+    "sourcePages": "49",
+    "sourceItem": "35",
+    "question": "Co označuje Δ ve vztahu pro zvětšení mikroskopu γ = Δ · d/(f₁ · f₂)?",
+    "options": [
+      "vzdálenost předmětu od objektivu",
+      "vzdálenost objektivu a okuláru",
+      "optický interval mikroskopu",
+      "konvenční zrakovou vzdálenost"
+    ],
+    "answer": 2,
+    "title": "optický interval mikroskopu",
+    "paragraphs": [
+      "Δ je optický interval, vzdálenost obrazového ohniska objektivu od předmětového ohniska okuláru. d = 25 cm je konvenční zraková vzdálenost, f₁ a f₂ jsou ohniskové vzdálenosti objektivu a okuláru."
+    ],
+    "memory": "Δ = interval, d = 25 cm."
+  },
+  {
+    "id": 376,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 36 · str. 49",
+    "sourcePages": "49",
+    "sourceItem": "36",
+    "question": "Jaké je úhlové zvětšení mikroskopu s optickým intervalem 25,0 cm, objektivem f₁ = 8,00 mm a okulárem f₂ = 4,00 cm?",
+    "options": [
+      "19,4",
+      "78,2",
+      "780",
+      "195"
+    ],
+    "answer": 3,
+    "title": "195",
+    "paragraphs": [
+      "γ = Δ · d/(f₁ · f₂) = 0,25 · 0,25/(0,008 · 0,04) = 0,0625/0,00032 ≈ 195."
+    ],
+    "memory": "Vše v metrech, d = 0,25 m."
+  },
+  {
+    "id": 377,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 37 · str. 49",
+    "sourcePages": "49",
+    "sourceItem": "37",
+    "question": "Která část běžného optického mikroskopu má funkci lupy?",
+    "options": [
+      "okulár",
+      "objektiv",
+      "objektiv i okulár",
+      "kondenzor"
+    ],
+    "answer": 0,
+    "title": "okulár",
+    "paragraphs": [
+      "Objektiv vytvoří skutečný zvětšený převrácený obraz preparátu. Ten pozorujeme okulárem jako lupou, který z něj vytvoří neskutečný zvětšený obraz."
+    ],
+    "memory": "Objektiv promítá, okulár je lupa."
+  },
+  {
+    "id": 378,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 38 · str. 49",
+    "sourcePages": "49",
+    "sourceItem": "38",
+    "question": "Jaký obraz vytváří objektiv běžného optického mikroskopu?",
+    "options": [
+      "zvětšený a neskutečný",
+      "zvětšený a skutečný",
+      "zmenšený a skutečný",
+      "zmenšený a neskutečný"
+    ],
+    "answer": 1,
+    "title": "zvětšený a skutečný",
+    "paragraphs": [
+      "Preparát leží těsně za předmětovým ohniskem objektivu (mezi f a 2f), objektiv proto vytváří skutečný, převrácený a zvětšený obraz uvnitř tubusu."
+    ],
+    "memory": "Objektiv = skutečný zvětšený obraz."
+  },
+  {
+    "id": 379,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 39 · str. 49",
+    "sourcePages": "49",
+    "sourceItem": "39",
+    "question": "Co je optický interval mikroskopu?",
+    "options": [
+      "vzdálenost preparátu a čela objektivu",
+      "vzdálenost kondenzoru a okuláru",
+      "vzdálenost obrazového ohniska objektivu a předmětového ohniska okuláru",
+      "rozsah použitelných vlnových délek"
+    ],
+    "answer": 2,
+    "title": "vzdálenost obrazového ohniska objektivu a předmětového ohniska okuláru",
+    "paragraphs": [
+      "Optický interval Δ udává, jak daleko od sebe jsou vnitřní ohniska obou soustav. Čím je větší, tím větší je zvětšení mikroskopu."
+    ],
+    "memory": "Δ = mezi ohnisky objektivu a okuláru."
+  },
+  {
+    "id": 380,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 40 · str. 49",
+    "sourcePages": "49",
+    "sourceItem": "40",
+    "question": "Jak souvisí celkové zvětšení mikroskopu se zvětšením objektivu a okuláru?",
+    "options": [
+      "je jejich součtem",
+      "je jejich rozdílem",
+      "rovná se zvětšení okuláru",
+      "je jejich součinem"
+    ],
+    "answer": 3,
+    "title": "je jejich součinem",
+    "paragraphs": [
+      "Objektiv zvětší obraz například 40krát a okulár ho dále zvětší 10krát, celkem 400krát. Optické mikroskopy dosahují užitečného zvětšení zhruba do 1000–2000krát."
+    ],
+    "memory": "40× · 10× = 400×."
+  },
+  {
+    "id": 381,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 45 · str. 50",
+    "sourcePages": "50",
+    "sourceItem": "45",
+    "question": "Čím je způsobeno chvění vzduchu nad plamenem svíčky?",
+    "options": [
+      "lomem světla na rozhraních proudícího vzduchu o různé hustotě",
+      "polarizací světla v plameni",
+      "interferencí koherentního světla",
+      "optickou disperzí vzduchu"
+    ],
+    "answer": 0,
+    "title": "lomem světla na rozhraních proudícího vzduchu o různé hustotě",
+    "paragraphs": [
+      "Teplý vzduch má menší hustotu a index lomu než studený. Proudy vzduchu s různou teplotou paprsky nepravidelně ohýbají, proto se obraz za plamenem chvěje."
+    ],
+    "memory": "Teplý vzduch = jiný index lomu."
+  },
+  {
+    "id": 382,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 46 · str. 50",
+    "sourcePages": "50",
+    "sourceItem": "46",
+    "question": "Čím jsou způsobeny Newtonovy kroužky?",
+    "options": [
+      "ohybem světla na okrouhlých překážkách",
+      "interferencí světla na tenké vzduchové vrstvě",
+      "dvojlomem při polarizaci",
+      "vrstvou oleje na hladině vody"
+    ],
+    "answer": 1,
+    "title": "interferencí světla na tenké vzduchové vrstvě",
+    "paragraphs": [
+      "Mezi čočkou a deskou je vzduchová vrstva proměnné tloušťky. Světlo odražené od jejích dvou ploch interferuje a místa stejné tloušťky tvoří soustředné světlé a tmavé kroužky."
+    ],
+    "memory": "Tenká vrstva = interference."
+  },
+  {
+    "id": 383,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 47 · str. 50",
+    "sourcePages": "50",
+    "sourceItem": "47",
+    "question": "Jak je definováno infračervené záření?",
+    "options": [
+      "podélné elektromagnetické vlnění o frekvenci asi 1 MHz",
+      "podélné elektromagnetické vlnění o frekvenci vyšší než asi 3,95 · 10¹⁴ Hz",
+      "příčné elektromagnetické vlnění o frekvenci nižší než asi 3,95 · 10¹⁴ Hz",
+      "příčné elektromagnetické vlnění o frekvenci asi 1 GHz"
+    ],
+    "answer": 2,
+    "title": "příčné elektromagnetické vlnění o frekvenci nižší než asi 3,95 · 10¹⁴ Hz",
+    "paragraphs": [
+      "Elektromagnetické vlnění je vždy příčné. Infračervené záření leží pod frekvencí červeného světla (vlnová délka nad 760 nm), ale nad mikrovlnami (1 GHz je mikrovlnná oblast)."
+    ],
+    "memory": "IR: pod červenou, delší vlny."
+  },
+  {
+    "id": 384,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 49 · str. 50",
+    "sourcePages": "50",
+    "sourceItem": "49",
+    "question": "Foton fialového světla předal v jednom kroku část své energie prostředí. Jakému světlu může odpovídat výsledný foton?",
+    "options": [
+      "ultrafialovému",
+      "stále fialovému, barva se nemění",
+      "žádnému, foton energii předat nemůže",
+      "modrému"
+    ],
+    "answer": 3,
+    "title": "modrému",
+    "paragraphs": [
+      "Energie fotonu E = h · f. Ztráta energie znamená nižší frekvenci a delší vlnovou délku, posun k červenému konci spektra. Z fialového tedy může vzniknout modré, nikoli ultrafialové světlo."
+    ],
+    "memory": "Méně energie = posun k červené."
+  },
+  {
+    "id": 385,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 52 · str. 50",
+    "sourcePages": "50",
+    "sourceItem": "52",
+    "question": "Jaká je vlnová délka ultrafialového záření?",
+    "options": [
+      "kratší než asi 390 nm",
+      "asi 390 až 760 nm",
+      "delší než asi 760 nm",
+      "delší než asi 800 µm"
+    ],
+    "answer": 0,
+    "title": "kratší než asi 390 nm",
+    "paragraphs": [
+      "Viditelné světlo má vlnové délky zhruba 390–760 nm. Kratší vlny za fialovým koncem jsou ultrafialové, delší za červeným infračervené."
+    ],
+    "memory": "UV < 390 nm < světlo < 760 nm < IR."
+  },
+  {
+    "id": 386,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 53 · str. 51",
+    "sourcePages": "51",
+    "sourceItem": "53",
+    "question": "Při jaké frekvenci vnímáme kmity elektromagnetického pole jako viditelné světlo?",
+    "options": [
+      "500 GHz",
+      "5 · 10¹⁴ Hz",
+      "500 Hz",
+      "500 nHz"
+    ],
+    "answer": 1,
+    "title": "5 · 10¹⁴ Hz",
+    "paragraphs": [
+      "f = c/λ = 3 · 10⁸/(600 · 10⁻⁹) = 5 · 10¹⁴ Hz pro světlo o vlnové délce 600 nm. 500 GHz patří k mikrovlnám a terahertzovému záření."
+    ],
+    "memory": "Světlo ≈ 10¹⁴ až 10¹⁵ Hz."
+  },
+  {
+    "id": 387,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 54 · str. 51",
+    "sourcePages": "51",
+    "sourceItem": "54",
+    "question": "Co je principem holografie?",
+    "options": [
+      "fotografování předmětu z různých stran na tutéž desku",
+      "snímání dvěma kamerami a pozorování polarizačními brýlemi",
+      "interference referenčního a odraženého svazku koherentního světla",
+      "obyčejná fotografie laserovým světlem"
+    ],
+    "answer": 2,
+    "title": "interference referenčního a odraženého svazku koherentního světla",
+    "paragraphs": [
+      "Na desce se zaznamená interferenční obrazec svazku odraženého od předmětu a referenčního svazku téhož laseru. Záznam obsahuje amplitudu i fázi, proto po osvětlení vznikne prostorový obraz."
+    ],
+    "memory": "Hologram = zapsaná interference."
+  },
+  {
+    "id": 388,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 55 · str. 51",
+    "sourcePages": "51",
+    "sourceItem": "55",
+    "question": "Co nazýváme optickou dráhou?",
+    "options": [
+      "nejkratší možnou dráhu paprsku prostředím",
+      "skutečnou dráhu paprsku prostředím",
+      "geometrickou délku optického systému",
+      "součin geometrické dráhy světla a indexu lomu prostředí"
+    ],
+    "answer": 3,
+    "title": "součin geometrické dráhy světla a indexu lomu prostředí",
+    "paragraphs": [
+      "Optická dráha l = n · s udává, jakou dráhu by světlo za stejný čas urazilo ve vakuu. Rozdíl optických drah rozhoduje o výsledku interference."
+    ],
+    "memory": "Optická dráha = n · s."
+  },
+  {
+    "id": 389,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 56 · str. 51",
+    "sourcePages": "51",
+    "sourceItem": "56",
+    "question": "Co je základním předpokladem interference světla?",
+    "options": [
+      "koherence světelných vln",
+      "stejná fáze všech vln",
+      "rovnoběžné šíření paprsků",
+      "polarizovanost světla"
+    ],
+    "answer": 0,
+    "title": "koherence světelných vln",
+    "paragraphs": [
+      "Ustálený interferenční obrazec vzniká jen u vln se stálým fázovým rozdílem a stejnou frekvencí, tedy koherentních. Vlny nemusí mít stejnou fázi, jen se v čase nesmí měnit jejich rozdíl."
+    ],
+    "memory": "Interference potřebuje koherenci."
+  },
+  {
+    "id": 390,
+    "subject": "Fyzika",
+    "category": "Fyzika · Optika",
+    "bookRef": "LF MU · Fyzika · Optika 57 · str. 51",
+    "sourcePages": "51",
+    "sourceItem": "57",
+    "question": "Čím jsou způsobeny duhové barvy olejových skvrn na vodní hladině?",
+    "options": [
+      "odrazem světla od povrchu oleje",
+      "interferencí světla na tenké vrstvě",
+      "polarizací světla",
+      "úplným odrazem na rozhraní oleje a vody"
+    ],
+    "answer": 1,
+    "title": "interferencí světla na tenké vrstvě",
+    "paragraphs": [
+      "Světlo odražené od horní a spodní plochy tenké olejové vrstvy interferuje. Podle tloušťky vrstvy se zesilují různé vlnové délky, proto vidíme barvy jako u mýdlové bubliny."
+    ],
+    "memory": "Olejová skvrna = interference."
+  },
+  {
+    "id": 391,
+    "subject": "Biologie",
+    "category": "Biologie · Životní funkce organismů",
+    "bookRef": "LF MU · Biologie · Životní funkce organismů 1 · str. 147",
+    "sourcePages": "147",
+    "sourceItem": "1",
+    "question": "Jak se nazývá stav, kdy jsou samčí i samičí gonády na jednom jedinci?",
+    "options": [
+      "gonochorismus",
+      "kryptorchismus",
+      "hermafroditismus",
+      "pohlavní dimorfismus"
+    ],
+    "answer": 2,
+    "title": "hermafroditismus",
+    "paragraphs": [
+      "Obojetníci (hermafroditi) jsou například ploštěnci, žížaly nebo hlemýžď. Gonochoristé mají pohlaví oddělená. Kryptorchismus je nesestouplé varle."
+    ],
+    "memory": "Hermafrodit = obojetník."
+  },
+  {
+    "id": 392,
+    "subject": "Biologie",
+    "category": "Biologie · Životní funkce organismů",
+    "bookRef": "LF MU · Biologie · Životní funkce organismů 3 · str. 148",
+    "sourcePages": "148",
+    "sourceItem": "3",
+    "question": "Co platí o viroidech?",
+    "options": [
+      "jsou to infekční částice tvořené pouze bílkovinou",
+      "jsou to infekční částice tvořené pouze DNA",
+      "jsou to bakterie bez buněčné stěny",
+      "jsou to infekční částice tvořené pouze RNA"
+    ],
+    "answer": 3,
+    "title": "jsou to infekční částice tvořené pouze RNA",
+    "paragraphs": [
+      "Viroidy jsou krátké kruhové molekuly RNA bez bílkovinného obalu, napadají hlavně rostliny. Infekční částice tvořené jen bílkovinou jsou priony."
+    ],
+    "memory": "Viroid = nahá RNA, prion = bílkovina."
+  },
+  {
+    "id": 393,
+    "subject": "Biologie",
+    "category": "Biologie · Životní funkce organismů",
+    "bookRef": "LF MU · Biologie · Životní funkce organismů 6 · str. 148",
+    "sourcePages": "148",
+    "sourceItem": "6",
+    "question": "Z kterého zárodečného listu vznikají v embryogenezi svaly?",
+    "options": [
+      "z mezodermu",
+      "z ektodermu",
+      "z entodermu",
+      "ze čtvrtého zárodečného listu"
+    ],
+    "answer": 0,
+    "title": "z mezodermu",
+    "paragraphs": [
+      "Z mezodermu vzniká svalovina, kosti, chrupavky, srdce, cévy a krev, ledviny a pohlavní žlázy. Z ektodermu nervová soustava a pokožka, z entodermu výstelka trávicí a dýchací soustavy."
+    ],
+    "memory": "Mezoderm = svaly, kosti, krev."
+  },
+  {
+    "id": 394,
+    "subject": "Biologie",
+    "category": "Biologie · Životní funkce organismů",
+    "bookRef": "LF MU · Biologie · Životní funkce organismů 7 · str. 148",
+    "sourcePages": "148",
+    "sourceItem": "7",
+    "question": "Které z uvedených tvrzení o infekčních chorobách je nesprávné?",
+    "options": [
+      "původcem AIDS je retrovirus",
+      "malomocenství (lepra) je virové onemocnění",
+      "meningokok způsobuje zánět mozkových blan",
+      "původcem malárie je prvok Plasmodium"
+    ],
+    "answer": 1,
+    "title": "malomocenství (lepra) je virové onemocnění",
+    "paragraphs": [
+      "Lepru způsobuje bakterie Mycobacterium leprae, příbuzná původci tuberkulózy. Ostatní tvrzení platí."
+    ],
+    "memory": "Lepra a TBC = mykobakterie."
+  },
+  {
+    "id": 395,
+    "subject": "Biologie",
+    "category": "Biologie · Životní funkce organismů",
+    "bookRef": "LF MU · Biologie · Životní funkce organismů 8 · str. 148",
+    "sourcePages": "148",
+    "sourceItem": "8",
+    "question": "Jak je uspořádáno srdce u některé z uvedených skupin?",
+    "options": [
+      "u ryb má jednu síň a dvě komory",
+      "u ptáků má dvě síně a jednu komoru",
+      "u savců má dvě síně a dvě komory",
+      "u měkkýšů má jednu komoru bez síní"
+    ],
+    "answer": 2,
+    "title": "u savců má dvě síně a dvě komory",
+    "paragraphs": [
+      "Ptáci i savci mají srdce dokonale rozdělené na dvě síně a dvě komory. Ryby mají jednu síň a jednu komoru, měkkýši komoru a jednu nebo více síní."
+    ],
+    "memory": "Ptáci a savci: 2 + 2."
+  },
+  {
+    "id": 396,
+    "subject": "Biologie",
+    "category": "Biologie · Životní funkce organismů",
+    "bookRef": "LF MU · Biologie · Životní funkce organismů 11 · str. 148",
+    "sourcePages": "148",
+    "sourceItem": "11",
+    "question": "Který z uvedených živočichů patří mezi hlístice (Nematoda)?",
+    "options": [
+      "motolice",
+      "tasemnice",
+      "ploštěnka",
+      "škrkavka"
+    ],
+    "answer": 3,
+    "title": "škrkavka",
+    "paragraphs": [
+      "Hlístice mají válcovité nečlánkované tělo s pseudocélem a trávicí trubicí s řitním otvorem. Motolice, tasemnice a ploštěnky jsou ploštěnci."
+    ],
+    "memory": "Škrkavka a roup = hlístice."
+  },
+  {
+    "id": 397,
+    "subject": "Biologie",
+    "category": "Biologie · Životní funkce organismů",
+    "bookRef": "LF MU · Biologie · Životní funkce organismů 12 · str. 148",
+    "sourcePages": "148",
+    "sourceItem": "12",
+    "question": "Kam patří měňavka úplavičná?",
+    "options": [
+      "mezi kořenonožce",
+      "mezi krvinkovky",
+      "mezi bičíkovce",
+      "mezi obrvenky"
+    ],
+    "answer": 0,
+    "title": "mezi kořenonožce",
+    "paragraphs": [
+      "Měňavky se pohybují panožkami, proto patří ke kořenonožcům. Měňavka úplavičná způsobuje amébovou úplavici, šíří se kontaminovanou vodou a potravou."
+    ],
+    "memory": "Měňavka = panožky = kořenonožec."
+  },
+  {
+    "id": 398,
+    "subject": "Biologie",
+    "category": "Biologie · Životní funkce organismů",
+    "bookRef": "LF MU · Biologie · Životní funkce organismů 16 · str. 149",
+    "sourcePages": "149",
+    "sourceItem": "16",
+    "question": "Co je respirační kvocient?",
+    "options": [
+      "poměr přijatého CO₂ k vydanému O₂",
+      "poměr vydaného CO₂ k přijatému O₂",
+      "poměr přijaté glukózy k vydanému CO₂ a vodě",
+      "poměr koncentrací O₂ a CO₂ v plicích"
+    ],
+    "answer": 1,
+    "title": "poměr vydaného CO₂ k přijatému O₂",
+    "paragraphs": [
+      "RQ = V(CO₂)/V(O₂). Při spalování sacharidů je 1, tuků asi 0,7 a bílkovin asi 0,8, podle něj lze odhadnout, co tělo spaluje."
+    ],
+    "memory": "Sacharidy 1, tuky 0,7."
+  },
+  {
+    "id": 399,
+    "subject": "Biologie",
+    "category": "Biologie · Životní funkce organismů",
+    "bookRef": "LF MU · Biologie · Životní funkce organismů 20 · str. 149",
+    "sourcePages": "149",
+    "sourceItem": "20",
+    "question": "Původce které nemoci přenáší moucha tse-tse?",
+    "options": [
+      "malárie",
+      "úplavice",
+      "spavé nemoci",
+      "skvrnitého tyfu"
+    ],
+    "answer": 2,
+    "title": "spavé nemoci",
+    "paragraphs": [
+      "Moucha tse-tse přenáší v Africe trypanozomy (bičíkovce), které vyvolávají spavou nemoc. Malárii přenášejí komáři Anopheles, skvrnitý tyfus vši."
+    ],
+    "memory": "Tse-tse = trypanozoma = spavá nemoc."
+  },
+  {
+    "id": 400,
+    "subject": "Biologie",
+    "category": "Biologie · Životní funkce organismů",
+    "bookRef": "LF MU · Biologie · Životní funkce organismů 21 · str. 149",
+    "sourcePages": "149",
+    "sourceItem": "21",
+    "question": "Původce které nemoci přenášejí komáři rodu Anopheles?",
+    "options": [
+      "moru",
+      "spavé nemoci",
+      "žluté zimnice",
+      "malárie"
+    ],
+    "answer": 3,
+    "title": "malárie",
+    "paragraphs": [
+      "Samice komárů Anopheles přenášejí při sání krve krvinkovky rodu Plasmodium. Mor přenášejí blechy, žlutou zimnici komáři rodu Aedes."
+    ],
+    "memory": "Anopheles = malárie."
+  }
+]
