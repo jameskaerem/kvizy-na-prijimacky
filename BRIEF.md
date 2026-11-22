@@ -1,7 +1,7 @@
 # Studijní kvízy
 
 - Cílový web je https://jameskaerem.github.io/kvizy-na-prijimacky/ ze zdrojového repozitáře `jameskaerem/kvizy-na-prijimacky`, větev `main`. Původní adresa https://jameskaerem.github.io/somatologie-otazky/ zůstává během migrace dostupná pro export zálohy.
-- Stav k 22. 11. 2026: 630 původních otázek somatologie, 900 otázek biologie, 683 otázek České Budějovice a 769 modelových otázek LF MU (312 fyzika, 318 chemie, 139 biologie) a 1 000 modelových otázek 2. LF UK (34 fyzika, 391 chemie, 575 biologie; od ID 738 formát zkoušky s více správnými odpověďmi; čeká se na celou knihu fyziky). Další dávky dle [mapy LF MU](work/MUNI-POKRYTI.md) a [mapy UK](work/UK-POKRYTI.md).
+- Stav k 22. 11. 2026: 630 původních otázek somatologie, 900 otázek biologie, 683 otázek České Budějovice a 786 modelových otázek LF MU (317 fyzika, 330 chemie, 139 biologie; od ID 770 i úlohy s odpovědí „žádná“) a 1 000 modelových otázek 2. LF UK (34 fyzika, 391 chemie, 575 biologie; od ID 738 formát zkoušky s více správnými odpověďmi; čeká se na celou knihu fyziky). Další dávky dle [mapy LF MU](work/MUNI-POKRYTI.md) a [mapy UK](work/UK-POKRYTI.md).
 - Codex navazuje na banku otázek a audity. Claude upravuje zejména design, drobné funkce nebo provádí revizi obsahu. Pravidla a kontrolní příkazy jsou v [CLAUDE.md](CLAUDE.md).
 - Samostatný HTML vzniká z `work/build.py`, zdrojové šablony, stylů, JS a bank v JSON. Nasazení používá vygenerovaný `index.html`.
 - Úložiště běží v prohlížeči. Záloha ve formátu JSON přenáší chyby, tipy, opakování a rozpracovaná kola všech předmětů i sekcí. Změnu domény plánuj až po zpřístupnění a vyzkoušení exportu na původním webu.

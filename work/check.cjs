@@ -424,6 +424,12 @@ fmt.run("choose(4)");
 assert.equal(fmt.run('data.session.attempts[0].good'),fmt.run('byId.get(data.session.currentId).answer===4'));
 assert.ok(fmt.run("$('answers').children[4].className.includes(byId.get(data.session.currentId).answer===4?'correct':'wrong')"));
 assert.ok(!fmt.run("validSelection(byId.get(1),5)")&&!fmt.run("validSelection(byId.get(1),16)"));
+// LF MU none-key questions (from ID 770): option E is the correct answer.
+assert.ok(noneKey.length>=17&&noneKey.every(q=>q.id>=770));
+fmt.run("nextQuestion();while(!data.session.completed&&byId.get(data.session.currentId).answer!==4){choose(byId.get(data.session.currentId).answer);nextQuestion();}choose(4)");
+assert.equal(fmt.run('byId.get(data.session.currentId).answer'),4);
+assert.equal(fmt.run('data.session.attempts.at(-1).good'),true);
+assert.ok(fmt.run("$('answers').children[4].className.includes('correct')"));
 // UK: toggling picks then evaluating; exact match is correct, a partial pick is wrong. Stored as 16 + mask.
 fmt.run("switchSubject('uk');start('all')");
 assert.equal(fmt.run("$('answers').children.length"),4);

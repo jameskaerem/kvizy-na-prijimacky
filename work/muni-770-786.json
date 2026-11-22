@@ -1,0 +1,359 @@
+[
+  {
+    "id": 770,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 13 · str. 38",
+    "sourcePages": "38",
+    "sourceItem": "13",
+    "question": "Jak definujeme intenzitu elektrického pole E v daném místě pole?",
+    "options": [
+      "jako podíl elektrického potenciálu v daném místě a bodového náboje, na který tam pole působí",
+      "jako podíl potenciálů pole v daném místě a v nekonečnu",
+      "jako podíl práce, kterou vykonají síly pole při přemístění kladného bodového náboje z daného místa do nekonečna, a tohoto náboje",
+      "jako podíl vzdálenosti, na kterou na sebe působí dva stejné bodové náboje, a velikosti jednoho z nich"
+    ],
+    "answer": 4,
+    "title": "Žádná odpověď není správná",
+    "paragraphs": [
+      "Intenzita je podíl síly, kterou pole působí na kladný bodový náboj, a velikosti tohoto náboje (E = F/Q). Možnost c popisuje potenciál (φ = W/Q), ne intenzitu. Ostatní podíly intenzitu nevyjadřují."
+    ],
+    "memory": "E = F/Q, φ = W/Q."
+  },
+  {
+    "id": 771,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 17 · str. 38",
+    "sourcePages": "38",
+    "sourceItem": "17",
+    "question": "Jaké je jako celek elektrické pole vytvořené dvěma bodovými náboji?",
+    "options": [
+      "radiální",
+      "ekvipotenciální",
+      "homogenní",
+      "nulové"
+    ],
+    "answer": 4,
+    "title": "Žádná odpověď není správná",
+    "paragraphs": [
+      "Radiální je pole jediného bodového náboje. Pole dvou nábojů vzniká složením dvou radiálních polí a jeho intenzita se mění co do velikosti i směru. Není proto homogenní ani ekvipotenciální (potenciál se od místa k místu mění) a nulové není (nulová intenzita může být nanejvýš v jednom bodě mezi stejnými náboji)."
+    ],
+    "memory": "Homogenní pole je mezi deskami kondenzátoru."
+  },
+  {
+    "id": 772,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 18 · str. 39",
+    "sourcePages": "39",
+    "sourceItem": "18",
+    "question": "Dva sériově zapojené kondenzátory jsou spojeny paralelně se třetím. Celková kapacita je 50 nF a všechny tři kondenzátory mají stejnou kapacitu. Jaká je kapacita jednoho z nich?",
+    "options": [
+      "16,7 nF",
+      "150 nF",
+      "25 nF",
+      "100 nF"
+    ],
+    "answer": 4,
+    "title": "Žádná odpověď není správná",
+    "paragraphs": [
+      "Dva stejné kondenzátory C v sérii mají kapacitu C/2. Paralelně se třetím dávají C/2 + C = 1,5 C. Z rovnice 1,5 C = 50 nF vychází C ≈ 33,3 nF, a tato hodnota mezi možnostmi není."
+    ],
+    "memory": "Sériově se sčítají převrácené hodnoty, paralelně kapacity."
+  },
+  {
+    "id": 773,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elektřina a magnetismus",
+    "bookRef": "LF MU · Fyzika · Elektřina a magnetismus 31 · str. 40",
+    "sourcePages": "40",
+    "sourceItem": "31",
+    "question": "Který z uvedených výrazů pro elektrickou práci je správný?",
+    "options": [
+      "W = V·I",
+      "W = U·I²·t",
+      "W = U/Q",
+      "W = R²·I·t"
+    ],
+    "answer": 4,
+    "title": "Žádná odpověď není správná",
+    "paragraphs": [
+      "Elektrická práce je W = U·I·t = R·I²·t = Q·U. V možnosti a chybí čas, v b je proud na druhou spolu s napětím, c je podíl místo součinu a v d je na druhou odpor místo proudu."
+    ],
+    "memory": "W = U·I·t = R·I²·t."
+  },
+  {
+    "id": 774,
+    "subject": "Fyzika",
+    "category": "Fyzika · Jednotky",
+    "bookRef": "LF MU · Fyzika · Jednotky 43 · str. 9",
+    "sourcePages": "9",
+    "sourceItem": "43",
+    "question": "Kterou jednotku lze zapsat jako podíl jednotky síly a jednotky času?",
+    "options": [
+      "watt",
+      "ohm",
+      "newton",
+      "pascal"
+    ],
+    "answer": 4,
+    "title": "Žádná odpověď není správná",
+    "paragraphs": [
+      "Podíl N/s odpovídá kg·m·s⁻³. Watt je J/s = N·m/s, obsahuje tedy navíc metr. Pascal je N/m², newton je samotná jednotka síly a ohm je V/A. Žádná z nabídnutých jednotek se N/s nerovná."
+    ],
+    "memory": "W = N·m/s, Pa = N/m²."
+  },
+  {
+    "id": 775,
+    "subject": "Chemie",
+    "category": "Chemie · Periodický systém a vlastnosti prvků",
+    "bookRef": "LF MU · Chemie · Periodický systém a vlastnosti prvků 26 · str. 84",
+    "sourcePages": "84",
+    "sourceItem": "26",
+    "question": "Který výrok o oxidu uhličitém je nesprávný?",
+    "options": [
+      "lze jej připravit působením kyseliny na vápenec",
+      "ve vodě se samovolně hydratuje",
+      "jeho hustota je za stejné teploty větší než hustota kyslíku",
+      "lze jej použít jako hasicí prostředek"
+    ],
+    "answer": 4,
+    "title": "Žádná odpověď není správná",
+    "paragraphs": [
+      "Všechny výroky platí. CaCO₃ + 2 HCl → CaCl₂ + H₂O + CO₂. Malá část rozpuštěného CO₂ se samovolně hydratuje na kyselinu uhličitou. Molární hmotnost CO₂ (44 g/mol) je větší než u O₂ (32 g/mol), proto je hustší. CO₂ nehoří a vytlačuje kyslík, a proto hasí."
+    ],
+    "memory": "CO₂ je těžší než vzduch."
+  },
+  {
+    "id": 776,
+    "subject": "Chemie",
+    "category": "Chemie · Periodický systém a vlastnosti prvků",
+    "bookRef": "LF MU · Chemie · Periodický systém a vlastnosti prvků 37 · str. 85",
+    "sourcePages": "85",
+    "sourceItem": "37",
+    "question": "Který výrok o síře a jejích sloučeninách je nesprávný?",
+    "options": [
+      "sulfan je pro člověka velmi toxický plyn",
+      "oxid siřičitý má výrazné redukční účinky",
+      "rozpustné sulfidy kovů (například Na₂S) zřetelně alkalizují vodné roztoky",
+      "hlavním zdrojem síry pro člověka jsou kvalitní živočišné bílkoviny"
+    ],
+    "answer": 4,
+    "title": "Žádná odpověď není správná",
+    "paragraphs": [
+      "Všechny výroky platí. Sulfan blokuje dýchací řetězec podobně jako kyanid. SO₂ se snadno oxiduje na sírany, je tedy redukční činidlo. Sulfidový anion je silná zásada a hydrolýzou dává zásaditý roztok. Síru přijímáme hlavně v aminokyselinách methioninu a cysteinu z bílkovin."
+    ],
+    "memory": "Síra v potravě = methionin a cystein."
+  },
+  {
+    "id": 777,
+    "subject": "Chemie",
+    "category": "Chemie · Periodický systém a vlastnosti prvků",
+    "bookRef": "LF MU · Chemie · Periodický systém a vlastnosti prvků 39 · str. 86",
+    "sourcePages": "86",
+    "sourceItem": "39",
+    "question": "Co platí o d-prvcích?",
+    "options": [
+      "ve všech sloučeninách mají stejné oxidační číslo",
+      "mají malou schopnost tvořit koordinační sloučeniny",
+      "všechny jejich sloučeniny a ionty jsou bezbarvé",
+      "všechny jejich oxidy jsou jen zásadotvorné"
+    ],
+    "answer": 4,
+    "title": "Žádná odpověď není správná",
+    "paragraphs": [
+      "d-prvky (přechodné kovy) mají obvykle více oxidačních čísel (Fe II a III, Mn II až VII), ochotně tvoří komplexy, jejich sloučeniny bývají barevné (modrá skalice, manganistan) a vyšší oxidy jsou kyselinotvorné (Mn₂O₇, CrO₃)."
+    ],
+    "memory": "Přechodné kovy: barvy, komplexy, více oxidačních čísel."
+  },
+  {
+    "id": 778,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: názvosloví a izomerie",
+    "bookRef": "LF MU · Chemie · Organická chemie: názvosloví a izomerie 26 · str. 91",
+    "sourcePages": "91",
+    "sourceItem": "26",
+    "question": "Který z uvedených uhlovodíků není konstitučním izomerem cyklopentenu?",
+    "options": [
+      "penta-1,3-dien",
+      "2-methylbuta-1,3-dien",
+      "1-methylcyklobuten",
+      "3-methylbut-1-yn"
+    ],
+    "answer": 4,
+    "title": "Žádná odpověď není správná",
+    "paragraphs": [
+      "Cyklopenten má vzorec C₅H₈. Stejný sumární vzorec mají oba dieny, methylcyklobuten i methylbutyn, protože kruh s dvojnou vazbou, dvě dvojné vazby i jedna trojná vazba ubírají stejně čtyři vodíky oproti alkanu. Všechny jsou tedy konstituční izomery cyklopentenu."
+    ],
+    "memory": "Kruh nebo dvojná vazba = o 2 vodíky méně."
+  },
+  {
+    "id": 779,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 63 · str. 94",
+    "sourcePages": "94",
+    "sourceItem": "63",
+    "question": "Které z nabídnutých činidel s alkeny nereaguje?",
+    "options": [
+      "H₂",
+      "H₂O",
+      "Cl₂",
+      "HBr"
+    ],
+    "answer": 4,
+    "title": "Žádná odpověď není správná",
+    "paragraphs": [
+      "Všechna činidla se na dvojnou vazbu alkenu adují: vodík za katalýzy kovem (hydrogenace), voda v kyselém prostředí (hydratace na alkohol), chlor (halogenace) i bromovodík (podle Markovnikovova pravidla)."
+    ],
+    "memory": "Alken + H₂, H₂O, X₂ nebo HX = adice."
+  },
+  {
+    "id": 780,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 122 · str. 98",
+    "sourcePages": "98",
+    "sourceItem": "122",
+    "question": "Která z nabídnutých sloučenin je trikarboxylová kyselina?",
+    "options": [
+      "kyselina ftalová",
+      "kyselina vinná",
+      "kyselina oxaloctová",
+      "kyselina pikrová"
+    ],
+    "answer": 4,
+    "title": "Žádná odpověď není správná",
+    "paragraphs": [
+      "Ftalová, vinná i oxaloctová kyselina mají dvě karboxylové skupiny. Kyselina pikrová je 2,4,6-trinitrofenol a karboxylovou skupinu nemá vůbec. Typická trikarboxylová kyselina je citronová a ta mezi možnostmi není."
+    ],
+    "memory": "Pikrová kyselina je fenol."
+  },
+  {
+    "id": 781,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 134 · str. 99",
+    "sourcePages": "99",
+    "sourceItem": "134",
+    "question": "S čím kyselina salicylová nemůže vytvořit ester?",
+    "options": [
+      "se sekundárním alkoholem",
+      "s karboxylovou kyselinou",
+      "s kyselinou sírovou",
+      "s fenolem"
+    ],
+    "answer": 4,
+    "title": "Žádná odpověď není správná",
+    "paragraphs": [
+      "Kyselina salicylová má karboxylovou i fenolovou skupinu. Karboxylem tvoří estery s alkoholy i fenoly (fenylsalicylát), fenolovým hydroxylem s karboxylovými kyselinami (kyselina acetylsalicylová) i s kyselinou sírovou. Ester tedy vytvoří se všemi nabídnutými látkami."
+    ],
+    "memory": "Dvě funkční skupiny = dvě cesty k esteru."
+  },
+  {
+    "id": 782,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 27 · str. 106",
+    "sourcePages": "106",
+    "sourceItem": "27",
+    "question": "Který polysacharid dává při hydrolýze i jiné monosacharidy než D-glukózu, a nepatří proto mezi D-glukany?",
+    "options": [
+      "celulóza",
+      "glykogen",
+      "amylodextrin",
+      "amylóza"
+    ],
+    "answer": 4,
+    "title": "Žádná odpověď není správná",
+    "paragraphs": [
+      "Všechny nabídnuté polysacharidy jsou složené jen z D-glukózy: celulóza (vazby β-1,4), amylóza (α-1,4), glykogen a dextriny (α-1,4 a α-1,6). Jiné monosacharidy dává při hydrolýze například inulin (fruktóza)."
+    ],
+    "memory": "Škrob, glykogen i celulóza = jen glukóza."
+  },
+  {
+    "id": 783,
+    "subject": "Chemie",
+    "category": "Chemie · Sacharidy, lipidy a další biomolekuly",
+    "bookRef": "LF MU · Chemie · Sacharidy, lipidy a další biomolekuly 39 · str. 107",
+    "sourcePages": "107",
+    "sourceItem": "39",
+    "question": "Jak se získávají sodná nebo draselná mýdla?",
+    "options": [
+      "esterifikací glycerolu karboxylovými kyselinami",
+      "katalytickou hydrogenací rostlinných olejů",
+      "hydrolýzou mastných kyselin",
+      "zmýdelněním glycerolu"
+    ],
+    "answer": 4,
+    "title": "Žádná odpověď není správná",
+    "paragraphs": [
+      "Mýdla vznikají zmýdelněním tuků, tedy alkalickou hydrolýzou triacylglycerolů hydroxidem sodným nebo draselným, případně neutralizací mastných kyselin. Esterifikací glycerolu vznikají tuky, hydrogenací ztužené tuky. Mastné kyseliny ani glycerol hydrolyzovat ani zmýdelnit nelze."
+    ],
+    "memory": "Tuk + NaOH → glycerol + mýdlo."
+  },
+  {
+    "id": 784,
+    "subject": "Chemie",
+    "category": "Chemie · Nukleové kyseliny",
+    "bookRef": "LF MU · Chemie · Nukleové kyseliny 55 · str. 108",
+    "sourcePages": "108",
+    "sourceItem": "55",
+    "question": "Sloučenina je složená z uracilu, ribózy a kyseliny fosforečné. Co o ní platí?",
+    "options": [
+      "je to nukleotid, který se vyskytuje v DNA",
+      "má v molekule O-glykosidovou vazbu",
+      "je složkou všech nukleových kyselin",
+      "má v molekule fosfodiesterovou vazbu"
+    ],
+    "answer": 4,
+    "title": "Žádná odpověď není správná",
+    "paragraphs": [
+      "Jde o uridinmonofosfát (UMP), nukleotid RNA. Uracil je na ribózu vázán N-glykosidovou vazbou a fosfát jednou esterovou (fosfomonoesterovou) vazbou. Fosfodiesterová vazba vzniká až mezi nukleotidy v řetězci a DNA uracil neobsahuje."
+    ],
+    "memory": "Báze a cukr: N-glykosidová vazba."
+  },
+  {
+    "id": 785,
+    "subject": "Chemie",
+    "category": "Chemie · Aminokyseliny a bílkoviny",
+    "bookRef": "LF MU · Chemie · Aminokyseliny a bílkoviny 95 · str. 112",
+    "sourcePages": "112",
+    "sourceItem": "95",
+    "question": "Která vazba nebo interakce se nepodílí na stabilizaci terciární struktury bílkovin?",
+    "options": [
+      "disulfidové můstky",
+      "iontové interakce",
+      "vodíkové vazby",
+      "nepolární (hydrofobní) interakce"
+    ],
+    "answer": 4,
+    "title": "Žádná odpověď není správná",
+    "paragraphs": [
+      "Terciární strukturu drží všechny uvedené síly mezi postranními řetězci aminokyselin: kovalentní disulfidové můstky mezi cysteiny, iontové vazby mezi nabitými skupinami, vodíkové vazby a hydrofobní interakce nepolárních zbytků uvnitř molekuly."
+    ],
+    "memory": "Terciární struktura = vazby postranních řetězců."
+  },
+  {
+    "id": 786,
+    "subject": "Chemie",
+    "category": "Chemie · Enzymy a metabolismus",
+    "bookRef": "LF MU · Chemie · Enzymy a metabolismus 141 · str. 116",
+    "sourcePages": "116",
+    "sourceItem": "141",
+    "question": "Která dedukce o vztahu názvu a stavby vitaminu je nesprávná?",
+    "options": [
+      "název fylochinon říká, že vitamin K je nenasycený cyklický diketon",
+      "název nikotinamid naznačuje v molekule skupinu –CO–NH₂",
+      "z názvu thiamin lze odvodit, že vitamin B₁ obsahuje síru a aminoskupinu",
+      "název kobalamin naznačuje, že vitamin B₁₂ obsahuje chelatovaný kation kobaltu"
+    ],
+    "answer": 4,
+    "title": "Žádná odpověď není správná",
+    "paragraphs": [
+      "Všechny dedukce platí. Chinon je nenasycený cyklický diketon, koncovka -amid označuje skupinu –CO–NH₂, předpona thi- síru a -amin aminoskupinu (thiamin má thiazolový kruh a aminopyrimidin) a kobalamin obsahuje kobalt vázaný v korinovém kruhu."
+    ],
+    "memory": "Název vitaminu často prozradí jeho stavbu."
+  }
+]

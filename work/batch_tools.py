@@ -47,3 +47,26 @@ def build_multi(rows, start, counts, out, n=50):
     for q in bank: assert len(set(q['options']))==4 and '|' not in q['question']
     assert len({q['question'] for q in bank})==n
     Path(__file__).with_name(out).write_text(json.dumps(bank,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+
+# Exam format of LF MU (from LF MU 770 on): options stay in the book order a-d and exactly one
+# or none is correct; key e means "žádná odpověď není správná" (stored as answer 4). Row format:
+# subject|chapter|source item|printed page|prompt|a|b|c|d|key (a-e)|explanation|memory aid
+NONE_TITLE='Žádná odpověď není správná'
+
+def build_muni_exam(rows, start, counts, out, n=50):
+    bank=[]
+    for i,line in enumerate(rows.strip().splitlines(),start):
+        parts=line.split('|')
+        assert len(parts)==12,(i,line[:60])
+        subject,chapter,number,page,prompt,a,b,c,d,key,explanation,memory=parts
+        assert key in 'abcde' and len(key)==1,(i,key)
+        answer='abcde'.index(key)
+        options=[a,b,c,d]
+        title=NONE_TITLE if answer==4 else options[answer]
+        ref=f'LF MU · {subject} · {chapter} {number} · str. {page}'
+        bank.append(dict(id=i,subject=subject,category=subject+' · '+chapter,bookRef=ref,sourcePages=page,sourceItem=number,question=prompt,options=options,answer=answer,title=title,paragraphs=[explanation],memory=memory))
+    assert len(bank)==n and bank[-1]['id']==start+n-1
+    assert [sum(q['subject']==s for q in bank) for s in ('Fyzika','Chemie','Biologie')]==counts,[sum(q['subject']==s for q in bank) for s in ('Fyzika','Chemie','Biologie')]
+    for q in bank: assert len(set(q['options']))==4 and '|' not in q['question']
+    assert len({q['question'] for q in bank})==n
+    Path(__file__).with_name(out).write_text(json.dumps(bank,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')

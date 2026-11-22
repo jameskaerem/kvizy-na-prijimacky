@@ -247,8 +247,27 @@ Soubor `muni-751-769.json`, generátor `create_muni_751_769.py`. Odpovědi porov
 
 Vynecháno z Biologie buňky 1–88 (kromě dříve uvedených 21 a 62): 2, 41, 61 (triviální výroky), 4 (vzruch, BIO 424), 9 (DNA-polymeráza, UK 97), 16, 20, 24, 28, 33 (transkripce a translace, LF MU 609–611), 17, 18 (komplementarita bází, LF MU 89 a UK 93), 22 (bakteriofág, varianta 746), 25 (varianta 748), 36 (cytokineze, ČB 300), 37, 38, 45, 65 (semiautonomní organely, LF MU 42 a UK 41), 39 (fagocytóza, BIO 91), 46 (stavba membrány, SOM 16), 47 (varianta LF MU 44), 49 (varianta 754), 54, 77 (endocytóza, varianty 756), 55 (dýchací řetězec, LF MU 96 a UK 37), 58 (izotop kyslíku, LF MU 632), 59, 60 (cytoskelet, SOM 29 a LF MU 39), 66 (viry, LF MU 87), 70 (varianta 751), 71 (metafáze, LF MU 98 a ČB 122), 72 (lyzozomy, ČB 299), 73 (Golgiho aparát, varianta 764), 80 (rozdíl prokaryot a eukaryot, SOM 14), 87 (centromera, nepřesná formulace „sesterských chromozomů“).
 
+## Formát zkoušky a dávka ID 770–786 (v2.81.0)
+
+Od verze 2.74.0 nabízí kvíz LF MU stejně jako skutečná zkouška pátou možnost E „Žádná odpověď není správná“. Soubor `muni-770-786.json`, generátor `create_muni_770_786.py` (funkce `build_muni_exam`): možnosti zůstávají v pořadí knihy a klíč e se ukládá jako odpověď 4. Doplněny úlohy, které starší dávky vynechaly jen kvůli klíči „žádná“.
+
+| Předmět | Kapitola | Úlohy | ID |
+|---|---|---|---|
+| Fyzika | Elektřina a magnetismus (str. 38–40) | 13, 17, 18, 31 | 770–773 |
+| Fyzika | Jednotky (str. 9) | 43 | 774 |
+| Chemie | Periodický systém a vlastnosti prvků (str. 84–86) | 26, 37, 39 | 775–777 |
+| Chemie | Organická chemie: názvosloví a izomerie (str. 91) | 26 | 778 |
+| Chemie | Organická chemie: reakce a deriváty (str. 94–99) | 63, 122, 134 | 779–781 |
+| Chemie | Sacharidy, lipidy a další biomolekuly (str. 106–107) | 27, 39 | 782–783 |
+| Chemie | Nukleové kyseliny, Aminokyseliny a bílkoviny, Enzymy a metabolismus (str. 108–116) | 55, 95, 141 | 784–786 |
+
+Úlohy s klíčem „žádná“, které zůstávají vynechané:
+- Sporný nebo chybný klíč: Periodický systém 36 (Na⁺ je menší než K⁺, výrok d je tedy nesprávný a klíč e neplatí), 38 (hliník je nejrozšířenějším kovem jen v zemské kůře), 48 (měď má skutečně menší elektronegativitu než stříbro, z pokusu to ale vyvodit nelze), Elektřina 23 a 24 (kombinace kondenzátorů, „nelze rozhodnout“), Elementární částice 13.
+- Nečitelné nebo chybějící zadání: Elektřina 5 (exponenty jednotek v OCR), Biologie člověka 88 (text v kopii chybí).
+- Stejný poznatek jako jiná otázka: Biologie člověka 84 (monocyty a makrofágy, BIO 94), Organická chemie 23 (izomery C₄H₈, LF MU 438), 121 (dikarboxylové kyseliny, UK 409 a LF MU 576), 129 (hydroxykyseliny, LF MU 554), Sacharidy 29 (polysacharidy, UK 510), 138 (ligáza, LF MU 655), 144 (vitamin D, UK 636 a 987) a úlohy, u nichž mapa výše uvádí variantu (například Roztoky 115, 117 a 121, Optika 1, Elementární částice 4 a 16).
+
 ## Stav pokrytí
 
-Všechny kapitoly publikace Mornstein, Dostál, Slaninová (2018) jsou posouzené: každá úloha je použitá, nebo je u ní v této mapě uveden důvod vyřazení (varianta, duplicita s jinou sadou, sporný nebo chybějící klíč, nečitelné OCR). Kvíz LF MU obsahuje 769 otázek, další ID by bylo 770.
+Všechny kapitoly publikace Mornstein, Dostál, Slaninová (2018) jsou posouzené: každá úloha je použitá, nebo je u ní v této mapě uveden důvod vyřazení (varianta, duplicita s jinou sadou, sporný nebo chybějící klíč, nečitelné OCR). Kvíz LF MU obsahuje 786 otázek, další ID by bylo 787.
 
 Druhý soubor `877344967-LF-MU-Modelove-Otazky-New.pdf` je podle vlastníka (21. 11. 2026) stejná publikace jako hlavní soubor Mornstein a kol. Samostatně se nepokrývá; zdrojem kvízu LF MU je jen hlavní soubor.
