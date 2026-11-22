@@ -1,0 +1,1247 @@
+[
+  {
+    "id": 788,
+    "subject": "Biologie",
+    "category": "Biologie · Úvod do biologie",
+    "bookRef": "UK · Biologie · Úvod do biologie · otázka 14 · str. 11",
+    "sourcePages": "11",
+    "sourceItem": "14",
+    "question": "Která molekula je v buňkách nejvýznamnějším místem uložení chemické energie?",
+    "options": [
+      "AMP",
+      "cAMP",
+      "ATP",
+      "ADP"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "ATP (adenosintrifosfát) má dvě makroergní fosfoanhydridové vazby. Jejich štěpením na ADP a fosfát buňka získává energii pro syntézy, transport i pohyb. ADP a AMP jsou chudší produkty, cAMP je signální molekula (druhý posel)."
+    ],
+    "memory": "ATP = baterie buňky, cAMP = posel."
+  },
+  {
+    "id": 789,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 43 · str. 18",
+    "sourcePages": "18",
+    "sourceItem": "43",
+    "question": "K čemu slouží především endoplazmatické retikulum?",
+    "options": [
+      "k dozrávání (posttranskripčním úpravám) mRNA",
+      "ke třídění a transportu proteinů",
+      "k uložení chemické energie ve formě ATP",
+      "k transportu mRNA z jádra do cytoplazmy"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Do drsného ER vstupují proteiny určené k sekreci nebo do membrán, tam se skládají, upravují a odvádějí váčky do Golgiho komplexu. Úpravy mRNA probíhají v jádře, mRNA opouští jádro jadernými póry a ATP se netvoří v ER, ale hlavně v mitochondriích."
+    ],
+    "memory": "ER = výrobní a přepravní linka bílkovin."
+  },
+  {
+    "id": 790,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 81 · str. 25",
+    "sourcePages": "25",
+    "sourceItem": "81",
+    "question": "Co platí o chromozomovém určení pohlaví typu Drosophila?",
+    "options": [
+      "je typické pro všechny zástupce hmyzu",
+      "označuje se také jako ptačí typ určení pohlaví",
+      "vyskytuje se rovněž u člověka",
+      "samci mají dva stejné pohlavní chromozomy, samice dva odlišné"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "U typu Drosophila (savčího typu) jsou samice XX a samci XY, stejně jako u člověka. Ptačí typ (Abraxas) je obrácený: samci mají dva stejné chromozomy (ZZ), samice odlišné (ZW). U hmyzu se vyskytují i jiné typy, například Protenor u rovnokřídlých nebo haplodiploidie u blanokřídlých."
+    ],
+    "memory": "Drosophila = jako člověk: samice XX, samec XY."
+  },
+  {
+    "id": 791,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 82 · str. 25",
+    "sourcePages": "25",
+    "sourceItem": "82",
+    "question": "Jakou typickou kombinaci pohlavních chromozomů mají organismy typu Protenor? (Symbol 0 znamená, že příslušný chromozom chybí.)",
+    "options": [
+      "samice XY, samci XX",
+      "samice XX, samci XY",
+      "samice XX, samci X0",
+      "samice X0, samci XX"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "U typu Protenor mají samice dva chromozomy X a samcům druhý pohlavní chromozom chybí (X0), takže mají o jeden chromozom méně. Tento typ najdeme například u některých rovnokřídlých a ploštic."
+    ],
+    "memory": "Protenor: samci X0 (chybí Y)."
+  },
+  {
+    "id": 792,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 85 · str. 26",
+    "sourcePages": "26",
+    "sourceItem": "85",
+    "question": "Co vzniká v závěru mitózy z jednoho mateřského jádra?",
+    "options": [
+      "dvě dceřiná jádra s diploidním počtem chromozomů",
+      "čtyři dceřiná jádra s haploidním počtem chromozomů",
+      "dvě dceřiná jádra s haploidním počtem chromozomů",
+      "čtyři dceřiná jádra s diploidním počtem chromozomů"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Mitóza je ekvační dělení: z jednoho jádra vzniknou dvě jádra se stejnou (u somatických buněk člověka diploidní) sadou jako matka. Čtyři haploidní jádra jsou výsledkem meiózy."
+    ],
+    "memory": "Mitóza 1 → 2 stejná, meióza 1 → 4 poloviční."
+  },
+  {
+    "id": 793,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 86 · str. 26",
+    "sourcePages": "26",
+    "sourceItem": "86",
+    "question": "Jak lze spolehlivě rozeznat a odlišit eukaryotické chromozomy?",
+    "options": [
+      "u většiny živočichů jen v pohlavních buňkách",
+      "po aplikaci specifických jaderných barviv optickým mikroskopem",
+      "výhradně elektronovým mikroskopem",
+      "zpravidla v dělících se buňkách v metafázi"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "Chromozomy jsou zřetelné, když jsou kondenzované, tedy v dělící se buňce, nejlépe v metafázi. Po obarvení (například pruhovací technikou) je rozlišíme v optickém mikroskopu, elektronový mikroskop potřeba není. Karyotyp se proto vyšetřuje z dělících se somatických buněk, například z lymfocytů."
+    ],
+    "memory": "Metafáze + barvení + světelný mikroskop = karyotyp."
+  },
+  {
+    "id": 794,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 87 · str. 26",
+    "sourcePages": "26",
+    "sourceItem": "87",
+    "question": "Co platí o centromeře lidského chromozomu?",
+    "options": [
+      "je to místo, kde se k chromozomu připojují vlákna dělicího vřeténka",
+      "je na daném chromozomu vždy na stejném místě",
+      "mění svou polohu během buněčného dělení",
+      "vzniká při překřížení homologických chromozomů v meióze a probíhá na ní crossing-over"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Centromera je primární zaškrcení chromozomu, na které nasedá kinetochor a k němu mikrotubuly vřeténka. Její poloha je pro každý chromozom stálá a podle ní chromozomy třídíme (metacentrické, submetacentrické, akrocentrické). Místo překřížení při crossing-overu je chiasma."
+    ],
+    "memory": "Centromera stojí na místě, chiasma je překřížení."
+  },
+  {
+    "id": 795,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 90 · str. 27",
+    "sourcePages": "27",
+    "sourceItem": "90",
+    "question": "Čím je tvořena hmota chromozomu?",
+    "options": [
+      "komplexem DNA a histonů",
+      "komplexem DNA a proteinů",
+      "komplexem DNA a RNA, proteiny jsou mimo vlastní chromozom",
+      "komplexem proteinů a lipidů jaderného obalu, DNA je volně rozpuštěna v karyoplazmě"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Chromozom tvoří chromatin, tedy DNA navinutá na histony a doplněná dalšími (nehistonovými) proteiny. Obě formulace a i b jsou proto správné. Proteiny jsou nedílnou součástí chromozomu a DNA v karyoplazmě volně rozpuštěná není."
+    ],
+    "memory": "Chromatin = DNA + proteiny (hlavně histony)."
+  },
+  {
+    "id": 796,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 91 · str. 27",
+    "sourcePages": "27",
+    "sourceItem": "91",
+    "question": "Co platí o tylakoidech?",
+    "options": [
+      "jsou součástí mitochondrií",
+      "obsahují chlorofyl a další fotosyntetická barviva",
+      "vyskytují se také u sinic",
+      "jsou to struktury, v nichž probíhá fotosyntéza"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: B, C a D",
+    "paragraphs": [
+      "Tylakoidy jsou membránové váčky chloroplastů a sinic. V jejich membránách jsou chlorofyly, karotenoidy a komplexy světelné fáze fotosyntézy. Mitochondrie mají místo nich kristy."
+    ],
+    "memory": "Tylakoid = chloroplast a sinice, krista = mitochondrie."
+  },
+  {
+    "id": 797,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 93 · str. 27",
+    "sourcePages": "27",
+    "sourceItem": "93",
+    "question": "Jaká je stavba a funkce plazmatické membrány?",
+    "options": [
+      "je to biomembrána, ve které jsou hojně zastoupeny glykoproteiny",
+      "reguluje příjem a výdej látek a příjem signálů z okolí",
+      "vytváří u většiny živočišných buněk mnohovrstevnou buněčnou stěnu",
+      "je tvořena převážně polysacharidy a proteiny"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Plazmatická membrána je fosfolipidová dvojvrstva s proteiny, na vnější straně s glykoproteiny a glykolipidy. Rozhoduje o tom, co do buňky vstoupí, a nese receptory. Živočišné buňky buněčnou stěnu nemají a membrána je převážně z lipidů a proteinů, ne z polysacharidů."
+    ],
+    "memory": "Membrána je brána a anténa buňky."
+  },
+  {
+    "id": 798,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 95 · str. 27",
+    "sourcePages": "27",
+    "sourceItem": "95",
+    "question": "Co platí o gametách člověka?",
+    "options": [
+      "vznikají redukčním dělením haploidní zárodečné buňky",
+      "vytvářejí se už v závěru prvního meiotického dělení",
+      "vznikají dvakrát opakovaným mitotickým dělením diploidních prekurzorů",
+      "jsou to buď vajíčka (oocyty), nebo spermie"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Gamety člověka jsou vajíčka a spermie. Vznikají meiózou z diploidních (ne haploidních) zárodečných buněk a meióza má dvě dělení, gameta tedy vzniká až po druhém. Opakovaná mitóza počet chromozomů nesníží."
+    ],
+    "memory": "Diploidní buňka → meióza I a II → haploidní gameta."
+  },
+  {
+    "id": 799,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 96 · str. 28",
+    "sourcePages": "28",
+    "sourceItem": "96",
+    "question": "Z jakých fází se skládá kompletní buněčný cyklus?",
+    "options": [
+      "G1, S, G2, M",
+      "jen G1, S a G2, M fáze není součástí buněčného cyklu",
+      "jen z M fáze, interfáze součástí cyklu není",
+      "jen G2, M a G1"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Buněčný cyklus tvoří interfáze (G1, S, G2) a M fáze (mitóza a cytokineze). Obě části patří k cyklu: interfáze je jeho nejdelší úsek, ve kterém buňka roste a replikuje DNA."
+    ],
+    "memory": "Cyklus = G1 + S + G2 + M."
+  },
+  {
+    "id": 800,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 97 · str. 28",
+    "sourcePages": "28",
+    "sourceItem": "97",
+    "question": "Co je lidský chromozom?",
+    "options": [
+      "proteinové vlákno typu mikrotubulu, na které se DNA naváže až během mitózy",
+      "nukleoproteinová struktura v buněčném jádře",
+      "struktura obsahující histony",
+      "struktura s velkým podílem funkční RNA složená z malé a velké podjednotky"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Lidský chromozom je nukleoprotein: DNA s histony a dalšími proteiny uložená v jádře. Malou a velkou podjednotku má ribozom, mikrotubuly patří k cytoskeletu."
+    ],
+    "memory": "Chromozom = DNA + histony, ribozom = dvě podjednotky."
+  },
+  {
+    "id": 801,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 98 · str. 28",
+    "sourcePages": "28",
+    "sourceItem": "98",
+    "question": "Co platí o lidském chromozomu?",
+    "options": [
+      "každý gen tvoří zvláštní krátkou molekulu DNA spojenou s dalšími proteinovými můstky",
+      "ribozomy jsou navlečeny na DNA jako korálky na niti",
+      "obsahuje molekulu DNA s mnoha geny v komplexu s proteiny",
+      "obsahuje jen nekódující DNA, kódující DNA je v ribozomech"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Každý chromozom obsahuje jednu dlouhou molekulu DNA (po replikaci dvě v sesterských chromatidách) se stovkami až tisíci genů, sbalenou s proteiny. Korálky na niti jsou nukleozomy, tedy DNA navinutá na histony, ne ribozomy. Ribozomy DNA neobsahují."
+    ],
+    "memory": "Jeden chromozom = jedna dlouhá DNA s mnoha geny."
+  },
+  {
+    "id": 802,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 99 · str. 28",
+    "sourcePages": "28",
+    "sourceItem": "99",
+    "question": "Co platí pro chromozomy č. 1 u různých zdravých lidí?",
+    "options": [
+      "jednotlivé geny jsou na nich seřazeny vždy ve stejném pořadí",
+      "geny jsou vlivem crossing-overu zpřeházeny, každý je má v jiném pořadí",
+      "nesou různé geny, které se crossing-overem mohou dostat na jiné chromozomy",
+      "nesou zcela odlišné geny specifické pro každého jedince"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Pořadí genů na chromozomu je pro druh stálé, liší se jen alely. Crossing-over vyměňuje odpovídající úseky homologních chromozomů, takže pořadí genů nemění a geny nepřenáší na jiné chromozomy."
+    ],
+    "memory": "Lidé mají stejné geny ve stejném pořadí, liší se alely."
+  },
+  {
+    "id": 803,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 101 · str. 29",
+    "sourcePages": "29",
+    "sourceItem": "101",
+    "question": "Co se přímo účastní mitotického dělení?",
+    "options": [
+      "chromozomy, centromery a centrioly",
+      "chromatidy a dělicí vřeténko",
+      "jadérko a chromozomy",
+      "jadérko a centrioly"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Při mitóze se chromatidy rozcházejí po dělicím vřeténku, které je upnuto ke kinetochorům v centromerách a na pólech k centrozomům s centrioly. Jadérko na začátku mitózy mizí a znovu se tvoří v telofázi, dělení se tedy neúčastní."
+    ],
+    "memory": "Jadérko při mitóze mizí."
+  },
+  {
+    "id": 804,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 102 · str. 29",
+    "sourcePages": "29",
+    "sourceItem": "102",
+    "question": "Které struktury se vyskytují v buňkách mnohobuněčných živočichů?",
+    "options": [
+      "buněčná membrána",
+      "mitochondrie",
+      "plastidy",
+      "lysozomy"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "title": "Správně: A, B a D",
+    "paragraphs": [
+      "Živočišné buňky mají plazmatickou membránu, mitochondrie i lysozomy. Plastidy (chloroplasty, amyloplasty) jsou typické pro rostliny a řasy."
+    ],
+    "memory": "Plastidy = rostliny."
+  },
+  {
+    "id": 805,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 104 · str. 29",
+    "sourcePages": "29",
+    "sourceItem": "104",
+    "question": "Jaký je chronologicky správný průběh mitotické fáze buněčného cyklu lidské buňky?",
+    "options": [
+      "profáze, interfáze, metafáze, telofáze, anafáze",
+      "interfáze, S fáze, profáze, metafáze, anafáze, telofáze",
+      "profáze, metafáze, anafáze, telofáze",
+      "profáze, metafáze, telofáze, anafáze"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Mitóza probíhá v pořadí profáze, metafáze, anafáze a telofáze. Interfáze a S fáze předcházejí mitóze a nejsou její součástí."
+    ],
+    "memory": "PMAT: pro-, meta-, ana-, telofáze."
+  },
+  {
+    "id": 806,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 112 · str. 31",
+    "sourcePages": "31",
+    "sourceItem": "112",
+    "question": "Co je generační doba buňky?",
+    "options": [
+      "u všech buněk jedince stejná",
+      "délka trvání jednoho buněčného cyklu",
+      "závislá na vnějších podmínkách buňky",
+      "délka trvání mitotické fáze"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Generační doba je čas od vzniku buňky do jejího rozdělení, tedy délka celého cyklu včetně interfáze. Liší se podle typu buňky (rýhující se zárodek proti diferencované buňce) a ovlivňuje ji prostředí, například živiny a teplota."
+    ],
+    "memory": "Generační doba = celý cyklus, ne jen mitóza."
+  },
+  {
+    "id": 807,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 113 · str. 31",
+    "sourcePages": "31",
+    "sourceItem": "113",
+    "question": "Které struktury se vyskytují v rostlinných i živočišných buňkách?",
+    "options": [
+      "jádro",
+      "plastidy",
+      "mitochondrie",
+      "Golgiho aparát"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "title": "Správně: A, C a D",
+    "paragraphs": [
+      "Jádro, mitochondrie i Golgiho aparát mají všechny typické eukaryotní buňky. Plastidy jsou jen u rostlin a řas."
+    ],
+    "memory": "Plastidy jsou to, co živočichům chybí."
+  },
+  {
+    "id": 808,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 114 · str. 31",
+    "sourcePages": "31",
+    "sourceItem": "114",
+    "question": "Které struktury neobsahují nukleové kyseliny jako jednu ze základních složek?",
+    "options": [
+      "ribozomy",
+      "jadérko",
+      "chloroplasty",
+      "peroxizomy"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Ribozomy jsou z rRNA a proteinů, jadérko obsahuje geny pro rRNA a vznikající rRNA, chloroplasty mají vlastní DNA i ribozomy. Peroxizomy jsou membránové váčky s enzymy (například katalázou) a nukleové kyseliny nemají."
+    ],
+    "memory": "Peroxizom = enzymy, žádná DNA ani RNA."
+  },
+  {
+    "id": 809,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 116 · str. 31",
+    "sourcePages": "31",
+    "sourceItem": "116",
+    "question": "Co platí o glykokalyxu?",
+    "options": [
+      "nachází se uvnitř buněk a obsahuje převážně nukleové kyseliny, zejména RNA",
+      "obsahuje sacharidy",
+      "zprostředkovává interakce buněk s okolím a mezi buňkami",
+      "má také ochrannou funkci"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: B, C a D",
+    "paragraphs": [
+      "Glykokalyx je vrstva sacharidových řetězců glykoproteinů a glykolipidů na vnějším povrchu membrány. Slouží k rozpoznávání buněk, adhezi a příjmu signálů a chrání povrch buňky. Uvnitř buňky ani z RNA není."
+    ],
+    "memory": "Glyko = cukr, kalyx = obal na povrchu."
+  },
+  {
+    "id": 810,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 118 · str. 32",
+    "sourcePages": "32",
+    "sourceItem": "118",
+    "question": "Která tvrzení o lidských buňkách jsou správná?",
+    "options": [
+      "v interfázi nelze rozlišit jednotlivé chromozomy",
+      "během interfáze se replikuje DNA",
+      "během interfáze se syntetizuje mRNA",
+      "jaderná DNA se replikuje až při samotném mitotickém nebo meiotickém dělení"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2
+    ],
+    "title": "Správně: A, B a C",
+    "paragraphs": [
+      "V interfázi je chromatin rozvolněný, jednotlivé chromozomy v mikroskopu nerozlišíme. Právě v interfázi buňka přepisuje geny do mRNA a v S fázi replikuje DNA. Během dělení se DNA nereplikuje."
+    ],
+    "memory": "Interfáze = práce buňky: transkripce i replikace."
+  },
+  {
+    "id": 811,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 119 · str. 32",
+    "sourcePages": "32",
+    "sourceItem": "119",
+    "question": "Čím jsou v buňce podmíněny osmotické jevy?",
+    "options": [
+      "polopropustností cytoplazmatické membrány",
+      "volnou propustností cytoplazmatické membrány",
+      "elektrickým potenciálem na membráně",
+      "činností cytoskeletu"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Osmóza je přesun vody přes polopropustnou membránu, která propouští vodu, ale ne rozpuštěné látky. Kdyby byla membrána volně propustná, koncentrace by se vyrovnaly difuzí a osmóza by nenastala."
+    ],
+    "memory": "Osmóza potřebuje polopropustnou membránu."
+  },
+  {
+    "id": 812,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 121 · str. 32",
+    "sourcePages": "32",
+    "sourceItem": "121",
+    "question": "Čím je obecně tvořeno jádro eukaryotické buňky?",
+    "options": [
+      "jediným kruhovým chromozomem a jaderným obalem",
+      "zpravidla větším počtem lineárních chromozomů a jaderným obalem",
+      "dvěma i více kruhovými chromozomy bez jaderného obalu",
+      "jedním kruhovým chromozomem bez jaderného obalu"
+    ],
+    "answer": 1,
+    "answers": [
+      1
+    ],
+    "title": "Správně: B",
+    "paragraphs": [
+      "Eukaryotní jádro obsahuje lineární chromozomy, obvykle jich je více, a ohraničuje ho jaderný obal. Kruhový chromozom bez obalu (nukleoid) mají prokaryota."
+    ],
+    "memory": "Eukaryota: lineární chromozomy v jádře, prokaryota: kruh v nukleoidu."
+  },
+  {
+    "id": 813,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 122 · str. 32",
+    "sourcePages": "32",
+    "sourceItem": "122",
+    "question": "Co rozlišujeme na chromozomu v metafázi?",
+    "options": [
+      "centromeru, chromatidy, raménka",
+      "centriol, chromatidy, raménka",
+      "centromeru, chromatidy, akrozom",
+      "centromeru, raménka, centriol"
+    ],
+    "answer": 0,
+    "answers": [
+      0
+    ],
+    "title": "Správně: A",
+    "paragraphs": [
+      "Metafázní chromozom tvoří dvě sesterské chromatidy spojené v centromeře, která je dělí na krátké (p) a dlouhé (q) raménko. Centriol je organela centrozomu a akrozom je váček na hlavičce spermie."
+    ],
+    "memory": "Chromozom: chromatidy + centromera + raménka p a q."
+  },
+  {
+    "id": 814,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 124 · str. 33",
+    "sourcePages": "33",
+    "sourceItem": "124",
+    "question": "Co platí o chromozomech?",
+    "options": [
+      "u prokaryot jsou lineární a ohraničené jaderným obalem",
+      "jsou složeny z DNA a bílkovin",
+      "u různých druhů eukaryot se vyskytují v různém počtu",
+      "u eukaryot se od sebe liší velikostí a tvarem"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: B, C a D",
+    "paragraphs": [
+      "Chromozomy eukaryot jsou z DNA a proteinů. Jejich počet je druhově specifický (člověk 46, šimpanz 48) a jednotlivé chromozomy se liší velikostí a polohou centromery. Prokaryota mají obvykle jeden kruhový chromozom a jaderný obal nemají."
+    ],
+    "memory": "Počet a tvar chromozomů je znakem druhu."
+  },
+  {
+    "id": 815,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 126 · str. 33",
+    "sourcePages": "33",
+    "sourceItem": "126",
+    "question": "Kolik chromozomů mají gamety člověka a kdy se jejich počet sníží?",
+    "options": [
+      "mají haploidní počet chromozomů, k redukci dochází až ve druhém meiotickém dělení",
+      "mají haploidní počet chromozomů, k redukci dochází v prvním i druhém meiotickém dělení",
+      "mají diploidní počet chromozomů, k redukci dochází při oplození",
+      "mají haploidní počet chromozomů, k redukci dochází v prvním meiotickém dělení"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Gamety jsou haploidní. Počet chromozomů se sníží v prvním meiotickém dělení, kdy se rozcházejí celé homologní chromozomy. Druhé dělení je ekvační a rozděluje jen sesterské chromatidy. Oplozením se diploidie naopak obnovuje."
+    ],
+    "memory": "Meióza I redukuje, meióza II jen dělí chromatidy."
+  },
+  {
+    "id": 816,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 128 · str. 34",
+    "sourcePages": "34",
+    "sourceItem": "128",
+    "question": "Co platí o mitochondriální DNA?",
+    "options": [
+      "tvoří s histony nukleozomy",
+      "v organelách je ve formě kruhových molekul",
+      "obsahuje stejné geny jako chromozomy v jádře",
+      "obsahuje geny, jejichž produkty souvisejí s funkcí mitochondrie"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      3
+    ],
+    "title": "Správně: B a D",
+    "paragraphs": [
+      "Mitochondriální DNA je kruhová a podobně jako u bakterií netvoří nukleozomy s histony. Nese jen několik desítek genů, hlavně pro součásti dýchacího řetězce, rRNA a tRNA mitochondrie. Většina mitochondriálních proteinů je kódována v jádře."
+    ],
+    "memory": "mtDNA = malý kruh s geny pro mitochondrii."
+  },
+  {
+    "id": 817,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 129 · str. 34",
+    "sourcePages": "34",
+    "sourceItem": "129",
+    "question": "Co platí o homologních chromozomech?",
+    "options": [
+      "mají stejný tvar, rozměry, stejné geny i zcela shodné alely",
+      "je to označení pro chromozomy se stejně dlouhými raménky p a q",
+      "párují se v prvním meiotickém dělení",
+      "mají stejný tvar a stejné geny, ale nemusí mít stejné alely"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Homologní chromozomy pocházejí jeden od otce a jeden od matky. Mají stejné geny ve stejném pořadí, alely se ale mohou lišit. V profázi prvního meiotického dělení se párují do bivalentů. Stejně dlouhá raménka má metacentrický chromozom."
+    ],
+    "memory": "Homologní = stejné geny, možná jiné alely."
+  },
+  {
+    "id": 818,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 130 · str. 34",
+    "sourcePages": "34",
+    "sourceItem": "130",
+    "question": "Kde se endoplazmatické retikulum vyskytuje a jakou má funkci?",
+    "options": [
+      "nachází se u grampozitivních bakterií",
+      "podílí se na metabolismu lipidů",
+      "váže na svůj povrch ribozomy",
+      "je místem syntézy všech nukleových kyselin"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Hladké ER syntetizuje lipidy a steroidy a detoxikuje látky, drsné ER nese na povrchu ribozomy. Bakterie membránové organely nemají a nukleové kyseliny se syntetizují v jádře, mitochondriích a plastidech."
+    ],
+    "memory": "Hladké ER = lipidy, drsné ER = ribozomy."
+  },
+  {
+    "id": 819,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 131 · str. 34",
+    "sourcePages": "34",
+    "sourceItem": "131",
+    "question": "Čím se uskutečňuje endocytóza?",
+    "options": [
+      "Golgiho aparátem a vakuolami",
+      "tvorbou měchýřků a jejich posunem při pinocytóze",
+      "tvorbou panožek při fagocytóze",
+      "plazmatickou membránou a cytoskeletem"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: B, C a D",
+    "paragraphs": [
+      "Při endocytóze se plazmatická membrána vchlipuje nebo obtéká částici a vznikne váček. U pinocytózy jde o malé měchýřky s tekutinou, u fagocytózy obklopí částici panožky. Tvar membrány mění cytoskelet. Golgiho aparát se uplatňuje hlavně při opačném ději, exocytóze."
+    ],
+    "memory": "Endocytóza = membrána + cytoskelet, Golgi patří k exocytóze."
+  },
+  {
+    "id": 820,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 132 · str. 34",
+    "sourcePages": "34",
+    "sourceItem": "132",
+    "question": "Co obsahuje lidská zygota, z níž vznikne zdravý plod mužského pohlaví?",
+    "options": [
+      "22 párů autozomů a heterochromozomy X a Y",
+      "44 autozomů a pár gonozomů XY",
+      "diploidní sadu chromozomů s jedním heterochromozomem, buď X, nebo Y",
+      "diploidní sadu chromozomů s heterochromozomy X a Y"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "title": "Správně: A, B a D",
+    "paragraphs": [
+      "Mužská zygota má karyotyp 46,XY: 44 autozomů (22 párů) a dva pohlavní chromozomy X a Y. Jen jeden pohlavní chromozom by znamenal 45 chromozomů, tedy aberaci (například 45,X u Turnerova syndromu)."
+    ],
+    "memory": "46,XY = 44 autozomů + X + Y."
+  },
+  {
+    "id": 821,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 134 · str. 35",
+    "sourcePages": "35",
+    "sourceItem": "134",
+    "question": "Co platí o lidském chromozomu Y?",
+    "options": [
+      "je telocentrický",
+      "neobsahuje žádné geny",
+      "je větší než chromozom X",
+      "obsahuje mimo jiné gen SRY"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Chromozom Y je malý akrocentrický chromozom, menší než X. Nese několik desítek genů, mezi nimi gen SRY, který spouští vývoj varlat. Telocentrické chromozomy (s centromerou na konci) člověk nemá."
+    ],
+    "memory": "SRY na Y rozhoduje o vývoji varlat."
+  },
+  {
+    "id": 822,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 138 · str. 35",
+    "sourcePages": "35",
+    "sourceItem": "138",
+    "question": "Která tvrzení jsou správná?",
+    "options": [
+      "sklerenchym se skládá z tenkostěnných buněk s membránami ztloustlými na hranách",
+      "bičík eukaryot obsahuje 9 párů mikrofilament na obvodu a dvě centrální mikrofilamenta",
+      "jadernou hmotu tvoří euchromatin a heterochromatin",
+      "ve vakuolách se zpravidla shromažďují odpadní produkty"
+    ],
+    "answer": 2,
+    "answers": [
+      2,
+      3
+    ],
+    "title": "Správně: C a D",
+    "paragraphs": [
+      "Chromatin v jádře se dělí na rozvolněný aktivní euchromatin a kondenzovaný heterochromatin. Vakuoly ukládají mimo jiné odpadní látky. Bičík obsahuje mikrotubuly (9 dvojic a 2 centrální), ne mikrofilamenta. Tenkostěnné buňky ztloustlé v rozích popisují kolenchym, sklerenchym má buňky se silně ztloustlými stěnami."
+    ],
+    "memory": "Bičík = mikrotubuly 9 + 2, kolenchym = rohy."
+  },
+  {
+    "id": 823,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 140 · str. 36",
+    "sourcePages": "36",
+    "sourceItem": "140",
+    "question": "Z jakých dělení sestává meióza?",
+    "options": [
+      "ze dvou následných redukčních dělení",
+      "ze dvou následných ekvačních dělení",
+      "z redukčního a ekvačního dělení",
+      "ze čtyř redukčních dělení, ekvační dělení probíhá jen před mitózou"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "První meiotické dělení je redukční, homologní chromozomy se rozejdou a počet chromozomů klesne na polovinu. Druhé je ekvační jako mitóza, rozcházejí se sesterské chromatidy."
+    ],
+    "memory": "Meióza I redukční, meióza II ekvační."
+  },
+  {
+    "id": 824,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 143 · str. 36",
+    "sourcePages": "36",
+    "sourceItem": "143",
+    "question": "Co platí o ribozomech?",
+    "options": [
+      "nacházejí se na drsném (granulárním) endoplazmatickém retikulu",
+      "jsou to organely, kde probíhá proteosyntéza",
+      "mají u prokaryot i eukaryot zcela shodnou stavbu, velikost i hmotnost",
+      "probíhá v nich přeměna tuků za účasti riboflavinu"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Ribozomy překládají mRNA na bílkoviny. Jsou volně v cytoplazmě nebo na drsném ER. Prokaryotní ribozomy jsou menší (70S) než eukaryotní (80S), proto na ně působí některá antibiotika. S přeměnou tuků nesouvisejí."
+    ],
+    "memory": "Ribozom = proteosyntéza, 70S × 80S."
+  },
+  {
+    "id": 825,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 144 · str. 36",
+    "sourcePages": "36",
+    "sourceItem": "144",
+    "question": "Co platí o zralém vajíčku (oocytu) u člověka?",
+    "options": [
+      "u žen po menopauze se už nevytváří",
+      "na rozdíl od spermie neobsahuje mitochondrie",
+      "vznikne až tehdy, když je sekundární oocyt oplozen spermií",
+      "je stejně velké jako spermie"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2
+    ],
+    "title": "Správně: A a C",
+    "paragraphs": [
+      "Po menopauze vajíčka nedozrávají. Sekundární oocyt dokončí druhé meiotické dělení až po průniku spermie, teprve pak vzniká zralé vajíčko. Oocyt má velmi mnoho mitochondrií (dítě dědí mitochondrie od matky) a je mnohonásobně větší než spermie."
+    ],
+    "memory": "Meióza II se v oocytu dokončí až po oplození."
+  },
+  {
+    "id": 826,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 145 · str. 36",
+    "sourcePages": "36",
+    "sourceItem": "145",
+    "question": "Co potřebují autotrofní organismy přijímat z okolí?",
+    "options": [
+      "organické látky",
+      "anorganické látky",
+      "vodu",
+      "ATP"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Autotrofní organismy si organické látky vyrábějí samy z anorganických (CO₂, minerální látky) a vody, zdrojem energie je světlo nebo chemické reakce. ATP si vytvářejí uvnitř buněk, z okolí ho nepřijímají."
+    ],
+    "memory": "Auto = sám si vyrobí organické látky."
+  },
+  {
+    "id": 827,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 146 · str. 37",
+    "sourcePages": "37",
+    "sourceItem": "146",
+    "question": "Co platí v anafázi mitózy lidské somatické buňky?",
+    "options": [
+      "v mateřské buňce je přítomno 92 chromatid",
+      "mikrotubuly vřeténka jsou připojeny k centromerám",
+      "znovu se vytváří jaderný obal a vznikají ohraničená dceřiná jádra",
+      "v buňce jsou dobře viditelná jadérka, která se v předchozí fázi rozdělila"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1
+    ],
+    "title": "Správně: A a B",
+    "paragraphs": [
+      "Lidská buňka má 46 chromozomů po dvou chromatidách, tedy 92 chromatid, které se v anafázi rozcházejí k pólům tahem mikrotubulů upnutých v centromerách. Jaderný obal a jadérka se obnovují až v telofázi."
+    ],
+    "memory": "46 × 2 = 92 chromatid v anafázi."
+  },
+  {
+    "id": 828,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 147 · str. 37",
+    "sourcePages": "37",
+    "sourceItem": "147",
+    "question": "Co platí o počtu 46 chromozomů?",
+    "options": [
+      "najdeme ho v lidském těle v každé buňce",
+      "je jen v buňkách žen, muži mají o jeden chromozom méně",
+      "je normálním počtem chromozomů každé živočišné somatické buňky",
+      "žádná z předchozích odpovědí není správná"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "46 chromozomů mají somatické buňky člověka obou pohlaví (ženy XX, muži XY). Gamety mají 23 a zralé erytrocyty žádné. Jiní živočichové mají jiné počty, například šimpanz 48, pes 78."
+    ],
+    "memory": "46 jen pro lidské somatické buňky, muži i ženy."
+  },
+  {
+    "id": 829,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 149 · str. 37",
+    "sourcePages": "37",
+    "sourceItem": "149",
+    "question": "Co najdeme v normálním sekundárním oocytu zdravé ženy?",
+    "options": [
+      "22 autozomů a jeden pohlavní chromozom, buď X, nebo Y",
+      "nemá mitochondrie, získá je po oplození ze spermie",
+      "22 autozomů a jeden chromozom X",
+      "46 chromozomů"
+    ],
+    "answer": 2,
+    "answers": [
+      2
+    ],
+    "title": "Správně: C",
+    "paragraphs": [
+      "Sekundární oocyt vzniká prvním meiotickým dělením, je haploidní: 22 autozomů a chromozom X (ženy chromozom Y nemají). Mitochondrie má, a právě ty dítě dědí."
+    ],
+    "memory": "Vajíčko vždy 22 + X."
+  },
+  {
+    "id": 830,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 151 · str. 38",
+    "sourcePages": "38",
+    "sourceItem": "151",
+    "question": "Čeho jsou v lidských buňkách mikrotubuly základní stavební složkou?",
+    "options": [
+      "centriolu",
+      "nukleozomů",
+      "bičíků",
+      "řasinek"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "title": "Správně: A, C a D",
+    "paragraphs": [
+      "Z mikrotubulů je centriol (9 trojic), bičík spermie i řasinky dýchacích cest (9 dvojic + 2). Nukleozom je DNA navinutá na histony."
+    ],
+    "memory": "Mikrotubuly: centriol, bičík, řasinka."
+  },
+  {
+    "id": 831,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 152 · str. 38",
+    "sourcePages": "38",
+    "sourceItem": "152",
+    "question": "Co je bazální lamina?",
+    "options": [
+      "membránový obal buněčného jádra",
+      "základní biomembrána, z níž jsou složeny všechny organely",
+      "vrstva intenzivně se dělících nediferencovaných buněk, z níž vzniká tkáň",
+      "jedna z forem mezibuněčné hmoty (extracelulární matrix)"
+    ],
+    "answer": 3,
+    "answers": [
+      3
+    ],
+    "title": "Správně: D",
+    "paragraphs": [
+      "Bazální lamina je tenká vrstva extracelulární matrix (kolagen IV, laminin) pod epitelem, na které epitelové buňky sedí. Není to membrána z lipidů ani vrstva buněk."
+    ],
+    "memory": "Bazální lamina = podložka epitelu z mezibuněčné hmoty."
+  },
+  {
+    "id": 832,
+    "subject": "Biologie",
+    "category": "Biologie · Buněčná biologie",
+    "bookRef": "UK · Biologie · Buněčná biologie · otázka 154 · str. 38",
+    "sourcePages": "38",
+    "sourceItem": "154",
+    "question": "Co platí o submetacentrickém chromozomu?",
+    "options": [
+      "má stejně dlouhá raménka p i q",
+      "má raménko p kratší než raménko q",
+      "vyskytuje se také v karyotypu člověka",
+      "je to označení pro velmi malý chromozom, který nelze vidět optickým mikroskopem"
+    ],
+    "answer": 1,
+    "answers": [
+      1,
+      2
+    ],
+    "title": "Správně: B a C",
+    "paragraphs": [
+      "Submetacentrický chromozom má centromeru mimo střed, proto je raménko p kratší než q. Takových je v lidském karyotypu většina. Stejně dlouhá raménka má metacentrický chromozom."
+    ],
+    "memory": "Sub = trochu mimo střed."
+  },
+  {
+    "id": 833,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 155 · str. 40",
+    "sourcePages": "40",
+    "sourceItem": "155",
+    "question": "Které děje jsou součástí replikace DNA?",
+    "options": [
+      "syntéza komplementárního řetězce řízená DNA-polymerázou",
+      "tvorba Okazakiho fragmentů, které spojuje DNA-ligáza",
+      "komplementární párování bází",
+      "rozvinutí mateřské dvoušroubovice DNA"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Helikáza rozvine dvoušroubovici, DNA-polymeráza podle párování bází syntetizuje nové řetězce. Opožďující se řetězec vzniká po kouscích (Okazakiho fragmenty), které spojí DNA-ligáza."
+    ],
+    "memory": "Rozvinout, párovat, polymerovat, slepit."
+  },
+  {
+    "id": 834,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 156 · str. 40",
+    "sourcePages": "40",
+    "sourceItem": "156",
+    "question": "Jaký přenos genetické informace postuluje centrální dogma molekulární biologie?",
+    "options": [
+      "z DNA do DNA při replikaci",
+      "z proteinů do DNA",
+      "z proteinů do polysacharidů",
+      "z DNA do RNA"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      3
+    ],
+    "title": "Správně: A a D",
+    "paragraphs": [
+      "Centrální dogma popisuje tok informace DNA → DNA (replikace), DNA → RNA (transkripce) a RNA → protein (translace). Z proteinu se informace zpět do nukleových kyselin nepřenáší a polysacharidy nejsou nositeli genetické informace."
+    ],
+    "memory": "DNA → RNA → protein, nikdy zpět z proteinu."
+  },
+  {
+    "id": 835,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 157 · str. 41",
+    "sourcePages": "41",
+    "sourceItem": "157",
+    "question": "Kde nacházíme kruhové molekuly DNA?",
+    "options": [
+      "v buňkách bakterií",
+      "u některých virů",
+      "v chloroplastech",
+      "v mitochondriích"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "title": "Správně: A, B, C a D",
+    "paragraphs": [
+      "Kruhovou DNA má bakteriální chromozom i plazmidy, mitochondrie a chloroplasty (připomínka jejich bakteriálního původu) a také některé viry, například papilomaviry nebo řada bakteriofágů. Jaderné chromozomy eukaryot jsou lineární."
+    ],
+    "memory": "Kruh = bakterie a z nich odvozené organely, i některé viry."
+  },
+  {
+    "id": 836,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 158 · str. 41",
+    "sourcePages": "41",
+    "sourceItem": "158",
+    "question": "Která pravidla platí ve dvoušroubovici DNA pro zastoupení bází (A adenin, G guanin, C cytosin, T thymin)?",
+    "options": [
+      "A + G = T + C",
+      "(A + G) / (T + C) = (A + C) / (G + T)",
+      "A + T = C + G",
+      "A + C = T + G"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      1,
+      3
+    ],
+    "title": "Správně: A, B a D",
+    "paragraphs": [
+      "Podle Chargaffových pravidel je A = T a G = C, protože se báze párují. Z toho plyne, že puriny se rovnají pyrimidinům (A + G = T + C), A + C = T + G a oba poměry v možnosti b jsou rovny jedné. Součet A + T se součtu C + G obecně nerovná, jeho podíl je pro druh charakteristický."
+    ],
+    "memory": "A = T, G = C, ale A + T ≠ G + C."
+  },
+  {
+    "id": 837,
+    "subject": "Biologie",
+    "category": "Biologie · Molekulární biologie",
+    "bookRef": "UK · Biologie · Molekulární biologie · otázka 160 · str. 41",
+    "sourcePages": "41",
+    "sourceItem": "160",
+    "question": "Kde probíhá translace u eukaryot?",
+    "options": [
+      "v cytoplazmě",
+      "uvnitř Golgiho komplexu",
+      "v chloroplastech",
+      "v mitochondriích"
+    ],
+    "answer": 0,
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "title": "Správně: A, C a D",
+    "paragraphs": [
+      "Translace probíhá na ribozomech v cytoplazmě (volných i na drsném ER). Vlastní ribozomy mají i mitochondrie a chloroplasty, které si část svých proteinů překládají samy. Golgiho komplex ribozomy nemá."
+    ],
+    "memory": "Translace = kde jsou ribozomy."
+  }
+]
