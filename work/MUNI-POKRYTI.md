@@ -176,6 +176,16 @@ Biologie, ID 476–500:
 - Evoluční biologie (str. 150–151): 4, 7, 8, 9, 11, 12. Vynecháno: 1 (3,5 mld. let, SOM 3), 2 (sapientace, pokrývá úloha 8), 3 a 5 (Darwin, přírodní výběr a vznik druhů, ČB 131), 6 (klíč „žádná“, stejná znalost jako Ekologie 15), 10 (zařazení neandertálce je sporné, Homo sapiens neanderthalensis i samostatný druh H. neanderthalensis).
 - Ekologie (str. 151–153): 1, 2, 4, 5, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17. Vynecháno: 3 (sporný klíč c „soubor populací“, odporuje úloze 14c, podle níž je biom celek ekosystémů se společnými znaky), 6 (zoocenóza, pojem vysvětlen v úloze 2), 11 (priony jsou bílkoviny, ne RNA, BIO 535).
 
-Dosud nepokryté oddíly: fyzika jaderná a kvantová 28, 32, 33, 36, 39, 41, 43, 47, 48, 54, 56, 59, 62–67, 69–71 (bez klíče), zbylé úlohy prvních kapitol; chemie Organická chemie od úlohy 40, Biochemie a zbylé úlohy prvních kapitol; biologie Životní funkce 10.
+## Dávka 501–550 (verze 2.64.0)
+
+Fyzika, Elementární částice, jaderná a kvantová fyzika (str. 56–58), ID 501–507: úlohy 39, 41, 47, 59, 69, 70, 71 (39, 41 a 59 s klíčem „žádná“ přeformulovány na správnou odpověď). Vyřazeny zbylé úlohy oddílu: 28 a 32 (v textu chybí), 33 (vzorec zákona, pokrývá 460), 36 (vazebná energie na nukleon, pokrývá 458), 43 (Bq, MUNI 464), 48 (rentgenové záření má rozsah 1 pm až 10 nm, dvě možnosti správné), 54, 63, 64, 67 (zadání poškozené), 56 (brzdné záření, 466 a 470), 62 a 65 (Compton a fotoefekt, 474 a 504), 66 (sporné, rozptyl měkkého RTG záření nedá UV). Oddíl je tím uzavřen.
+
+Chemie, ID 508–550:
+- Organická chemie: názvosloví a izomerie (str. 92): 40, 43.
+- Organická chemie: reakce a deriváty (str. 93–98): 50, 53, 54, 55, 56, 57, 58, 61, 62, 65, 66, 69, 70, 72, 73, 74, 76, 78, 80, 81, 82, 83, 85, 88, 89, 90, 93, 94, 99, 100, 103, 105, 106, 109, 112, 113, 114, 115, 116, 117, 118. Úlohy 56, 78, 90 a 117 s klíčem „žádná“ mají doplněnou správnou odpověď (ethylbenzen, hydrogenace, butan-1-ol, akrylová kyselina).
+
+Vynecháno z úloh 39–118: 39, 41 (tautomerie, UK 276 a 508), 42 (UK 424), 44 (varianta 509), 47 (varianta 450), 48, 49, 71 (vzorec jen jako obrázek), 51, 52 (elektrofil, UK 271), 59, 60 (naftalen a anthracen, varianty 516), 63 (klíč „žádná“, všechna činidla reagují), 64 (varianta 526), 67 (UK 332), 68 (chloroform, UK 317), 75 (naftol, UK 372), 77, 92 (benzaldehyd a benzylalkohol, UK 379 a 402), 79 (UK 367), 84 (UK 404), 86, 87 (chinony, UK 373), 91 (varianta 532), 95 (UK 361), 96 (UK 370), 97 (redukce ketonu, UK 404), 98 (acetaly, UK 365), 101 (UK 452), 102, 110, 111 (třídění aminů, 538–539), 104 (UK 272), 107 (UK 453), 108 (varianta 541).
+
+Dosud nepokryté oddíly: chemie Organická chemie od úlohy 119, Biochemie a zbylé úlohy prvních kapitol; biologie Životní funkce 10 (trypanozoma a tse-tse, LF MU 399, nejspíš vyřadit); zbylé úlohy prvních kapitol fyziky.
 
 Druhý soubor `877344967-LF-MU-Modelove-Otazky-New.pdf` je podle vlastníka (21. 11. 2026) stejná publikace jako hlavní soubor Mornstein a kol. Samostatně se nepokrývá; zdrojem kvízu LF MU je jen hlavní soubor.

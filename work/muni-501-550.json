@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 501,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 39 · str. 56",
+    "sourcePages": "56",
+    "sourceItem": "39",
+    "question": "Co znamená veličina t ve vztahu zákona radioaktivní přeměny N = N₀ · e^(−λt)?",
+    "options": [
+      "čas uplynulý od počátku sledování",
+      "poločas přeměny",
+      "teplotu zářiče",
+      "počet již přeměněných jader"
+    ],
+    "answer": 0,
+    "title": "čas uplynulý od počátku sledování",
+    "paragraphs": [
+      "N₀ je počet jader na počátku, N počet jader, která se dosud nepřeměnila v čase t. Poločas T se ze vztahu získá dosazením N = N₀/2."
+    ],
+    "memory": "t = čas, T = poločas."
+  },
+  {
+    "id": 502,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 41 · str. 56",
+    "sourcePages": "56",
+    "sourceItem": "41",
+    "question": "Co je podstatnou částí Geigerova-Müllerova počítače?",
+    "options": [
+      "komora s přesycenou párou kapaliny",
+      "trubice plněná plynem s elektrodami pod vysokým napětím",
+      "komora s přehřátou kapalinou, ve které vznikají bublinky",
+      "scintilační krystal s fotonásobičem"
+    ],
+    "answer": 1,
+    "title": "trubice plněná plynem s elektrodami pod vysokým napětím",
+    "paragraphs": [
+      "Ionizující částice vytvoří v plynu ionty a napětí mezi elektrodami vyvolá lavinový výboj, který se zaznamená jako impulz. Přesycenou páru má Wilsonova mlžná komora, přehřátou kapalinu bublinková komora."
+    ],
+    "memory": "GM = plyn + výboj = cvaknutí."
+  },
+  {
+    "id": 503,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 47 · str. 56",
+    "sourcePages": "56",
+    "sourceItem": "47",
+    "question": "Kdy má čas t ve vztahu N = N₀ · e^(−λt) hodnotu poločasu přeměny?",
+    "options": [
+      "když N = 2N₀",
+      "když N = N₀",
+      "když N = N₀/2",
+      "když N = 0"
+    ],
+    "answer": 2,
+    "title": "když N = N₀/2",
+    "paragraphs": [
+      "Poločas je doba, za kterou se přemění polovina jader. Z rovnice N₀/2 = N₀ · e^(−λT) plyne T = ln 2/λ."
+    ],
+    "memory": "Polovina zbývá = poločas."
+  },
+  {
+    "id": 504,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 59 · str. 58",
+    "sourcePages": "58",
+    "sourceItem": "59",
+    "question": "Co je podstatou fotoelektrického jevu?",
+    "options": [
+      "vznik světla při elektrickém výboji",
+      "přeměna elektrické energie ve světelnou",
+      "pohlcení fotonu protonem jádra",
+      "uvolňování elektronů z látky po pohlcení fotonů"
+    ],
+    "answer": 3,
+    "title": "uvolňování elektronů z látky po pohlcení fotonů",
+    "paragraphs": [
+      "Foton předá elektronu celou svou energii. Je-li větší než výstupní práce, elektron látku opustí a zbytek energie si odnese jako kinetickou. Opačný děj, vznik světla z elektrické energie, probíhá například ve svítivé diodě."
+    ],
+    "memory": "Foton dovnitř, elektron ven."
+  },
+  {
+    "id": 505,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 69 · str. 58",
+    "sourcePages": "58",
+    "sourceItem": "69",
+    "question": "Který prvek je založen na fotoelektrickém jevu?",
+    "options": [
+      "fotonka",
+      "klasická obrazovka",
+      "LCD displej",
+      "rentgenka"
+    ],
+    "answer": 0,
+    "title": "fotonka",
+    "paragraphs": [
+      "Ve fotonce dopadající světlo uvolňuje elektrony z fotokatody a obvodem začne procházet proud úměrný osvětlení. Obrazovka a rentgenka využívají elektrony uvolněné žhavením katody."
+    ],
+    "memory": "Fotonka = fotoefekt."
+  },
+  {
+    "id": 506,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 70 · str. 58",
+    "sourcePages": "58",
+    "sourceItem": "70",
+    "question": "Jaká je základní vlastnost laserového světla?",
+    "options": [
+      "vysoká energie jednotlivých fotonů",
+      "koherence a monochromatičnost",
+      "ničivé působení na pevnou látku",
+      "vždy úplná polarizace"
+    ],
+    "answer": 1,
+    "title": "koherence a monochromatičnost",
+    "paragraphs": [
+      "Fotony stimulované emise mají stejnou vlnovou délku, fázi i směr. Energie jednotlivého fotonu závisí jen na vlnové délce a není vyšší než u obyčejného světla téže barvy."
+    ],
+    "memory": "Laser = jedna barva, jedna fáze."
+  },
+  {
+    "id": 507,
+    "subject": "Fyzika",
+    "category": "Fyzika · Elementární částice, jaderná a kvantová fyzika",
+    "bookRef": "LF MU · Fyzika · Elementární částice, jaderná a kvantová fyzika 71 · str. 58",
+    "sourcePages": "58",
+    "sourceItem": "71",
+    "question": "Čím jsou urychlovány nabité částice v cyklotronu?",
+    "options": [
+      "periodicky se měnícím magnetickým polem",
+      "rychlým otáčením nádoby s nuklidem",
+      "periodicky se měnícím elektrickým polem",
+      "tlakem světelného záření"
+    ],
+    "answer": 2,
+    "title": "periodicky se měnícím elektrickým polem",
+    "paragraphs": [
+      "Stálé magnetické pole zakřivuje dráhu částic do spirály. Energii jim dodává střídavé elektrické pole v mezeře mezi duanty, které mění směr vždy po půlotáčce."
+    ],
+    "memory": "Magnet zatáčí, elektrické pole urychluje."
+  },
+  {
+    "id": 508,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: názvosloví a izomerie",
+    "bookRef": "LF MU · Chemie · Organická chemie: názvosloví a izomerie 40 · str. 92",
+    "sourcePages": "92",
+    "sourceItem": "40",
+    "question": "Která sloučenina je tautomerní formou CH₃−CH=CH−OH?",
+    "options": [
+      "aceton",
+      "acetaldehyd",
+      "kyselina propenová",
+      "propanal"
+    ],
+    "answer": 3,
+    "title": "propanal",
+    "paragraphs": [
+      "Enol prop-1-en-1-ol se přesunem vodíku z kyslíku na uhlík a dvojné vazby z C=C na C=O mění na aldehyd CH₃−CH₂−CHO. Rovnováha je silně posunuta ke karbonylové formě."
+    ],
+    "memory": "Enol ⇌ karbonyl."
+  },
+  {
+    "id": 509,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: názvosloví a izomerie",
+    "bookRef": "LF MU · Chemie · Organická chemie: názvosloví a izomerie 43 · str. 92",
+    "sourcePages": "92",
+    "sourceItem": "43",
+    "question": "Čím se od sebe liší enantiomery určité sloučeniny?",
+    "options": [
+      "smyslem otáčení roviny polarizovaného světla",
+      "teplotou tání a teplotou varu",
+      "molekulovou hmotností",
+      "konstitucí molekuly"
+    ],
+    "answer": 0,
+    "title": "smyslem otáčení roviny polarizovaného světla",
+    "paragraphs": [
+      "Enantiomery jsou zrcadlové obrazy se stejnou konstitucí i fyzikálními vlastnostmi. Liší se jen směrem otáčení roviny polarizovaného světla a chováním vůči jiným chirálním látkám, například enzymům."
+    ],
+    "memory": "Zrcadlové dvojče: jen opačná rotace."
+  },
+  {
+    "id": 510,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 50 · str. 93",
+    "sourcePages": "93",
+    "sourceItem": "50",
+    "question": "Jaké částice vznikají z organické sloučeniny při heterolytickém štěpení kovalentní vazby?",
+    "options": [
+      "jen anionty",
+      "anion a kation",
+      "radikály",
+      "jen kationty"
+    ],
+    "answer": 1,
+    "title": "anion a kation",
+    "paragraphs": [
+      "Při heterolýze si oba vazebné elektrony odnese jeden z atomů a vznikne anion, druhý atom zůstane jako kation. Homolytické štěpení, kdy si každý atom vezme jeden elektron, dává radikály."
+    ],
+    "memory": "Hetero = ionty, homo = radikály."
+  },
+  {
+    "id": 511,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 53 · str. 93",
+    "sourcePages": "93",
+    "sourceItem": "53",
+    "question": "Čím jsou charakterizována nukleofilní činidla?",
+    "options": [
+      "neobsazeným valenčním orbitalem",
+      "kladným nábojem",
+      "nevazebným elektronovým párem",
+      "nepárovým elektronem"
+    ],
+    "answer": 2,
+    "title": "nevazebným elektronovým párem",
+    "paragraphs": [
+      "Nukleofil (například OH⁻, NH₃, H₂O) poskytuje elektronový pár místu s nedostatkem elektronů. Neobsazený orbital má naopak elektrofil a nepárový elektron radikál."
+    ],
+    "memory": "Nukleofil dává pár."
+  },
+  {
+    "id": 512,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 54 · str. 93",
+    "sourcePages": "93",
+    "sourceItem": "54",
+    "question": "Kolik nevazebných elektronových párů má ve valenční sféře kyslík v anionu OH⁻?",
+    "options": [
+      "4",
+      "2",
+      "1",
+      "3"
+    ],
+    "answer": 3,
+    "title": "3",
+    "paragraphs": [
+      "Kyslík má 6 valenčních elektronů, s přijatým elektronem 8. Dva tvoří vazbu s vodíkem a zbylých šest tvoří tři nevazebné páry."
+    ],
+    "memory": "OH⁻: 1 vazba + 3 volné páry."
+  },
+  {
+    "id": 513,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 55 · str. 93",
+    "sourcePages": "93",
+    "sourceItem": "55",
+    "question": "Jaký sumární vzorec má styren?",
+    "options": [
+      "C₈H₈",
+      "C₈H₁₀",
+      "C₈H₁₂",
+      "C₈H₁₄"
+    ],
+    "answer": 0,
+    "title": "C₈H₈",
+    "paragraphs": [
+      "Styren (vinylbenzen) C₆H₅−CH=CH₂ obsahuje fenyl C₆H₅ a vinyl C₂H₃. C₈H₁₀ je ethylbenzen nebo xylen."
+    ],
+    "memory": "Styren = fenyl + vinyl."
+  },
+  {
+    "id": 514,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 56 · str. 93",
+    "sourcePages": "93",
+    "sourceItem": "56",
+    "question": "Ze kterého uhlovodíku se styren připravuje katalytickou dehydrogenací?",
+    "options": [
+      "z toluenu",
+      "z ethylbenzenu",
+      "z xylenu",
+      "z polystyrenu"
+    ],
+    "answer": 1,
+    "title": "z ethylbenzenu",
+    "paragraphs": [
+      "Odštěpením dvou atomů vodíku z ethylové skupiny C₆H₅−CH₂−CH₃ vznikne vinylová skupina styrenu. Toluen a xyleny mají jen methylové skupiny, polystyren je naopak produkt polymerace styrenu."
+    ],
+    "memory": "Ethylbenzen − H₂ = styren."
+  },
+  {
+    "id": 515,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 57 · str. 93",
+    "sourcePages": "93",
+    "sourceItem": "57",
+    "question": "Jaký sumární vzorec má difenylmethan?",
+    "options": [
+      "C₁₃H₁₂O₂",
+      "C₁₅H₁₆",
+      "C₁₃H₁₂",
+      "C₁₃H₂₄"
+    ],
+    "answer": 2,
+    "title": "C₁₃H₁₂",
+    "paragraphs": [
+      "(C₆H₅)₂CH₂ obsahuje dva fenyly (2 · C₆H₅) a skupinu CH₂, celkem 13 uhlíků a 12 vodíků."
+    ],
+    "memory": "2 × C₆H₅ + CH₂."
+  },
+  {
+    "id": 516,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 58 · str. 93",
+    "sourcePages": "93",
+    "sourceItem": "58",
+    "question": "Jaký sumární vzorec má fenanthren?",
+    "options": [
+      "C₁₀H₈",
+      "C₁₄H₁₂",
+      "C₁₈H₁₄",
+      "C₁₄H₁₀"
+    ],
+    "answer": 3,
+    "title": "C₁₄H₁₀",
+    "paragraphs": [
+      "Fenanthren i jeho izomer anthracen jsou tvořeny třemi kondenzovanými benzenovými jádry a mají vzorec C₁₄H₁₀. C₁₀H₈ je naftalen se dvěma jádry."
+    ],
+    "memory": "Tři jádra = C₁₄H₁₀."
+  },
+  {
+    "id": 517,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 61 · str. 94",
+    "sourcePages": "94",
+    "sourceItem": "61",
+    "question": "Jaký sumární vzorec má steran?",
+    "options": [
+      "C₁₇H₂₈",
+      "C₁₇H₁₄",
+      "C₁₇H₁₀",
+      "C₁₇H₂₄"
+    ],
+    "answer": 0,
+    "title": "C₁₇H₂₈",
+    "paragraphs": [
+      "Steran je nasycený tetracyklický uhlovodík se 17 uhlíky. Pro CₙH₂ₙ₊₂ by měl 36 vodíků, každý ze čtyř kruhů ubírá dva, tedy 36 − 8 = 28."
+    ],
+    "memory": "Každý kruh − 2 H."
+  },
+  {
+    "id": 518,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 62 · str. 94",
+    "sourcePages": "94",
+    "sourceItem": "62",
+    "question": "Jaký sumární vzorec má cyklohexa-1,3-dien?",
+    "options": [
+      "C₆H₁₀",
+      "C₆H₈",
+      "C₆H₁₂",
+      "C₆H₁₄"
+    ],
+    "answer": 1,
+    "title": "C₆H₈",
+    "paragraphs": [
+      "Cyklohexan má vzorec C₆H₁₂ a každá dvojná vazba ubírá dva vodíky. Dvě dvojné vazby dávají C₆H₈, cyklohexen je C₆H₁₀."
+    ],
+    "memory": "Dien = − 4 H."
+  },
+  {
+    "id": 519,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 65 · str. 94",
+    "sourcePages": "94",
+    "sourceItem": "65",
+    "question": "Co vzniká reakcí but-1-enu s chlorovodíkem?",
+    "options": [
+      "1-chlorbutan",
+      "1,2-dichlorbutan",
+      "2-chlorbutan",
+      "isobutylchlorid"
+    ],
+    "answer": 2,
+    "title": "2-chlorbutan",
+    "paragraphs": [
+      "Podle Markovnikovova pravidla se vodík aduje na uhlík dvojné vazby s více vodíky (C1) a chlor na sousední uhlík (C2). Vznikne CH₃−CHCl−CH₂−CH₃."
+    ],
+    "memory": "Vodík k vodíkům (Markovnikov)."
+  },
+  {
+    "id": 520,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 66 · str. 94",
+    "sourcePages": "94",
+    "sourceItem": "66",
+    "question": "Která reakce je zvláště typická pro toluen?",
+    "options": [
+      "eliminace",
+      "adice",
+      "polymerace",
+      "substituce"
+    ],
+    "answer": 3,
+    "title": "substituce",
+    "paragraphs": [
+      "Aromatické jádro je stabilní, proto u něj probíhají hlavně elektrofilní substituce, například nitrace nebo halogenace, při kterých se aromatický systém zachová. Adice jsou typické pro alkeny."
+    ],
+    "memory": "Areny substituují, alkeny adují."
+  },
+  {
+    "id": 521,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 69 · str. 94",
+    "sourcePages": "94",
+    "sourceItem": "69",
+    "question": "Adicí HCl na kterou látku se připravuje chloropren, surovina chloroprenového kaučuku?",
+    "options": [
+      "but-1-en-3-yn (vinylacetylen)",
+      "buta-1,3-dien",
+      "but-2-yn",
+      "isopren"
+    ],
+    "answer": 0,
+    "title": "but-1-en-3-yn (vinylacetylen)",
+    "paragraphs": [
+      "CH₂=CH−C≡CH aduje chlorovodík na trojnou vazbu a vznikne 2-chlorbuta-1,3-dien CH₂=CCl−CH=CH₂. Ten se polymeruje na neopren."
+    ],
+    "memory": "Vinylacetylen + HCl = chloropren."
+  },
+  {
+    "id": 522,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 70 · str. 94",
+    "sourcePages": "94",
+    "sourceItem": "70",
+    "question": "Které tvrzení o freonech není správné?",
+    "options": [
+      "patří mezi chlorfluoralkany",
+      "jsou nebezpečné tím, že uvolňují atomy fluoru",
+      "ultrafialovým zářením se rozkládají a poškozují ozonovou vrstvu",
+      "jsou nehořlavé těkavé kapaliny nebo snadno zkapalnitelné plyny"
+    ],
+    "answer": 1,
+    "title": "jsou nebezpečné tím, že uvolňují atomy fluoru",
+    "paragraphs": [
+      "Ve stratosféře uvolňuje UV záření z freonů atomy chloru, které katalyticky rozkládají ozon. Vazba C−F je velmi pevná a fluor se neuvolňuje."
+    ],
+    "memory": "Ozon ničí chlor z freonů."
+  },
+  {
+    "id": 523,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 72 · str. 94",
+    "sourcePages": "94",
+    "sourceItem": "72",
+    "question": "Molekuly které sloučeniny jsou podstatně méně polární než molekuly ostatních?",
+    "options": [
+      "benzen-1,2-diol",
+      "benzaldehyd",
+      "cyklohexen",
+      "anilin"
+    ],
+    "answer": 2,
+    "title": "cyklohexen",
+    "paragraphs": [
+      "Cyklohexen je uhlovodík bez polárních skupin. Ostatní látky obsahují kyslík nebo dusík ve skupinách −OH, −CHO nebo −NH₂, které molekule dávají polaritu."
+    ],
+    "memory": "Uhlovodík = nepolární."
+  },
+  {
+    "id": 524,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 73 · str. 94",
+    "sourcePages": "94",
+    "sourceItem": "73",
+    "question": "Do které skupiny látek patří sloučenina HO−CH₂−CH₂−CH₂−OH?",
+    "options": [
+      "sekundární alkoholy",
+      "alkoholáty",
+      "cukerné alkoholy",
+      "primární alkoholy"
+    ],
+    "answer": 3,
+    "title": "primární alkoholy",
+    "paragraphs": [
+      "Propan-1,3-diol má obě skupiny −OH na koncových uhlících, které jsou vázány jen na jeden další uhlík. Je to dvojsytný primární alkohol. Cukerné alkoholy vznikají redukcí sacharidů a mají −OH na každém uhlíku."
+    ],
+    "memory": "−CH₂OH = primární."
+  },
+  {
+    "id": 525,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 74 · str. 95",
+    "sourcePages": "95",
+    "sourceItem": "74",
+    "question": "Která z uvedených sloučenin je sekundární alkohol?",
+    "options": [
+      "pentan-3-ol",
+      "ethylenglykol",
+      "2-methylpropan-2-ol",
+      "ethanol"
+    ],
+    "answer": 0,
+    "title": "pentan-3-ol",
+    "paragraphs": [
+      "V pentan-3-olu nese skupinu −OH prostřední uhlík vázaný na dva další uhlíky. Ethanol a ethylenglykol jsou primární, 2-methylpropan-2-ol terciární alkohol."
+    ],
+    "memory": "Uhlík s OH má dva sousedy = sekundární."
+  },
+  {
+    "id": 526,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 76 · str. 95",
+    "sourcePages": "95",
+    "sourceItem": "76",
+    "question": "Hydratací které látky lze připravit cyklohexanol?",
+    "options": [
+      "fenolu",
+      "cyklohexenu",
+      "benzylalkoholu",
+      "cyklohexanonu"
+    ],
+    "answer": 1,
+    "title": "cyklohexenu",
+    "paragraphs": [
+      "Adicí vody na dvojnou vazbu cyklohexenu vznikne cyklohexanol. Z fenolu a cyklohexanonu se cyklohexanol získává hydrogenací, tedy adicí vodíku."
+    ],
+    "memory": "Alken + H₂O = alkohol."
+  },
+  {
+    "id": 527,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 78 · str. 95",
+    "sourcePages": "95",
+    "sourceItem": "78",
+    "question": "O jaký typ reakce jde při přeměně fenolu na cyklohexanol?",
+    "options": [
+      "o hydrataci",
+      "o dehydrataci",
+      "o hydrogenaci",
+      "o dehydrogenaci"
+    ],
+    "answer": 2,
+    "title": "o hydrogenaci",
+    "paragraphs": [
+      "Na aromatický kruh fenolu se adují tři molekuly vodíku: C₆H₅OH + 3 H₂ → C₆H₁₁OH. Počet atomů kyslíku se nemění, voda se tedy neaduje ani neodštěpuje."
+    ],
+    "memory": "Fenol + 3 H₂ = cyklohexanol."
+  },
+  {
+    "id": 528,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 80 · str. 95",
+    "sourcePages": "95",
+    "sourceItem": "80",
+    "question": "Která sloučenina nevzniká z ethanolu v přítomnosti kyseliny sírové?",
+    "options": [
+      "diethylether",
+      "ethen",
+      "ethyl-hydrogensulfát",
+      "ethylenoxid"
+    ],
+    "answer": 3,
+    "title": "ethylenoxid",
+    "paragraphs": [
+      "Kyselina sírová odnímá vodu: za vyšší teploty vzniká ethen, za nižší diethylether a ethanol se s ní také esterifikuje. Ethylenoxid se připravuje oxidací ethenu."
+    ],
+    "memory": "H₂SO₄ + ethanol: ether, ethen, ester."
+  },
+  {
+    "id": 529,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 81 · str. 95",
+    "sourcePages": "95",
+    "sourceItem": "81",
+    "question": "Co nejspíše vznikne působením kyseliny dusičné na glycerol?",
+    "options": [
+      "ester glycerolu",
+      "sůl glycerolu",
+      "nitroacetal",
+      "3-nitropropan-1,2-diol"
+    ],
+    "answer": 0,
+    "title": "ester glycerolu",
+    "paragraphs": [
+      "Kyselina dusičná esterifikuje skupiny −OH a vznikne glyceroltrinitrát, chybně nazývaný nitroglycerin. Dusík je vázán přes kyslík (−O−NO₂), nejde o nitrosloučeninu s vazbou C−N."
+    ],
+    "memory": "„Nitroglycerin“ je ester."
+  },
+  {
+    "id": 530,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 82 · str. 95",
+    "sourcePages": "95",
+    "sourceItem": "82",
+    "question": "Která látka zvýší rozpustnost fenolu ve vodě?",
+    "options": [
+      "NaCl",
+      "NaOH",
+      "CO₂",
+      "kyselina octová"
+    ],
+    "answer": 1,
+    "title": "NaOH",
+    "paragraphs": [
+      "Fenol je slabá kyselina a s hydroxidem sodným tvoří iontový fenolát sodný, který je dobře rozpustný. Oxid uhličitý a kyselina octová jsou kyseliny a fenol z fenolátu naopak vytěsňují."
+    ],
+    "memory": "Fenol + NaOH = rozpustný fenolát."
+  },
+  {
+    "id": 531,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 83 · str. 95",
+    "sourcePages": "95",
+    "sourceItem": "83",
+    "question": "Kolik uhlíkových atomů obsahuje molekula benzylalkoholu?",
+    "options": [
+      "6",
+      "8",
+      "7",
+      "9"
+    ],
+    "answer": 2,
+    "title": "7",
+    "paragraphs": [
+      "Benzylalkohol C₆H₅−CH₂−OH má šest uhlíků benzenového jádra a jeden uhlík skupiny CH₂."
+    ],
+    "memory": "Benzyl = C₆H₅CH₂, 7 C."
+  },
+  {
+    "id": 532,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 85 · str. 95",
+    "sourcePages": "95",
+    "sourceItem": "85",
+    "question": "Co vzniká mírnou oxidací glycerolu?",
+    "options": [
+      "kyselina 3-hydroxypropanová",
+      "aceton",
+      "kyselina mléčná",
+      "2,3-dihydroxypropanal (glyceraldehyd)"
+    ],
+    "answer": 3,
+    "title": "2,3-dihydroxypropanal (glyceraldehyd)",
+    "paragraphs": [
+      "Oxidací primární skupiny −CH₂OH glycerolu vznikne aldehyd, glyceraldehyd. Oxidací sekundární skupiny by vznikl dihydroxyaceton. Obě látky jsou nejjednodušší monosacharidy (triózy)."
+    ],
+    "memory": "Glycerol → trióza."
+  },
+  {
+    "id": 533,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 88 · str. 95",
+    "sourcePages": "95",
+    "sourceItem": "88",
+    "question": "K čemu se používá sloučenina HO−CH₂−CH₂−OH?",
+    "options": [
+      "jako prostředek proti zamrznutí vodných roztoků",
+      "jako potravinářský alkohol",
+      "k vysušování organických rozpouštědel",
+      "jako inhalační anestetikum"
+    ],
+    "answer": 0,
+    "title": "jako prostředek proti zamrznutí vodných roztoků",
+    "paragraphs": [
+      "Ethylenglykol se mísí s vodou a výrazně snižuje její teplotu tuhnutí, proto je základem nemrznoucích směsí do chladičů. Je jedovatý, v těle se mění na kyselinu šťavelovou."
+    ],
+    "memory": "Ethylenglykol = Fridex."
+  },
+  {
+    "id": 534,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 89 · str. 96",
+    "sourcePages": "96",
+    "sourceItem": "89",
+    "question": "K čemu se historicky používala sloučenina CH₃CH₂−O−CH₂CH₃?",
+    "options": [
+      "jako prostředek proti zamrznutí",
+      "jako inhalační anestetikum",
+      "jako pohonná hmota pro motory",
+      "jako dezinfekční prostředek"
+    ],
+    "answer": 1,
+    "title": "jako inhalační anestetikum",
+    "paragraphs": [
+      "Diethylether, lidově éter, byl od 19. století jedním z prvních celkových narkotik podávaných vdechováním. Pro hořlavost a dráždivost se dnes nepoužívá."
+    ],
+    "memory": "Éter = první narkóza."
+  },
+  {
+    "id": 535,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 90 · str. 96",
+    "sourcePages": "96",
+    "sourceItem": "90",
+    "question": "Co vzniká redukcí butyraldehydu (butanalu)?",
+    "options": [
+      "butan-2-ol",
+      "kyselina máselná",
+      "butan-1-ol",
+      "butanon"
+    ],
+    "answer": 2,
+    "title": "butan-1-ol",
+    "paragraphs": [
+      "Redukcí aldehydové skupiny −CHO vzniká primární alkohol −CH₂OH na stejném uhlíku. Oxidací butanalu by vznikla kyselina máselná."
+    ],
+    "memory": "Aldehyd + H₂ = primární alkohol."
+  },
+  {
+    "id": 536,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 93 · str. 96",
+    "sourcePages": "96",
+    "sourceItem": "93",
+    "question": "Které dva produkty vznikají hydrolýzou sloučeniny (CH₃)₂C(OCH₃)₂?",
+    "options": [
+      "dimethylether a propan-2-ol",
+      "methan a dimethylether",
+      "propan a formaldehyd",
+      "methanol a aceton"
+    ],
+    "answer": 3,
+    "title": "methanol a aceton",
+    "paragraphs": [
+      "2,2-Dimethoxypropan je acetal acetonu (ketal). Hydrolýzou se rozpadá zpět na karbonylovou sloučeninu, aceton, a alkohol, ze kterého vznikl, methanol."
+    ],
+    "memory": "Acetal + voda = karbonyl + alkohol."
+  },
+  {
+    "id": 537,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 94 · str. 96",
+    "sourcePages": "96",
+    "sourceItem": "94",
+    "question": "Kterou z uvedených látek lze nejsnadněji oxidovat již za velmi mírných podmínek?",
+    "options": [
+      "CH₃CH₂CH₂−CHO",
+      "CH₃CH₂−O−CH₂CH₃",
+      "(CH₃)₂C(OCH₃)₂",
+      "CH₃CH₂−CO−CH₂CH₃"
+    ],
+    "answer": 0,
+    "title": "CH₃CH₂CH₂−CHO",
+    "paragraphs": [
+      "Aldehydy mají na karbonylovém uhlíku vodík a snadno se oxidují na karboxylové kyseliny, proto redukují Fehlingovo i Tollensovo činidlo. Ketony, ethery a acetaly jsou vůči mírné oxidaci stálé."
+    ],
+    "memory": "Aldehyd = snadno oxidovatelný."
+  },
+  {
+    "id": 538,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 99 · str. 96",
+    "sourcePages": "96",
+    "sourceItem": "99",
+    "question": "Do které skupiny látek patří ethylendiamin H₂N−CH₂−CH₂−NH₂?",
+    "options": [
+      "sekundární aminy",
+      "primární aminy",
+      "terciární aminy",
+      "amidy"
+    ],
+    "answer": 1,
+    "title": "primární aminy",
+    "paragraphs": [
+      "Každý atom dusíku nese dva vodíky a je vázán jen na jeden uhlík, obě aminoskupiny jsou primární. Na počet aminoskupin v molekule se zařazení nevztahuje."
+    ],
+    "memory": "NH₂ = primární."
+  },
+  {
+    "id": 539,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 100 · str. 96",
+    "sourcePages": "96",
+    "sourceItem": "100",
+    "question": "Do které skupiny látek patří dimethylamin?",
+    "options": [
+      "primární aminy",
+      "diaminy",
+      "sekundární aminy",
+      "amidy"
+    ],
+    "answer": 2,
+    "title": "sekundární aminy",
+    "paragraphs": [
+      "V (CH₃)₂NH jsou na dusík vázány dvě methylové skupiny a jeden vodík. Pojem „di“ se tu týká počtu alkylů, nikoli aminoskupin."
+    ],
+    "memory": "Dva alkyly na N = sekundární."
+  },
+  {
+    "id": 540,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 103 · str. 96",
+    "sourcePages": "96",
+    "sourceItem": "103",
+    "question": "Která z uvedených skupin je bazická?",
+    "options": [
+      "sulfanylová skupina",
+      "amidová skupina",
+      "aromatický kruh",
+      "karboxylátový ion"
+    ],
+    "answer": 3,
+    "title": "karboxylátový ion",
+    "paragraphs": [
+      "Karboxylátový anion −COO⁻ je konjugovanou bází karboxylové kyseliny a může přijmout proton. Amidová skupina je díky konjugaci s karbonylem prakticky neutrální."
+    ],
+    "memory": "Anion kyseliny = báze."
+  },
+  {
+    "id": 541,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 105 · str. 97",
+    "sourcePages": "97",
+    "sourceItem": "105",
+    "question": "Kterou sloučeninu by bylo možné použít k neutralizaci vodného roztoku NaOH?",
+    "options": [
+      "C₂H₅−NH₃⁺ Cl⁻",
+      "CH₃−S−S−CH₃",
+      "CH₃−OH",
+      "CH₃−NH₂"
+    ],
+    "answer": 0,
+    "title": "C₂H₅−NH₃⁺ Cl⁻",
+    "paragraphs": [
+      "Ethylamonium-chlorid obsahuje kation C₂H₅NH₃⁺, který je slabou kyselinou a předá proton hydroxidovému aniontu. Methylamin je naopak báze, methanol a disulfid jsou prakticky neutrální."
+    ],
+    "memory": "Amoniová sůl = slabá kyselina."
+  },
+  {
+    "id": 542,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 106 · str. 97",
+    "sourcePages": "97",
+    "sourceItem": "106",
+    "question": "Která látka poskytne s HCl stabilní produkt (sůl)?",
+    "options": [
+      "kyanovodík",
+      "anilin",
+      "acetamid",
+      "benzen"
+    ],
+    "answer": 1,
+    "title": "anilin",
+    "paragraphs": [
+      "Anilin je slabá báze. Volný pár na dusíku přijme proton a vznikne anilinium-chlorid C₆H₅NH₃⁺ Cl⁻. Amidy mají volný pár delokalizovaný na karbonyl a soli s HCl netvoří stálé."
+    ],
+    "memory": "Amin + HCl = amoniová sůl."
+  },
+  {
+    "id": 543,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 109 · str. 97",
+    "sourcePages": "97",
+    "sourceItem": "109",
+    "question": "Co je benzylamin?",
+    "options": [
+      "synonymum anilinu",
+      "synonymum fenylaminu",
+      "alifatický amin",
+      "amid kyseliny benzoové"
+    ],
+    "answer": 2,
+    "title": "alifatický amin",
+    "paragraphs": [
+      "V C₆H₅−CH₂−NH₂ je aminoskupina vázána na uhlík CH₂, nikoli přímo na aromatické jádro, proto jde o amin alifatický. Anilin (fenylamin, benzenamin) má NH₂ přímo na jádře."
+    ],
+    "memory": "Benzyl odděluje NH₂ od jádra."
+  },
+  {
+    "id": 544,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 112 · str. 97",
+    "sourcePages": "97",
+    "sourceItem": "112",
+    "question": "Který vzorec patří nitrosloučenině?",
+    "options": [
+      "C₆H₅−O−NO₂",
+      "C₆H₅−O−N=O",
+      "C₆H₅−N=O",
+      "C₆H₅−NO₂"
+    ],
+    "answer": 3,
+    "title": "C₆H₅−NO₂",
+    "paragraphs": [
+      "Nitrosloučeniny mají skupinu −NO₂ vázanou dusíkem přímo na uhlík. C₆H₅−O−NO₂ je ester kyseliny dusičné, C₆H₅−O−N=O ester kyseliny dusité a C₆H₅−N=O nitrososloučenina."
+    ],
+    "memory": "Nitro: C−NO₂ přímo."
+  },
+  {
+    "id": 545,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 113 · str. 97",
+    "sourcePages": "97",
+    "sourceItem": "113",
+    "question": "Co může vzniknout redukcí nitrobenzenu?",
+    "options": [
+      "anilin",
+      "benzylamin",
+      "fenol",
+      "benzylnitrit"
+    ],
+    "answer": 0,
+    "title": "anilin",
+    "paragraphs": [
+      "Redukcí skupiny −NO₂ (například vodíkem nebo železem v kyselině) vznikne aminoskupina −NH₂ a z nitrobenzenu anilin. Tak se anilin vyrábí průmyslově."
+    ],
+    "memory": "Nitrobenzen → anilin."
+  },
+  {
+    "id": 546,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 114 · str. 97",
+    "sourcePages": "97",
+    "sourceItem": "114",
+    "question": "Co je diazotace?",
+    "options": [
+      "štěpení diazoniových solí na fenol a dusík",
+      "reakce primárních aromatických aminů s kyselinou dusitou za vzniku reaktivních solí",
+      "kopulace aromatických aminů s fenoly za vzniku azobarviv",
+      "reakce karbonylových sloučenin s hydraziny"
+    ],
+    "answer": 1,
+    "title": "reakce primárních aromatických aminů s kyselinou dusitou za vzniku reaktivních solí",
+    "paragraphs": [
+      "Za chladu reaguje například anilin s HNO₂ na benzendiazonium-chlorid. Diazoniové soli se pak kopulací s fenoly nebo aminy mění na azobarviva."
+    ],
+    "memory": "Amin + HNO₂ = diazoniová sůl."
+  },
+  {
+    "id": 547,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 115 · str. 97",
+    "sourcePages": "97",
+    "sourceItem": "115",
+    "question": "Které seskupení atomů charakterizuje azosloučeniny?",
+    "options": [
+      "−N⁺≡N",
+      "−N=O",
+      "−N=N−",
+      "−NH−NH₂"
+    ],
+    "answer": 2,
+    "title": "−N=N−",
+    "paragraphs": [
+      "V azosloučeninách spojuje skupina −N=N− dva uhlíkaté zbytky, často aromatické, jako v azobarvivech. −N⁺≡N je diazoniová skupina, −N=O nitrososkupina a −NH−NH₂ hydrazinová skupina."
+    ],
+    "memory": "Azo = −N=N−."
+  },
+  {
+    "id": 548,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 116 · str. 97",
+    "sourcePages": "97",
+    "sourceItem": "116",
+    "question": "Která z uvedených sloučenin je karboxylová kyselina?",
+    "options": [
+      "kyselina močová",
+      "kyselina askorbová",
+      "kyselina pikrová",
+      "kyselina ftalová"
+    ],
+    "answer": 3,
+    "title": "kyselina ftalová",
+    "paragraphs": [
+      "Kyselina ftalová (benzen-1,2-dikarboxylová) má dvě skupiny −COOH. Kyselina močová je purinový derivát, askorbová kyselina je lakton s endiolovou skupinou a pikrová kyselina je trinitrofenol."
+    ],
+    "memory": "Název „kyselina“ neznamená vždy −COOH."
+  },
+  {
+    "id": 549,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 117 · str. 98",
+    "sourcePages": "98",
+    "sourceItem": "117",
+    "question": "Která kyselina patří mezi alkenové (nenasycené) karboxylové kyseliny?",
+    "options": [
+      "kyselina akrylová (propenová)",
+      "kyselina pyrohroznová",
+      "kyselina citronová",
+      "kyselina acetoctová"
+    ],
+    "answer": 0,
+    "title": "kyselina akrylová (propenová)",
+    "paragraphs": [
+      "Kyselina akrylová CH₂=CH−COOH má v řetězci dvojnou vazbu C=C. Pyrohroznová a acetoctová kyselina jsou oxokyseliny s vazbou C=O, citronová kyselina je hydroxykyselina."
+    ],
+    "memory": "Akrylová = propenová."
+  },
+  {
+    "id": 550,
+    "subject": "Chemie",
+    "category": "Chemie · Organická chemie: reakce a deriváty",
+    "bookRef": "LF MU · Chemie · Organická chemie: reakce a deriváty 118 · str. 98",
+    "sourcePages": "98",
+    "sourceItem": "118",
+    "question": "Co je produktem dekarboxylace vyšší mastné kyseliny?",
+    "options": [
+      "kyselina s řetězcem kratším o atom uhlíku",
+      "alkan s řetězcem kratším o atom uhlíku",
+      "nenasycený uhlovodík kratší o atom uhlíku",
+      "acyl původní kyseliny"
+    ],
+    "answer": 1,
+    "title": "alkan s řetězcem kratším o atom uhlíku",
+    "paragraphs": [
+      "Dekarboxylací se odštěpí CO₂ ze skupiny −COOH a na jejím místě zůstane vodík: R−COOH → R−H + CO₂. Z nasycené kyseliny tak vznikne alkan s o jeden uhlík kratším řetězcem."
+    ],
+    "memory": "−COOH → −H + CO₂."
+  }
+]
